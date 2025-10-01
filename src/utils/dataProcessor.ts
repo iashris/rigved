@@ -131,6 +131,6 @@ export function searchWord(
     mandalaCounts,
     mandalaPercentages,
     mandalaSizes,
-    matches: matches.slice(0, 100) // Limit to first 100 matches for performance
+    matches: matches // Return all matches
   };
 }

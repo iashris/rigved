@@ -5,6 +5,7 @@ export interface Verse {
   hymn: number;
   verse: number;
   chronologicalPosition?: number;
+  meaning?: string;
 }
 
 export interface SearchResult {

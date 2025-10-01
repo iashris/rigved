@@ -1,9 +1,44 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { ChevronDown, ChevronUp } from 'lucide-react';
 import type { SearchResult } from '../types';
 
 interface ResultsDisplayProps {
   results: SearchResult[];
+}
+
+function highlightMatches(text: string, searchWord: string): React.ReactElement {
+  // Normalize the search word for matching
+  const normalizeText = (str: string) => str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const normalizedSearchWord = normalizeText(searchWord);
+
+  // Split text but preserve the original characters
+  const parts: React.ReactElement[] = [];
+  let lastIndex = 0;
+  let match;
+
+  // Find matches in normalized text but extract from original text
+  const normalizedText = normalizeText(text);
+  const matchRegex = new RegExp(`\\b${normalizedSearchWord.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi');
+
+  while ((match = matchRegex.exec(normalizedText)) !== null) {
+    // Add text before match
+    if (match.index > lastIndex) {
+      parts.push(<span key={`text-${lastIndex}`}>{text.substring(lastIndex, match.index)}</span>);
+    }
+
+    // Add highlighted match (using original text)
+    const matchedText = text.substring(match.index, match.index + match[0].length);
+    parts.push(<mark key={`mark-${match.index}`}>{matchedText}</mark>);
+
+    lastIndex = match.index + match[0].length;
+  }
+
+  // Add remaining text
+  if (lastIndex < text.length) {
+    parts.push(<span key={`text-${lastIndex}`}>{text.substring(lastIndex)}</span>);
+  }
+
+  return <>{parts}</>;
 }
 
 export default function ResultsDisplay({ results }: ResultsDisplayProps) {
@@ -59,13 +94,24 @@ export default function ResultsDisplay({ results }: ResultsDisplayProps) {
                 </div>
               </div>
               
-              <div className="sample-matches">
-                <h5>Sample Verses (showing first 10):</h5>
+              <div className="all-matches">
+                <h5>All Matches ({result.matches.length}):</h5>
                 <div className="verses-list">
-                  {result.matches.slice(0, 10).map((verse, idx) => (
+                  {result.matches.map((verse, idx) => (
                     <div key={idx} className="verse-item">
-                      <span className="verse-ref">{verse.reference}:</span>
-                      <span className="verse-text">{verse.text.substring(0, 200)}...</span>
+                      <div className="verse-ref">{verse.reference}</div>
+                      <div className="verse-content">
+                        <div className="verse-original">
+                          <strong>Original: </strong>
+                          {highlightMatches(verse.text, result.word)}
+                        </div>
+                        {verse.meaning && (
+                          <div className="verse-meaning">
+                            <strong>Meaning: </strong>
+                            {verse.meaning}
+                          </div>
+                        )}
+                      </div>
                     </div>
                   ))}
                 </div>
