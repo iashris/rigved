@@ -1,44 +1,68 @@
-import type { Verse, SearchResult, VedaId, VedaMetadata } from '../types';
-import { VEDA_CONFIGS } from '../types';
+import type { Verse, SearchResult, VedaId, VedaMetadata } from "../types";
+import { VEDA_CONFIGS } from "../types";
 
 // Normalize text by removing diacritics and special characters
 function normalizeText(text: string): string {
   // Common Sanskrit diacritics and their replacements
   const replacements: Record<string, string> = {
-    'ā': 'a', 'Ā': 'A',
-    'ī': 'i', 'Ī': 'I', 
-    'ū': 'u', 'Ū': 'U',
-    'ṛ': 'r', 'Ṛ': 'R',
-    'ṝ': 'r', 'Ṝ': 'R',
-    'ḷ': 'l', 'Ḷ': 'L',
-    'ḹ': 'l', 'Ḹ': 'L',
-    'ṃ': 'm', 'Ṃ': 'M',
-    'ḥ': 'h', 'Ḥ': 'H',
-    'ṅ': 'n', 'Ṅ': 'N',
-    'ñ': 'n', 'Ñ': 'N',
-    'ṭ': 't', 'Ṭ': 'T',
-    'ḍ': 'd', 'Ḍ': 'D',
-    'ṇ': 'n', 'Ṇ': 'N',
-    'ś': 's', 'Ś': 'S',
-    'ṣ': 's', 'Ṣ': 'S',
-    'ẓ': 'z', 'Ẓ': 'Z',
-    'ḻ': 'l', 'Ḻ': 'L',
-    'â': 'a', 'Â': 'A',
-    'î': 'i', 'Î': 'I',
-    'û': 'u', 'Û': 'U',
-    'ê': 'e', 'Ê': 'E',
-    'ô': 'o', 'Ô': 'O',
-    'ṁ': 'm',
-    'ḿ': 'm', 'Ḿ': 'M'
+    ā: "a",
+    Ā: "A",
+    ī: "i",
+    Ī: "I",
+    ū: "u",
+    Ū: "U",
+    ṛ: "r",
+    Ṛ: "R",
+    ṝ: "r",
+    Ṝ: "R",
+    ḷ: "l",
+    Ḷ: "L",
+    ḹ: "l",
+    Ḹ: "L",
+    ṃ: "m",
+    Ṃ: "M",
+    ḥ: "h",
+    Ḥ: "H",
+    ṅ: "n",
+    Ṅ: "N",
+    ñ: "n",
+    Ñ: "N",
+    ṭ: "t",
+    Ṭ: "T",
+    ḍ: "d",
+    Ḍ: "D",
+    ṇ: "n",
+    Ṇ: "N",
+    ś: "s",
+    Ś: "S",
+    ṣ: "s",
+    Ṣ: "S",
+    ẓ: "z",
+    Ẓ: "Z",
+    ḻ: "l",
+    Ḻ: "L",
+    â: "a",
+    Â: "A",
+    î: "i",
+    Î: "I",
+    û: "u",
+    Û: "U",
+    ê: "e",
+    Ê: "E",
+    ô: "o",
+    Ô: "O",
+    ṁ: "m",
+    ḿ: "m",
+    Ḿ: "M",
   };
-  
+
   let normalized = text;
   for (const [diacritic, replacement] of Object.entries(replacements)) {
-    normalized = normalized.replace(new RegExp(diacritic, 'g'), replacement);
+    normalized = normalized.replace(new RegExp(diacritic, "g"), replacement);
   }
-  
+
   // Also normalize using built-in normalize method for any remaining unicode
-  return normalized.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  return normalized.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
 function createReference(mandala: string, hymn: string, verse: string): string {
@@ -52,10 +76,10 @@ function finalizeVerse(
 ) {
   if (!verse) return;
 
-  const text = parts.join(' ').replace(/\s+/g, ' ').trim();
+  const text = parts.join(" ").replace(/\s+/g, " ").trim();
   if (!text) return;
 
-  const cleaned = text.replace(/\s*\[p\.[^\]]*\]/gi, '').trim();
+  const cleaned = text.replace(/\s*\[p\.[^\]]*\]/gi, "").trim();
 
   verse.text = cleaned;
   collection.push(verse);
@@ -63,12 +87,12 @@ function finalizeVerse(
 
 function parseRigvedaCSV(text: string): Verse[] {
   const metadata = VEDA_CONFIGS.rigveda;
-  const lines = text.split('\n').filter((line) => line.trim());
+  const lines = text.split("\n").filter((line) => line.trim());
 
   const verses: Verse[] = lines
     .map((line) => {
-      const [reference, ...textParts] = line.split('\t');
-      const text = textParts.join('\t');
+      const [reference, ...textParts] = line.split("\t");
+      const text = textParts.join("\t");
 
       const match = reference.match(/(\d{2})\.(\d{3})\.(\d{2})/);
       if (!match) return null;
@@ -115,8 +139,11 @@ function parseAtharvavedaText(text: string): Verse[] {
     if (currentParts.length > 0) {
       const lastIdx = currentParts.length - 1;
       const previous = currentParts[lastIdx];
-      if (previous.endsWith('-')) {
-        currentParts[lastIdx] = `${previous.slice(0, -1)}${value.replace(/^\s+/, '')}`;
+      if (previous.endsWith("-")) {
+        currentParts[lastIdx] = `${previous.slice(0, -1)}${value.replace(
+          /^\s+/,
+          ""
+        )}`;
         return;
       }
     }
@@ -129,14 +156,14 @@ function parseAtharvavedaText(text: string): Verse[] {
     if (match) {
       resetCurrent();
 
-      const [_, mandalaStr, hymnStr, verseStr, textPart] = match;
+      const [, mandalaStr, hymnStr, verseStr, textPart] = match;
       const mandalaNum = parseInt(mandalaStr, 10);
       const hymnNum = parseInt(hymnStr, 10);
       const verseNum = parseInt(verseStr, 10);
 
       currentVerse = {
         reference: createReference(mandalaStr, hymnStr, verseStr),
-        text: '',
+        text: "",
         mandala: mandalaNum,
         hymn: hymnNum,
         verse: verseNum,
@@ -183,14 +210,14 @@ function parseAtharvavedaText(text: string): Verse[] {
 
 export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
   try {
-    if (vedaId === 'rigveda') {
-      const response = await fetch('./griffith.csv');
+    if (vedaId === "rigveda") {
+      const response = await fetch("./griffith.csv");
       const text = await response.text();
       return parseRigvedaCSV(text);
     }
 
-    if (vedaId === 'atharvaveda') {
-      const response = await fetch('./av.txt');
+    if (vedaId === "atharvaveda") {
+      const response = await fetch("./av.txt");
       const text = await response.text();
       return parseAtharvavedaText(text);
     }
@@ -212,59 +239,65 @@ export function searchWord(
   if (!searchTerms.length || !verses.length) return null;
 
   // Normalize search terms
-  const normalizedSearchTerms = searchTerms.map(term => normalizeText(term));
+  const normalizedSearchTerms = searchTerms.map((term) => normalizeText(term));
 
   // Find matching verses using normalized comparison
-  const matches = verses.filter(verse => {
+  const matches = verses.filter((verse) => {
     const normalizedVerseText = normalizeText(verse.text);
 
     // Check if any of the normalized search terms appear in the normalized verse
-    return normalizedSearchTerms.some(term => {
+    return normalizedSearchTerms.some((term) => {
       if (caseSensitive) {
         // For case-sensitive, still use normalization but preserve case
-        const regex = new RegExp(`\\b${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'g');
+        const regex = new RegExp(
+          `\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
+          "g"
+        );
         return regex.test(normalizedVerseText);
       } else {
         // Case-insensitive search with normalization
-        const regex = new RegExp(`\\b${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi');
+        const regex = new RegExp(
+          `\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
+          "gi"
+        );
         return regex.test(normalizedVerseText);
       }
     });
   });
-  
+
   if (matches.length === 0) return null;
-  
+
   // Count by mandala
   const divisionCount = metadata.totalBooks;
   const mandalaCounts = new Array(divisionCount).fill(0);
   const mandalaSizes = new Array(divisionCount).fill(0);
 
-  verses.forEach(verse => {
+  verses.forEach((verse) => {
     const idx = verse.mandala - 1;
     if (idx >= 0 && idx < divisionCount) {
       mandalaSizes[idx]++;
     }
   });
 
-  matches.forEach(verse => {
+  matches.forEach((verse) => {
     const idx = verse.mandala - 1;
     if (idx >= 0 && idx < divisionCount) {
       mandalaCounts[idx]++;
     }
   });
-  
+
   // Calculate percentages
   const mandalaPercentages = mandalaCounts.map((count, idx) => {
     const size = mandalaSizes[idx];
     return size > 0 ? (count / size) * 100 : 0;
   });
-  
+
   return {
-    word: searchTerms.join(', '),
+    word: searchTerms.join(", "),
     totalMatches: matches.length,
     mandalaCounts,
     mandalaPercentages,
     mandalaSizes,
-    matches: matches // Return all matches
+    matches: matches, // Return all matches
   };
 }
