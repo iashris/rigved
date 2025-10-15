@@ -61,6 +61,23 @@ body {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.veda-selector {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.veda-selector .button-group {
+  flex-wrap: wrap;
+}
+
+.selector-label {
+  font-weight: 600;
+  color: #4a5568;
+}
+
 .search-container {
   display: flex;
   flex-direction: column;
@@ -246,6 +263,11 @@ body {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   border-color: transparent;
+}
+
+.control-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
 }
 
 /* Visualization Section */

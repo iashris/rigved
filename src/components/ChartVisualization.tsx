@@ -1,14 +1,14 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-import type { SearchResult, OrderType, DisplayMode } from '../types';
-import { CHRONOLOGICAL_ORDER } from '../types';
+import type { SearchResult, OrderType, DisplayMode, VedaMetadata } from '../types';
 
 interface ChartVisualizationProps {
   results: SearchResult[];
   orderType: OrderType;
   displayMode: DisplayMode;
+  metadata: VedaMetadata;
 }
 
-export default function ChartVisualization({ results, orderType, displayMode }: ChartVisualizationProps) {
+export default function ChartVisualization({ results, orderType, displayMode, metadata }: ChartVisualizationProps) {
   if (!results || results.length === 0) {
     return (
       <div className="no-results">
@@ -18,13 +18,18 @@ export default function ChartVisualization({ results, orderType, displayMode }: 
   }
   
   // Prepare data for chart
-  const chartData = [];
-  const mandalas = orderType === 'chronological' ? CHRONOLOGICAL_ORDER : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+  const hasChronological = Boolean(metadata.chronologicalOrder?.length);
+  const ordering = orderType === 'chronological' && hasChronological
+    ? metadata.chronologicalOrder!
+    : metadata.sequentialOrder;
+  const chartData: Record<string, number | string>[] = [];
   
-  for (let i = 0; i < mandalas.length; i++) {
-    const mandalaNum = mandalas[i];
+  for (let i = 0; i < ordering.length; i++) {
+    const mandalaNum = ordering[i];
     const dataPoint: Record<string, number | string> = {
-      mandala: orderType === 'chronological' ? `${i + 1} (M${mandalaNum})` : `M${mandalaNum}`
+      mandala: orderType === 'chronological' && hasChronological
+        ? `${i + 1} (${metadata.shortLabel}${mandalaNum})`
+        : `${metadata.shortLabel}${mandalaNum}`
     };
     
     results.forEach(result => {
@@ -47,7 +52,7 @@ export default function ChartVisualization({ results, orderType, displayMode }: 
   return (
     <div className="chart-container">
       <h3>
-        Distribution across Mandalas - {orderType === 'chronological' ? 'Chronological' : 'Sequential'} Order
+        Distribution across {metadata.pluralBookLabel} - {orderType === 'chronological' && hasChronological ? 'Chronological' : 'Sequential'} Order
         ({displayMode === 'percentage' ? 'Percentage of verses' : 'Absolute occurrences'})
       </h3>
       
@@ -84,25 +89,23 @@ export default function ChartVisualization({ results, orderType, displayMode }: 
       <div className="statistics">
         <h4>Statistics:</h4>
         {results.map(result => {
-          const counts = orderType === 'chronological' 
-            ? CHRONOLOGICAL_ORDER.map(m => displayMode === 'percentage' 
-                ? result.mandalaPercentages[m - 1] 
-                : result.mandalaCounts[m - 1])
-            : (displayMode === 'percentage' ? result.mandalaPercentages : result.mandalaCounts);
+          const baseCounts = displayMode === 'percentage'
+            ? result.mandalaPercentages
+            : result.mandalaCounts;
+          const orderedCounts = ordering.map(m => baseCounts[m - 1] ?? 0);
           
-          const avg = counts.reduce((a, b) => a + b, 0) / counts.length;
-          const max = Math.max(...counts);
-          const maxMandala = orderType === 'chronological'
-            ? CHRONOLOGICAL_ORDER[counts.indexOf(max)]
-            : counts.indexOf(max) + 1;
+          const avg = orderedCounts.reduce((a, b) => a + b, 0) / orderedCounts.length;
+          const max = Math.max(...orderedCounts);
+          const maxIndex = orderedCounts.indexOf(max);
+          const maxMandala = ordering[maxIndex];
           
           return (
             <div key={result.word} className="stat-item">
               <strong>{result.word}:</strong>
               <ul>
                 <li>Total matches: {result.totalMatches}</li>
-                <li>Average per mandala: {avg.toFixed(2)}{displayMode === 'percentage' ? '%' : ''}</li>
-                <li>Highest in Mandala {maxMandala}: {max.toFixed(2)}{displayMode === 'percentage' ? '%' : ''}</li>
+                <li>Average per {metadata.bookLabel.toLowerCase()}: {avg.toFixed(2)}{displayMode === 'percentage' ? '%' : ''}</li>
+                <li>Highest in {metadata.bookLabel} {maxMandala}: {max.toFixed(2)}{displayMode === 'percentage' ? '%' : ''}</li>
               </ul>
             </div>
           );

@@ -1,14 +1,21 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import SearchBar from './components/SearchBar';
 import Controls from './components/Controls';
 import ChartVisualization from './components/ChartVisualization';
 import ResultsDisplay from './components/ResultsDisplay';
-import { loadRigvedaData, searchWord } from './utils/dataProcessor';
-import type { Verse, SearchResult, OrderType, DisplayMode } from './types';
+import VedaSelector from './components/VedaSelector';
+import { loadVedaData, searchWord } from './utils/dataProcessor';
+import type { Verse, SearchResult, OrderType, DisplayMode, VedaId } from './types';
+import { VEDA_CONFIGS } from './types';
 import { BookOpen, Share2 } from 'lucide-react';
 import './App.css';
 
+function isVedaId(value: string | null): value is VedaId {
+  return value === 'rigveda' || value === 'atharvaveda';
+}
+
 function App() {
+  const [currentVeda, setCurrentVeda] = useState<VedaId>('rigveda');
   const [verses, setVerses] = useState<Verse[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
@@ -16,6 +23,7 @@ function App() {
   const [displayMode, setDisplayMode] = useState<DisplayMode>('absolute');
   const [error, setError] = useState<string>('');
   const [searchTerms, setSearchTerms] = useState<string[]>([]);
+  const metadata = useMemo(() => VEDA_CONFIGS[currentVeda], [currentVeda]);
 
   // Load search params from URL on mount
   useEffect(() => {
@@ -23,7 +31,11 @@ function App() {
     const query = params.get('q');
     const order = params.get('order') as OrderType;
     const mode = params.get('mode') as DisplayMode;
+    const vedaParam = params.get('veda');
 
+    if (isVedaId(vedaParam)) {
+      setCurrentVeda(vedaParam);
+    }
     if (order && (order === 'sequential' || order === 'chronological')) {
       setOrderType(order);
     }
@@ -37,16 +49,35 @@ function App() {
   }, []);
 
   useEffect(() => {
-    loadRigvedaData().then(data => {
-      setVerses(data);
-      setLoading(false);
-      console.log(`Loaded ${data.length} verses`);
-    }).catch(err => {
-      setError('Failed to load Rigveda data');
-      setLoading(false);
-      console.error(err);
-    });
-  }, []);
+    let isCancelled = false;
+    setLoading(true);
+    setError('');
+
+    loadVedaData(currentVeda)
+      .then(data => {
+        if (isCancelled) return;
+        setVerses(data);
+        setLoading(false);
+        console.log(`Loaded ${data.length} verses for ${currentVeda}`);
+      })
+      .catch(err => {
+        if (isCancelled) return;
+        setError(`Failed to load ${metadata.name} data`);
+        setVerses([]);
+        setLoading(false);
+        console.error(err);
+      });
+
+    return () => {
+      isCancelled = true;
+    };
+  }, [currentVeda, metadata.name]);
+
+  useEffect(() => {
+    if (!metadata.chronologicalOrder && orderType === 'chronological') {
+      setOrderType('sequential');
+    }
+  }, [metadata, orderType]);
 
   // Perform search when verses are loaded and search terms exist
   useEffect(() => {
@@ -66,7 +97,7 @@ function App() {
 
     // Search for each term individually
     terms.forEach(term => {
-      const result = searchWord(verses, [term], false);
+      const result = searchWord(verses, [term], metadata, false);
       if (result) {
         results.push(result);
       }
@@ -74,6 +105,7 @@ function App() {
 
     if (results.length === 0) {
       setError('No matches found for the given search terms');
+      setSearchResults([]);
     } else {
       setSearchResults(results);
       setSearchTerms(terms);
@@ -88,6 +120,7 @@ function App() {
     }
     params.set('order', orderType);
     params.set('mode', displayMode);
+    params.set('veda', currentVeda);
 
     const newURL = `${window.location.pathname}?${params.toString()}`;
     window.history.pushState({}, '', newURL);
@@ -107,13 +140,20 @@ function App() {
     if (searchTerms.length > 0) {
       updateURL(searchTerms);
     }
-  }, [orderType, displayMode]);
+  }, [orderType, displayMode, currentVeda]);
+
+  const handleVedaChange = (veda: VedaId) => {
+    if (veda === currentVeda) return;
+    setCurrentVeda(veda);
+    setSearchResults([]);
+    setVerses([]);
+  };
   
   if (loading) {
     return (
       <div className="loading">
         <div className="spinner"></div>
-        <p>Loading Rigveda data...</p>
+        <p>Loading {metadata.name} data...</p>
       </div>
     );
   }
@@ -123,13 +163,16 @@ function App() {
       <header className="app-header">
         <div className="header-content">
           <BookOpen size={32} />
-          <h1>Rigveda Analysis Tool</h1>
-          <p className="subtitle">Search and visualize word distributions across the 10 Mandalas</p>
+          <h1>{metadata.name} Analysis Tool</h1>
+          <p className="subtitle">
+            Search and visualize word distributions across the {metadata.totalBooks} {metadata.pluralBookLabel}
+          </p>
         </div>
       </header>
       
       <main className="app-main">
         <section className="search-section">
+          <VedaSelector currentVeda={currentVeda} onChange={handleVedaChange} />
           <SearchBar onSearch={handleSearch} />
           {error && <div className="error-message">{error}</div>}
         </section>
@@ -139,6 +182,7 @@ function App() {
             <section className="controls-section">
               <div className="controls-wrapper">
                 <Controls
+                  metadata={metadata}
                   orderType={orderType}
                   displayMode={displayMode}
                   onOrderChange={setOrderType}
@@ -156,21 +200,24 @@ function App() {
                 results={searchResults}
                 orderType={orderType}
                 displayMode={displayMode}
+                metadata={metadata}
               />
             </section>
             
             <section className="results-section">
-              <ResultsDisplay results={searchResults} />
+              <ResultsDisplay results={searchResults} metadata={metadata} />
             </section>
           </>
         )}
         
         <footer className="app-footer">
           <div className="footer-content">
-            <p>Data source: Griffith's translation of the Rigveda</p>
-            <p>Chronological order based on Talegeri's analysis</p>
+            <p>Data source: {metadata.dataSource}</p>
+            {metadata.chronologyAttribution && (
+              <p>{metadata.chronologyAttribution}</p>
+            )}
             <p className="corpus-info">
-              Total corpus: {verses.length} verses across 10 Mandalas
+              Total corpus: {verses.length} verses across {metadata.totalBooks} {metadata.pluralBookLabel}
             </p>
           </div>
         </footer>

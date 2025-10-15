@@ -1,7 +1,8 @@
 import { BarChart3, Clock } from 'lucide-react';
-import type { OrderType, DisplayMode } from '../types';
+import type { OrderType, DisplayMode, VedaMetadata } from '../types';
 
 interface ControlsProps {
+  metadata: VedaMetadata;
   orderType: OrderType;
   displayMode: DisplayMode;
   onOrderChange: (order: OrderType) => void;
@@ -9,11 +10,23 @@ interface ControlsProps {
 }
 
 export default function Controls({ 
+  metadata,
   orderType, 
   displayMode, 
   onOrderChange, 
   onDisplayModeChange 
 }: ControlsProps) {
+  const hasChronologicalOrder = Boolean(metadata.chronologicalOrder?.length);
+  const sequentialStart = metadata.sequentialOrder[0];
+  const sequentialEnd = metadata.sequentialOrder[metadata.sequentialOrder.length - 1];
+  const chronologicalLabel = metadata.chronologicalDescription ?? 'Chronological';
+
+  const handleChronologicalClick = () => {
+    if (hasChronologicalOrder) {
+      onOrderChange('chronological');
+    }
+  };
+
   return (
     <div className="controls">
       <div className="control-group">
@@ -26,14 +39,20 @@ export default function Controls({
             className={`control-btn ${orderType === 'sequential' ? 'active' : ''}`}
             onClick={() => onOrderChange('sequential')}
           >
-            Sequential (1-10)
+            Sequential ({sequentialStart}-{sequentialEnd})
           </button>
           <button
             className={`control-btn ${orderType === 'chronological' ? 'active' : ''}`}
-            onClick={() => onOrderChange('chronological')}
+            onClick={handleChronologicalClick}
+            disabled={!hasChronologicalOrder}
+            title={
+              hasChronologicalOrder
+                ? undefined
+                : `${metadata.name} currently has only sequential ordering`
+            }
           >
             <Clock size={16} />
-            Chronological (Talegeri)
+            {chronologicalLabel}
           </button>
         </div>
       </div>

@@ -1,5 +1,5 @@
-import type { Verse, SearchResult } from '../types';
-import { CHRONOLOGICAL_ORDER } from '../types';
+import type { Verse, SearchResult, VedaId, VedaMetadata } from '../types';
+import { VEDA_CONFIGS } from '../types';
 
 // Normalize text by removing diacritics and special characters
 function normalizeText(text: string): string {
@@ -41,38 +41,164 @@ function normalizeText(text: string): string {
   return normalized.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
-export async function loadRigvedaData(): Promise<Verse[]> {
-  try {
-    const response = await fetch('./griffith.csv');
-    const text = await response.text();
-    const lines = text.split('\n').filter(line => line.trim());
-    
-    const verses: Verse[] = lines.map(line => {
+function createReference(mandala: string, hymn: string, verse: string): string {
+  return `${mandala}.${hymn}.${verse}`;
+}
+
+function finalizeVerse(
+  verse: Verse | null,
+  parts: string[],
+  collection: Verse[]
+) {
+  if (!verse) return;
+
+  const text = parts.join(' ').replace(/\s+/g, ' ').trim();
+  if (!text) return;
+
+  const cleaned = text.replace(/\s*\[p\.[^\]]*\]/gi, '').trim();
+
+  verse.text = cleaned;
+  collection.push(verse);
+}
+
+function parseRigvedaCSV(text: string): Verse[] {
+  const metadata = VEDA_CONFIGS.rigveda;
+  const lines = text.split('\n').filter((line) => line.trim());
+
+  const verses: Verse[] = lines
+    .map((line) => {
       const [reference, ...textParts] = line.split('\t');
       const text = textParts.join('\t');
-      
+
       const match = reference.match(/(\d{2})\.(\d{3})\.(\d{2})/);
       if (!match) return null;
-      
-      const mandala = parseInt(match[1]);
-      const hymn = parseInt(match[2]);
-      const verse = parseInt(match[3]);
-      
-      const chronoPosition = CHRONOLOGICAL_ORDER.indexOf(mandala) + 1;
-      
+
+      const mandala = parseInt(match[1], 10);
+      const hymn = parseInt(match[2], 10);
+      const verse = parseInt(match[3], 10);
+
+      const chronoSequence = metadata.chronologicalOrder ?? [];
+      const chronoPosition = chronoSequence.indexOf(mandala) + 1 || undefined;
+
       return {
         reference,
         text,
         mandala,
         hymn,
         verse,
-        chronologicalPosition: chronoPosition
+        chronologicalPosition: chronoPosition,
+        vedaId: metadata.id,
+      } as Verse;
+    })
+    .filter(Boolean) as Verse[];
+
+  return verses;
+}
+
+function parseAtharvavedaText(text: string): Verse[] {
+  const metadata = VEDA_CONFIGS.atharvaveda;
+  const lines = text.split(/\r?\n/);
+  const verses: Verse[] = [];
+  const verseRegex = /^\s*\[(\d{2})(\d{3})(\d{2,3})\](.*)$/;
+
+  let currentVerse: Verse | null = null;
+  let currentParts: string[] = [];
+
+  const resetCurrent = () => {
+    finalizeVerse(currentVerse, currentParts, verses);
+    currentVerse = null;
+    currentParts = [];
+  };
+
+  const appendPart = (value: string) => {
+    if (!value) return;
+    if (currentParts.length > 0) {
+      const lastIdx = currentParts.length - 1;
+      const previous = currentParts[lastIdx];
+      if (previous.endsWith('-')) {
+        currentParts[lastIdx] = `${previous.slice(0, -1)}${value.replace(/^\s+/, '')}`;
+        return;
+      }
+    }
+    currentParts.push(value);
+  };
+
+  for (const rawLine of lines) {
+    const match = rawLine.match(verseRegex);
+
+    if (match) {
+      resetCurrent();
+
+      const [_, mandalaStr, hymnStr, verseStr, textPart] = match;
+      const mandalaNum = parseInt(mandalaStr, 10);
+      const hymnNum = parseInt(hymnStr, 10);
+      const verseNum = parseInt(verseStr, 10);
+
+      currentVerse = {
+        reference: createReference(mandalaStr, hymnStr, verseStr),
+        text: '',
+        mandala: mandalaNum,
+        hymn: hymnNum,
+        verse: verseNum,
+        vedaId: metadata.id,
       };
-    }).filter(Boolean) as Verse[];
-    
-    return verses;
+
+      const trimmed = textPart.trim();
+      if (trimmed) {
+        appendPart(trimmed);
+      }
+      continue;
+    }
+
+    if (!currentVerse) {
+      continue;
+    }
+
+    const trimmedLine = rawLine.trim();
+
+    if (!trimmedLine) {
+      resetCurrent();
+      continue;
+    }
+
+    if (/^\[p\.\s*/i.test(trimmedLine)) {
+      continue;
+    }
+
+    if (/^(HYMN|BOOK)\b/i.test(trimmedLine)) {
+      resetCurrent();
+      continue;
+    }
+
+    if (/^Hymns of the Atharva Veda/i.test(trimmedLine)) {
+      continue;
+    }
+
+    appendPart(trimmedLine);
+  }
+
+  resetCurrent();
+  return verses;
+}
+
+export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
+  try {
+    if (vedaId === 'rigveda') {
+      const response = await fetch('./griffith.csv');
+      const text = await response.text();
+      return parseRigvedaCSV(text);
+    }
+
+    if (vedaId === 'atharvaveda') {
+      const response = await fetch('./av.txt');
+      const text = await response.text();
+      return parseAtharvavedaText(text);
+    }
+
+    console.warn(`Unsupported vedaId "${vedaId}" supplied to loadVedaData`);
+    return [];
   } catch (error) {
-    console.error('Error loading Rigveda data:', error);
+    console.error(`Error loading ${vedaId} data:`, error);
     return [];
   }
 }
@@ -80,17 +206,18 @@ export async function loadRigvedaData(): Promise<Verse[]> {
 export function searchWord(
   verses: Verse[],
   searchTerms: string[],
+  metadata: VedaMetadata,
   caseSensitive: boolean = false
 ): SearchResult | null {
   if (!searchTerms.length || !verses.length) return null;
-  
+
   // Normalize search terms
   const normalizedSearchTerms = searchTerms.map(term => normalizeText(term));
-  
+
   // Find matching verses using normalized comparison
   const matches = verses.filter(verse => {
     const normalizedVerseText = normalizeText(verse.text);
-    
+
     // Check if any of the normalized search terms appear in the normalized verse
     return normalizedSearchTerms.some(term => {
       if (caseSensitive) {
@@ -108,15 +235,22 @@ export function searchWord(
   if (matches.length === 0) return null;
   
   // Count by mandala
-  const mandalaCounts = new Array(10).fill(0);
-  const mandalaSizes = new Array(10).fill(0);
-  
+  const divisionCount = metadata.totalBooks;
+  const mandalaCounts = new Array(divisionCount).fill(0);
+  const mandalaSizes = new Array(divisionCount).fill(0);
+
   verses.forEach(verse => {
-    mandalaSizes[verse.mandala - 1]++;
+    const idx = verse.mandala - 1;
+    if (idx >= 0 && idx < divisionCount) {
+      mandalaSizes[idx]++;
+    }
   });
-  
+
   matches.forEach(verse => {
-    mandalaCounts[verse.mandala - 1]++;
+    const idx = verse.mandala - 1;
+    if (idx >= 0 && idx < divisionCount) {
+      mandalaCounts[idx]++;
+    }
   });
   
   // Calculate percentages
