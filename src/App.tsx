@@ -4,6 +4,7 @@ import Controls from './components/Controls';
 import ChartVisualization from './components/ChartVisualization';
 import ResultsDisplay from './components/ResultsDisplay';
 import VedaSelector from './components/VedaSelector';
+import SuktaNavigator from './components/SuktaNavigator';
 import { loadVedaData, searchWord } from './utils/dataProcessor';
 import type { Verse, SearchResult, OrderType, DisplayMode, VedaId } from './types';
 import { VEDA_CONFIGS } from './types';
@@ -23,6 +24,7 @@ function App() {
   const [displayMode, setDisplayMode] = useState<DisplayMode>('absolute');
   const [error, setError] = useState<string>('');
   const [searchTerms, setSearchTerms] = useState<string[]>([]);
+  const [navigatedVerse, setNavigatedVerse] = useState<Verse | null>(null);
   const metadata = useMemo(() => VEDA_CONFIGS[currentVeda], [currentVeda]);
 
   // Load search params from URL on mount
@@ -147,6 +149,22 @@ function App() {
     setCurrentVeda(veda);
     setSearchResults([]);
     setVerses([]);
+    setNavigatedVerse(null);
+  };
+
+  const handleNavigateToVerse = (verse: Verse) => {
+    setNavigatedVerse(verse);
+    setSearchResults([]);
+    setSearchTerms([]);
+    setError('');
+
+    // Scroll to the navigated verse section
+    setTimeout(() => {
+      const element = document.querySelector('.navigated-verse-section');
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }, 100);
   };
   
   if (loading) {
@@ -173,10 +191,34 @@ function App() {
       <main className="app-main">
         <section className="search-section">
           <VedaSelector currentVeda={currentVeda} onChange={handleVedaChange} />
-          <SearchBar onSearch={handleSearch} />
+          <div className="search-nav-row">
+            <SearchBar onSearch={handleSearch} />
+            <SuktaNavigator
+              verses={verses}
+              metadata={metadata}
+              onNavigate={handleNavigateToVerse}
+            />
+          </div>
           {error && <div className="error-message">{error}</div>}
         </section>
         
+        {navigatedVerse && (
+          <section className="navigated-verse-section">
+            <div className="navigated-verse-content">
+              <h2>Verse: {navigatedVerse.reference}</h2>
+              <div className="verse-card">
+                <div className="verse-header">
+                  <span className="verse-reference">{navigatedVerse.reference}</span>
+                  <span className="verse-location">
+                    {metadata.bookLabel} {navigatedVerse.mandala}, Hymn {navigatedVerse.hymn}, Verse {navigatedVerse.verse}
+                  </span>
+                </div>
+                <div className="verse-text">{navigatedVerse.text}</div>
+              </div>
+            </div>
+          </section>
+        )}
+
         {searchResults.length > 0 && (
           <>
             <section className="controls-section">
@@ -194,7 +236,7 @@ function App() {
                 </button>
               </div>
             </section>
-            
+
             <section className="visualization-section">
               <ChartVisualization
                 results={searchResults}
@@ -203,7 +245,7 @@ function App() {
                 metadata={metadata}
               />
             </section>
-            
+
             <section className="results-section">
               <ResultsDisplay results={searchResults} metadata={metadata} />
             </section>
