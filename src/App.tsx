@@ -213,7 +213,16 @@ function App() {
                     {metadata.bookLabel} {navigatedVerse.mandala}, Hymn {navigatedVerse.hymn}, Verse {navigatedVerse.verse}
                   </span>
                 </div>
-                <div className="verse-text">{navigatedVerse.text}</div>
+                {navigatedVerse.meaning && (
+                  <div className="verse-sanskrit">
+                    <div className="verse-label">Sanskrit:</div>
+                    <div className="verse-content-text">{navigatedVerse.meaning}</div>
+                  </div>
+                )}
+                <div className="verse-translation">
+                  {navigatedVerse.meaning && <div className="verse-label">English:</div>}
+                  <div className="verse-content-text">{navigatedVerse.text}</div>
+                </div>
               </div>
             </div>
           </section>

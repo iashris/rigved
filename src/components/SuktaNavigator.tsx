@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { Search, X } from 'lucide-react';
+import { useState, useEffect, useMemo } from 'react';
+import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 import type { Verse, VedaMetadata } from '../types';
 import './SuktaNavigator.css';
 
@@ -10,51 +10,106 @@ interface SuktaNavigatorProps {
 }
 
 export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNavigatorProps) {
-  const [input, setInput] = useState('');
+  const [selectedMandala, setSelectedMandala] = useState<number | ''>('');
+  const [selectedHymn, setSelectedHymn] = useState<number | ''>('');
+  const [selectedVerse, setSelectedVerse] = useState<number | ''>('');
+  const [currentVerse, setCurrentVerse] = useState<Verse | null>(null);
   const [showModal, setShowModal] = useState(false);
   const [modalMessage, setModalMessage] = useState('');
 
-  const handleNavigate = () => {
-    if (!input.trim()) return;
+  // Get unique mandalas/books
+  const mandalas = useMemo(() => {
+    const unique = Array.from(new Set(verses.map(v => v.mandala))).sort((a, b) => a - b);
+    return unique;
+  }, [verses]);
 
-    // Parse the input (e.g., "6.8.1" or "6-8-1")
-    const parts = input.trim().split(/[.\-_]/);
+  // Get hymns for selected mandala
+  const hymns = useMemo(() => {
+    if (selectedMandala === '') return [];
+    const unique = Array.from(
+      new Set(verses.filter(v => v.mandala === selectedMandala).map(v => v.hymn))
+    ).sort((a, b) => a - b);
+    return unique;
+  }, [verses, selectedMandala]);
 
-    if (parts.length !== 3) {
-      setModalMessage('Invalid format. Please use format: mandala.hymn.verse (e.g., 6.8.1)');
-      setShowModal(true);
-      return;
+  // Get verses for selected mandala and hymn
+  const versesInHymn = useMemo(() => {
+    if (selectedMandala === '' || selectedHymn === '') return [];
+    const unique = Array.from(
+      new Set(
+        verses
+          .filter(v => v.mandala === selectedMandala && v.hymn === selectedHymn)
+          .map(v => v.verse)
+      )
+    ).sort((a, b) => a - b);
+    return unique;
+  }, [verses, selectedMandala, selectedHymn]);
+
+  // Reset dependent dropdowns when parent changes
+  useEffect(() => {
+    setSelectedHymn('');
+    setSelectedVerse('');
+  }, [selectedMandala]);
+
+  useEffect(() => {
+    setSelectedVerse('');
+  }, [selectedHymn]);
+
+  // Navigate to selected verse
+  useEffect(() => {
+    if (selectedMandala !== '' && selectedHymn !== '' && selectedVerse !== '') {
+      const foundVerse = verses.find(
+        v => v.mandala === selectedMandala && v.hymn === selectedHymn && v.verse === selectedVerse
+      );
+
+      if (foundVerse) {
+        setCurrentVerse(foundVerse);
+        onNavigate(foundVerse);
+      }
     }
+  }, [selectedMandala, selectedHymn, selectedVerse, verses, onNavigate]);
 
-    const mandala = parseInt(parts[0], 10);
-    const hymn = parseInt(parts[1], 10);
-    const verse = parseInt(parts[2], 10);
+  const handlePrevious = () => {
+    if (!currentVerse) return;
 
-    if (isNaN(mandala) || isNaN(hymn) || isNaN(verse)) {
-      setModalMessage('Invalid numbers. Please use format: mandala.hymn.verse (e.g., 6.8.1)');
-      setShowModal(true);
-      return;
-    }
-
-    // Find the verse in the current veda
-    const foundVerse = verses.find(
-      v => v.mandala === mandala && v.hymn === hymn && v.verse === verse
+    const currentIndex = verses.findIndex(
+      v => v.mandala === currentVerse.mandala &&
+           v.hymn === currentVerse.hymn &&
+           v.verse === currentVerse.verse
     );
 
-    if (foundVerse) {
-      onNavigate(foundVerse);
-      setInput('');
+    if (currentIndex > 0) {
+      const prevVerse = verses[currentIndex - 1];
+      setSelectedMandala(prevVerse.mandala);
+      setSelectedHymn(prevVerse.hymn);
+      setSelectedVerse(prevVerse.verse);
+      setCurrentVerse(prevVerse);
+      onNavigate(prevVerse);
     } else {
-      setModalMessage(
-        `${metadata.bookLabel} ${mandala}.${hymn}.${verse} does not exist in the ${metadata.name}.`
-      );
+      setModalMessage('You are at the first verse.');
       setShowModal(true);
     }
   };
 
-  const handleKeyPress = (e: React.KeyboardEvent) => {
-    if (e.key === 'Enter') {
-      handleNavigate();
+  const handleNext = () => {
+    if (!currentVerse) return;
+
+    const currentIndex = verses.findIndex(
+      v => v.mandala === currentVerse.mandala &&
+           v.hymn === currentVerse.hymn &&
+           v.verse === currentVerse.verse
+    );
+
+    if (currentIndex < verses.length - 1) {
+      const nextVerse = verses[currentIndex + 1];
+      setSelectedMandala(nextVerse.mandala);
+      setSelectedHymn(nextVerse.hymn);
+      setSelectedVerse(nextVerse.verse);
+      setCurrentVerse(nextVerse);
+      onNavigate(nextVerse);
+    } else {
+      setModalMessage('You are at the last verse.');
+      setShowModal(true);
     }
   };
 
@@ -66,22 +121,61 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
   return (
     <>
       <div className="sukta-navigator">
-        <div className="navigator-input-group">
-          <input
-            type="text"
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            onKeyPress={handleKeyPress}
-            placeholder={`Go to ${metadata.bookLabel.toLowerCase()} (e.g., 6.8.1)`}
-            className="navigator-input"
-          />
-          <button
-            onClick={handleNavigate}
-            className="navigate-button"
-            disabled={!input.trim()}
-            title="Navigate to verse"
+        <div className="navigator-dropdowns">
+          <select
+            value={selectedMandala}
+            onChange={(e) => setSelectedMandala(e.target.value ? parseInt(e.target.value) : '')}
+            className="navigator-select"
           >
-            <Search size={18} />
+            <option value="">{metadata.bookLabel}</option>
+            {mandalas.map(m => (
+              <option key={m} value={m}>{m}</option>
+            ))}
+          </select>
+
+          <select
+            value={selectedHymn}
+            onChange={(e) => setSelectedHymn(e.target.value ? parseInt(e.target.value) : '')}
+            className="navigator-select"
+            disabled={selectedMandala === ''}
+          >
+            <option value="">Hymn</option>
+            {hymns.map(h => (
+              <option key={h} value={h}>{h}</option>
+            ))}
+          </select>
+
+          <select
+            value={selectedVerse}
+            onChange={(e) => setSelectedVerse(e.target.value ? parseInt(e.target.value) : '')}
+            className="navigator-select"
+            disabled={selectedHymn === ''}
+          >
+            <option value="">Verse</option>
+            {versesInHymn.map(v => (
+              <option key={v} value={v}>{v}</option>
+            ))}
+          </select>
+        </div>
+
+        <div className="navigator-buttons">
+          <button
+            onClick={handlePrevious}
+            className="nav-button prev-button"
+            disabled={!currentVerse}
+            title="Previous verse"
+          >
+            <ChevronLeft size={18} />
+            Previous
+          </button>
+          <button
+            onClick={handleNext}
+            className="nav-button next-button"
+            disabled={!currentVerse}
+            title="Next verse"
+          >
+            Next
+            <ChevronRight size={18} />
           </button>
         </div>
       </div>
@@ -90,7 +184,7 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
         <div className="modal-overlay" onClick={closeModal}>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
             <div className="modal-header">
-              <h3>Not Found</h3>
+              <h3>Notice</h3>
               <button onClick={closeModal} className="modal-close">
                 <X size={20} />
               </button>

@@ -233,12 +233,30 @@ body {
   opacity: 0.9;
 }
 
-.verse-text {
+.verse-sanskrit {
+  padding: 1.5rem 1.5rem 1rem 1.5rem;
+  background: #f7fafc;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.verse-translation {
   padding: 1.5rem;
+  background: white;
+}
+
+.verse-label {
+  font-weight: 600;
+  color: #667eea;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.5rem;
+}
+
+.verse-content-text {
   line-height: 1.8;
   font-size: 1rem;
   color: #2d3748;
-  background: white;
 }
 
 /* Controls Section */

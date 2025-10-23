@@ -119,6 +119,13 @@ function parseRigvedaCSV(text: string): Verse[] {
   return verses;
 }
 
+async function loadAtharvavedaJson(): Promise<Verse[]> {
+  const response = await fetch('./atharvaveda.json');
+  const verses = await response.json();
+  return verses as Verse[];
+}
+
+// Keep old parser as fallback
 function parseAtharvavedaText(text: string): Verse[] {
   const metadata = VEDA_CONFIGS.atharvaveda;
   const lines = text.split(/\r?\n/);
@@ -217,9 +224,19 @@ export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
     }
 
     if (vedaId === "atharvaveda") {
-      const response = await fetch("./av.txt");
-      const text = await response.text();
-      return parseAtharvavedaText(text);
+      // Load pre-processed JSON (fast!)
+      try {
+        const verses = await loadAtharvavedaJson();
+        console.log(`Loaded ${verses.length} Atharvaveda verses from JSON`);
+        return verses;
+      } catch {
+        console.warn('Failed to load JSON, falling back to av.txt');
+
+        // Fallback to av.txt if JSON loading fails
+        const response = await fetch("./av.txt");
+        const text = await response.text();
+        return parseAtharvavedaText(text);
+      }
     }
 
     console.warn(`Unsupported vedaId "${vedaId}" supplied to loadVedaData`);
