@@ -12,7 +12,7 @@ import { BookOpen, Share2 } from 'lucide-react';
 import './App.css';
 
 function isVedaId(value: string | null): value is VedaId {
-  return value === 'rigveda' || value === 'atharvaveda';
+  return value === 'rigveda' || value === 'atharvaveda' || value === 'yajurveda_black' || value === 'yajurveda_white';
 }
 
 function App() {
@@ -210,7 +210,8 @@ function App() {
                 <div className="verse-header">
                   <span className="verse-reference">{navigatedVerse.reference}</span>
                   <span className="verse-location">
-                    {metadata.bookLabel} {navigatedVerse.mandala}, Hymn {navigatedVerse.hymn}, Verse {navigatedVerse.verse}
+                    {metadata.bookLabel} {navigatedVerse.mandala}, {metadata.hymnLabel} {navigatedVerse.hymn}
+                    {metadata.hasThirdLevel && `, ${metadata.verseLabel} ${navigatedVerse.verse}`}
                   </span>
                 </div>
                 {navigatedVerse.meaning && (

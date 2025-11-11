@@ -48,18 +48,33 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
   // Reset dependent dropdowns when parent changes
   useEffect(() => {
     setSelectedHymn('');
-    setSelectedVerse('');
-  }, [selectedMandala]);
+    if (metadata.hasThirdLevel) {
+      setSelectedVerse('');
+    }
+  }, [selectedMandala, metadata.hasThirdLevel]);
 
   useEffect(() => {
-    setSelectedVerse('');
-  }, [selectedHymn]);
+    if (metadata.hasThirdLevel) {
+      setSelectedVerse('');
+    } else {
+      // For 2-level vedas, automatically set verse to 1
+      setSelectedVerse(1);
+    }
+  }, [selectedHymn, metadata.hasThirdLevel]);
 
   // Navigate to selected verse
   useEffect(() => {
-    if (selectedMandala !== '' && selectedHymn !== '' && selectedVerse !== '') {
+    // For 2-level vedas (like white Yajurveda), navigate when mandala and hymn are selected
+    // For 3-level vedas, require all three selections
+    const canNavigate = metadata.hasThirdLevel
+      ? selectedMandala !== '' && selectedHymn !== '' && selectedVerse !== ''
+      : selectedMandala !== '' && selectedHymn !== '';
+
+    if (canNavigate) {
       const foundVerse = verses.find(
-        v => v.mandala === selectedMandala && v.hymn === selectedHymn && v.verse === selectedVerse
+        v => v.mandala === selectedMandala &&
+             v.hymn === selectedHymn &&
+             (metadata.hasThirdLevel ? v.verse === selectedVerse : true)
       );
 
       if (foundVerse) {
@@ -67,7 +82,7 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
         onNavigate(foundVerse);
       }
     }
-  }, [selectedMandala, selectedHymn, selectedVerse, verses, onNavigate]);
+  }, [selectedMandala, selectedHymn, selectedVerse, verses, onNavigate, metadata.hasThirdLevel]);
 
   const handlePrevious = () => {
     if (!currentVerse) return;
@@ -75,14 +90,18 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
     const currentIndex = verses.findIndex(
       v => v.mandala === currentVerse.mandala &&
            v.hymn === currentVerse.hymn &&
-           v.verse === currentVerse.verse
+           (metadata.hasThirdLevel ? v.verse === currentVerse.verse : true)
     );
 
     if (currentIndex > 0) {
       const prevVerse = verses[currentIndex - 1];
       setSelectedMandala(prevVerse.mandala);
       setSelectedHymn(prevVerse.hymn);
-      setSelectedVerse(prevVerse.verse);
+      if (metadata.hasThirdLevel) {
+        setSelectedVerse(prevVerse.verse);
+      } else {
+        setSelectedVerse(1);
+      }
       setCurrentVerse(prevVerse);
       onNavigate(prevVerse);
     } else {
@@ -97,14 +116,18 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
     const currentIndex = verses.findIndex(
       v => v.mandala === currentVerse.mandala &&
            v.hymn === currentVerse.hymn &&
-           v.verse === currentVerse.verse
+           (metadata.hasThirdLevel ? v.verse === currentVerse.verse : true)
     );
 
     if (currentIndex < verses.length - 1) {
       const nextVerse = verses[currentIndex + 1];
       setSelectedMandala(nextVerse.mandala);
       setSelectedHymn(nextVerse.hymn);
-      setSelectedVerse(nextVerse.verse);
+      if (metadata.hasThirdLevel) {
+        setSelectedVerse(nextVerse.verse);
+      } else {
+        setSelectedVerse(1);
+      }
       setCurrentVerse(nextVerse);
       onNavigate(nextVerse);
     } else {
@@ -139,23 +162,25 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
             className="navigator-select"
             disabled={selectedMandala === ''}
           >
-            <option value="">Hymn</option>
+            <option value="">{metadata.hymnLabel}</option>
             {hymns.map(h => (
               <option key={h} value={h}>{h}</option>
             ))}
           </select>
 
-          <select
-            value={selectedVerse}
-            onChange={(e) => setSelectedVerse(e.target.value ? parseInt(e.target.value) : '')}
-            className="navigator-select"
-            disabled={selectedHymn === ''}
-          >
-            <option value="">Verse</option>
-            {versesInHymn.map(v => (
-              <option key={v} value={v}>{v}</option>
-            ))}
-          </select>
+          {metadata.hasThirdLevel && (
+            <select
+              value={selectedVerse}
+              onChange={(e) => setSelectedVerse(e.target.value ? parseInt(e.target.value) : '')}
+              className="navigator-select"
+              disabled={selectedHymn === ''}
+            >
+              <option value="">{metadata.verseLabel}</option>
+              {versesInHymn.map(v => (
+                <option key={v} value={v}>{v}</option>
+              ))}
+            </select>
+          )}
         </div>
 
         <div className="navigator-buttons">

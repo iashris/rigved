@@ -131,6 +131,18 @@ async function loadRigvedaJson(): Promise<Verse[]> {
   return verses as Verse[];
 }
 
+async function loadYajurvedaBlackJson(): Promise<Verse[]> {
+  const response = await fetch('./yajurveda_black.json');
+  const verses = await response.json();
+  return verses as Verse[];
+}
+
+async function loadYajurvedaWhiteJson(): Promise<Verse[]> {
+  const response = await fetch('./yajurveda_white.json');
+  const verses = await response.json();
+  return verses as Verse[];
+}
+
 // Keep old parser as fallback
 function parseAtharvavedaText(text: string): Verse[] {
   const metadata = VEDA_CONFIGS.atharvaveda;
@@ -253,6 +265,18 @@ export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
         const text = await response.text();
         return parseAtharvavedaText(text);
       }
+    }
+
+    if (vedaId === "yajurveda_black") {
+      const verses = await loadYajurvedaBlackJson();
+      console.log(`Loaded ${verses.length} Krishna Yajurveda verses from JSON`);
+      return verses;
+    }
+
+    if (vedaId === "yajurveda_white") {
+      const verses = await loadYajurvedaWhiteJson();
+      console.log(`Loaded ${verses.length} Shukla Yajurveda verses from JSON`);
+      return verses;
     }
 
     console.warn(`Unsupported vedaId "${vedaId}" supplied to loadVedaData`);

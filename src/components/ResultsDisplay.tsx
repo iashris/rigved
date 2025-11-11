@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ChevronDown, ChevronUp } from "lucide-react";
+import { ChevronDown, ChevronUp, Copy, Check } from "lucide-react";
 import type { SearchResult, VedaMetadata } from "../types";
 
 interface ResultsDisplayProps {
@@ -62,6 +62,7 @@ export default function ResultsDisplay({ results, metadata }: ResultsDisplayProp
   const [expandedResults, setExpandedResults] = useState<Set<string>>(
     new Set()
   );
+  const [copiedVerse, setCopiedVerse] = useState<string | null>(null);
 
   if (!results || results.length === 0) {
     return null;
@@ -75,6 +76,19 @@ export default function ResultsDisplay({ results, metadata }: ResultsDisplayProp
       newExpanded.add(word);
     }
     setExpandedResults(newExpanded);
+  };
+
+  const copyVerseToClipboard = async (verse: { reference: string; text: string; meaning?: string; vedaId: string }, verseKey: string) => {
+    const vedaPrefix = verse.vedaId === 'rigveda' ? 'RV' : 'AV';
+    const formattedText = `${vedaPrefix} ${verse.reference}\n\n${verse.meaning || ''}\n\n${verse.text}`;
+
+    try {
+      await navigator.clipboard.writeText(formattedText);
+      setCopiedVerse(verseKey);
+      setTimeout(() => setCopiedVerse(null), 2000);
+    } catch (err) {
+      console.error('Failed to copy:', err);
+    }
   };
 
   const buildVerseLink = (reference: string) => {
@@ -143,20 +157,31 @@ export default function ResultsDisplay({ results, metadata }: ResultsDisplayProp
                 <div className="verses-list">
                   {result.matches.map((verse, idx) => {
                     const verseLink = buildVerseLink(verse.reference);
+                    const verseKey = `${result.word}-${verse.reference}`;
+                    const isCopied = copiedVerse === verseKey;
                     return (
                       <div key={idx} className="verse-item">
-                        {verseLink ? (
-                          <a
-                            href={verseLink}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="verse-ref"
+                        <div className="verse-header-row">
+                          {verseLink ? (
+                            <a
+                              href={verseLink}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="verse-ref"
+                            >
+                              {verse.reference}
+                            </a>
+                          ) : (
+                            <span className="verse-ref">{verse.reference}</span>
+                          )}
+                          <button
+                            className="copy-verse-btn"
+                            onClick={() => copyVerseToClipboard(verse, verseKey)}
+                            title="Copy verse"
                           >
-                            {verse.reference}
-                          </a>
-                        ) : (
-                          <span className="verse-ref">{verse.reference}</span>
-                        )}
+                            {isCopied ? <Check size={16} /> : <Copy size={16} />}
+                          </button>
+                        </div>
                         <div className="verse-content">
                         <div className="verse-original">
                           <strong>Original: </strong>

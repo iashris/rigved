@@ -19,6 +19,11 @@
   cursor: pointer;
   transition: all 0.2s ease;
   min-width: 100px;
+  position: relative;
+  z-index: 10;
+  -webkit-appearance: menulist;
+  -moz-appearance: menulist;
+  appearance: menulist;
 }
 
 .navigator-select:focus {
