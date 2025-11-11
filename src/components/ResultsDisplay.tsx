@@ -79,7 +79,13 @@ export default function ResultsDisplay({ results, metadata }: ResultsDisplayProp
   };
 
   const copyVerseToClipboard = async (verse: { reference: string; text: string; meaning?: string; vedaId: string }, verseKey: string) => {
-    const vedaPrefix = verse.vedaId === 'rigveda' ? 'RV' : 'AV';
+    const vedaPrefixMap: Record<string, string> = {
+      'rigveda': 'RV',
+      'atharvaveda': 'AV',
+      'yajurveda_black': 'YV-K',
+      'yajurveda_white': 'YV-S'
+    };
+    const vedaPrefix = vedaPrefixMap[verse.vedaId] || 'VV';
     const formattedText = `${vedaPrefix} ${verse.reference}\n\n${verse.meaning || ''}\n\n${verse.text}`;
 
     try {

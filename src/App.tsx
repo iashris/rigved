@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useCallback } from 'react';
 import SearchBar from './components/SearchBar';
 import Controls from './components/Controls';
 import ChartVisualization from './components/ChartVisualization';
@@ -81,14 +81,20 @@ function App() {
     }
   }, [metadata, orderType]);
 
-  // Perform search when verses are loaded and search terms exist
-  useEffect(() => {
-    if (verses.length > 0 && searchTerms.length > 0) {
-      handleSearch(searchTerms);
+  const updateURL = useCallback((terms: string[]) => {
+    const params = new URLSearchParams();
+    if (terms.length > 0) {
+      params.set('q', terms.join(','));
     }
-  }, [verses, searchTerms]);
-  
-  const handleSearch = (terms: string[]) => {
+    params.set('order', orderType);
+    params.set('mode', displayMode);
+    params.set('veda', currentVeda);
+
+    const newURL = `${window.location.pathname}?${params.toString()}`;
+    window.history.pushState({}, '', newURL);
+  }, [orderType, displayMode, currentVeda]);
+
+  const handleSearch = useCallback((terms: string[]) => {
     if (!verses.length) {
       setError('Data not loaded yet');
       return;
@@ -110,23 +116,21 @@ function App() {
       setSearchResults([]);
     } else {
       setSearchResults(results);
-      setSearchTerms(terms);
+      // Only update searchTerms if they're different to avoid infinite loop
+      setSearchTerms(prevTerms => {
+        const termsChanged = JSON.stringify(prevTerms) !== JSON.stringify(terms);
+        return termsChanged ? terms : prevTerms;
+      });
       updateURL(terms);
     }
-  };
+  }, [verses, metadata, updateURL]);
 
-  const updateURL = (terms: string[]) => {
-    const params = new URLSearchParams();
-    if (terms.length > 0) {
-      params.set('q', terms.join(','));
+  // Perform search when verses are loaded and search terms exist
+  useEffect(() => {
+    if (verses.length > 0 && searchTerms.length > 0) {
+      handleSearch(searchTerms);
     }
-    params.set('order', orderType);
-    params.set('mode', displayMode);
-    params.set('veda', currentVeda);
-
-    const newURL = `${window.location.pathname}?${params.toString()}`;
-    window.history.pushState({}, '', newURL);
-  };
+  }, [verses, searchTerms, handleSearch]);
 
   const copyShareLink = () => {
     const url = window.location.href;
@@ -142,7 +146,7 @@ function App() {
     if (searchTerms.length > 0) {
       updateURL(searchTerms);
     }
-  }, [orderType, displayMode, currentVeda]);
+  }, [orderType, displayMode, currentVeda, searchTerms, updateURL]);
 
   const handleVedaChange = (veda: VedaId) => {
     if (veda === currentVeda) return;
@@ -152,7 +156,7 @@ function App() {
     setNavigatedVerse(null);
   };
 
-  const handleNavigateToVerse = (verse: Verse) => {
+  const handleNavigateToVerse = useCallback((verse: Verse) => {
     setNavigatedVerse(verse);
     setSearchResults([]);
     setSearchTerms([]);
@@ -165,7 +169,7 @@ function App() {
         element.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     }, 100);
-  };
+  }, []);
   
   if (loading) {
     return (
