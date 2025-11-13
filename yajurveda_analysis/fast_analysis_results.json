@@ -1,0 +1,199 @@
+{
+  "summary": {
+    "black_verses": 633,
+    "white_verses": 1952,
+    "black_kandas": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "white_books": 40,
+    "exact_matches": 0,
+    "sample_similarities": 0,
+    "books_1_18_with_matches": 1,
+    "common_phrases_found": 4
+  },
+  "black_stats": {
+    "total_verses": 633,
+    "kandas": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "with_english": 622,
+    "sanskrit_only": 11
+  },
+  "white_stats": {
+    "total_verses": 1952,
+    "books": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "with_english": 1952,
+    "sanskrit_only": 0
+  },
+  "exact_matches_sample": [],
+  "similarities_sample": [],
+  "first_18_books": {
+    "1": {
+      "total_verses": 31,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "2": {
+      "total_verses": 33,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "3": {
+      "total_verses": 63,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "4": {
+      "total_verses": 37,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "5": {
+      "total_verses": 43,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "6": {
+      "total_verses": 37,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "7": {
+      "total_verses": 47,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "8": {
+      "total_verses": 63,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "9": {
+      "total_verses": 40,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "10": {
+      "total_verses": 34,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "11": {
+      "total_verses": 83,
+      "matches_with_kandas": {
+        "4": 1
+      },
+      "has_matches": true
+    },
+    "12": {
+      "total_verses": 116,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "13": {
+      "total_verses": 57,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "14": {
+      "total_verses": 31,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "15": {
+      "total_verses": 64,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "16": {
+      "total_verses": 66,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "17": {
+      "total_verses": 97,
+      "matches_with_kandas": {},
+      "has_matches": false
+    },
+    "18": {
+      "total_verses": 77,
+      "matches_with_kandas": {},
+      "has_matches": false
+    }
+  },
+  "common_phrases": [
+    {
+      "phrase": "यस्यामतिर्भा अदिद्युतत्सवीमनि हिरण्यपाणिरमिमीत सुक्रतुः कृपा",
+      "black_count": 1,
+      "white_count": 1
+    },
+    {
+      "phrase": "आसीदद्विश्वा भुवनानि सम्राड्विश्वेत्तानि वरुणस्य व्रतानि",
+      "black_count": 1,
+      "white_count": 1
+    },
+    {
+      "phrase": "युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम",
+      "black_count": 1,
+      "white_count": 1
+    },
+    {
+      "phrase": "सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय",
+      "black_count": 1,
+      "white_count": 1
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "stats": {
+    "black": {
+      "total_sections": 633,
+      "total_mantras": 2204,
+      "by_kanda": {
+        "1": {
+          "sections": 134,
+          "mantras": 347,
+          "with_english": 132
+        },
+        "2": {
+          "sections": 72,
+          "mantras": 384,
+          "with_english": 70
+        },
+        "3": {
+          "sections": 55,
+          "mantras": 206,
+          "with_english": 52
+        },
+        "4": {
+          "sections": 81,
+          "mantras": 279,
+          "with_english": 79
+        },
+        "5": {
+          "sections": 120,
+          "mantras": 403,
+          "with_english": 120
+        },
+        "6": {
+          "sections": 64,
+          "mantras": 333,
+          "with_english": 64
+        },
+        "7": {
+          "sections": 107,
+          "mantras": 252,
+          "with_english": 105
+        }
+      }
+    },
+    "white": {
+      "total_verses": 1952,
+      "total_books": 40,
+      "by_book": {
+        "1": 31,
+        "2": 33,
+        "3": 63,
+        "4": 37,
+        "5": 43,
+        "6": 37,
+        "7": 47,
+        "8": 63,
+        "9": 40,
+        "10": 34,
+        "11": 83,
+        "12": 116,
+        "13": 57,
+        "14": 31,
+        "15": 64,
+        "16": 66,
+        "17": 97,
+        "18": 77,
+        "19": 95,
+        "20": 89,
+        "21": 61,
+        "22": 34,
+        "23": 53,
+        "24": 40,
+        "25": 47,
+        "26": 26,
+        "27": 45,
+        "28": 46,
+        "29": 60,
+        "30": 22,
+        "31": 22,
+        "32": 16,
+        "33": 95,
+        "34": 58,
+        "35": 22,
+        "36": 23,
+        "37": 21,
+        "38": 28,
+        "39": 13,
+        "40": 17
+      }
+    }
+  },
+  "sample_comparison": {
+    "sample_size": "92 Black, 49 White",
+    "exact_matches": 0,
+    "partial_matches": 0,
+    "estimated_overlap": "0.0%"
+  },
+  "vocabulary": {
+    "black_unique": 13200,
+    "white_unique": 3959,
+    "common": 1630,
+    "overlap_percent": 12.348484848484848,
+    "top_common": [
+      "त्वा",
+      "स्वाहा",
+      "देवा",
+      "अग्ने",
+      "प्रति",
+      "उपयामगृहीतो",
+      "यज्ञं",
+      "प्रजा",
+      "विश्वे",
+      "पाहि",
+      "यज्ञस्य",
+      "सविता",
+      "देवस्य",
+      "देवानां",
+      "गच्छ",
+      "यज्ञो",
+      "यज्ञेन",
+      "देवाः",
+      "गृह्णामि",
+      "सवितुः"
+    ]
+  },
+  "first_18_books": {
+    "books_with_matches": 7,
+    "total_books": 18,
+    "claim_support": "Weak",
+    "book_details": {
+      "1": {
+        "verses": 31,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "2": {
+        "verses": 33,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "3": {
+        "verses": 63,
+        "sample_matches": 1,
+        "has_similarity": true
+      },
+      "4": {
+        "verses": 37,
+        "sample_matches": 2,
+        "has_similarity": true
+      },
+      "5": {
+        "verses": 43,
+        "sample_matches": 1,
+        "has_similarity": true
+      },
+      "6": {
+        "verses": 37,
+        "sample_matches": 1,
+        "has_similarity": true
+      },
+      "7": {
+        "verses": 47,
+        "sample_matches": 5,
+        "has_similarity": true
+      },
+      "8": {
+        "verses": 63,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "9": {
+        "verses": 40,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "10": {
+        "verses": 34,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "11": {
+        "verses": 83,
+        "sample_matches": 1,
+        "has_similarity": true
+      },
+      "12": {
+        "verses": 116,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "13": {
+        "verses": 57,
+        "sample_matches": 1,
+        "has_similarity": true
+      },
+      "14": {
+        "verses": 31,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "15": {
+        "verses": 64,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "16": {
+        "verses": 66,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "17": {
+        "verses": 97,
+        "sample_matches": 0,
+        "has_similarity": false
+      },
+      "18": {
+        "verses": 77,
+        "sample_matches": 0,
+        "has_similarity": false
+      }
+    }
+  }
+}
