@@ -1,0 +1,537 @@
+{
+  "Rigveda": {
+    "Indra": {
+      "count": 3888,
+      "percentage": 150.94386503258028,
+      "per_1000_chars": 150.94386503258028
+    },
+    "Agni": {
+      "count": 2050,
+      "percentage": 79.58717163497674,
+      "per_1000_chars": 79.58717163497674
+    },
+    "Rudra/Shiva": {
+      "count": 316,
+      "percentage": 12.268071334952513,
+      "per_1000_chars": 12.268071334952513
+    },
+    "Soma": {
+      "count": 2496,
+      "percentage": 96.90223434190338,
+      "per_1000_chars": 96.90223434190338
+    },
+    "Varuna": {
+      "count": 520,
+      "percentage": 20.187965487896538,
+      "per_1000_chars": 20.187965487896538
+    },
+    "Vishnu": {
+      "count": 150,
+      "percentage": 5.8234515830470786,
+      "per_1000_chars": 5.8234515830470786
+    },
+    "Prajapati/Brahma": {
+      "count": 33,
+      "percentage": 1.2811593482703574,
+      "per_1000_chars": 1.2811593482703574
+    },
+    "Yama": {
+      "count": 1708,
+      "percentage": 66.3097020256294,
+      "per_1000_chars": 66.3097020256294
+    },
+    "Surya": {
+      "count": 597,
+      "percentage": 23.177337300527373,
+      "per_1000_chars": 23.177337300527373
+    },
+    "Maruts": {
+      "count": 918,
+      "percentage": 35.63952368824812,
+      "per_1000_chars": 35.63952368824812
+    },
+    "Ashvins": {
+      "count": 542,
+      "percentage": 21.042071720076777,
+      "per_1000_chars": 21.042071720076777
+    },
+    "Vayu": {
+      "count": 248,
+      "percentage": 9.628106617304503,
+      "per_1000_chars": 9.628106617304503
+    },
+    "Mitra": {
+      "count": 889,
+      "percentage": 34.51365638219235,
+      "per_1000_chars": 34.51365638219235
+    },
+    "Ushas": {
+      "count": 154,
+      "percentage": 5.978743625261667,
+      "per_1000_chars": 5.978743625261667
+    },
+    "Savitr": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Pushan": {
+      "count": 159,
+      "percentage": 6.172858678029903,
+      "per_1000_chars": 6.172858678029903
+    },
+    "Brihaspati": {
+      "count": 131,
+      "percentage": 5.085814382527782,
+      "per_1000_chars": 5.085814382527782
+    },
+    "Dyaus": {
+      "count": 37,
+      "percentage": 1.436451390484946,
+      "per_1000_chars": 1.436451390484946
+    },
+    "Prithivi": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Aditi": {
+      "count": 191,
+      "percentage": 7.4151950157466135,
+      "per_1000_chars": 7.4151950157466135
+    },
+    "Adityas": {
+      "count": 81,
+      "percentage": 3.1446638548454224,
+      "per_1000_chars": 3.1446638548454224
+    }
+  },
+  "Yajurveda (Black)": {
+    "Indra": {
+      "count": 1031,
+      "percentage": 56.642967454192544,
+      "per_1000_chars": 56.642967454192544
+    },
+    "Agni": {
+      "count": 1316,
+      "percentage": 72.30081975724285,
+      "per_1000_chars": 72.30081975724285
+    },
+    "Rudra/Shiva": {
+      "count": 167,
+      "percentage": 9.174952051261062,
+      "per_1000_chars": 9.174952051261062
+    },
+    "Soma": {
+      "count": 948,
+      "percentage": 52.08296134488315,
+      "per_1000_chars": 52.08296134488315
+    },
+    "Varuna": {
+      "count": 336,
+      "percentage": 18.459783767806687,
+      "per_1000_chars": 18.459783767806687
+    },
+    "Vishnu": {
+      "count": 70,
+      "percentage": 3.8457882849597262,
+      "per_1000_chars": 3.8457882849597262
+    },
+    "Prajapati/Brahma": {
+      "count": 676,
+      "percentage": 37.1393268661825,
+      "per_1000_chars": 37.1393268661825
+    },
+    "Yama": {
+      "count": 551,
+      "percentage": 30.271847785897275,
+      "per_1000_chars": 30.271847785897275
+    },
+    "Surya": {
+      "count": 153,
+      "percentage": 8.405794394269115,
+      "per_1000_chars": 8.405794394269115
+    },
+    "Maruts": {
+      "count": 197,
+      "percentage": 10.823147030529515,
+      "per_1000_chars": 10.823147030529515
+    },
+    "Ashvins": {
+      "count": 1,
+      "percentage": 0.054939832642281805,
+      "per_1000_chars": 0.054939832642281805
+    },
+    "Vayu": {
+      "count": 177,
+      "percentage": 9.72435037768388,
+      "per_1000_chars": 9.72435037768388
+    },
+    "Mitra": {
+      "count": 171,
+      "percentage": 9.394711381830188,
+      "per_1000_chars": 9.394711381830188
+    },
+    "Ushas": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Savitr": {
+      "count": 166,
+      "percentage": 9.120012218618779,
+      "per_1000_chars": 9.120012218618779
+    },
+    "Pushan": {
+      "count": 1,
+      "percentage": 0.054939832642281805,
+      "per_1000_chars": 0.054939832642281805
+    },
+    "Brihaspati": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Dyaus": {
+      "count": 12,
+      "percentage": 0.6592779917073817,
+      "per_1000_chars": 0.6592779917073817
+    },
+    "Prithivi": {
+      "count": 9,
+      "percentage": 0.49445849378053625,
+      "per_1000_chars": 0.49445849378053625
+    },
+    "Aditi": {
+      "count": 91,
+      "percentage": 4.999524770447644,
+      "per_1000_chars": 4.999524770447644
+    },
+    "Adityas": {
+      "count": 149,
+      "percentage": 8.18603506369999,
+      "per_1000_chars": 8.18603506369999
+    }
+  },
+  "Yajurveda (White)": {
+    "Indra": {
+      "count": 727,
+      "percentage": 111.51213212116936,
+      "per_1000_chars": 111.51213212116936
+    },
+    "Agni": {
+      "count": 531,
+      "percentage": 81.44833859194075,
+      "per_1000_chars": 81.44833859194075
+    },
+    "Rudra/Shiva": {
+      "count": 50,
+      "percentage": 7.669335083986889,
+      "per_1000_chars": 7.669335083986889
+    },
+    "Soma": {
+      "count": 405,
+      "percentage": 62.1216141802938,
+      "per_1000_chars": 62.1216141802938
+    },
+    "Varuna": {
+      "count": 138,
+      "percentage": 21.167364831803813,
+      "per_1000_chars": 21.167364831803813
+    },
+    "Vishnu": {
+      "count": 114,
+      "percentage": 17.486083991490105,
+      "per_1000_chars": 17.486083991490105
+    },
+    "Prajapati/Brahma": {
+      "count": 82,
+      "percentage": 12.577709537738498,
+      "per_1000_chars": 12.577709537738498
+    },
+    "Yama": {
+      "count": 227,
+      "percentage": 34.818781281300474,
+      "per_1000_chars": 34.818781281300474
+    },
+    "Surya": {
+      "count": 112,
+      "percentage": 17.17931058813063,
+      "per_1000_chars": 17.17931058813063
+    },
+    "Maruts": {
+      "count": 89,
+      "percentage": 13.651416449496661,
+      "per_1000_chars": 13.651416449496661
+    },
+    "Ashvins": {
+      "count": 1,
+      "percentage": 0.15338670167973778,
+      "per_1000_chars": 0.15338670167973778
+    },
+    "Vayu": {
+      "count": 11,
+      "percentage": 1.6872537184771155,
+      "per_1000_chars": 1.6872537184771155
+    },
+    "Mitra": {
+      "count": 101,
+      "percentage": 15.492056869653515,
+      "per_1000_chars": 15.492056869653515
+    },
+    "Ushas": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Savitr": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Pushan": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Brihaspati": {
+      "count": 65,
+      "percentage": 9.970135609182956,
+      "per_1000_chars": 9.970135609182956
+    },
+    "Dyaus": {
+      "count": 6,
+      "percentage": 0.9203202100784266,
+      "per_1000_chars": 0.9203202100784266
+    },
+    "Prithivi": {
+      "count": 5,
+      "percentage": 0.7669335083986889,
+      "per_1000_chars": 0.7669335083986889
+    },
+    "Aditi": {
+      "count": 63,
+      "percentage": 9.66336220582348,
+      "per_1000_chars": 9.66336220582348
+    },
+    "Adityas": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    }
+  },
+  "Yajurveda (Combined)": {
+    "Indra": {
+      "count": 1758,
+      "percentage": 71.11302399842079,
+      "per_1000_chars": 71.11302399842079
+    },
+    "Agni": {
+      "count": 1847,
+      "percentage": 74.71317140220887,
+      "per_1000_chars": 74.71317140220887
+    },
+    "Rudra/Shiva": {
+      "count": 217,
+      "percentage": 8.777887490134988,
+      "per_1000_chars": 8.777887490134988
+    },
+    "Soma": {
+      "count": 1353,
+      "percentage": 54.73033075646378,
+      "per_1000_chars": 54.73033075646378
+    },
+    "Varuna": {
+      "count": 474,
+      "percentage": 19.173818757253386,
+      "per_1000_chars": 19.173818757253386
+    },
+    "Vishnu": {
+      "count": 184,
+      "percentage": 7.443001374123678,
+      "per_1000_chars": 7.443001374123678
+    },
+    "Prajapati/Brahma": {
+      "count": 758,
+      "percentage": 30.661929573835582,
+      "per_1000_chars": 30.661929573835582
+    },
+    "Yama": {
+      "count": 778,
+      "percentage": 31.47095146232729,
+      "per_1000_chars": 31.47095146232729
+    },
+    "Surya": {
+      "count": 265,
+      "percentage": 10.719540022515078,
+      "per_1000_chars": 10.719540022515078
+    },
+    "Maruts": {
+      "count": 286,
+      "percentage": 11.569013005431367,
+      "per_1000_chars": 11.569013005431367
+    },
+    "Ashvins": {
+      "count": 2,
+      "percentage": 0.0809021888491704,
+      "per_1000_chars": 0.0809021888491704
+    },
+    "Vayu": {
+      "count": 188,
+      "percentage": 7.604805751822018,
+      "per_1000_chars": 7.604805751822018
+    },
+    "Mitra": {
+      "count": 272,
+      "percentage": 11.002697683487176,
+      "per_1000_chars": 11.002697683487176
+    },
+    "Ushas": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Savitr": {
+      "count": 166,
+      "percentage": 6.714881674481144,
+      "per_1000_chars": 6.714881674481144
+    },
+    "Pushan": {
+      "count": 1,
+      "percentage": 0.0404510944245852,
+      "per_1000_chars": 0.0404510944245852
+    },
+    "Brihaspati": {
+      "count": 65,
+      "percentage": 2.6293211375980383,
+      "per_1000_chars": 2.6293211375980383
+    },
+    "Dyaus": {
+      "count": 18,
+      "percentage": 0.7281196996425336,
+      "per_1000_chars": 0.7281196996425336
+    },
+    "Prithivi": {
+      "count": 14,
+      "percentage": 0.5663153219441929,
+      "per_1000_chars": 0.5663153219441929
+    },
+    "Aditi": {
+      "count": 154,
+      "percentage": 6.2294685413861215,
+      "per_1000_chars": 6.2294685413861215
+    },
+    "Adityas": {
+      "count": 149,
+      "percentage": 6.027213069263195,
+      "per_1000_chars": 6.027213069263195
+    }
+  },
+  "Atharvaveda": {
+    "Indra": {
+      "count": 1205,
+      "percentage": 82.1083516799505,
+      "per_1000_chars": 82.1083516799505
+    },
+    "Agni": {
+      "count": 855,
+      "percentage": 58.25945285174911,
+      "per_1000_chars": 58.25945285174911
+    },
+    "Rudra/Shiva": {
+      "count": 194,
+      "percentage": 13.219103921917341,
+      "per_1000_chars": 13.219103921917341
+    },
+    "Soma": {
+      "count": 425,
+      "percentage": 28.95937714853026,
+      "per_1000_chars": 28.95937714853026
+    },
+    "Varuna": {
+      "count": 226,
+      "percentage": 15.399574671924325,
+      "per_1000_chars": 15.399574671924325
+    },
+    "Vishnu": {
+      "count": 58,
+      "percentage": 3.9521032343876588,
+      "per_1000_chars": 3.9521032343876588
+    },
+    "Prajapati/Brahma": {
+      "count": 283,
+      "percentage": 19.283538195374266,
+      "per_1000_chars": 19.283538195374266
+    },
+    "Yama": {
+      "count": 549,
+      "percentage": 37.40870130480732,
+      "per_1000_chars": 37.40870130480732
+    },
+    "Surya": {
+      "count": 148,
+      "percentage": 10.084677218782302,
+      "per_1000_chars": 10.084677218782302
+    },
+    "Maruts": {
+      "count": 112,
+      "percentage": 7.631647625024445,
+      "per_1000_chars": 7.631647625024445
+    },
+    "Ashvins": {
+      "count": 32,
+      "percentage": 2.180470750006984,
+      "per_1000_chars": 2.180470750006984
+    },
+    "Vayu": {
+      "count": 82,
+      "percentage": 5.587456296892897,
+      "per_1000_chars": 5.587456296892897
+    },
+    "Mitra": {
+      "count": 182,
+      "percentage": 12.401427390664722,
+      "per_1000_chars": 12.401427390664722
+    },
+    "Ushas": {
+      "count": 1,
+      "percentage": 0.06813971093771826,
+      "per_1000_chars": 0.06813971093771826
+    },
+    "Savitr": {
+      "count": 0,
+      "percentage": 0.0,
+      "per_1000_chars": 0.0
+    },
+    "Pushan": {
+      "count": 4,
+      "percentage": 0.272558843750873,
+      "per_1000_chars": 0.272558843750873
+    },
+    "Brihaspati": {
+      "count": 135,
+      "percentage": 9.198860976591964,
+      "per_1000_chars": 9.198860976591964
+    },
+    "Dyaus": {
+      "count": 7,
+      "percentage": 0.4769779765640278,
+      "per_1000_chars": 0.4769779765640278
+    },
+    "Prithivi": {
+      "count": 233,
+      "percentage": 15.876552648488353,
+      "per_1000_chars": 15.876552648488353
+    },
+    "Aditi": {
+      "count": 48,
+      "percentage": 3.2707061250104763,
+      "per_1000_chars": 3.2707061250104763
+    },
+    "Adityas": {
+      "count": 57,
+      "percentage": 3.883963523449941,
+      "per_1000_chars": 3.883963523449941
+    }
+  }
+}

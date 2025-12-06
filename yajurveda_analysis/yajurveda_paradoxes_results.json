@@ -1,0 +1,167 @@
+{
+  "philosophical_elements": {
+    "black": [
+      [
+        "Formlessness/Abstract",
+        3
+      ],
+      [
+        "Negative theology",
+        2
+      ],
+      [
+        "Identity philosophy",
+        2
+      ],
+      [
+        "Brahman concept",
+        189
+      ],
+      [
+        "Atman/Soul concept",
+        260
+      ],
+      [
+        "Karma doctrine",
+        219
+      ],
+      [
+        "Liberation concept",
+        8
+      ]
+    ],
+    "white": [
+      [
+        "Negative theology",
+        1
+      ],
+      [
+        "Brahman concept",
+        31
+      ],
+      [
+        "Atman/Soul concept",
+        88
+      ],
+      [
+        "Karma doctrine",
+        42
+      ],
+      [
+        "Liberation concept",
+        9
+      ]
+    ]
+  },
+  "problematic_rituals": {
+    "black": [
+      [
+        "Ashvamedha (Horse sacrifice)",
+        21
+      ],
+      [
+        "Purushamedha (Human sacrifice)",
+        8
+      ],
+      [
+        "Animal sacrifice general",
+        48
+      ],
+      [
+        "Violence in rituals",
+        50
+      ],
+      [
+        "Intoxicants",
+        23
+      ],
+      [
+        "Cursing enemies",
+        335
+      ],
+      [
+        "Death wishes",
+        113
+      ]
+    ],
+    "white": [
+      [
+        "Animal sacrifice general",
+        22
+      ],
+      [
+        "Violence in rituals",
+        43
+      ],
+      [
+        "Cursing enemies",
+        78
+      ],
+      [
+        "Death wishes",
+        19
+      ]
+    ]
+  },
+  "caste_references": {
+    "black": [
+      [
+        "Brahmin references",
+        75
+      ],
+      [
+        "Kshatriya references",
+        16
+      ],
+      [
+        "Vaishya references",
+        1
+      ],
+      [
+        "Shudra references",
+        7
+      ],
+      [
+        "Varna system",
+        17
+      ],
+      [
+        "Servitude concepts",
+        12
+      ]
+    ],
+    "white": [
+      [
+        "Brahmin references",
+        9
+      ],
+      [
+        "Kshatriya references",
+        8
+      ],
+      [
+        "Vaishya references",
+        2
+      ],
+      [
+        "Shudra references",
+        7
+      ],
+      [
+        "Varna system",
+        5
+      ],
+      [
+        "Servitude concepts",
+        6
+      ]
+    ]
+  },
+  "evolution_metrics": {
+    "Material desires": 1787,
+    "Ritual emphasis": 2851,
+    "Karma mentions": 237,
+    "Philosophical abstraction": 220,
+    "Ethical concepts": 46
+  }
+}

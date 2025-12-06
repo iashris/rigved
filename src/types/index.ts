@@ -2,7 +2,8 @@ export type VedaId =
   | "rigveda"
   | "atharvaveda"
   | "yajurveda_black"
-  | "yajurveda_white";
+  | "yajurveda_white"
+  | "satapatha_brahmana";
 
 export interface Verse {
   reference: string;
@@ -102,5 +103,18 @@ export const VEDA_CONFIGS: Record<VedaId, VedaMetadata> = {
     totalBooks: 40,
     sequentialOrder: range(40),
     dataSource: "Shukla Yajurveda (Vajasaneyi Samhita)",
+  },
+  satapatha_brahmana: {
+    id: "satapatha_brahmana",
+    name: "Satapatha Brahmana",
+    bookLabel: "Kanda",
+    pluralBookLabel: "Kandas",
+    shortLabel: "K",
+    hymnLabel: "Brahmana",
+    verseLabel: "Verse",
+    hasThirdLevel: false,
+    totalBooks: 14,
+    sequentialOrder: range(14),
+    dataSource: "Julius Eggeling's translation of the Satapatha Brahmana",
   },
 };

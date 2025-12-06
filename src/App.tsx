@@ -12,7 +12,7 @@ import { BookOpen, Share2 } from 'lucide-react';
 import './App.css';
 
 function isVedaId(value: string | null): value is VedaId {
-  return value === 'rigveda' || value === 'atharvaveda' || value === 'yajurveda_black' || value === 'yajurveda_white';
+  return value === 'rigveda' || value === 'atharvaveda' || value === 'yajurveda_black' || value === 'yajurveda_white' || value === 'satapatha_brahmana';
 }
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
   const [displayMode, setDisplayMode] = useState<DisplayMode>('absolute');
   const [error, setError] = useState<string>('');
   const [searchTerms, setSearchTerms] = useState<string[]>([]);
-  const [navigatedVerse, setNavigatedVerse] = useState<Verse | null>(null);
+  const [navigatedVerses, setNavigatedVerses] = useState<Verse[]>([]);
   const metadata = useMemo(() => VEDA_CONFIGS[currentVeda], [currentVeda]);
 
   // Load search params from URL on mount
@@ -153,11 +153,11 @@ function App() {
     setCurrentVeda(veda);
     setSearchResults([]);
     setVerses([]);
-    setNavigatedVerse(null);
+    setNavigatedVerses([]);
   };
 
-  const handleNavigateToVerse = useCallback((verse: Verse) => {
-    setNavigatedVerse(verse);
+  const handleNavigateToVerse = useCallback((verses: Verse[]) => {
+    setNavigatedVerses(verses);
     setSearchResults([]);
     setSearchTerms([]);
     setError('');
@@ -206,29 +206,50 @@ function App() {
           {error && <div className="error-message">{error}</div>}
         </section>
         
-        {navigatedVerse && (
+        {navigatedVerses.length > 0 && (
           <section className="navigated-verse-section">
             <div className="navigated-verse-content">
-              <h2>Verse: {navigatedVerse.reference}</h2>
-              <div className="verse-card">
-                <div className="verse-header">
-                  <span className="verse-reference">{navigatedVerse.reference}</span>
-                  <span className="verse-location">
-                    {metadata.bookLabel} {navigatedVerse.mandala}, {metadata.hymnLabel} {navigatedVerse.hymn}
-                    {metadata.hasThirdLevel && `, ${metadata.verseLabel} ${navigatedVerse.verse}`}
-                  </span>
-                </div>
-                {navigatedVerse.meaning && (
-                  <div className="verse-sanskrit">
-                    <div className="verse-label">Sanskrit:</div>
-                    <div className="verse-content-text">{navigatedVerse.meaning}</div>
-                  </div>
+              <h2>
+                {metadata.id === 'satapatha_brahmana' ? (
+                  <>
+                    {metadata.bookLabel} {navigatedVerses[0].reference.split('.')[0]},
+                    {' '}Adhyaya {navigatedVerses[0].reference.split('.')[1]},
+                    {' '}{metadata.hymnLabel} {navigatedVerses[0].reference.split('.')[2]}
+                    {navigatedVerses.length > 1 && ` (${navigatedVerses.length} verses)`}
+                  </>
+                ) : (
+                  <>
+                    {metadata.bookLabel} {navigatedVerses[0].mandala}, {metadata.hymnLabel} {navigatedVerses[0].hymn}
+                    {navigatedVerses.length > 1 && ` (${navigatedVerses.length} verses)`}
+                  </>
                 )}
-                <div className="verse-translation">
-                  {navigatedVerse.meaning && <div className="verse-label">English:</div>}
-                  <div className="verse-content-text">{navigatedVerse.text}</div>
+              </h2>
+              {navigatedVerses.map((verse) => (
+                <div className="verse-card" key={verse.reference}>
+                  <div className="verse-header">
+                    <span className="verse-reference">
+                      {metadata.hasThirdLevel || navigatedVerses.length === 1
+                        ? verse.reference
+                        : `${metadata.verseLabel} ${verse.verse}`}
+                    </span>
+                    {metadata.hasThirdLevel && (
+                      <span className="verse-location">
+                        {metadata.bookLabel} {verse.mandala}, {metadata.hymnLabel} {verse.hymn}, {metadata.verseLabel} {verse.verse}
+                      </span>
+                    )}
+                  </div>
+                  {verse.meaning && (
+                    <div className="verse-sanskrit">
+                      <div className="verse-label">Sanskrit:</div>
+                      <div className="verse-content-text">{verse.meaning}</div>
+                    </div>
+                  )}
+                  <div className="verse-translation">
+                    {verse.meaning && <div className="verse-label">English:</div>}
+                    <div className="verse-content-text">{verse.text}</div>
+                  </div>
                 </div>
-              </div>
+              ))}
             </div>
           </section>
         )}

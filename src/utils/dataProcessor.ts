@@ -143,6 +143,12 @@ async function loadYajurvedaWhiteJson(): Promise<Verse[]> {
   return verses as Verse[];
 }
 
+async function loadSatapathaBrahmanaJson(): Promise<Verse[]> {
+  const response = await fetch('./satapatha_brahmana.json');
+  const verses = await response.json();
+  return verses as Verse[];
+}
+
 // Keep old parser as fallback
 function parseAtharvavedaText(text: string): Verse[] {
   const metadata = VEDA_CONFIGS.atharvaveda;
@@ -276,6 +282,12 @@ export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
     if (vedaId === "yajurveda_white") {
       const verses = await loadYajurvedaWhiteJson();
       console.log(`Loaded ${verses.length} Shukla Yajurveda verses from JSON`);
+      return verses;
+    }
+
+    if (vedaId === "satapatha_brahmana") {
+      const verses = await loadSatapathaBrahmanaJson();
+      console.log(`Loaded ${verses.length} Satapatha Brahmana verses from JSON`);
       return verses;
     }
 
