@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useRef } from 'react';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 import type { Verse, VedaMetadata } from '../types';
 import './SuktaNavigator.css';
@@ -17,6 +17,9 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
   const [currentVerses, setCurrentVerses] = useState<Verse[]>([]);
   const [showModal, setShowModal] = useState(false);
   const [modalMessage, setModalMessage] = useState('');
+
+  // Track if we're doing programmatic navigation to prevent reset effects
+  const isNavigatingRef = useRef(false);
 
   const isSatapatha = metadata.id === 'satapatha_brahmana';
 
@@ -100,6 +103,11 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
   }, [selectedAdhyaya, isSatapatha]);
 
   useEffect(() => {
+    // Skip reset if we're doing programmatic navigation
+    if (isNavigatingRef.current) {
+      isNavigatingRef.current = false;
+      return;
+    }
     if (metadata.hasThirdLevel) {
       setSelectedVerse('');
     } else {
@@ -191,6 +199,16 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
     }
   }, [verses, isSatapatha]);
 
+  // Get all verses sorted for verse-level navigation (3-level vedas)
+  const allVersesSorted = useMemo(() => {
+    if (!metadata.hasThirdLevel || isSatapatha) return [];
+    return [...verses].sort((a, b) => {
+      if (a.mandala !== b.mandala) return a.mandala - b.mandala;
+      if (a.hymn !== b.hymn) return a.hymn - b.hymn;
+      return a.verse - b.verse;
+    });
+  }, [verses, metadata.hasThirdLevel, isSatapatha]);
+
   const handlePrevious = () => {
     if (currentVerses.length === 0) return;
 
@@ -208,7 +226,25 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
         setModalMessage('You are at the first brahmana.');
         setShowModal(true);
       }
+    } else if (metadata.hasThirdLevel) {
+      // For 3-level vedas: navigate verse by verse
+      const currentVerse = currentVerses[0];
+      const currentIdx = allVersesSorted.findIndex(
+        v => v.mandala === currentVerse.mandala && v.hymn === currentVerse.hymn && v.verse === currentVerse.verse
+      );
+      if (currentIdx > 0) {
+        const prev = allVersesSorted[currentIdx - 1];
+        // Set flag to prevent useEffect from resetting verse
+        isNavigatingRef.current = true;
+        setSelectedMandala(prev.mandala);
+        setSelectedHymn(prev.hymn);
+        setSelectedVerse(prev.verse);
+      } else {
+        setModalMessage(`You are at the first ${metadata.verseLabel.toLowerCase()}.`);
+        setShowModal(true);
+      }
     } else {
+      // For 2-level vedas: navigate hymn by hymn
       const currentHymn = currentVerses[0];
       const currentIdx = (uniqueSections as { mandala: number; hymn: number }[]).findIndex(
         h => h.mandala === currentHymn.mandala && h.hymn === currentHymn.hymn
@@ -217,9 +253,6 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
         const prev = (uniqueSections as { mandala: number; hymn: number }[])[currentIdx - 1];
         setSelectedMandala(prev.mandala);
         setSelectedHymn(prev.hymn);
-        if (metadata.hasThirdLevel) {
-          setSelectedVerse(1);
-        }
       } else {
         setModalMessage(`You are at the first ${metadata.hymnLabel.toLowerCase()}.`);
         setShowModal(true);
@@ -244,18 +277,33 @@ export default function SuktaNavigator({ verses, metadata, onNavigate }: SuktaNa
         setModalMessage('You are at the last brahmana.');
         setShowModal(true);
       }
+    } else if (metadata.hasThirdLevel) {
+      // For 3-level vedas: navigate verse by verse
+      const currentVerse = currentVerses[0];
+      const currentIdx = allVersesSorted.findIndex(
+        v => v.mandala === currentVerse.mandala && v.hymn === currentVerse.hymn && v.verse === currentVerse.verse
+      );
+      if (currentIdx < allVersesSorted.length - 1) {
+        const next = allVersesSorted[currentIdx + 1];
+        // Set flag to prevent useEffect from resetting verse
+        isNavigatingRef.current = true;
+        setSelectedMandala(next.mandala);
+        setSelectedHymn(next.hymn);
+        setSelectedVerse(next.verse);
+      } else {
+        setModalMessage(`You are at the last ${metadata.verseLabel.toLowerCase()}.`);
+        setShowModal(true);
+      }
     } else {
+      // For 2-level vedas: navigate hymn by hymn
       const currentHymn = currentVerses[0];
       const currentIdx = (uniqueSections as { mandala: number; hymn: number }[]).findIndex(
         h => h.mandala === currentHymn.mandala && h.hymn === currentHymn.hymn
       );
       if (currentIdx < uniqueSections.length - 1) {
-        const next = (uniqueSections as { mandala: number; hymn: number }[])[currentIdx - 1];
+        const next = (uniqueSections as { mandala: number; hymn: number }[])[currentIdx + 1];
         setSelectedMandala(next.mandala);
         setSelectedHymn(next.hymn);
-        if (metadata.hasThirdLevel) {
-          setSelectedVerse(1);
-        }
       } else {
         setModalMessage(`You are at the last ${metadata.hymnLabel.toLowerCase()}.`);
         setShowModal(true);
