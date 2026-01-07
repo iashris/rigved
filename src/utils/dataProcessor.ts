@@ -149,6 +149,12 @@ async function loadSatapathaBrahmanaJson(): Promise<Verse[]> {
   return verses as Verse[];
 }
 
+async function loadJaiminiyaBrahmanaJson(): Promise<Verse[]> {
+  const response = await fetch('./jaiminiya/jaiminiya.json');
+  const verses = await response.json();
+  return verses as Verse[];
+}
+
 // Keep old parser as fallback
 function parseAtharvavedaText(text: string): Verse[] {
   const metadata = VEDA_CONFIGS.atharvaveda;
@@ -291,6 +297,12 @@ export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
       return verses;
     }
 
+    if (vedaId === "jaiminiya_brahmana") {
+      const verses = await loadJaiminiyaBrahmanaJson();
+      console.log(`Loaded ${verses.length} Jaiminiya Brahmana entries from JSON`);
+      return verses;
+    }
+
     console.warn(`Unsupported vedaId "${vedaId}" supplied to loadVedaData`);
     return [];
   } catch (error) {
@@ -313,8 +325,9 @@ export function searchWord(
   // Find matching verses using normalized comparison
   const matches = verses.filter((verse) => {
     const normalizedVerseText = normalizeText(verse.text);
+    const normalizedIast = verse.iast ? normalizeText(verse.iast) : '';
 
-    // Check if any of the normalized search terms appear in the normalized verse
+    // Check if any of the normalized search terms appear in the normalized verse text or IAST
     return normalizedSearchTerms.some((term) => {
       if (caseSensitive) {
         // For case-sensitive, still use normalization but preserve case
@@ -322,14 +335,14 @@ export function searchWord(
           `\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
           "g"
         );
-        return regex.test(normalizedVerseText);
+        return regex.test(normalizedVerseText) || regex.test(normalizedIast);
       } else {
         // Case-insensitive search with normalization
         const regex = new RegExp(
           `\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
           "gi"
         );
-        return regex.test(normalizedVerseText);
+        return regex.test(normalizedVerseText) || regex.test(normalizedIast);
       }
     });
   });

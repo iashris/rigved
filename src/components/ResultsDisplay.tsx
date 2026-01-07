@@ -78,15 +78,21 @@ export default function ResultsDisplay({ results, metadata }: ResultsDisplayProp
     setExpandedResults(newExpanded);
   };
 
-  const copyVerseToClipboard = async (verse: { reference: string; text: string; meaning?: string; vedaId: string }, verseKey: string) => {
+  const copyVerseToClipboard = async (verse: { reference: string; text: string; meaning?: string; iast?: string; vedaId: string }, verseKey: string) => {
     const vedaPrefixMap: Record<string, string> = {
       'rigveda': 'RV',
       'atharvaveda': 'AV',
       'yajurveda_black': 'YV-K',
-      'yajurveda_white': 'YV-S'
+      'yajurveda_white': 'YV-S',
+      'satapatha_brahmana': 'ŚB',
+      'jaiminiya_brahmana': 'JB'
     };
     const vedaPrefix = vedaPrefixMap[verse.vedaId] || 'VV';
-    const formattedText = `${vedaPrefix} ${verse.reference}\n\n${verse.meaning || ''}\n\n${verse.text}`;
+    const parts = [`${vedaPrefix} ${verse.reference}`];
+    if (verse.iast) parts.push(verse.iast);
+    if (verse.meaning) parts.push(verse.meaning);
+    parts.push(verse.text);
+    const formattedText = parts.join('\n\n');
 
     try {
       await navigator.clipboard.writeText(formattedText);
@@ -189,16 +195,22 @@ export default function ResultsDisplay({ results, metadata }: ResultsDisplayProp
                           </button>
                         </div>
                         <div className="verse-content">
-                        <div className="verse-original">
-                          <strong>Original: </strong>
-                          {highlightMatches(verse.text, result.word)}
-                        </div>
+                        {verse.iast && (
+                          <div className="verse-iast">
+                            <strong>IAST: </strong>
+                            {highlightMatches(verse.iast, result.word)}
+                          </div>
+                        )}
                         {verse.meaning && (
                           <div className="verse-meaning">
-                            <strong>Meaning: </strong>
+                            <strong>{verse.iast ? 'Devanagari' : 'Sanskrit'}: </strong>
                             {verse.meaning}
                           </div>
                         )}
+                        <div className="verse-original">
+                          <strong>{verse.iast || verse.meaning ? 'Translation' : 'Original'}: </strong>
+                          {highlightMatches(verse.text, result.word)}
+                        </div>
                       </div>
                     </div>
                     );

@@ -12,7 +12,7 @@ import { BookOpen, Share2 } from 'lucide-react';
 import './App.css';
 
 function isVedaId(value: string | null): value is VedaId {
-  return value === 'rigveda' || value === 'atharvaveda' || value === 'yajurveda_black' || value === 'yajurveda_white' || value === 'satapatha_brahmana';
+  return value === 'rigveda' || value === 'atharvaveda' || value === 'yajurveda_black' || value === 'yajurveda_white' || value === 'satapatha_brahmana' || value === 'jaiminiya_brahmana';
 }
 
 function App() {

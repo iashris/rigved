@@ -3,7 +3,8 @@ export type VedaId =
   | "atharvaveda"
   | "yajurveda_black"
   | "yajurveda_white"
-  | "satapatha_brahmana";
+  | "satapatha_brahmana"
+  | "jaiminiya_brahmana";
 
 export interface Verse {
   reference: string;
@@ -13,6 +14,7 @@ export interface Verse {
   verse: number;
   chronologicalPosition?: number;
   meaning?: string;
+  iast?: string;
   vedaId: VedaId;
 }
 
@@ -116,5 +118,18 @@ export const VEDA_CONFIGS: Record<VedaId, VedaMetadata> = {
     totalBooks: 14,
     sequentialOrder: range(14),
     dataSource: "Julius Eggeling's translation of the Satapatha Brahmana",
+  },
+  jaiminiya_brahmana: {
+    id: "jaiminiya_brahmana",
+    name: "Jaiminiya Brahmana",
+    bookLabel: "Book",
+    pluralBookLabel: "Books",
+    shortLabel: "B",
+    hymnLabel: "Khanda",
+    verseLabel: "",
+    hasThirdLevel: false,
+    totalBooks: 3,
+    sequentialOrder: [1, 2, 3],
+    dataSource: "Jaiminiya Brāhmaṇa (TITUS Project)",
   },
 };
