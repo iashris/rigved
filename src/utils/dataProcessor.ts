@@ -150,9 +150,32 @@ async function loadSatapathaBrahmanaJson(): Promise<Verse[]> {
 }
 
 async function loadJaiminiyaBrahmanaJson(): Promise<Verse[]> {
-  const response = await fetch('./jaiminiya/jaiminiya.json');
-  const verses = await response.json();
-  return verses as Verse[];
+  const response = await fetch('./jaiminiya_brahmana.json');
+  const rawData = await response.json();
+
+  // Map the Jaiminiya data structure to the Verse interface
+  // Jaiminiya has: chapter (Book), khanda (section)
+  // Verse interface expects: mandala, hymn, verse
+  const verses: Verse[] = rawData.map((item: {
+    reference: string;
+    chapter: number;
+    khanda: number;
+    text?: string;
+    meaning?: string;
+    sanskrit_iast?: string;
+    vedaId?: string;
+  }) => ({
+    reference: item.reference,
+    text: item.text || item.meaning || '',
+    mandala: item.chapter,  // Map chapter -> mandala (Book)
+    hymn: item.khanda,      // Map khanda -> hymn
+    verse: 1,               // Jaiminiya is 2-level, so verse is always 1
+    iast: item.sanskrit_iast,
+    meaning: item.meaning,
+    vedaId: 'jaiminiya_brahmana' as const,
+  }));
+
+  return verses;
 }
 
 // Keep old parser as fallback
