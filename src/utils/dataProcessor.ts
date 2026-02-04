@@ -149,6 +149,12 @@ async function loadSatapathaBrahmanaJson(): Promise<Verse[]> {
   return verses as Verse[];
 }
 
+async function loadSamavedaJson(): Promise<Verse[]> {
+  const response = await fetch('./samaveda.json');
+  const verses = await response.json();
+  return verses as Verse[];
+}
+
 async function loadJaiminiyaBrahmanaJson(): Promise<Verse[]> {
   const response = await fetch('./jaiminiya_brahmana.json');
   const rawData = await response.json();
@@ -173,6 +179,35 @@ async function loadJaiminiyaBrahmanaJson(): Promise<Verse[]> {
     iast: item.sanskrit_iast,
     meaning: item.meaning,
     vedaId: 'jaiminiya_brahmana' as const,
+  }));
+
+  return verses;
+}
+
+async function loadChandogyaUpanishadJson(): Promise<Verse[]> {
+  const response = await fetch('./chandogya_upanishad.json');
+  const rawData = await response.json();
+
+  // Map Chandogya data to Verse interface
+  // Chandogya has: prapathaka (chapter), khanda (section), verse
+  const verses: Verse[] = rawData.map((item: {
+    reference: string;
+    mandala: number;
+    hymn: number;
+    verse: number;
+    text?: string;
+    meaning?: string;
+    sanskrit_iast?: string;
+    vedaId?: string;
+  }) => ({
+    reference: item.reference,
+    text: item.text || '',
+    mandala: item.mandala,  // prapathaka
+    hymn: item.hymn,        // khanda
+    verse: item.verse,
+    iast: item.sanskrit_iast,
+    meaning: item.meaning,
+    vedaId: 'chandogya_upanishad' as const,
   }));
 
   return verses;
@@ -323,6 +358,18 @@ export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
     if (vedaId === "jaiminiya_brahmana") {
       const verses = await loadJaiminiyaBrahmanaJson();
       console.log(`Loaded ${verses.length} Jaiminiya Brahmana entries from JSON`);
+      return verses;
+    }
+
+    if (vedaId === "samaveda") {
+      const verses = await loadSamavedaJson();
+      console.log(`Loaded ${verses.length} Samaveda verses from JSON`);
+      return verses;
+    }
+
+    if (vedaId === "chandogya_upanishad") {
+      const verses = await loadChandogyaUpanishadJson();
+      console.log(`Loaded ${verses.length} Chandogya Upanishad verses from JSON`);
       return verses;
     }
 

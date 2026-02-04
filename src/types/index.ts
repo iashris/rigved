@@ -1,10 +1,12 @@
 export type VedaId =
   | "rigveda"
+  | "samaveda"
   | "atharvaveda"
   | "yajurveda_black"
   | "yajurveda_white"
   | "satapatha_brahmana"
-  | "jaiminiya_brahmana";
+  | "jaiminiya_brahmana"
+  | "chandogya_upanishad";
 
 export interface Verse {
   reference: string;
@@ -66,6 +68,19 @@ export const VEDA_CONFIGS: Record<VedaId, VedaMetadata> = {
     chronologicalDescription: "Chronological (Talegeri)",
     dataSource: "Griffith's translation of the Rigveda",
     chronologyAttribution: "Chronological order based on Talegeri's analysis",
+  },
+  samaveda: {
+    id: "samaveda",
+    name: "Samaveda",
+    bookLabel: "Book",
+    pluralBookLabel: "Books",
+    shortLabel: "B",
+    hymnLabel: "Section",
+    verseLabel: "Verse",
+    hasThirdLevel: true,
+    totalBooks: 15,
+    sequentialOrder: range(15),
+    dataSource: "Griffith's translation (sacred-texts.com) with Sanskrit from TITUS",
   },
   atharvaveda: {
     id: "atharvaveda",
@@ -131,5 +146,18 @@ export const VEDA_CONFIGS: Record<VedaId, VedaMetadata> = {
     totalBooks: 3,
     sequentialOrder: [1, 2, 3],
     dataSource: "Jaiminiya Brāhmaṇa (TITUS Project)",
+  },
+  chandogya_upanishad: {
+    id: "chandogya_upanishad",
+    name: "Chandogya Upanishad",
+    bookLabel: "Prapathaka",
+    pluralBookLabel: "Prapathakas",
+    shortLabel: "P",
+    hymnLabel: "Khanda",
+    verseLabel: "Verse",
+    hasThirdLevel: true,
+    totalBooks: 8,
+    sequentialOrder: range(8),
+    dataSource: "Swami Lokeswarananda's translation (wisdomlib.org)",
   },
 };
