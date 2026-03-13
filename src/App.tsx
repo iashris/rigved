@@ -5,10 +5,11 @@ import ChartVisualization from './components/ChartVisualization';
 import ResultsDisplay from './components/ResultsDisplay';
 import VedaSelector from './components/VedaSelector';
 import SuktaNavigator from './components/SuktaNavigator';
+import DeityCompass from './components/DeityCompass';
 import { loadVedaData, searchWord } from './utils/dataProcessor';
 import type { Verse, SearchResult, OrderType, DisplayMode, VedaId } from './types';
 import { VEDA_CONFIGS } from './types';
-import { BookOpen, Share2 } from 'lucide-react';
+import { BookOpen, Share2, Compass } from 'lucide-react';
 import './App.css';
 
 function isVedaId(value: string | null): value is VedaId {
@@ -16,6 +17,9 @@ function isVedaId(value: string | null): value is VedaId {
 }
 
 function App() {
+  const [showCompass, setShowCompass] = useState(() => {
+    return new URLSearchParams(window.location.search).get('view') === 'compass';
+  });
   const [currentVeda, setCurrentVeda] = useState<VedaId>('rigveda');
   const [verses, setVerses] = useState<Verse[]>([]);
   const [loading, setLoading] = useState(true);
@@ -187,12 +191,41 @@ function App() {
           <BookOpen size={32} />
           <h1>{metadata.name} Analysis Tool</h1>
           <p className="subtitle">
-            Search and visualize word distributions across the {metadata.totalBooks} {metadata.pluralBookLabel}
+            {showCompass ? 'Where gods live — and where they migrate' : `Search and visualize word distributions across the ${metadata.totalBooks} ${metadata.pluralBookLabel}`}
           </p>
+          <button
+            onClick={() => setShowCompass(v => !v)}
+            style={{
+              position: 'absolute',
+              right: 20,
+              top: '50%',
+              transform: 'translateY(-50%)',
+              background: showCompass ? '#f59e0b' : 'rgba(255,255,255,0.1)',
+              color: showCompass ? '#000' : '#aaa',
+              border: 'none',
+              borderRadius: 6,
+              padding: '6px 14px',
+              fontSize: 13,
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              gap: 6,
+              fontWeight: showCompass ? 'bold' : 'normal',
+            }}
+          >
+            <Compass size={16} />
+            {showCompass ? 'Back to Search' : 'Deity Compass'}
+          </button>
         </div>
       </header>
       
       <main className="app-main">
+        {showCompass ? (
+          <section style={{ padding: '20px 0' }}>
+            <DeityCompass />
+          </section>
+        ) : (
+        <>
         <section className="search-section">
           <VedaSelector currentVeda={currentVeda} onChange={handleVedaChange} />
           <div className="search-nav-row">
@@ -287,6 +320,8 @@ function App() {
           </>
         )}
         
+        </>
+        )}
         <footer className="app-footer">
           <div className="footer-content">
             <p>Data source: {metadata.dataSource}</p>

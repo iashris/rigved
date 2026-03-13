@@ -1,0 +1,5244 @@
+[struct] Text: TA
+[text] Śānti
+[text] hariḥ   om̐  /
+[text] bʰadráṃ   kárṇebʰiḥ
+[text] kárṇebʰiś}
+[text] śr̥ṇuyā́ma   devāḥ  /  bʰadráṃ   paśyemākṣábʰir   yájatrāḥ  /
+[text] stʰiráir   áṅgais   tuṣṭuvā́ṁsas   tanū́bʰiḥ  /  vyáśema   deváhitaṃ   yád   ā́yuḥ  /
+[text] svastí   na   índro   vr̥ddʰáśravāḥ  /  svastí   naḥ   pūṣā́   viśvádevāḥ  /
+[text] svastí   nas   tā́rkṣyo   áriṣṭanemiḥ  /  svastí   no   bŕ̥haspátir   dadʰātu  //
+[text] om̐   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ
+[text] -tiś ,  -tiś ,  -tiḥ}
+[text] //
+[struct] Prapathaka: 1
+[struct] Anuvaka: 1
+[struct] Dasati: 1
+[struct] Kandika: (1)
+[text] bʰadráṃ   kárṇebʰiḥ
+[text] kárṇebʰiś}
+[text] śr̥ṇuyā́ma   devāḥ  /  bʰadráṃ   paśyemākṣábʰir   yájatrāḥ  /
+[text] stʰiráir   áṅgais   tuṣṭuvā́ṁsas   tanū́bʰiḥ  /  vyáśema   deváhitaṃ   yád   ā́yuḥ  /
+[struct] Kandika: (2)
+[text] svastí   na   índro   vr̥ddʰáśravāḥ  /  svastí   naḥ   pūṣā́   viśvádevāḥ  /
+[text] svastí   nas   tā́rkṣyo   áriṣṭanemiḥ  /  svastí   no   bŕ̥haspátir   dadʰātu  /
+[struct] Kandika: (3)
+[text] ā́pamāpāmapáḥ   sárvāḥ  /  asmā́d   asmā́d   itó   'mútaḥ  // 1 //
+[struct] Dasati: 2
+[text] agnír   vāyúś   ca   sū́ryaś   ca  /  sahá   saṃcaskarárddʰiyā  /
+[struct] Kandika: (4)
+[text] vāyváśvā   raśmipátayaḥ  /  márīcyātmāno   ádruhah  /
+[text] devī́r   bʰuvanasū́varīḥ  /  putravattvā́ya   me   suta  /
+[struct] Kandika: (5)
+[text] máhā́nā́mnī́r   mahāmānā́ḥ  /  mahasómahasaḥ   svā̀ḥ
+[text] mahasómahasaḥ   svā̀ḥ}
+[text] /
+[text] devī́ḥ   parjanyasū́varīḥ  /  putravattvā́ya   me   suta  // 2 //
+[struct] Dasati: 3
+[struct] Kandika: (6)
+[text] apā́śnyuṣṇim   apā́   rákṣaḥ  /  apā́śnyuṣṇim   apā́   rágʰam  /
+[text] ápāgʰrām   ápa   cāvárttim
+[text] cāvártim}
+[text] /  ápa   devī́r   itó   hita  /
+[struct] Kandika: (7)
+[text] vájraṃ   devī́r   ájītāṁś   ca  /  bʰúvanaṃ   devasū́varīḥ  /
+[text] ādityā́n   áditiṃ   devī́m  /  yóninordʰvam   udī́ṣata  /
+[struct] Kandika: (8)
+[text] śivā́   naḥ
+[text] naḥ   śáṃtamā}
+[text] śáṃtamā   bʰavantu  /  divyā́   ā́pa   óṣadʰayaḥ  /
+[struct] Kandika: (9)
+[text] sumr̥ḍīkā́   sárasvati  /  mā́   te   vyóma   saṃdŕ̥śi  // 3 //
+[text] amútaḥ
+[text] ámútas ;
+[text] sūtáuṣadʰayo   dvé   ca  -- 1 --
+[struct] Anuvaka: 2
+[struct] Dasati: P1/M4
+[struct] Kandika: (1)
+[text] smŕ̥tiḥ   pratyákṣam   aitihyā̀m
+[text] -hyám .
+[text] /  ánumānaś   catuṣṭayám  /
+[text] etáir   ā́dityamaṇḍalam  /  sárvair   eva   vídʰāsyate  /
+[struct] Kandika: (2)
+[text] sū́ryo   márīcīm   ā́datte  /  sárvásmād   bʰúvanād   adʰí  /
+[text] tásyā́ḥ   pā́káviśeṣeṇá
+[text] /  smr̥táṃ   kālaviśéṣaṇam  /
+[struct] Kandika: (3)
+[text] nadī́va   prábʰavāt   kā   cít  /  akṣáyyāt   syandaté   yatʰā  //  P1  =  M4
+[text] //
+[struct] Dasati: P2/M5
+[text] tā́ṃ   nádyó   'bʰí   samāyantí  /  sorúḥ   sátī   na   nivártate  /
+[struct] Kandika: (4)
+[text] eváṃ   nānā́samuttʰānā́ḥ  /  kālā́ḥ   saṃvatsaráṁ
+[text] saṃvatsaraṁṁ  .}
+[text] śritā́ḥ  /
+[text] áṇúśáś   ca   mahaśaś   cá  /  sárve   samavayánTRi   tam  /
+[struct] Kandika: (5)
+[text] sá   t@áiḥ   sarv@áiḥ
+[text] t@áis   sarv@áiḥ}
+[text] samāviṣṭaḥ  /  urúḥ
+[text] ūrús .
+[text] ūruḥ. }
+[text] sán   na   nivártate  /
+[text] ádʰí   sáṃvátsaraṃ   vidyā́t  /  tád   éva   lakṣaṇé  //  P2  =  M5  //
+[struct] Dasati: P3/M6
+[struct] Kandika: (6)
+[text] áṇúbʰíś   cá   mahadbʰiś   ca  /  samā́rūḍʰaḥ   pradŕ̥śyate  /
+[text] sáṃvátsáráḥ   pratyakṣeṇá
+[text] pratyakṣéṇá
+[text] nādʰísattvaḥ   pradŕ̥śyate  /
+[struct] Kandika: (7)
+[text] paṭáro   víklidʰaḥ   piṅgáḥ  /  etád   varuṇalákṣaṇam  /
+[text] yátráitad   upadŕ̥śyate  /  sahásraṃ   tatra   nī́yate  /
+[struct] Kandika: (8)
+[text] ékáṁ   hí   śíró   nāmā   mukʰé  /  kr̥tsnáṃ   tad   r̥tulákṣaṇam  //  P3  =  M6  //
+[struct] Dasati: P4/[M7]
+[text] úbʰáyátáḥ
+[text] úbʰáyátás. }
+[text] sáptendriyāṇí  /  jalpítaṃ
+[text] jalpítan.}
+[text] tv   eva   díhyate  /
+[struct] Kandika: (9)
+[text] śúklákŕ̥ṣṇé   sáṃvatsarasyá  /  dákṣíṇávā́mayoḥ   pārśváyóḥ  /
+[text] tásyaiṣā́   bʰávati  /
+[struct] Kandika: (10)
+[text] ṣukráṃ   te   anyád   yajatáṃ   te   anyát  /  víṣurūpe   áhanī   gʰáur   ivāsi  /
+[text] víśvā   hí   māyā́   ávasi   svadʰāvaḥ  /  bʰadrā́   te   pūṣann   ihá   rātír   astv   íti  /
+[struct] Kandika: (11/M10)
+[text] nā́tra   bʰúvavam  /  ná   pūṣā́  /  ná   paśávaḥ  /  nā́dítyáḥ
+[text] nā́''dítyáḥ ;
+[text] nā́dítyás. }
+[text] sáṃvátsárá   évá   prátyákṣéṇá   príyátámaṃ   vidyā́t  /  étád   vái   sáṃvátsárásyá   príyátamaṁ   rūpám  /  yó   'syá   máhā́n   ártʰá   útpátsyámāno   bʰaváti  /  ídáṃ   púṇyáṃ   kuruṣvetí  /  tám   ā́háraṃ   dadyā́t  //  P4  =  [M7]
+[text] //
+[text] yatʰā   lakṣaṇá   r̥tulákṣaṇaṃ   bʰúvanaṁ   saptá   ca  -- 2 ---
+[struct] Anuvaka: 3
+[struct] Dasati: P1/M8
+[struct] Kandika: (1)
+[text] sākaṃjā́nāṁ   saptátʰam   āhurekajám  /  ṣáḍ   udyamā́   ŕ̥ṣayo   devajā́   íti
+[text] devájā́   ítí. }
+[text] /
+[text] téṣām   iṣṭā́ni   víhitāni   dʰāmaśáḥ  /  stʰātré   rejante   víkr̥tāni   rūpáśaḥ
+[text] rūpáśáḥ. }
+[text] /
+[struct] Kandika: (2)
+[text] kó   nu   maryā   ámitʰitaḥ  /  sákʰā   sákʰāyam   abravīt  /  jáhāko   asmád   īṣate  /
+[struct] Kandika: (3)
+[text] yás   tityā́ja   sakʰivídaṁ   sákʰāyam  /  ná   tásya   vācy   ápi   bʰogó   asti  /
+[text] yád   īṁ   śr̥ṇóty   alákaṁ   śr̥ṇoti  //  P1  =  M8  //
+[text] ná   hí   pravéda   sukr̥tásya   pántʰām   íti  /
+[struct] Kandika: (4)
+[text] r̥túr   r̥tunā   nudyámānaḥ  /  vínanādābʰídʰāvaḥ  /  ṣáṣṭíś   cá   tríṁśakā   valgā́ḥ  /  śuklákr̥ṣṇau   ca   ṣáṣṭikau  /
+[struct] Kandika: (5)
+[text] sārāgavastráir   jarádakṣaḥ  /  vasantó   vásubʰiḥ   sahá  /  saṃvatsarásya   savitúḥ  /  praiṣakŕ̥t   pratʰamáḥ   smr̥taḥ
+[struct] Kandika: (6)
+[text] amū́n   ādáyatety   anyā́n  //  P2  =  M9//
+[struct] Dasati: P3/M10
+[text] amū́ṁś   ca   parirákṣataḥ  /  etā́   vācáḥ   prayujyánte  /  yátráitad   upadŕ̥śyate  /
+[struct] Kandika: (7)
+[text] etád   evá   vijānīyā́t  /  pramā́ṇaṃ   kālapáryaye  /
+[text] viśeṣaṇáṃ   tu   vakṣyāmáḥ  /  r̥tū́nāṃ   tan   nibódʰata  /
+[struct] Kandika: (8)
+[text] śúklávā́sā   rudragáṇaḥ  /  grīṣméṇāvartaté
+[text] grīṣméṇā́várttaté.
+[text] grīṣméṇā''vartaté . }
+[text] saha  /  nijáhan
+[text] pŕ̥tʰivīṁ   sarvā́m  //  P3  =  M10  //
+[struct] Dasati: P4/M11
+[text] jyotíṣā   'pratikʰyéna
+[text] jyotíṣā pratikʰyéna,
+[text] -ṣāprati- .}  saḥ  /
+[struct] Kandika: (9)
+[text] viśvarūpā́ṇi   vāsāṁsí  /  ādityā́nāṃ   nibódʰata  /
+[text] sáṃvátsárī́ṇaṃ   karmapʰálám  /  várṣā́bʰír   dadatāṁ   sáhá  /
+[struct] Kandika: (10)
+[text] ádúḥkʰo   dúḥkʰácakṣur   ivá  /  tád   mā   pīta
+[text] tád   mā''pīta .
+[text] tátʰāpīta,
+[text] iva   dŕ̥śyate  /
+[text] śī́ténāvyátʰyann   ivá  /  rurúdakṣa   ivá   dŕ̥śyate  /
+[struct] Kandika: (11)
+[text] hlā́dáyáte   jválataś   caivá  /  śāmyátaś   cāsya   cákṣuṣī  /
+[struct] Kandika: (M12)
+[text] yā́   vái   prájā́   bʰraṁśyanté
+[text] bʰraṁṁśyanté. }
+[text] /  sáṃvátsárā́t   tā́   bʰraṁśyanté
+[text] bʰraṁṁśyanté. }
+[text] /
+[struct] Kandika: (12)
+[text] yāḥ   práti   tiṣṭʰantí  /  sáṃvátsáré   tā́ḥ   práti   tiṣṭʰantí  /
+[text] varṣā́bʰyá   íty   artʰáḥ  //  P4  =  M11  //
+[text] śr̥ṇoty   anyā́n   sarvā́m   evá   ṣáṭ   ca  -- 3 --
+[struct] Anuvaka: 4
+[struct] Dasati: P1/M12
+[struct] Kandika: (1)
+[text] ákṣiduḥkʰóttʰitasyaivá  /  viprásanne   kanī́nike  /
+[text] ā́ṅkté   cā́dgaṇaṃ
+[text] cā́dgrahaṇaṃ.
+[text] nāstí  /  r̥bʰū́ṇāṃ
+[text] r̥bʰū́ṇān.}
+[text] tan   nibódʰata  /
+[struct] Kandika: (2)
+[text] kanakābʰā́ni   vāsāṁsí  /  ahátāni   nibódʰata  /
+[text] ánnám   áśnī́ta   mr̥jmītá  /  aháṃ   vo   jīvanápradaḥ  /
+[struct] Kandika: (3)
+[text] etā́   vācáḥ   prayujyanté  /  śarád   yatropadŕ̥śyate  //  P1  =  M12  //
+[struct] Dasati: P3/M13
+[text] ábʰídʰū́nvántó   'bʰígʰnanta   ivá  /  vātávanto   marúdgaṇāḥ  /
+[struct] Kandika: (4)
+[text] ámútó   jétúm   íṣúmukʰam   ivá  /  sáṃnáddʰā́ḥ
+[text] sánnáddʰā́s ;
+[text] sánnádʰā́ḥ.}
+[text] sáhá   dadr̥śo
+[text] há  /
+[text] ápádʰvástáir   vástívarṇair   ivá  /  viśikʰā́saḥ   kapardínáḥ  /
+[struct] Kandika: (5)
+[text] ákrúddʰásyá   yótsyamānasyá  /  kruddʰásyeva   lóhiṇī  /
+[text] hémátás   cákṣūṣī   vidyā́t  /  akṣṇáyoḥ   kṣipaṇór
+[text] kṣipaṇér .
+[text] iva  //  P3  =  M13  //
+[struct] Dasati: P3/M14
+[struct] Kandika: (6)
+[text] dúrbʰíksám   dévalokeṣú  /  manū́nam   udakáṃ   gr̥he  /
+[text] etā́
+[text] vācáḥ   pravadantī́ḥ  /  vaidyúto   yānti   śáiśirīḥ  /
+[struct] Kandika: (7)
+[text] tá   agníḥ   pávamānā   ánvaikṣata  /  ihá   jīvikā́m   áparipaśyan
+[text] áparipaśyann ;
+[text] /
+[text] tásyaiṣā́   bʰávati  /
+[struct] Kandika: (8)
+[text] ihéhá   vaḥ
+[text] vas. }
+[text] svatapásáḥ  /  márutaḥ
+[text] márutas. }
+[text] sū́ryatvacaḥ  /
+[text] śárma   saprátʰā   ā́vr̥ṇe  //  P3  =  M14  //
+[text] dŕ̥śyata   ivā́vr̥ṇe
+[text] ivā́''vr̥ṇe. }
+[text] -- 4 --
+[struct] Anuvaka: 5
+[struct] Dasati: P1/M15
+[struct] Kandika: (1)
+[text] átitāmrā́ṇi
+[text] vāsāṁsí  /  aṣṭí
+[text] ŕ̥ṣṭí.
+[text] vajriśatágʰni   ca  /
+[text] víśvé   dévā́   vípraharantí  /  agníjihvā   asáścat
+[text] asáṃścat.
+[text] /
+[struct] Kandika: (2)
+[text] náivá   dévo   na   martyáḥ  /  ná   rā́jā́   varuṇo   víbʰúḥ  /
+[text] nā́gnírnéndró   ná   pavamānáḥ  /  mātŕ̥kkaccana
+[text] mātŕ̥kkvacana.
+[text] mātr̥kvacana
+[text] vídyate  /
+[struct] Kandika: (3)
+[text] divyásyáikā   dʰánurārtniḥ  /  pr̥tʰivyā́m   áparā   śritā́  //  P1  =  M15  //
+[struct] Dasati: P2/M16
+[text] tásyéndró   vámrirūpeṇá  /  dʰanúrjyām   accʰinát   svayam  /
+[struct] Kandika: (4)
+[text] tád   indradʰánur   ity   ajyám  /  abʰrávarṇeṣu
+[text] abbʰrávarṇeṣu}
+[text] cákṣate  /
+[text] étád   évá   śáṃyór   bā́rhaspatyasyá  /  etád   rudrasya   dʰánúḥ  /
+[struct] Kandika: (5)
+[text] rudrásya   tveva   dʰánurārtniḥ  /  śíra   útpipeṣa  /  sá   pravargyò   'bʰavat
+[text] pravargyó bʰávát.
+[text] -rgyo
+[text] /
+[text] tásmād   yáḥ   sápravargyéṇa   yajñéna   yájate  /  rudrásya   sá   śíraḥ   prátidadʰāti  /
+[text] náinaṁ   rudrá   ā́ruko   bʰavati  /  yá   eváṃ   véda  //  P2  =  M16  //
+[text] śritā́   yájate   trī́ṇi   ca  -- 5 --
+[struct] Anuvaka: 6
+[struct] Dasati: P1/M17
+[struct] Kandika: (1)
+[text] atyūrdʰvākṣó   'tiraścāt  /  śíśiraḥ   pradŕ̥śyate  /
+[text] náivá   rū́páṃ   na   vāsāṁsí  /  ná   cákṣuḥ   pratidŕ̥śyate  /
+[struct] Kandika: (2)
+[text] anyónyaṃ   tú   na   hiṁsrātáḥ
+[text] hiṁṁsrātáḥ. }
+[text] /  satás   tad   devalákṣaṇam  /
+[text] lóhító   'kṣṇí
+[text] lóhítókṣṇí.}
+[text] śāra   śīrṣṇíḥ
+[text] śīrṣṇí.
+[text] /  sūryásyodayanáṃ   prati  /
+[struct] Kandika: (3)
+[text] tváṃ   káróṣi   nyañjalíkā́m  /  tvaṃ   károṣi   nijā́nukām  //  P1  =  M17  //
+[struct] Dasati: P2/M18
+[text] níjā́núkā́   me   nyañjalíkā́  /  ámī́   vā́cám   úpā́satām   ití  /
+[struct] Kandika: (4)
+[text] tásmái   sárvá   ŕ̥távo   namanté  /  máryā́dā́kárátvā́t   pra   purodʰā́m  /
+[text] brā́hmáṇa   āpnotí  /  yá   evaṃ   vedá
+[text] /  (M5)
+[text] sá   kʰálú   sáṃvátsárá   étáiḥ
+[text] sénā́nībʰiḥ
+[text] sahá  /  índrā́yá   sárvā́n   kā́mā́n   abʰivahátí  /  sá   drapsáḥ  /  tásyaiṣā́   bʰávati  //  P2  =  M18  //
+[struct] Dasati: P3/18
+[struct] Kandika: (C5/M6)
+[text] áva   drapsó   áṁśumátīm   atiṣṭʰat  /  iyānáḥ   kr̥ṣṇó   daśábʰiḥ
+[text] dáśábʰiḥ .
+[text] da- .}
+[text] sahásraiḥ
+[text] sahásráiḥ.
+[text] /  ā́vartám
+[text] prā́vartám.}
+[text] índraḥ
+[text] índraś. }
+[text] śácyā   dʰámantam  /  úpá   snúhí
+[text] stúhí.
+[text] táṃ   nŕ̥máṇā́m
+[text] nŕ̥mṇā́m.
+[text] átʰa   drām
+[text] ádʰadram .
+[text] -tʰ -
+[text] ití  /
+[struct] Kandika: (C6/M7)
+[text] étáyáivéndráḥ
+[text] étáyáivéndrás. }
+[text] sálā́vr̥kyā   sahá  /  ásúrā́n   parivr̥ścátí  /
+[struct] Kandika: (M8)
+[text] pŕ̥tʰivy   aṁśúmatī  /  tā́m   anvávastʰitaḥ
+[text] anvávastʰitas. }
+[text] saṃvatsaró   diváṃ
+[text] diváñ.}
+[text] ca  /
+[text] náiváṃvídúṣā́cā́ryāntevāsinau
+[text] /  ányónyásmai   druhyātā́m  /  yó   druhyátí  /
+[text] bʰráśyáté   svargāl   lokā́t  /  íty   ŕ̥túmaṇḍalāní  /  sū́ryamáṇḍálāny   ākʰyāyíkā́ḥ  /
+[text] átá   ū́rdʰváṁ   sanirvacánā́ḥ  //  P3  =  M  18 //
+[text] nijā́nukāṃ   bʰávati   druhyātā́ṃ   páñca   ca  -- 6 --
+[struct] Prapathaka: 4
+[text] śāntiś   śāntiḥ
+[text] śāntiḥ   śāntiḥ ;  saṃvathsaráḥ
+[text] saṃvatsaráḥ
+[text] prapāṭhaka
+[text] prapāṭhaka
+[text] anuvāka
+[text] daśati
+[text] kaṇḍikās ,
+[text] daṇḍas ;
+[text] kaṇḍikās
+[text] daśati
+[text] kaṇḍikā
+[text] anuvāka ,
+[text] daśati
+[text] anuvāka-daśati -
+[text] daśati
+[text] pādas
+[text] daṇḍas
+[text] pratīkas
+[text] Taittirīya-saṃhitā
+[text] Taittirīya-brāhmaṇa) .
+[text] háriḥ   Oṃ
+[text] háriḥ   oṃ  \  námó   'nu   madantu  \  oṃ   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ ;
+[text] háriḥ Oṃ;
+[text] śrīgaṇeśāya namaḥ}
+[struct] Anuvaka: 1
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] námo   vācé   yā́   coditā́   yā́   cā́nuditā   tásyai   vācé   námo   námo   vācé   námo   vācáspátaye   náma   ŕ̥ṣibʰyo   mantrakŕ̥dbʰyo   mántrapatibʰyo   mā́   mā́m   ŕ̥ṣayo   mantrakŕ̥to   mantrapátayaḥ
+[text] párā   dur   mā́   'hám   ŕ̥ṣīn   mantrakŕ̥to   mantrapátīn   párā   dām  \
+[struct] Mantra: 2
+[struct] Kandika: b
+[text] vaiśvadevī́ṃ
+[text] vaiśvadevī́ṃ
+[text] vā́cam   udyāsam̐   śivā́m   ádastāṃ   júṣṭāṃ   devébʰyaḥ  \
+[struct] Mantra: 3
+[struct] Kandika: c
+[text] śárma   me   dyáuḥ   śárma   pr̥tʰivī́   śárma   víśvam   idáṃ   jágat  \
+[text] dyáu}
+[struct] Kandika: d
+[text] śárma   candráś   ca   sū́ryaś   ca   śárma   brahmaprajāpatī́  \
+[struct] Mantra: 4
+[struct] Kandika: e
+[text] bʰūtáṃ   vadiṣye   bʰúvanaṃ   vadiṣye   téjo   vadiṣye   yáśo   vadiṣye   tápo   vadiṣye   bráhma   vadiṣye   satyáṃ   vadiṣye  \
+[struct] Mantra: 5
+[struct] Kandika: f
+[text] tásmā   ahám   idám   upastáraṇam   úpastr̥ṇa   upastáraṇaṃ   me   prajā́yai   paśūnā́ṃ   bʰūyād   upastáraṇam   aháṃ   prajāyai   paśūnā́ṃ   bʰūyāsam  \
+[struct] Mantra: 6
+[struct] Kandika: g
+[text] prā́ṇāpānau   mr̥tyór   mā   pātaṃ   prā́ṇāpānau   mā́   mā   hāsiṣṭam  \
+[struct] Mantra: 7
+[struct] Kandika: h
+[text] mádʰu   maniṣye   mádʰu   janiṣye   mádʰu   vakṣyāmi   mádʰu   vadiṣyāmi   mádʰumatīṃ   devébʰyo   vā́cam   udyāsam̐   śuśrūṣéṇyāṃ   manuṣyèbʰyas   táṃ   mā   devā́   avantu   śobʰā́yai   pitáró   'nu   madantu  \
+[struct] Mantra: 8
+[struct] Kandika: i
+[text] Oṃ   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ  \
+[text] oṃ   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ  \;
+[text] om śā́ntiḥ śā́ntiḥ śā́ntiḥ \,
+[text] \\ hariḥ om \\ }
+[struct] Anuvaka: 2
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] yuñjáte   mána   utá   yuñjate   dʰíyaḥ  \
+[struct] Kandika: b
+[text] víprā   víprasya   br̥ható   vipaścítaḥ  \
+[struct] Kandika: c
+[text] ví   hótrā   dadʰe   vayunāvíd   éka   ít  \
+[struct] Kandika: d
+[text] mahī́   devásya   savitúḥ   páriṣṭutiḥ  \
+[struct] Mantra: 2
+[struct] Kandika: e
+[text] devásya   tvā   savitúḥ   prasavé  \
+[struct] Kandika: f
+[text] aśvínor   bāhúbʰyām  \
+[struct] Kandika: g
+[text] pūṣṇó   hástābʰyām   ā́   dade  \
+[struct] Mantra: 3
+[struct] Kandika: h
+[text] ábʰrir   asi   nā́rir   asi  \
+[struct] Kandika: i
+[text] adʰvarakŕ̥d   devébʰyaḥ  \
+[struct] Mantra: 4a
+[struct] Kandika: j
+[text] út   tiṣṭʰa   brahmaṇaspate  \
+[struct] Dasati: 2
+[struct] Mantra: 4c-d
+[struct] Kandika: a
+[text] devayántas   tvemahe  \
+[struct] Kandika: b
+[text] úpa   prá   yantu   marútaḥ   sudā́navaḥ  \
+[struct] Kandika: c
+[text] índra   prāśū́r   bʰavā   sácā  \
+[struct] Mantra: 5
+[struct] Kandika: d
+[text] práitu   bráhmaṇaspátiḥ  \
+[struct] Kandika: e
+[text] prá   devy   ètu   sūnŕ̥tā  \
+[struct] Kandika: f
+[text] áccʰā   vīráṃ   náryàṃ   paṅktírādʰasaṃ  \
+[struct] Kandika: g
+[text] devā   yajñáṃ   nayantu   naḥ  \
+[struct] Mantra: 6
+[struct] Kandika: h
+[text] dévī   dyāvāpr̥tʰivī   ánu   me   mam̐sātʰām  \
+[text] 'mam̐sātʰām ;
+[text] 'mam̐sātʰāṃ}
+[struct] Mantra: 7
+[struct] Kandika: i
+[text] r̥dʰyā́sam   adya  \
+[struct] Kandika: j
+[text] makʰásya   śíraḥ  \
+[struct] Dasati: 3
+[struct] Mantra: 8
+[struct] Kandika: a
+[text] makʰā́ya   tvā  \
+[struct] Kandika: b
+[text] makʰásya   tvā   śīrṣṇé  \
+[struct] Mantra: 9
+[struct] Kandika: c
+[text] íyaty   ágra   āsīḥ  \
+[struct] Mantra: 10
+[struct] Kandika: d
+[text] r̥dʰyā́sam   adya  \
+[struct] Kandika: e
+[text] makʰásya   śíraḥ  \
+[struct] Kandika: f
+[text] makʰā́ya   tvā  \
+[struct] Kandika: g
+[text] makʰásya   tvā   śīrṣṇé  \
+[struct] Mantra: 11
+[struct] Kandika: h
+[text] dévīr   vamrīr   asyá   bʰūtásya   pratʰamajā   r̥tāvarīḥ  \
+[struct] Mantra: 12ab
+[struct] Kandika: i
+[text] r̥dʰyā́sam   adya  \
+[struct] Kandika: j
+[text] makʰásya   śíraḥ  \
+[struct] Dasati: 4
+[struct] Mantra: 12cd
+[struct] Kandika: a
+[text] makʰā́ya   tvā  \
+[struct] Kandika: b
+[text] makʰásya   tvā   śīrṣṇé  \
+[struct] Mantra: 13a
+[struct] Kandika: c
+[text] índrasyáujosi  \
+[struct] Mantra: 13b-e
+[struct] Kandika: d
+[text] r̥dʰyā́sam   adya  \
+[struct] Kandika: e
+[text] makʰásya   śíraḥ  \
+[struct] Kandika: f
+[text] makʰā́ya   tvā  \
+[struct] Kandika: g
+[text] makʰásya   tvā   śīrṣṇé  \
+[struct] Mantra: 14a-c
+[struct] Kandika: h
+[text] agnijā́   asi   prajā́pate   rétaḥ  \
+[struct] Kandika: i
+[text] r̥dʰyā́sam   adya  \
+[struct] Kandika: j
+[text] makʰásya   śíraḥ  \
+[struct] Dasati: 5
+[struct] Mantra: 14de
+[struct] Kandika: a
+[text] makʰā́ya   tvā  \
+[struct] Kandika: b
+[text] makʰásya   tvā   śīrṣṇé  \
+[struct] Mantra: 15
+[struct] Kandika: c
+[text] ā́yur   dʰehi   prāṇáṃ   dʰehi  \
+[struct] Kandika: d
+[text] apānáṃ   dʰehi   vyānáṃ   dʰehi  \
+[struct] Kandika: e
+[text] cákṣur   dʰehi   śrótraṃ   dʰehi  \
+[struct] Kandika: f
+[text] máno   dʰehi   vā́caṃ   dʰehi  \
+[struct] Kandika: g
+[text] ātmā́naṃ   dʰehi   pratiṣṭʰā́ṃ   dʰehi  \
+[struct] Kandika: h
+[text] mā́ṃ   dʰehi   máyi   dʰehi  \
+[struct] Mantra: 16
+[struct] Kandika: i
+[text] mádʰu   tvā   madʰulā́   karotu  \
+[struct] Mantra: 17
+[struct] Kandika: j
+[text] makʰásya   śíro   'si  \
+[struct] Dasati: 6
+[struct] Mantra: 18
+[struct] Kandika: a
+[text] yajñásya   padé   stʰaḥ  \
+[struct] Mantra: 19
+[struct] Kandika: b
+[text] gāyatréṇa   tvā   cʰándasā   karomi  \
+[struct] Kandika: c
+[text] tráiṣṭubʰena   tvā   cʰándasā   karomi  \
+[struct] Kandika: d
+[text] jā́gatena   tvā   cʰándasā   karomi  \
+[struct] Mantra: 20
+[struct] Kandika: e
+[text] makʰásya   rā́snāsi  \
+[struct] Mantra: 21
+[struct] Kandika: f
+[text] áditis   te   bílaṃ   gr̥hṇātu  \
+[struct] Kandika: g
+[text] pā́ṅktena   cʰándasā  \
+[struct] Mantra: 22
+[struct] Kandika: h
+[text] sū́ryasya   hárasā   śrāya  \
+[struct] Mantra: 23
+[struct] Kandika: i
+[text] makʰò   'si  \ \\  pate   śíraḥ   r̥tāvarīr   r̥dʰyā́sam   adyá   makʰásya   śíraḥ   śíraḥ   śíro   'si   náva   ca  \\ \\  íyati   devī́r   índrasyáujo   'sy   agnijā́   asyā́yur   dʰehi   prāṇáṃ   páñca  \\
+[text] íyatīr
+[text] íyati}
+[struct] Anuvaka: 3
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] vŕ̥ṣṇo   áśvasya   niṣpád   asi  \
+[struct] Kandika: b
+[text] váruṇas   tvā   dʰr̥távrata   ā́dʰūpayatu  \
+[struct] Kandika: c
+[text] mitrā́váruṇayor   dʰruvéṇa   dʰármaṇā  \
+[struct] Mantra: 2
+[struct] Kandika: d
+[text] arcíṣe   tvā  \
+[struct] Kandika: e
+[text] śocíṣe   tvā  \
+[struct] Kandika: f
+[text] jyótiṣe   tvā  \
+[struct] Kandika: g
+[text] tápase   tvā  \
+[struct] Mantra: 3a-c
+[struct] Kandika: h
+[text] abʰī́máṃ   mahinā́   dívam  \
+[struct] Kandika: i
+[text] mitró   babʰūva   saprátʰāḥ  \
+[struct] Kandika: j
+[text] utá   śrávasā   pr̥tʰivī́m  \
+[struct] Dasati: 2
+[struct] Mantra: 3d-f
+[struct] Kandika: a
+[text] mitrásya   carṣaṇīdʰŕ̥taḥ  \
+[struct] Kandika: b
+[text] śrávo   devásya   sānasím  \
+[text] sānasí
+[struct] Kandika: c
+[text] dyumnáṃ   citráśravastamam  \
+[struct] Mantra: 4
+[struct] Kandika: d
+[text] síddʰyai   tvā  \
+[struct] Mantra: 5
+[struct] Kandika: e
+[text] devás   tvā   savitódvapatu  \
+[struct] Kandika: f
+[text] supāṇiḥ   svàṅguriḥ  \
+[struct] Kandika: g
+[text] subāhúr   utá   śáktyā  \
+[struct] Mantra: 6a-c
+[struct] Kandika: h
+[text] ápadyamānaḥ   pr̥tʰivyā́m  \
+[struct] Kandika: i
+[text] ā́śā   díśa   ā́pr̥ṇa  \
+[struct] Kandika: j
+[text] út   tiṣṭʰa   br̥hán   bʰava  \
+[struct] Dasati: 3
+[struct] Mantra: 6d
+[struct] Kandika: a
+[text] ūrdʰvás   tiṣṭʰa   dʰruvás   tvám  \
+[struct] Mantra: 7
+[struct] Kandika: b
+[text] sū́ryasya   tvā   cákṣuṣā́nvīkṣe  \
+[struct] Kandika: c
+[text] r̥jáve   tvā  \
+[struct] Kandika: d
+[text] sādʰáve   tvā  \
+[struct] Kandika: e
+[text] sukṣityái   tvā   bʰū́tyai   tvā  \
+[struct] Mantra: 8
+[struct] Kandika: f
+[text] idám   ahám   amúm   āmuṣyāyaṇáṃ   viśā́   paśúbʰir   brahmavarcaséna   páry   ūhāmi  \
+[struct] Mantra: 9
+[struct] Kandika: g
+[text] gāyatréṇa   tvā   cʰandasā́ccʰr̥ṇadmi  \
+[struct] Kandika: h
+[text] tráiṣṭubʰena   tvā   cʰandasā́ccʰr̥ṇadmi  \
+[struct] Kandika: i
+[text] jā́gatena   tvā   cʰandasā́ccʰr̥ṇadmi  \
+[struct] Kandika: j
+[text] cʰr̥ṇáttu   tvā   vā́k  \
+[struct] Kandika: aa
+[text] cʰr̥ṇáttu   tvórk  \
+[struct] Kandika: bb
+[text] cʰr̥ṇáttu   tvā   havíḥ  \
+[struct] Kandika: cc
+[text] cʰr̥ndʰí   vā́cam  \
+[struct] Kandika: dd
+[text] cʰr̥ndʰy   ū́rjam  \
+[struct] Kandika: ee
+[text] cʰr̥ndʰí   havíḥ  \
+[struct] Mantra: 10
+[struct] Kandika: ff
+[text] déva   puraścara   sagʰyā́saṃ   tvā́  \
+[text] \\  pr̥tʰivī́ṃ   bʰava   vā́k   ṣáṭ   ca  \\
+[struct] Anuvaka: 4
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] bráhman   pravargyèṇa   prá   cariṣyāmaḥ  \
+[struct] Kandika: b
+[text] hótar   gʰarmám   abʰí   ṣṭuhi  \
+[struct] Kandika: c
+[text] ágnīd   ráuhiṇau   puroḍā́śāv   ádʰi   śraya  \
+[struct] Kandika: d
+[text] prátiprastʰātar   ví   hara  \
+[struct] Kandika: e
+[text] prástotaḥ   sā́māni   gāya  \
+[struct] Mantra: 2
+[struct] Kandika: f
+[text] yájuryuktam̐   sā́mabʰir   ā́ktakʰaṃ   tvā  \
+[struct] Kandika: g
+[text] víśvair   deváir   ánumataṃ   marúdbʰiḥ  \
+[struct] Kandika: h
+[text] dákṣiṇābʰiḥ   prátataṃ   pārayiṣṇúm  \
+[struct] Kandika: i
+[text] stúbʰo   vahantu   sumanasyámānam  \
+[struct] Kandika: j
+[text] sá   no   rúcaṃ   dʰehy   áhr̥ṇīyamānaḥ  \
+[struct] Kandika: aa
+[text] bʰū́r   bʰúvaḥ   súvaḥ  \
+[struct] Kandika: bb
+[text] óm   índravantaḥ   prá   carata  \
+[text] \\  áhr̥ṇīyamāno   dvé   ca  \\
+[struct] Anuvaka: 5
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] bráhman   prá   cariṣyāmaḥ  \
+[struct] Kandika: b
+[text] hótar   gʰarmám   abʰí   ṣṭuhi  \
+[struct] Mantra: 2
+[struct] Kandika: c
+[text] yamā́ya   tvā   makʰā́ya   tvā  \
+[struct] Kandika: d
+[text] sū́ryasya   hárase   tvā  \
+[struct] Mantra: 3
+[struct] Kandika: e
+[text] prāṇā́ya   svā́hā   vyānā́ya   svā́hāpānā́ya   svā́hā  \
+[struct] Kandika: f
+[text] cákṣuṣe   svā́hā   śrótrāya   svā́hā  \
+[struct] Kandika: g
+[text] mánase   svā́hā   vācé   sárasvatyai   svā́hā  \
+[struct] Kandika: h
+[text] dakṣāya   svāhā   krátave   svā́hā  \
+[struct] Kandika: i
+[text] ójase   svā́hā   bálāya   svā́hā  \
+[struct] Mantra: 4
+[struct] Kandika: j
+[text] devás   tvā   savitā́   mádʰvānaktu  \
+[struct] Dasati: 2
+[struct] Mantra: 5
+[struct] Kandika: a
+[text] pr̥tʰivī́ṃ   tápasas   trāyasva  \
+[text] arcíṣe   tvā  \  śocíṣe   tvā  \  jyótiṣe   tvā  \  tápase   tvā  \;
+[text] ṣaṣṭʰo   'yam   mantraḥ   pāṭʰakrame   mādʰavīyabʰāṣye   ca   nāsti ;
+[struct] Mantra: 6
+[struct] Kandika: b
+[text] arcír   asi   śocír   asi   jyótir   asi   tápo   'si  \
+[struct] Mantra: 7
+[struct] Kandika: c
+[text] sam̐   sīdasva   mahām̐   asi  \
+[struct] Kandika: d
+[text] śócasva   devavī́tamaḥ  \
+[struct] Kandika: e
+[text] ví   dʰūmám   agne   aruṣáṃ   miyedʰya  \
+[struct] Kandika: f
+[text] sr̥já   praśastadarśatám  \
+[struct] Mantra: 8
+[struct] Kandika: g
+[text] añjanti   yáṃ   pratʰáyanto   ná   víprāḥ  \
+[struct] Kandika: h
+[text] vapā́vantaṃ   nā́gninā   tápantaḥ  \
+[struct] Kandika: i
+[text] pitúr   ná   putrá   úpasi   préṣṭʰaḥ  \
+[struct] Kandika: j
+[text] ā́   gʰarmó   agním   r̥táyann   asādīt  \
+[struct] Dasati: 3
+[struct] Mantra: 9a-j
+[struct] Kandika: a
+[text] anādʰr̥ṣyā́   purástāt  \
+[struct] Kandika: b
+[text] agnér   ā́dʰipatye  \
+[struct] Kandika: c
+[text] ā́yur   me   dāḥ  \
+[struct] Kandika: d
+[text] putrávatī   dakṣiṇatáḥ  \
+[struct] Kandika: e
+[text] índrasyā́dʰipatye  \
+[struct] Kandika: f
+[text] prajā́ṃ   me   dāḥ  \
+[struct] Kandika: g
+[text] suṣádā   paścā́t  \
+[struct] Kandika: h
+[text] devásya   savitúr   ā́dʰipatye  \
+[struct] Kandika: i
+[text] prāṇáṃ   me   dāḥ  \
+[struct] Kandika: j
+[text] ā́śrutir   uttaratáḥ  \
+[struct] Dasati: 4
+[struct] Mantra: 9k-r
+[struct] Kandika: a
+[text] mitrā́váruṇayor   ā́dʰipatye  \
+[struct] Kandika: b
+[text] śrótraṃ   me   dāḥ  \
+[struct] Kandika: c
+[text] vídʰr̥tir   upáriṣṭāt  \
+[struct] Kandika: d
+[text] bŕ̥haspáter   ā́dʰipatye  \
+[struct] Kandika: e
+[text] bráhma   me   dāḥ   kṣattráṃ   me   dāḥ  \\
+[struct] Kandika: f
+[text] téjo   me   dʰā ,  várco   me   dʰāḥ  \
+[struct] Kandika: g
+[text] yáśo   me   dʰās   tápo   me   dʰāḥ  \
+[struct] Kandika: h
+[text] máno   me   dʰāḥ  \
+[struct] Mantra: 10ab
+[struct] Kandika: i
+[text] mánor   áśvāsi   bʰū́riputrā  \
+[struct] Kandika: j
+[text] víśvābʰyo   mā   nāṣṭrā́bʰyaḥ   pāhi  \
+[struct] Dasati: 5
+[struct] Mantra: 10c
+[struct] Kandika: a
+[text] sū́pasádā   me   bʰūyā   mā́   mā   him̐sīḥ  \
+[struct] Mantra: 11
+[struct] Kandika: b
+[text] tápo   ṣv   àgne   ántarām̐   amítrān  \
+[struct] Kandika: c
+[text] tápā   śám̐sam   ararúṣaḥ   párasya  \
+[struct] Kandika: d
+[text] tápā   vaso   cikitānó   acíttān  \
+[struct] Kandika: e
+[text] ví   te   tiṣṭʰantām   ajárā   ayā́saḥ  \
+[struct] Mantra: 12
+[struct] Kandika: f
+[text] cítaḥ   stʰa   paricítaḥ  \
+[struct] Kandika: g
+[text] svā́hā   marúdbʰiḥ   pári   śrayasva  \
+[struct] Mantra: 13a-c
+[struct] Kandika: h
+[text] mā́   asi  \
+[struct] Kandika: i
+[text] pramā́   asi  \
+[struct] Kandika: j
+[text] pratimā́   asi  \
+[struct] Dasati: 6
+[struct] Mantra: 13d-g
+[struct] Kandika: a
+[text] saṃmā́   asi  \
+[struct] Kandika: b
+[text] vimā́   asi  \
+[struct] Kandika: c
+[text] unmā́   asi  \
+[struct] Kandika: d
+[text] antárikṣasyāntardʰír   asi  \
+[struct] Mantra: 14
+[struct] Kandika: e
+[text] dívaṃ   tápasas   trāyasva  \
+[struct] Mantra: 15
+[struct] Kandika: f
+[text] ābʰír   gīrbʰír   yád   áto   na   ūnám  \
+[struct] Kandika: g
+[text] ā́pyāyaya   harivo   várdʰamānaḥ  \
+[struct] Kandika: h
+[text] yadā́   stotŕ̥bʰyo   máhigotrā́   rujā́si  \
+[struct] Kandika: i
+[text] bʰūyiṣṭʰabʰā́jo   ádʰa   te   syāma  \
+[struct] Mantra: 16a
+[struct] Kandika: j
+[text] śukráṃ   te   anyád   yajatáṃ   te   anyát  \
+[struct] Dasati: 7
+[struct] Mantra: 16b-d
+[struct] Kandika: a
+[text] víṣurūpe   áhanī   dyáur   ivāsi  \
+[struct] Kandika: b
+[text] víśvā   hí   māyā́   ávasi   svadʰāvaḥ  \
+[struct] Kandika: c
+[text] bʰadrā́   te   pūṣann   ihá   rātír   astu  \
+[struct] Mantra: 17
+[struct] Kandika: d
+[text] árhan   bibʰarṣi   sā́yakāni   dʰánva  \
+[struct] Kandika: e
+[text] árhan   niṣkáṃ   yajatáṃ   viśvárūpam  \
+[struct] Kandika: f
+[text] árhann   idáṃ   dayase   víśvam   ábbʰuvam  \
+[struct] Kandika: g
+[text] ná   vā́   ójīyo   rudra   tvád   asti  \
+[struct] Mantra: 18
+[struct] Kandika: h
+[text] gāyatrám   asi  \
+[struct] Kandika: i
+[text] tráiṣṭubʰam   asi  \
+[struct] Kandika: j
+[text] jā́gatam   asi  \
+[struct] Mantra: 19
+[struct] Kandika: k
+[text] mádʰu   mádʰu   mádʰu  \ \\  anaktv   asādīd   uttaratáḥ   pāhi   pratimā́   asi   yajatáṃ   te   anyáj   jā́gatam   asy   ékaṃ   ca  \\
+[struct] Anuvaka: 6
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] dáśa   prā́cīr   dáśa   bʰāsi   dakṣiṇā́  \
+[struct] Kandika: b
+[text] dáśa   pratī́cīr   dáśa   bʰāsy   údīcīḥ  \
+[struct] Kandika: c
+[text] dáśordʰvā́   bʰāsi   sumanasyámānaḥ  \
+[struct] Kandika: d
+[text] sá   no   rúcaṃ   dʰehy   áhr̥ṇīyamānaḥ  \
+[struct] Mantra: 2
+[struct] Kandika: e
+[text] agníṣ   ṭvā   vásubʰiḥ   purástād   rocayatu   gāyatréṇa   cʰándasā  \
+[struct] Kandika: f
+[text] sá   mā   rucitó   rocaya  \
+[struct] Mantra: 3a-d
+[struct] Kandika: g
+[text] índras   tvā   rudráir   dakṣiṇató   rocayatu   tráiṣṭubʰena   cʰándasā  \
+[struct] Kandika: h
+[text] sá   mā   rucitó   rocaya  \
+[struct] Kandika: i
+[text] váruṇas   tvādityáiḥ   paścā́d   rocayatu   jā́gatena   cʰándasā  \
+[struct] Kandika: j
+[text] sá   mā   rucitó   rocaya  \
+[struct] Dasati: 2
+[struct] Mantra: 3e-h
+[struct] Kandika: a
+[text] dyutānás   tvā   mārutó   marúdbʰir   uttarató   rocayatv   ā́nuṣṭubʰena   cʰándasā  \
+[struct] Kandika: b
+[text] sá   mā   rucitó   rocaya  \
+[struct] Kandika: c
+[text] bŕ̥haspátis   tvā   víśvair   deváir   upáriṣṭād   rocayatu   pā́ṅktena   cʰándasā  \
+[struct] Kandika: d
+[text] sá   mā   rucitó   rocaya  \
+[struct] Mantra: 4
+[struct] Kandika: e
+[text] rocitás   tváṃ   deva   gʰarma   devéṣv   ási  \
+[struct] Kandika: f
+[text] rociṣīyā́háṃ   manuṣyèṣu  \
+[struct] Mantra: 5
+[struct] Kandika: g
+[text] sámrāḍ   gʰarma   rucitás   tváṃ   devéṣv   ā́yuṣmām̐s   tejasvī́   brahmavarcasy   àsi  \
+[struct] Kandika: h
+[text] rucitò   'haṃ   manuṣyèṣv   ā́yuṣmām̐s   tejasvī́   brahmavarcasī́   bʰūyāsam  \
+[struct] Mantra: 6ab
+[struct] Kandika: i
+[text] rúg   asi  \
+[struct] Kandika: j
+[text] rúcaṃ   máyi   dʰehi  \
+[struct] Dasati: 3
+[struct] Mantra: 6c
+[struct] Kandika: a
+[text] máyi   rúk  \
+[text] mayi   rúk}
+[struct] Mantra: 7
+[struct] Kandika: b
+[text] dáśa   purástād   rocase  \
+[struct] Kandika: c
+[text] dáśa   dakṣiṇā́  \
+[struct] Kandika: d
+[text] dáśa   pratyáṅ  \
+[struct] Kandika: e
+[text] dáśódaṅ  \
+[struct] Kandika: f
+[text] dáśordʰvó   bʰāsi   sumanasyámānaḥ  \
+[struct] Kandika: g
+[text] sá   naḥ   samrāḍ   íṣam   ū́rjaṃ   dʰehi  \
+[struct] Kandika: h
+[text] vājī́   vājíne   pavasva  \
+[struct] Kandika: i
+[text] rocitó   gʰarmó   rucīyá  \ \\  rocaya   dʰehi   náva   ca  \\
+[struct] Anuvaka: 7
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] ápaśyaṃ   gopā́m   ánipadyamānam  \
+[struct] Kandika: b
+[text] ā́   ca   párā   ca   patʰíbʰiś   cárantam  \
+[struct] Kandika: c
+[text] sá   sadʰrī́cīḥ   sá   víṣūcīr   vásānaḥ  \
+[struct] Kandika: d
+[text] ā́   varīvarti   bʰúvaneṣv   antáḥ  \
+[struct] Mantra: 2
+[struct] Kandika: e
+[text] átra   prāvī́ḥ  \
+[struct] Kandika: f
+[text] mádʰumā́dʰvībʰyāṃ   mádʰu-mā́dʰūcībʰyām  \
+[struct] Kandika: g
+[text] ánu   vāṃ   devávītaye  \
+[struct] Mantra: 3
+[struct] Kandika: h
+[text] sám   agnír   agnínāgata  \
+[text] agnínā   gata ;
+[text] agnínā 'gataḥ;
+[text] agnínā   'gata ;
+[struct] Kandika: i
+[text] sáṃ   devéna   savitrā́  \
+[struct] Kandika: j
+[text] sam̐   sūryeṇa   rocate  \
+[struct] Dasati: 2
+[struct] Mantra: 4
+[struct] Kandika: a
+[text] svā́hā   sám   agnís   tápasāgata  \
+[struct] Kandika: b
+[text] sáṃ   devéna   savitrā́  \
+[struct] Kandika: c
+[text] sáṃ   sū́ryeṇārociṣṭa  \
+[struct] Mantra: 5
+[struct] Kandika: d
+[text] dʰartā́   divó   víbʰāsi   rájasaḥ  \
+[struct] Kandika: e
+[text] pr̥tʰivyā́   dʰartā́  \
+[struct] Kandika: f
+[text] urór   antárikṣasya   dʰartā́  \
+[struct] Kandika: g
+[text] dʰartā́   devó   devā́nām  \
+[struct] Kandika: h
+[text] ámartyas   tapojā́ḥ  \
+[struct] Mantra: 6ab
+[struct] Kandika: i
+[text] hr̥dé   tvā   mánase   tvā  \
+[struct] Kandika: j
+[text] divé   tvā   sū́ryāya   tvā  \
+[struct] Dasati: 3
+[struct] Mantra: 6cd
+[struct] Kandika: a
+[text] ūrdʰvám   imám   adʰvaráṃ   kr̥dʰi  \
+[struct] Kandika: b
+[text] diví   devéṣu   hótrā   yaccʰa  \
+[struct] Mantra: 7
+[struct] Kandika: c
+[text] víśvāsāṃ   bʰuvāṃ   pate  \
+[struct] Kandika: d
+[text] víśvasya   bʰuvanas   pate  \
+[struct] Kandika: e
+[text] víśvasya   manasas   pate  \
+[struct] Kandika: f
+[text] víśvasya   vacasas   pate  \
+[struct] Kandika: g
+[text] víśvasya   tapasas   pate  \
+[struct] Kandika: h
+[text] víśvasya   brahmaṇas   pate  \
+[struct] Mantra: 8
+[struct] Kandika: i
+[text] devaśrū́s   tváṃ   deva   gʰarma   devā́n   pāhi  \
+[struct] Mantra: 9
+[struct] Kandika: j
+[text] tapojā́ṃ   vā́cam   asmé   níyaccʰa   devāyúvam  \
+[struct] Dasati: 4
+[struct] Mantra: 10
+[struct] Kandika: a
+[text] gárbʰo   devā́nām  \
+[struct] Mantra: 11
+[struct] Kandika: b
+[text] pitā́   matīnā́m  \
+[struct] Mantra: 12
+[struct] Kandika: c
+[text] pátiḥ   prajā́nām  \
+[struct] Mantra: 13
+[struct] Kandika: d
+[text] mátiḥ   kavīnā́m  \
+[struct] Mantra: 14
+[struct] Kandika: e
+[text] sáṃ   devó   devéna   savitrā́yatiṣṭa  \
+[struct] Kandika: f
+[text] sam̐   sūryeṇārukta  \
+[struct] Mantra: 15
+[struct] Kandika: g
+[text] āyurdás   tvám   asmábʰyaṃ   gʰarma   varcodā́   asi  \
+[struct] Mantra: 16
+[struct] Kandika: h
+[text] pitā́   no   'si   pitā́   no   bodʰa  \
+[struct] Mantra: 17ab
+[struct] Kandika: i
+[text] āyurdʰā́s   tanūdʰā́ḥ   payodʰā́ḥ  \
+[struct] Kandika: j
+[text] varcodā́   varivodā́   draviṇodā́ḥ  \
+[struct] Dasati: 5
+[struct] Mantra: 17cd
+[struct] Kandika: a
+[text] antarikṣapra   urór   várīyān  \
+[struct] Kandika: b
+[text] aśīmáhi   tvā   mā́   mā   him̐sīḥ  \
+[struct] Mantra: 18
+[struct] Kandika: c
+[text] tvám   agne   gr̥hápatir   viśā́m   asi  \
+[struct] Kandika: d
+[text] víśvāsāṃ   mā́nuṣīṇām  \
+[struct] Kandika: e
+[text] śatáṃ   pūrbʰír   yaviṣṭʰa   pāhy   am̐hasaḥ  \
+[struct] Kandika: f
+[text] sameddʰā́ram̐   śatám̐   hímāḥ  \
+[struct] Kandika: g
+[text] tandrāvíṇam̐   hārdivānám  \
+[struct] Kandika: h
+[text] iháivá   rātáyaḥ   santu  \
+[struct] Mantra: 19
+[struct] Kandika: i
+[text] tváṣṭīmatī   te   sapeya  \
+[struct] Kandika: j
+[text] surétā   réto   dádʰānā  \
+[struct] Kandika: aa
+[text] vīráṃ   videya   táva   saṃdŕ̥śi  \
+[struct] Kandika: bb
+[text] mā́ham̐   rāyáspóṣeṇa   ví   yoṣam  \
+[text] \\  rocate   sū́ryāya   tvā   devāyúvaṃ   draviṇodā́   dádʰānā   dvé   ca  \\
+[struct] Anuvaka: 8
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] devásya   tvā   savitúḥ   prasavé  \
+[struct] Kandika: b
+[text] aśvínor   bāhúbʰyām  \
+[struct] Kandika: c
+[text] pūṣṇó   hástābʰyām   ā́dade  \
+[struct] Mantra: 2
+[struct] Kandika: d
+[text] ádityai   rā́snāsi  \
+[struct] Mantra: 3
+[struct] Kandika: e
+[text] íḍa   éhi  \
+[struct] Kandika: f
+[text] ádita   éhi  \
+[struct] Kandika: g
+[text] sárasvaty   éhi  \
+[struct] Mantra: 4
+[struct] Kandika: h
+[text] ásāv   éhi  \
+[struct] Kandika: i
+[text] ásāv   éhi  \
+[struct] Kandika: j
+[text] ásāv   éhi  \
+[struct] Dasati: 2
+[struct] Mantra: 5
+[struct] Kandika: a
+[text] ádityā   uṣṇī́ṣam   asi  \
+[struct] Mantra: 6
+[struct] Kandika: b
+[text] vāyúr   asyaiḍáḥ  \
+[struct] Mantra: 7
+[struct] Kandika: c
+[text] pūṣā́   tvopā́vasr̥jatu  \
+[struct] Kandika: d
+[text] aśvíbʰāṃ   prá   dāpaya  \
+[struct] Mantra: 8
+[struct] Kandika: e
+[text] yás   te   stánaḥ   śaśayó   yó   mayobʰū́ḥ  \
+[struct] Kandika: f
+[text] yéna   víśvā   púṣyasi   vā́ryaṇi  \
+[struct] Kandika: g
+[text] yó   ratnadʰā́   vasuvíd   yáḥ   sudátraḥ  \
+[struct] Kandika: h
+[text] sárasvati   tám   ihá   dʰā́tave   kaḥ  \
+[struct] Mantra: 9ab
+[struct] Kandika: i
+[text] úsra   gʰarmám̐   śim̐ṣa  \
+[struct] Kandika: j
+[text] úsra   gʰarmáṃ   pāhi  \
+[struct] Dasati: 3
+[struct] Mantra: 9c
+[struct] Kandika: a
+[text] gʰarmā́ya   śim̐ṣa  \
+[struct] Mantra: 10
+[struct] Kandika: b
+[text] bŕ̥haspátis   tvópa   sīdatu  \
+[struct] Mantra: 11
+[struct] Kandika: c
+[text] dā́navaḥ   stʰa   péravaḥ  \
+[struct] Kandika: d
+[text] viṣvagvŕ̥to   lóhitena  \
+[struct] Mantra: 12
+[struct] Kandika: e
+[text] aśvíbʰyāṃ   pinvasva  \
+[struct] Kandika: f
+[text] sárasvatyai   pinvasva  \
+[struct] Kandika: g
+[text] pūṣṇé   pinvasva  \
+[struct] Kandika: h
+[text] bŕ̥haspátaye   pinvasva  \
+[struct] Kandika: i
+[text] índrāya   pinvasva  \
+[struct] Kandika: j
+[text] índrāya   pinvasva  \
+[struct] Dasati: 4
+[struct] Mantra: 13
+[struct] Kandika: a
+[text] gāyatrò   'si  \
+[struct] Kandika: b
+[text] tráiṣṭubʰo   'si  \
+[struct] Kandika: c
+[text] jā́gatam   asi  \
+[struct] Mantra: 14
+[struct] Kandika: d
+[text] sahórjo   bʰāgénópa   méhi  \
+[struct] Mantra: 15
+[struct] Kandika: e
+[text] índrāśvinā   mádʰunaḥ   sāragʰásya  \
+[struct] Kandika: f
+[text] gʰarmáṃ   pāta   vasavo   yájatā   vaṭ  \
+[struct] Mantra: 16
+[struct] Kandika: g
+[text] svā́hā   tvā   sū́ryasya   raśmaye   vr̥ṣṭivánaye   juhomi  \
+[struct] Mantra: 17
+[struct] Kandika: h
+[text] mádʰu   havír   asi  \
+[struct] Mantra: 18
+[struct] Kandika: i
+[text] sū́ryasya   tápas   tapa  \
+[struct] Mantra: 19
+[struct] Kandika: j
+[text] dyā́vāpr̥tʰivī́bʰyāṃ   tvā   pári   gr̥hṇāmi  \
+[struct] Dasati: 5
+[struct] Mantra: 20
+[struct] Kandika: a
+[text] antárikṣeṇa   tvópa   yaccʰāmi  \
+[struct] Mantra: 21
+[struct] Kandika: b
+[text] devā́nāṃ   tvā   pitr̥ṇā́m   ánumato   bʰártum̐   śakeyam  \
+[struct] Mantra: 22
+[struct] Kandika: c
+[text] téjo   'si  \
+[struct] Kandika: d
+[text] téjo   'nupréhi  \
+[struct] Kandika: e
+[text] divispŕ̥ṅ   mā́   mā   him̐sīḥ  \
+[struct] Kandika: f
+[text] antarikṣaspŕ̥ṅ   mā́   mā   him̐sīḥ  \
+[struct] Kandika: g
+[text] pr̥tʰivispŕ̥ṅ   mā́   mā   him̐sīḥ  \
+[struct] Kandika: h
+[text] súvar   asi   súvar   me   yaccʰa  \
+[struct] Kandika: i
+[text] dívaṃ   yaccʰa   divó   mā   pāhi  \ \\  éhi   pāhi   pinvasva   gr̥hṇāmi   náva   ca  \\
+[struct] Anuvaka: 9
+[struct] Dasati: 1
+[struct] Mantra: 1a-j
+[struct] Kandika: a
+[text] samudrā́ya   tvā   vā́tāya   svā́hā  \
+[struct] Kandika: b
+[text] salilā́ya   tvā   vā́tāya   svā́hā  \
+[struct] Kandika: c
+[text] anādʰr̥ṣyā́ya   tvā   vā́tāya   svā́hā  \
+[struct] Kandika: d
+[text] apratidʰr̥ṣyā́ya   tvā   vā́tāya   svā́hā  \
+[struct] Kandika: e
+[text] avasyáve   tvā   vā́tāya   svā́hā  \
+[struct] Kandika: f
+[text] dúvasvate   tvā   vā́tāya   svā́hā  \
+[struct] Kandika: g
+[text] śímidvate   tvā   vā́tāya   svā́hā  \
+[struct] Kandika: h
+[text] agnáye   tvā   vásumate   svā́hā  \
+[struct] Kandika: i
+[text] sómāya   tvā   rudrávate   svā́hā  \
+[struct] Kandika: j
+[text] váruṇāya   tvādityávate   svā́hā  \
+[struct] Dasati: 2
+[struct] Mantra: 1k-m
+[struct] Kandika: a
+[text] bŕ̥haspátaye   tvā   viśvádevyāvate   svā́hā  \
+[struct] Kandika: b
+[text] savitré   tvarbʰumáte   vibʰumáte   prabʰumáte   vā́javate   svā́hā  \
+[struct] Kandika: c
+[text] yamā́ya   tvā́ṅgirasvate   pitr̥máte   svā́hā  \
+[struct] Mantra: 2
+[struct] Kandika: d
+[text] víśvā   ā́śā   dakṣiṇasát  \
+[struct] Mantra: 3
+[struct] Kandika: e
+[text] víśvān   devā́n   ayāḍ   ihá  \
+[struct] Mantra: 4
+[struct] Kandika: f
+[text] svā́hākr̥tasya   gʰarmásya  \
+[struct] Kandika: g
+[text] mádʰoḥ   pibatam   aśvinā  \
+[struct] Kandika: h
+[text] svā́hāgnáye   yajñíyāya  \
+[struct] Kandika: i
+[text] śáṃ   yájurbʰiḥ  \
+[struct] Mantra: 5a
+[struct] Kandika: j
+[text] áśvinā   gʰarmáṃ   pātam̐   hārdivānám  \
+[struct] Dasati: 3
+[struct] Mantra: 5b
+[struct] Kandika: a
+[text] áhardivā́bʰir   ūtíbʰiḥ  \
+[struct] Kandika: b
+[text] ánu   vāṃ   dyā́vāpr̥tʰivī́   mam̐sātām  \
+[struct] Kandika: c
+[text] svā́hendrāya  \
+[struct] Mantra: 6
+[struct] Kandika: d
+[text] svā́hendrā   váṭ  \
+[struct] Mantra: 7a-f
+[struct] Kandika: e
+[text] gʰarmám   apātam   aśvinā   hārdivānám  \
+[struct] Kandika: f
+[text] áhardivā́bʰir   ūtíbʰiḥ  \
+[struct] Kandika: g
+[text] ánu   vāṃ   dyā́vāpr̥tʰivī́   amam̐sātām  \
+[struct] Kandika: h
+[text] táṃ   prāvyàṃ   yatʰāváṭ  \
+[struct] Kandika: i
+[text] námo   divé  \
+[struct] Kandika: j
+[text] námaḥ   pr̥tʰivyái  \
+[struct] Dasati: 4
+[struct] Mantra: 7g-n
+[struct] Kandika: a
+[text] diví   dʰā   imáṃ   yajñám  \
+[struct] Kandika: b
+[text] yajñám   imáṃ   diví   dʰāḥ  \
+[struct] Kandika: c
+[text] dívaṃ   gaccʰa  \
+[struct] Kandika: d
+[text] antárikaṃ   gaccʰa  \
+[struct] Kandika: e
+[text] pr̥tʰivī́ṃ   gaccʰa  \
+[struct] Kandika: f
+[text] páñca   pradíśo   gaccʰa  \
+[struct] Kandika: g
+[text] devā́n   gʰarmapā́n   gaccʰa  \
+[struct] Kandika: h
+[text] pit.r̥̄n   gʰarmapā́n   gaccʰa  \ \\  ādityávate   svā́hā   hārdivānáṃ   pr̥tʰivyā́   aṣṭáu   ca  \\
+[struct] Anuvaka: 10
+[struct] Dasati: 1
+[struct] Mantra: 1a-j
+[struct] Kandika: a
+[text] iṣé   pīpihi  \
+[struct] Kandika: b
+[text] ūrjé   pīpihi  \
+[struct] Kandika: c
+[text] bráhmaṇe   pīpihi  \
+[struct] Kandika: d
+[text] kṣatrā́ya   pīpihi  \
+[struct] Kandika: e
+[text] adbʰyáḥ   pīpihi  \
+[struct] Kandika: f
+[text] óṣadʰībʰyaḥ   pīpihi  \
+[struct] Kandika: g
+[text] vánaspátibʰyaḥ   pīpihi  \
+[struct] Kandika: h
+[text] dyā́vāpr̥tʰivī́bʰyāṃ   pīpihi  \
+[struct] Kandika: i
+[text] subʰūtā́ya   pīpihi  \
+[struct] Kandika: j
+[text] brahmavarcasā́ya   pīpihi  \
+[struct] Dasati: 2
+[struct] Mantra: 1kl
+[struct] Kandika: a
+[text] yájamānāya   pīpihi  \
+[struct] Kandika: b
+[text] máhyaṃ   jyáiṣṭʰāya   pīpihi  \
+[struct] Mantra: 2
+[struct] Kandika: c
+[text] tvíṣyai   tvā  \
+[struct] Kandika: d
+[text] dyumnā́ya   tvā  \
+[struct] Kandika: e
+[text] indriyā́ya   tvā   bʰū́tyai   tvā  \
+[struct] Mantra: 3
+[struct] Kandika: f
+[text] dʰármāsi   sudʰármā́meny   asmé  \
+[text] dʰármā   'si   sudʰármā́   me   nyasmé ;
+[text] dʰármā 'si sudʰármā́ me 'nyasmé;
+[text] dʰarmā   'si   sudʰármā́   'menyasmé}
+[struct] Kandika: g
+[text] bráhmāṇi   dʰāraya  \
+[struct] Kandika: h
+[text] kṣattrāṇi   dʰāraya  \
+[struct] Kandika: i
+[text] víśaṃ   dʰāraya  \
+[struct] Kandika: j
+[text] nét   tvā   vā́taḥ   skandáyāt  \
+[struct] Dasati: 3
+[struct] Mantra: 4
+[struct] Kandika: a
+[text] amúṣya   tvā   prāṇé   sādayāmi  \
+[struct] Kandika: b
+[text] amúnā   sahá   nirartʰáṃ   gaccʰa  \
+[struct] Kandika: c
+[text] yò   'smā́n   dvéṣṭi  \
+[struct] Kandika: d
+[text] yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Mantra: 5
+[struct] Kandika: e
+[text] pūṣṇé   śárase   svā́hā  \
+[struct] Kandika: f
+[text] grā́vabʰyaḥ   svā́hā  \
+[struct] Kandika: g
+[text] pratirébʰyaḥ   svā́hā  \
+[struct] Kandika: h
+[text] dyā́vāpr̥tʰivī́bʰyām̐   svā́hā  \
+[struct] Kandika: i
+[text] pitŕ̥bʰyo   gʰarmapébʰyaḥ   svā́hā  \
+[struct] Mantra: 6
+[struct] Kandika: j
+[text] rudrā́ya   rudráhotre   svā́hā  \
+[struct] Dasati: 4
+[struct] Mantra: 7
+[struct] Kandika: a
+[text] áhar   jyótiḥ   ketúnā   juṣatām  \
+[struct] Kandika: b
+[text] sujyotír   jyótiṣām̐   svā́hā  \
+[struct] Kandika: c
+[text] rā́trir   jyótiḥ   ketúnā   juṣatām  \
+[struct] Kandika: d
+[text] sujyotír   jyótiṣām̐   svā́hā  \
+[struct] Mantra: 8a-f
+[struct] Kandika: e
+[text] ápīparo   mā   'hno   rā́triyai   mā   pāhi  \
+[struct] Kandika: f
+[text] eṣā́   te   agne   samít  \
+[struct] Kandika: g
+[text] táyā   sámidʰyasva  \
+[struct] Kandika: h
+[text] ā́yur   me   dāḥ  \
+[struct] Kandika: i
+[text] várcasā   māñjīḥ  \
+[struct] Kandika: j
+[text] ápīparo   mā   rā́triyā   áhno   mā   pāhi  \
+[struct] Dasati: 5
+[struct] Mantra: 8g-j
+[struct] Kandika: a
+[text] eṣā́   te   agne   samít  \
+[struct] Kandika: b
+[text] táyā   sámidʰyasva  \
+[struct] Kandika: c
+[text] ā́yur   me   dāḥ  \
+[struct] Kandika: d
+[text] várcasā   māñjīḥ  \
+[struct] Mantra: 9
+[struct] Kandika: e
+[text] agnír   jyótir   jyótir   agníḥ   svā́hā  \
+[struct] Kandika: f
+[text] sū́ryo   jyótir   jyótiḥ   sū́ryaḥ   svā́hā  \
+[struct] Mantra: 10
+[struct] Kandika: g
+[text] bʰū́ḥ   svā́hā  \
+[struct] Mantra: 11
+[struct] Kandika: h
+[text] hutám̐   havíḥ  \
+[struct] Kandika: i
+[text] mádʰu   havíḥ  \
+[struct] Kandika: j
+[text] índratame   'gnáu  \
+[struct] Kandika: aa
+[text] pitā́   nò   'si   mā́   mā   him̐sīḥ  \
+[struct] Kandika: bb
+[text] aśyā́ma   te   deva   gʰarma  \
+[struct] Kandika: cc
+[text] mádʰumato   vā́javataḥ   pitumátaḥ  \
+[struct] Kandika: dd
+[text] áṅgirasvataḥ   svadʰāvínaḥ  \
+[struct] Kandika: ee
+[text] aśīmáhi   tvā   mā́   mā   him̐sīḥ  \
+[struct] Mantra: 12
+[struct] Kandika: ff
+[text] svā́hā   tvā   sū́ryasya   raśmíbʰyaḥ  \
+[struct] Kandika: gg
+[text] svā́hā   tvā   nákṣatrebʰyaḥ  \ \\  brahmavarcasā́ya   pīpihi   skandáyād   rudrā́ya   rudráhotre   svā́hā́   'hno   mā   pāhy   agnáu   saptá   ca  \\
+[struct] Anuvaka: 11
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] gʰárma   yā́   te   diví   śúk  \
+[struct] Kandika: b
+[text] yā́   gāyatré   cʰándasi  \
+[struct] Kandika: c
+[text] yā́   brāhmaṇé  \
+[struct] Kandika: d
+[text] yā́   havirdʰā́ne  \
+[struct] Kandika: e
+[text] tā́ṃ   ta   eténā́vayaje   svā́hā  \
+[struct] Mantra: 2a-e
+[struct] Kandika: f
+[text] gʰárma   yā́   te   'ntárikṣE   śúk  \
+[struct] Kandika: g
+[text] yā́   tráiṣṭubʰe   cʰándasi  \
+[struct] Kandika: h
+[text] yā́   rājanyè  \
+[struct] Kandika: i
+[text] yā́gnīdʰre  \
+[struct] Kandika: j
+[text] tā́ṃ   ta   eténā́vayaje   svā́hā  \
+[struct] Dasati: 2
+[struct] Mantra: 2f-j
+[struct] Kandika: a
+[text] gʰárma   yā́   te   pr̥tʰivyā́m̐   śúk  \
+[struct] Kandika: b
+[text] yā́   jā́gate   cʰándasi  \
+[struct] Kandika: c
+[text] yā́   váiśye  \
+[struct] Kandika: d
+[text] yā́   sádasi  \
+[struct] Kandika: e
+[text] tā́ṃ   ta   eténā́vayaje   svā́hā  \
+[struct] Mantra: 3
+[struct] Kandika: f
+[text] ánu   no   'dyā́numatiḥ  \
+[struct] Kandika: g
+[text] ánv   íd   anumate   tvám  \
+[struct] Mantra: 4a-c
+[struct] Kandika: h
+[text] divás   tvā   paraspā́yāḥ  \
+[struct] Kandika: i
+[text] antárikṣasya   tanúvaḥ   pāhi  \
+[struct] Kandika: j
+[text] pr̥tʰivyā́s   tvā   dʰármaṇā  \
+[struct] Dasati: 3
+[struct] Mantra: 4d
+[struct] Kandika: a
+[text] vayám   ánukrāmāma   suvitā́ya   návyase  \
+[struct] Mantra: 5
+[struct] Kandika: b
+[text] bráhmaṇas   tvā   paraspā́yāḥ  \
+[struct] Kandika: c
+[text] kṣattrásya   tanúvaḥ   pāhi  \
+[struct] Kandika: d
+[text] viśás   tvā   dʰármaṇā  \
+[struct] Kandika: e
+[text] vayám   ánukrāmāma   suvitā́ya   návyase  \
+[struct] Mantra: 6
+[struct] Kandika: f
+[text] prāṇásya   tvā   paraspā́yai  \
+[struct] Kandika: g
+[text] cákṣuṣas   tanúvaḥ   pāhi  \
+[struct] Kandika: h
+[text] śrótrasya   tvā   dʰármaṇā  \
+[struct] Kandika: i
+[text] vayám   ánukrāmāma   suvitā́ya   návyase  \
+[struct] Mantra: 7a
+[struct] Kandika: j
+[text] válgur   asi   śaṃyúdʰāyāḥ  \
+[struct] Dasati: 4
+[struct] Mantra: 7b
+[struct] Kandika: a
+[text] śíṣur   jánadʰāyāḥ  \
+[struct] Mantra: 8
+[struct] Kandika: b
+[text] śáṃ   ca   vákṣi   pári   ca   vákṣi  \
+[struct] Mantra: 9
+[struct] Kandika: c
+[text] cátuḥsraktir   nā́bʰir   r̥tásya  \
+[struct] Mantra: 10
+[struct] Kandika: d
+[text] sádo   viśvā́yuḥ   śárma   saprátʰāḥ  \
+[struct] Mantra: 11
+[struct] Kandika: e
+[text] ápa   dvéṣo   ápa   hváraḥ  \
+[struct] Kandika: f
+[text] anyádvratasya   saścima  \
+[struct] Mantra: 12
+[struct] Kandika: g
+[text] gʰármaitát   té   'nnam   etát   púrīṣam  \
+[struct] Kandika: h
+[text] téna   várdʰasva   cā́   ca   pyāyasva  \
+[struct] Kandika: i
+[text] vardʰiṣīmáhi   ca   vayám  \
+[struct] Kandika: j
+[text] ā́   ca   pyāsiṣīmáhi  \
+[struct] Dasati: 5
+[struct] Mantra: 13
+[struct] Kandika: a
+[text] rántir   nā́māsi   divyó   gandʰarváḥ  \
+[struct] Kandika: b
+[text] tásya   te   padvád   dʰavirdʰā́nam  \
+[struct] Kandika: c
+[text] agnír   ádʰyakṣaḥ  \
+[struct] Kandika: d
+[text] rudró   'dʰipatiḥ  \
+[struct] Mantra: 14
+[struct] Kandika: e
+[text] sám   ahám   ā́yuṣā  \
+[struct] Kandika: f
+[text] sáṃ   prāṇéna  \
+[struct] Kandika: g
+[text] sáṃ   várcasā  \
+[struct] Kandika: h
+[text] sáṃ   páyasā  \
+[struct] Kandika: i
+[text] sáṃ   gaupatyéna  \
+[struct] Kandika: j
+[text] sám̐   rāyáspóṣeṇa  \
+[struct] Dasati: 6
+[struct] Mantra: 15
+[struct] Kandika: a
+[text] vyàsau  \
+[struct] Kandika: b
+[text] yò   'smā́n   dvéṣṭi  \
+[struct] Kandika: c
+[text] yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Mantra: 16
+[struct] Kandika: d
+[text] ácikradad   vŕ̥ṣā   háriḥ  \
+[struct] Kandika: e
+[text] mahā́n   mitró   ná   darśatáḥ  \
+[struct] Kandika: f
+[text] sam̐   sūryeṇa   rocate  \
+[struct] Mantra: 17a-d
+[struct] Kandika: g
+[text] cíd   asi   samudráyoniḥ  \
+[struct] Kandika: h
+[text] índur   dákṣaḥ   śyená   r̥tā́vā  \
+[struct] Kandika: i
+[text] híraṇyapakṣaḥ   śakunó   bʰuraṇyúḥ  \
+[struct] Kandika: j
+[text] mahā́nt   sadʰástʰe   dʰruvá   ā́   níṣattaḥ  \
+[text] ā́níṣattaḥ ;
+[text] níṣattaḥ) ,
+[struct] Dasati: 7
+[struct] Mantra: 17e
+[struct] Kandika: a
+[text] námas   te   astu   mā́   mā   him̐sīḥ  \
+[struct] Mantra: 18
+[struct] Kandika: b
+[text] viśvā́vasum̐   somagandʰarvám  \
+[struct] Kandika: c
+[text] ā́po   dadr̥śúṣīḥ  \
+[struct] Kandika: d
+[text] tád   r̥ténā   vyā̀yan  \
+[struct] Kandika: e
+[text] tád   anvávait  \
+[struct] Kandika: f
+[text] índro   rārahāṇá   āsām  \
+[struct] Kandika: g
+[text] pári   sū́ryasya   paridʰī́m̐r   apaśyat  \
+[struct] Mantra: 19a-c
+[struct] Kandika: h
+[text] viśvā́vasur   abʰí   tán   no   gr̥ṇātu  \
+[struct] Kandika: i
+[text] divyó   gandʰarvó   rájaso   vimā́naḥ  \
+[struct] Kandika: j
+[text] yád   vā   gʰā   satyám   utá   yán   ná   vidmá  \
+[struct] Dasati: 8
+[struct] Mantra: 19d
+[struct] Kandika: a
+[text] dʰíyo   hinvānó   dʰíya   ín   no   avyāt  \
+[struct] Mantra: 20
+[struct] Kandika: b
+[text] sásnim   avindac   cáraṇe   nadī́nām  \
+[struct] Kandika: c
+[text] ápāvr̥ṇod   dúro   áśmavrajānām  \
+[struct] Kandika: d
+[text] prā́sāṃ   gandʰarvó   amŕ̥tāni   vocat  \
+[struct] Kandika: e
+[text] índro   dákṣaṃ   pári   jānād   ahī́nam  \
+[struct] Mantra: 21
+[struct] Kandika: f
+[text] etát   tváṃ   déva   gʰarma   devó   devā́n   úpāgāḥ  \
+[struct] Mantra: 22
+[struct] Kandika: g
+[text] idám   aháṃ   manuṣyò   manuṣyā̀n  \
+[struct] Kandika: h
+[text] sómapītʰā́nu   méhi  \
+[struct] Kandika: i
+[text] sahá   prajáyā   sahá   rāyáspóṣeṇa  \
+[struct] Mantra: 23
+[struct] Kandika: j
+[text] sumitrā́   na   ā́pa   óṣadʰayaḥ   santu  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] durmitrā́s   tásmai   bʰūyāsuḥ  \
+[struct] Kandika: b
+[text] yò   'smā́n   dvéṣṭi  \
+[struct] Kandika: c
+[text] yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Mantra: 24
+[struct] Kandika: d
+[text] úd   vayáṃ   támasas   pári  \
+[struct] Kandika: e
+[text] úd   u   tyáṃ
+[text] citrám
+[struct] Mantra: 25
+[struct] Kandika: f
+[text] imám   ū   ṣú   tyám   asmábʰyam̐   saním  \
+[struct] Kandika: g
+[text] gāyatráṃ   návīyām̐sam  \
+[struct] Kandika: h
+[text] ágne   devéṣu   prá   vocaḥ
+[struct] Anuvaka: 12
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] mahīnā́ṃ   páyo   'si   víhitaṃ   devatrā́  \
+[struct] Mantra: 2
+[struct] Kandika: b
+[text] jyotirbʰā́   asi   vánaspátīnām   óṣadʰīnām̐   rásaḥ  \
+[struct] Mantra: 3
+[struct] Kandika: c
+[text] vājínaṃ   tvā   vājínò   'va   nayāmaḥ  \
+[struct] Kandika: d
+[text] ūrdʰváṃ   mánaḥ   suvargáṃ  \
+[struct] Anuvaka: 13
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] áskān   dyáuḥ   pr̥tʰivī́m  \
+[struct] Kandika: b
+[text] áskān   r̥ṣabʰó   yúvā   gā́ḥ  \
+[struct] Kandika: c
+[text] skannémā́   víśvā   bʰúvanā  \
+[struct] Kandika: d
+[text] skannó   yajñáḥ   prá   janayatu  \
+[struct] Mantra: 2
+[struct] Kandika: e
+[text] áskān   ájani   prā́jani  \
+[struct] Kandika: f
+[text] ā́   skannā́j   jāyate   vŕ̥ṣā  \
+[struct] Kandika: g
+[text] skannā́t   prá   janiṣīmahi  \
+[struct] Anuvaka: 14
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] yā́   purástād   vidyúd   ā́patat  \
+[struct] Kandika: b
+[text] tā́ṃ   ta   eténā́vayaje   svā́hā  \
+[struct] Kandika: c
+[text] yā́   dakṣiṇatáḥ  \
+[struct] Kandika: d
+[text] yā́   paścā́t  \
+[struct] Kandika: e
+[text] yóttaratáḥ  \
+[struct] Kandika: f
+[text] yópáriṣṭād   vidyúd   ā́patat  \
+[struct] Kandika: g
+[text] tā́ṃ   ta   eténā́vayaje   svā́hā  \
+[struct] Anuvaka: 15
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] prāṇā́ya   svā́hā   vyānā́ya   svā́hā   'pānā́ya   svā́hā
+[struct] Kandika: b
+[text] cákṣuṣe   svā́hā   śrótrāya   svā́hā  \
+[struct] Kandika: c
+[text] mánase   svā́hā   vācé   sárasvatyai   svā́hā  \
+[struct] Anuvaka: 16
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] pūṣṇé   svā́hā   pūṣṇé   śárase   svā́hā  \
+[struct] Kandika: b
+[text] pūṣṇé   prapatʰyā̀ya   svā́hā   pūṣṇé   naráṃdʰiyāya   svā́hā  \
+[struct] Kandika: c
+[text] pūṣṇé   'ṅgʰr̥ṇaye   svā́hā   pūṣṇé   narúṇāya   svā́hā  \
+[struct] Kandika: d
+[text] pūṣṇé   sāketā́ya   svā́hā  \
+[struct] Anuvaka: 17
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] úd   asya   śúṣmād   bʰānúr   nā́rta   bíbʰarti  \
+[struct] Kandika: b
+[text] bʰāráṃ   pr̥tʰivī́   ná   bʰū́ma  \
+[struct] Kandika: c
+[text] prá   śukráitu   devī́   manīṣā́  \
+[struct] Kandika: d
+[text] asmát   sútaṣṭo   rátʰo   ná   vājī́  \
+[struct] Kandika: e
+[text] árcanta   éke   máhi   sā́ma   manvata  \
+[struct] Kandika: f
+[text] téna   sū́ryam   adʰārayan  \
+[struct] Kandika: g
+[text] téna   sū́ryam   arocayan  \
+[struct] Kandika: h
+[text] gʰarmáḥ   śíras   tád   ayám   agníḥ  \
+[struct] Kandika: i
+[text] púrīṣam   asi   sáṃpriyaṃ   prajáyā   paśúbʰir   bʰuvat  \
+[text] sáṃ   priyaṃ}
+[struct] Kandika: j
+[text] prajā́patis   tvā   sādayatu  \
+[struct] Kandika: k
+[text] táyā   devátayā   'ṅgirasvád   dʰruvā́   sīda  \
+[struct] Anuvaka: 18
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] yā́s   ta   agna   ārdrā́   yónayo   yā́ḥ   kulāyínīḥ  \
+[struct] Kandika: b
+[text] yé   te   agna   índavo   yā́   u   nā́bʰayaḥ  \
+[struct] Kandika: c
+[text] yā́s   te   agne   tanúva   ū́rjo   nā́ma  \
+[struct] Kandika: d
+[text] tā́bʰis   tvám   ubʰáyībʰiḥ   saṃvidānáḥ  \
+[struct] Kandika: e
+[text] prajā́bʰir   agne   dráviṇehá   sīda  \
+[struct] Kandika: f
+[text] prajā́patis   tvā   sādayatu  \
+[struct] Kandika: g
+[text] táyā   devátayā   'ṅgirasvád   dʰruvā́   sīda  \
+[struct] Anuvaka: 19
+[struct] Dasati: 1
+[struct] Mantra: 1a-j
+[struct] Kandika: a
+[text] agnír   asi   vaiśvānarò   'si  \
+[struct] Kandika: b
+[text] saṃvatsarò   'si   parivatsarò   'si  \
+[text] parivatsarò ,
+[struct] Kandika: c
+[text] idāvatsarò   'sīduvatsarò   'si  \
+[struct] Kandika: d
+[text] idvatsarò   'si   vatsarò   'si  \
+[struct] Kandika: e
+[text] tásya   te   vasantáḥ   śíraḥ  \
+[struct] Kandika: f
+[text] grīṣmó   dákṣiṇaḥ   pakṣáḥ  \
+[struct] Kandika: g
+[text] varṣā́ḥ   púccʰam  \
+[struct] Kandika: h
+[text] śarád   úttaraḥ   pakṣáḥ  \
+[struct] Kandika: i
+[text] hemantó   mádʰyam  \
+[struct] Kandika: j
+[text] pūrvapakṣā́ś   cítayaḥ  \
+[struct] Dasati: 2
+[struct] Mantra: 1k-q
+[struct] Kandika: a
+[text] aparapakṣā́ḥ   púrīṣam  \
+[struct] Kandika: b
+[text] ahorātrā́ṇī́ṣṭakāḥ  \
+[struct] Kandika: c
+[text] tásya   te   mā́sāś   cārdʰamāsā́ś   ca   kalpantām  \
+[struct] Kandika: d
+[text] r̥távas   te   kalpantām  \
+[struct] Kandika: e
+[text] saṃvatsarás   te   kalpantām  \
+[struct] Kandika: f
+[text] ahorātrāṇi   te   kalpantām  \
+[struct] Kandika: g
+[text] éti   préti   vī́ti   sám   íty   úd   íti  \
+[struct] Kandika: h
+[text] prajā́patis   tvā   sādayatu  \
+[struct] Kandika: i
+[text] táyā   devátayā   'ṅgirasvád   dʰruváḥ   sīda  \
+[struct] Anuvaka: 20
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] bʰū́r   bʰúvaḥ   súvaḥ  \
+[struct] Kandika: b
+[text] ūrdʰvá   ū   ṣú   ṇa   ūtáye  \
+[struct] Kandika: c
+[text] ūrdʰvó   naḥ   pāhy   ám̐hasaḥ  \
+[struct] Mantra: 2
+[struct] Kandika: d
+[text] vidʰúṃ   dadrāṇám̐   sámane   bahūnā́m  \
+[struct] Kandika: e
+[text] yúvānam̐   sántaṃ   palitó   jagāra  \
+[struct] Kandika: f
+[text] devásya   paśya   kā́vyaṃ   mahitvā́   'dyā́   mamā́ra  \
+[struct] Kandika: g
+[text] sá   hyaḥ   sámāna  \
+[struct] Mantra: 3a-c
+[struct] Kandika: h
+[text] yád   r̥té   cid   abʰiśriṣaḥ  \
+[struct] Kandika: i
+[text] purā́   jartŕ̥bʰya   ātŕ̥daḥ  \
+[struct] Kandika: j
+[text] sáṃdʰātā   saṃdʰiṃ   magʰávā   purovásuḥ  \
+[struct] Dasati: 2
+[struct] Mantra: 3d
+[struct] Kandika: a
+[text] níṣkartā   víhrutaṃ   púnaḥ  \
+[struct] Mantra: 4
+[struct] Kandika: b
+[text] púnar   ūrjā́   sahá   ráyyā́  \
+[struct] Mantra: 5
+[struct] Kandika: c
+[text] mā́   no   gʰarma   vyatʰitó   vivyatʰó   naḥ  \
+[struct] Kandika: d
+[text] mā́   naḥ   páram   ádʰaraṃ   mā́   rájo   naiḥ  \
+[text] 'naiḥ ??)
+[struct] Kandika: e
+[text] mó   ṣv   àsmām̐s   támasy   antarā́   dʰāḥ  \
+[struct] Kandika: f
+[text] mā́   rudríyāso   abʰígur   vr̥dʰā́naḥ  \
+[struct] Mantra: 6
+[struct] Kandika: g
+[text] mā́   naḥ   krátubʰir   hīḍitébʰir   asmā́n  \
+[struct] Kandika: h
+[text] dvíṣā   sunīte   mā́   párā   dāḥ  \
+[struct] Kandika: i
+[text] mā́   no   rudró   nírr̥tir   mā́   no   ástā́  \
+[struct] Kandika: j
+[text] mā́   dyā́vāpr̥tʰivī́   hīḍiṣātām  \
+[struct] Dasati: 3
+[struct] Mantra: 7
+[struct] Kandika: a
+[text] úpa   no   mitrāvaruṇāv   ihā́vatam  \
+[struct] Kandika: b
+[text] anvā́dīdʰyātʰām   ihá   naḥ   sakʰāyā  \
+[struct] Kandika: c
+[text] ādityā́nāṃ   prásitir   hetíḥ  \
+[struct] Kandika: d
+[text] ugrā́   śatā́pāṣṭʰā   gʰa   víṣā   pári   ṇo   vr̥ṇaktu  \
+[struct] Mantra: 8
+[struct] Kandika: e
+[text] imáṃ   me   varuṇa
+[text] tát   tvā   yāmi
+[struct] Kandika: f
+[text] tváṃ   no   agne
+[text] sá   tváṃ   no   agne
+[struct] Kandika: g
+[text] tvám   agne   ayā́si
+[struct] Mantra: 9
+[struct] Kandika: h
+[text] úd   vayáṃ   támasas   pári
+[struct] Kandika: i
+[text] úd   u   tyaṃ
+[text] citrám
+[struct] Kandika: j
+[text] váyaḥ   suparṇā́ḥ
+[text] \\  purovásur   hīḍiṣātām̐   suparṇā́ḥ  \\
+[struct] Anuvaka: 21
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] bʰū́r   bʰúvaḥ   súvaḥ  \
+[struct] Kandika: b
+[text] máyi   tyád   indriyáṃ   mahát  \
+[struct] Kandika: c
+[text] máyi   dákṣo   máyi   krátuḥ  \
+[struct] Kandika: d
+[text] máyi   dʰāyi   suvī́ryam  \
+[struct] Kandika: e
+[text] tríśug   gʰarmó   ví   bʰātu   me  \
+[struct] Kandika: f
+[text] ā́kūtyā   mánasā   sahá  \
+[struct] Kandika: g
+[text] virā́jā   jyótiṣā   sahá  \
+[struct] Kandika: h
+[text] yaj~néna   páyasā   sahá  \
+[struct] Kandika: i
+[text] brahmaṇā   téjasā   sahá  \
+[struct] Kandika: j
+[text] kṣattréṇa   yáśasā   sahá  \
+[struct] Kandika: aa
+[text] satyéna   tápasā   sahá  \
+[struct] Kandika: bb
+[text] tásya   dóham   aśīmahi  \
+[struct] Kandika: cc
+[text] tásya   sumnám   aśīmahi  \
+[struct] Kandika: dd
+[text] tásya   bʰakṣám   aśīmahi  \
+[struct] Kandika: ee
+[text] tásya   ta   índreṇa   pītásya   mádʰumataḥ  \
+[struct] Kandika: ff
+[text] úpahūtasyópahūto   bʰakṣayāmi  \
+[struct] Anuvaka: 22
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] yā́s   te   agne   gʰorā́s   tanúvaḥ  \
+[struct] Kandika: b
+[text] kṣúc   ca   tŕ̥ṣṇā   ca  \
+[struct] Kandika: c
+[text] ásnuk   cā́nāhutiś   ca  \
+[struct] Kandika: d
+[text] aśanayā́   ca   pipāsā́   ca  \
+[struct] Kandika: e
+[text] sedíś   cā́matiś   ca  \
+[struct] Kandika: f
+[text] etā́s   te   agne   gʰorā́s   tanúvaḥ  \
+[struct] Kandika: g
+[text] tā́bʰir   amúṃ   gaccʰa  \
+[struct] Kandika: h
+[text] yò   smā́n   dvéṣṭi  \
+[struct] Kandika: i
+[text] yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Anuvaka: 23
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] sník   ca   snī́hitiś   ca   sníhitiś   ca  \
+[struct] Kandika: b
+[text] uṣṇā́   ca   śītā́   ca  \
+[struct] Kandika: c
+[text] ugrā́   ca   bʰīmā́   ca  \
+[struct] Kandika: d
+[text] sadā́mnī   sedír   ánirā  \
+[struct] Kandika: e
+[text] etā́s   te   agne   gʰorā́s   tanúvaḥ  \
+[struct] Kandika: f
+[text] tā́bʰir   amúṃ   gaccʰa  \
+[struct] Kandika: g
+[text] yò   'smā́n   dvéṣṭi  \
+[struct] Kandika: h
+[text] yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Anuvaka: 24
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] dʰúniś   ca   dʰvāntáś   ca   dʰvanáś   ca   dʰvanáyam̐ś   ca  \
+[struct] Kandika: b
+[text] nilimpáś   ca   vilimpáś   ca   vikṣipáḥ  \
+[struct] Anuvaka: 25
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] ugráś   ca   dʰúniś   ca   dʰvāntáś   ca   dʰvanáś   ca   dʰvanáyam̐ś   ca  \
+[struct] Kandika: b
+[text] sahasahvā́m̐ś   ca   sáhamānaś   ca   sáhasvām̐ś   ca   sáhīyām̐ś   ca  \
+[struct] Kandika: c
+[text] étya   prétya   vikṣipáḥ  \
+[struct] Anuvaka: 26
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] ahorātré   tvódīrayatām  \
+[struct] Kandika: b
+[text] ardʰamāsā́s   tvódīm̐   jayantu  \
+[struct] Kandika: c
+[text] mā́sās   tvā   śrapayantu  \
+[struct] Kandika: d
+[text] r̥távas   tvā   pacantu  \
+[struct] Kandika: e
+[text] saṃvatsarás   tvā   hantv   asau  \
+[struct] Anuvaka: 27
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] kʰáṭ   pʰáṭ   jahí  \
+[struct] Kandika: b
+[text] cʰindʰī́   bʰindʰī́   handʰī́   káṭ  \
+[struct] Kandika: c
+[text] íti   vā́caḥ   krūrāṇi  \
+[struct] Anuvaka: 28
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] ví   gā́   indra   vicárants   pāśayasva  \
+[struct] Kandika: b
+[text] svapántam   indra   paśumántam   iccʰā  \
+[struct] Kandika: c
+[text] vájreṇāmúṃ   bodʰaya   durvidátram  \
+[struct] Kandika: d
+[text] svapatò   'sya   práhara   bʰójanebʰyaḥ  \
+[struct] Mantra: 2
+[struct] Kandika: e
+[text] ágne   agnínā   sáṃ   vadasva  \
+[struct] Kandika: f
+[text] mŕ̥tyo   mr̥tyúnā   sáṃ   vadasva  \
+[struct] Kandika: g
+[text] námas   te   astu   bʰagavaḥ  \
+[struct] Mantra: 3
+[struct] Kandika: h
+[text] sakŕ̥t   te   agne   námaḥ  \
+[struct] Kandika: i
+[text] dvís   te   námaḥ  \
+[struct] Kandika: j
+[text] trís   te   námaḥ  \
+[struct] Kandika: aa
+[text] catús   te   námaḥ  \
+[struct] Kandika: bb
+[text] pa~ncakŕ̥tvas   te   namaḥ
+[struct] Kandika: cc
+[text] daśakŕ̥tvas   te   náma  \
+[struct] Kandika: dd
+[text] śatakŕ̥tvas   te   námaḥ  \
+[struct] Kandika: ee
+[text] āsahasrakŕ̥tvas   te   námaḥ  \
+[struct] Kandika: ff
+[text] aparimitakŕ̥tvas   te   námaḥ  \
+[struct] Kandika: gg
+[text] námas   te   astu   mā́   mā   him̐sīḥ  \
+[struct] Anuvaka: 29
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] ásr̥ṅmukʰo   rudʰiréṇāvyakta  \
+[struct] Kandika: b
+[text] yamásya   dūtáḥ   śvápād   ví   dʰāvasi  \
+[struct] Kandika: c
+[text] gŕ̥dʰraḥ   suparṇáḥ   kuṇápaṃ   ní   ṣevase  \
+[struct] Kandika: d
+[text] yamásya   dūtáḥ   práhito   bʰavásya   cobʰáyoḥ  \
+[struct] Anuvaka: 30
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] yád   etád   vr̥kasó   bʰūtvā́  \
+[struct] Kandika: b
+[text] vā́gdevy   abʰirā́yasi  \
+[struct] Kandika: c
+[text] dviṣántaṃ   me   'bʰírāya  \
+[struct] Kandika: d
+[text] táṃ   mr̥tyo   mr̥tyáve   naya  \
+[struct] Kandika: e
+[text] sá   ā́rtyā́rtim   ā́rccʰatu  \
+[struct] Anuvaka: 31
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] yádīṣitó   yádi   vā   svakāmī́  \
+[struct] Kandika: b
+[text] bʰayéḍako   vádati   vā́cam   etā́m  \
+[struct] Kandika: c
+[text] tā́m   indrāgnī́   bráhmaṇā   saṃvidānáu  \
+[struct] Kandika: d
+[text] śivā́m   asmábʰyaṃ   kr̥ṇutaṃ   gr̥héṣu  \
+[struct] Anuvaka: 32
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] dī́rgʰamukʰi   dúrhaṇu  \
+[struct] Kandika: b
+[text] mā́   sma   dakṣiṇató   vadaḥ  \
+[struct] Kandika: c
+[text] yádi   dakṣiṇató   vádād   dviṣántaṃ   me   'vabādʰāsai  \
+[struct] Anuvaka: 33
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] ittʰā́d   úlūka   ā́paptat  \
+[struct] Kandika: b
+[text] hiraṇyākṣó   áyomukʰaḥ  \
+[struct] Kandika: c
+[text] rákṣasāṃ   dūtá   ā́gataḥ  \
+[struct] Kandika: d
+[text] tám   itó   nāśayāgne  \
+[struct] Anuvaka: 34
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] yád   etád   bʰūtā́ny   anvāvíśya  \
+[struct] Kandika: b
+[text] dáivīṃ   vā́caṃ   vadási  \
+[struct] Kandika: c
+[text] dviṣáto   naḥ   párāvada  \
+[struct] Kandika: d
+[text] tā́n   mr̥tyo   mr̥tyáve   naya  \
+[struct] Kandika: e
+[text] tá   ā́rtyā́rtim   ā́rccʰantu  \
+[struct] Kandika: f
+[text] agnínāgniḥ   sáṃ   vadatām  \
+[struct] Anuvaka: 35
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] prasā́rya   saktʰyàu   pátasi  \
+[struct] Kandika: b
+[text] savyám   ákṣi   nipépi   ca  \
+[struct] Kandika: c
+[text] méhá   kasya   canā́mamat  \
+[struct] Anuvaka: 36
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] átriṇā   tvā   krime   hanmi  \
+[struct] Kandika: b
+[text] káṇvena   jamádagninā  \
+[struct] Kandika: c
+[text] viśvā́vasor   bráhmaṇā   hatáḥ  \
+[struct] Kandika: d
+[text] krímīṇām̐   rā́jā  \
+[struct] Kandika: e
+[text] ápy   eṣām̐   stʰapátir   hatáḥ  \
+[struct] Kandika: f
+[text] átʰo   mātā́   'tʰo   pitā́  \
+[struct] Kandika: g
+[text] átʰo   stʰūrā́   átʰo   kṣudrā́ḥ  \
+[struct] Kandika: h
+[text] átʰo   kr̥ṣṇā́   átʰo   śvetā́ḥ  \
+[struct] Kandika: i
+[text] átʰo   āśā́tikā   hatā́ḥ  \
+[struct] Kandika: j
+[text] śvetā́bʰiḥ   sahá   sárve   hatā́ḥ  \
+[struct] Anuvaka: 37
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] ā́harā́vadya  \
+[struct] Kandika: b
+[text] śr̥tásya   havíṣo   yátʰā  \
+[struct] Kandika: c
+[text] tát   satyám  \
+[struct] Kandika: d
+[text] yád   amúṃ   yamásya   jámbʰayoḥ  \
+[struct] Kandika: e
+[text] ā́dadʰāmi   tátʰā   hí   tát  \
+[struct] Kandika: f
+[text] kʰáṇ   pʰáṇ   mrási  \
+[struct] Anuvaka: 38
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] bráhmaṇā   tvā   śapāmi  \
+[struct] Kandika: b
+[text] bráhmaṇas   tvā   śapátʰena   śapāmi  \
+[struct] Kandika: c
+[text] gʰoréṇa   tvā   bʰr̥gūṇāṃ   cákṣuṣā   prékṣe  \
+[struct] Kandika: d
+[text] raudréṇa   tvā́ṅgirasāṃ   mánasā   dʰyāyāmi  \
+[struct] Kandika: e
+[text] agʰásya   tvā   dʰā́rayā   vidʰyāmi  \
+[struct] Kandika: f
+[text] ádʰaro   mát   padyasvāsau  \
+[struct] Anuvaka: 39
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] út   tuda   śimijāvari  \
+[struct] Kandika: b
+[text] tálpeje   tálpa   út   tuda  \
+[struct] Kandika: c
+[text] girī́m̐r   ánu   prá   veśaya  \
+[struct] Kandika: d
+[text] márīcī́r
+[text] márīcī́r úpa}
+[text] úpa   sáṃ   nuda  \
+[struct] Kandika: e
+[text] yā́vad   itáḥ   purástād   udáyāti   sū́ryaḥ  \
+[struct] Kandika: f
+[text] tā́vad   itò   'múṃ   nāśaya  \
+[struct] Kandika: g
+[text] yò   'smā́n   dvéṣṭi  \
+[struct] Kandika: h
+[text] yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[text] yady   udgātā  ...  na   gāyet ,  adʰvaryur  ...  -gayet ;
+[text] mahāpātakaprāyaścittam}
+[struct] Anuvaka: 40
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] bʰū́r   bʰúvaḥ   súvo   bʰū́r   bʰúvaḥ   súvo   bʰū́r   bʰúvaḥ   súvaḥ  \
+[struct] Kandika: b
+[text] bʰúvo   'ddʰāyi   bʰúvo   'ddʰāyi   bʰúvo   'ddʰāyi  \
+[struct] Kandika: c
+[text] nr̥mṇā́yí   nr̥mṇáṃ   nr̥mṇā́yí   nr̥mṇáṃ   nr̥mṇā́yí   nr̥mṇám  \
+[struct] Kandika: d
+[text] nidʰā́yyo   'vāyi   nidʰā́yyo   'vāyi   nidʰā́yyo   'vāyi  \
+[struct] Kandika: e
+[text] é   asmé   asmé  \
+[struct] Kandika: f
+[text] súvar   ná   jyótīḥ  \
+[struct] Anuvaka: 41
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] pr̥tʰivī́   samít  \
+[struct] Kandika: b
+[text] tā́m   agníḥ   sám   indʰe  \
+[struct] Kandika: c
+[text] sā́   'gním̐   sám   indʰe  \
+[struct] Kandika: d
+[text] tā́m   ahám̐   sám   indʰe  \
+[struct] Kandika: e
+[text] sā́   mā   sám   iddʰā  \
+[struct] Kandika: f
+[text] ā́yuṣā   téjasā  \
+[struct] Kandika: g
+[text] várcasā   śriyā́  \
+[struct] Kandika: h
+[text] yáśasā   brahmavarcaséna  \
+[struct] Kandika: i
+[text] annā́dyena   sám   intām̐   svā́hā  \
+[struct] Mantra: 2a
+[struct] Kandika: j
+[text] antárikṣam̐   samít  \
+[struct] Dasati: 2
+[struct] Mantra: 2b-i
+[struct] Kandika: a
+[text] tā́ṃ   vāyúḥ   sám   indʰe  \
+[struct] Kandika: b
+[text] sā́   vāyúm̐   sám   indʰe  \
+[struct] Kandika: c
+[text] tā́m   ahám̐   sám   indʰe  \
+[struct] Kandika: d
+[text] sā́   mā   sámiddʰā  \
+[struct] Kandika: e
+[text] ā́yuṣā   téjasā  \
+[struct] Kandika: f
+[text] várcasā   śriyā́  \
+[struct] Kandika: g
+[text] yáśasā   brahmavarcaséna  \
+[struct] Kandika: h
+[text] annā́dyena   sám   intām̐   svā́hā  \
+[struct] Mantra: 3ab
+[struct] Kandika: i
+[text] dyáuḥ   samít  \
+[struct] Kandika: j
+[text] tā́m   ādityáḥ   sámindʰe  \
+[struct] Dasati: 3
+[struct] Mantra: 3c-i
+[struct] Kandika: a
+[text] sā́dityám̐   sámindʰe  \
+[struct] Kandika: b
+[text] tā́m   ahám̐   sám   indʰe  \
+[struct] Kandika: c
+[text] sā́   mā   sámiddʰā  \
+[struct] Kandika: d
+[text] ā́yuṣā   téjasā  \
+[struct] Kandika: e
+[text] várcasā   śriyā́  \
+[struct] Kandika: f
+[text] yáśasā   brahmavarcaséna  \
+[struct] Kandika: g
+[text] annā́dyena   sám   intām̐   svā́hā  \
+[struct] Mantra: 4
+[struct] Kandika: h
+[text] prājāpatyā́   me   samíd   asi   sapatnakṣáyaṇī  \
+[struct] Kandika: i
+[text] bʰrātr̥vyahā́   me   'si   svā́hā  \
+[struct] Mantra: 5a
+[struct] Kandika: j
+[text] ágne   vratapate   vratáṃ   cariṣyāmi  \
+[struct] Dasati: 4
+[struct] Mantra: 5b-e
+[struct] Kandika: a
+[text] tác   cʰakeyaṃ   tán   me   rādʰyatām  \
+[struct] Kandika: b
+[text] vā́yo   vratapata   ā́ditya   vratapate  \
+[struct] Kandika: c
+[text] vratā́nāṃ   vratapate   vratáṃ   cariṣyāmi  \
+[struct] Kandika: d
+[text] tác   cʰakeyaṃ   tán   me   rādʰyatām  \
+[struct] Mantra: 6
+[struct] Kandika: e
+[text] dyáuḥ   samít  \
+[struct] Kandika: f
+[text] tā́m   ādityáḥ   sámindʰe  \
+[struct] Kandika: g
+[text] sā́dityám̐   sámindʰe  \
+[struct] Kandika: h
+[text] tā́m   ahám̐   sám   indʰe  \
+[struct] Kandika: i
+[text] sā́   mā   sámiddʰā  \
+[struct] Kandika: j
+[text] ā́yuṣā   téjasā  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] várcasā   śriyā́
+[struct] Kandika: b
+[text] yáśasā   brahmavarcaséna  \
+[struct] Kandika: c
+[text] annā́dyena   sám   intām̐   svā́hā  \
+[struct] Kandika: d
+[text] antárikṣam̐   samít  \
+[struct] Kandika: e
+[text] tā́ṃ   vāyúḥ   sám   indʰe
+[struct] Kandika: f
+[text] sā́   vāyúm̐   sám   indʰe  \
+[struct] Kandika: g
+[text] tā́m   ahám̐   sám   indʰe  \
+[struct] Kandika: h
+[text] sā́   mā   sámiddʰā  \
+[struct] Kandika: i
+[text] ā́yuṣā   téjasā  \
+[struct] Kandika: j
+[text] várcasā   śriyā́  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] yáśasā   brahmavarcaséna  \
+[struct] Kandika: b
+[text] annā́dyena   sám   intām̐   svā́hā  \
+[struct] Kandika: c
+[text] pr̥tʰivī́   samít  \
+[struct] Kandika: d
+[text] tā́m   agníḥ   sám   indʰe  \
+[struct] Kandika: e
+[text] sā́   'gním̐   sám   indʰe  \
+[struct] Kandika: f
+[text] tā́m   ahám̐   sám   indʰe  \
+[struct] Kandika: g
+[text] sā́   mā   sám   iddʰā  \
+[struct] Kandika: h
+[text] ā́yuṣā   téjasā  \
+[struct] Kandika: i
+[text] várcasā   śriyā́  \
+[struct] Kandika: j
+[text] yáśasā   brahmavarcaséna  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] annā́dyena   sám   intām̐   svā́hā  \
+[struct] Kandika: b
+[text] prājāpatyā́   me   samíd   asi   sapatnakṣáyaṇī  \
+[struct] Kandika: c
+[text] bʰrātr̥vyahā́   me   'si   svā́hā  \
+[struct] Kandika: d
+[text] ā́ditya   vratapate   vratám   acāriṣam  \
+[struct] Kandika: e
+[text] tád   aśakaṃ   tán   me   'rādʰi  \
+[struct] Kandika: f
+[text] vāyo   vratapaté   'gne   vratapate  \
+[struct] Kandika: g
+[text] vratā́nāṃ   vratapate   vratám   acāriṣam  \
+[struct] Kandika: h
+[text] tád   aśakaṃ   tán   me   'rādʰi  \ \\  samít   sám   indʰe   vratáṃ   cariṣyāmi   téjasā   śriyā́   yáśasā   brahmavarcasénāṣṭáu   ca  \\
+[struct] Anuvaka: 42
+[struct] Dasati: 1
+[struct] Mantra: 1
+[struct] Kandika: a
+[text] śáṃ   no   vā́taḥ   pavatāṃ   mātaríśvā   śáṃ   nas   tapatu   sū́ryaḥ  \
+[struct] Kandika: b
+[text] áhāni   śáṃ   bʰavantu   naḥ   śáṃ   rā́triḥ   práti   dʰīyatām  \
+[struct] Mantra: 2
+[struct] Kandika: c
+[text] śám   uṣā́   no   vy   àccʰatu  \  śám   ādityá   úd   etu   naḥ  \
+[struct] Kandika: d
+[text] śivā́   naḥ   śáṃtamā   bʰava   sumr̥ḍīkā   sárasvati  \
+[struct] Kandika: e
+[text] mā́   te   vyòma   saṃdŕ̥śi  \
+[struct] Mantra: 3
+[struct] Kandika: f
+[text] íḍāyai   vā́stv   asi   vāstumád   vāstumánto   bʰūyāsma   mā́   vā́stoś   cʰitsma   hy   avāstúḥ   sá   bʰūyād   yò   'smā́n   dvéṣṭi   yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Mantra: 4
+[struct] Kandika: g
+[text] pratiṣṭʰā́   'si   pratiṣṭʰā́vanto   bʰūyāsma   mā́   pratiṣṭʰā́yāś   cʰitsma   hy   apratiṣṭʰáḥ   sá   bʰūyād   yò   'smā́n   dvéṣṭi   yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Mantra: 5
+[struct] Kandika: h
+[text] ā́   vāta   vāhi   bʰeṣajáṃ   ví   vāta   vāhi   yád   rápaḥ  \
+[struct] Kandika: i
+[text] tvám̐   hí   viśvábʰeṣajo   devā́nāṃ   dūtá   ī́yase  \
+[struct] Mantra: 6a
+[struct] Kandika: j
+[text] dváv   imau   vā́tau   vā́ta   ā́   síndʰor   ā́   parāvátaḥ  \
+[struct] Dasati: 2
+[struct] Mantra: 6b
+[struct] Kandika: a
+[text] dákṣaṃ   me   anyá   āvā́tu   párā   'nyó   vātu   yád   rápaḥ  \
+[struct] Mantra: 7
+[struct] Kandika: b
+[text] yád   adó   vāta   te   gr̥hè   'mŕ̥tasya   nidʰír   hitáḥ  \
+[struct] Kandika: c
+[text] táto   no   dehi   jīváse   táto   no   dʰehi   bʰeṣajám  \
+[struct] Kandika: d
+[text] táto   no   máha   ā́   vaha
+[struct] Mantra: 8
+[struct] Kandika: d
+[text] vā́ta   ā́   vātu   bʰeṣajám̐   śaṃbʰū́r   mayobʰū́r   no   hr̥dé  \
+[struct] Kandika: e
+[text] prá   ṇa   ā́yūm̐ṣi   tāriṣat  \
+[struct] Mantra: 9
+[struct] Kandika: f
+[text] índrasya   gr̥hò   'si   táṃ   tvā   prápadye   ságuḥ   sā́śvaḥ  \
+[struct] Kandika: g
+[text] sahá   yán   me   ásti   téna  \
+[struct] Mantra: 10
+[struct] Kandika: h
+[text] bʰū́ḥ   prápadye   bʰúvaḥ   prápadye   súvaḥ   prápadye   bʰū́r   bʰúvaḥ   súvaḥ   prápadye   vāyúṃ   prápadyé   'nārtāṃ   devátāṃ   prápadyé   'śmānam   ākʰaṇáṃ   prápadye   prajā́pater   brahmakośáṃ   bráhma   prápadya   Oṃ
+[text] oṃ ;
+[text] prápadye  \
+[struct] Mantra: 11
+[struct] Kandika: i
+[text] antárikṣaṃ   ma   urvàntáraṃ   br̥hád   agnáyaḥ   párvatāś   ca   yáyā   vā́taḥ   svastyā́   svàsti   mā́ṃ   táyā   svastyā́   svàsti   mā́nasāni  \
+[struct] Mantra: 12
+[struct] Kandika: j
+[text] prā́ṇāpānau   mr̥tyór   mā   pātaṃ   prā́ṇāpānau   mā́   mā   hāsiṣṭam
+[struct] Mantra: 13
+[struct] Kandika: k
+[text] máyi   medʰā́ṃ   máyi   prajā́ṃ   máyy   agnís   téjo   dadʰātu   máyi   medʰā́ṃ   máyi   prajā́ṃ   máyī́ndra   indriyáṃ   dadʰātu   máyi   medʰā́ṃ   máyi   prajā́ṃ   máyi   sū́ryo   bʰrā́jo   dadʰātu  \
+[struct] Dasati: 3
+[struct] Mantra: 14
+[struct] Kandika: a
+[text] dyubʰír   aktúbʰiḥ   pári   pātam   asmā́n   áriṣṭebʰir   aśvinā   sáubʰagebʰiḥ  \
+[struct] Kandika: b
+[text] tán   no   mitró   váruṇo   māmahantām   áditiḥ   síndʰuḥ   pr̥tʰivī́   utá   dyáuḥ  \
+[struct] Mantra: 15
+[struct] Kandika: c
+[text] káyā   naś   citrá   ā́bʰuvad   ūtī́   sadā́vr̥dʰaḥ   sákʰā  \
+[struct] Kandika: d
+[text] káyā   śáciṣṭʰayā   vr̥tā́  \
+[text] śáciṣṭʰayā''vr̥tā́}
+[struct] Mantra: 16
+[struct] Kandika: e
+[text] kás   tvā   satyó   mádānāṃ   mám̐hiṣṭʰo   matsad   ándʰasaḥ  \
+[struct] Kandika: f
+[text] dr̥ḍʰā   cid   ārúje   vásu  \
+[struct] Mantra: 17
+[struct] Kandika: g
+[text] abʰī́   ṣú   ṇaḥ   sákʰīnām   avitā́   jaritr̥r̥ṇā́m  \
+[struct] Kandika: h
+[text] śatáṃ   bʰavāsy   ūtíbʰiḥ  \
+[struct] Mantra: 18
+[struct] Kandika: i
+[text] váyaḥ   suparṇā́   úpasedur   índraṃ   priyámedʰā   r̥ṣayo   nā́dʰamānāḥ  \
+[struct] Kandika: j
+[text] ápa   dʰvāntám   ūrṇuhí   pūrdʰí   cákṣur   mumugdʰy   àsmān   nidʰáyeva   baddʰā́n  \
+[text] mumúgdʰy   asmān}
+[text] ūrṇuhi  ???}
+[struct] Dasati: 4
+[struct] Mantra: 19
+[struct] Kandika: a
+[text] śáṃ   no   devī́r   abʰíṣṭaya   ā́po   bʰavantu   pītáye  \
+[struct] Kandika: b
+[text] śaṃ   yór   abʰí   sravantu   naḥ  \
+[struct] Mantra: 20
+[struct] Kandika: c
+[text] ī́śānā   vā́ryāṇāṃ   kṣáyantīś   carṣaṇīnā́m  \
+[struct] Kandika: d
+[text] apó   yācāmi   bʰeṣajám  \
+[struct] Mantra: 21
+[struct] Kandika: e
+[text] sumitrā́   na   ā́pa   óṣadʰayaḥ   santu   durmitrā́s   tásmai   bʰūyāsur   yò   smā́n   dvéṣṭi   yáṃ   ca   vayáṃ   dviṣmáḥ  \
+[struct] Mantra: 22
+[struct] Kandika: f
+[text] ā́po   hí   ṣṭʰā́   mayobʰúvas   tā́   na   ūrjé   dadʰātana  \
+[struct] Kandika: g
+[text] mahé   ráṇāya   cákṣase  \
+[struct] Mantra: 23
+[struct] Kandika: h
+[text] yó   vaḥ   śivátamo   rásas   tásya   bʰājayatehá   naḥ  \
+[struct] Kandika: i
+[text] uśatī́r   iva   mātáraḥ  \
+[struct] Mantra: 24a
+[struct] Kandika: j
+[text] tásmā   áraṅgamāma   vo   yásya   kṣáyāya   jínvatʰa  \
+[struct] Dasati: 5
+[struct] Mantra: 24b
+[struct] Kandika: a
+[text] ā́po   janáyatʰā   ca   naḥ  \
+[struct] Mantra: 25
+[struct] Kandika: b
+[text] pr̥tʰivī́   śāntā́   sā́gnínā   śāntā́   sā́   me   śāntā́   śúcam̐   śamayatu  \
+[struct] Mantra: 26
+[struct] Kandika: c
+[text] antárikṣam̐   śāntáṃ   tád   vāyúnā   śāntáṃ   tán   me   śāntám̐   śúcam̐   śamayatu  \
+[struct] Mantra: 27
+[struct] Kandika: d
+[text] dyáuḥ   śāntā́   sā́dityéna   śāntā́   sā́   me   śāntā́   śúcam̐   śamayatu  \
+[struct] Mantra: 28
+[struct] Kandika: e
+[text] pr̥tʰivī́   śā́ntir   antárikṣam̐   śā́ntir   dyáuḥ   śā́ntir   díśaḥ   śā́ntir   avāntaradiśā́ḥ   śā́ntir   agníḥ   śā́ntir   vāyúḥ   śā́ntir   ādityáḥ   śā́ntiś   candrámāḥ   śā́ntir   nákṣatrāṇi   śā́ntir   ā́paḥ   śā́ntir   óṣadʰayaḥ   śā́ntir   vánaspátayaḥ   śā́ntir   gáuḥ   śā́ntir   ajā́   śā́ntir   áśvaḥ   śā́ntiḥ   púruṣaḥ   śā́ntir   bráhma   śā́ntir   brāhmaṇáḥ   śā́ntiḥ   śā́ntir   evá   śā́ntiḥ   śā́ntir   me   astu   śā́ntiḥ  \
+[struct] Mantra: 29
+[struct] Kandika: f
+[text] táyāham̐   śāntyā́   sarvaśāntyā́   máhyaṃ   dvipáde   cátuṣpade   ca   śā́ntiṅ   karomi   śā́ntir   me   astu   śā́ntiḥ  \
+[struct] Mantra: 30
+[struct] Kandika: g
+[text] éha   śrī́ś   ca   hrī́ś   ca   dʰŕ̥tiś   ca   tápo   medʰā́   pratiṣṭʰā́   śraddʰā́   satyā́ṃ   dʰármaś   caitā́ni   mót   tiṣṭʰantam   ánū́t   tiṣṭʰantu   mā́   mām̐   śrī́ś   ca   hrī́ś   ca   dʰŕ̥tiś   ca   tápo   medʰā́   pratiṣṭʰā́   śraddʰā́   satyáṃ   dʰármaś   caitā́ni   mā   mā́   hāsiṣuḥ  \
+[struct] Mantra: 31
+[struct] Kandika: h
+[text] úd   ā́yuṣā   svāyúṣódóṣadʰīnām̐   rásenót   parjányasya   śúṣmeṇódastʰām   amŕ̥tām̐   ánu  \
+[struct] Mantra: 32
+[struct] Kandika: i
+[text] tác   cákṣur   deváhitaṃ   purástāc   cʰukrám   uccárat  \
+[struct] Kandika: j
+[text] páśyema   śarádaḥ   śatáṃ   jī́vema   śarádaḥ   śatáṃ   nándāma   śarádaḥ   śatáṃ   módāma   śarádaḥ   śatáṃ   bʰávāma   śarádaḥ   śatáṃ   śr̥ṇávāma   śarádaḥ   śatáṃ   prá   bravāma   śarádaḥ   śatáṃ   ájītāḥ   syāma   śarádaḥ   śatáṃ   jyók   ca   sū́ryaṃ   dr̥śe  \
+[struct] Mantra: 33
+[struct] Kandika: aa
+[text] yá   úd   agān   maható   'rṇávād   vibʰrājamānaḥ   sarirásya   mádʰyāt   sá   mā   vr̥ṣabʰó   lohitākṣáḥ   sū́ryo   vipaścín   mánasā   punātu  \
+[struct] Mantra: 34
+[struct] Kandika: bb
+[text] bráhmaṇaḥ
+[text] bráhmaṇa-}
+[text] ścótany
+[text] śrótany}
+[text] asi   bráhmaṇa   āṇī́   stʰo   bráhmaṇa   āvápanam   asi   dʰāritéyáṃ   pr̥tʰivī   bráhmaṇā   mahī   dʰāritámenena   mahád   antárikṣaṃ   dívaṃ   dādʰāra   pr̥tʰivī́m̐   sádevāṃ   yád   aháṃ   véda   tád   aháṃ   dʰārayāṇi   mā́   mád   védó   'dʰi   ví   srasat  \
+[struct] Mantra: 35
+[struct] Kandika: cc
+[text] medʰāmanīṣé   mā́viśatām̐samī́cī   bʰūtásya   bʰávyasyā́varuddʰyai   sárvam   ā́yur   ayāṇi   sárvam   ā́yur   ayāṇi  \
+[struct] Mantra: 36
+[struct] Kandika: dd
+[text] ābʰír   gīrbʰír   yád   áto   na   ūnám   ā́pyāyaya   harivo   várdʰamānaḥ  \
+[struct] Kandika: ee
+[text] yádā   stotŕ̥bʰyo   máhi   gotrā́   rujā́si   bʰūyiṣṭʰabʰā́jo   ádʰa   te   syāma  \
+[struct] Mantra: 37
+[struct] Kandika: ff
+[text] bráhma   prā́vādiṣma   tán   no   mā́   hāsīt  \
+[struct] Kandika: gg
+[text] Oṃ   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ  \ \\  parāváto   dadʰātu   baddʰā́ñ   jínvatʰa   dr̥śe   saptá   ca  \\
+[text] námo
+[text] yuñjáte
+[text] vŕ̥ṣṇo   áśvasya
+[text] bráhman   pravargyèṇa
+[text] bráhman   pá   cariṣyāmo
+[text] dáśa   prā́cīr
+[text] ápaśyaṃ   gopā́ṃ
+[text] devásya
+[text] samudrā́ye
+[text] -ṣé   pīpihi
+[text] gʰárma   yā́   te
+[text] mahīnā́ṃ   catvā́ry
+[text] áskān
+[text] yā́   purástāt   saptásapta
+[text] prāṇā́ya   trī́ṇi
+[text] pūṣṇé   catvā́ry
+[text] úd   asyáikādaśa
+[text] yā́s   te   saptā́
+[text] -gnír   dʰruváḥ   sīdáikonáviāṃśatir
+[text] bʰū́r   ūrdʰvás   trim̐śád
+[text] bʰū́r   máyi   ṣóḍaśa
+[text] yā́s   te   gʰorā́   náva
+[text] sník   cāṣṭáu
+[text] dʰúniś   ca   dvé
+[text] ugráś   ca   trī́ṇy
+[text] ahorātré   páñca
+[text] kʰáṭ   trī́ṇi
+[text] ví   gā́ḥ   saptádaśā́
+[text] -sr̥ṅmukʰaś   catvā́ri
+[text] yád   etád   vr̥kasáḥ   páñca
+[text] yád   īṣitáś   catvā́ri
+[text] dī́rgʰamukʰi   trī́ṇī
+[text] -ttʰā́
+[text] ittʰā́d}   catvā́ri
+[text] yád   etád   bʰūtā́ni   ṣáṭ
+[text] prasā́rya   trī́ṇy
+[text] átriṇā   dáśā́
+[text] -harā́vadya
+[text] bráhmaṇā   ṣáṭ   ṣáḍ
+[text] út   tudāṣṭáu
+[text] bʰū́ḥ   ṣáṭ
+[text] pr̥tʰivyàṣṭáṣaṣṭiḥ
+[text] śaṃ   naḥ   saptápañcāśád   dvícatvārim̐śat  \\ 42 \\
+[text] \\  námo   vācé
+[text] bráhman   pravargyèṇa
+[text] máyi   rúk
+[text] antárikṣeṇa
+[text] gʰárma   yā́   te   diví   śúk
+[text] áskān   dyáuḥ   pr̥tʰivī́m
+[text] úpa   no   mitrāvaruṇā
+[text] yád   etád   vr̥kasó
+[text] bʰū́r   bʰúvaḥ   súvar
+[text] dyubʰír
+[text] tríṇavatiḥ  \\ 93 \\
+[text] \\ yuñjate
+[text] {pūrvaśāntiḥ ,
+[text] bráhman pra cáriṣyāmaḥ
+[text] ápaśyaṃ gopā́ṃ
+[text] samudrā́ya
+[text] vayám ánukrāmāma
+[text] pūṣṇé
+[text] dʰúniś ca
+[text] yád etád bʰūtā́ny anvāvíśya
+[text] tác cʰakeyaṃ
+[text] aṣṭā́śītiḥ \\ 88 \\
+[text] \\  námo
+[text] yuñjate
+[text] námo ,
+[text] yuñjate !}
+[text] bráhman   pravargyèṇa
+[text] máyi   rúk
+[text] antárikṣeṇa
+[text] gʰárma   yā́   te
+[text] prāṇā́ya
+[text] sník   ce -
+[text] -ttʰā
+[text] dákṣaṃ   me
+[text] śā́ntiḥ. }
+[text] pañcāśītiḥ  \\ 85 \\
+[struct] Prapathaka: 5
+[text] śāntiś   śāntiḥ
+[text] śAntiḥ   śAntiḥ
+[text] saṃvatʰsaráḥ
+[text] saṃvatsaráḥ
+[text] śāntiś   śāntiḥ
+[text] śāntiḥ   śāntiḥ ;  saṃvatʰsaráḥ
+[text] saṃvatsaráḥ
+[text] íti)
+[text] prapāṭʰaka
+[text] anuvāka
+[text] daśati
+[text] kaṇḍikās)
+[text] hariḥ   Oṃ  /
+[text] śáṃ   naḥ
+[text] tán   no   mā́   hāsīt  \
+[text] hariḥ   om  \\  ṣáṃ   nas   tán   no   mā́   hāsīt ;
+[text] ṣáṃ nas tán no mā́ hāsīt}
+[text] Oṃ   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ  \
+[text] oṃ   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ  \  om ;
+[text] om}
+[struct] Anuvaka: 1
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] devā́   vái   satrám   ā́sata  \
+[text] Oṃ   devā́  . . . }
+[struct] Kandika: b
+[text] ŕ̥ddʰiparimitaṃ   yáśaskāmāḥ  \
+[struct] Kandika: c
+[text] tè   'bruvan  \
+[struct] Kandika: d
+[text] yán   naḥ   pratʰamáṃ   yáśa   r̥ccʰā́t  \
+[struct] Kandika: e
+[text] sárveṣāṃ   nas   tát   sahā́sad   íti  \
+[struct] Kandika: f
+[text] téṣāṃ   kurukṣetráṃ   védir   āsīt  \
+[struct] Kandika: g
+[text] tásyai   khāṇḍavó   dakṣiṇārdʰá   āsīt  \
+[struct] Kandika: h
+[text] tū́rgʰnam   uttarārdʰáḥ  \
+[struct] Kandika: i
+[text] parīṇáj   jagʰanārdʰáḥ  \
+[struct] Kandika: j
+[text] maráva   utkaráḥ  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] téṣāṃ   makháṃ   vaiṣṇaváṃ   yā́śa   ārccʰat  \
+[struct] Kandika: b
+[text] tán   ny   àkāmayata  \
+[struct] Kandika: c
+[text] ténā́pākrāmat  \
+[struct] Kandika: d
+[text] táṃ   devā́   ánvāyan  \
+[struct] Kandika: e
+[text] yáśo   varúrutsamānāḥ  \
+[struct] Kandika: f
+[text] tásyānvā́gatasya  \
+[struct] Kandika: g
+[text] savyā́d   dʰánur   ájāyata  \
+[struct] Kandika: h
+[text] dákṣiṇād   íṣavaḥ  \
+[struct] Kandika: i
+[text] tásmād   iṣudʰanváṃ   púṇyajanma  \
+[struct] Kandika: j
+[text] yajñájanmā   hí  \
+[text] yajñájanma ?}
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] tám   ékam̐   sántam  \
+[struct] Kandika: b
+[text] bahávo   nā́bʰyadʰr̥ṣṇuvan  \
+[struct] Kandika: c
+[text] tásmād   ékam   iṣudʰanvínam  \
+[struct] Kandika: d
+[text] bahávo   'niṣudʰanvā́   nā́bʰí   dʰr̥ṣṇuvanti  \
+[struct] Kandika: e
+[text] sò'smayata  \
+[struct] Kandika: f
+[text] ékaṃ   mā   sántaṃ   bahávo   nābʰy   àdʰarṣiṣur   íti  \
+[struct] Kandika: g
+[text] tásya   siṣmiyāṇásya   téjó   'pākrāmat  \
+[struct] Kandika: h
+[text] tád   devā́   óṣadʰīṣu   nyàmr̥juḥ  \
+[struct] Kandika: i
+[text] té   śyāmā́kā   abʰavan  \
+[struct] Kandika: j
+[text] smayā́kā   vái   nā́maité  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] tát   smayā́kānām̐   smayākatvám  \
+[struct] Kandika: b
+[text] tásmād   dīkṣiténāpigŕ̥hya   smetavyàm  \
+[struct] Kandika: c
+[text] téjaso   dʰŕ̥tyai  \
+[struct] Kandika: d
+[text] sá   dʰánuḥ   pratiṣkábʰyātiṣṭʰat  \
+[struct] Kandika: e
+[text] tā́   upadī́kā   abruvan   váraṃ   vr̥ṇāmahai  \
+[struct] Kandika: f
+[text] átʰa   va   imám̐   randʰayāma  \
+[struct] Kandika: g
+[text] yátra   kvà   ca   khánāma  \
+[struct] Kandika: h
+[text] tád   apò   'bʰí   tr̥ṇadāméti  \
+[struct] Kandika: i
+[text] tásmād   upadī́kā   yátra   kvà   ca   khánanti  \
+[struct] Kandika: j
+[text] tád   apò   'bʰí   tr̥ndanti  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] vā́revr̥tam̐   hy   ā̀sām  \
+[text] vā́re   vr̥tam̐}
+[struct] Kandika: b
+[text] tásya   jyā́m   ápyādan  \
+[struct] Kandika: c
+[text] tásya   dʰánur   viprávamāṇam̐   śira   úd   avartayat  \
+[struct] Kandika: d
+[text] tád   dyā́vāpr̥tʰivī́   ánu   prā́vartata
+[text] ánuprā́vartata}
+[struct] Kandika: e
+[text] yát   prā́vartata  \
+[struct] Kandika: f
+[text] tát   pravargyàsya   pravargyatvám  \
+[struct] Kandika: g
+[text] yád   gʰrā́m̐3   íty   ápatat  \
+[text] gʰrā́m̐4}
+[struct] Kandika: h
+[text] tád   gʰarmásya   gʰarmatvám  \
+[struct] Kandika: i
+[text] maható   vīryàm   apaptad   íti  \
+[struct] Kandika: j
+[text] tán   mahāvīrásya   mahāvīratvám  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] yád   asyā́ḥ   samábʰaran  \
+[struct] Kandika: b
+[text] tát   samrā́jñaḥ   samrāṭtvám  \
+[struct] Kandika: c
+[text] tám̐   str̥táṃ   devátās   tredʰā́   vy   àgr̥hṇata  \
+[struct] Kandika: d
+[text] agníḥ   prātaḥsavanám  \
+[struct] Kandika: e
+[text] índro   mā́dʰyaṃdinam̐   sávanam  \
+[struct] Kandika: f
+[text] víśve   devā́s   tr̥tīyasavanám  \
+[struct] Kandika: g
+[text] ténā́paśirṣṇā   yaj~néna   yájamānāḥ  \
+[struct] Kandika: h
+[text] nāśiṣo   'vā́rundʰata  \
+[struct] Kandika: i
+[text] ná   suvargáṃ   lokám   abʰy   àjayan  \
+[struct] Kandika: j
+[text] té   devā́   aśvínāv   abruvan  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] bʰiṣájau   vái   stʰaḥ  \
+[struct] Kandika: b
+[text] idáṃ   yajñásya   śíraḥ   práti   dʰattam   íti  \
+[struct] Kandika: c
+[text] tā́v   abrūtāṃ   váraṃ   vr̥ṇāvahai  \
+[struct] Kandika: d
+[text] gráha   evá   nāv   átrā́pi   gr̥hyatām   íti  \
+[struct] Kandika: e
+[text] tā́bʰyām   etám   āśvinám   agr̥hṇan  \
+[struct] Kandika: f
+[text] tā́v   etád   yajñásya   śíraḥ   práty   adʰattām  \
+[struct] Kandika: g
+[text] yát   pravargyàḥ  \
+[struct] Kandika: h
+[text] téna   sáśīrṣṇā   yajñéna   yájamānāḥ  \
+[struct] Kandika: i
+[text] ávāśiṣo   'rundʰata  \
+[struct] Kandika: j
+[text] abʰí   suvargáṃ   lokám   ajayan  \
+[struct] Kandika: aa
+[text] yát   pravargyàṃ   pravr̥ṇákti  \
+[struct] Kandika: bb
+[text] yajñásyaivá   tác   cʰíraḥ   práti   dadʰāti  \
+[struct] Kandika: cc
+[text] téna   sáśīrṣṇā   yajñéna   yájamānaḥ  \
+[struct] Kandika: dd
+[text] ávāśiṣo   rundʰé  \
+[struct] Kandika: ee
+[text] abʰí   suvargáṃ   lokā́ṃ   jayati  \
+[struct] Kandika: ff
+[text] tásmād   eṣá   āśvinápravayā   iva  \
+[struct] Kandika: gg
+[text] yát   pravargyàḥ  \ \\  utkaró   hy   èté   tr̥ndanti   mahāvīratvám   ábruvann   ajayant   saptá   ca  \\
+[struct] Anuvaka: 2
+[struct] Dasati: 1
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] sāvitráṃ   juhoti   prásūtyai  \
+[struct] Kandika: b
+[text] caturgr̥hīténa   juhoti  \
+[struct] Kandika: c
+[text] cátuṣpādaḥ   paśávaḥ  \
+[struct] Kandika: d
+[text] paśū́n   evā́va   rundʰe  \
+[struct] Kandika: e
+[text] cátasro   díśaḥ  \
+[struct] Kandika: f
+[text] dikṣv   èvá   práti   tiṣṭʰati  \
+[struct] Kandika: g
+[text] cʰándām̐si   devébʰyó   'pākrāman  \
+[struct] Kandika: h
+[text] ná   vo   bʰāgā́ni   havyáṃ   vakṣyāma   íti  \
+[struct] Kandika: i
+[text] tébʰya   etác   caturgr̥hītám   adʰārayan  \
+[struct] Kandika: j
+[text] puronuvākyā̀yai   yājyā̀yai  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] devátāyai   vaṣaṭkārā́ya  \
+[struct] Kandika: b
+[text] yác   caturgr̥hītáṃ   juhóti  \
+[struct] Kandika: c
+[text] cʰándām̐sy   èvá   tát   prīṇāti  \
+[struct] Kandika: d
+[text] tā́ny   asya   prītā́ni   devébʰyo   havyáṃ   vahanti  \
+[struct] Kandika: e
+[text] brahmavādíno   vadanti  \
+[struct] Kandika: f
+[text] hotavyàṃ   dīkṣitásya   gr̥hā3i   ná   hotavyā́3m   íti  \
+[struct] Kandika: g
+[text] havír   vái   dīkṣitáḥ  \
+[struct] Kandika: h
+[text] yáj   juhuyā́t  \
+[struct] Kandika: i
+[text] havíṣkr̥taṃ   yájamānam   agnáu   prá   dadʰyāt  \
+[struct] Kandika: j
+[text] yán   ná   juhuyā́t  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] yajñaparúr   antáriyāt  \
+[struct] Kandika: b
+[text] yájur   evá   vadet  \
+[struct] Kandika: c
+[text] ná   havíṣkr̥taṃ   yájamānam   agnáu   pradádʰāti  \
+[struct] Kandika: d
+[text] ná   yajñaparúr   antáreti  \
+[struct] Kandika: e
+[text] gāyatrī́   cʰándām̐sy   áty   amanyata  \
+[struct] Kandika: f
+[text] tásyai   vaṣaṭkārò   'bʰyáyya   śíro   'ccʰinat  \
+[struct] Kandika: g
+[text] tásyai   dvedʰā́   rásaḥ   párāpatat  \
+[struct] Kandika: h
+[text] pr̥tʰivī́m   ardʰáḥ   prā́viśat  \
+[struct] Kandika: i
+[text] paśū́n   ardʰáḥ  \
+[struct] Kandika: j
+[text] yáḥ   pr̥tʰivī́ṃ   prā́vi/sat  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] sá   khadirò   'bʰavat  \
+[struct] Kandika: b
+[text] yáḥ   paśū́n  \
+[struct] Kandika: c
+[text] sò   'jā́m  \
+[struct] Kandika: d
+[text] yát   khādiry   ábʰrir   bʰávati  \
+[struct] Kandika: e
+[text] cʰándasām   evá   rásena   yajñásya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: f
+[text] yád   áudumbarī  \
+[struct] Kandika: g
+[text] ū́rg   vā́   udumbáraḥ  \
+[struct] Kandika: h
+[text] ūrjáivá   yajñásya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: i
+[text] yád   vaiṇavī́  \
+[struct] Kandika: j
+[text] téjo   vái   véṇuḥ  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] téjasaivá   yajñsya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: b
+[text] yád   váikaṅkatī  \
+[struct] Kandika: c
+[text] bʰā́   evā́va   rundʰe  \
+[struct] Kandika: d
+[text] devásya   tvā   savitúḥ   prasav/a
+[text] íty   ábʰrim   ā́   datte   prásūtyai  \
+[struct] Kandika: e
+[text] aśvínor   bāhúbʰyām
+[text] íty   āha  \
+[struct] Kandika: f
+[text] aśvínau   hí   devā́nām   adʰvaryū́   ā́stām  \
+[struct] Kandika: g
+[text] pūṣṇó   hástābʰyām
+[text] íty   āha   yátyai  \
+[struct] Kandika: h
+[text] vájra   iva   vā́   eṣā́  \
+[struct] Kandika: i
+[text] yád   ábʰriḥ  \
+[struct] Kandika: j
+[text] ábʰrir   asi   nā́rir   asī́
+[text] ty   āha   śā́ntyai  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] adʰvarakŕ̥d   devébʰya
+[text] íty   āha  \
+[struct] Kandika: b
+[text] yajñó   vā́   adʰvaráḥ  \
+[struct] Kandika: c
+[text] yajñakŕ̥d   devébʰya   íti   vā́váitád   āha  \
+[struct] Kandika: d
+[text] út   tiṣṭʰa   brahmaṇaspata
+[text] íty   āha  \
+[struct] Kandika: e
+[text] bráhmaṇaivá   yajñásya   śíró   'ccʰaiti  \
+[struct] Kandika: f
+[text] práitu   bráhmaṇaspátir
+[text] íty   āha  \
+[struct] Kandika: g
+[text] prétyaivá   yajñásya   śíró   'ccʰaiti  \
+[struct] Kandika: h
+[text] prá   devy   ètu   sūnŕ̥té
+[text] ty   āha  \
+[struct] Kandika: i
+[text] yajñó   vái   sūnŕ̥tā  \
+[struct] Kandika: j
+[text] áccʰā   vīráṃ   náryaṃ   paṅktírādʰasam
+[text] íty   āha  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] pā́ṅkto   hí   yajñáḥ  \
+[struct] Kandika: b
+[text] devā́   yajñáṃ   nayantu   na
+[text] íty   āha  \
+[struct] Kandika: c
+[text] devā́n   evá   yajñaníyaḥ   kurute  \
+[struct] Kandika: d
+[text] dévī   dyāvāpr̥tʰivī   ánu   me   mam̐sātʰām
+[text] íty   āha
+[text] 'mam̐sātʰām}
+[struct] Kandika: e
+[text] ābʰyā́m   evā́numato   yajñásya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: f
+[text] r̥dʰyā́sam   adyá   makhásya   śíra
+[text] íty   āha  \
+[struct] Kandika: g
+[text] yajñó   vái   makháḥ  \
+[struct] Kandika: h
+[text] r̥dʰyā́sam   adyá   yajñásya   śíra   íti   vā́váitád   āha  \
+[struct] Kandika: i
+[text] makhā́ya   tvā   makhásya   tvā́   śīrṣṇá
+[text] íty   āha  \
+[struct] Kandika: j
+[text] nirdíśyaiváinad   dʰarati  \
+[struct] Dasati: 8
+[struct] Kandika: a
+[text] trír   harati  \
+[struct] Kandika: b
+[text] tráya   imé   lokā́ḥ  \
+[struct] Kandika: c
+[text] ebʰyá   evá   lokébʰyo   yajñásya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: d
+[text] tūṣṇī́ṃ   caturtʰám̐   harati  \
+[struct] Kandika: e
+[text] áparimitād   evá   yajñásya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: f
+[text] mr̥tkhanā́d   ágre   harati  \
+[struct] Kandika: g
+[text] tásmān   mr̥tkhanáḥ   karuṇyàtamaḥ  \
+[struct] Kandika: h
+[text] íyaty   ágra   āsīr
+[text] íty   āha  \
+[struct] Kandika: i
+[text] asyā́m   evā́ccʰaṃbaṭkāraṃ   yajñásya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: j
+[text] ū́rjaṃ   vā́   etám̐   rásaṃ   pr̥tʰivyā́   upadī́kā   úd   dihanti  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] yád   valmī́kam  \
+[struct] Kandika: b
+[text] yád   valmīkavapā́   saṃbʰāró   bʰávati  \
+[struct] Kandika: c
+[text] ū́rjam   evá   rásaṃ   pr̥tʰivyā́   áva   rundʰe  \
+[struct] Kandika: d
+[text] átʰo   śrótram   evá  \
+[struct] Kandika: e
+[text] śrótram̐   hy   etat   pr̥tʰivyā́ḥ  \
+[struct] Kandika: f
+[text] yád   valmī́ka : \
+[struct] Kandika: g
+[text] ábadʰiro   bʰavati  \
+[struct] Kandika: h
+[text] yá   eváṃ   véda  \
+[struct] Kandika: i
+[text] índro   vr̥trā́ya   vájram   úd   ayaccʰat  \
+[struct] Kandika: j
+[text] sá   yátrayatra   parā́kramata  \
+[struct] Dasati: 10
+[struct] Kandika: a
+[text] tán   nā́dʰriyata  \
+[struct] Kandika: b
+[text] sá   pūtīkastambé   párākramata  \
+[struct] Kandika: c
+[text] sò   'dʰriyata  \
+[struct] Kandika: d
+[text] sò   'bravīt  \
+[struct] Kandika: e
+[text] ūtíṃ   vái   mè   'dʰā   íti  \
+[struct] Kandika: f
+[text] tád   ūtī́kānām   ūtīkatvám  \
+[struct] Kandika: g
+[text] yád   ūtī́kā   bʰávanti  \
+[struct] Kandika: h
+[text] yajñāyaivótíṃ   dadʰati  \
+[struct] Kandika: i
+[text] agnijā́   asi   prajā́pate   réta
+[text] íty   āha  \
+[struct] Kandika: j
+[text] yá   evá   rásaḥ   paśū́n   prā́viśat  \
+[struct] Dasati: 11
+[struct] Kandika: a
+[text] tám   evā́va   rundʰe  \
+[struct] Kandika: b
+[text] páñcaité   saṃbʰārā́   bʰavanti  \
+[struct] Kandika: c
+[text] pā́ṅkto   yajñáḥ  \
+[struct] Kandika: d
+[text] yā́vān   evá   yajñáḥ  \
+[struct] Kandika: e
+[text] tásya   śíraḥ   sáṃ   bʰarati  \
+[struct] Kandika: f
+[text] yád   grāmyā́ṇāṃ   páśūnāṃ   cármaṇā   saṃbʰáret  \
+[struct] Kandika: g
+[text] grāmyā́n   paśū́ñ   cʰucā́rpayet  \
+[struct] Kandika: h
+[text] kr̥ṣṇājinéna   sáṃ   bʰarati  \
+[struct] Kandika: i
+[text] āraṇyā́n   evá   paśū́ñ   cʰucā́rpayati  \
+[struct] Kandika: j
+[text] tásmāt   samā́vat   paśūnā́ṃ   prajā́yamānānām  \
+[struct] Dasati: 12
+[struct] Kandika: a
+[text] āraṇyā́ḥ   paśávaḥ   kánīyām̐saḥ  \
+[struct] Kandika: b
+[text] śucā́   hy   r̥̀tā́ḥ
+[struct] Kandika: c
+[text] lomatáḥ   sáṃ   bʰarati  \
+[struct] Kandika: d
+[text] áto   hy   àsya   médʰyam  \
+[struct] Kandika: e
+[text] parigŕ̥hyā́   yanti  \
+[struct] Kandika: f
+[text] rákṣasām   ápahatyai  \
+[struct] Kandika: g
+[text] bahávo   haranti  \
+[struct] Kandika: h
+[text] ápacitim   evā́smin   dadʰati  \
+[struct] Kandika: i
+[text] úddʰate   síkatopopte   páriśrite   ní   dadʰati   śā́ntyai  \
+[struct] Kandika: j
+[text] mádantībʰir   úpa   sr̥jati  \
+[struct] Dasati: 13
+[struct] Kandika: a
+[text] téja   evā́smin   dadʰāti  \
+[struct] Kandika: b
+[text] mádʰu   tvā   madʰulā́   karotv
+[text] íty   āha  \
+[struct] Kandika: c
+[text] bráhmaṇaivā́smin   téjo   dadʰāti  \
+[struct] Kandika: d
+[text] yád   grāmyā́ṇaṃ   pā́trāṇāṃ   kapā́laiḥ   sam̐sr̥jét  \
+[struct] Kandika: e
+[text] grāmyā́ṇi   pā́trāṇi   śucā́rpayet  \
+[struct] Kandika: f
+[text] armakapāláiḥ   sám̐   sr̥jati  \
+[struct] Kandika: g
+[text] etā́ni   vā́   anupajīvanīyā́ni  \
+[struct] Kandika: h
+[text] tā́ny   evá   śucā́rpayati  \
+[struct] Kandika: i
+[text] śárkarābʰiḥ   sám̐   sr̥jati   dʰŕ̥tyai  \
+[struct] Kandika: j
+[text] átʰo   śaṃtvā́ya  \
+[struct] Kandika: aa
+[text] ajalomáiḥ   sám̐   sr̥jati  \
+[struct] Kandika: bb
+[text] eṣā́   vā́   agnéḥ   priyā́   tanū́ḥ  \
+[struct] Kandika: cc
+[text] yád   ajā́  \
+[struct] Kandika: dd
+[text] priyáyaiváinaṃ   tanúvā   sám̐   sr̥jati  \
+[struct] Kandika: ee
+[text] átʰo   téjasā  \
+[struct] Kandika: ff
+[text] kr̥ṣṇājinásya   lómabʰiḥ   sam̐   sr̥jati  \
+[struct] Kandika: gg
+[text] yajñó   vái   kr̥ṣṇājinám  \
+[struct] Kandika: hh
+[text] yajñénaivá   yajñám̐   sám̐   sr̥jati  \ \\  yājyā̀yai   ná   juhuyā́d   áviśd   véṇuḥ   śā́ntyai   paṅktírādʰasam   íty   āha   harati   dihanti   parā́kramatā́viśat   prajā́yamānānām̐   sr̥jati   śaṃtvā́yāṣṭáu   ca  \\
+[struct] Anuvaka: 3
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] páriśrite   karoti  \
+[struct] Kandika: b
+[text] brahmavarcasásya   párigr̥hītyai  \
+[struct] Kandika: c
+[text] ná   kurvánn   abʰí   prāṇyāt  \
+[struct] Kandika: d
+[text] yát   kurvánn   abʰiprāṇyā́t  \
+[struct] Kandika: e
+[text] prāṇā́ñ   cʰucā́rpayet
+[struct] Kandika: f
+[text] apahā́ya   prā́ṇiti  \
+[struct] Kandika: g
+[text] prāṇā́nāṃ   gopītʰā́ya  \
+[struct] Kandika: h
+[text] ná   pravargyàṃ   cā́dityáṃ   cāntár   eyāt  \
+[struct] Kandika: i
+[text] yád   antareyā́t  \
+[struct] Kandika: j
+[text] duścármā   syāt  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] tásmān   nā́ntarā́yyam  \
+[struct] Kandika: b
+[text] ātmáno   gopītʰā́ya  \
+[struct] Kandika: c
+[text] véṇunā   karoti  \
+[struct] Kandika: d
+[text] téjo   vái   véṇuḥ  \
+[struct] Kandika: e
+[text] téjaḥ   pravargyàḥ  \
+[struct] Kandika: f
+[text] téjasaivá   téjaḥ   sám   ardʰayati  \
+[struct] Kandika: g
+[text] makhásya   śíro   'sī́
+[text] ty   āha  \
+[struct] Kandika: h
+[text] yajñó   vái   makháḥ  \
+[struct] Kandika: i
+[text] tásyaitác   cʰíraḥ  \
+[struct] Kandika: j
+[text] yát   pravargyàḥ  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] tásmād   evám   āha  \
+[struct] Kandika: b
+[text] yajñásya   padé   stʰa
+[text] íty   āha  \
+[struct] Kandika: c
+[text] yajñásya   hy   ète   padé  \
+[struct] Kandika: d
+[text] átʰo   prátiṣṭʰityai  \
+[struct] Kandika: e
+[text] gāyatréṇa   tvā   cʰándasā   karomī́
+[text] ty   āha  \
+[struct] Kandika: f
+[text] cʰándobʰir   eváinaṃ   karoti  \
+[struct] Kandika: g
+[text] tryùddʰiṃ   karoti  \
+[struct] Kandika: h
+[text] tráya   imé   lokā́ḥ  \
+[struct] Kandika: i
+[text] eṣā́ṃ   lokā́nām   ā́ptyai  \
+[struct] Kandika: j
+[text] cʰándobʰiḥ   karoti  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] vīryàṃ   vái   cʰándām̐si  \
+[struct] Kandika: b
+[text] vīryèṇaiváinaṃ   karoti  \
+[struct] Kandika: c
+[text] yájuṣā   bílaṃ   karoti   vyā́vr̥ttyai  \
+[struct] Kandika: d
+[text] íyantaṃ   karoti  \
+[struct] Kandika: e
+[text] prajā́patinā   yajñamukhéna   saṃmitam  \
+[struct] Kandika: f
+[text] íyantaṃ   karoti  \
+[struct] Kandika: g
+[text] yajñaparúṣā   saṃmitam  \
+[struct] Kandika: h
+[text] íyantaṃ   karoti  \
+[struct] Kandika: i
+[text] etā́vad   vái   púruṣe   vīryàm  \
+[struct] Kandika: j
+[text] vīryàsaṃmitam  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] áparimitaṃ   karoti  \
+[struct] Kandika: b
+[text] áparimitasyā́varuddʰyai  \
+[struct] Kandika: c
+[text] parigrīváṃ   karoti   dʰŕ̥tyai  \
+[struct] Kandika: d
+[text] sū́ryasya   hárasā   śrāyé
+[text] ty   āha  \
+[struct] Kandika: e
+[text] yatʰāyajúr   eváitát  \
+[struct] Kandika: f
+[text] aśvaśakéna   dʰūpayati  \
+[struct] Kandika: g
+[text] prājāpatyó   vā́   áśvaḥ   sayonitvā́ya  \
+[struct] Kandika: h
+[text] vŕ̥ṣṇo   áśvasya   niṣpád   asī́
+[text] ty   āha  \
+[struct] Kandika: i
+[text] asáu   vā́   ādityó   vŕ̥śā́śvaḥ  \
+[struct] Kandika: j
+[text] tásya   cʰándām̐si   niṣpát  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] cʰándobʰir   eváinaṃ   dʰūpayati  \
+[struct] Kandika: b
+[text] arcíṣe   tvā   śocíṣe   tve
+[text] ty   āha  \
+[struct] Kandika: c
+[text] téja   evā́smin   dadʰāti  \
+[struct] Kandika: d
+[text] vāruṇò   bʰī́ddʰaḥ  \
+[struct] Kandika: e
+[text] maitríyópaiti   śā́ntyai  \
+[struct] Kandika: f
+[text] síddʰyai   tve
+[text] ty   āha  \
+[struct] Kandika: g
+[text] yatʰāyajúr   eváitát  \
+[struct] Kandika: h
+[text] devás   tvā   savitód   vapatv
+[text] íty   āha  \
+[struct] Kandika: i
+[text] savitŕ̥prasūta   eváinaṃ   bráhmaṇā   devátābʰir   úd   vapati  \
+[struct] Kandika: j
+[text] ápadyamānaḥ   pr̥tʰivyā́m   ā́śā   díśa   ā́pr̥ṇe
+[text] ty   āha  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] tásmād   agníḥ   sárvā   díśó   'nu   ví   bʰāti  \
+[text] díṣo   'nuvíbʰāti}
+[struct] Kandika: b
+[text] út   tiṣṭʰa   br̥hán   bʰavordʰvás   tiṣṭʰa   dʰruvás   tvám
+[text] íty   āha   prátiṣṭʰityai  \
+[struct] Kandika: c
+[text] īśvaró   vā́   eśò   'ndʰó   bʰávitoḥ  \
+[struct] Kandika: d
+[text] yáḥ   pravargyàm   anvī́kṣate  \
+[struct] Kandika: e
+[text] sū́ryasya   tvā   cákṣuṣā́nv   īkṣa
+[text] íty   āha  \
+[struct] Kandika: f
+[text] cákṣuṣo   gopītʰā́ya  \
+[struct] Kandika: g
+[text] r̥jáve   tvā   sādʰáve   tvā   sukṣityái   tvā   bʰū́tyai   tvé
+[text] ty   āha  \
+[struct] Kandika: h
+[text] iyáṃ   vā́   r̥júḥ  \
+[struct] Kandika: i
+[text] antárikṣam̐   sādʰú  \
+[struct] Kandika: j
+[text] asáu   sukṣitíḥ  \
+[struct] Dasati: 8
+[struct] Kandika: a
+[text] díśo   bʰū́tiḥ  \
+[struct] Kandika: b
+[text] imā́n   evā́smai   lokā́n   kalpayati  \
+[struct] Kandika: c
+[text] átʰo   prátiṣṭʰityai  \
+[struct] Kandika: d
+[text] idám   ahám   amúm   āmuṣyāyaṇáṃ   viśā́   paśúbʰir   brahmavarcaséna   páry   ūhāmī́
+[text] ty   āha  \
+[struct] Kandika: e
+[text] viśáiváinaṃ   paśúbʰir   brahmavarcaséna   páry   ūhati  \
+[struct] Kandika: f
+[text] viśéti   rā́janyasya   brūyāt  \
+[struct] Kandika: g
+[text] viśáiváinaṃ   páry   ūhati  \
+[struct] Kandika: h
+[text] paśúbʰir   íti   váiśyasya  \
+[struct] Kandika: i
+[text] paśúbʰir   eváinaṃ   páry   ūhati  \
+[struct] Kandika: j
+[text] asúryaṃ   pā́tram   ánāccʰŕ̥ṇṇam  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] ā́   ccʰr̥ṇatti  \
+[struct] Kandika: b
+[text] devatrā́kaḥ  \
+[struct] Kandika: c
+[text] ajakṣīréṇā́   ccʰr̥ṇatti  \
+[struct] Kandika: d
+[text] paramáṃ   vā́   etát   páyaḥ  \
+[struct] Kandika: e
+[text] yád   ajakṣīrám  \
+[struct] Kandika: f
+[text] paraméṇaiváinaṃ   páyasā   ccʰr̥ṇatti  \
+[struct] Kandika: g
+[text] yájuṣā   vyā́vr̥ttyai  \
+[struct] Kandika: h
+[text] cʰándogʰir   ā́   ccʰr̥ṇatti  \
+[struct] Kandika: i
+[text] cʰándobʰir   vā́   eṣá   kriyate  \
+[struct] Kandika: j
+[text] cʰándobʰir   evá   cʰándām̐sy   ā́   ccʰr̥ṇatti  \
+[struct] Kandika: aa
+[text] cʰr̥ndʰí   vā́cam
+[text] íty   āha  \
+[struct] Kandika: bb
+[text] vā́cam   evā́va   rundʰe  \
+[struct] Kandika: cc
+[text] cʰr̥ndʰy   ū́rjam
+[text] íty   āha  \
+[struct] Kandika: dd
+[text] ū́rjam   evā́va   rundʰe  \
+[struct] Kandika: ee
+[text] cʰr̥ndʰí   havír
+[text] íty   āha  \
+[struct] Kandika: ff
+[text] havír   evā́kaḥ  \
+[struct] Kandika: gg
+[text] déva   puraścara   sagʰyā́saṃ   tvé
+[text] ty   āha  \
+[struct] Kandika: hh
+[text] yatʰāyajúr   eváitat  \ \\  syād   yát   pravargyàś   cʰándobʰiḥ   karoti   vīryàsamitaṃ   cʰándām̐si   niṣpát   pr̥ṇety   āha   sukṣitír   ánāccʰr̥ṇṇaṃ   cʰándām̐sy   ā́ccʰr̥ṇatty   aṣṭáu   ca  \\
+[text] aṣṭau   cà}
+[struct] Anuvaka: 4
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] bráhman   prácariṣyāmo   hótar   gʰarmám   abʰí   ṣṭuhī́
+[text] ty   āha  \
+[struct] Kandika: b
+[text] eṣá   vā́   etárhi   bŕ̥haspátiḥ  \
+[struct] Kandika: c
+[text] yád   brahmā́  \
+[struct] Kandika: d
+[text] tásmā   evá   pratiprócya   prácarati  \
+[struct] Kandika: e
+[text] ātmánó   'nārtyai  \
+[struct] Kandika: f
+[text] yamā́ya   tvā   makhā́ya   tvé
+[text] ty   āha  \
+[struct] Kandika: g
+[text] etā́   vā́   etásya   devátāḥ  \
+[struct] Kandika: h
+[text] tā́bʰir   eváinam̐   sám   ardʰayati  \
+[struct] Kandika: i
+[text] mádantībʰiḥ   prókṣati  \
+[struct] Kandika: j
+[text] téja   evā́smin   dadʰāti  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] abʰipūrváṃ   prókṣati  \
+[struct] Kandika: b
+[text] abʰipūrvám   evā́smin   téjo   dadʰāti  \
+[struct] Kandika: c
+[text] tríḥ   prókṣati  \
+[struct] Kandika: d
+[text] tryā̀vr̥d   dʰí   yajñáḥ  \
+[struct] Kandika: e
+[text] átʰo   medʰyatvā́ya  \
+[struct] Kandika: f
+[text] hótā́nv   āha  \
+[struct] Kandika: g
+[text] rákṣasām   ápahatyai  \
+[struct] Kandika: h
+[text] ánavānam  \
+[struct] Kandika: i
+[text] prāṇā́nām̐   sántatyai  \
+[struct] Kandika: j
+[text] triṣṭúbʰaḥ   satī́r   gāyatrī́r   ivā́nv   āha  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] gāyatró   hí   prāṇáḥ  \
+[struct] Kandika: b
+[text] prāṇám   evá   yájamāne   dadʰāti  \
+[struct] Kandika: c
+[text] sántatam   ánv   āha  \
+[struct] Kandika: d
+[text] prāṇā́nām   annā́dyasya   sántatyai  \
+[struct] Kandika: e
+[text] átʰo   rákṣasām   ápahatyai  \
+[struct] Kandika: f
+[text] yát   párimitā   anubrūyā́t  \
+[struct] Kandika: g
+[text] párimitam   áva   rundʰīta  \
+[struct] Kandika: h
+[text] áparimitā   ánv   āha  \
+[struct] Kandika: i
+[text] áparimitasyā́varuddʰyai  \
+[struct] Kandika: j
+[text] śíro   vā́   etád   yajñásya  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] yát   pravargyàḥ  \
+[struct] Kandika: b
+[text] ū́rṅ   múñjāḥ  \
+[struct] Kandika: c
+[text] yán   mauñjó   vedó   bʰávati  \
+[struct] Kandika: d
+[text] ūrjáivá   yajñásya   śíraḥ   sám   ardʰayati  \
+[struct] Kandika: e
+[text] prāṇāhutī́r   juhoti  \
+[struct] Kandika: f
+[text] prāṇā́n   evá   yájamāne   dadʰāti  \
+[struct] Kandika: g
+[text] saptá   juhoti  \
+[struct] Kandika: h
+[text] saptá   vái   śīrṣaṇyā̀ḥ   prāṇā́ḥ  \
+[struct] Kandika: i
+[text] prāṇā́n   evā́smin   dadʰāti  \
+[struct] Kandika: j
+[text] devás   tvā   savitā́   mádʰvānaktv
+[text] íty   āha  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] téjasaiváinam   anakti  \
+[text] téjasaivénam}
+[struct] Kandika: b
+[text] pr̥tʰivī́ṃ   tápasas   trāyasvé
+[text] ti   híraṇyam   úpāsyati  \
+[struct] Kandika: c
+[text] asyā́   ánatidāhāya  \
+[struct] Kandika: d
+[text] śíro   vā́   etád   yajñásya  \
+[struct] Kandika: e
+[text] yát   pravargyàḥ  \
+[struct] Kandika: f
+[text] agníḥ   sárvā   devátāḥ  \
+[struct] Kandika: g
+[text] pralavā́n   ādī́pyópāsyati  \
+[struct] Kandika: h
+[text] devátāsv   evá   yajñásya   śíraḥ   práti   dadʰāti  \
+[struct] Kandika: i
+[text] ápratiśīrṇāgraṃ   bʰavati  \
+[struct] Kandika: j
+[text] etádbarhir   hy   èṣáḥ  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] arcír   asi   śocír   asī́
+[text] ty   āha  \
+[struct] Kandika: b
+[text] téja   evā́smin   brahmavarcasáṃ   dadʰāti  \
+[struct] Kandika: c
+[text] sám̐   sīdasva   mahā́m̐   asī́
+[text] ty   āha  \
+[struct] Kandika: d
+[text] mahā́n   hy   èṣáḥ  \
+[struct] Kandika: e
+[text] brahmavādíno   vadanti  \
+[struct] Kandika: f
+[text] eté   vā́vá   tá   r̥tvíjaḥ  \
+[struct] Kandika: g
+[text] yé   darśapūrṇamāsáyoḥ  \
+[struct] Kandika: h
+[text] átʰa   katʰā́   hótā   yájamānāyāśíṣo   nā́   śāsta   íti  \
+[struct] Kandika: i
+[text] purástādāśīḥ   khálu   vā́   anyó   yajñáḥ  \
+[struct] Kandika: j
+[text] upáriṣṭādāśīr   anyáḥ  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] anādʰr̥ṣyā́   purástād
+[text] íti   yád   etā́ni   yájūm̐ṣy   ā́ha  \
+[struct] Kandika: b
+[text] śīrṣatá   evá   yajñásya   yájamāna   āśíṣó   'va   rundʰe  \
+[struct] Kandika: c
+[text] ā́yuḥ   purástād   āha  \
+[struct] Kandika: d
+[text] prajā́ṃ   dakṣiṇatáḥ  \
+[struct] Kandika: e
+[text] prāṇáṃ   paścā́t  \
+[struct] Kandika: f
+[text] śrótram   uttaratáḥ  \
+[struct] Kandika: g
+[text] vídʰr̥tim   upáriṣṭāt  \
+[struct] Kandika: h
+[text] prāṇā́n   evā́smai   samī́co   dadʰāti  \
+[struct] Kandika: i
+[text] īśvaró   vā́   eṣá   díśó   'nū́nmaditoḥ  \
+[struct] Kandika: j
+[text] yáṃ   díśó   'nu   vyāstʰāpáyanti  \
+[struct] Dasati: 8
+[struct] Kandika: a
+[text] mánor   áśvāsi   bʰū́riputre
+[text] tīmā́m   abʰí   mr̥śati  \
+[struct] Kandika: b
+[text] iyáṃ   vái   mánor   áśvā   bʰū́riputrā  \
+[struct] Kandika: c
+[text] asyā́m   evá   práti   tiṣṭʰaty   ánunmādāya  \
+[struct] Kandika: d
+[text] sūpasádā   me   bʰūyā   mā́   mā   him̐sīr
+[text] íty   āhā́him̐sāyai  \
+[struct] Kandika: e
+[text] cítaḥ   stʰa   paricíta
+[text] íty   āha  \
+[struct] Kandika: f
+[text] ápacitim   evā́smin   dadʰāti  \
+[struct] Kandika: g
+[text] śíro   vā́   etád   yajñásya  \
+[struct] Kandika: h
+[text] yát   pravargyàḥ  \
+[struct] Kandika: i
+[text] asáu   khálu   vā́   ādityáḥ   pravargyàḥ  \
+[struct] Kandika: j
+[text] tásya   marúto   raśmáyaḥ  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] svā́hā   marúdbʰiḥ   pári   śrayasvé
+[text] ty   āha  \
+[struct] Kandika: b
+[text] amúm   evā́dityam̐   raśmíbʰiḥ   páry   ūhati  \
+[struct] Kandika: c
+[text] tásmād   asā́v   ādityò   'múṣmin   loké   raśmíbʰiḥ   páryūḍʰaḥ  \
+[struct] Kandika: d
+[text] tásmād   rā́jā   viśā́   páryūḍʰaḥ  \
+[struct] Kandika: e
+[text] tásmād   grāmaṇī́ḥ   sajātáiḥ   páryūḍʰaḥ  \
+[struct] Kandika: f
+[text] agnéḥ   sr̥ṣṭásya   yatáḥ  \
+[struct] Kandika: g
+[text] víkaṅkataṃ   bʰā́   ārcʰat  \
+[struct] Kandika: h
+[text] yád   vaikaṅkatāḥ   paridʰáyo   bʰávanti  \
+[struct] Kandika: i
+[text] bʰā́   evā́va   rundʰe  \
+[struct] Kandika: j
+[text] dvā́daśa   bʰavanti
+[struct] Dasati: 10
+[struct] Kandika: a
+[text] dvā́daśa   mā́sāḥ   saṃvatsaráḥ  \
+[struct] Kandika: b
+[text] saṃvatsarám   evā́va   rundʰe  \
+[struct] Kandika: c
+[text] ásti   trayodaśó   mā́sa   íty   āhuḥ  \
+[struct] Kandika: d
+[text] yát   trayodaśáḥ   paridʰír   bʰávati  \
+[struct] Kandika: e
+[text] ténaivá   trayodaśáṃ   māsam   áva   rundʰe  \
+[struct] Kandika: f
+[text] antárikṣasyāntardʰír   asī́
+[text] ty   āha   vyā́vr̥ttyai  \
+[struct] Kandika: g
+[text] dívaṃ   tápasas   trāyasvé
+[text] ty   upáriṣṭād   dʰíraṇyam   ā́dʰi   ní   dadʰāti  \
+[struct] Kandika: h
+[text] amúṣyā   ánatidāhāya  \
+[struct] Kandika: i
+[text] átʰo   ābʰyā́m   eváinam   ubʰayátaḥ   pári   gr̥hṇāti  \
+[struct] Kandika: j
+[text] árhan   bibʰarṣi   sā́yakāni   dʰánvé
+[text] ty   āha  \
+[struct] Dasati: 11
+[struct] Kandika: a
+[text] stáuty   eváinam   etát  \
+[struct] Kandika: b
+[text] gāyatrám   asi   tráiṣṭubʰam   asi   jā́gatam   asī́
+[text] ti   dʰavítrāṇy   ā́   datte  \
+[struct] Kandika: c
+[text] cʰándobʰir   eváināny   ā́   datte  \
+[struct] Kandika: d
+[text] mádʰu   mádʰv
+[text] íti   dʰūnoti  \
+[struct] Kandika: e
+[text] prāṇó   vái   mádʰu  \
+[struct] Kandika: f
+[text] prāṇám   evá   yájamāne   dadʰāti  \
+[struct] Kandika: g
+[text] tríḥ   pári   yanti  \
+[struct] Kandika: h
+[text] trivŕ̥d   dʰi   prāṇáḥ  \
+[struct] Kandika: i
+[text] tríḥ   pári   yanti  \
+[struct] Kandika: j
+[text] tryā̀vr̥d   dʰí   yajñáḥ  \
+[struct] Dasati: 12
+[struct] Dasati: 112
+[struct] Kandika: a
+[text] átʰo   rákṣasām   ápahatyai  \
+[struct] Kandika: b
+[text] tríḥ   púnaḥ   pári   yanti  \
+[struct] Kandika: c
+[text] ṣáṭ   sáṃ   padyante  \
+[struct] Kandika: d
+[text] ṣáḍ   vā́   r̥távaḥ  \
+[struct] Kandika: e
+[text] r̥túṣv   evá   práti   tiṣṭʰanti  \
+[struct] Kandika: f
+[text] yó   vái   gʰarmásya   priyā́ṃ   tanúvam   ākrā́mati  \
+[struct] Kandika: g
+[text] duścármā   vái   sá   bʰavati  \
+[struct] Kandika: h
+[text] eṣá   ha   vā́   asya   priyā́ṃ   tanúvam   ā́   krāmati  \
+[struct] Kandika: i
+[text] yás   tríḥ   parī́tya   caturtʰáṃ   páry   eti  \
+[struct] Kandika: j
+[text] etā́m̐   ha   vā́   asyográdevo   rā́janir   ā́   cakrāma  \
+[struct] Dasati: 13
+[struct] Kandika: a
+[text] táto   vái   sá   duścármābʰavat  \
+[struct] Kandika: b
+[text] tásmāt   tríḥ   parī́tya   ná   caturtʰáṃ   párīyāt  \
+[struct] Kandika: c
+[text] ātmáno   gopītʰā́ya  \
+[struct] Kandika: d
+[text] prāṇā́   vái   dʰavítrāṇi  \
+[struct] Kandika: e
+[text] ávyatiṣaṅgaṃ   dʰūnvanti  \
+[struct] Kandika: f
+[text] prāṇā́nām   ávyatiṣaṅgāya   kŀ̥ptyai  \
+[struct] Kandika: g
+[text] viniṣádya   dʰūnvanti  \
+[struct] Kandika: h
+[text] dikṣv   èvá   práti   tiṣṭʰanti  \
+[struct] Kandika: i
+[text] ūrdʰváṃ   dʰūnvanti  \
+[struct] Kandika: j
+[text] suvargásya   lokásya   sámaṣṭyai  \
+[struct] Kandika: aa
+[text] sarváto   dʰūnvanti  \
+[struct] Kandika: bb
+[text] tásmād   ayáṃ   sarvátaḥ   pavate  \ \\  dadʰātīvā́nvāha   yajñásyāhaiṣá   upáriṣṭādā.ṣīr   anyó   vyāstʰāpáyanti   raśmáyo   bʰavanti   dʰánvéty   āha   yaj~náś   cakrāma   sámaṣṭyai   dvé   ca  \\
+[struct] Anuvaka: 5
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] agníṣ   ṭvā   vásubʰiḥ   purástād   rocayatu   gāyatréṇa   cʰándasé
+[text] ty   āha  \
+[struct] Kandika: b
+[text] agnír   eváinaṃ   vásubʰiḥ   purástād   rocayati   gāyatréṇa   cʰándasā  \
+[struct] Kandika: c
+[text] sá   mā   rucitó   rocayé
+[text] ty   āha  \
+[struct] Kandika: d
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: e
+[text] índras   tvā   rudráir   dakṣiṇató   rocayatu   tráiṣṭubʰena   cʰándase
+[text] ty   āha  \
+[struct] Kandika: f
+[text] índra   eváinam̐   rudráir   dakṣiṇató   rocayati   tráiṣṭubʰena   cʰándasā  \
+[struct] Kandika: g
+[text] sá   mā   rucitó   rocayé
+[text] ty   āha  \
+[struct] Kandika: h
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: i
+[text] váruṇas   tvādityáiḥ   paścā́d   rocayatu   jā́gatena   cʰándasé
+[text] ty   āha  \  váruṇa
+[struct] Kandika: j
+[text] eváinaṃ   ādityáiḥ   paścā́d   rocayati   jā́gatena   cʰándasā  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] sá   mā   rucitó   rocayé
+[text] ty   āha  \
+[struct] Kandika: b
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: c
+[text] dyutānás   tvā   mārutó   marúdbʰir   uttarató   rocayatv   ā́nuṣṭubʰena   cʰándasé
+[text] ty   āha  \
+[struct] Kandika: d
+[text] dyutāná   eváináṃ   mārutó   marúdbʰir   uttarató   rocayaty   ā́nuṣṭubʰena   cʰándasā  \
+[struct] Kandika: e
+[text] sá   mā   rucitó   rocayé
+[text] ty   āha  \
+[struct] Kandika: f
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: g
+[text] bŕ̥haspátis   tvā   víśvair   deváir   upáriṣṭād   rocayatu   pā́ṅktena   cʰándasé
+[text] ty   āha  \
+[struct] Kandika: h
+[text] bŕ̥haspátir   eváinaṃ   víśvair   deváir   upáriṣṭād   rocayatu   pā́ṅktena   cʰándasā  \
+[struct] Kandika: i
+[text] sá   mā   rucitó   rocayé
+[text] ty   āha  \
+[struct] Kandika: j
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] rocitás   tváṃ   deva   gʰarma   devéṣv   ásī́
+[text] ty   āha  \
+[struct] Kandika: b
+[text] rocitó   hy   èṣá   devéṣu  \
+[struct] Kandika: c
+[text] rociṣīyā́háṃ   manuṣyèṣv
+[text] íty   āha  \
+[struct] Kandika: d
+[text] rócata   eváiṣá   manuṣyèṣu  \
+[struct] Kandika: e
+[text] sámrāḍ   gʰarma   rucitás   tváṃ   devéṣv   ā́yuṣmām̐s   tejasvī́   brahmavarcasy   àsī́
+[text] ty   āha  \
+[struct] Anuvaka: 5
+[struct] Dasati: 3
+[struct] Kandika: f
+[text] rucitó   hy   èṣá   devéṣv   ā́yuṣmām̐s   tejasvī́   brahmavarcasī́  \
+[struct] Kandika: g
+[text] rucitò   'háṃ   manuṣyèṣv   ā́yuṣmām̐s   tejasvī́   brahmavarcasī́   bʰūyāsam
+[text] íty   āha  \
+[struct] Kandika: h
+[text] rucità   eváiṣá   manuṣyèṣv   ā́yuṣmām̐s   tejasvī́   brahmavarcasī́   bʰavati  \
+[struct] Kandika: i
+[text] rúg   asi   rúcaṃ   máyi   dʰehi   máyi   rúg
+[text] íty   āha  \
+[struct] Kandika: j
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: aa
+[text] táṃ   yád   etáir   yájurbʰir   árocayitvā  \
+[struct] Kandika: bb
+[text] rucitó   gʰarmá
+[text] íti   prabrūyāt  \
+[text] rucitó   gʰarmáḥ
+[struct] Kandika: cc
+[text] árocuko   'dʰvarúḥ   syā́t  \
+[struct] Kandika: dd
+[text] árocuko   yájamānaḥ  \
+[struct] Kandika: ee
+[text] átʰa   yád   enam   etáir   yajurbʰī   rocayitvā́  \
+[struct] Kandika: ff
+[text] rucitó   gʰarmá
+[text] íti   prā́ha  \
+[struct] Kandika: gg
+[text] rócuko   'dʰvaryúr   bʰávati  \
+[struct] Kandika: hh
+[text] rócuko   yájamānaḥ  \ \\  paścā́d   rocayati   jā́gatena   cʰándasā   sá   mā   rucitó   rocayéty   āhāśíṣam   eváitā́m   ā́   śāste   'ṣṭau   ca  \\
+[struct] Anuvaka: 6
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] śíro   vā́   etád   yajñásya  \
+[struct] Kandika: b
+[text] yát   pravargyàḥ  \
+[struct] Kandika: c
+[text] grīvā́   upasádaḥ  \
+[struct] Kandika: d
+[text] purástād   upasádāṃ   pravargyàṃ   prá   vr̥ṇakti  \
+[struct] Kandika: e
+[text] grīvā́sv   evá   yajñásya   śíraḥ   práti   dadʰāti  \
+[struct] Kandika: f
+[text] tríḥ   prá   vr̥ṇakti  \
+[struct] Kandika: g
+[text] tráya   imé   lokā́ḥ  \
+[struct] Kandika: h
+[text] ebʰyá   evá   lokébʰo   yajñásya   śíró   'va   rundʰe  \
+[struct] Kandika: i
+[text] ṣáṭ   sáṃ   padyante  \
+[struct] Kandika: j
+[text] ṣáḍ   vā́   r̥távaḥ  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] r̥túbʰya   evá   yajñásya   śíró   'va   rundʰe  \
+[struct] Kandika: b
+[text] dvā́daśa   kŕ̥tvaḥ   prá   vr̥ṇakti  \
+[struct] Kandika: c
+[text] dvā́daśa   mā́sāḥ   saṃvatsaráḥ  \
+[struct] Kandika: d
+[text] saṃvatsarā́d   evá   yajñásya   śíró   'va   rundʰe  \
+[struct] Kandika: e
+[text] cáturvim̐śatiḥ   sáṃ   padyante  \
+[struct] Kandika: f
+[text] cáturvim̐śatir   ardʰamāsā́ḥ  \
+[struct] Kandika: g
+[text] ardʰamāsébʰya   evá   yajñásya   śíró   'va   rundʰe  \
+[struct] Kandika: h
+[text] átʰo   khálu  \
+[struct] Kandika: i
+[text] sakŕ̥d   evá   pravŕ̥jyaḥ  \
+[struct] Kandika: j
+[text] ékam̐   hí   śíraḥ  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] agniṣṭomé   prá   vr̥ṇakti  \
+[struct] Kandika: b
+[text] etā́vān   vái   yajñáḥ  \
+[struct] Kandika: c
+[text] yā́vān   agniṣṭomáḥ  \
+[struct] Kandika: d
+[text] yā́vān   evá   yajñaḥ  \
+[struct] Kandika: e
+[text] tásya   śíraḥ   práti   dadʰāti  \
+[struct] Kandika: f
+[text] nóktʰyè   prá   vr̥ñjyāt  \
+[struct] Kandika: g
+[text] prajā́   vái   paśáva   uktʰā́ni  \
+[struct] Kandika: h
+[text] yád   uktʰyè   pravr̥ñjyāt  \
+[struct] Kandika: i
+[text] prajā́ṃ   paśū́n   asya   nír   dahet  \
+[struct] Kandika: j
+[text] viśvajíti   sárvapr̥ṣṭʰe   prá   vr̥ṇakti  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] pr̥ṣṭʰā́ni   vā́   ácyutaṃ   cyāvayanti  \
+[struct] Kandika: b
+[text] pr̥ṣṭʰáir   evā́smā   ácyutaṃ   cyāvayitvā́va   rundʰe  \
+[struct] Kandika: c
+[text] ápaśyaṃ   gopā́m
+[text] íty   āha  \
+[struct] Kandika: d
+[text] prāṇó   vái   gopā́ḥ  \
+[struct] Kandika: e
+[text] prāṇám   evá   prajā́su   ví   yātayati  \
+[struct] Kandika: f
+[text] ápaśyaṃ   gopā́m
+[text] íty   āha  \
+[struct] Kandika: g
+[text] asáu   vā́   ādityó   gopā́ḥ  \
+[struct] Kandika: h
+[text] sá   hī́mā́ḥ   prajā́   gopāyáti  \
+[struct] Kandika: i
+[text] tám   evá   prajā́nāṃ   goptā́raṃ   kurute  \
+[struct] Kandika: j
+[text] ánipadyamānam
+[text] íty   āha  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] ná   hy   èṣá   nipádyate  \
+[struct] Kandika: b
+[text] ā́   ca   párā   ca   patʰíbʰiś   cárantam
+[text] íty   āha  \
+[struct] Kandika: c
+[text] ā́   ca   hy   èśá   párā   ca   patʰíbʰiś   cárati  \
+[struct] Kandika: d
+[text] sá   sadʰrī́cīḥ   sá   víṣūcīr   vásāna
+[text] íty   āha  \
+[struct] Kandika: e
+[text] sadʰrī́cīś   ca   hy   èṣá   víṣūcīś   ca   vásānaḥ   prajā́   abʰí   vipáśyati  \
+[struct] Kandika: f
+[text] ā́   varīvarti   bʰúvaneṣv   antár
+[text] íty   āha  \
+[struct] Kandika: g
+[text] ā́   hy   èṣá   varīvárti   bʰúvaneṣv   antáḥ  \
+[struct] Kandika: h
+[text] átra   prāvī́r   mádʰu   mā́dʰvībʰyāṃ   mádʰu   mā́dʰūcībʰyām
+[text] íty   āha  \
+[text] mádʰumā́dʰvībʰyāṃ
+[text] mádʰumā́dʰūcībʰyām
+[text] mádʰumā́dʰvībʰyāṃ
+[text] mádʰumā́dʰūcībʰyām
+[text] mádʰu   mā́dʰvībʰyāṃ
+[text] mádʰu   mā́dʰūcībʰyām}
+[struct] Kandika: i
+[text] vā́santikāv   evā́smā   r̥tū́   kalpayati  \
+[struct] Kandika: j
+[text] sám   agnír   agnínāgaté
+[text] ty   āha  \
+[text] agnínā   gatéty ;
+[text] agnínā   gata ;
+[text] agnínā   gatéty ;
+[text] agnínā   'gata ;
+[text] agnínā gatéty;
+[text] agnínā 'gataḥ}
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] gráiṣmāv   evā́smā   r̥tū́   kalpayati  \
+[struct] Kandika: b
+[text] sám   agnír   agnínāgaté
+[text] ty   āha  \
+[struct] Kandika: c
+[text] agnír   hy   èváiṣò   'gnínā   saṃgáccʰate
+[text] agnínā   gatéty}
+[struct] Kandika: d
+[text] svā́hā   sám   agnís   tápasāgaté
+[text] ty   āha  \
+[text] tápasā   gatéty ;
+[text] tapasā   gata ;
+[text] tápasā   gatéty ;
+[text] tapasā   'gata ;
+[text] tápasā gatéty;
+[text] tapasā 'gataḥ}
+[struct] Kandika: e
+[text] pū́rvam   evóditám  \
+[struct] Kandika: f
+[text] úttareṇābʰí   gr̥ṇāti  \
+[struct] Kandika: g
+[text] dʰartā́   divó   ví   bʰāsi   rájasaḥ   pr̥tʰivyā́
+[text] íty   āha  \
+[struct] Kandika: h
+[text] vā́rṣikāv   evā́smā   r̥tū́   kalpayati  \
+[struct] Kandika: i
+[text] hr̥dé   tvā   mánase   tvé
+[text] ty   āha  \
+[struct] Kandika: j
+[text] śāradā́v   evā́smā   r̥tū́   kalpayati  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] diví   devéṣu   hótrā   yaccʰé
+[text] ty   āha  \
+[struct] Kandika: b
+[text] hótrābʰir   evémā́n   lokā́nt   sáṃ   dadʰāti  \
+[struct] Kandika: c
+[text] víśvāsāṃ   bʰuvāṃ   pata
+[text] íty   āha  \
+[struct] Kandika: d
+[text] háimantikāv   evā́smā   r̥tū   kalpayati  \
+[struct] Kandika: e
+[text] devaśrū́s   tváṃ   deva   gʰarma   devā́n   pāhī́
+[text] ty   āha  \
+[struct] Kandika: f
+[text] śaiśirā́v   evā́smā   r̥tū́   kalpayati  \
+[struct] Kandika: g
+[text] tapojā́ṃ   vā́cam   asmé   ní   yaccʰa   devāyúvam
+[text] íty   āha  \
+[struct] Kandika: h
+[text] yā́   vái   médʰyā   vā́k  \
+[struct] Kandika: i
+[text] sā́   tapojā́ḥ  \
+[text] tapojā́}
+[struct] Kandika: j
+[text] tā́m   evā́va   rundʰe  \
+[struct] Dasati: 8
+[struct] Kandika: a
+[text] gárbʰo   devā́nām
+[text] íty   āha  \
+[struct] Kandika: b
+[text] gárbʰo   hy   èṣá   devā́nām  \
+[struct] Kandika: c
+[text] pitā́   matīnā́m
+[text] íty   āha  \
+[struct] Kandika: d
+[text] prajā́   vái   matáyaḥ  \
+[struct] Kandika: e
+[text] tā́sām   eṣá   evá   pitā́  \
+[struct] Kandika: f
+[text] yát   pravargyàḥ  \
+[struct] Kandika: g
+[text] tásmād   evám   āha  \
+[struct] Kandika: h
+[text] pátiḥ   prajā́nām
+[text] íty   āha  \
+[struct] Kandika: i
+[text] pátir   hy   èṣá   prajā́nām  \
+[struct] Kandika: j
+[text] mátiḥ   kavīnā́m
+[text] íty   āha  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] mátir   hy   èṣá   kavīnā́m  \
+[struct] Kandika: b
+[text] sáṃ   devó   devéna   savitrā́yatiṣṭa   sáṃ   sū́ryeṇārukté
+[text] ty   āha  \
+[text] savitrā́   'yatiṣṭa ;
+[text] savitrā́   'yatiṣṭa ;
+[text] savitrā́   yatiṣṭa ;
+[text] savitrā́   'yatiṣṭa ;
+[text] savitrā́   'yatiṣṭa ;
+[text] savitrā́yatiṣṭa}
+[struct] Kandika: c
+[text] amúṃ   caivā́dityáṃ   pravargyàṃ   ca   sáṃ   śāsti  \
+[struct] Kandika: d
+[text] āyurdā́s   tvám   asmábʰyaṃ   gʰarma   varcodā́   asī́
+[text] ty   āha  \
+[struct] Kandika: e
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: f
+[text] pitā́   no   'si   pitā́   no   bodʰé
+[text] ty   āha  \
+[struct] Kandika: g
+[text] bodʰáyaty   eváinam  \
+[struct] Kandika: h
+[text] návaitè'vakāśā́   bʰavanti  \
+[text] bʰávanti
+[struct] Kandika: i
+[text] pátniyai   daśamáḥ  \
+[struct] Kandika: j
+[text] náva   vái   púruṣe   prāṇā́ḥ  \
+[struct] Dasati: 10
+[struct] Kandika: a
+[text] nā́bʰir   daśamī́  \
+[struct] Kandika: b
+[text] prāṇā́n   evá   yájamāne   dadʰāti  \
+[struct] Kandika: c
+[text] átʰo   dáśākṣarā   virā́ṭ  \
+[struct] Kandika: d
+[text] ánnaṃ   virā́ṭ  \
+[struct] Kandika: e
+[text] virā́jaivā́nnā́dyam   áva   rundʰe  \
+[struct] Kandika: f
+[text] yajñásya   śiro   'ccʰidyata  \
+[struct] Kandika: g
+[text] tád   devā́   hótrābʰiḥ   práty   adadʰuḥ  \
+[struct] Kandika: h
+[text] r̥tvíjó   'vekṣante  \
+[struct] Kandika: i
+[text] etā́   vái   hótrāḥ  \
+[struct] Kandika: j
+[text] hótrābʰir   evá   yajñásya   śíraḥ   práti   dadʰāti  \
+[struct] Dasati: 11
+[struct] Kandika: a
+[text] rucitám   ávekṣante  \
+[struct] Kandika: b
+[text] rucitā́d   vái   prajā́patiḥ   prajā́   asr̥jata  \
+[struct] Kandika: c
+[text] prajā́nām̐   sr̥ṣṭyai  \
+[struct] Kandika: d
+[text] rucitám   ávekṣante  \
+[struct] Kandika: e
+[text] rucitā́d   vái   parjányo   varṣati  \
+[struct] Kandika: f
+[text] várṣukaḥ   parjányo   bʰavati  \
+[struct] Kandika: g
+[text] sáṃ   prajā́   edʰante  \
+[struct] Kandika: h
+[text] rucitám   ávekṣante  \
+[struct] Kandika: i
+[text] rucitám   vái   brahmavarcasám  \
+[struct] Kandika: j
+[text] brahmavarcasíno   bʰavanti  \
+[struct] Dasati: 12
+[struct] Dasati: 112
+[struct] Kandika: a
+[text] adʰīyántó   'vekṣante  \
+[struct] Kandika: b
+[text] sárvam   ā́yur   yanti  \
+[struct] Kandika: c
+[text] ná   pátny   ávekṣeta  \
+[struct] Kandika: d
+[text] yát   pátny   avékṣeta  \
+[struct] Kandika: e
+[text] prá   jāyeta  \
+[struct] Kandika: f
+[text] prajā́ṃ   tv   asyai   nír   dahet  \
+[struct] Kandika: g
+[text] yán   nā́vékṣeta  \
+[struct] Kandika: h
+[text] ná   prá   jāyeta  \
+[struct] Kandika: i
+[text] nā́syai   prajā́ṃ   nír   dahet  \
+[struct] Kandika: j
+[text] tiraskŕ̥tya   yájur   vācayati  \
+[struct] Dasati: 12
+[struct] Kandika: aa
+[text] prá   jāyate  \
+[struct] Kandika: bb
+[text] nā́syai   prajā́ṃ   nír   dahati  \
+[struct] Kandika: cc
+[text] tváṣṭīmatī   te   sapeyé
+[text] ty   āha  \
+[struct] Kandika: dd
+[text] sápād   dʰí   prajā́ḥ   prajā́yante  \ \\  r̥távo   hí   śíraḥ   sárvapr̥ṣṭʰe   právr̥ṇakty   ánipadyamānam   íty   āha   śāradā́v   évā́smā   r̥tū́   kalpayati   rundʰe   kavīnā́m   íty   āha   prāṇā́ḥ   práti   dadʰāti   bʰavanti   vācayati   catvā́ri   ca  \\
+[struct] Anuvaka: 7
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] devásya   tvā   savitúḥ   prasavá
+[text] íti   raśanā́m   ā́   datte   prasūtyái  \
+[struct] Kandika: b
+[text] aśvínor   bāhúbʰyām
+[text] íty   āha  \
+[struct] Kandika: c
+[text] aśvínau   hí   devā́nām   adʰvaryū́   ā́stām  \
+[struct] Kandika: d
+[text] pūṣṇó   hástābʰyām
+[text] íty   āha   yátyai  \
+[struct] Kandika: e
+[text] ā́   dadé   'dityai   rā́snāsī́
+[text] ty   āha   yájuṣkr̥tyai  \
+[struct] Kandika: f
+[text] íḍa   éhy   ádita   éhi   sárasvaty   éhī́
+[text] ty   āha  \
+[struct] Kandika: g
+[text] etā́ni   vā́   asyai   devanāmā́ni  \
+[struct] Kandika: h
+[text] devanāmáir   eváinām   ā́   hvayati  \
+[struct] Kandika: i
+[text] ásāv   éhy   ásāv   éhy   ásāv   éhī́
+[text] ty   āha  \
+[struct] Kandika: j
+[text] etā́ni   vā́   asyai   manuṣyanāmā́ni  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] manuṣyanāmáir   eváinām   ā́   hvayati  \
+[struct] Kandika: b
+[text] ṣáṭ   sáṃ   padyante  \
+[struct] Kandika: c
+[text] ṣáḍ   vā́   r̥táās ,
+[struct] Kandika: d
+[text] r̥túbʰir   eváinām   ā́   hvayati  \
+[struct] Kandika: e
+[text] ádityā   uṣṇī́am   asī́
+[text] ty   āha  \
+[struct] Kandika: f
+[text] yatʰāyajúr   eváitát  \
+[struct] Kandika: g
+[text] vāyúr   asy   aiḍá
+[text] íty   āha  \
+[struct] Kandika: h
+[text] vāyudevatyò   vái   vatsáḥ  \
+[struct] Kandika: i
+[text] pūṣā́   tvopā́vasr̥jatv
+[text] íty   āha  \
+[struct] Kandika: j
+[text] pauṣṇā́   vái   devátayā   paśavaḥ
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] sváyaivaináṃ   devátayopā́vasr̥jati  \
+[struct] Kandika: b
+[text] aśvíbʰyāṃ   prá   dāpayé
+[text] ty   āha  \
+[struct] Kandika: c
+[text] aśvínau   vái   devā́nāṃ   bʰiṣájau  \
+[struct] Kandika: d
+[text] tā́bʰām   evā́smai   bʰeṣajáṃ   karoti  \
+[struct] Kandika: e
+[text] yás   te   stánaḥ   śaśayá   íty   āha  \
+[struct] Kandika: f
+[text] stáuty   eváinām  \
+[struct] Kandika: g
+[text] úsra   gʰarmám̐   śim̐ṣósra   gʰarmáṃ   pāhi   gʰarmā́ya   śim̐ṣé
+[text] ty   āha  \
+[struct] Kandika: h
+[text] yátʰā   brūyā́d   amúṣmai   dehī́ti  \
+[struct] Kandika: i
+[text] tādŕ̥g   evá   tát  \
+[struct] Kandika: j
+[text] bŕ̥haspátis   tvópa   sīdatv
+[text] íty   āha  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] bráhma   vái   devā́nāṃ   bŕ̥haspátiḥ  \
+[struct] Kandika: b
+[text] bráhmaṇaiváinām   úpa   sīdati  \
+[struct] Kandika: c
+[text] dā́navaḥ   stʰa   pérava
+[text] íty   āha  \
+[struct] Kandika: d
+[text] médʰyān   eváinān   karoti  \
+[struct] Kandika: e
+[text] viṣvagvŕ̥to   lóhitenéty   āha   vyā́vr̥tyai  \
+[struct] Kandika: f
+[text] aśvíbʰyāṃ   pinvasva   sárasvatyai   pinvasva   pūṣṇé   pinvasva   bŕ̥haspátaye   pinvasvé
+[text] ty   āha  \
+[struct] Kandika: g
+[text] etā́bʰyo   hy   èṣā   devátābʰyaḥ   pinvate  \
+[struct] Kandika: h
+[text] índrāya   pinvasvéndrāya   pinvasvé
+[text] ty   āha  \
+[struct] Kandika: i
+[text] índram   evá   bʰāgadʰéyena   sám   ardʰayati  \
+[struct] Kandika: j
+[text] dvír
+[text] índrāyé
+[text] ty   āha  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] tásmād   índro   devátānāṃ   bʰūyiṣṭʰabʰā́ktamaḥ  \
+[struct] Kandika: b
+[text] gāyatrò   'si   tráiṣṭubʰo   'si   jāgatam   asī́ti   śapʰopayamā́n   ā́   datte  \
+[struct] Kandika: c
+[text] cʰándobʰir   eváinān   ā́   datte  \
+[struct] Kandika: d
+[text] sahórjo   bʰāgénópa   méhī́
+[text] ty   āha  \
+[struct] Kandika: e
+[text] ūrjá   eváinaṃ   bʰāgám   akaḥ  \
+[struct] Kandika: f
+[text] aśvínau   vā́   etád   yajñásya   śíraḥ   pratidádʰatāv   abrūtām  \
+[struct] Kandika: g
+[text] āvā́bʰyām   evá   pū́rvābʰyāṃ   váṣaṭ   kriyātā   íti  \
+[struct] Kandika: h
+[text] índrāśvinā   mádʰunaḥ   sāragʰásyé
+[text] ty   āha  \
+[struct] Kandika: i
+[text] aśvíbʰyām   evá   pū́rvābʰyāṃ   váṣaṭ   karoti  \
+[struct] Kandika: j
+[text] átʰo   aśvínāv   evá   bʰāgadʰéyena   sám   ardʰayati  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] gʰarmáṃ   pāta   vasavo   yájatā   váḍ
+[text] íty   āha  \
+[struct] Kandika: b
+[text] vásūn   evá   bʰāgadʰéyena   sám   ardʰayati  \
+[struct] Kandika: c
+[text] yád   vaṣaṭkuryā́t  \
+[struct] Kandika: d
+[text] yātáyāmāsya   vaṣaṭkāráḥ   syāt  \
+[struct] Kandika: e
+[text] yán   ná   vaṣaṭkuryā́t  \
+[struct] Kandika: f
+[text] rákṣām̐si   yajñám   hanyuḥ  \
+[struct] Kandika: g
+[text] váḍ
+[text] íty   āha  \
+[struct] Kandika: h
+[text] parókṣam   evá   váṣáṭ   karoti  \
+[struct] Kandika: i
+[text] nā́sya   yātáyāmā   vaṣaṭkāro   bʰávati  \
+[struct] Kandika: j
+[text] ná   yajñám̐   rákśām̐si   gʰnanti  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] svā́hā   tvā   sū́ryasya   raśmáye   vr̥ṣṭivánaye   juhomī́
+[text] ty   āha  \
+[struct] Kandika: b
+[text] yó   vā́   asya   púṇyo   raśmíḥ  \
+[struct] Kandika: c
+[text] sá   vr̥ṣṭivániḥ  \
+[struct] Kandika: d
+[text] tásmā   eváinaṃ   juhoti  \
+[struct] Kandika: e
+[text] mádʰu   havír   asī
+[text] ty   āha  \
+[struct] Kandika: f
+[text] svadáyaty   eváinam  \
+[struct] Kandika: g
+[text] sū́ryasya   tápas   tapéty   āha  \
+[struct] Kandika: h
+[text] yatʰāyajúr   eváitát  \
+[struct] Kandika: i
+[text] dyā́vāpr̥tʰivī́bʰyāṃ   tvā   pári   gr̥hṇāmī
+[text] ty   āha  \
+[struct] Kandika: j
+[text] dyā́vāpr̥tʰivī́bʰyāṃ   eváinaṃ   pári   gr̥hṇāti  \
+[struct] Dasati: 8
+[struct] Kandika: a
+[text] antárikṣeṇa   tvópayaccʰāmī́
+[text] ty   āha  \
+[struct] Kandika: b
+[text] antárikṣeṇaiváinam   úpa   yaccʰati  \
+[struct] Kandika: c
+[text] ná   vā́   etáṃ   manuṣyò   bʰártum   arhati  \
+[struct] Kandika: d
+[text] devā́nāṃ   tvā   pitr̥ṇā́m   ánumato   bʰártum̐   śakeyam   íty   āha  \
+[struct] Kandika: e
+[text] deváir   eváinaṃ   pitŕ̥bʰir   ánumata   ā́   datte  \
+[struct] Kandika: f
+[text] ví   vā́   enam   etád   ardʰayanti  \
+[struct] Kandika: g
+[text] yát   paścāt   pravŕ̥jya   puró   júhvati  \
+[struct] Kandika: h
+[text] téjo   'si   téjó   'nu   préhī́
+[text] ty   āha  \
+[struct] Kandika: i
+[text] téja   evā́smin   dadʰāti  \
+[struct] Kandika: j
+[text] divispŕ̥ṅ   mā́   mā   him̐sīr   antarikṣaspŕ̥ṅ   mā́   mā   him̐sīḥ   pr̥tʰivispŕ̥ṅ   mā́   mā   him̐sīr
+[text] ítyāhā́him̐sāyai  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] súvar   asi   súvar   me   yaccʰa   dívaṃ   yaccʰa   divó   mā   pāhī́
+[text] ty   āha  \
+[struct] Kandika: b
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: c
+[text] śíro   vā́   etád   yajñásya  \
+[struct] Kandika: d
+[text] yát   pravargyàḥ  \
+[struct] Kandika: e
+[text] ātmā́   vāyúḥ  \
+[struct] Kandika: f
+[text] udyátya   vātanāmā́ny   āha  \
+[struct] Kandika: g
+[text] ātmánn   evá   yajñásya   śíraḥ   práti   dadʰāti  \
+[struct] Kandika: h
+[text] ánavānam  \
+[struct] Kandika: i
+[text] prāṇā́nām̐   sáṃtatyai  \
+[struct] Kandika: j
+[text] páñcāha  \
+[struct] Dasati: 10
+[struct] Kandika: a
+[text] pā́ṅkto   yajñáḥ  \
+[struct] Kandika: b
+[text] yā́vān   evá   yajñáḥ  \
+[struct] Kandika: c
+[text] tásya   śíraḥ   práti   dadʰāti  \
+[struct] Kandika: d
+[text] agnáye   tvā   vásumate   svā́hé
+[text] ty   āha  \
+[struct] Kandika: e
+[text] asáu   vā́   ādityò   'gnír   vásumān  \
+[struct] Kandika: f
+[text] tásmā   eváinaṃ   juhoti  \
+[struct] Kandika: g
+[text] sómāya   tvā   rudrávate   svā́hé
+[text] ty   āha  \
+[struct] Kandika: h
+[text] candrámā   vái   sómo   rudrávān  \
+[struct] Kandika: i
+[text] tásmā   eváinaṃ   juhoti  \
+[struct] Kandika: j
+[text] váruṇāya   tvādityávate   svā́hé
+[text] ty   āha  \
+[struct] Dasati: 11
+[struct] Kandika:
+[text] apsú   vái   váruṇa   ādityávān  \
+[struct] Kandika:
+[text] tásmā   eváinaṃ   juhoti  \
+[struct] Kandika:
+[text] bŕ̥haspátaye   tvā   viśvádevyāvate   svā́hé
+[text] ty   āha  \
+[struct] Kandika:
+[text] bráhma   vái   devā́nāṃ   bŕ̥haspátiḥ  \
+[struct] Kandika:
+[text] bráhmaṇa   eváinaṃ   juhoti  \
+[struct] Kandika:
+[text] savitré   tvarbʰumáte   vibʰumáte   prabʰumáte   vā́javate   svā́hé
+[text] ty   āha  \
+[struct] Kandika:
+[text] saṃvatsaró   vái   savitúrbʰumā́n   vibʰumā́n   prabʰumā́n   vā́javān  \
+[struct] Kandika:
+[text] tásmā   eváinaṃ   juhoti  \
+[struct] Kandika:
+[text] yamā́ya   tvā́ṅgirasvate   pitr̥máte   svā́hé
+[text] ty   āha  \
+[struct] Kandika:
+[text] prāṇó   vái   yamó   'ṅgirasvān   pitr̥vā́n  \
+[struct] Dasati: 12
+[struct] Dasati: 112
+[struct] Kandika:
+[text] tásmā   eváinaṃ   juhoti  \
+[struct] Kandika:
+[text] etā́bʰya   eváinaṃ   devátābʰyo   juhoti  \
+[struct] Kandika:
+[text] dáśa   sáṃ   padyante  \
+[struct] Kandika:
+[text] dáśākṣarā   virā́ṭ  \
+[struct] Kandika:
+[text] ánnaṃ   virā́ṭ  \
+[struct] Kandika:
+[text] virā́jaivā́nnādyam   áva   rundʰe  \
+[struct] Kandika:
+[text] rauhiṇā́bʰyāṃ   vái   devā́ḥ   suvargám   āyan  \
+[struct] Kandika:
+[text] tád   rauhiṇáyo   rauhiṇatvám  \
+[struct] Kandika:
+[text] yád   rauhiṇáu   bʰávataḥ  \
+[struct] Kandika:
+[text] rauhiṇā́bʰyām   evá   tád   yájamānaḥ   suvargáṃ   lokám   eti  \
+[struct] Kandika:
+[text] áhar   jyótiḥ   ketúnā   juṣatām̐   sujyotír   jyótiṣām̐   svā́hā   rā́trir   jyótiḥ   ketúnā   juṣatām̐   sujyotír   jyótiṣām̐   svā́hé
+[text] ty   āha  \
+[struct] Kandika:
+[text] ādityám   evá   tád   amúṣmin   loké   'hnā   parástād   dādʰāra  \
+[struct] Kandika:
+[text] rā́triyā   avástāt  \
+[struct] Kandika:
+[text] tásmād   asā́v   ādityò   'múṣṃ[im̐   lokè]   'horātrā́bʰyaṃ   dʰr̥táḥ  \ \\  manuṣyanāmā́ni   paśávaḥ   sīdatv   íty   āhéndrāyéty   āhārdʰayati   gʰnanti   gr̥hṇāty   áhim̐sāyai   páñcāhādityávate   svā́héty   āha   pitr̥mā́n   eti   catvā́ri   ca  \\
+[struct] Anuvaka: 8
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] víśvā   ā́śā   dakṣiṇasád
+[text] íty   āha  \
+[struct] Kandika: b
+[text] víśvān   evá   devā́n   prīṇāti  \
+[struct] Kandika: c
+[text] átʰo   dúriṣṭyā   eváinaṃ   pāti  \
+[struct] Kandika: d
+[text] víśvān   devā́n   ayāḍ   ihé
+[text] ty   āha  \
+[struct] Kandika: e
+[text] víśvān   evá   devā́n   bʰāgadʰéyena   sám   ardʰayati  \
+[struct] Kandika: f
+[text] svā́hākr̥tasya   gʰarmásya   mádʰoḥ   pibatam   aśvinéty   āha  \
+[struct] Kandika: g
+[text] aśvínāv   evá   bʰāgadʰéyena   sám   ardʰayati  \
+[struct] Kandika: h
+[text] svā́hāgnáye   yajñíyāya   śáṃ   yájurbʰir   íty   āha  \
+[struct] Kandika: i
+[text] abʰy   èváinaṃ   gʰārayati  \
+[struct] Kandika: j
+[text] átʰo   havír   evā́kaḥ  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] áśvinā   gʰarmáṃ   pātam̐   hārdivānám   áhardivā́bʰir   ūtíbʰir
+[text] íty   āha  \
+[struct] Kandika: b
+[text] aśvínāv   evá   bʰāgadʰéyena   sám   ardʰayati  \
+[struct] Kandika: c
+[text] ánu   vāṃ   dyā́vāpr̥tʰivī́   mam̐sātām
+[text] íty   āhā́numatyai  \
+[struct] Kandika: d
+[text] svā́héndrāya   svā́héndrā   váḍ
+[text] íty   āha  \
+[struct] Kandika: e
+[text] índrāya   hí   puró   hūyáte  \
+[struct] Kandika: f
+[text] āśrā́vyāha
+[text] gʰarmásya   yajé
+[text] ti  \
+[struct] Kandika: g
+[text] váṣaṭkr̥te   juhoti  \
+[struct] Kandika: h
+[text] rákṣasām   ápahatyai  \
+[struct] Kandika: i
+[text] ánu   yajati   svagā́kr̥tyai  \
+[struct] Kandika: j
+[text] gʰarmám   apātam   aśviné
+[text] ty   āha  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] pū́rvam   evóditam  \
+[struct] Kandika: b
+[text] úttareṇābʰí   gr̥ṇāti  \
+[struct] Kandika: c
+[text] ánu   vāṃ   dyā́vāpr̥tʰivī́   amam̐sātām
+[text] íty   āhā́numatyai  \
+[struct] Kandika: d
+[text] táṃ   prāvyàṃ   yatʰāváṇ   ṇámo   divé   námaḥ   pr̥tʰivyā́
+[text] íty   āha  \
+[struct] Kandika: e
+[text] yatʰāyajúr   eváitát  \
+[struct] Kandika: f
+[text] diví   dʰā   imáṃ   yajñáṃ   yajñám   imáṃ   diví   dʰā
+[text] íty   āha  \
+[struct] Kandika: g
+[text] suvargám   eváinaṃ   lokáṃ   gamayati  \
+[struct] Kandika: h
+[text] dívaṃ   gaccʰāntárikṣaṃ   gaccʰa   pr̥tʰivī́ṃ   gaccʰéty   āha  \
+[struct] Kandika: i
+[text] eṣv   èváinaṃ   lokéṣu   práti   ṣṭʰāpayati  \
+[struct] Kandika: j
+[text] páñca   pradíṣo   gaccʰé
+[text] ty   āha  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] dikṣv   èváinaṃ   práti   ṣṭʰāpayati  \
+[struct] Kandika: b
+[text] devā́n   gʰarmapā́n   gaccʰa   pitŕ̥̄n   gʰarmapā́n   gaccʰé
+[text] ty   āha  \
+[struct] Kandika: c
+[text] ubʰáyeṣv   eváinaṃ   práti   ṣṭʰāpayati  \
+[struct] Kandika: d
+[text] yát   pínvate  \
+[struct] Kandika: e
+[text] várṣukaḥ   parjányo   bʰavati  \
+[struct] Kandika: f
+[text] tásmāt   pínvamānaḥ   púṇyaḥ  \
+[struct] Kandika: g
+[text] yát   prā́ṅ   pínvate  \
+[struct] Kandika: h
+[text] tád   devā́nām  \
+[struct] Kandika: i
+[text] yád   dakṣiṇā  \
+[struct] Kandika: j
+[text] tát   pitr̥ṇā́m  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] yát   pratyák  \
+[struct] Kandika: b
+[text] tán   manuṣyā̀nām  \
+[struct] Kandika: c
+[text] yád   údaṅ  \
+[struct] Kandika: d
+[text] tád   rudrā́ṇām  \
+[struct] Kandika: e
+[text] prā́ñcam   údañcaṃ   pinvayati  \
+[struct] Kandika: f
+[text] devatrā́kaḥ  \
+[struct] Kandika: g
+[text] átʰo   khálu  \
+[struct] Kandika: h
+[text] sárvā   ánu   díśaḥ   pinvayati  \
+[struct] Kandika: i
+[text] sárvā   díśaḥ   sám   edʰante  \
+[struct] Kandika: j
+[text] antaḥparidʰí   pinvayati  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] téjasó   'skandāya  \
+[struct] Kandika: b
+[text] iṣé   pīpihy   ūrjé   pīpihī́
+[text] ty   āha  \
+[struct] Kandika: c
+[text] íṣam   evórjaṃ   yájamāne   dadʰāti  \
+[struct] Kandika: d
+[text] yájamānāya   pīpihī́
+[text] ty   āha  \
+[struct] Kandika: e
+[text] yájamānāyaiváitā́m   āśíṣam   ā   śāste  \
+[struct] Kandika: f
+[text] máhyaṃ   jyáiṣṭʰyāya   pīpihī́
+[text] ty   āha  \
+[struct] Kandika: g
+[text] ātmána   eváitā́m   āśíṣam   ā   śāste  \
+[struct] Kandika: h
+[text] tvíṣyai   tvā   dyumnā́ya   tvendriyā́ya   tvā   bʰū́tyai   tvé
+[text] ty   āha  \
+[struct] Kandika: i
+[text] yatʰāyajúreváitát  \
+[struct] Kandika: j
+[text] dʰármāsi   sudʰármā́meny   asmé   bráhmāṇi   dʰārayé
+[text] ty   āha  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] bráhmann   eváinaṃ   práti   ṣṭʰāpayati  \
+[struct] Kandika: b
+[text] nét   tvā   vā́taḥ   skandáyād
+[text] íti   yády   abʰicáret  \
+[struct] Kandika: c
+[text] amúṣya   tvā   prāṇé   sādayāmy   amúnā   sahá   nirartʰáṃ   gaccʰé
+[text] ti   brū́yād   yáṃ   dviṣyā́t  \
+[struct] Kandika: d
+[text] yám   evá   dvéṣṭi  \
+[struct] Kandika: e
+[text] ténainam̐   sahá   nirartʰáṃ   gamayati  \
+[struct] Kandika: f
+[text] pūṣṇé   śárase   svā́hé
+[text] ty   āha  \
+[struct] Kandika: g
+[text] yā́   evá   devátā   hutábʰāgāḥ  \
+[struct] Kandika: h
+[text] tā́bʰya   eváinaṃ   juhoti  \
+[struct] Kandika: i
+[text] grā́vabʰyaḥ   svā́hé
+[text] ty   āha  \
+[struct] Kandika: j
+[text] yā́   evā́ntárikṣe   vā́caḥ  \
+[struct] Dasati: 8
+[struct] Kandika: a
+[text] tā́bʰya   eváinaṃ   juhoti  \
+[struct] Kandika: b
+[text] pratirébʰyaḥ   svā́hé
+[text] ty   āha  \
+[struct] Kandika: c
+[text] prāṇā́   vái   devā́ḥ   pratirā́ḥ  \
+[struct] Kandika: d
+[text] tébʰya   eváinaṃ   juhoti  \
+[struct] Kandika: e
+[text] dyā́vāpr̥tʰivī́bʰyaḥ   svā́hé
+[text] ty   āha  \
+[struct] Kandika: f
+[text] dyā́vāpr̥tʰivī́bʰyām   eváinaṃ   juhoti  \
+[struct] Kandika: g
+[text] pitŕ̥bʰyo   gʰarmapébʰyaḥ   svā́hé
+[text] ty   āha  \
+[struct] Kandika: h
+[text] yé   vái   yájvānaḥ  \
+[struct] Kandika: i
+[text] té   pitáro   gʰarmapā́ḥ  \
+[struct] Kandika: j
+[text] tébʰya   eváinaṃ   juhoti  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] rudrā́ya   rudráhotre   svā́hé
+[text] ty   āha  \
+[struct] Kandika: b
+[text] rudrám   evá   bʰāgadʰéyena   sám   ardʰayati  \
+[struct] Kandika: c
+[text] sarvátaḥ   sám   anakti  \
+[struct] Kandika: d
+[text] sarváta   evá   rudráṃ   nirávadayate  \
+[struct] Kandika: e
+[text] údañcaṃ   nír   asyati  \
+[struct] Kandika: f
+[text] eṣā́   vái   rudrásya   dík  \
+[struct] Kandika: g
+[text] svā́yām   evá   diśí   rudráṃ   nirávadayate  \
+[struct] Kandika: h
+[text] apá   úpa   spr̥śati   medʰyatvā́ya  \
+[struct] Kandika: i
+[text] nā́nv   īkṣate  \
+[struct] Kandika: j
+[text] yád   anvī́kṣeta  \
+[struct] Dasati: 10
+[struct] Kandika: a
+[text] cákṣur   asya   pramā́yukam̐   syāt  \
+[struct] Kandika: b
+[text] tásmān   nā́nvī́kṣyaḥ  \
+[struct] Kandika: c
+[text] ápīparo   mā́hno   rā́triyai   mā   pāhy   eṣā́   te   agne   samít   táyā   sám   idʰyasvā́yur   me   dā   várcasā   māñjīr
+[text] íty   āha  \
+[struct] Kandika: d
+[text] ā́yur   evā́smin   várco   dadʰāti  \
+[struct] Kandika: e
+[text] ápīparo   mā   rā́triyā   áhno   mā   pāhy   eṣā́   te   agne   samít   táyā   sám   idʰyasvā́yur   me   dā   várcasā   māñjīr
+[text] íty   āha  \
+[struct] Kandika: f
+[text] ā́yur   evā́smin   várco   dadʰāti  \
+[struct] Kandika: g
+[text] agnír   jyótir   jyótir   agníḥ   svā́hā   sū́ryo   jyótir   jyótiḥ   sū́ryaḥ   svā́hé
+[text] ty   āha  \
+[struct] Kandika: h
+[text] yatʰāyajúr   eváitát  \
+[struct] Kandika: i
+[text] brahmavādíno   vadanti  \
+[struct] Kandika: j
+[text] hotavyàm   agnihotrā́3ṃ   ná   hotavyā́3m   íti  \
+[struct] Dasati: 11
+[struct] Kandika: a
+[text] yád   yájuṣā   juhuyā́t  \
+[struct] Kandika: b
+[text] áyatʰāpūrvam   ā́hutī   juhuyāt  \
+[text] ā́hutīr}
+[struct] Kandika: c
+[text] yán   ná   juhuyā́t  \
+[struct] Kandika: d
+[text] agníḥ   párā   bʰavet  \
+[struct] Kandika: e
+[text] bʰū́ḥ   svā́hé
+[text] ty   evá   hotavyàm  \
+[struct] Kandika: f
+[text] yatʰāpūrvám   ā́hutī   juhóti  \
+[text] ā́hutīr}
+[struct] Kandika: g
+[text] nā́gníḥ   párā   bʰavati  \
+[struct] Kandika: h
+[text] hutám̐   havír   mádʰu   havír
+[text] íty   āha  \
+[struct] Kandika: i
+[text] svadáyaty   eváinam  \
+[struct] Kandika: j
+[text] índratame   'gnā́v
+[text] íty   āha  \
+[struct] Dasati: 12
+[struct] Kandika: a
+[text] prāṇó   vā́   índratamo   'gníḥ  \
+[struct] Kandika: b
+[text] prāṇá   eváinam   índratame   'gnáu   juhoti  \
+[struct] Kandika: c
+[text] pitā́   no   'si   mā́   mā   him̐sīr
+[text] íty   āhā́him̐sāyai  \
+[struct] Kandika: d
+[text] aśyā́ma   te   deva   gʰarma   mádʰumato   vā́javataḥ   pitumáta
+[text] íty   āha  \
+[struct] Kandika: e
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: f
+[text] svadʰāvíno   'śīmáhi   tvā   mā́   mā   him̐sīr
+[text] íty   āhā́him̐sāyai  \
+[struct] Kandika: g
+[text] téjasā   vā́   eté   vy   r̥̀dʰyante  \
+[struct] Kandika: h
+[text] yé   pravargyèṇa   cáranti  \
+[struct] Kandika: i
+[text] prā́śnanti  \
+[struct] Kandika: j
+[text] téja   evā́tmán   dadʰate  \
+[struct] Dasati: 13
+[struct] Kandika: a
+[text] saṃvatsaráṃ   ná   mām̐sám   aśnīyāt  \
+[struct] Kandika: b
+[text] ná   rāmā́m   úpeyāt  \
+[struct] Kandika: c
+[text] ná   mr̥nmáyena   pibet  \
+[struct] Kandika: d
+[text] nā́sya   rāmá   úccʰiṣṭaṃ   pibet  \
+[struct] Kandika: e
+[text] téja   evá   tát   sám̐śyati  \
+[struct] Kandika: f
+[text] devāsurā́ḥ   sáṃyattā   āsan  \
+[struct] Kandika: g
+[text] té   devā́   vijayám   upayántaḥ  \
+[struct] Kandika: h
+[text] vibʰrā́ji   sauryé   bráhma   sáṃ   ny   àdadʰata  \
+[struct] Kandika: i
+[text] yát   kíṃ   ca   divākīrtyàm  \
+[struct] Kandika: j
+[text] tád   eténaivá   vraténāgopāyat  \
+[struct] Kandika: k
+[text] tásmād   etád   vratáṃ   cāryàm  \
+[struct] Kandika: l
+[text] téjaso   gopītʰā́ya  \
+[struct] Kandika: m
+[text] tásmād   etā́ni   yájūm̐ṣi   vibʰrā́jaḥ   sauryásyéty   āhuḥ  \
+[struct] Kandika: n
+[text] svā́hā   tvā   sū́ryasya   raśmíbʰya
+[text] íti   prātáḥ   sám̐   sādayati  \
+[struct] Kandika: o
+[text] svā́hā   tvā   nákṣatrebʰya
+[text] íti   sāyam  \
+[struct] Kandika: p
+[text] etā́   vā́   etásya   devátāḥ  \
+[struct] Kandika: q
+[text] tā́bʰir   eváinam̐   sám   ardʰayati  \ \\  ajar   aśvinétyāha   pradíśo   gaccʰétyāha   pitr̥ṇām   antaḥparidʰí   pinvayati   dʰārayéty   āha   vā́co   gʰarmapā́s   tébʰya   eváinaṃ   juhoty   anvī́kṣeta   hotavyā́3m   íty   agnā́v   ítyāha   dadʰate   'gopāyat   saptá   ca  \\
+[struct] Anuvaka: 9
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] gʰárma   yā́   te   diví   śúg
+[text] íti   tisrá   ā́hutīr   juhoti  \
+[struct] Kandika: b
+[text] cʰándobʰir   evā́syaibʰyó   lokébʰyaḥ   śúcam   áva   yajate  \
+[struct] Kandika: c
+[text] íyaty   ágre   juhoti  \
+[struct] Kandika: d
+[text] átʰéyaty   átʰéyati  \
+[struct] Kandika: e
+[text] tráya   imé   lokā́ḥ  \
+[struct] Kandika: f
+[text] ebʰyá   evá   lokébʰyaḥ   śúcam   áva   yajate  \
+[struct] Kandika: g
+[text] ánu   no   'dyā́numatir   íty   āhā́numatyai  \
+[struct] Kandika: h
+[text] divás   tvā   paraspā́yā
+[text] íty   āha  \
+[struct] Kandika: i
+[text] divá   evémām̐lokā́n   dādʰāra  \
+[struct] Kandika: j
+[text] bráhmaṇas   tvā   paraspā́yā
+[text] íty   āha  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] eṣv   èvá   lokéṣu   prajā́   dādʰāra  \
+[struct] Kandika: b
+[text] prāṇásya   tvā   paraspā́yā
+[text] íty   āha  \
+[struct] Kandika: c
+[text] prajā́sv   e/va   prāṇā́n   dādʰāra  \
+[struct] Kandika: d
+[text] śíro   vā́   etád   yajñásya  \
+[struct] Kandika: e
+[text] yát   pravargyàḥ  \
+[struct] Kandika: f
+[text] asáu   khálu   vā́   ādityáḥ   pravargyàḥ  \
+[struct] Kandika: g
+[text] táṃ   yád   dakṣiṇā́   pratyáñcam   údañcam   ud   vāsayet  \
+[struct] Kandika: h
+[text] jihmáṃ   yajñásya   śíro   haret  \
+[struct] Kandika: i
+[text] prā́ñcam   úd   vāsayati  \
+[struct] Kandika: j
+[text] purástād   evá   yajñásya   śíraḥ   práti   dadʰāti  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] prā́ñcam   úd   vāsayati  \
+[struct] Kandika: b
+[text] tásmād   asā́v   ādityáḥ   purástād   úd   eti  \
+[struct] Kandika: c
+[text] śapʰopayamā́n   dʰavítrāṇi   dʰŕ̥ṣṭī   íty   anvávaharanti  \
+[struct] Kandika: d
+[text] sā́tmānam   eváinam̐   sátanuṃ   karoti  \
+[struct] Kandika: e
+[text] sā́tmā   'múṣmim̐   loké   bʰavati  \
+[struct] Kandika: f
+[text] yá   eváṃ   véda  \
+[struct] Kandika: g
+[text] áudumbarāṇi   bʰavanti  \
+[struct] Kandika: h
+[text] ū́rg   vā́   udumbáraḥ  \
+[struct] Kandika: i
+[text] ū́rjam   evā́va   rundʰe  \
+[struct] Kandika: j
+[text] vártmanā   vā́   anvítya  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] yajñám̐   rákṣām̐si   jigʰām̐santi  \
+[struct] Kandika: b
+[text] sā́mnā   prastotā́   'nvávaiti  \
+[struct] Kandika: c
+[text] sā́ma   vái   rakṣohā́  \
+[struct] Kandika: d
+[text] rákṣasām   ápahatyai  \
+[struct] Kandika: e
+[text] trír   nidʰánam   úpaiti  \
+[struct] Kandika: f
+[text] tráya   imé   lokā́ḥ  \
+[struct] Kandika: g
+[text] ebʰyá   evá   lokébʰyo   rákṣām̐sy   ápa   hanti  \
+[struct] Kandika: h
+[text] púruṣaḥpuruṣo   nidʰánam   úpaiti  \
+[struct] Kandika: i
+[text] púruṣaḥpuruṣo   hí   rakṣasvī́  \
+[text] púruṣaḥ   puruṣo}
+[struct] Kandika: j
+[text] rákṣasām   ápahatyai  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] yát   pr̥tʰivyā́m   udvāsáyet  \
+[struct] Kandika: b
+[text] pr̥tʰivī́m̐   śucā́rpayet  \
+[struct] Kandika: c
+[text] yád   apsú  \
+[struct] Kandika: d
+[text] apáḥ   śucā́rpayet  \
+[struct] Kandika: e
+[text] yád   óṣadʰīṣu  \
+[struct] Kandika: f
+[text] óṣadʰīḥ   śucā́rpayet  \
+[struct] Kandika: g
+[text] yád   vánaspátiṣu  \
+[struct] Kandika: h
+[text] vánaspátīñ   cʰucā́rpayet  \
+[struct] Kandika: i
+[text] híraṇyaṃ   nidʰā́yódvāsayati  \
+[struct] Kandika: j
+[text] amŕ̥taṃ   vái   híraṇyam  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] amŕ̥ta   eváinaṃ   práti   ṣṭʰāpayati  \
+[struct] Kandika: b
+[text] valgúr   asi   śaṃyúdʰāyā
+[text] íti   tríḥ   pariṣiñcán   páry   eti  \
+[struct] Kandika: c
+[text] trivŕ̥d   vā́   agníḥ  \
+[struct] Kandika: d
+[text] yā́vān   evā́gníḥ  \
+[struct] Kandika: e
+[text] tásya   śúcam̐   śamayati  \
+[struct] Kandika: f
+[text] tríḥ   púnaḥ   páry   eti  \
+[struct] Kandika: g
+[text] ṣáṭ   sáṃ   padyante  \
+[struct] Kandika: h
+[text] ṣáḍ   vā́   r̥távaḥ  \
+[struct] Kandika: i
+[text] r̥túbʰir   evā́sya   śúcam̐   śamayati  \
+[struct] Kandika: j
+[text] cátuḥsraktir   nā́bʰir   r̥tásyé
+[text] ty   āha  \
+[struct] Dasati: 7
+[struct] Kandika: a
+[text] iyáṃ   vā́   r̥tám  \
+[struct] Kandika: b
+[text] tásyā   eṣá   evá   nā́bʰiḥ  \
+[struct] Kandika: c
+[text] yát   pravargyàḥ  \
+[struct] Kandika: d
+[text] tásmād   evám   āha  \
+[struct] Kandika: e
+[text] sádo   viśvā́yur
+[text] íty   āha  \
+[struct] Kandika: f
+[text] sádo   hī́yám  \
+[struct] Kandika: g
+[text] ápa   dvéṣo   ápa   hvára
+[text] íty   āha   bʰrā́tr̥vyāpanutyai  \
+[struct] Kandika: h
+[text] gʰármaitát   té   'nnam   etát   púrīṣam
+[text] íti   dadʰnā́   madʰumiśréṇa   pūrayati  \
+[struct] Kandika: i
+[text] ū́rg   vā́   annā́dyaṃ   dádʰi  \
+[struct] Kandika: j
+[text] ūrjáiváinam   annā́dyena   sám   ardʰayati  \
+[struct] Dasati: 8
+[struct] Kandika: a
+[text] ánaśanāyuko   bʰavati  \
+[struct] Kandika: b
+[text] yá   eváṃ   véda  \
+[struct] Kandika: c
+[text] rántir   nā́māsi   divyó   gandʰarvá
+[text] íty   āha  \
+[struct] Kandika: d
+[text] rūpám   evā́syaitán   mahimā́nam̐   rántiṃ   bandʰútāṃ   vy   ā́   caṣṭe  \
+[struct] Kandika: e
+[text] sám   ahám   ā́yuṣā   sáṃ   prāṇéné
+[text] ty   āha  \
+[struct] Kandika: f
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: g
+[text] vy   àsáu   yò   'smān   dvéṣṭi   yáṃ   ca   vayáṃ   dviṣmá   íty   āha  \
+[struct] Kandika: h
+[text] abʰicārá   evā́syaiṣáḥ  \
+[struct] Kandika: i
+[text] ácikradad   vŕ̥ṣā   hárir
+[text] íty   āha  \
+[struct] Kandika: j
+[text] vŕ̥ṣā   hy   èṣáḥ  \
+[struct] Dasati: 9
+[struct] Kandika: a
+[text] vŕ̥ṣā   háriḥ  \
+[struct] Kandika: b
+[text] mahā́n   mitró   ná   darśatá
+[text] íty   āha  \
+[struct] Kandika: c
+[text] stáuty   eváinam   etát  \
+[struct] Kandika: d
+[text] cíd   asi   samudráyonir
+[text] íty   āha  \
+[struct] Kandika: e
+[text] svā́m   eváinaṃ   yóniṃ   gamayati  \
+[struct] Kandika: f
+[text] námas   te   astu   mā́   mā   him̐sīr
+[text] íty   āhā́him̐sāyai  \
+[struct] Kandika: g
+[text] viśvā́vasum̐   soma   gandʰarvám
+[text] íty   āha  \
+[struct] Kandika: h
+[text] yád   evā́sya   kriyámāṇasyāntaryánti  \
+[struct] Kandika: i
+[text] tád   evā́syaiténā́   pyāyayati  \
+[struct] Kandika: j
+[text] viśvā́vasur   abʰí   tán   no   gr̥ṇātv
+[text] íty   āha  \
+[struct] Dasati: 10
+[struct] Kandika: a
+[text] pū́rvam   evóditám  \
+[struct] Kandika: b
+[text] úttareṇābʰí   gr̥ṇāti  \
+[struct] Kandika: c
+[text] dʰíyo   hinvānó   dʰíya   ín   no   avyād
+[text] íty   āha  \
+[struct] Kandika: d
+[text] r̥tū́n   evā́smai   kalpayati  \
+[struct] Kandika: e
+[text] prā́sāṃ   gandʰarvó   amŕ̥tāni   vocád   íty   āha  \
+[struct] Kandika: f
+[text] prāṇā́   vā́   amŕ̥tāḥ  \
+[struct] Kandika: g
+[text] prāṇā́n   evā́smai   kalpayati  \
+[struct] Kandika: h
+[text] etát   tváṃ   deva   gʰarma   devó   devā́n   úpāgā
+[text] íty   āha  \
+[struct] Kandika: i
+[text] devó   hy   èṣá   sán   devā́n   upáiti  \
+[struct] Kandika: j
+[text] idám   aháṃ   manuṣyò   manuṣyā̀n
+[text] íty   āha  \
+[struct] Dasati: 11
+[struct] Kandika: a
+[text] manuṣyò   hí  \
+[struct] Kandika: b
+[text] eṣá   sán   manuṣyā̀n   upáiti  \
+[struct] Kandika: c
+[text] īśvaró   vái   pravargyàm   udvāsáyan  \
+[struct] Kandika: d
+[text] prajā́ṃ   paśū́nt   somapītʰám   anūdvā́saḥ
+[text] sómapītʰā́nu   méhi  \
+[struct] Kandika: e
+[text] sahá   prajáyā   sahá   rāyáspóṣeṇé
+[text] ty   āha  \
+[struct] Kandika: f
+[text] prajā́m   evá   paśū́nt   somapītʰám   ātmán   dʰatte  \
+[struct] Kandika: g
+[text] sumitrā́   na   ā́pa   óṣadʰayaḥ   santv
+[text] íty   āha  \
+[struct] Kandika: h
+[text] āśíṣam   eváitā́m   ā́   śāste  \
+[struct] Kandika: i
+[text] durmitrā́s   tásmai   bʰūyāsur   yò   'smā́n   dvéṣṭi   yáṃ   ca   vayáṃ   dviṣmá
+[text] íty   āha  \
+[struct] Kandika: j
+[text] abʰicārá   evā́syaiṣáḥ  \
+[struct] Kandika: k
+[text] prá   vā́   eṣò   'smāl   lokā́c   cyavate  \
+[struct] Kandika: l
+[text] yáḥ   pravargyàm   údvāsayati  \
+[struct] Kandika: m
+[text] úd   u   tyáṃ   citrám
+[text] íti   saurī́bʰyām   r̥gʰyā́ṃ   púnar   étya   gā́rhapatye   juhoti  \
+[struct] Kandika: n
+[text] ayáṃ   vái   lokó   gā́rhapatyaḥ  \
+[struct] Kandika: o
+[text] asmínn   evá   loké   práti   tiṣṭʰati  \
+[struct] Kandika: p
+[text] asáu   khálu   vā́   ādityáḥ   suvargó   lokáḥ  \
+[struct] Kandika: q
+[text] yát   saurī́   bʰávataḥ  \
+[struct] Kandika: r
+[text] ténaivá   suvargā́l   lokā́n   náiti  \ \\  bráhmaṇas   tvā   paraspā́yā   íty   āha   dadʰāty   anvítya   rakṣasvī́   rákṣasām   ápahatyai   vái   híraṇyam   āhārdʰayati   hy   èṣá   gr̥ṇātv   íty   āha   manuṣyā̀n   íty   āhāsyaiṣò   'ṣṭáu   ca  \\
+[struct] Anuvaka: 10
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] prajā́patiṃ   vái   devā́ḥ   śukráṃ   páyo   'duhran  \
+[struct] Kandika: b
+[text] tád   ebʰyo   ná   vy   àbʰavat  \
+[struct] Kandika: c
+[text] tád   agnír   vy   àkarot  \
+[struct] Kandika: d
+[text] tā́ni   śúkriyāṇi   sā́māny   abʰavan  \
+[struct] Kandika: e
+[text] téṣāṃ   yó   ráso   'tyákṣarat  \
+[struct] Kandika: f
+[text] tā́ni   śukrayajū́m̐ṣy   abʰavan  \
+[struct] Kandika: g
+[text] śúkriyāṇāṃ   vā́   etā́ni   śúkriyāṇi  \
+[struct] Kandika: h
+[text] sāmapayasáṃ   vā́   etáyor   anyát  \
+[struct] Kandika: i
+[text] devā́nām   anyát   páyaḥ  \
+[struct] Kandika: j
+[text] yád   góḥ   páyaḥ  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] tát   sā́mnaḥ   páyaḥ  \
+[struct] Kandika: b
+[text] yád   ajā́yai   páyaḥ  \
+[struct] Kandika: c
+[text] tád   devā́nāṃ   páyaḥ  \
+[struct] Kandika: d
+[text] tásmād   yátraitáir   yájurbʰiś   cáranti  \
+[struct] Kandika: e
+[text] tát   páyasā   caranti  \
+[struct] Kandika: f
+[text] prajā́patim   evá   tád   devā́n   páyasānnā́dyena   sám   ardʰayanti  \
+[struct] Kandika: g
+[text] eṣá   ha   tvái   sākṣā́t   pravargyàṃ   bʰakṣayati  \
+[text] vái
+[text] tvái}
+[struct] Kandika: h
+[text] yásyaiváṃ   vidúṣaḥ   pravargyàḥ   pravr̥jyáte  \
+[struct] Kandika: i
+[text] uttaravedyā́m   úd   vāsayet   téjaskāmasya  \
+[struct] Kandika: j
+[text] téjo   vā́   uttaravedíḥ  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] téjaḥ   pravargyàḥ  \
+[struct] Kandika: b
+[text] téjasaivá   téjaḥ   sám   ardʰayati  \
+[struct] Kandika: c
+[text] uttaravedyā́m   úd   vāsayet   ánnakāmasya  \
+[struct] Kandika: d
+[text] śíro   vā́   etád   yajñásya  \
+[struct] Kandika: e
+[text] yát   pravargyàḥ  \
+[struct] Kandika: f
+[text] múkham   uttaravedíḥ  \
+[struct] Kandika: g
+[text] śīrṣṇáivá   múkham̐   sáṃ   dadʰāty   annā́dyāya  \
+[struct] Kandika: h
+[text] annāda   evá   bʰavati  \
+[struct] Kandika: i
+[text] yátra   khálu   vā́   etám   údvāsitaṃ   váyām̐si   paryā́sate  \
+[struct] Kandika: j
+[text] pári   vái   tā́ṃ   sámāṃ   prajā́   váyām̐sy   āsate  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] tásmād   uttaravedyā́m   evód   vāsayet  \
+[struct] Kandika: b
+[text] prajā́nāṃ   gopītʰā́ya  \
+[struct] Kandika: c
+[text] puró   vā   paścā́d   vód   vāsayet  \
+[struct] Kandika: d
+[text] purástād   vā́   etáj   jyótir   úd   eti  \
+[struct] Kandika: e
+[text] tát   paścā́n   ní   mrocati  \
+[struct] Kandika: f
+[text] svā́m   eváinaṃ   yónim   ánū́d   vāsayati  \
+[struct] Kandika: g
+[text] apā́ṃ   mádʰya   úd   vāsayet  \
+[struct] Kandika: h
+[text] apā́ṃ   vā́   etán   mádʰyāj   jyótir   ajāyata  \
+[struct] Kandika: i
+[text] jyótiḥ   pravargyàḥ  \
+[struct] Kandika: j
+[text] sva   eváinaṃ   yónau   práti   ṣṭʰāpayati  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] yáṃ   dviṣyā́t  \
+[struct] Kandika: b
+[text] yátra   sá   syāt  \
+[struct] Kandika: c
+[text] tásyāṃ   diśy   úd   vāsayet  \
+[struct] Kandika: d
+[text] eṣá   vā́   agnír   vaiśvānaráḥ  \
+[struct] Kandika: e
+[text] yát   pravargyàḥ  \
+[struct] Kandika: f
+[text] agnínaiváinaṃ   vaiśvānaréṇābʰi   prá   vartayati  \
+[struct] Kandika: g
+[text] áudumbaryām̐   śā́khāyām   úd   vāsayet  \
+[struct] Kandika: h
+[text] ū́rg   vā́   udumbáraḥ  \
+[struct] Kandika: i
+[text] ánnaṃ   prāṇáḥ  \
+[struct] Kandika: j
+[text] śúg   gʰarmáḥ  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] idám   ahám   amúṣYāmuṣyāyaṇásya   śucā́   prāṇám   ápi   dahāmī́
+[text] ty   āha  \
+[struct] Kandika: b
+[text] śucáivā́sya   prāṇám   ápi   dahati  \
+[struct] Kandika: c
+[text] tājág   ā́rtim   ā́rccʰati  \
+[struct] Kandika: d
+[text] yátra   darbʰā́   upadī́kasantatāḥ   syúḥ  \
+[struct] Kandika: e
+[text] tád   úd   vāsayed   vŕ̥ṣṭikāmasya  \
+[struct] Kandika: f
+[text] etā́   vā́   apā́m   anūjjaā́varyo   nā́ma  \
+[struct] Kandika: g
+[text] yád   darbʰā́ḥ  \
+[struct] Kandika: h
+[text] asáu   khálu   vā́   ādityá   itó   vŕ̥ṣṭim   úd   īrayati  \
+[struct] Kandika: i
+[text] asā́v   evā́smā   ādityó   vŕ̥ṣṭiṃ   ní   yaccʰati  \
+[struct] Kandika: j
+[text] tā́   ā́po   níyatā   dʰánvanā   yanti  \ \\  góḥ   páya   uttaravedír   āsate   stʰāpayati   gʰarmó   yanti  \\
+[struct] Anuvaka: 11
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] prajā́patiḥ   saṃbʰriyámāṇaḥ  \
+[struct] Kandika: b
+[text] saṃrā́ṭ   sáṃbʰr̥taḥ  \
+[struct] Kandika: c
+[text] gʰarmáḥ   právr̥ktaḥ  \
+[struct] Kandika: d
+[text] mahā́vīra   údvāsitaḥ  \
+[struct] Kandika: e
+[text] asáu   khálu   vā́váiṣá   ādityáḥ  \
+[struct] Kandika: f
+[text] yát   pravargyàḥ  \
+[struct] Kandika: g
+[text] sá   etā́ni   nā́māny   akuruta  \
+[struct] Kandika: h
+[text] yá   eváṃ   véda  \
+[struct] Kandika: i
+[text] vidúr   enaṃ   nā́mnā  \
+[struct] Kandika: j
+[text] brahmavādíno   vadanti  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] yó   vái   vásīyām̐saṃ   yatʰānāmám   upacárati  \
+[struct] Kandika: b
+[text] púṇyārtiṃ   vái   sá   tásmai   kāmayate  \
+[struct] Kandika: c
+[text] púṇyārtiṃ   asmai   kāmayante  \
+[struct] Kandika: d
+[text] yá   eváṃ   véda  \
+[struct] Kandika: e
+[text] tásmād   eváṃ   vidvā́n  \
+[struct] Kandika: f
+[text] gʰarmá   íti   dívā́   cakṣīta  \
+[struct] Kandika: g
+[text] saṃrā́ḍ   íti   náktam  \
+[struct] Kandika: h
+[text] eté   vā́   etásya   priyé   tanúvau  \
+[struct] Kandika: i
+[text] eté   asya   priyé   nā́manī  \
+[struct] Kandika: j
+[text] priyáyaiváinaṃ   tanúvā́  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] priyéṇa   nā́mnā   sám   ardʰayati  \
+[struct] Kandika: b
+[text] kīrtír   asya   pū́rvā́   gaccʰati   janátām   āyatáḥ  \
+[struct] Kandika: c
+[text] gāyatrī́   devébʰyó   'pākrāmat  \
+[struct] Kandika: d
+[text] tā́ṃ   devā́ḥ   pravargyèṇaivā́nu   vy   àbʰavan  \
+[struct] Kandika: e
+[text] pravargyèṇāpnuvan  \
+[struct] Kandika: f
+[text] yác   cáturvim̐śatiḥ   kŕ̥tvaḥ   pravargyàṃ   pravr̥ṇákti  \
+[text] cáturvim̐śatiḥkŕ̥tvaḥ}
+[struct] Kandika: g
+[text] gāyatrī́m   evá   tád   ánu   ví   bʰavati  \
+[struct] Kandika: h
+[text] gāyatrī́m   āpnoti  \
+[struct] Kandika: i
+[text] pū́rvāsya   jánaṃ   yatáḥ   kīrtír   gaccʰati  \
+[struct] Kandika: j
+[text] vaiśvadeváḥ   sám̐sannaḥ  \
+[struct] Dasati: 4
+[struct] Kandika: a
+[text] vásavaḥ   právr̥ktaḥ  \
+[struct] Kandika: b
+[text] sómo   'bʰikīryámāṇaḥ  \
+[struct] Kandika: c
+[text] āśvináḥ   páyasy   ānīyámāne  \
+[struct] Kandika: d
+[text] mārutáḥ   kvátʰan  \
+[struct] Kandika: e
+[text] pauṣṇá   údantaḥ
+[struct] Kandika: f
+[text] sārasvató   viṣyándamānaḥ  \
+[struct] Kandika: g
+[text] maitráḥ   śárogr̥hītaḥ  \
+[struct] Kandika: h
+[text] téja   údyato   vāyúḥ  \
+[struct] Kandika: i
+[text] hriyámāṇaḥ   prajā́patiḥ  \
+[struct] Kandika: j
+[text] hūyámāno   vā́g   gʰr̥táḥ  \
+[struct] Dasati: 5
+[struct] Kandika: a
+[text] asáu   khálu   vā́váiṣá   ādityáḥ  \
+[struct] Kandika: b
+[text] yát   pravargyàḥ  \
+[struct] Kandika: c
+[text] sá   etā́ni   nā́māny   akuruta  \
+[struct] Kandika: d
+[text] yá   eváṃ   véda  \
+[struct] Kandika: e
+[text] vidúr   enaṃ   nā́mnā  \
+[struct] Kandika: f
+[text] brahmavādíno   vadanti  \
+[struct] Kandika: g
+[text] yán   mr̥nmáyam   ā́hutiṃ   nā́śnuté   'tʰa  \
+[struct] Kandika: h
+[text] kásmād   eṣò   'śnuta   íti  \
+[struct] Kandika: i
+[text] vā́g   eṣá   íti   brūyāt  \
+[struct] Kandika: j
+[text] vācy   èvá   vā́caṃ   dadʰāti  \
+[struct] Dasati: 6
+[struct] Kandika: a
+[text] tásmād   aśnute  \
+[struct] Kandika: b
+[text] prajā́patir   vā́   eṣá   dvādaśadʰā́   vihitáḥ  \
+[struct] Kandika: c
+[text] yát   pravargyàḥ  \
+[struct] Kandika: d
+[text] yát   prā́g   avakāśébʰyaḥ  \
+[struct] Kandika: e
+[text] téna   prajā́   asr̥jata  \
+[struct] Kandika: f
+[text] avakāśáir   devāsurā́n   asr̥jata  \
+[struct] Kandika: g
+[text] yád   ūrdʰvám   avakāśébʰyaḥ  \
+[struct] Kandika: h
+[text] ténā́nnam   asr̥jata  \
+[struct] Kandika: i
+[text] ánnaṃ   prajā́patiḥ  \
+[struct] Kandika: j
+[text] prajā́patir   vā́váiṣáḥ  \ \\  vadanti   tanúvā   sám̐sanno   hūyámāno   vā́g   gʰutó   dadʰāty   eṣáḥ  \\
+[struct] Anuvaka: 12
+[struct] Dasati: 1
+[struct] Kandika: a
+[text] savitā́   bʰūtvā́   pratʰamé   'han   prá   vr̥jyate  \
+[struct] Kandika: b
+[text] téna   kā́mām̐   eti  \
+[struct] Kandika: c
+[text] yád   dvitī́yé   'han   pravr̥jyáte  \
+[struct] Kandika: d
+[text] agnír   bʰūtvā́   devā́n   eti  \
+[struct] Kandika: e
+[text] yát   tr̥tīyé   'han   pravr̥jyáte  \
+[struct] Kandika: f
+[text] vāyúr   bʰūtvā́   prāṇā́n   eti  \
+[struct] Kandika: g
+[text] yác   caturtʰé   'han   pravr̥jyáte  \
+[struct] Kandika: h
+[text] ādityó   bʰūtvā́   raśmī́n   eti  \
+[struct] Kandika: i
+[text] yát   pañcamé   han   pravr̥jyáte  \
+[struct] Kandika: j
+[text] candrámā   bʰūtvā́   nákṣatrāṇy   eti  \
+[struct] Dasati: 2
+[struct] Kandika: a
+[text] yát   ṣaṣṭʰé   'han   pravr̥jyáte  \
+[struct] Kandika: b
+[text] r̥túr   bʰūtvā́   saṃvatsarám   eti  \
+[struct] Kandika: c
+[text] yát   saptamé   'han   pravr̥jyáte  \
+[struct] Kandika: d
+[text] dʰātā́   bʰūtvā́   śakvarīm   eti  \
+[struct] Kandika: e
+[text] yád   aṣṭʰamé   'han   pravr̥jyáte  \
+[struct] Kandika: f
+[text] bŕ̥haspátir   bʰūtvā́   gāyatrī́m   eti  \
+[struct] Kandika: g
+[text] yán   navamé   'han   pravr̥jyáte  \
+[struct] Kandika: h
+[text] mitró   bʰūtvā́   trivŕ̥ta   imā́m̐   lokā́n   eti  \
+[struct] Kandika: i
+[text] yád   daśamé   'han   pravr̥jyáte  \
+[struct] Kandika: j
+[text] váruṇo   bʰūtvā́   virā́jam   eti  \
+[struct] Dasati: 3
+[struct] Kandika: a
+[text] yád   ekādaśé   'han   pravr̥jyáte  \
+[struct] Kandika: b
+[text] índro   bʰūtvā́   triṣṭubʰam   eti  \
+[struct] Kandika: c
+[text] yád   dvādaśé   'han   pravr̥jyáte  \
+[struct] Kandika: d
+[text] sómo   bʰūtvā́   sutyā́m   eti  \
+[struct] Kandika: e
+[text] yát   purástād   upasádāṃ   pravr̥jyáte  \
+[struct] Kandika: f
+[text] tásmād   itáḥ   párāṅ   amū́m̐   lokām̐s   tápann   eti  \
+[struct] Kandika: g
+[text] yád   upáriṣṭād   upasádāṃ   pravr̥jyáte  \
+[struct] Kandika: h
+[text] tásmād   amúto   'rvā́ṅ   imā́ṅ   lokā́m̐s   tápann   eti  \
+[struct] Kandika: i
+[text] yá   eváṃ   véda  \
+[struct] Kandika: j
+[text] áivá   tapati  \ \\  nákṣatrāṇy   eti   virā́jam   eti   tapati  \\
+[text] \\  devā́   vái   satrám̐
+[text] sāvitráṃ
+[text] pári.śrite
+[text] bráhman   prá   cariṣyāmo
+[text] 'gníṣ   ṭvā
+[text] śíro   grīvā́
+[text] devásya   raśanā́ṃ
+[text] víśvā   ā́śā
+[text] gʰárma   yā́   te
+[text] prajā́patim̐   śukráṃ
+[text] prajā́patiḥ   sambʰriyámānaḥ
+[text] savitā́   dvā́daśa  \\ 12 \\
+[text] \\  devā́   vái   satrám̐   sá   khadiráḥ
+[text] páriśrite
+[text] abʰipūrvám
+[text] átʰo   rákṣasām
+[text] gráiṣmāv   evá
+[text] evā́smai}
+[text] bráhma   vái   devā́nām
+[text] áśvinā   gʰarmáṃ   pātam
+[text] pātam}   prāṇó   vā́   índratamo   'gníḥ
+[text] vái ,
+[text] índratamo 'gníḥ}
+[text] vŕ̥ṣā   háriḥ
+[text] yó   vái   vásīyām̐saṃ   yatʰānāmám
+[text] aṣṭóttaraśatam  \\ 108 \\
+[text] śáṃ   naḥ
+[text] tán   no   mā́   hāsīt  \
+[text] ṣáṃ   nas   tán   no   mā́   hāsīt}
+[text] Oṃ   śā́ntiḥ   śā́ntiḥ   śā́ntiḥ  \  háriḥ   Oṃ  \
+[text] oṃ   śā́ntiḥ  . . . ;
+[text] háriḥ om \ }

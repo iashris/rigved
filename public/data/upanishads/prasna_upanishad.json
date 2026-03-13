@@ -1,0 +1,672 @@
+[
+  {
+    "reference": "1.1",
+    "sanskrit_iast": "om namaḥ paramātmane| hariḥ om || sukeśā ca bhāradvājaḥ śaibyaśca satyakāmaḥ sauryāyaṇī ca gārgyaḥ kausalyaścāśvalāyano bhārgavo vaidarbhiḥ kabandhī kātyāyanaste haite brahmaparā brahmaniṣṭhāḥ paraṁ brahmānveṣamāṇāḥ eṣa ha vai tatsarvaṁ vakṣyatīti te ha samitpāṇayo bhagavantaṁ pippalādamupasannāḥ ||",
+    "meaning": "ॐ नमः परमात्मने। हरिः ॐ॥ सुकेशा च भारद्वाजः शैब्यश्च सत्यकामः सौर्यायणी च गार्ग्यः कौसल्यश्चाश्वलायनो भार्गवो वैदर्भिः कबन्धी कात्यायनस्ते हैते ब्रह्मपरा ब्रह्मनिष्ठाः परं ब्रह्मान्वेषमाणाः एष ह वै तत्सर्वं वक्ष्यतीति ते ह समित्पाणयो भगवन्तं पिप्पलादमुपसन्नाः ॥",
+    "text": "OM! Salutation to the Supreme Spirit. The Supreme is OM. Sukesha the Bharadwaja; the Shaivya, Satyakama; Gargya, son of the Solar race; the Kosala, son of Ashwala; the Bhargava of Vidarbha; and Kabandhi Katyayana;-these sought the Most High God, believing in the Supreme and to the Supreme devoted. Therefore they came to the Lord Pippalada, for they said “This is he that shall tell us of that Universal.”",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.2",
+    "sanskrit_iast": "tān ha sa ṛṣiruvāca bhūya eva tapasā brahmacaryeṇa śraddhayā saṁvatsaraṁ saṁvatsyatha yathākāmaṁ praśnān pṛcchata yadi vijñāsyāmaḥ sarvaṁ ha vo vakṣāma iti ||",
+    "meaning": "तान्‌ ह स ऋषिरुवाच भूय एव तपसा ब्रह्मचर्येण श्रद्धया संवत्सरं संवत्स्यथ यथाकामं प्रश्नान्‌ पृच्छत यदि विज्ञास्यामः सर्वं ह वो वक्षाम इति ॥",
+    "text": "The Rishi said to them, “Another year do ye dwell in holiness and faith and askesis; then ask what ye will, and if I know, surely I will conceal nothing.”",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.3",
+    "sanskrit_iast": "atha kabandhī kātyāyana upetya papraccha bhagavan kuto ha vā imāḥ prajāḥ prajāyanta iti ||",
+    "meaning": "अथ कबन्धी कात्यायन उपेत्य पप्रच्छ भगवन्‌ कुतो ह वा इमाः प्रजाः प्रजायन्त इति ॥",
+    "text": "Then came Kabandhi, son of Katyayana, to him and asked: “Lord, whence are all these creatures born?”",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.4",
+    "sanskrit_iast": "tasmai sa hovāca - - - prajākāmo vai prajāpatiḥ sa tapo'tapyata sa tapastaptvā sa mithunamutpādayate | rayiṁ ca prāṇañceti etau me bahudhā prajāḥ kariṣyata iti ||",
+    "meaning": "तस्मै स होवाच - - - प्रजाकामो वै प्रजापतिः स तपोऽतप्यत स तपस्तप्त्वा स मिथुनमुत्पादयते। रयिं च प्राणञ्चेति एतौ मे बहुधा प्रजाः करिष्यत इति ॥",
+    "text": "To him answered the Rishi Pippalada: “The Eternal Father desired children, therefore he put forth his energy and by the heat of his energy produced twin creatures, Prana the Life, who is Male, and Rayi the Matter, who is Female. 'These' said he 'shall make for me children of many natures.'",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.5",
+    "sanskrit_iast": "ādityo ha vai prāṇo rayireva candramāḥ rayirvā etat sarvaṁ yanmūrtaṁ cāmūrtaṁ ca tasmānmūrtireva rayiḥ ||",
+    "meaning": "आदित्यो ह वै प्राणो रयिरेव चन्द्रमाः रयिर्वा एतत्‌ सर्वं यन्मूर्तं चामूर्तं च तस्मान्मूर्तिरेव रयिः ॥",
+    "text": "“The Sun verily is Life and the Moon is no more than Matter; yet truly all this Universe formed and formless is Matter; therefore Form and Matter are One.",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.6",
+    "sanskrit_iast": "athāditya udayan yat prācīṁ diśaṁ praviśati tena prācyān prāṇān raśmiṣu sannidhatte | yaddakṣiṇāṁ yat pratīcīṁ yadudīcīṁ yadadho yadūrdhvaṁ yadantarā diśo yatsarvaṁ prakāśayati tena sarvān prāṇān raśmiṣu sannidhatte ||",
+    "meaning": "अथादित्य उदयन् यत् प्राचीं दिशं प्रविशति तेन प्राच्यान्‌ प्राणान्‌ रश्मिषु सन्निधत्ते। यद्दक्षिणां यत्‌ प्रतीचीं यदुदीचीं यदधो यदूर्ध्वं यदन्तरा दिशो यत्सर्वं प्रकाशयति तेन सर्वान्‌ प्राणान्‌ रश्मिषु सन्निधत्ते ॥",
+    "text": "“Now when the Sun rising entereth the East, then absorbeth he the eastern breaths into his rays. But when he illumineth the south and west and north, and below and above and all the angles of space, yea, all that is, then he taketh all the breaths into his rays.",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.7",
+    "sanskrit_iast": "sa eṣa vaiśvānaro viśvarupaḥ prāṇo'gnirudayate | tadetad ṛcā'bhyuktam ||",
+    "meaning": "स एष वैश्वानरो विश्वरुपः प्राणोऽग्निरुदयते। तदेतद् ऋचाऽभ्युक्तम्‌ ॥",
+    "text": "“Therefore is this fire that riseth, this Universal Male, of whom all things are the bodies, Prana the breath of existence. This is that which was said in the Rigveda.",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.8",
+    "sanskrit_iast": "viśvarūpaṁ hariṇaṁ jātavedasaṁ parāyaṇaṁ jyotirekaṁ tapantam | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ||",
+    "meaning": "विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपन्तम्‌। सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥",
+    "text": "“'Fire is this burning and radiant Sun, he is the One lustre and all-knowing Light, he is the highest heaven of spirits. With a thousand rays he burneth and existeth in a hundred existences; lo this Sun that riseth, he is the Life of all his creatures.'",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.9",
+    "sanskrit_iast": "saṁvatsaro vai prajāpatiḥ stasyāyane dakṣiṇañcottaraṁ ca | tadye ha vai tadiṣṭāpūrte kṛtamityupāsate te cāndramasameva lokamabhijayante ta eva punarāvartante| tasmādeta ṛṣayaḥ prajākāmā dakṣiṇaṁ pratipadyante | eṣa ha vai rayiryaḥ pitṛyāṇaḥ ||",
+    "meaning": "संवत्सरो वै प्रजापतिः स्तस्यायने दक्षिणञ्चोत्तरं च। तद्ये ह वै तदिष्टापूर्ते कृतमित्युपासते ते चान्द्रमसमेव लोकमभिजयन्ते त एव पुनरावर्तन्ते। तस्मादेत ऋषयः प्रजाकामा दक्षिणं प्रतिपद्यन्ते। एष ह वै रयिर्यः पितृयाणः ॥",
+    "text": "“The year also is that Eternal Father and of the year there are two paths, the northern solstice and the southern. Now they who worship God with the well dug and the oblation offered, deeming these to be righteousness, conquer their heavens of the Moon; these return again to the world of birth. Therefore do the souls of sages who have not yet put from them the desire of offspring, take the way of the southern solstice which is the road of the Fathers. And this also is Matter, the Female.",
+    "mandala": 1,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.10",
+    "sanskrit_iast": "athottareṇa tapasā brahmacaryeṇa śraddhayā vidyayātmānamanviṣyādityamabhijayante | etadvai prāṇānāmāyatanametadamṛtamabhayametat parāyaṇametasmānna punarāvartanta ityeṣa nirodhaḥ| tadeṣa ślokaḥ ||",
+    "meaning": "अथोत्तरेण तपसा ब्रह्मचर्येण श्रद्धया विद्ययात्मानमन्विष्यादित्यमभिजयन्ते। एतद्वै प्राणानामायतनमेतदमृतमभयमेतत्‌ परायणमेतस्मान्न पुनरावर्तन्त इत्येष निरोधः। तदेष श्लोकः ॥",
+    "text": "“But by the way of the northern solstice go the souls that have sought the Spirit through holiness and knowledge and faith and askesis; for they conquer their heavens of the Sun. There is the resting place of the breaths, there immortality casteth out fear, there is the highest heaven of spirits; thence no soul returneth; therefore is the wall and barrier.Whereof this is the Scripture.",
+    "mandala": 1,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.11",
+    "sanskrit_iast": "pañcapādaṁ pitaraṁ dvādaśākṛtiṁ diva āhuḥ pare ardhe purīṣiṇam | atheme anya u pare vicakṣaṇaṁ saptacakre ṣaḍara āhurarpitamiti ||",
+    "meaning": "पञ्चपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणम्‌। अथेमे अन्य उ परे विचक्षणं सप्तचक्रे षडर आहुरर्पितमिति ॥",
+    "text": "“'Five-portioned, some say, is the Father and hath twelve figures and he floweth in the upper hemisphere beyond the heavens; but others speak of him as the Wisdom who standeth in a chariot of six spokes and seven wheels.'",
+    "mandala": 1,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.12",
+    "sanskrit_iast": "māso vai prajāpatistasya kṛṣṇapakśa eva rayiḥ śuklaḥ praṇastasmādeta ṛṣayaḥ śukla iṣṭaṁ kurvantītara itarasmin ||",
+    "meaning": "मासो वै प्रजापतिस्तस्य कृष्णपक्श एव रयिः शुक्लः प्रणस्तस्मादेत ऋषयः शुक्ल इष्टं कुर्वन्तीतर इतरस्मिन्‌ ॥",
+    "text": "“The month also is that Eternal Father, whereof the dark fortnight is Matter the Female and the bright fortnight is Life the Male. Therefore do one manner of sages offer sacrifice in the bright fortnight and another in the dark.",
+    "mandala": 1,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.13",
+    "sanskrit_iast": "ahorātro vai prajāpatistasyāhareva prāṇo rātrireva rayiḥ| prāṇaṁ vā ete praskandanti ye divā ratyā saṁyujyante brahmacaryameva tadyadrātrau ratyā saṁyujyante ||",
+    "meaning": "अहोरात्रो वै प्रजापतिस्तस्याहरेव प्राणो रात्रिरेव रयिः। प्राणं वा एते प्रस्कन्दन्ति ये दिवा रत्या संयुज्यन्ते ब्रह्मचर्यमेव तद्यद्रात्रौ रत्या संयुज्यन्ते ॥",
+    "text": "“Day and night also are the Eternal Father, whereof the day is Life and the night is Matter. Therefore do they offend against their own life who take joy with woman by day; by night who take joy, enact holiness.",
+    "mandala": 1,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.14",
+    "sanskrit_iast": "annaṁ vai prajāpatistato ha vai tadretastasmādimāḥ prajāḥ prajāyanta iti ||",
+    "meaning": "अन्नं वै प्रजापतिस्ततो ह वै तद्रेतस्तस्मादिमाः प्रजाः प्रजायन्त इति ॥",
+    "text": "“Food is the Eternal Father; for of this came the seed and of the seed is the world of creatures born .",
+    "mandala": 1,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.15",
+    "sanskrit_iast": "tadye ha vai tatprajāpativrataṁ caranti te mithunamutpādayante | teṣāmevaiṣa brahmaloko yeṣāṁ tapo brahmacaryaṁ yeṣu satyaṁ pratiṣṭhitam ||",
+    "meaning": "तद्ये ह वै तत्प्रजापतिव्रतं चरन्ति ते मिथुनमुत्पादयन्ते। तेषामेवैष ब्रह्मलोको येषां तपो ब्रह्मचर्यं येषु सत्यं प्रतिष्ठितम्‌ ॥",
+    "text": "“They therefore who perform the vow of the Eternal Father produce the twin creature. But theirs is the heaven of the spirit in whom are established askesis and holiness and in whom Truth has her dwelling.",
+    "mandala": 1,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "1.16",
+    "sanskrit_iast": "teṣāmasau virajo brahmaloko na yeṣu jihmamanṛtaṁ na māyā ceti ||",
+    "meaning": "तेषामसौ विरजो ब्रह्मलोको न येषु जिह्ममनृतं न माया चेति ॥",
+    "text": "“Theirs is the heaven of the Spirit, the world all spotless, in whom there is neither crookedness nor lying nor any illusion.”",
+    "mandala": 1,
+    "hymn": 16,
+    "verse": 16,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.1",
+    "sanskrit_iast": "atha hainaṁ bhārgavo vaidarbhiḥ papraccha | bhagavan katyeva devāḥ prajāṁ vidhārayante katara etatprakāśayante kaḥ punareṣāṁ variṣṭhaḥ iti ||",
+    "meaning": "अथ हैनं भार्गवो वैदर्भिः पप्रच्छ। भगवन्‌ कत्येव देवाः प्रजां विधारयन्ते कतर एतत्प्रकाशयन्ते कः पुनरेषां वरिष्ठः इति ॥",
+    "text": "Then the Bhargava, the Vidarbhan, asked him: “Lord, how many Gods maintain this creature, and how many illumine it, and which of these again is the mightiest?”",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.2",
+    "sanskrit_iast": "tasmai sa hovācākāśo ha vā eṣa devo vāyuragnirāpaḥ pṛthivī vāṅmanaścakṣuḥ śrotraṁ ca | te prakāśyābhivadanti vayametadbāṇamavaṣṭabhya vidhārayāmaḥ |",
+    "meaning": "तस्मै स होवाचाकाशो ह वा एष देवो वायुरग्निरापः पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च। ते प्रकाश्याभिवदन्ति वयमेतद्बाणमवष्टभ्य विधारयामः ॥",
+    "text": "To him answered the Rishi Pippalada: “These are the Gods, even Ether and Wind and Fire and Water and Earth and Speech and Mind and Sight and Hearing. These nine illumine the creature; therefore they vaunted themselves,-We, even we support this harp of God and we are the preservers",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.3",
+    "sanskrit_iast": "tān variṣṭhaḥ prāṇa uvāca | mā mohamāpadyatha ahamevaitatpañcadhātmānaṁ pravibhajyaitadbāṇamavaṣṭabhya vidhārayāmīti te'śraddadhānā babhūvuḥ ||",
+    "meaning": "तान्‌ वरिष्ठः प्राण उवाच। मा मोहमापद्यथ अहमेवैतत्पञ्चधात्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति तेऽश्रद्दधाना बभूवुः ॥",
+    "text": "“Then answered Breath, their mightiest: 'Yield not unto delusion; I dividing myself into this fivefold support this harp of God, I am its preserver.' But they believed him not.",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.4",
+    "sanskrit_iast": "so'bhimānādūrdhvamutkrāmata iva tasminnutkrāmatyathetare sarva evotkrāmante tasmiṁśca pratiṣṭhamāne sarva eva pratiṣṭhante | tadyathā makṣikā madhukararājānamutkrāmantaṁ sarva evotkrāmante tasmiṁśca pratiṣṭhamāne sarva eva pratiṣṭanta evam vāṅmanaṣcakṣuḥ śrotraṁ ca te prītāḥ prāṇaṁ stunvanti ||",
+    "meaning": "सोऽभिमानादूर्ध्वमुत्क्रामत इव तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रतिष्ठन्ते। तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्व एवोत्क्रामन्ते तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रतिष्टन्त एवम्‌ वाङ्मनष्चक्षुः श्रोत्रं च ते प्रीताः प्राणं स्तुन्वन्ति ॥",
+    "text": "“Therefore offended he rose up, he was issuing out from the body. But when the Breath goeth out, then go all the others with him, and when the Breath abideth all the others abide; therefore as bees with the kingbee: when he goeth out all go out with him, and when he abideth all abide, even so was it with Speech and Mind and Sight and Hearing; then were they wellpleased and hymned the Breath to adore him.",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.5",
+    "sanskrit_iast": "eṣo'gnistapatyeṣa sūrya eṣa parjanyo maghavāneṣa vāyuḥ| eṣa pṛthivī rayirdevaḥ sadasaccāmṛtaṁ ca yat ||",
+    "meaning": "एषोऽग्निस्तपत्येष सूर्य एष पर्जन्यो मघवानेष वायुः। एष पृथिवी रयिर्देवः सदसच्चामृतं च यत्‌ ॥",
+    "text": "“'Lo this is he that is Fire and the Sun that burneth, Rain and Indra and Earth and Air, Matter and Deity, Form and Formless, and Immortality.",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.6",
+    "sanskrit_iast": "arā iva rathanābhau prāṇe sarvaṁ pratiṣṭhitam | ṛco yajūṣi sāmāni yajñaḥ kṣatraṁ brahma ca ||",
+    "meaning": "अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम्‌। ऋचो यजूषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥",
+    "text": "“'As the spokes meet in the nave of a wheel, so are all things in the Breath established, the Rigveda and the Yajur and the Sama, and Sacrifice and Brahminhood and Kshatriyahood.",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.7",
+    "sanskrit_iast": "prajāpatiścarasi garbhe tvameva pratijāyase | tubhyaṁ prāṇa prajāstvimā baliṁ haranti yaḥ prāṇaiḥ pratitiṣṭhasi ||",
+    "meaning": "प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे। तुभ्यं प्राण प्रजास्त्विमा बलिं हरन्ति यः प्राणैः प्रतितिष्ठसि ॥",
+    "text": "“As the Eternal Father thou movest in the womb and art born in the likeness of the parents. To thee, O Life, the world of creatures offer the burnt offering, who by the breaths abidest.",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.8",
+    "sanskrit_iast": "devānāmasi vahnitamaḥ pitṛṇāṁ prathamā svadhā | ṛṣīṇāṁ caritaṁ satyamatharvāṅgirasāmasi ||",
+    "meaning": "देवानामसि वह्नितमः पितृणां प्रथमा स्वधा। ऋषीणां चरितं सत्यमथर्वाङ्गिरसामसि ॥",
+    "text": "Of all the Gods thou art the strongest and fiercest and to the fathers thou art the first oblation; thou art the truth and virtue of the sages and thou art Atharvan among the sons of Angiras.",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.9",
+    "sanskrit_iast": "indrastvaṁ prāṇa tejasā rudro'si parirakṣitā | tvamantarikṣe carasi sūryastvaṁ jyotiṣāṁ patiḥ ||",
+    "meaning": "इन्द्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता। त्वमन्तरिक्षे चरसि सूर्यस्त्वं ज्योतिषां पतिः ॥",
+    "text": "“'Thou art Indra, O Breath, by thy splendour and energy and Rudra because thou preservest; thou walkest in the welkin as the Sun, that imperial lustre.",
+    "mandala": 2,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.10",
+    "sanskrit_iast": "yadā tvamabhivarṣasyathemāḥ prāṇa te prajāḥ | ānandarūpāstiṣṭhanti kāmāyānnaṁ bhaviṣyatīti ||",
+    "meaning": "यदा त्वमभिवर्षस्यथेमाः प्राण ते प्रजाः। आनन्दरूपास्तिष्ठन्ति कामायान्नं भविष्यतीति ॥",
+    "text": "“'When thou, O Breath, rainest, thy creatures stand all joy because there shall be grain to the heart's desire.",
+    "mandala": 2,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.11",
+    "sanskrit_iast": "vrātyastvaṁ prāṇaikarṣarattā viśvasya satpatiḥ | vayamādyasya dātāraḥ pitā tvaṁ mātariśva naḥ ||",
+    "meaning": "व्रात्यस्त्वं प्राणैकर्षरत्ता विश्वस्य सत्पतिः। वयमाद्यस्य दातारः पिता त्वं मातरिश्व नः ॥",
+    "text": "“'Thou art, O Breath, the unpurified and thou art Fire, the only purity, the devourer of all and the lord of existences. We are the givers to thee of thy eating; for thou, O Matariswun, art our Father.",
+    "mandala": 2,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.12",
+    "sanskrit_iast": "yā te tanūrvāci pratiṣṭhitā yā śrotre yā ca cakṣuṣi | yā ca manasi santatā śivāṁ tāṁ kurū motkramīḥ ||",
+    "meaning": "या ते तनूर्वाचि प्रतिष्ठिता या श्रोत्रे या च चक्षुषि। या च मनसि सन्तता शिवां तां कुरू मोत्क्रमीः ॥",
+    "text": "“'That body of thine which is established in the speech, sight and hearing, and in the mind is extended, that make propitious; O Life, go not out from our midst!",
+    "mandala": 2,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "2.13",
+    "sanskrit_iast": "prāṇasyedaṁ vaśe sarvaṁ tridive yat pratiṣṭhitam | māteva putrān rakṣasva śrīśca prajñāṁ ca vidhehi na iti ||",
+    "meaning": "प्राणस्येदं वशे सर्वं त्रिदिवे यत्‌ प्रतिष्ठितम्‌। मातेव पुत्रान्‌ रक्षस्व श्रीश्च प्रज्ञां च विधेहि न इति ॥",
+    "text": "“'For all this Universe, yea, all that is established in the heavens to the Breath is subject; guard us as a mother watches over her little children; give us fortune and beauty, give us Wisdom.' ”",
+    "mandala": 2,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.1",
+    "sanskrit_iast": "atha hainaṁ kauśalyaścāśvalāyanaḥ papraccha | bhagavan kuta eṣa prāṇo jāyate kathamāyātyasmiñśarīra ātmānaṁ vā pravibhajya kathaṁ pratiṣṭhate kenotkramate kathaṁ bahyamabhidhate kathamadhyātmamiti ||",
+    "meaning": "अथ हैनं कौशल्यश्चाश्वलायनः पप्रच्छ। भगवन्‌ कुत एष प्राणो जायते कथमायात्यस्मिञ्शरीर आत्मानं वा प्रविभज्य कथं प्रतिष्ठते केनोत्क्रमते कथं बह्यमभिधते कथमध्यात्ममिति ॥",
+    "text": "Then the Koshalan, the son of Ashwala, asked him: “Lord, whence is this Life born? How comes it in this body or how stands by self-division? By what departeth, or how maintaineth the outward and how the inward spiritual?”",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.2",
+    "sanskrit_iast": "tasmai sa houvācātipraścān pṛcchasi brahmiṣṭho'sīti tasmātte'haṁ bravīmi ||",
+    "meaning": "तस्मै स होवाचातिप्रश्चान्‌ पृच्छसि ब्रह्मिष्ठोऽसीति तस्मात्तेऽहं ब्रवीमि ॥",
+    "text": "To him answered the Rishi Pippalada: “Many and difficult things thou askest; but because thou art very holy, therefore will I tell thee.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.3",
+    "sanskrit_iast": "ātmana eṣa prāṇo jāyate yathaiṣā puruṣe chāyaitasminnetadātataṁ manokṛtenāyātyasmiñśarīre ||",
+    "meaning": "आत्मन एष प्राणो जायते यथैषा पुरुषे छायैतस्मिन्नेतदाततं मनोकृतेनायात्यस्मिञ्शरीरे ॥",
+    "text": "“Of the Spirit is this breath of Life born; even as a shadow is cast by a man, so is this Life extended in the Spirit and by the action of the Mind it entereth into this body.",
+    "mandala": 3,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.4",
+    "sanskrit_iast": "yathā samrādevādhikṛtān viniyuṅkte | etan grāmānotān grāmānadhitiṣṭhasvetyevamevaiṣa prāṇa itarān prāṇān pṛthakpṛthageva sannidhatte ||",
+    "meaning": "यथा सम्रादेवाधिकृतान्‌ विनियुङ्क्ते। एतन्‌ ग्रामानोतान्‌ ग्रामानधितिष्ठस्वेत्येवमेवैष प्राण इतरान्‌ प्राणान्‌ पृथक्‌पृथगेव सन्निधत्ते ॥",
+    "text": "“As an Emperor commandeth his officers, and he sayeth to one 'Govern for me these villages', and to another 'Govern for me these others', so this breath, the Life, appointeth the other breaths each in his province.",
+    "mandala": 3,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.5",
+    "sanskrit_iast": "pāyūpasthe'pānaṁ cakṣuḥśrotre mukhanāsikābhyāṁ prāṇaḥ svayaṁ prātiṣṭhate madhye tu samānaḥ | eṣa hyetaddhutamannaṁ samaṁ nayati tasmādetāḥ saptārciṣo bhavanti ||",
+    "meaning": "पायूपस्थेऽपानं चक्षुःश्रोत्रे मुखनासिकाभ्यां प्राणः स्वयं प्रातिष्ठते मध्ये तु समानः। एष ह्येतद्धुतमन्नं समं नयति तस्मादेताः सप्तार्चिषो भवन्ति ॥",
+    "text": "“In the anus and the organ of pleasure is the lower breath, and in the eyes and the ears, the mouth and the nose, the main breath itself is seated; but the medial breath is in the middle. This is he that equally distributeth the burnt offering of food; for from this are the seven fires born.",
+    "mandala": 3,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.6",
+    "sanskrit_iast": "hṛdi hyeṣa ātmā | atraitadekaśataṁ nāḍīnāṁ tāsāṁ śataṁ śatamekaikasyāṁ dvāsaptatirdvāsaptatiḥ pratiśākhānāḍīsahasrāṇi bhavantyāsu vyānaścarati ||",
+    "meaning": "हृदि ह्येष आत्मा। अत्रैतदेकशतं नाडीनां तासां शतं शतमेकैकस्यां द्वासप्ततिर्द्वासप्ततिः प्रतिशाखानाडीसहस्राणि भवन्त्यासु व्यानश्चरति ॥",
+    "text": "“The Spirit in the heart abideth, and in the heart there are one hundred and one nerves, and each nerve hath a hundred branch-nerves and each branch-nerve hath seventy two thousand sub-branch-nerves; through these the breath pervasor moveth.",
+    "mandala": 3,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.7",
+    "sanskrit_iast": "athaikayordhva udānaḥ puṇyena puṇyaṁ lokaṁ nayati| pāpena pāpamubhābhyāmeva manuṣyalokam ||",
+    "meaning": "अथैकयोर्ध्व उदानः पुण्येन पुण्यं लोकं नयति। पापेन पापमुभाभ्यामेव मनुष्यलोकम्‌ ॥",
+    "text": "“Of these many there is one by which the upper breath departeth that by virtue taketh to the heaven of virtue, by sin to the hell of sin, and by mingled sin and righteousness back to the world of men restoreth.",
+    "mandala": 3,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.8",
+    "sanskrit_iast": "ādityo ha vai bāhyaḥ prāṇa udayatyeṣa hyenaṁ cākṣuṣaṁ prāṇamanugṛhṇānaḥ | pṛthivyāṁ yā devatā saiṣā puruṣasyāpānamavaṣṭabhyāntarā yadākāśaḥ sa samāno vāyurvyānaḥ ||",
+    "meaning": "आदित्यो ह वै बाह्यः प्राण उदयत्येष ह्येनं चाक्षुषं प्राणमनुगृह्णानः। पृथिव्यां या देवता सैषा पुरुषस्यापानमवष्टभ्यान्तरा यदाकाशः स समानो वायुर्व्यानः ॥",
+    "text": "“The Sun is the main breath outside this body, for it cherisheth the eye in its rising. The divinity in the earth, she attracteth the lower breath of man, and the ether between is the medial breath; air is the breath pervasor.",
+    "mandala": 3,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.9",
+    "sanskrit_iast": "tejo ha vāva udānastasmādupaśāntatejāḥ punarbhavamindriyairmanasi sampadyamānaiḥ ||",
+    "meaning": "तेजो ह वाव उदानस्तस्मादुपशान्ततेजाः पुनर्भवमिन्द्रियैर्मनसि सम्पद्यमानैः ॥",
+    "text": "“Light, the primal energy, is the upper breath; therefore when the light and heat in a man hath dwindled, his senses retire into themind and with these he departeth into another birth.",
+    "mandala": 3,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.10",
+    "sanskrit_iast": "yaccittastenaiṣa prāṇamāyāti prāṇastejasā yuktaḥ| sahātmanā yathāsaṅkalpitaṁ lokaṁ nayati ||",
+    "meaning": "यच्चित्तस्तेनैष प्राणमायाति प्राणस्तेजसा युक्तः। सहात्मना यथासङ्कल्पितं लोकं नयति ॥",
+    "text": "“Whatsoever be the mind of a man, with that mind he seeketh refuge with the breath when he dieth, and the breath and the upper breath lead him with the Spirit within him to the world of his imaginings.",
+    "mandala": 3,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.11",
+    "sanskrit_iast": "ya evaṁ vidvān prāṇaṁ veda| na hāsya prajā hīyate'mṛto bhavati tadeṣaḥ ślokaḥ ||",
+    "meaning": "य एवं विद्वान्‌ प्राणं वेद। न हास्य प्रजा हीयतेऽमृतो भवति तदेषः श्लोकः ॥",
+    "text": "“The wise man that knoweth thus of the breath, his progeny wasteth not and he becometh immortal. Whereof this is the Scripture.",
+    "mandala": 3,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "3.12",
+    "sanskrit_iast": "utpattimāyatiṁ sthānaṁ vibhutvaṁ caiva pañcadhā | adhyātmaṁ caiva prāṇasya vijñāyāmṛtamaśnute vijñāyāmṛtamaśnuta iti ||",
+    "meaning": "उत्पत्तिमायतिं स्थानं विभुत्वं चैव पञ्चधा। अध्यात्मं चैव प्राणस्य विज्ञायामृतमश्नुते विज्ञायामृतमश्नुत इति ॥",
+    "text": "“'By knowing the origin of the Breath, his coming and his staying and his lordship in the five provinces, likewise his relation to the Spirit, one shall taste immortality.' ”",
+    "mandala": 3,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.1",
+    "sanskrit_iast": "atha hainaṁ sauryāyaṇi gārgyaḥ papraccha | bhagavannetasmin puruṣe kāni svapanti kānyasmiñjāgrati katara eṣa devaḥ svapnān paśyati kasyaitatsukhaṁ bhavati kasminnu sarve sampratiṣṭhitā bhavantīti ||",
+    "meaning": "अथ हैनं सौर्यायणि गार्ग्यः पप्रच्छ। भगवन्नेतस्मिन्‌ पुरुषे कानि स्वपन्ति कान्यस्मिञ्जाग्रति कतर एष देवः स्वप्नान्‌ पश्यति कस्यैतत्सुखं भवति कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति ॥",
+    "text": "Then Gargya of the Solar race asked him, “Lord, what are they that slumber in this Existing and what that keep vigil? Who is this god who seeth dreams or whose is this felicity? Into whom do all they vanish?”",
+    "mandala": 4,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.2",
+    "sanskrit_iast": "tasmai sa hovaca | yatha gārgya marīcayo'rkasyāstaṁ gacchataḥ sarvā etasmiṁstejomaṇḍala ekībhavanti | tāḥ punaḥ punarudayataḥ pracarantyevaṁ ha vai tat sarvaṁ pare deve manasyekībhavati | tena tarhyeṣa puruṣo na śṛṇoti na paśyati na jighrati na rasayate na spṛśate nābhivadate nādatte nānandayate na visṛjate neyāyate svapitītyācakṣate ||",
+    "meaning": "तस्मै स होवाच। यथ गार्ग्य मरीचयोऽर्कस्यास्तं गच्छतः सर्वा एतस्मिंस्तेजोमण्डल एकीभवन्ति। ताः पुनः पुनरुदयतः प्रचरन्त्येवं ह वै तत्‌ सर्वं परे देवे मनस्येकीभवति। तेन तर्ह्येष पुरुषो न शृणोति न पश्यति न जिघ्रति न रसयते न स्पृशते नाभिवदते नादत्ते नानन्दयते न विसृजते नेयायते स्वपितीत्याचक्षते ॥",
+    "text": "2. To him answered the Rishi Pippalada: “O Gargya, as are the rays of the sun in its setting, for they retire and all become one in yonder circle of splendour, but when he riseth again once more they walk abroad, so all the man becomes one in the highest god, even the mind. Then indeed this being seeth not, neither heareth, nor doth he smell, nor taste, nor touch, nor speaketh he aught, nor taketh in or giveth out, nor cometh nor goeth; he feeleth not any felicity. Then they say of him, 'He sleepeth'.",
+    "mandala": 4,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.3",
+    "sanskrit_iast": "prāṇāgraya evaitasmin pure jāgrati | gārhapatyo ha vā eṣo'pāno vyāno'nvāhāryapacano yad gārhapatyāt praṇīyate praṇayanādāhavanīyaḥ prāṇaḥ ||",
+    "meaning": "प्राणाग्रय एवैतस्मिन्‌ पुरे जाग्रति। गार्हपत्यो ह वा एषोऽपानो व्यानोऽन्वाहार्यपचनो यद् गार्हपत्यात्‌ प्रणीयते प्रणयनादाहवनीयः प्राणः ॥",
+    "text": "“But the fires of the breath keep watch in that sleeping city. The lower breath is the householder's fire and the breath pervasor the fire of the Lares that burneth to the southward. The main breath is the orient fire of the sacrifice; and even as the eastern fire taketh its fuel from the western, so in the slumber of a man the main breath taketh from the lower.",
+    "mandala": 4,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.4",
+    "sanskrit_iast": "yaducchvāsaniḥśvāsāvetāvāhutī samaṁ nayatīti sa samānaḥ | mano ha vāva yajamānaḥ iṣṭaphalamevodānaḥ sa enaṁ yajamānamaharaharbrahma gamayati ||",
+    "meaning": "यदुच्छ्वासनिःश्वासावेतावाहुती समं नयतीति स समानः। मनो ह वाव यजमानः इष्टफलमेवोदानः स एनं यजमानमहरहर्ब्रह्म गमयति ॥",
+    "text": "“But the medial breath is the priest, the sacrificant; for he equaliseth the offering of the inbreath and the offering of the outbreath. The Mind is the giver of the sacrifice and the upper breath is the fruit of the sacrifice, for it taketh the sacrificer day by day into the presence of the Eternal.",
+    "mandala": 4,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.5",
+    "sanskrit_iast": "atraiṣa devaḥ svapne mahimānamanubhavati | yad dṛṣṭaṁ dṛṣṭamanupaśyati śrutaṁ śrutamevārthamanuśṛṇoti deśadigantaraiśca pratyanubhūtaṁ punaḥ punaḥ pratyanubhavati dṛṣṭaṁ cādṛṣṭaṁ ca śrutaṁ cāśrutaṁ cānubhūtaṁ cānanubhūtaṁ ca saccāsacca sarvaṁ paśyati sarvaḥ pasyati ||",
+    "meaning": "अत्रैष देवः स्वप्ने महिमानमनुभवति। यद् दृष्टं दृष्टमनुपश्यति श्रुतं श्रुतमेवार्थमनुशृणोति देशदिगन्तरैश्च प्रत्यनुभूतं पुनः पुनः प्रत्यनुभवति दृष्टं चादृष्टं च श्रुतं चाश्रुतं चानुभूतं चाननुभूतं च सच्चासच्च सर्वं पश्यति सर्वः पस्यति ॥",
+    "text": "“Now the Mind in dream revelleth in the glory of his imaginings. All that it hath seen it seemeth to see over again, and of all that it hath heard it repeateth the hearing; yea, all that it hath felt and thought and known in many lands and in various regions, these it liveth over again in its dreaming. What it hath seen and what it hath not seen, what it hath heard and what it hath not heard, what it hath known and what it hath not known, what is and what is not, all, all it seeth; for the Mind is the Universe.",
+    "mandala": 4,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.6",
+    "sanskrit_iast": "sa yadā tejasābhibhūto bhavatyatraiṣa devaḥ svapnān na paśyatyatha yadaitasmiñśarīre etatsukhaṁ bhavati ||",
+    "meaning": "स यदा तेजसाभिभूतो भवत्यत्रैष देवः स्वप्नान् न पश्यत्यथ यदैतस्मिञ्शरीरे एतत्सुखं भवति ॥",
+    "text": "“But when he is overwhelmed with light, then Mind, the God, dreameth no longer; then in this body he hath felicity.",
+    "mandala": 4,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.7",
+    "sanskrit_iast": "sa yathā sobhya vayāṁsi vasovṛkṣaṁ saṁpratiṣṭhante evaṁ ha vai tat sarvaṁ para ātmani saṁpratiṣṭhate||",
+    "meaning": "स यथा सोभ्य वयांसि वसोवृक्षं संप्रतिष्ठन्ते एवं ह वै तत्‌ सर्वं पर आत्मनि संप्रतिष्ठते ॥",
+    "text": "“O fair son, as birds wing towards their resting tree, so do all these depart into the Supreme Spirit:",
+    "mandala": 4,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.8",
+    "sanskrit_iast": "pṛthivī ca pṛthivīmātrā cāpaścāpomātrā ca tejaśca tejomātrā ca vāyuśca vāyumātrā cākāśaścākāśamātrā ca cakṣuśca draṣṭavyaṁ ca śrotraṁ ca śrotavyaṁ ca ghrāṇaṁ ca ghrātavyaṁ ca rasaśca rasayitavyaṁ ca tvakca sparśayitavyaṁ ca vākca vaktavyaṁ ca hastau cādātavyaṁ copasthaścānandayitavyaṁ ca pāyuśca visarjayitavyaṁ ca yādau ca gantavyaṁ ca manaśca mantavyaṁ ca buddhiśca boddhavyaṁ cāhaṁkāraścāhaṁkartavyaṁ ca cittaṁ ca cetayitavyaṁ ca tejaśca vidyotayitavyaṁ ca prāṇaśca vidyārayitavyaṁ ca ||",
+    "meaning": "पृथिवी च पृथिवीमात्रा चापश्चापोमात्रा च तेजश्च तेजोमात्रा च वायुश्च वायुमात्रा चाकाशश्चाकाशमात्रा च चक्षुश्च द्रष्टव्यं च श्रोत्रं च श्रोतव्यं च घ्राणं च घ्रातव्यं च रसश्च रसयितव्यं च त्वक्च स्पर्शयितव्यं च वाक्च वक्तव्यं च हस्तौ चादातव्यं चोपस्थश्चानन्दयितव्यं च पायुश्च विसर्जयितव्यं च यादौ च गन्तव्यं च मनश्च मन्तव्यं च बुद्धिश्च बोद्धव्यं चाहंकारश्चाहंकर्तव्यं च चित्तं च चेतयितव्यं च तेजश्च विद्योतयितव्यं च प्राणश्च विद्यारयितव्यं च ॥",
+    "text": "“Earth and the inner things of earth; water and the inner things of water; light and the inner things of light; air and the inner things of air; ether and the inner things of ether; the eye and its seeings; the ear and its hearings; smell and the objects of smell; taste and the objects of taste; the skin and the objects of touch; speech and the things to be spoken; the two hands and their takings; the organ of pleasure and its enjoyings; the anus and its excretions; the feet and their goings; the mind and its feelings; the intelligence and what it understandeth; the sense of Ego and that which is felt to be Ego; the conscious heart and that of which it is conscious; light and what it lighteneth; Life and the things it maintaineth.",
+    "mandala": 4,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.9",
+    "sanskrit_iast": "eṣa hi draṣṭa spraṣṭā śrotā ghrātā rasayitā mantā boddhā kartā vijñānātmā puruṣaḥ | sa pare'kṣara ātmani saṁpratiṣṭhate ||",
+    "meaning": "एष हि द्रष्ट स्प्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः। स परेऽक्षर आत्मनि संप्रतिष्ठते ॥",
+    "text": "“For this that seeth and toucheth, heareth, smelleth, tasteth, feeleth, understandeth, acteth, is the reasoning self, the Male within. This too departeth into the Higher Self which is Imperishable.",
+    "mandala": 4,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.10",
+    "sanskrit_iast": "paramevākṣaraṁ pratipadyate sa yo ha vai tadacchāyamaśarīramlohitaṁ śubhramakṣaraṁ vedayate yastu somya sa sarvajñaḥ sarvo bhavati tadeṣa ślokaḥ ||",
+    "meaning": "परमेवाक्षरं प्रतिपद्यते स यो ह वै तदच्छायमशरीरम्लोहितं शुभ्रमक्षरं वेदयते यस्तु सोम्य स सर्वज्ञः सर्वो भवति तदेष श्लोकः ॥",
+    "text": "“He that knoweth the shadowless, colourless, bodiless, luminous and imperishable Spirit, attaineth to the Imperishable, even to the Most High. O fair son, he knoweth the All and becometh the All. Whereof this is the Scripture.",
+    "mandala": 4,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "4.11",
+    "sanskrit_iast": "vijñānātmā saha devaiśca sarvaiḥ prāṇā bhutāni saṁpratiṣṭhanti yatra| tadakṣaraṁ vedayate yastu somya sa sarvajñaḥ sarvamevāviveśeti ||",
+    "meaning": "विज्ञानात्मा सह देवैश्च सर्वैः प्राणा भुतानि संप्रतिष्ठन्ति यत्र। तदक्षरं वेदयते यस्तु सोम्य स सर्वज्ञः सर्वमेवाविवेशेति ॥",
+    "text": "“'He, O fair son, that knoweth the Imperishable into whom the understanding self departeth, and all the Gods, and the life-breaths and the elements, he knoweth the Universe!'",
+    "mandala": 4,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "5.1",
+    "sanskrit_iast": "atha hainaṁ saibyaḥ satyakāmaḥ papraccha | sa yo ha vai tad vagavanmanuṣyeṣu prāyaṇāntamoṅkāramabhidhyāyīta katamaṁ vāva sa tena lokaṁ jayatīti ||",
+    "meaning": "अथ हैनं सैब्यः सत्यकामः पप्रच्छ। स यो ह वै तद् वगवन्मनुष्येषु प्रायणान्तमोङ्कारमभिध्यायीत कतमं वाव स तेन लोकं जयतीति ॥",
+    "text": "Then the Shaivya Satyakama asked him: “Lord, he among men that meditate unto death on OM the syllable, which of the worlds doth he conquer by its puissance?”",
+    "mandala": 5,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "5.2",
+    "sanskrit_iast": "tasmai sa hovāca etad vai satyakāma paraṁ cāparaṁ ca brahma yadoṅkāraḥ | tasmād vidvānetenaivāyatanenaikataramanveti ||",
+    "meaning": "तस्मै स होवाच एतद् वै सत्यकाम परं चापरं च ब्रह्म यदोङ्कारः। तस्माद् विद्वानेतेनैवायतनेनैकतरमन्वेति ॥",
+    "text": "To him answered the Rishi Pippalada: “This imperishable Word that is OM, O Satyakama, is the Higher Brahman and also the Lower. Therefore the wise man by making his home in the Word, winneth to one of these.",
+    "mandala": 5,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "5.3",
+    "sanskrit_iast": "sa yadhyekamātramabhidhyāyīta sa tenaiva saṁveditastūrṇameva jagatyābhisaṁpadhyate | tamṛco manuṣyalokamupanayante sa tatra tapasā brahmacaryeṇa śraddhayā saṁpanno mahimānamanubhavati ||",
+    "meaning": "स यध्येकमात्रमभिध्यायीत स तेनैव संवेदितस्तूर्णमेव जगत्याभिसंपध्यते। तमृचो मनुष्यलोकमुपनयन्ते स तत्र तपसा ब्रह्मचर्येण श्रद्धया संपन्नो महिमानमनुभवति ॥",
+    "text": "“If he meditate on the one letter of OM the syllable, by that enlightened he attaineth swiftly in the material universe, and the hymns of the Rigveda escort him to the world of men; there endowed with askesis and faith and holiness he experienceth majesty.",
+    "mandala": 5,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "5.4",
+    "sanskrit_iast": "atha yadi dvimātreṇa manasi saṁpadyate so'ntarikṣaṁ yajurbhirunnīyate somalokam | sa somaloke vibhutimanubhūya punarāvartate ||",
+    "meaning": "अथ यदि द्विमात्रेण मनसि संपद्यते सोऽन्तरिक्षं यजुर्भिरुन्नीयते सोमलोकम्‌। स सोमलोके विभुतिमनुभूय पुनरावर्तते ॥",
+    "text": "“Now if by the two letters of the syllable he in the mind attaineth, to the skies he is exalted and the hymns of the Yajur escort him to the Lunar World. In the heavens of the Moon he feeleth his soul's majesty; then once more he returneth.",
+    "mandala": 5,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "5.5",
+    "sanskrit_iast": "yaḥ punaretaṁ trimātreṇomityetenaivākṣareṇa paraṁ puruṣamabhidhyāyīta sa tejasi sūrye saṁpannaḥ | yathā pādodarastvacā vinirbhucyata evaṁ ha vai sa pāpmanā vinirbhuktaḥ sa sāmabhirunnīyate brahmalokaṁ sa etasmājjīvaghanātparātparaṁ puriśayaṁ puruṣamīkṣate tadetau ślokau bhavataḥ ||",
+    "meaning": "यः पुनरेतं त्रिमात्रेणोमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत स तेजसि सूर्ये संपन्नः। यथा पादोदरस्त्वचा विनिर्भुच्यत एवं ह वै स पाप्मना विनिर्भुक्तः स सामभिरुन्नीयते ब्रह्मलोकं स एतस्माज्जीवघनात्परात्परं पुरिशयं पुरुषमीक्षते तदेतौ श्लोकौ भवतः ॥",
+    "text": "“But he who by all the three letters meditateth by this syllable, even by OM on the Most High Being, he in the Solar World of light and energy is secured in his attainings; as a snake casteth off its slough, so he casteth off sin, and the hymns of the Samaveda escort him to the heaven of the Spirit. He from that Lower who is the density of existence beholdeth the Higher than the Highest of whom every form is one city. Whereof these are the verses.",
+    "mandala": 5,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "5.6",
+    "sanskrit_iast": "tisro mātrā mṛatyumatyaḥ prayuktā anyonyasaktāḥ anaviprayuktāḥ | kriyāsu bāhyāntaramadhyamāsu samyakprayuktāsu na kampate jñaḥ ||",
+    "meaning": "तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्योन्यसक्ताः अनविप्रयुक्ताः। क्रियासु बाह्यान्तरमध्यमासु सम्यक्प्रयुक्तासु न कम्पते ज्ञः ॥",
+    "text": "“'Children of death are the letters when they are used as three, the embracing and the inseparable letters; but the wise man is not shaken; for there are three kinds of works, outward deed and inward action and another which is blended of the two, and all these he doeth rightly without fear and without trembling.",
+    "mandala": 5,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "5.7",
+    "sanskrit_iast": "ṛgbhiretaṁ yajurbhirantarikṣaṁ sāmabhiryattatkavayo vedayante | tamoṁkāreṇaivāyatanenānveti vidvān yattacchāntamajaramamṛtamabhayaṁ paraṁ ceti ||",
+    "meaning": "ऋग्भिरेतं यजुर्भिरन्तरिक्षं सामभिर्यत्तत्कवयो वेदयन्ते। तमोंकारेणैवायतनेनान्वेति विद्वान्‌ यत्तच्छान्तमजरममृतमभयं परं चेति ॥",
+    "text": "“'To the earth the Rigveda leadeth, to the skies the Yajur, but the Sama to That of which the sages know. Thither the wise man by resting on OM the syllable attaineth, even to that Supreme Quietude where age is not and fear is cast out by immortality.' ”",
+    "mandala": 5,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.1",
+    "sanskrit_iast": "atha hainaṁ sukeśā bhāradvājaḥ papraccha - - - bhagavan hiraṇyanābhaḥ kausalyo rājaputro māmupetyaitaṁ praśnamapṛcchata - - ṣoḍaśakalaṁ bhāradvāja puruṣaṁ vettha | tamahaṁ kumārambruvaṁ nāhamimaṁ veda yadhyahamimamavediṣaṁ kathaṁ te nāvakṣyamiti | samūlo vā eṣa pariśuṣyati yo'nṛtamabhivadati| tasmānnārhamyanṛtaṁ vaktum | sa tūṣṇīṁ rathamāruhya pravavrāja | taṁ tvā pṛcchāmi kvāsau puruṣa iti ||",
+    "meaning": "अथ हैनं सुकेशा भारद्वाजः पप्रच्छ - - - भगवन्‌ हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्यैतं प्रश्नमपृच्छत - - षोडशकलं भारद्वाज पुरुषं वेत्थ। तमहं कुमारम्ब्रुवं नाहमिमं वेद यध्यहमिममवेदिषं कथं ते नावक्ष्यमिति। समूलो वा एष परिशुष्यति योऽनृतमभिवदति। तस्मान्नार्हम्यनृतं वक्तुम्‌। स तूष्णीं रथमारुह्य प्रवव्राज। तं त्वा पृच्छामि क्वासौ पुरुष इति ॥",
+    "text": "Then Sukesha the Bharadwaja asked him, “Lord, Hiranyanabha of Koshala, the king's son, came to me and put me this question, 'O Bharadwaja, knowest thou the Being and the sixteen parts of Him?' and I answered the boy, 'I know Him not; for if I knew Him, surely I should tell thee of Him: but I cannot tell thee a lie; for from the roots he shall wither who speaketh falsehood.' But he mounted his chariot in silence and departed from me. Of Him I ask thee, who is the Being?”",
+    "mandala": 6,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.2",
+    "sanskrit_iast": "tasmai sa hovāca | ihaīvāntaḥśarīre sobhya sa puruṣo yasminnatāḥ ṣoḍaśakalāḥ prabhavantīti ||",
+    "meaning": "तस्मै स होवाच। इहैवान्तःशरीरे सोभ्य स पुरुषो यस्मिन्नताः षोडशकलाः प्रभवन्तीति ॥",
+    "text": "To him answered the Rishi Pippalada: “Ofair son, even here is that Being, in the inner body of every creature for in Him are the sixteen members born.",
+    "mandala": 6,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.3",
+    "sanskrit_iast": "sa īkṣāṁcakre | kasminnahamutkrānta utkrānto bhaviṣyāmi kasmin vā pratiṣṭhite pratiṣṭasyāmīti ||",
+    "meaning": "स ईक्षांचक्रे। कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन् वा प्रतिष्ठिते प्रतिष्टस्यामीति ॥",
+    "text": "“He bethought Him. 'What shall that be in whose issuing forth I shall issue forth from the body and in his abiding I shall abide?'",
+    "mandala": 6,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.4",
+    "sanskrit_iast": "sa prāṇamasṛjata| prāṇācchraddhāṁ khaṁ vāyurjyotirāpaḥ pṛthivīndriyaṁ mano'nnamannādvīryaṁ tapo mantrāḥ karmalokā lokeṣu ca nāma ca ||",
+    "meaning": "स प्राणमसृजत। प्राणाच्छ्रद्धां खं वायुर्ज्योतिरापः पृथिवीन्द्रियं मनोऽन्नमन्नाद्वीर्यं तपो मन्त्राः कर्मलोका लोकेषु च नाम च ॥",
+    "text": "“Then he put forth the Life, and from the Life faith, next ether and then air, and then light, and then water, and then earth, the senses and mind and food, and from food virility and from virility askesis, and from askesis the mighty verses and from these action, and the worlds from action and name in the worlds; in this wise were all things born from the Spirit.",
+    "mandala": 6,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.5",
+    "sanskrit_iast": "sa yathemā nadhyaḥ syandamānāḥ samudrāyaṇāḥ samudraṁ prāpyāstaṁ gacchanti bhidhyete tāsāṁ nāmarupe samudra ityevaṁ procyate | evamevāsya paridraṣṭurimāḥ ṣoḍaśakalāḥ puruṣāyaṇāḥ puruṣaṁ prāpyāstaṁ gacchanti bhidhyete cāsāṁ nāmarupe puruṣa ityevaṁ procyate sa eṣo'kalo'mṛto bhavati tadeṣa ślokaḥ ||",
+    "meaning": "स यथेमा नध्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति भिध्येते तासां नामरुपे समुद्र इत्येवं प्रोच्यते। एवमेवास्य परिद्रष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति भिध्येते चासां नामरुपे पुरुष इत्येवं प्रोच्यते स एषोऽकलोऽमृतो भवति तदेष श्लोकः ॥",
+    "text": "“Therefore as all these flowing rivers move towards the sea, but when they reach the sea they are lost in it and name and form break away from them and all is called only the sea, so all the sixteen members of the silent witnessing Spirit move towards the Being, and when they have attained the Being they are lost in Him and name and form break away from them and all is called only the Being; then is He without members and immortal. Whereof this is the Scripture.",
+    "mandala": 6,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.6",
+    "sanskrit_iast": "arā iva rathanābhau kalā yasmin pratiṣṭhitāḥ | taṁ vedhyaṁ puruṣaṁ veda yathā mā vo mṛtyuḥ parivyathā iti ||",
+    "meaning": "अरा इव रथनाभौ कला यस्मिन् प्रतिष्ठिताः। तं वेध्यं पुरुषं वेद यथा मा वो मृत्युः परिव्यथा इति ॥",
+    "text": "“'He in whom the members are set, Him know for the Being who is the goal of knowledge, so shall death pass away from you and his anguish.' ”",
+    "mandala": 6,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.7",
+    "sanskrit_iast": "tān hovācaitāvadevāhametat paraṁ brahma veda | nātaḥ paramastīti ||",
+    "meaning": "तान्‌ होवाचैतावदेवाहमेतत्‌ परं ब्रह्म वेद। नातः परमस्तीति ॥",
+    "text": "And Pippalada said to them: “Thus far do I know the Most High God; than He there is none Higher.”",
+    "mandala": 6,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "prasna_upanishad"
+  },
+  {
+    "reference": "6.8",
+    "sanskrit_iast": "te tamarcayantastvaṁ hi naḥ pitā yo'smākamavidhyāyāḥ paraṁ pāraṁ tārayasīti | namaḥ paramaṛṣibhyo namaḥ paramaṛṣibhyaḥ ||",
+    "meaning": "ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविध्यायाः परं पारं तारयसीति। नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥",
+    "text": "And they worshipping him: “For thou art our father who hast carried us over to the other side of the Ignorance.” Salutation to the mighty sages, salutation!",
+    "mandala": 6,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "prasna_upanishad"
+  }
+]

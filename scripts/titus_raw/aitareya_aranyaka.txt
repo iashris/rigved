@@ -1,0 +1,5943 @@
+[struct] Text: AA
+[struct] Aranyaka: 1
+[text] \\  atʰa   pratʰamāraṇyakam  \\
+[struct] Adhyaya: 1
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] om  \\
+[struct] Sentence: b
+[text] atʰa   mahāvratam  \
+[struct] Sentence: c
+[text] indro   vai   vr̥traṃ   hatvā   mahān   abʰavad .
+[struct] Sentence: d
+[text] ya/n
+[text] mahān   abʰavat ,  tan   mahāvratam   abʰavat .
+[struct] Sentence: e
+[text] tan   mahāvratasya   mahāvratatvam  \
+[struct] Sentence: f
+[text] dve   eta/syāhna
+[text] ājye   kuryād   iti   haika   āhur .
+[struct] Sentence: g
+[text] ekam   iti   tv   eva   stʰitam  \
+[struct] Sentence: h
+[text] pra   vo
+[text] devāyāgnaya
+[text] iti   rāddʰikāmaḥ  \
+[struct] Sentence: i
+[text] viśo-viśo   vo   atitʰim
+[text] iti
+[text] puṣṭikāmaḥ  \
+[struct] Sentence: j
+[text] puṣṭir   vai   viśaḥ .
+[struct] Sentence: k
+[text] puṣṭimān   bʰavatīti  \
+[struct] Sentence: l
+[text] atitʰim   iti
+[text] padaṃ   bʰavati .
+[struct] Sentence: m
+[text] naitat   kuryād   ity   āhur .
+[struct] Sentence: n
+[text] īśvaro   'titʰir   eva   caritoḥ  \
+[struct] Sentence: o
+[text] tad   u
+[text] ha   smāha   kuryād   eva  \
+[struct] Sentence: p
+[text] yo   vai   bʰavati ,  yaḥ   śreṣṭʰatām   aśnute ,  sa   vā   ati/tʰir
+[text] bʰavati  \
+[struct] Sentence: q
+[text] na   vā   asantam   ātitʰyāyādriyante  \
+[struct] Sentence: r
+[text] tasmād   u   kāmam   e/vaitat
+[text] kuryāt  \
+[struct] Sentence: s
+[text] sa   yady   etat   kuryād ,
+[text] āganma   vr̥trahantamam
+[text] ity   etaṃ   tr̥caṃ
+[text] pratʰamaṃ   kuryāt  \
+[struct] Sentence: t
+[text] etad   vā   ahar   īpsantaḥ   saṃvatsaram   āsate .
+[struct] Sentence: u
+[text] ta   āga/cʰanti
+[text] \
+[struct] Sentence: v
+[text] ta   ete   'nuṣṭupśīrṣāṇas   trayas   tr̥cā
+[text] bʰavanti .
+[struct] Sentence: w
+[text] brahma   vai   gāyatrī .
+[struct] Sentence: x
+[text] vāg   anuṣṭub .
+[struct] Sentence: y
+[text] brahmaṇaiva   tad   vācaṃ   saṃdadʰāti  \
+[struct] Sentence: z
+[text] abodʰy   agniḥ   samidʰā
+[text] janānām
+[text] iti   kīrtikāmaḥ  \
+[struct] Sentence: aa
+[text] hotājaniṣṭa   cetana
+[text] iti   prajāpaśu/kāmaḥ
+[text] \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] agniṃ   naro   dīdʰitibʰir   araṇyor
+[text] ity   annādyakāmaḥ  \
+[struct] Sentence: b
+[text] agnir   vā
+[text] annādaḥ  \
+[struct] Sentence: c
+[text] cirataram   iva   vā   itareṣv   ājyeṣv   agnim   āgacʰanty .
+[struct] Sentence: d
+[text] atʰeha   mukʰata
+[text] evāgnim   āgacʰanti .
+[struct] Sentence: e
+[text] mukʰato   'nnādyam   aśnute .
+[struct] Sentence: f
+[text] mukʰataḥ   pāpmānam   apagʰnate  \
+[struct] Sentence: g
+[text] hastacyutī   janayanta -
+[text] -iti   jātavad .
+[struct] Sentence: h
+[text] etasmād   vā   ahno   yajamāno   jāyate .
+[struct] Sentence: i
+[text] tasmāj   jātavat  \
+[struct] Sentence: j
+[text] tāni   catvāri   cʰandāṃsi   bʰavanti .
+[struct] Sentence: k
+[text] catuṣpādā   vai
+[text] paśavaḥ .
+[struct] Sentence: l
+[text] paśūnām   avaruddʰyai  \
+[struct] Sentence: m
+[text] tāni   trīṇi   cʰandāṃsi   bʰavanti .
+[struct] Sentence: n
+[text] trayo   vā
+[text] ime   trivr̥to   lokā .
+[struct] Sentence: o
+[text] eṣām   eva   lokānām   abʰijityai  \
+[struct] Sentence: p
+[text] te   dve   cʰandasī
+[text] bʰavataḥ .
+[struct] Sentence: q
+[text] pratiṣṭʰāyā   eva  \
+[struct] Sentence: r
+[text] dvipratiṣṭʰo   vai   puruṣaś ,  catuṣpādāḥ   paśavo .
+[struct] Sentence: s
+[text] yajamānam   eva   tad   dvipratiṣṭʰaṃ   catuṣpātsu   paśuṣu   pratiṣṭʰāpayati  \
+[struct] Sentence: t
+[text] tāḥ
+[text] parāgvacanena   pañcaviṃśatir   bʰavanti .
+[struct] Sentence: u
+[text] pañcaviṃśo   'yaṃ   puruṣo .
+[struct] Sentence: v
+[text] daśa
+[text] hastyā   aṅgulayo   daśa   pādyā   dvā   ūrū   dvau   bāhū .
+[struct] Sentence: w
+[text] ātmaiva
+[text] pañcaviṃśas .
+[struct] Sentence: x
+[text] tam   imam   ātmānaṃ   pañcaviṃśaṃ   saṃskurute  \
+[struct] Sentence: y
+[text] atʰo   pañcaviṃśaṃ
+[text] vā   etad   ahaḥ .
+[struct] Sentence: z
+[text] pañcaviṃśa   etasyāhna
+[text] etasyāhnaḥ
+[text] stomas .
+[struct] Sentence: aa
+[text] tat   samena   samaṃ   pratipadyate .
+[struct] Sentence: ab
+[text] tasmād   dve   eva   pañcaviṃśatir   bʰavanti  \
+[struct] Sentence: ac
+[text] tās   triḥ   pratʰamayā   trir   uttamayai/kayā
+[text] na   triṃśan ,  nyūnākṣarā   virāṭ  \
+[struct] Sentence: ad
+[text] nyūne   vai   retaḥ   sicyate .
+[struct] Sentence: ae
+[text] nyūne
+[text] prāṇā ,  nyūne   'nnādyaṃ   pratiṣṭʰitam .
+[struct] Sentence: af
+[text] eteṣāṃ   kāmānām   avaruddʰyai  \
+[struct] Sentence: ag
+[text] etā/n
+[text] kāmān   avarundʰe ,  ya   evaṃ   veda  \
+[struct] Sentence: ah
+[text] tā   abʰisaṃpadyante   br̥hatīṃ   ca   virājaṃ
+[text] ca   cʰando ,  yaitasyāhnaḥ   saṃpat   tām ,  atʰo   anuṣṭubʰam .
+[struct] Sentence: ai
+[text] anuṣṭubāyatanāni   hy   ā/jyāni
+[text] \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] gāyatraṃ   praugaṃ   kuryād   ity   āhus .
+[struct] Sentence: b
+[text] tejo   vai   brahmavarcasaṃ   gāyatrī .
+[struct] Sentence: c
+[text] tejasvī   brahmavarcasī   bʰavatīti  \
+[struct] Sentence: d
+[text] auṣṇihaṃ   praugaṃ   kuryād   ity   āhu/r .
+[struct] Sentence: e
+[text] āyur   vā   uṣṇig .
+[struct] Sentence: f
+[text] āyuṣmān   bʰavatīti  \
+[struct] Sentence: g
+[text] ānuṣṭubʰaṃ   praugaṃ   kuryād   ity   āhuḥ .
+[struct] Sentence: h
+[text] kṣatraṃ   vā   anuṣṭup .
+[struct] Sentence: i
+[text] kṣatrasyāptyā   iti  \
+[struct] Sentence: j
+[text] bārhataṃ   praugaṃ   kuryād   ity   āhuḥ .
+[struct] Sentence: k
+[text] śrīr   vai   br̥hatī .
+[struct] Sentence: l
+[text] śrīmān   bʰavatīti  \
+[struct] Sentence: m
+[text] pāṅktaṃ   praugaṃ   kuryād   ity   āhur .
+[struct] Sentence: n
+[text] annaṃ   vai
+[text] paṅktir .
+[struct] Sentence: o
+[text] annavān   bʰavatīti  \
+[struct] Sentence: p
+[text] traiṣṭubʰaṃ   praugaṃ   kuryād   ity   āhur .
+[struct] Sentence: q
+[text] vīryaṃ   vai   triṣṭu/b .
+[struct] Sentence: r
+[text] vīryavān   bʰavatīti  \
+[struct] Sentence: s
+[text] jāgataṃ   praugaṃ   kuryād   ity   āhur .
+[struct] Sentence: t
+[text] jāgatā   vai   paśavaḥ .
+[struct] Sentence: u
+[text] paśumān   bʰavatīti  \
+[struct] Sentence: v
+[text] tad   u   gāyatram   eva   kuryād .
+[struct] Sentence: w
+[text] brahma   vai   gāyatrī .
+[struct] Sentence: x
+[text] brahmaitad   a/har .
+[struct] Sentence: y
+[text] brahmaṇaiva   tad   brahma   pratipadyate  \
+[struct] Sentence: z
+[text] tad   u   mādʰucʰandasam  \
+[struct] Sentence: aa
+[text] madʰu   ha   sma   vā
+[text] r̥ṣibʰyo   madʰucʰandāś   cʰandati .
+[struct] Sentence: ab
+[text] tan   madʰucʰandaso   madʰucʰandastvam  \
+[struct] Sentence: ac
+[text] atʰo
+[text] annaṃ   vai   madʰu .
+[struct] Sentence: ad
+[text] sarvaṃ   vai   madʰu .
+[struct] Sentence: ae
+[text] sarve   vai   kāmā   madʰu .
+[struct] Sentence: af
+[text] tad   yan   mādʰucʰandasaṃ
+[text] śaṃsati ,  sarveṣāṃ   kāmānām   avaruddʰyai  \
+[struct] Sentence: ag
+[text] sarvān   kāmān   avarundʰe ,  ya   evaṃ
+[text] veda  \
+[struct] Sentence: ah
+[text] tad   vaikāhikaṃ   rūpasamr̥ddʰaṃ .
+[struct] Sentence: ai
+[text] bahu   vā   etasminn   ahani   kiñca-kiñca
+[text] vāraṇaṃ   kriyate .
+[struct] Sentence: aj
+[text] śāntyā   eva .
+[struct] Sentence: ak
+[text] śāntir   vai   pratiṣṭʰā -.
+[struct] Sentence: al
+[text] -ekāhaḥśāntyām   eva   tat   pra/tiṣṭʰāyām
+[text] antataḥ   pratitiṣṭʰanti  \
+[struct] Sentence: am
+[text] pratitiṣṭʰati   ya   evaṃ   veda   yeṣāṃ
+[text] caivaṃ   vidvān   etad   dʰotā   śaṃsati  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] vāyav   ā   yāhi   darśata -
+[text] -ime   somā   araṃkr̥tā
+[text] ity .
+[struct] Sentence: b
+[text] etad   vā   ahar   araṃ
+[text] yajamānāya   ca   devebʰyaś   ca  \
+[struct] Sentence: c
+[text] araṃ   hāsmā   etad   ahar   bʰavati ,  ya   evaṃ
+[text] veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: d
+[text] indravāyū   ime   sutā
+[text] ā
+[text] yātam   upa   niṣkr̥tam
+[text] iti .
+[struct] Sentence: e
+[text] yad   vai   niṣkr̥taṃ ,  tat   saṃskr̥tam  \
+[struct] Sentence: f
+[text] ā   hāsyendra/vāyū
+[text] saṃskr̥taṃ   gacʰato ,  ya   evaṃ   veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā
+[text] śaṃsati  \
+[struct] Sentence: g
+[text] mitraṃ   huve   pūtadakṣaṃ
+[text] dʰiyaṃ   gʰr̥tācīṃ   sādʰantā -
+[text] -iti .
+[struct] Sentence: h
+[text] vāg   vai
+[text] dʰīr   gʰr̥tācī  \
+[struct] Sentence: i
+[text] vācam   evāsmiṃs   tad   dadʰāti ,  ya   evaṃ   veda   yeṣāṃ   caivaṃ
+[text] vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: j
+[text] aśvinā   yajvarīr   iṣa
+[text] ity .
+[struct] Sentence: k
+[text] annaṃ   vā   iṣo .
+[struct] Sentence: l
+[text] 'nnādyasyāvaruddʰyai  \
+[struct] Sentence: m
+[text] ā   yātaṃ   rudravartanī
+[text] ity .
+[struct] Sentence: n
+[text] ā   hāsyāśvinau   yajñaṃ
+[text] gacʰato ,  ya   evaṃ   veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: o
+[text] indrā
+[text] yāhi   citrabʰānav
+[text] indrā   yāhi   dʰiyeṣita
+[text] indrā   yāhi   tūtujāna
+[text] ity .
+[struct] Sentence: p
+[text] āyāhy   āyāhīti   śaṃsati  \
+[struct] Sentence: q
+[text] ā   hāsyendro   yajñaṃ   gacʰati ,  ya   evaṃ
+[text] veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: r
+[text] omāsaś   carṣaṇīdʰr̥to
+[text] viśve   devāsa   ā   gata -
+[text] -ity .
+[struct] Sentence: s
+[text] ā   hāsya   viśve   devā   havaṃ   gacʰanti ,  ya   evaṃ   veda
+[text] yeṣāṃ   caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: t
+[text] dāśvāṃso   dāśuṣaḥ
+[text] sutam
+[text] iti   yad   āha ,  daduṣo-daduṣaḥ   sutam   ity   eva   tad   āha  \
+[struct] Sentence: u
+[text] dadati
+[text] hāsmai   taṃ   kāmaṃ   devā ,  yatkāma   etac   cʰaṃsati ,  ya   evaṃ   veda   yeṣāṃ   caivaṃ
+[text] vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: v
+[text] pāvakā   naḥ   sarasvatī
+[text] yajñaṃ   vaṣṭu   dʰiyā/vasur
+[text] iti .
+[struct] Sentence: w
+[text] vāg   vai   dʰiyāvasuḥ  \
+[struct] Sentence: x
+[text] vācam   evāsmiṃs   tad   dadʰāti ,  ya   evaṃ   veda
+[text] yeṣāṃ   caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: y
+[text] yajñaṃ   vaṣṭv   iti   yad   āha ,  yajñaṃ
+[text] vahatv   ity   eva   tad   āha  \
+[struct] Sentence: z
+[text] tāḥ   parāgvacanenaikaviṃśatir   bʰavanty .
+[struct] Sentence: aa
+[text] ekaviṃśo   'yaṃ
+[text] puruṣo .
+[struct] Sentence: ab
+[text] daśa   hastyā   aṅgulayo .
+[struct] Sentence: ac
+[text] daśa   pādyā .
+[struct] Sentence: ad
+[text] ātmaikaviṃśas .
+[struct] Sentence: ae
+[text] tam   imam   ā/tmānam
+[text] ekaviṃśaṃ   saṃskurute  \
+[struct] Sentence: af
+[text] tās   triḥ   pratʰamayā   trir   uttamayā   pañcaviṃ/śatir
+[text] bʰavanti .
+[struct] Sentence: ag
+[text] pañcaviṃśa   ātmā .
+[struct] Sentence: ah
+[text] pañcaviṃśaḥ   prajāpatir .
+[struct] Sentence: ai
+[text] daśa   hastyā
+[text] aṅgulayo .
+[struct] Sentence: aj
+[text] daśa   pādyā .
+[struct] Sentence: ak
+[text] dvā   ūrū .
+[struct] Sentence: al
+[text] dvau   bāhū .
+[struct] Sentence: am
+[text] ātmaiva   pañcaviṃśas .
+[struct] Sentence: an
+[text] ta/m
+[text] imam   ātmānaṃ   pañcaviṃśaṃ   saṃskurute  \
+[struct] Sentence: ao
+[text] atʰo   pañcaviṃśaṃ   vā
+[text] etad   ahaḥ .
+[struct] Sentence: ap
+[text] pañcaviṃśa   etasyāhna   stomas .
+[struct] Sentence: aq
+[text] tat   samena   samaṃ   pratipadyate .
+[struct] Sentence: ar
+[text] tasmād   dve   eva   pañcaviṃśatir   bʰavanti ,  bʰavanti  \\ 4 \\
+[text] \\  ity   aitareyapratʰamāraṇyake   pratʰamo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 2
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] ā   tvā   ratʰaṃ   yatʰotaya
+[text] idaṃ   vaso   sutam   andʰa
+[text] iti   marutvatīyasya
+[text] pratipadanucarau  \
+[struct] Sentence: b
+[text] aikāhikau   rūpasamr̥ddʰau .
+[struct] Sentence: c
+[text] bahu   vā   etasminn   ahani
+[text] kiñca-kiñca   vāraṇaṃ   kriyate .
+[struct] Sentence: d
+[text] śāntyā   eva .
+[struct] Sentence: e
+[text] śāntir   vai   pratiṣṭʰā -.
+[struct] Sentence: f
+[text] -ekāhaḥśā/ntyām
+[text] eva   tat   pratiṣṭʰāyām   antataḥ   pratitiṣṭʰanti  \
+[struct] Sentence: g
+[text] pratitiṣṭḥati   ya   evaṃ
+[text] veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: h
+[text] indra   nedīya   ed   ihi
+[text] pra
+[text] sū   tirā   śacībʰir   ye   ta   uktʰina
+[text] ity .
+[struct] Sentence: i
+[text] uktʰaṃ   vā   etad   ahar .
+[struct] Sentence: j
+[text] uktʰavad   rū/pasamr̥ddʰam
+[text] etasyāhno   rūpam  \
+[struct] Sentence: k
+[text] praitu   brahmaṇas   patir
+[text] accʰā   vīram
+[text] iti .
+[struct] Sentence: l
+[text] vīra/vad
+[text] rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: m
+[text] uttiṣṭʰa   brahmaṇas   pate
+[text] suvīryam
+[text] iti .
+[struct] Sentence: n
+[text] vīryavad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: o
+[text] pra   nūnaṃ   brahmaṇas   patir
+[text] mantraṃ   vada/ty
+[text] uktʰyam
+[text] ity .
+[struct] Sentence: p
+[text] uktʰaṃ   vā   etad   ahar .
+[struct] Sentence: q
+[text] uktʰavad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: r
+[text] agnir   netā
+[text] sa   vr̥trahā -
+[text] -iti .
+[struct] Sentence: s
+[text] vārtragʰnam   indrarūpam .
+[struct] Sentence: t
+[text] aindram   etad   ahar ,  etasyāhno
+[text] rūpam  \
+[struct] Sentence: u
+[text] tvaṃ   soma   kratubʰiḥ   sukratur   bʰūs
+[text] tvaṃ   vr̥ṣā   vr̥ṣatvebʰir   mahitvā -
+[text] -iti .
+[struct] Sentence: v
+[text] vr̥ṣaṇvad   vā   indrasya   rūpam .
+[struct] Sentence: w
+[text] aindram   etad   ahar ,  etasyāhno   rūpam  \
+[struct] Sentence: x
+[text] pinvanty   apo
+[text] 'tyaṃ   na   mihe   vi   nayanti   vājinam
+[text] iti .
+[struct] Sentence: y
+[text] vājimad   vā   indrasya   rūpa/m .
+[struct] Sentence: z
+[text] aindram   etad   ahar ,  etasyāhno   rūpam  \
+[struct] Sentence: aa
+[text] atʰo
+[text] utsaṃ   duhanti   stanayantam   a/kṣitam
+[text] iti .
+[struct] Sentence: ab
+[text] stanayad   vā   indrasya   rūpam .
+[struct] Sentence: ac
+[text] aindram   etad   ahar ,  etasyāhno   rūpam  \
+[struct] Sentence: ad
+[text] pra   va   indrāya   br̥hata
+[text] iti .
+[struct] Sentence: ae
+[text] yad   vai   br̥hat ,  tan   mahan .
+[struct] Sentence: af
+[text] mahadvad   rūpasamr̥ddʰam   etasyāhno
+[text] rūpam  \
+[struct] Sentence: ag
+[text] br̥had   indrāya   gāyata -
+[text] -iti .
+[struct] Sentence: ah
+[text] yad   vai   br̥hat ,  tan   mahan .
+[struct] Sentence: ai
+[text] mahadvad   rūpasamr̥ddʰam   e/tasyāhno
+[text] rūpam  \
+[struct] Sentence: aj
+[text] nakiḥ   sudāso   ratʰaṃ
+[text] pary   āsa   na   rīramad
+[text] iti .
+[struct] Sentence: ak
+[text] paryastavad   rāntimad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: al
+[text] sarvān   pragātʰāñ   cʰaṃsati .
+[struct] Sentence: am
+[text] sarveṣām   ahnām   āptyai ,  sarveṣām   uktʰānāṃ ,  sarveṣāṃ   pr̥ṣṭʰānāṃ ,  sarveṣāṃ   śastrāṇāṃ ,
+[text] sarveṣāṃ   praugāṇāṃ ,  sarveṣāṃ   savanānāṃ  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] asat   su   me   jaritaḥ   sābʰivegaḥ
+[text] satyadʰvr̥tam
+[text] iti   śaṃsati .
+[struct] Sentence: b
+[text] satyaṃ
+[text] vā   etad   ahaḥ .
+[struct] Sentence: c
+[text] satyavad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: d
+[text] tad   u   vāsukraṃ .
+[struct] Sentence: e
+[text] brahma
+[text] vai   vasukro .
+[struct] Sentence: f
+[text] brahmaitad   ahar .
+[struct] Sentence: g
+[text] brahmaṇaiva   tad   brahma   pratipadyate  \
+[struct] Sentence: h
+[text] tad   āhur .
+[struct] Sentence: i
+[text] atʰa   kasmā/d
+[text] vāsukreṇaitan   marutvatīyaṃ   pratipadyata   iti .
+[struct] Sentence: j
+[text] na   ha   vā   etad   anyo   vasu/krān
+[text] marutvatīyam
+[text] maruvatīyam}
+[text] udayacʰan ,  na   vivyāceti .
+[struct] Sentence: k
+[text] tasmād   vāsukreṇaivaitan   marutvatīyaṃ
+[text] pratipadyate  \
+[struct] Sentence: l
+[text] tad   aniruktaṃ   prājāpatyaṃ   śaṃsaty .
+[struct] Sentence: m
+[text] anirukto   vai   prajāpatiḥ .
+[struct] Sentence: n
+[text] prajāpater   āptyai  \
+[struct] Sentence: o
+[text] sakr̥d   indraṃ   nirāha .
+[struct] Sentence: p
+[text] tenaindrād   rūpān   na   pracyavate  \
+[struct] Sentence: q
+[text] pibā
+[text] somam   abʰi   yam   ugra   tarda
+[text] iti   śaṃati  \
+[struct] Sentence: r
+[text] ūrvaṃ   gavyaṃ   mahi   gr̥ṇāna
+[text] indra -
+[text] -iti .
+[struct] Sentence: s
+[text] mahadvad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: t
+[text] tad   u   bʰāradvājaṃ .
+[struct] Sentence: u
+[text] bʰaradvājo
+[text] ha   vā   r̥ṣīṇām   anūcānatamo   dīrgʰajīvitamas   tapasvitama   āsa .
+[struct] Sentence: v
+[text] sa   etena   sūktena   pāpmānam   apāhata .
+[struct] Sentence: w
+[text] tad   yad   bʰāradvājaṃ   śaṃsati ,  pāpmano
+[text] 'pahatyā ,  anūcāno   dīrgʰajīvī   tapasvy   asānīti .
+[struct] Sentence: x
+[text] tasmād   bʰāradvājaṃ
+[text] śaṃsati  \
+[struct] Sentence: y
+[text] kayā   śubʰā   savayasaḥ   sanīl̥ā
+[text] iti   śaṃsati  \
+[struct] Sentence: z
+[text] ā   śāsate
+[text] prati   haryanty   uktʰā -
+[text] -ity .
+[struct] Sentence: aa
+[text] uktʰaṃ   vā   etad   ahar .
+[struct] Sentence: ab
+[text] uktʰavad   rūpasamr̥ddʰam   etasyāhno
+[text] rūpam  \
+[struct] Sentence: ac
+[text] tad   u   kayāśubʰīyam .
+[struct] Sentence: ad
+[text] etad   vai   saṃjñānaṃ   santani   sūktaṃ ,  yat   kayāśu/bʰīyam .
+[struct] Sentence: ae
+[text] etena   ha   vā   indro   'gastyo   marutas   te   samajānata .
+[struct] Sentence: af
+[text] tad   yat   kayāśu/bʰīyaṃ
+[text] śaṃsati ,  saṃjñātyā   eva  \
+[struct] Sentence: ag
+[text] tad   vāyuṣyaṃ .
+[struct] Sentence: ah
+[text] tad   yo   'sya   priyaḥ
+[text] priya
+[text] syāt ,  ku/ryād
+[text] evāsya   kayāśubʰīyam  \
+[struct] Sentence: ai
+[text] marutvāṁ   indra   vr̥ṣabʰo   raṇāya -
+[text] -iti   śaṃsati  \
+[struct] Sentence: aj
+[text] indra   vr̥ṣabʰa   iti ,  vr̥ṣaṇvad   vā   indrasya   rūpam .
+[struct] Sentence: ak
+[text] aindram   etad   ahar ,  etasyāhno
+[text] rūpam  \
+[struct] Sentence: al
+[text] tad   u   vaiśvāmitraṃ .
+[struct] Sentence: am
+[text] viśvasya   ha   vai   mitraṃ
+[text] sitraṃ}
+[text] viśvāmitra   āsa  \
+[struct] Sentence: an
+[text] viśvaṃ   hāsmai   mitraṃ   bʰavati ,  ya   evaṃ   veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā
+[text] śaṃsati  \
+[struct] Sentence: ao
+[text] janiṣṭʰā   ugraḥ   sahase   turāya -
+[text] -iti   nividdʰānam   aikāhikaṃ
+[text] rūpasamr̥ddʰaṃ .  bahu   vā   etasminn   ahani   kiñca-kiñca   vāraṇaṃ   kriyate .
+[struct] Sentence: ap
+[text] śāntyā   eva .
+[struct] Sentence: aq
+[text] śāntir   vai   pratiṣṭʰā -.
+[struct] Sentence: ar
+[text] -ekāhaḥśāntyām   eva   tatpratiṣṭʰāyām   antataḥ
+[text] pratitiṣṭʰanti  \
+[struct] Sentence: as
+[text] pratitiṣṭʰati   ya   evaṃ   veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā
+[text] śaṃsati  \
+[struct] Sentence: at
+[text] tāḥ   parāgvacanena   saptanavatir   bʰavanti .
+[struct] Sentence: au
+[text] sā   yā   navatis ,  ti/sras
+[text] tās   triṃśinyo   virājo .
+[struct] Sentence: av
+[text] 'tʰa   yāḥ   saptātiyanti .
+[struct] Sentence: aw
+[text] yaivaiṣā   praśaṃsā
+[text] sāptyasya ,  tasyā   eva  \
+[struct] Sentence: ax
+[text] tās   triḥ   pratʰamayā   trir   uttamayaikaśataṃ   bʰavanti .
+[struct] Sentence: ay
+[text] pañcāṅgulayaś   catuṣparvā   dve   kakṣasī   doś   cākṣaś   cāṃsapʰalakaṃ   ca ,  sā
+[text] pañcaviṃśatiḥ .
+[struct] Sentence: az
+[text] pañcaviṃśānītarāṇi   hy   aṅgāni .
+[struct] Sentence: ba
+[text] tac   cʰatam .
+[struct] Sentence: bb
+[text] ātmaikaśata/tamaḥ
+[text] \
+[struct] Sentence: bc
+[text] yac   cʰataṃ ,  tad   āyur   indriyaṃ   vīryaṃ   tejo .
+[struct] Sentence: bd
+[text] yajamāna   ekaśatatama .
+[struct] Sentence: be
+[text] āyuṣīndriye   vīrye   tejasi   pratiṣṭʰitaḥ  \
+[struct] Sentence: bf
+[text] tās   triṣṭubʰam   abʰisaṃpadyante .
+[struct] Sentence: bg
+[text] traiṣṭubʰo   hi   madʰyandinaḥ  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] tad   āhuḥ .
+[struct] Sentence: b
+[text] kiṃ   preṅkʰasya   preṅkʰatvam   ity .
+[struct] Sentence: c
+[text] ayaṃ   vai   preṅkʰo ,  yo   'yaṃ   pavata .
+[struct] Sentence: d
+[text] eṣa   hy   eṣu   lokeṣu   preṅkʰata   iti .
+[struct] Sentence: e
+[text] tat   préṅkʰasya   preṅkʰatvam  \
+[struct] Sentence: f
+[text] ekaṃ
+[text] pʰalakaṃ   syād   ity   āhur .
+[struct] Sentence: g
+[text] ekadʰā   hy   evāyaṃ   vāyuḥ   pavate .
+[struct] Sentence: h
+[text] 'sya   rūpeṇeti  \
+[struct] Sentence: i
+[text] tat   tan   nādr̥tyam  \
+[struct] Sentence: j
+[text] trīṇi   pʰalakāni   syur   ity   āhus .
+[struct] Sentence: k
+[text] trayo   vā   ime
+[text] trivr̥to   lokā .
+[struct] Sentence: l
+[text] eṣāṃ   rūpeṇeti  \
+[struct] Sentence: m
+[text] tat   tan   nādr̥tyam  \
+[struct] Sentence: n
+[text] dve   eva   syātāṃ .
+[struct] Sentence: o
+[text] dvau   vā   imau   lokāv   addʰātamāv   iva   dr̥śyete .
+[struct] Sentence: p
+[text] ya   u   ene   antareṇā/kāśaḥ ,
+[text] so   'ntarikṣalokas .
+[struct] Sentence: q
+[text] tasmād   dve   eva   syātām  \
+[struct] Sentence: r
+[text] audumbare   syā/tām .
+[struct] Sentence: s
+[text] ūrg   vā   annādyam   udumbara .
+[struct] Sentence: t
+[text] ūrjo   'nnādyasyāvaruddʰyai  \
+[struct] Sentence: u
+[text] madʰyata   udbʰr̥te
+[text] syātāṃ .
+[struct] Sentence: v
+[text] madʰyato   vai   prajā   annaṃ   dʰinoti .
+[struct] Sentence: w
+[text] madʰyata   eva   tad   annādyasya
+[text] yajamānaṃ   dadʰāti  \
+[struct] Sentence: x
+[text] ubʰayyo   rajjavo   bʰavanti   dakṣiṇāś   ca   savyāś   ca .
+[struct] Sentence: y
+[text] dakṣiṇā   vā   ekeṣāṃ   paśūnāṃ   rajjavaḥ ,  savyā   ekeṣāṃ .
+[struct] Sentence: z
+[text] tad   yad   ubʰayyo
+[text] rajjavo   bʰavanty ,  ubʰayeṣāṃ   paśūnām   āptyai  \
+[struct] Sentence: aa
+[text] dārbʰyaḥ
+[text] dārbʰya
+[text] syur .
+[struct] Sentence: ab
+[text] darbʰo   vā   oṣa/dʰīnām
+[text] apahatapāpmā .
+[struct] Sentence: ac
+[text] tasmād   dārbʰyaḥ   syuḥ  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] aratnimātra   upari   bʰūmeḥ   preṅkʰaḥ
+[text] preṅkʰa
+[text] syād   ity   āhur .
+[struct] Sentence: b
+[text] etāvatā   vai
+[text] svargā   lokāḥ   saṃmitā   iti  \
+[struct] Sentence: c
+[text] tat   tan   nādr̥tyam  \
+[struct] Sentence: d
+[text] prādeśamātre   syā/d
+[text] ity   āhur .
+[struct] Sentence: e
+[text] etāvatā   vai   prāṇāḥ   saṃmitā   iti  \
+[struct] Sentence: f
+[text] tat   tan   nādr̥tyam  \
+[struct] Sentence: g
+[text] muṣṭi/mātre
+[text] syād .
+[struct] Sentence: h
+[text] etāvatā   vai   sarvam   annādyaṃ   kriyata .
+[struct] Sentence: i
+[text] etāvatā   sarvam   annādya/m
+[text] abʰipannaṃ .
+[struct] Sentence: j
+[text] tasmān   muṣṭimātra   eva   syāt  \
+[struct] Sentence: k
+[text] purastāt   pratyañcaṃ   preṅkʰam   adʰi/rohed
+[text] ity   āhur .
+[struct] Sentence: l
+[text] etasya   rūpeṇa ,  ya   eṣa   tapati .
+[struct] Sentence: m
+[text] purastād   dʰy   eṣa   imāṁl   lokān   pra/tyaṅṅ
+[text] adʰirohatīti  \
+[struct] Sentence: n
+[text] tat   tan   nādr̥tyam  \
+[struct] Sentence: o
+[text] tiryañcam   adʰirohed   ity   āhus .
+[struct] Sentence: p
+[text] tiryañcaṃ
+[text] vā   aśvam   adʰirohanti ,  teno   sarvān   kāmān   avāpnavāmeti  \
+[struct] Sentence: q
+[text] tat   tan   nā/dr̥tyam
+[text] \
+[struct] Sentence: r
+[text] anvañcam   adʰirohed   ity   āhur .
+[struct] Sentence: s
+[text] anūcīṃ   vai   nāvam   adʰirohanti .
+[struct] Sentence: t
+[text] nau/r
+[text] vaiṣā   svargayāṇī ,  yat   preṅkʰa   iti .
+[struct] Sentence: u
+[text] tasmād   anvañcam   evādʰirohet  \
+[struct] Sentence: v
+[text] cʰuvuke/nopaspr̥śec .
+[struct] Sentence: w
+[text] cʰuko   haivaṃ   vr̥kṣam   adʰirohati .
+[struct] Sentence: x
+[text] sa   u   vayasām   annādatama   iti .
+[struct] Sentence: y
+[text] tasmāc   cʰuvukenopaspr̥śet  \
+[struct] Sentence: z
+[text] bāhubʰyām   adʰirohed .
+[struct] Sentence: aa
+[text] evaṃ   śyeno   vayāṃsy   abʰi/niviśata ,
+[text] evaṃ   vr̥kṣaṃ .
+[struct] Sentence: ab
+[text] sa   u   vayasāṃ   vīryavattama   iti .
+[struct] Sentence: ac
+[text] tasmād   bāhu/bʰyām
+[text] adʰirohet  \
+[struct] Sentence: ad
+[text] asyai   pādaṃ   noccʰindyān ,  ned   asyai   pratiṣṭʰāyā   uccʰidyā
+[text] iti .
+[struct] Sentence: ae
+[text] preṅkʰaṃ   hotādʰirohaty ,  audumbarīm   āsandīm   udgātā .
+[struct] Sentence: af
+[text] vr̥ṣā   vai   preṅkʰo
+[text] ,  yoṣāsandī .
+[struct] Sentence: ag
+[text] tan   mitʰunaṃ .
+[struct] Sentence: ah
+[text] mitʰunam   eva   tad   uktʰamukʰe   karoti .
+[struct] Sentence: ai
+[text] prajātyai  \
+[struct] Sentence: aj
+[text] prajāyate   prajayā   paśubʰir   ya   evaṃ   veda  \
+[struct] Sentence: ak
+[text] atʰānnaṃ   vai   preṅkʰaḥ
+[text] preṅkʰa
+[text] śrīr   ā/sandy .
+[struct] Sentence: al
+[text] annaṃ   caiva   tac   cʰriyaṃ   cānvadʰirohataḥ  \
+[struct] Sentence: am
+[text] br̥sīr   hotrakāḥ   samadʰi/rohanti
+[text] sabrahmakāḥ  \
+[struct] Sentence: an
+[text] samutsr̥pya   vā   oṣadʰivanaspatayaḥ   pʰalaṃ
+[text] gr̥hṇanti .
+[struct] Sentence: ao
+[text] tad   yad   etasminn   ahani   sarvaśaḥ   samadʰirohantīṣam   eva   tad   ūrja/m
+[text] annādyam   adʰirohanty .
+[struct] Sentence: ap
+[text] ūrjo   'nnādyasyāvaruddʰyai  \
+[struct] Sentence: aq
+[text] vaṣaṭkr̥tyāvarohed   ity   āhuḥ  \
+[struct] Sentence: ar
+[text] tat   tan   nādr̥tyam  \
+[struct] Sentence: as
+[text] akr̥tā   vai   sāpacitir ,  yām   apaśyate   karoti  \
+[struct] Sentence: at
+[text] nigr̥hya
+[text] bʰakṣam   avarohed   ity   āhuḥ  \
+[struct] Sentence: au
+[text] tat   tan   nādr̥tyam  \
+[struct] Sentence: av
+[text] akr̥tā   vai   sāpacitir ,  yā/m
+[text] adʰyr̥ṣṭāya   karoti  \
+[struct] Sentence: aw
+[text] pratikʰyāya   bʰakṣam   avarohed .
+[struct] Sentence: ax
+[text] eṣā   vā   apaci/tir ,
+[text] yāṃ   paśyate   karoti .
+[struct] Sentence: ay
+[text] tasmāt   pratikʰyāyaiva   bʰakṣam   avarohet  \
+[struct] Sentence: az
+[text] prāṅ   avarohet  \
+[struct] Sentence: ba
+[text] prāg   vai   devaretasaṃ   prajāyate .
+[struct] Sentence: bb
+[text] tasmāt   prāṅ   avarohed ,  ava/rohet
+[text] \\ 4 \\
+[text] \\  ity   aitareyapratʰamāraṇyake   dvitīyo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 3
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] hiṅkāreṇaitad   ahaḥ   pratipadyetety   āhuḥ  \
+[struct] Sentence: b
+[text] brahma   vai   hiṅkāro .
+[struct] Sentence: c
+[text] brahmaita/d
+[text] ahar .
+[struct] Sentence: d
+[text] brahmaṇaiva   tad   brahma   pratipadyate   ya   evaṃ   veda  \
+[struct] Sentence: e
+[text] yad   eva   hiṅkāreṇa
+[text] pratipadyatā3i .
+[struct] Sentence: f
+[text] vr̥ṣā   vai   hiṅkāro ,  yoṣark .
+[struct] Sentence: g
+[text] tan   mitʰunaṃ .
+[struct] Sentence: h
+[text] mitʰunam   eva
+[text] tad   uktʰamukʰe   karoti
+[struct] Sentence: i
+[text] prajātyai  \
+[struct] Sentence: j
+[text] prajāyate   prajayā   paśubʰir   ya   evaṃ
+[text] veda  \
+[struct] Sentence: k
+[text] yad   v   eva   hiṅkāreṇa   pratipadyatā3i .
+[struct] Sentence: l
+[text] yatʰā   vā   abʰrir ,  evaṃ   brahmaṇo
+[text] hiṅkāro .
+[struct] Sentence: m
+[text] yad   vai   kiñcābʰriyābʰititr̥tsaty ,  abʰy   evaitat   tr̥ṇatty   evam  \
+[struct] Sentence: n
+[text] yaṃ   kāmaṃ
+[text] kāmayate ,  hiṅkāreṇābʰy   evainaṃ   tr̥ṇatti   ya   evaṃ   veda  \
+[struct] Sentence: o
+[text] yad   v   eva   hiṅkāreṇa
+[text] pratipadyatā3i .
+[struct] Sentence: p
+[text] vāco   vā   eṣā   vyāvr̥ttir   daivyai   ca   mānuṣyai   ca ,  yad   dʰi/ṅkāraḥ
+[text] \
+[struct] Sentence: q
+[text] sa   yad   dʰiṅkr̥tya   pratipadyate ,  vācam   eva   tad   vyāvartayati   daivīṃ
+[text] ca   mānuṣīṃ   ca  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] tad   āhuḥ .
+[struct] Sentence: b
+[text] kaitasyāhnaḥ   pratipad   iti  \
+[struct] Sentence: c
+[text] manaś   ca   vāk   ceti   brūyāt  \
+[struct] Sentence: d
+[text] sarve   'nyasmin   kāmāḥ
+[text] kāmā
+[text] śritāḥ .
+[struct] Sentence: e
+[text] sarvān   anyā   kāmān   duhe  \
+[struct] Sentence: f
+[text] manasi   vai
+[text] sarve   kāmāḥ   śritā .
+[struct] Sentence: g
+[text] manasā   hi   sarvān   kāmān   dʰyāyati  \
+[struct] Sentence: h
+[text] sarve
+[text] hāsmin   kāmāḥ   śrayante   ya   evaṃ   veda  \
+[struct] Sentence: i
+[text] vāg   vai   sarvān   kāmān   duhe .
+[struct] Sentence: j
+[text] vācā
+[text] hi   sarvān   kāmān   vadati  \
+[struct] Sentence: k
+[text] sarvān   hāsmai   kāmān   vāg   duhe ,  ya   evaṃ   veda  \
+[struct] Sentence: l
+[text] tad   āhur .
+[struct] Sentence: m
+[text] naitad   ahar   r̥cā   na   yajūṣā   na   sāmnā   pratyakṣāt   pratipadyeta .
+[struct] Sentence: n
+[text] narco
+[text] na   yajuṣo   na   sāmna   iyād   iti  \
+[struct] Sentence: o
+[text] tad   etā   eva   vyāhr̥tīḥ   purastā/j
+[text] japet  \
+[struct] Sentence: p
+[text] bʰūr   bʰuvaḥ
+[text] bʰuva
+[text] svar   ity   etā   vāva   vyāhr̥taya .
+[struct] Sentence: q
+[text] ime   trayo   vedā .
+[struct] Sentence: r
+[text] bʰūr   ity   eva   r̥gvedo .
+[struct] Sentence: s
+[text] bʰuva   iti   yajurvedaḥ .
+[struct] Sentence: t
+[text] svar   iti   sāmavedaḥ  \
+[struct] Sentence: u
+[text] tan   narcā
+[text] na   yajuṣā   na   sāmnā   pratyakṣāt   pratipadyate .
+[struct] Sentence: v
+[text] narco   na   yajuṣo   na   sāmna
+[text] eti  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] tad   iti   pratipadyate .
+[struct] Sentence: b
+[text] tat   tad   iti   vā   annam .
+[struct] Sentence: c
+[text] annam   eva   tad   abʰiprati/padyate
+[text] \
+[struct] Sentence: d
+[text] etāṃ   vāva   prajāpatiḥ   pratʰamāṃ   vācaṃ   vyāharad   ekākṣaradvya/kṣarāṃ
+[text] tateti   tāteti  \
+[struct] Sentence: e
+[text] tatʰaivaitat   kumāraḥ   pratʰamavādī   vācaṃ   vyāhara/ty
+[text] ekākṣaradvyakṣarāṃ   tateti   tāteti  \
+[struct] Sentence: f
+[text] tayaiva   tat   tatavatyā   vācā   prati/padyate
+[text] \
+[struct] Sentence: g
+[text] tad   uktam   r̥ṣiṇā .
+[struct] Sentence: h
+[text] br̥haspate   pratʰamaṃ   vāco   agram
+[text] ity .
+[struct] Sentence: i
+[text] etad   dʰy   eva
+[text] pratʰamaṃ   vāco   agram  \
+[struct] Sentence: j
+[text] yat   prairata   nāmadʰeyaṃ   dadʰānā
+[text] iti .
+[struct] Sentence: k
+[text] vācā   hi
+[text] nāmadʰeyāni   dʰīyante  \
+[struct] Sentence: l
+[text] yad   eṣāṃ   śreṣṭʰaṃ   yad   aripram   āsīd
+[text] ity .
+[struct] Sentence: m
+[text] etad   dʰy   eva   śreṣṭʰam   e/tad
+[text] aripram  \
+[struct] Sentence: n
+[text] preṇā   tad   eṣāṃ   nihitaṃ   guhāvir
+[text] iti -.
+[struct] Sentence: o
+[text] -idam   u   ha   guhādʰyātma/m .
+[struct] Sentence: p
+[text] imā   devatā .
+[struct] Sentence: q
+[text] ada   u   āvir   adʰidaivatam .
+[struct] Sentence: r
+[text] ity   etat   tad   uktaṃ   bʰavati  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] tad   id   āsa   bʰuvaneṣu   jyeṣṭʰam
+[text] iti   pratipadyata .
+[struct] Sentence: b
+[text] etad   vāva   bʰuvaneṣu
+[text] jyeṣṭʰam  \
+[struct] Sentence: c
+[text] yato   jajña   ugras   tveṣanr̥mṇa
+[text] ity .
+[struct] Sentence: d
+[text] ato   hy   eṣa   jāta   ugras   tve/ṣanr̥mṇaḥ
+[text] \
+[struct] Sentence: e
+[text] sadyo   jajñāno   ni   riṇāti   śatrūn
+[text] iti .
+[struct] Sentence: f
+[text] sadyo   hy   eṣa
+[text] jātaḥ   pāpmānam   apāhata  \
+[struct] Sentence: g
+[text] anu   yaṃ   viśve   madanty   ūmā
+[text] iti .
+[struct] Sentence: h
+[text] bʰūtāni
+[text] vai   viśva   ūmās .
+[struct] Sentence: i
+[text] ta   enam   anumadanty ,  udagād   udagād   iti  \
+[struct] Sentence: j
+[text] vāvr̥dʰānaḥ
+[text] śavasā   bʰūryojā
+[text] iti .
+[struct] Sentence: k
+[text] eṣa   vai   vāvr̥dʰānaḥ   śavasā   bʰūryojāḥ  \
+[struct] Sentence: l
+[text] śatrur   dāsāya   bʰiyasaṃ   dadʰāti
+[text] -iti .
+[struct] Sentence: m
+[text] sarvaṃ   hy   etasmād   bībʰāya  \
+[struct] Sentence: n
+[text] avyanac   ca
+[text] vyanac   ca   sasni -
+[text] -iti .
+[struct] Sentence: o
+[text] yac   ca   prāṇi   yac   cāprāṇakam   ity   eva   tad   āha  \
+[struct] Sentence: p
+[text] saṃ   te
+[text] navanta   prabʰr̥tā   madeṣv
+[text] iti .
+[struct] Sentence: q
+[text] tava   sarvaṃ   vaśa   ity   eva   tad   āha  \
+[struct] Sentence: r
+[text] tve
+[text] kratum   api   vr̥ñjanti   viśva
+[text] iti .
+[struct] Sentence: s
+[text] tvayīmāni   sarvāṇi   bʰūtāni
+[text] sarvāṇi   manāṃsi   sarve   kratavo   'pi   vr̥ñjantīty   eva   tad   āha  \
+[text] dvir   yad   ete
+[text] trir   bʰavanty   ūmā
+[text] iti .
+[struct] Sentence: t
+[text] dvau   vai   santau   mitʰunau   prajāyete .
+[struct] Sentence: u
+[text] prajātyai  \
+[struct] Sentence: v
+[text] prajāyate   prajayā   paśubʰir   ya   evaṃ   veda  \
+[struct] Sentence: w
+[text] svādoḥ   svādīyaḥ   svādunā
+[text] sr̥jā   sam
+[text] iti .
+[struct] Sentence: x
+[text] mitʰunaṃ   vai   svādu ,  prajā   svādu .
+[struct] Sentence: y
+[text] mitʰunenaiva   tat   prajāṃ
+[text] saṃsr̥jati  \
+[struct] Sentence: z
+[text] adaḥ   su   madʰu   madʰunābʰi   yodʰīr
+[text] iti .
+[struct] Sentence: aa
+[text] mitʰunaṃ   vai   madʰu
+[text] ,  prajā   madʰu .
+[struct] Sentence: ab
+[text] mitʰunenaiva   tat   prajām   abʰiyudʰyati  \
+[struct] Sentence: ac
+[text] tad   uktam   r̥ṣiṇā  \
+[struct] Sentence: ad
+[text] svāṃ
+[text] yat   tanūṃ   tanvām   airayata -
+[text] -ity .
+[struct] Sentence: ae
+[text] asyāṃ   śārīryām   imāṃ   cʰandomayīm   ity   eva   tad   āha  \
+[struct] Sentence: af
+[text] atʰo   tanūr   eva   tanvo   astu   bʰeṣajam
+[text] ity .
+[struct] Sentence: ag
+[text] asyai   śārīryā   iyaṃ   cʰandoma/yīty
+[text] eva   tad   āda  \
+[struct] Sentence: ah
+[text] tasyai   yāny   aṣṭāv ,  akṣarāṇi   sā   gāyatrī .
+[struct] Sentence: ai
+[text] yāny   ekādaśa
+[text] ,  sā   triṣṭub .
+[struct] Sentence: aj
+[text] yāni   dvādaśa ,  sā   jagaty .
+[struct] Sentence: ak
+[text] atʰa   yāni   daśa ,  sā   virāṭ .
+[struct] Sentence: al
+[text] daśiny   eṣu
+[text] triṣu   cʰandaḥsu   pratiṣṭʰitā  \
+[struct] Sentence: am
+[text] puruṣa   iti   tryakṣaraṃ .
+[struct] Sentence: an
+[text] sa   u   virāji  \
+[struct] Sentence: ao
+[text] etāni   vāva   sarvāṇi   cʰandāṃsi ,  yāny   etāni   virāṭcaturtʰāny
+[struct] Sentence: ap
+[text] evam   u
+[text] haivaivaṃ   viduṣa   etad   ahaḥ   sarvaiś   cʰandobʰiḥ   pratipannaṃ   bʰavati  \\ 4 \\
+[struct] Paragraph: 5
+[struct] Sentence: a
+[text] tā   nadena   viharati  \
+[struct] Sentence: b
+[text] puruṣo   vai   nadas .
+[struct] Sentence: c
+[text] tasmāt   puruṣo   vadan   sarvaḥ
+[text] saṃnadatīva  \
+[struct] Sentence: d
+[text] nadaṃ   va   odatīnām
+[text] itī3ṁ .
+[struct] Sentence: e
+[text] āpo   vā   odatyo ,  yā
+[text] divyās .
+[struct] Sentence: f
+[text] tā   hīdaṃ   sarvam   undanty .
+[struct] Sentence: g
+[text] āpo   vā   odatyo ,  yā   mukʰyās .
+[struct] Sentence: h
+[text] tā   hīdaṃ
+[text] sarvam   annādyam   undanti  \
+[struct] Sentence: i
+[text] nadaṃ   yoyuvatīnām
+[text] itī3ṁ .
+[struct] Sentence: j
+[text] āpo   vāva
+[text] yoyuvatyo ,  yā   antarikṣyās .
+[struct] Sentence: k
+[text] tā   hi   poplūyanta   iva -.
+[struct] Sentence: l
+[text] -āpo   vāva   yoyu/vatyo ,
+[text] yāḥ   svedate .
+[struct] Sentence: m
+[text] tā   hi   sarīsr̥pyanta   iva  \
+[struct] Sentence: n
+[text] patiṃ   vo   agʰnyānā/m
+[text] itī3ṁ .
+[struct] Sentence: o
+[text] āpo   vā   agʰnyā ,  yā   agner   dʰūmāj   jāyanta .
+[struct] Sentence: p
+[text] āpo   vā
+[text] agʰnyā ,  yā   śiśnāt   prasr̥jyante  \
+[struct] Sentence: q
+[text] dʰenūnām   iṣudʰyasi -
+[text] -itī3ṁ .
+[struct] Sentence: r
+[text] āpo   vāva
+[text] dʰenavas .
+[struct] Sentence: s
+[text] tā   hīdaṃ   sarvaṃ   dʰinvanti -
+[struct] Sentence: t
+[text] -iṣudʰyasīti   yad   āha ,  patīyasīty   eva
+[text] tad   āha  \
+[struct] Sentence: u
+[text] triṣṭubʰaṃ   cānuṣṭubʰaṃ   ca   viharati .
+[struct] Sentence: v
+[text] vr̥ṣā   vai   triṣṭub ,  yoṣānuṣṭup .
+[struct] Sentence: w
+[text] ta/n
+[text] mitʰunaṃ .
+[struct] Sentence: x
+[text] tasmād   api   puruṣo   jāyāṃ   vittvā   kr̥tsnataram   ivātmānaṃ
+[text] manyate  \
+[struct] Sentence: y
+[text] tās   triḥ   pratʰamayā   pañcviṃśatir   bʰavanti .
+[struct] Sentence: z
+[text] pañcaviṃśa   ātmā .
+[struct] Sentence: aa
+[text] pañcaviṃśaḥ   prajāpatir .
+[struct] Sentence: ab
+[text] daśa   hastyā   aṅgulayo .
+[struct] Sentence: ac
+[text] daśa   pādyā .
+[struct] Sentence: ad
+[text] dvā
+[text] ūrū .
+[struct] Sentence: ae
+[text] dvau   bāhū .
+[struct] Sentence: af
+[text] ātmaiva   pañcaviṃśas .
+[struct] Sentence: ag
+[text] tam   imam   ātmānaṃ   pañcaviṃśaṃ
+[text] saṃskurute  \
+[struct] Sentence: ah
+[text] atʰo   pañcviṃśaṃ   vā   etad   ahaḥ .
+[struct] Sentence: ai
+[text] pañcaviṃśa   etasyāhna
+[text] stomas .
+[struct] Sentence: aj
+[text] tat   samena   samaṃ   pratipadyate .
+[struct] Sentence: ak
+[text] tasmād   dve   eva   pañcaviṃśatir   bʰa/vanti
+[text] \\ 5 \\
+[struct] Paragraph: 6
+[struct] Sentence: a
+[text] tad   iti   pratipadyate .
+[struct] Sentence: b
+[text] tat   tad   iti   vā   annam .
+[struct] Sentence: c
+[text] annam   eva   tad   abʰiprati/padyate
+[text] \
+[struct] Sentence: d
+[text] etāṃ   vāva   prajāpatiḥ   pratʰamāṃ   vācaṃ   vyāharad   ekākṣara/dvyakṣarāṃ
+[text] tateti   tāteti  \
+[struct] Sentence: e
+[text] tatʰaivaitat   kumāraḥ   pratʰamavādī   vācaṃ
+[text] vyāharaty   ekākṣaradvyakṣarāṃ   tateti   tāteti  \
+[struct] Sentence: f
+[text] tayaiva   tat   tatavatyā   vācā
+[text] pratipadyate  \
+[struct] Sentence: g
+[text] tad   uktam   r̥ṣiṇā .
+[struct] Sentence: h
+[text] br̥haspate   pratʰamaṃ   vāco   agram
+[text] ity .
+[struct] Sentence: i
+[text] e/tad
+[text] dʰy   eva   pratʰamaṃ   vāco   agram  \
+[struct] Sentence: j
+[text] yat   prairata   nāmadʰeyaṃ   dadʰānā
+[text] iti .
+[struct] Sentence: k
+[text] vācā   hi   nāmadʰeyāni   dʰīyante  \
+[struct] Sentence: l
+[text] yad   eṣāṃ   śreṣṭʰaṃ   yad   aripram   āsī/d
+[text] ity .
+[struct] Sentence: m
+[text] etad   dʰy   eva   śreṣṭʰam   etad   aripram  \
+[struct] Sentence: n
+[text] preṇā   tad   eṣāṃ   nihitaṃ   guhāvir
+[text] i/ti -.
+[struct] Sentence: o
+[text] -idam   u   ha   guhādʰyātmam .
+[struct] Sentence: p
+[text] imā   devatā .
+[struct] Sentence: q
+[text] ada   u   āvir   adʰidaivatam .
+[struct] Sentence: r
+[text] ity   e/tat
+[text] tad   uktaṃ   bʰavati  \\ 6 \\
+[struct] Paragraph: 7
+[struct] Sentence: a
+[text] tad   id   āsa   bʰuvaneṣu   jyeṣṭʰam
+[text] iti   pratipadyate .
+[struct] Sentence: b
+[text] yad   vai   jyeṣṭʰaṃ ,  tan   mahan .
+[struct] Sentence: c
+[text] ma/hadvad
+[text] rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: d
+[text] tāṃ   su   te   kīrtiṃ   magʰavan   ma/hitvā -
+[text] -iti .
+[struct] Sentence: e
+[text] mahadvad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: f
+[text] bʰūya   id   vāvr̥dʰe   vīryā/ya -
+[text] -iti .
+[struct] Sentence: g
+[text] vīryavad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: h
+[text] nr̥ṇām   u   tvā   nr̥tamaṃ   gīrbʰi/r
+[text] uktʰair
+[text] ity .
+[struct] Sentence: i
+[text] uktʰaṃ   vā   etad   ahar .
+[struct] Sentence: j
+[text] uktʰavad   rūpasamr̥ddʰam   etasyāhno   rūpam  \
+[struct] Sentence: k
+[text] nyūnākṣare   pratʰame   pade   viharati .
+[struct] Sentence: l
+[text] nyūne   vai   retaḥ   sicyate .
+[struct] Sentence: m
+[text] nyūne   prāṇā
+[text] ,  nyūne   'nnādyaṃ   pratiṣṭʰitam .
+[struct] Sentence: n
+[text] eteṣāṃ   kāmānām   avaruddʰyai  \
+[struct] Sentence: o
+[text] etān   kāmān   ava/rundʰe
+[text] ya   evaṃ   veda  \
+[struct] Sentence: p
+[text] dve   daśākṣare   bʰavata .
+[struct] Sentence: q
+[text] ubʰayor   annādyayor   upāptyai ,  yac   ca
+[text] padvad   yac   cāpādakam   iti  \
+[struct] Sentence: r
+[text] aṣṭādaśāṣṭādaśākṣarāṇi   bʰavanti .
+[struct] Sentence: s
+[text] yāni
+[text] daśa   nava   prāṇā ,  ātmaiva   daśamaḥ .
+[struct] Sentence: t
+[text] sātmanaḥ   saṃskr̥tir .
+[struct] Sentence: u
+[text] aṣṭāv-aṣṭā
+[text] udyante  \
+[struct] Sentence: v
+[text] aśnute   yad-yat   kāmayate   ya   evaṃ   veda  \\ 7 \\
+[struct] Paragraph: 8
+[struct] Sentence: a
+[text] tā   nadena   viharati  \
+[struct] Sentence: b
+[text] prāṇo   vai   nadas .
+[struct] Sentence: c
+[text] tasmāt   prāṇo   nadan   sarvaḥ
+[text] saṃnadatīva  \
+[struct] Sentence: d
+[text] nadaṃ   va   odatīnām
+[text] itī3ṁ .
+[struct] Sentence: e
+[text] uṣṇig   akṣarair   bʰavaty ,  anuṣṭup   pā/dair .
+[struct] Sentence: f
+[text] āyur   vā   uṣṇig ,  vāg   anuṣṭup  \
+[struct] Sentence: g
+[text] tad   asminn   āyuś   ca   vācaṃ   ca   dadʰāti  \
+[struct] Sentence: h
+[text] tās   triḥ   pratʰamayā   pañcviṃśatir   bʰavanti .
+[struct] Sentence: i
+[text] pañcaviṃśa   ātmā .
+[struct] Sentence: j
+[text] pañcaviṃśaḥ
+[text] prajāpatir .
+[struct] Sentence: k
+[text] daśa   hastyā   aṅgulayo .
+[struct] Sentence: l
+[text] daśa   pādyā .
+[struct] Sentence: m
+[text] dvā   ūrū .
+[struct] Sentence: n
+[text] dvau   bāhū .
+[struct] Sentence: o
+[text] ātmaiva   pañcaviṃśas .
+[struct] Sentence: p
+[text] tam   imam   ātmānaṃ   pañcaviṃśaṃ   saṃskurute  \
+[struct] Sentence: q
+[text] atʰo
+[text] pañcviṃśaṃ   vā   etad   ahaḥ .
+[struct] Sentence: r
+[text] pañcaviṃśa   etasyāhna   stomas .
+[struct] Sentence: s
+[text] tat   samena   samaṃ
+[text] pratipadyate .
+[struct] Sentence: t
+[text] tasmād   dve   eva   pañcaviṃśatir   bʰavanti  \
+[struct] Sentence: u
+[text] ity   ādʰyātmaṃ   pañcaviṃśaḥ  \
+[struct] Sentence: v
+[text] atʰādʰidaivatam  \
+[struct] Sentence: w
+[text] cakṣuḥ   śrotraṃ   mano   vāk   prāṇaḥ ,  tā   etāḥ   pañca
+[text] devatā   imaṃ   viṣṭāḥ   puruṣaṃ .
+[struct] Sentence: x
+[text] pañco   haivaitā   devatā   ayaṃ   viṣṭaḥ
+[text] puruṣaḥ  \
+[struct] Sentence: y
+[text] so   'trā   lomabʰya   ā   nakʰebʰyaḥ   sarvaḥ   sāṅga   āpyate .
+[struct] Sentence: z
+[text] tasmāt   sarvāṇi   bʰūtāny   ā   pipīlikābʰya   āptāny   eva   jāyante  \
+[struct] Sentence: aa
+[text] tad   u/ktam
+[text] r̥ṣiṇā  \
+[struct] Sentence: ab
+[text] sahasradʰā   pañcadaśāny   uktʰā -
+[text] -iti .
+[struct] Sentence: ac
+[text] pañca   hi   daśato   bʰavanti .
+[struct] Sentence: ad
+[text] yāvad   dyāvāpr̥tʰivī   tāvad   it   tad
+[text] iti .
+[struct] Sentence: ae
+[text] yāvatī   vai   dyāvāpr̥tʰivī   tā/vān
+[text] ātmā  \
+[struct] Sentence: af
+[text] sahasradʰā   mahimānaḥ   sahasram
+[text] ity .
+[struct] Sentence: ag
+[text] uktʰāny   eva   tad   anumadati
+[text] mahayati  \
+[struct] Sentence: ah
+[text] yāvad   brahma   viṣṭʰitaṃ   tāvatī   vāg
+[text] iti .
+[struct] Sentence: ai
+[text] yatra   ha   kva   ca
+[text] brahma ,  tad   vāg .
+[struct] Sentence: aj
+[text] yatra   vā   vāk ,  tad   vā   brahmety .
+[struct] Sentence: ak
+[text] etat   tad   uktaṃ   bʰavati  \
+[struct] Sentence: al
+[text] eṣāṃ   vā
+[text] eṣāṃ   sūktānāṃ   navarcaṃ   pratʰamaṃ .
+[struct] Sentence: am
+[text] nava   vai   prāṇāḥ .
+[struct] Sentence: an
+[text] prāṇānāṃ   kl̥ptyai  \
+[struct] Sentence: ao
+[text] ṣal̥r̥caṃ
+[text] ṣaṭcaṃ
+[text] ṣaṭr̥caṃ
+[text] ṣar̥caṃ
+[text] bʰavati .
+[struct] Sentence: ap
+[text] ṣaḍ   vā   r̥tava .
+[struct] Sentence: aq
+[text] r̥tūnām   āptyai  \
+[struct] Sentence: ar
+[text] pañcarcaṃ   bʰavati .
+[struct] Sentence: as
+[text] pañcapadā   paṅktiḥ .
+[struct] Sentence: at
+[text] paṅktir   vā   annam .
+[struct] Sentence: au
+[text] annādyasyāvaruddʰyai  \
+[struct] Sentence: av
+[text] tr̥co   bʰavati  \
+[struct] Sentence: aw
+[text] trayo   vā   ime   trivr̥to   lokā .
+[struct] Sentence: ax
+[text] eṣām   eva   lokānām   abʰijityai  \
+[struct] Sentence: ay
+[text] tā
+[text] abʰisaṃpadyante   br̥hatīṃ   cʰando   'mr̥taṃ   devalokam .
+[struct] Sentence: az
+[text] eṣa   ātmā  \
+[struct] Sentence: ba
+[text] evam   u   hai/vaivaṃvid
+[text] etayaiva   saṃpadāmr̥tam   evātmānam   abʰisaṃbʰavati .
+[struct] Sentence: bb
+[text] saṃbʰavati  \\ 8 \\
+[text] \\  ity   aitareyapratʰamāraṇyake   tr̥tīyo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 4
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: b
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: c
+[text] prāṇena   parvāṇi
+[text] saṃdadʰāti  \
+[struct] Sentence: d
+[text] atʰāto   grīvāḥ  \
+[struct] Sentence: e
+[text] tā   ācakṣate   yatʰācʰandasam   uṣṇiha
+[text] iti  \
+[struct] Sentence: f
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: g
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: h
+[text] prāṇena   parvāṇi
+[text] saṃdadʰāti  \
+[struct] Sentence: i
+[text] atʰātaḥ   śiraḥ  \
+[struct] Sentence: j
+[text] tad   gāyatrīṣu   bʰavaty .
+[struct] Sentence: k
+[text] agraṃ   vai   cʰandasāṃ
+[text] gāyatry .
+[struct] Sentence: l
+[text] agram   aṅgānāṃ   śiraḥ  \
+[struct] Sentence: m
+[text] tad   arkavatīṣu   bʰavaty .
+[struct] Sentence: n
+[text] agnir   vā   arkaḥ  \
+[struct] Sentence: o
+[text] tā
+[text] nava   bʰavanti .
+[struct] Sentence: p
+[text] navakapālaṃ   vai   śiraḥ  \
+[struct] Sentence: q
+[text] daśamīṃ   śaṃsati .
+[struct] Sentence: r
+[text] tvak   keśā
+[text] ity   eva   sā   bʰavati  \
+[struct] Sentence: s
+[text] atʰo   stomātiśaṃsanāyā   eva  \
+[struct] Sentence: t
+[text] tau   trivr̥c   ca
+[text] stomo   bʰavato   gāyatraṃ   ca   cʰanda .
+[struct] Sentence: u
+[text] etayor   vai   stomacʰandasoḥ   prajā/tim
+[text] anu   sarvam   idaṃ   prajāyate ,  yad   idaṃ   kiñ   ca .
+[struct] Sentence: v
+[text] prajātyai  \
+[struct] Sentence: w
+[text] prajāyate
+[text] prajayā   paśubʰir   ya   evaṃ   veda  \
+[struct] Sentence: x
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: y
+[text] prāṇo   vai
+[text] sūdadohāḥ .
+[struct] Sentence: z
+[text] prāṇena   parvāṇi   saṃdadʰāti  \
+[struct] Sentence: aa
+[text] atʰāto   vijavaḥ  \
+[struct] Sentence: ab
+[text] tā
+[text] virājo   bʰavanti .
+[struct] Sentence: ac
+[text] tasmāt   puruṣaḥ   puruṣam   āha ,  vi   vā   asmāsu
+[text] rājasi ,  grīvā   vai   dʰārayasīti ,  stabʰamānaṃ   vā ,  yad   vā   dutāḥ   sambā/l̥hatamāḥ
+[text] satyo   +natamāṃ
+[text] satyo   'nnatamāṃ :
+[text] pratyacyante .
+[struct] Sentence: ad
+[text] 'nnaṃ   hi   virāl̥
+[text] virāṭ
+[struct] Sentence: ae
+[text] annam   u
+[text] vīryam  \
+[struct] Sentence: af
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: ag
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: ah
+[text] prāṇena   parvāṇi
+[text] saṃdadʰāti  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] atʰāto   dakṣiṇaḥ   pakṣaḥ  \
+[struct] Sentence: b
+[text] so   'yaṃ   lokaḥ .
+[struct] Sentence: c
+[text] so   'yam   agniḥ .
+[struct] Sentence: d
+[text] sā
+[text] vāk .
+[struct] Sentence: e
+[text] tad   ratʰantaraṃ .
+[struct] Sentence: f
+[text] sa   vasiṣṭʰas .
+[struct] Sentence: g
+[text] tac   cʰataṃ .
+[struct] Sentence: h
+[text] tāni   ṣaḍ   vīryāṇi   bʰavanti  \
+[struct] Sentence: i
+[text] saṃpāta   eva   kāmānām   abʰyāptyai   pratiṣṭʰityā .
+[struct] Sentence: j
+[text] annādyāya   paṅktiḥ  \
+[struct] Sentence: k
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: l
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: m
+[text] prāṇena   parvāṇi   saṃda/dʰāti
+[text] \
+[struct] Sentence: n
+[text] atʰāta   uttaraḥ   pakṣaḥ  \
+[struct] Sentence: o
+[text] so   'sau   lokaḥ .
+[struct] Sentence: p
+[text] so   'sāv   āditya/s .
+[struct] Sentence: q
+[text] tat   manas .
+[struct] Sentence: r
+[text] tad   br̥hat .
+[struct] Sentence: s
+[text] sa   bʰaradvājas .
+[struct] Sentence: t
+[text] tac   cʰataṃ .
+[struct] Sentence: u
+[text] tāni   ṣaḍ   vīryāṇi   bʰavanti  \
+[struct] Sentence: v
+[text] saṃpāta
+[text] eva   kāmānām   abʰyāptyai   pratiṣṭʰityā .
+[struct] Sentence: w
+[text] annādyāya   paṅktiḥ  \
+[struct] Sentence: x
+[text] tā   ūnā/tiriktau
+[text] bʰavato .
+[struct] Sentence: y
+[text] vr̥ṣā   vai   br̥had .
+[struct] Sentence: z
+[text] yoṣā   ratʰantaram .
+[struct] Sentence: aa
+[text] atiriktaṃ   vai   puṃso .
+[struct] Sentence: ab
+[text] nyūnaṃ
+[text] striyai .
+[struct] Sentence: ac
+[text] tasmād   ūnātiriktau   bʰavataḥ  \
+[struct] Sentence: ad
+[text] atʰo   ekena   ha   vai   pattreṇa
+[text] suparṇasyottaraḥ   pakṣo   jyāyāṃs .
+[struct] Sentence: ae
+[text] tasmād   ekayarcottaraḥ   pakṣo   bʰūyān   bʰa/vati
+[text] \
+[struct] Sentence: af
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: ag
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: ah
+[text] prāṇena   parvāṇi
+[text] saṃdadʰāti  \
+[struct] Sentence: ai
+[text] atʰātaḥ   puccʰam  \
+[struct] Sentence: aj
+[text] tā   ekaviṃśatir   dvipadā   bʰavanty .
+[struct] Sentence: ak
+[text] e/kaviṃśatir
+[text] hīmāni   pratyañci   suparṇasya   pattrāṇi   bʰavanti  \
+[struct] Sentence: al
+[text] atʰo
+[text] ekaviṃśo   vai   stomānāṃ   pratiṣṭʰā .
+[struct] Sentence: am
+[text] pratiṣṭʰā   puccʰaṃ   vayasām  \
+[struct] Sentence: an
+[text] dvāviṃśīṃ
+[text] śaṃsati .
+[struct] Sentence: ao
+[text] pratiṣṭʰayor   eva   tad   rūpaṃ   kriyate .
+[struct] Sentence: ap
+[text] tasmāt   sarvāṇi   vayāṃsi   puccʰena
+[text] pratitiṣṭʰanti .
+[struct] Sentence: aq
+[text] puccʰenaiva   pratiṣṭʰāyotpatanti .
+[struct] Sentence: ar
+[text] pratiṣṭʰā   hi   puccʰam  \
+[struct] Sentence: as
+[text] sa
+[text] eṣa   dvābʰyāṃ   daśinībʰyāṃ   virāḍbʰyām ,  anayor   dvāviṃśyor   dvipadayor   ayaṃ
+[text] puruṣaḥ   pratiṣṭʰitaḥ  \
+[struct] Sentence: at
+[text] tasya   yat   suparṇarūpaṃ ,  tad   asya   kāmānām   abʰyāptyai  \
+[struct] Sentence: au
+[text] atʰa   yat   puruṣarūpaṃ ,  tad   asya   śriyai   yaśase   'nnādyāyāpacityai  \
+[struct] Sentence: av
+[text] atʰa
+[text] sūdadohāḥ  \
+[struct] Sentence: aw
+[text] atʰa   dʰāyyā  \
+[struct] Sentence: ax
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: ay
+[text] vr̥ṣā   vai   sūdadohā
+[text] ,  yoṣā   dʰāyyā .
+[struct] Sentence: az
+[text] tad   ubʰayataḥ   sūdadohasā   dʰāyyāṃ   pariśaṃsati .
+[struct] Sentence: ba
+[text] tasmād   dvayo
+[text] retaḥ   siktam   sad   ekatām   evāpyeti   yoṣām   evābʰy .
+[struct] Sentence: bb
+[text] ata   ājānā   hi
+[text] yoṣātaḥ   prajānā .
+[struct] Sentence: bc
+[text] tasmād   enām   atra   śaṃsati  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] gāyatrīṃ   tr̥cāśītiṃ   śaṃsaty .
+[struct] Sentence: b
+[text] ayaṃ   vai   loko   gāyatrī   tr̥cāśīti/r .
+[struct] Sentence: c
+[text] yad   evāsmiṁl   loke   yaśo ,  yan   maho ,  yan   mitʰunaṃ ,  yad   annādyaṃ ,  yāpacitis ,  ta/d
+[text] aśnavai ,  tad   āpnavāni ,  tad   avaruṇadʰai ,  tan   me   'sad   iti  \
+[struct] Sentence: d
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: e
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: f
+[text] prāṇenemaṃ   lokaṃ   saṃtanoti  \
+[struct] Sentence: g
+[text] bārhatīṃ   tr̥cā/śītiṃ
+[text] śaṃsaty .
+[struct] Sentence: h
+[text] antarikṣaloko   vai   bārhatī   tr̥cāśītir .
+[struct] Sentence: i
+[text] yad   evāntarikṣa/loke
+[text] yaśo ,  yan   maho ,  yan   mitʰunaṃ ,  yad   annādyaṃ ,  yāpacitis ,  tad   aśnavai
+[text] ,  tad   āpnavāni ,  tad   avaruṇadʰai ,  tan   me   'sad   iti  \
+[struct] Sentence: j
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: k
+[text] prāṇo
+[text] vai   sūdadohāḥ .
+[struct] Sentence: l
+[text] prāṇenāntarikṣalokaṃ   saṃtanoti  \
+[struct] Sentence: m
+[text] auṣṇihīṃ   tr̥cā/śītiṃ
+[text] śaṃsaty .
+[struct] Sentence: n
+[text] asau   vai   loko   dyaur   auṣṇihī   tr̥cāśītir .
+[struct] Sentence: o
+[text] yad   evāmuṣmi/ṁl
+[text] evāmuṣṇiṁl}
+[text] loke   yaśo ,  yan   maho ,  yan   mitʰunaṃ ,  yad   annādyaṃ ,  yāpacitiḥ ,  yad   devānāṃ
+[text] daivaṃ ,  tad   aśnavai ,  tad   āpnavāni ,  tad   avaruṇadʰai ,  tan   me   'sad   iti  \
+[struct] Sentence: p
+[text] atʰa   sūda/dohāḥ
+[text] \
+[struct] Sentence: q
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: r
+[text] prāṇenāmuṃ   lokaṃ   saṃtanoti ,  saṃta/noti
+[text] \\ 3 \\
+[text] \\  ity   aitareyapratʰamāraṇyake   caturtʰo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 5
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] vaśaṃ   śaṃsati ,  vaśe   ma   idaṃ   sarvam   asad
+[text] asād
+[text] iti  \
+[struct] Sentence: b
+[text] tā   ekaviṃśatir   bʰava/nty .
+[struct] Sentence: c
+[text] ekaviṃśatir   hi   tā   antar   udare   vikr̥tayaḥ  \
+[struct] Sentence: d
+[text] atʰo   ekaviṃśo   vai
+[text] stomānāṃ   pratiṣṭʰā .
+[struct] Sentence: e
+[text] pratiṣtʰodaram   annādyānām  \
+[struct] Sentence: f
+[text] tā   vicʰandaso   bʰavanti .
+[struct] Sentence: g
+[text] vikṣudram   iva   vā   antastyam   aṇīya   iva   ca   stʰavīya   iva   ca  \
+[struct] Sentence: h
+[text] tāḥ
+[text] praṇāvaṃ   cʰandaskāraṃ   yatʰopapādaṃ   śaṃsati .
+[struct] Sentence: i
+[text] yatʰopapādam   iva   vā
+[text] antastyaṃ   hrasīya   iva   ca   drāgʰīya   iva   ca  \
+[struct] Sentence: j
+[text] atʰa   sūdadohāḥ  \
+[struct] Sentence: k
+[text] prāṇo   vai   sūdadohāḥ .
+[struct] Sentence: l
+[text] prāṇena   parvāṇi   saṃdadʰāti  \
+[struct] Sentence: m
+[text] tām   atrotsr̥jati
+[text] dvādaśakr̥tvaḥ   śastvā .
+[struct] Sentence: n
+[text] dvādaśavidʰā   vā   ime   prāṇāḥ ,  sapta   śīrṣaṇyā
+[text] ,  dvau   stanyau ,  trayo   'vāñco .
+[struct] Sentence: o
+[text] 'tra   vai   prāṇā   āpyante ,  'tra   saṃskriyante .
+[struct] Sentence: p
+[text] tasmād   enām   atrotsr̥jati  \
+[struct] Sentence: q
+[text] indrāgnī   yuvaṃ   su   na
+[text] ity   aindrāgnā   ūrū
+[text] urvaṣṭʰīve   pratiṣṭʰe  \
+[struct] Sentence: r
+[text] tāḥ   ṣaṭ   padā   bʰavanti .
+[struct] Sentence: s
+[text] pratiṣṭʰāyā   eva .
+[struct] Sentence: t
+[text] dvipra/tiṣṭʰo
+[text] vai   puruṣaś ,  catuṣpādāḥ   paśavo .
+[struct] Sentence: u
+[text] yajamānam   eva   tad   dvipratiṣṭʰaṃ
+[text] catuṣpātsu   paśuṣu   pratiṣṭʰāpayati  \
+[struct] Sentence: v
+[text] dvitīyā   saptapadā   bʰavati .
+[struct] Sentence: w
+[text] tāṃ
+[text] gāyatrīṃ   cānuṣṭubʰaṃ   ca   karoti .
+[struct] Sentence: x
+[text] brahma   vai   gāyatrī .
+[struct] Sentence: y
+[text] vāg   anuṣṭub .
+[struct] Sentence: z
+[text] brahmaṇaiva
+[text] tad   vācaṃ   saṃdadʰāti  \
+[struct] Sentence: aa
+[text] triṣṭubʰam   antataḥ   śaṃsati .
+[struct] Sentence: ab
+[text] vīryaṃ   vai   triṣṭub .
+[struct] Sentence: ac
+[text] vīryeṇaiva
+[text] tat   paśūn   parigacʰati .
+[struct] Sentence: ad
+[text] tasmāt   paśavo   vīryam   anūpatiṣṭʰanta   īryatāṃ   caivā/bʰyuttʰānaṃ
+[text] ca  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] pra   vo   mahe   mandamānāyāndʰasa
+[text] ity   aindre   niṣkevalye   nividaṃ
+[text] dadʰāti .
+[struct] Sentence: b
+[text] pratyakṣād   dʰy   eva   tad   ātman   vīryaṃ   dʰatte  \
+[struct] Sentence: c
+[text] tās   triṣṭubjagatyo
+[text] bʰavanti  \
+[struct] Sentence: d
+[text] tad   āhur .
+[struct] Sentence: e
+[text] atʰa   kasmāt   triṣṭubjagatīṣu   nividaṃ   dadʰātīti  \
+[struct] Sentence: f
+[text] na
+[text] ha   vā   etasyāhna   ekaṃ   cʰando   nividaṃ   dādʰāra ,  na   vivyāceti .
+[struct] Sentence: g
+[text] tasmāt   triṣṭubjagatīṣu   nividaṃ   dadʰāti  \
+[struct] Sentence: h
+[text] tad   etad   ahas   trinivitkaṃ   vidyā/d .
+[struct] Sentence: i
+[text] vaśo   nivid .
+[struct] Sentence: j
+[text] vālakʰilyā   nivin .
+[struct] Sentence: k
+[text] nivid   eva   nivid .
+[struct] Sentence: l
+[text] evam   enat   trini/vitkaṃ
+[text] vidyāt  \
+[struct] Sentence: m
+[text] atʰa   sūkte
+[text] vane   na   vā   yo   ny   adʰāyi   cākan
+[text] yo
+[text] jāta   eva   pratʰamo   manasvān
+[text] iti .
+[struct] Sentence: n
+[text] tayor   asty
+[text] anne   samasya   yad   asan   ma/nīṣā
+[text] ity .
+[struct] Sentence: o
+[text] annādyasyāvaruddʰyai  \
+[struct] Sentence: p
+[text] atʰāvapanam .
+[struct] Sentence: q
+[text] ete   antareṇaindrīṇāṃ   daśa/tīnāṃ
+[text] triṣṭubjagatīnāṃ   br̥hatīsaṃpannānāṃ   yāvatīr   āvapante ,  tāvanty   ū/rdʰvam
+[text] āyuṣo   varṣāṇi   jīvanty .
+[struct] Sentence: r
+[text] etena   haivāvapanenāyur   āpyate  \
+[struct] Sentence: s
+[text] prajāṃ   me
+[text] paśavo   'rjayann   iti   tv   eva   sajanīyam   anuśaṃsati  \
+[struct] Sentence: t
+[text] tārkṣyaṃ   śaṃsati .
+[struct] Sentence: u
+[text] svastvayanaṃ
+[text] svastyayanaṃ ?,  svastvayanaṃ
+[text] vai   tārkṣyaḥ .
+[struct] Sentence: v
+[text] svastitāyai .
+[struct] Sentence: w
+[text] svastvayanam
+[text] svastyayanam
+[text] eva   tat   kurute  \
+[struct] Sentence: x
+[text] ekapadāṃ   śaṃsaty ,  ekadʰedaṃ   sarvam   asānīty ,  atʰo   sarvāṃ   cʰandaskr̥tim   āpnavā/nīti
+[text] \
+[struct] Sentence: y
+[text] indraṃ   viśvā   avīvr̥dʰann
+[text] iti .
+[struct] Sentence: z
+[text] padānuṣaṅgās .
+[struct] Sentence: aa
+[text] tāḥ   saptānuṣajati .
+[struct] Sentence: ab
+[text] sapta   vai   śīrṣan   prāṇāḥ .
+[struct] Sentence: ac
+[text] śīrṣann   eva   tat   prāṇān   dadʰāty .
+[struct] Sentence: ad
+[text] aṣṭamīṃ   nānuṣajati ,
+[text] vāg   aṣṭamī ,  nen   me   vāk   prāṇair   anuṣaktāsad   iti .
+[struct] Sentence: ae
+[text] tasmād   u   sā   vāk   samā/nāyatanā
+[text] prāṇaiḥ   saty   ananuṣaktā  \
+[struct] Sentence: af
+[text] virājaḥ   śaṃsaty .
+[struct] Sentence: ag
+[text] annaṃ   vai   virājo .
+[struct] Sentence: ah
+[text] 'nnādyasyāvaruddʰyai  \
+[struct] Sentence: ai
+[text] vāsiṣṭʰena   paridadʰāti ,  vasiṣṭʰo   'sānīti  \
+[struct] Sentence: aj
+[text] eṣa
+[text] stomo   maha   ugrāya   vāha
+[text] iti   mahadvatyā   rūpasmr̥ddʰayā  \
+[struct] Sentence: ak
+[text] dʰurī/vātyo
+[text] na   vājayann   adʰāyi -
+[text] -ity .
+[struct] Sentence: al
+[text] anto   vai   dʰur .
+[struct] Sentence: am
+[text] anta   etad   ahar .
+[struct] Sentence: an
+[text] etasyāhno   rūpam  \
+[struct] Sentence: ao
+[text] indra   tvāyam   arka   īṭṭe   vasūnām
+[text] ity   arkavatyā   rūpasamr̥ddʰayā  \
+[struct] Sentence: ap
+[text] divīva
+[text] dyām   adʰi   naḥ   śromataṃ   dʰā
+[text] iti .
+[struct] Sentence: aq
+[text] yatra   ha   kva   ca   brahmaṇyā   vāg   udyate
+[text] ,  tad   dʰāsya   kīrtir   bʰavati ,  yatraivaṃ   vidvān   etayā   paridadʰāti .
+[struct] Sentence: ar
+[text] tasmād   evaṃ
+[text] vidvān   etayaiva   paridadʰyāt  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] tat   savitur   vr̥ṇīmahe
+[text] 'dyā   no   deva   savitar
+[text] iti   vaiśvadevasya   prati/padanucarāv
+[text] aikāhikau   rūpasamr̥ddʰau .
+[struct] Sentence: b
+[text] bahu   vā   etasminn   ahani   kiñca/-kiñca
+[text] vāraṇaṃ   kriyate .
+[struct] Sentence: c
+[text] śāntyā   eva .
+[struct] Sentence: d
+[text] śāntir   vai   pratiṣṭʰā -.
+[struct] Sentence: e
+[text] ekāhaḥśāntyām   eva
+[text] tat   pratiṣṭʰāyām   antataḥ   pratitiṣṭʰanti  \
+[struct] Sentence: f
+[text] pratitiṣṭʰati   ya   evaṃ   veda   yeṣāṃ
+[text] caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: g
+[text] tad   devasya   savitur   vāryaṃ   mahad
+[text] iti
+[text] sāvitram .
+[struct] Sentence: h
+[text] anto   vai   mahad .
+[struct] Sentence: i
+[text] anta   etad   ahar .
+[struct] Sentence: j
+[text] etasyāhno   rūpam  \
+[struct] Sentence: k
+[text] katarā   pūrvā
+[text] katarāparāyor
+[text] iti   dyāvāpr̥tʰivīyaṃ   samānodarkaṃ .
+[struct] Sentence: l
+[text] samānodarkaṃ   vā
+[text] etad   ahar .
+[struct] Sentence: m
+[text] etasyāhno   rūpam  \
+[struct] Sentence: n
+[text] anaśvo   jāto   anabʰīśur   uktʰya
+[text] ity   ārbʰa/vam
+[text] \
+[struct] Sentence: o
+[text] ratʰas   tricakra
+[text] iti .
+[struct] Sentence: p
+[text] yad   etat ,  trivat   tad .
+[struct] Sentence: q
+[text] anto   vai   trivad .
+[struct] Sentence: r
+[text] anta   etad   a/har .
+[struct] Sentence: s
+[text] etasyāhno   rūpam  \
+[struct] Sentence: t
+[text] asya   vāmasya   palitasya   hotur
+[text] iti   vaiśvadevaṃ
+[text] bahurūpaṃ .
+[struct] Sentence: u
+[text] bahurūpam   vā   etad   ahar .
+[struct] Sentence: v
+[text] etasyāhno   rūpam  \
+[struct] Sentence: w
+[text] gaurīr   mimāya
+[text] salilāni   takṣati -
+[text] -ity   etad   antam  \
+[struct] Sentence: x
+[text] ā   no   bʰadrāḥ   kratavo   yantu
+[text] viśvata
+[text] iti   vaiśvadevaṃ   nividdʰānam   aikāhikaṃ   rūpasamr̥ddʰaṃ .
+[struct] Sentence: y
+[text] bahu   vā
+[text] etasminn   ahani   kiñca-kiñca   vāraṇaṃ   kriyate .
+[struct] Sentence: z
+[text] śāntyā   eva .
+[struct] Sentence: aa
+[text] śā/ntir
+[text] vai   pratiṣṭʰā -.
+[struct] Sentence: ab
+[text] -ekāhaḥśāntyām   eva   tat   pratiṣṭʰāyām   antataḥ   pratitiṣṭʰanti  \
+[struct] Sentence: ac
+[text] pratitiṣṭʰati   ya   evaṃ   veda   yeṣāṃ   caivaṃ   vidvān   etad   dʰotā   śaṃsati  \
+[struct] Sentence: ad
+[text] vaiśvānarāya   dʰiṣaṇām   r̥tāvr̥dʰa
+[text] ity   āgnimārutasya   pratipad .
+[struct] Sentence: ae
+[text] anto   vai
+[text] dʰiṣaṇā -.
+[struct] Sentence: af
+[text] -anta   etad   ahar .
+[struct] Sentence: ag
+[text] etasyāhno   rūpam  \
+[struct] Sentence: ah
+[text] prayajyavo   maruto   bʰrājadr̥ṣṭaya
+[text]  Line of ed.: 19    iti   mārutaṃ   samānodarkaṃ .
+[struct] Sentence: ai
+[text] samānodarkaṃ   vā   etad   ahar .
+[struct] Sentence: aj
+[text] etasyāhno   rūpam  \
+[struct] Sentence: ak
+[text] jātavedase   sunavāma   somam
+[text] iti   jātavedasyāṃ   purastāt   sūktasya   śaṃsati
+[struct] Sentence: al
+[text] svastyayanaṃ   vai   jātavedasyā
+[text] jātavedasyāḥ
+[struct] Sentence: am
+[text] svastitāyai .
+[struct] Sentence: an
+[text] svastyayanam   eva   tat   kurute  \
+[struct] Sentence: ao
+[text] imaṃ   stomam   arhate   jātavedasa
+[text] iti   jātavedasyaṃ   samānodarkaṃ .
+[struct] Sentence: ap
+[text] samāno/darkaṃ
+[text] vā   etad   ahar .
+[struct] Sentence: aq
+[text] etasyāhno   rūpam ,  ahno   rūpam  \\ 3 \\
+[text] \\  ity   aitareyapratʰamāraṇyake   pañcamo   'dʰyāyaḥ  \\
+[text] \\  iti   pratʰamāraṇyakaṃ   samāptam  \\
+[struct] Aranyaka: 2
+[text] \\  atʰa   dvitīyāraṇyakam  \\
+[struct] Adhyaya: 1
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] eṣa   pantʰā .
+[struct] Sentence: b
+[text] etat   karma -.
+[struct] Sentence: c
+[text] -etad   brahma -.
+[struct] Sentence: d
+[text] -etat   satyam  \
+[struct] Sentence: e
+[text] tasmān   na   pramādyet .
+[struct] Sentence: f
+[text] tan   nā/tīyāt
+[text] \
+[struct] Sentence: g
+[text] na   hy   atyāyan   pūrve .
+[struct] Sentence: h
+[text] ye   'tyāyaṃs ,  te   parābabʰūvuḥ  \
+[struct] Sentence: i
+[text] tad   uktam   r̥ṣiṇā  \
+[struct] Sentence: j
+[text] prajā   ha   tisro   atyāyam   īyur
+[text] ny   anyā   arkam   abʰito   viviśre
+[text] \
+[text] br̥had   dʰa
+[text] tastʰau   bʰuvaneṣv   antaḥ
+[text] pavamāno   harita   ā   viveśa -
+[text] -iti  \\
+[struct] Sentence: k
+[text] prajā   ha
+[text] tisro   atyāyam   īyur   iti ,  yā   vai   tā   imā   prajās   tisro   atyāya/m
+[text] āyaṃs   tānīmāni   vayāṃsi   vaṅgāvagadʰāś   cerapādāḥ  \
+[struct] Sentence: l
+[text] ny   anyā   arkam   a/bʰito
+[text] viviśra   iti ,  tā   imāḥ   prajā   arkam   abʰito   niviṣṭā
+[text] imam   evāgnim  \
+[struct] Sentence: m
+[text] br̥had   dʰa   tastʰau   bʰuvaneṣv   antar   ity ,  ada   u   eva   br̥had   bʰuvane/ṣv
+[text] antar   asāv   ādityaḥ  \
+[struct] Sentence: n
+[text] pavamāno   harita   ā   viveśeti ,  vāyur   eva
+[text] pavamāno   diśo   harita   āviṣṭaḥ  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] uktʰam   uktʰam   iti   vai   prajā   vadanti .
+[struct] Sentence: b
+[text] tad   idam   evoktʰam   iyam   eva
+[text] pr̥tʰivī -.
+[struct] Sentence: c
+[text] -ito   hīdaṃ   sarvam   uttiṣṭʰati ,  yad   idaṃ   kiñca  \
+[struct] Sentence: d
+[text] tasyāgnir   arko .
+[struct] Sentence: e
+[text] 'nnam   a/śītayo .
+[struct] Sentence: f
+[text] 'nnena   hīdaṃ   sarvam   aśnute  \
+[struct] Sentence: g
+[text] antarikṣam   evoktʰam .
+[struct] Sentence: h
+[text] antarikṣaṃ   vā
+[text] anu   patanty .
+[struct] Sentence: i
+[text] antarikṣam   anu   dʰāvayanti .
+[struct] Sentence: j
+[text] tasya   vāyur   arko .
+[struct] Sentence: k
+[text] 'nnam   aśītayo .
+[struct] Sentence: l
+[text] 'nnena   hīdaṃ   sarvam   aśnute  \
+[struct] Sentence: m
+[text] asāv   eva   dyaur   uktʰam .
+[struct] Sentence: n
+[text] amutaḥpradānād
+[text] amutaḥ   pradānād}
+[text] dʰīdaṃ
+[text] sarvam   uttiṣṭʰati ,  yad   idaṃ   kiñca .
+[struct] Sentence: o
+[text] tasyāsāv   ādityo   'rko .
+[struct] Sentence: p
+[text] 'nnam   aśītayo .
+[struct] Sentence: q
+[text] 'nnena   hīdaṃ   sarvam   aśnute  \
+[struct] Sentence: r
+[text] ity   adʰidaivatam  \
+[struct] Sentence: s
+[text] atʰādʰyātmam  \
+[struct] Sentence: t
+[text] puruṣa
+[text] evoktʰam .
+[struct] Sentence: u
+[text] ayam   eva   mahān   prajāpatir .
+[struct] Sentence: v
+[text] aham   uktʰam   asmīti   vidyāt  \
+[struct] Sentence: w
+[text] tasya
+[text] mukʰam   evoktʰaṃ ,  yatʰā   pr̥tʰivī   tatʰā  \
+[struct] Sentence: x
+[text] tasya   vāg   arko .
+[struct] Sentence: y
+[text] 'nnam   aśītayo .
+[struct] Sentence: z
+[text] 'nnena
+[text] hīdaṃ   sarvam   aśnute  \
+[struct] Sentence: aa
+[text] nāsike   evoktʰaṃ ,  yatʰāntarikṣaṃ   tatʰā  \
+[struct] Sentence: ab
+[text] tasya
+[text] prāṇo   'rko .
+[struct] Sentence: ac
+[text] 'nnam   aśītayo .
+[struct] Sentence: ad
+[text] 'nnena   hīdaṃ   sarvam   aśnute  \
+[struct] Sentence: ae
+[text] tad   etad   bradʰnasya   viṣṭapaṃ ,
+[text] yad   etan   nāsikāyai   vinatam   iva  \
+[struct] Sentence: af
+[text] lalāṭam   evoktʰaṃ ,  yatʰā   dyaus   tatʰā  \
+[struct] Sentence: ag
+[text] tasya   cakṣur   arko .
+[struct] Sentence: ah
+[text] 'nnam   aśītayo .
+[struct] Sentence: ai
+[text] 'nnena   hīdaṃ   sarvam   aśnute  \
+[struct] Sentence: aj
+[text] samānam   a/śītayo
+[text] 'dʰyātmaṃ   cādʰidaivataṃ   cānnam   eva -.
+[struct] Sentence: ak
+[text] -annena   hīmāni   sarvāṇi   bʰūtā/ni
+[text] samanantī3ṁ .
+[struct] Sentence: al
+[text] annenemaṃ   lokaṃ   jayaty ,  annenāmuṃ .
+[struct] Sentence: am
+[text] tasmāt   samāna/m
+[text] aśītayo   'dʰyātmaṃ   cādʰidaivataṃ   cānnam   eva  \
+[struct] Sentence: an
+[text] tad   idam   annam   annādam   iyam   eva
+[text] pr̥tʰivī -.
+[struct] Sentence: ao
+[text] -ito   hīdaṃ   sarvam   uttiṣṭʰati ,  yad   idaṃ   kiñca  \
+[struct] Sentence: ap
+[text] yad   dʰa   kiñcedaṃ   prertā3i ,
+[text] tad   asau   sarvam   atti .
+[struct] Sentence: aq
+[text] yad   u   kiñcātaḥ   praitī3ṁ ,  tad   iyaṃ   sarvam   atti .
+[struct] Sentence: ar
+[text] seyam   i/ty
+[text] ādyāttrī  \
+[struct] Sentence: as
+[text] attā   ha   vā   ādyo   bʰavati  \
+[struct] Sentence: at
+[text] na   tasyeśe ,  yan   nādyā/d ,
+[text] yad   vainaṃ   nādyuḥ  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] atʰāto   retasaḥ   sr̥ṣṭiḥ  \
+[struct] Sentence: b
+[text] prajāpate   reto   devā .
+[struct] Sentence: c
+[text] devānāṃ   reto   varṣaṃ .
+[struct] Sentence: d
+[text] varṣasya   reta   oṣadʰaya .
+[struct] Sentence: e
+[text] oṣadʰīnāṃ   reto   'nnam .
+[struct] Sentence: f
+[text] annasya   reto   reto .
+[struct] Sentence: g
+[text] retaso
+[text] retaḥ   prajāḥ .
+[struct] Sentence: h
+[text] prajānāṃ   reto   hr̥dayaṃ .
+[struct] Sentence: i
+[text] hr̥dayasya   reto   mano .
+[struct] Sentence: j
+[text] manaso   reto
+[text] vāg .
+[struct] Sentence: k
+[text] vāco   retaḥ   karma .
+[struct] Sentence: l
+[text] tad   idaṃ   karma   kr̥tam   ayaṃ   puruṣo   brahmaṇo   lokaḥ  \
+[struct] Sentence: m
+[text] sa   irāmayo .
+[struct] Sentence: n
+[text] yad   dʰīrāmayas ,  tasmād   dʰiraṇmayaḥ  \
+[struct] Sentence: o
+[text] hiraṇmayo   ha   vā
+[text] amuṣmiṁl   loke   saṃbʰavati .
+[struct] Sentence: p
+[text] hiraṇmayaḥ   sarvebʰyo   bʰūtebʰyo   dadr̥śe ,  ya   evaṃ
+[text] veda  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] taṃ   prapadābʰyāṃ   prāpadyata   brahmemaṃ   puruṣaṃ .
+[struct] Sentence: b
+[text] yat   prapadābʰyāṃ   prāpadyata
+[text] brahmemaṃ   puruṣaṃ ,  tasmāt   prapade   tasmāt   prapade   ity   ācakṣate ,  śapʰāḥ   kʰurā
+[text] ity   anyeṣāṃ   paśūnām  \
+[struct] Sentence: c
+[text] tad   ūrdʰvam   udasarpat .
+[struct] Sentence: d
+[text] tā   ūrū   abʰavatām  \
+[struct] Sentence: e
+[text] uru
+[text] gr̥ṇīhīty   abravīt .
+[struct] Sentence: f
+[text] tad   udaram   abʰavat  \
+[struct] Sentence: g
+[text] urv   eva   me   kurv   ity   abravīt .
+[struct] Sentence: h
+[text] tad   uro   'bʰavat  \
+[struct] Sentence: i
+[text] udaraṃ   brahmeti   śārkarākṣyā   upāsate .
+[struct] Sentence: j
+[text] hr̥dayaṃ   brahmety   āruṇayo .
+[struct] Sentence: k
+[text] brahmā/haiva
+[text] tā3i  \  ūrdʰvaṃ   tv   evodasarpat .
+[struct] Sentence: l
+[text] tac   cʰiro   'śrayata .
+[struct] Sentence: m
+[text] yac   cʰiro   'śrayata ,
+[text] tac   cʰiro   'bʰavat .
+[struct] Sentence: n
+[text] tac   cʰirasaḥ   śirastvam  \
+[struct] Sentence: o
+[text] tā   etāḥ   śīrṣañ   cʰriyaḥ
+[text] śritāś   cakṣuḥ   śrotraṃ   mano   vāk   prāṇaḥ  \
+[struct] Sentence: p
+[text] śrayante   'smiñ   cʰriyo ,  ya
+[text] evam   etac   cʰirasaḥ   śirastvaṃ   veda  \
+[struct] Sentence: q
+[text] tā   ahiṃsantāham   uktʰam   asmy ,  aham   u/ktʰam
+[text] asmīti  \
+[struct] Sentence: r
+[text] tā   abruvan ,  hantāsmāc   cʰarīrād   utkrāmāma .
+[struct] Sentence: s
+[text] tad   yasminn
+[text] utkrānta   idaṃ   śarīraṃ   patsyati ,  tad   uktʰaṃ   bʰaviṣyatīti  \
+[struct] Sentence: t
+[text] vāg   udakrā/mad .
+[struct] Sentence: u
+[text] avadann   aśnan   pibann   āstaiva  \
+[struct] Sentence: v
+[text] cakṣur   udakrāmad .
+[struct] Sentence: w
+[text] apaśyann   aśnan   pibann   āstaiva  \
+[struct] Sentence: x
+[text] śrotram   udakrāmad .
+[struct] Sentence: y
+[text] aśr̥ṇvann   aśnan   pibann   āstaiva  \
+[struct] Sentence: z
+[text] mana   udakrāman .
+[struct] Sentence: aa
+[text] mīlita
+[text] ivāśnan   pibann   āstaiva  \
+[struct] Sentence: ab
+[text] prāṇa   udakrāmat .
+[struct] Sentence: ac
+[text] tat   prāṇa   utkrānte   'padyata  \
+[struct] Sentence: ad
+[text] tad   aśīryata -.
+[struct] Sentence: ae
+[text] -aśārītī3ṁ ,  tac   cʰarīram   abʰavat .
+[struct] Sentence: af
+[text] tac   cʰarīrasya   śarīratvam  \
+[struct] Sentence: ag
+[text] śīryate   ha   vā   asya   dviṣan   pāpmā   bʰrātr̥vyaḥ .
+[struct] Sentence: ah
+[text] parāsya   dviṣan   pāpmā
+[text] bʰrātr̥vyo   bʰavati ,  ya   evaṃ   veda  \
+[struct] Sentence: ai
+[text] tā   ahiṃsantaivāham   uktʰam   asmy   aham   u/ktʰam
+[text] asmīti  \
+[struct] Sentence: aj
+[text] tā   abruvan ,  hantedaṃ   punaḥ   śarīraṃ   praviśāma .
+[struct] Sentence: ak
+[text] tad   yasmin   naḥ
+[text] prapanna   idaṃ   śarīram   uttʰāsyati ,  tad   uktʰaṃ   bʰaviṣyatīti  \
+[struct] Sentence: al
+[text] vāk   prāviśa/d .
+[struct] Sentence: am
+[text] aśayad   eva  \
+[struct] Sentence: an
+[text] cakṣuḥ   prāviśad .
+[struct] Sentence: ao
+[text] aśayad   eva  \
+[struct] Sentence: ap
+[text] śrotraṃ   prāviśad .
+[struct] Sentence: aq
+[text] aśayad   eva  \
+[struct] Sentence: ar
+[text] manaḥ   prāviśad .
+[struct] Sentence: as
+[text] aśayad   eva  \
+[struct] Sentence: at
+[text] prāṇaḥ   prāviśat .
+[struct] Sentence: au
+[text] tat   prāṇe   prapanna   udatiṣṭʰa/t .
+[struct] Sentence: av
+[text] tad   uktʰam   abʰavat  \
+[struct] Sentence: aw
+[text] tad   etad   uktʰā3ṁ   prāṇa   eva  \
+[struct] Sentence: ax
+[text] prāṇa   uktʰam   ity   eva
+[text] vidyāt  \
+[struct] Sentence: ay
+[text] taṃ   devā   abruvaṃs .
+[struct] Sentence: az
+[text] tvam   uktʰam   iti .
+[struct] Sentence: ba
+[text] tvam   idaṃ   sarvam   asi .
+[struct] Sentence: bb
+[text] tava   vayaṃ
+[text] smas .
+[struct] Sentence: bc
+[text] tvam   asmākam   asīti  \
+[struct] Sentence: bd
+[text] tad   apy   etad   r̥ṣiṇoktam  \
+[struct] Sentence: be
+[text] tvam   asmākaṃ   tava
+[text] smasi -
+[text] -iti  \\ 4 \\
+[struct] Paragraph: 5
+[struct] Sentence: a
+[text] taṃ   devāḥ   prāṇayanta .
+[struct] Sentence: b
+[text] sa   praṇītaḥ   prātāyata .
+[struct] Sentence: c
+[text] prātāyītī3ṁ ,
+[text] tat   prātar   abʰavat .
+[struct] Sentence: d
+[text] samāgād   itī3ṁ ,  tat   sāyam   abʰavad .
+[struct] Sentence: e
+[text] ahar   eva   prāṇo ,  rātrir   a/pānaḥ
+[text] \
+[struct] Sentence: f
+[text] vāg   agniś .
+[struct] Sentence: g
+[text] cakṣur   asāv   ādityaś .
+[struct] Sentence: h
+[text] candramā   mano .
+[struct] Sentence: i
+[text] diśaḥ   śrotraṃ .
+[struct] Sentence: j
+[text] sa   eṣa
+[text] prahitāṃ   saṃyogo .
+[struct] Sentence: k
+[text] 'dʰyātmam   imā   devatā .
+[struct] Sentence: l
+[text] ada   u   āvir   adʰidaivata/m .
+[struct] Sentence: m
+[text] ity   etat   tad   uktaṃ   bʰavati  \
+[struct] Sentence: n
+[text] etad   dʰa   sma   vai   tad   vidvān   āha   hiraṇyadan   vaido .
+[struct] Sentence: o
+[text] na   tasyeśe ,  yan   mahyaṃ   na   dadyur   iti .
+[struct] Sentence: p
+[text] prahitāṃ   vā   aham   adʰyātmaṃ   saṃyogaṃ
+[text] niviṣṭaṃ   veda -.
+[struct] Sentence: q
+[text] -etad   dʰa   tat  \
+[struct] Sentence: r
+[text] anīśānāni   ha   vā   asmai   bʰūtāni   baliṃ
+[text] haranti ,  ya   evaṃ   veda  \
+[struct] Sentence: s
+[text] tat   satyaṃ .
+[struct] Sentence: t
+[text] sad   iti   prāṇas .
+[struct] Sentence: u
+[text] tīty   annaṃ .
+[struct] Sentence: v
+[text] yam   ity   asā/v
+[text] ādityas .
+[struct] Sentence: w
+[text] tad   etat   trivr̥t .
+[struct] Sentence: x
+[text] trivr̥d   iva   vai   cakṣuḥ ,  śuklaṃ   kr̥ṣṇaṃ   kanīniketi  \
+[struct] Sentence: y
+[text] sa   yadi   ha   vā   api   mr̥ṣā   vadati ,  satyaṃ   haivāsyoditaṃ   bʰavati ,  ya
+[text] evam   etat   satyasya   satyatvaṃ   veda  \\ 5 \\
+[struct] Paragraph: 6
+[struct] Sentence: a
+[text] tasya   vāk   tantir ,  nāmāni   dāmāni .
+[struct] Sentence: b
+[text] tad   asyedaṃ   vācā   tantyā
+[text] nāmabʰir   dāmabʰiḥ   sarvaṃ   sitaṃ .
+[struct] Sentence: c
+[text] sarvaṃ   hīdaṃ   nāmānī3ṁ ,  sarvaṃ   vācābʰi/vadati
+[text] \
+[struct] Sentence: d
+[text] vahanti   ha   vā   enaṃ   tantisaṃbaddʰā ,  ya   evaṃ   veda  \
+[struct] Sentence: e
+[text] tasyo/ṣṇig
+[text] lomāni ,  tvag   gāyatrī ,  triṣṭum   māṃsam ,  anuṣṭup   snāvāny ,  astʰi   jagatī ,
+[text] paṅktir   majjā ,  prāṇo   br̥hatī .
+[struct] Sentence: f
+[text] sa   cʰandobʰiś   cʰanno .
+[struct] Sentence: g
+[text] yac   cʰandobʰiś   cʰannas ,  ta/smāc
+[text] cʰandāṃsīty   ācakṣate  \
+[struct] Sentence: h
+[text] cʰādayanti   ha   vā   enaṃ   cʰandāṃsi   pāpā/t
+[text] karmaṇo ,  yasyāṃ   kasyāñ   cid   diśi   kāmayate ,  ya   evam   etac   cʰandasāṃ
+[text] cʰandastvaṃ   veda  \
+[struct] Sentence: i
+[text] tad   uktam   r̥ṣiṇā  \
+[struct] Sentence: j
+[text] apaśyaṃ   gopām
+[text] ity .
+[struct] Sentence: k
+[text] eṣa   vai   gopā .
+[struct] Sentence: l
+[text] eṣa   hīdaṃ   sarvaṃ   gopāyati  \
+[struct] Sentence: m
+[text] anipadyamānam
+[text] iti .
+[struct] Sentence: n
+[text] na   hy   eṣa   kadā
+[text] cana   saṃviśati  \
+[struct] Sentence: o
+[text] ā   ca   parā   ca   patʰibʰiś   carantam
+[text] ity .
+[struct] Sentence: p
+[text] ā   ca   hy   eṣa
+[text] parā   ca   patʰibʰiś   carati  \
+[struct] Sentence: q
+[text] sa   sadʰrīcīḥ   sa   viṣūcīr   vasāna
+[text] iti .
+[struct] Sentence: r
+[text] sadʰrīcīś   ca   hy   eṣa   viṣūcīś   ca   vasta   imā   eva   diśaḥ  \
+[struct] Sentence: s
+[text] ā   varīvartti
+[text] bʰuvaneṣv   antar
+[text] ity .
+[struct] Sentence: t
+[text] eṣa   hy   antar   bʰuvaneṣv   āvarīvartti  \
+[struct] Sentence: u
+[text] atʰo
+[text] āvr̥tāso
+[text] 'vatāso   na   kartr̥bʰir
+[text] iti  \
+[struct] Sentence: v
+[text] sarvaṃ   hīdaṃ   prāṇenāvr̥tam  \
+[struct] Sentence: w
+[text] so   'yam   ā/kāśaḥ
+[text] prāṇena   br̥hatyā   viṣṭabdʰas .
+[struct] Sentence: x
+[text] tad   yatʰāyam   ākāśaḥ   prāṇena   br̥hatyā
+[text] viṣṭabdʰa ,  evaṃ   sarvāṇi   bʰūtāny   ā   pipīlikābʰyaḥ   prāṇena   br̥hatyā
+[text] viṣṭabdʰānīty   evaṃ   vidyāt  \\ 6 \\
+[struct] Paragraph: 7
+[struct] Sentence: a
+[text] atʰāto   vibʰūtayo   'sya   puruṣasya  \
+[struct] Sentence: b
+[text] tasya   vācā   sr̥ṣṭau   pr̥tʰivī
+[text] cāgniś   ca -.
+[struct] Sentence: c
+[text] -asyām   oṣadʰayo   jāyante .
+[struct] Sentence: d
+[text] 'gnir   enāḥ   svadayati -.
+[struct] Sentence: e
+[text] -idam   āharatedam   ā/haratety
+[text] evam   etau   vācaṃ   pitaraṃ   paricarataḥ   pr̥tʰivī   cāgniś   ca  \
+[struct] Sentence: f
+[text] yāvad   anu
+[text] pr̥tʰivī ,  yāvad   anv   agnis ,  tāvān   asya   loko   bʰavati .
+[struct] Sentence: g
+[text] nāsya   tāval   loko
+[text] jīryate ,  yāvad   etayor   na   jīryate   pr̥tʰivyāś   cāgneś   ca ,  ya   evam   etāṃ   vāco
+[text] vibʰūtiṃ   veda  \
+[struct] Sentence: h
+[text] prāṇena   sr̥ṣṭāv   antarikṣaṃ   ca   vāyuś   ca -.
+[struct] Sentence: i
+[text] -antarikṣaṃ   vā   anu
+[text] caranty .
+[struct] Sentence: j
+[text] antarikṣam   anu   śr̥ṇvanti .
+[struct] Sentence: k
+[text] vāyur   asmai   puṇyaṃ   gandʰam   āvahaty .
+[struct] Sentence: l
+[text] evam   etau
+[text] prāṇaṃ   pitaraṃ   paricarato   'ntarikṣaṃ   ca   vāyuś   ca  \
+[struct] Sentence: m
+[text] yāvad   anv   antarikṣaṃ ,
+[text] yāvad   anu   vāyus ,  tāvān   asya   loko   bʰavati .
+[struct] Sentence: n
+[text] nāsya   tāval   loko
+[text] jīryate ,  yāvad   etayor   na   jīryate   'ntarikṣasya   ca   vāyoś   ca ,  ya   evam   etāṃ
+[text] prāṇasya   vibʰūtiṃ   veda  \
+[struct] Sentence: o
+[text] cakṣuṣā   sr̥ṣṭau   dyauś   cādityaś   ca .
+[struct] Sentence: p
+[text] dyaur   hāsmai
+[text] vr̥ṣṭim   annādyaṃ   saṃprayacʰaty .
+[struct] Sentence: q
+[text] ādityo   'sya   jyotiḥ   prakāśaṃ   karoty .
+[struct] Sentence: r
+[text] evam   etau
+[text] cakṣuḥ   pitaraṃ   paricarato   dyauś   cādityaś   ca  \
+[struct] Sentence: s
+[text] yāvad   anu   dyaur ,  yāvad   anv   ā/dityas ,
+[text] tāvān   asya   loko   bʰavati .
+[struct] Sentence: t
+[text] nāsya   tāval   loko   jīryate ,  yāva/d
+[text] etayor   na   jīryate   divaś   cādityasya   ca ,  ya   evam   etāṃ   cakṣuṣo   vibʰūtiṃ
+[text] veda  \
+[struct] Sentence: u
+[text] śrotreṇa   sr̥ṣṭā   diśaś   ca   candramāś   ca .
+[struct] Sentence: v
+[text] digbʰyo   hainam   āyantī3ṁ .
+[struct] Sentence: w
+[text] digbʰyo   viśr̥ṇoti .
+[struct] Sentence: x
+[text] candramā   asmai   pūrvapakṣāparapakṣān   vicinoti
+[text] puṇyāya   karmaṇa .
+[struct] Sentence: y
+[text] evam   ete   śrotraṃ   pitaraṃ   paricaranti   diśaś   ca   candra/māś
+[text] ca  \
+[struct] Sentence: z
+[text] yāvad   anu   diśo ,  yāvad   anu   candramās ,  tāvān   asya   loko   bʰavati .
+[struct] Sentence: aa
+[text] nāsya   tāval   loko   jīryate ,  yāvad   eteṣāṃ   na   jīryate   diśāṃ   ca   candrama/saś
+[text] ca ,  ya   evam   etāṃ   śrotrasya   vibʰūtiṃ   veda  \
+[struct] Sentence: ab
+[text] manasā   sr̥ṣṭā   āpaś   ca
+[text] varuṇaś   ca -.
+[struct] Sentence: ac
+[text] -āpo   hāsmai   śraddʰāṃ   saṃnamante   puṇyāya   karmaṇe .
+[struct] Sentence: ad
+[text] varuṇo   'sya
+[text] prajāṃ   dʰarmeṇa   dādʰāra -.
+[struct] Sentence: ae
+[text] -evam   ete   manaḥ   pitaraṃ   paricaranty   āpaś   ca   varuṇaś   ca  \
+[struct] Sentence: af
+[text] yāvad   anv   āpo ,  yāvad   anu   varuṇas ,  tāvān   asya   loko   bʰavati .
+[struct] Sentence: ag
+[text] nāsya
+[text] tāval   loko   jīryate ,  yāvad   eteṣāṃ   na   jīryate   'pāṃ   ca   varuṇasya   ca ,  ya
+[text] evam   etāṃ   manaso   vibʰūtiṃ   veda  \\ 7 \\
+[struct] Paragraph: 8
+[struct] Sentence: a
+[text] āpā3   ity .
+[struct] Sentence: b
+[text] āpa   iti .
+[struct] Sentence: c
+[text] tad   idam   āpa   eva -.
+[struct] Sentence: d
+[text] -idaṃ   vai   mūlam ,  adas   tūlam .
+[struct] Sentence: e
+[text] ayaṃ
+[text] pitaite   putrā .
+[struct] Sentence: f
+[text] yatra   ha   kva   ca   putrasya ,  tat   pitur .
+[struct] Sentence: g
+[text] yatra   vā   pitus ,  tad   vā
+[text] putrasya -.
+[struct] Sentence: h
+[text] -ity   etat   tad   uktaṃ   bʰavati  \
+[struct] Sentence: i
+[text] etad   dʰa   sma   vai   tad   vidvān   āha   mahidāsa
+[text] aitareya .
+[struct] Sentence: j
+[text] āhaṃ   māṃ   devebʰyo   veda .
+[struct] Sentence: k
+[text] o   mad   devān   veda -.
+[struct] Sentence: l
+[text] -itaḥpradānā   hy   eta ,  itaḥ
+[text] saṃbʰr̥tā   iti  \
+[struct] Sentence: m
+[text] sa   eṣa   giriś   cakṣuḥ   śrotraṃ   mano   vāk   prāṇas .
+[struct] Sentence: n
+[text] taṃ   brahma/girir
+[text] ity   ācakṣate  \
+[struct] Sentence: o
+[text] girati   ha   vai   dviṣantaṃ   pāpmānaṃ   bʰrātr̥vyaṃ .
+[struct] Sentence: p
+[text] parāsya   dviṣan   pāpmā   bʰrātr̥vyo   bʰavati ,  ya   evaṃ   veda  \
+[struct] Sentence: q
+[text] sa   eṣo   'suḥ .
+[struct] Sentence: r
+[text] sa   eṣa   prāṇaḥ .
+[struct] Sentence: s
+[text] sa   eṣa   bʰūtiś   cābʰūtiś   ca  \
+[struct] Sentence: t
+[text] taṃ   bʰūtir   iti   devā
+[text] upāsāñ   cakrire .
+[struct] Sentence: u
+[text] te   babʰūvus .
+[struct] Sentence: v
+[text] tasmād   dʰāpy   etarhi   supto   bʰūr   bʰūr   ity   eva   praśva/siti
+[text] \
+[struct] Sentence: w
+[text] abʰūtir   ity   asurās .
+[struct] Sentence: x
+[text] te   ha   parābabʰūvuḥ  \
+[struct] Sentence: y
+[text] bʰavanty   ātmanā ,  parāsya
+[text] dviṣan   pāpmā   bʰrātr̥vyo   bʰavati ,  ya   evam   veda  \
+[struct] Sentence: z
+[text] sa   eṣa   mr̥tyuś   caivāmr̥taṃ
+[text] ca  \
+[struct] Sentence: aa
+[text] tad   uktam   r̥ṣiṇā  \
+[struct] Sentence: ab
+[text] apāṅ   prāṅ   eti   svadʰayā   gr̥bʰīta
+[text] ity .
+[struct] Sentence: ac
+[text] apānena
+[text] hy   ayaṃ   yataḥ   prāṇo   na   parāṅ   bʰavati  \
+[struct] Sentence: ad
+[text] amartyo
+[text] amatyo}
+[text] martyenā   sayoni/r
+[text] ity .
+[struct] Sentence: ae
+[text] etena   hīdaṃ   sarvaṃ   sayoni .
+[struct] Sentence: af
+[text] martyāni   hīmāni   śarīrāṇī3ṁ ,
+[text] amr̥taiṣā   devatā  \
+[struct] Sentence: ag
+[text] tā   śaśvantā   viṣūcīnā   viyantā
+[text] ny   anyaṃ   ci/kyur
+[text] na   ni   cikyur   anyam
+[text] iti .
+[struct] Sentence: ah
+[text] nicinvanti   haivemāni   śarīrāṇī3ṁ ,
+[text] amr̥taivaiṣā   devatā  \
+[struct] Sentence: ai
+[text] amr̥to   ha   vā   amuṣmiṁl   loke   saṃbʰavaty .
+[struct] Sentence: aj
+[text] amr̥taḥ
+[text] sarvebʰyo   bʰūtebʰyo   dadr̥śe ,  ya   evaṃ   veda ,  ya   evaṃ   veda  \\ 8 \\
+[text] \\  ity   aitareyadvitīyāraṇyake   pratʰamo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 2
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] eṣa   imaṃ   lokam   abʰyārcat   puruṣarūpeṇa ,  ya   eṣa   tapati .
+[struct] Sentence: b
+[text] prāṇo
+[text] vāva   tad   abʰyārcat .
+[struct] Sentence: c
+[text] prāṇo   hy   eṣa ,  ya   eṣa   tapati  \
+[struct] Sentence: d
+[text] taṃ   śataṃ   varṣāṇy   abʰyā/rcat .
+[struct] Sentence: e
+[text] tasmāc   cʰataṃ   varṣāṇi   puruṣāyuṣo   bʰavanti .
+[struct] Sentence: f
+[text] taṃ   yac   cʰataṃ   varṣāṇy   abʰyā/rcat ,
+[text] tasmāc   cʰatarcinas .
+[struct] Sentence: g
+[text] tasmāc   cʰatarcina   ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: h
+[text] sa   idaṃ   sarvaṃ   madʰyato   dadʰe ,  yad   idaṃ   kiñ   ca .
+[struct] Sentence: i
+[text] sa   yad   idaṃ   sarvaṃ   madʰyato
+[text] dadʰe   yad   idaṃ   kiñ   ca ,  tasmān   mādʰyamās
+[text] madʰyamās
+[struct] Sentence: j
+[text] tasmān   mādʰyamā
+[text] madʰyamā
+[text] ity   ācakṣata
+[text] etam   eva   santam  \
+[struct] Sentence: k
+[text] prāṇo   vai   gr̥tso ,  'pāno   madaḥ .
+[struct] Sentence: l
+[text] sa   yat   prāṇo
+[text] gr̥tso   'pāno   madas ,  tasmād   gr̥tsamadas .
+[struct] Sentence: m
+[text] tasmād   gr̥tsamada   ity   ācakṣata   etam   eva
+[text] santam  \
+[struct] Sentence: n
+[text] tasyedaṃ   viśvaṃ   mitram   āsīd ,  yad   idaṃ   kiñ   ca .
+[struct] Sentence: o
+[text] tad   yad   asyedaṃ   viśvaṃ
+[text] mitram   āsīd   yad   idaṃ   kiñ   ca ,  tasmād   viśvāmitras .
+[struct] Sentence: p
+[text] tasmād   viśvāmitra   ity   ā/cakṣata
+[text] etam   eva   santam  \
+[struct] Sentence: q
+[text] taṃ   devā   abruvann .
+[struct] Sentence: r
+[text] ayaṃ   vai   naḥ   sarveṣāṃ   vāma
+[text] iti .
+[struct] Sentence: s
+[text] taṃ   yad   devā   abruvann   ayaṃ   vai   naḥ   sarveṣāṃ   vāma   iti ,  tasmād   vāma/devas .
+[struct] Sentence: t
+[text] tasmād   vāmadeva   ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: u
+[text] sa   idaṃ   sarvaṃ
+[text] pāpmano   'trāyata ,  yad   idaṃ   kiñ   ca .
+[struct] Sentence: v
+[text] sa   yad   idaṃ   sarvaṃ   pāpmano
+[text] 'trāyata   yad   idaṃ   kiñ   ca ,  tasmād   atrayas .
+[struct] Sentence: w
+[text] tasmād   atraya   ity   ācakṣata   etam   eva
+[text] santam  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] eṣa   u   eva   bibʰrad   vājaḥ .
+[struct] Sentence: b
+[text] prajā   vai   vājas .
+[struct] Sentence: c
+[text] tā   eṣa   bibʰarti .
+[struct] Sentence: d
+[text] yad   bi/bʰarti ,
+[text] tasmād   bʰaradvājas .
+[struct] Sentence: e
+[text] tasmād   bʰaradvāja   ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: f
+[text] taṃ   devā   abruvann .
+[struct] Sentence: g
+[text] ayaṃ   vai   naḥ   sarveṣāṃ   vasiṣṭʰa   ity .
+[struct] Sentence: h
+[text] taṃ   yad   devā   abru/vann
+[text] ayaṃ   vai   naḥ   sarveṣāṃ   vasiṣṭʰa   iti ,  tasmād   vasiṣṭʰas .
+[struct] Sentence: i
+[text] tasmād   vasiṣṭʰa
+[text] ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: j
+[text] sa   idaṃ   sarvam   abʰiprāgād ,  yad   idaṃ   kiñ   ca .
+[struct] Sentence: k
+[text] sa   yad   idaṃ   sarvam   abʰiprāgād   yad   idaṃ   kiñ   ca ,  tasmāt   pragātʰās .
+[struct] Sentence: l
+[text] tasmāt   pra/gātʰā
+[text] ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: m
+[text] sa   idaṃ   sarvam   abʰyapavayata
+[text] ,  yad   idaṃ   kiñ   ca .
+[struct] Sentence: n
+[text] sa   yad   idaṃ   sarvam   abʰyapavayata   yad   idaṃ   kiñ   ca ,  tasmāt   pā/vamānyas .
+[struct] Sentence: o
+[text] tasmāt   pāvamānya   ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: p
+[text] so   'bravī/d .
+[struct] Sentence: q
+[text] aham   idaṃ   sarvam   asāni   yac   ca   kṣudraṃ   yac   ca   mahad   iti .
+[struct] Sentence: r
+[text] te   kṣudrasūktāś   cābʰava/n
+[text] mahāsūktāś   ca .
+[struct] Sentence: s
+[text] tasmāt   kṣudrasūktās .
+[struct] Sentence: t
+[text] tasmāt   kṣudrasūktā   ity   ācakṣata   etam   eva
+[text] santam  \
+[struct] Sentence: u
+[text] sūktaṃ   vatāvocateti .
+[struct] Sentence: v
+[text] tat   sūktam   abʰavat .
+[struct] Sentence: w
+[text] tasmāt   sūktaṃ .
+[struct] Sentence: x
+[text] tasmāt   sūkta/m
+[text] ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: y
+[text] eṣa   vā   r̥g .
+[struct] Sentence: z
+[text] eṣa   hy   ebʰyaḥ   sarvebʰyo
+[text] survebʰyo}
+[text] bʰūtebʰyo   'rcata .
+[struct] Sentence: aa
+[text] sa   yad   ebʰyaḥ   sarvebʰyo   bʰūtebʰyo   'rcata ,  tasmād   r̥k .
+[struct] Sentence: ab
+[text] tasmād   r̥/g
+[text] ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: ac
+[text] eṣa   vā   ardʰarca .
+[struct] Sentence: ad
+[text] eṣa   hy   ebʰyaḥ
+[text] sarvebʰyo   'rdʰebʰyo   'rcata .
+[struct] Sentence: ae
+[text] sa   yad   ebʰyaḥ   sarvebʰyo   'rdʰebʰyo   'rcata ,  tasmā/d
+[text] ardʰarcas .
+[struct] Sentence: af
+[text] tasmād   ardʰarca   ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: ag
+[text] eṣa   vai   padam .
+[struct] Sentence: ah
+[text] eṣa
+[text] hīmāni   sarvāṇi   bʰūtāni   pādi .
+[struct] Sentence: ai
+[text] sa   yad   imāni   sarvāṇi   bʰūtāni
+[text] pādi ,  tasmāt   padaṃ .
+[struct] Sentence: aj
+[text] tasmāt   padam   ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: ak
+[text] eṣa
+[text] vā   akṣaram .
+[struct] Sentence: al
+[text] eṣa   hy   ebʰyaḥ   sarvebʰyo   bʰūtebʰyaḥ   kṣarati ,  na   cainam   atikṣaranti .
+[struct] Sentence: am
+[text] sa   yad   ebʰyaḥ   sarvebʰyo   bʰūtebʰuyaḥ   kṣaranti   na   cainam   atikṣaranti ,  tasmā/d
+[text] akṣaraṃ .
+[struct] Sentence: an
+[text] tasmād   akṣaram   ity   ācakṣata   etam   eva   santam  \
+[struct] Sentence: ao
+[text] tā   vā   etāḥ
+[text] sarvā   r̥caḥ   sarve   vedāḥ   sarve   gʰoṣā   ekaiva   vyāhr̥tiḥ   prāṇa   eva ,
+[text] prāṇa   r̥ca   ity   eva   vidyāt  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] viśvāmitraṃ   hy   etad   ahaḥ   śaṃsiṣyantam   indra   upaniṣasāda  \
+[struct] Sentence: b
+[text] sa   hānna/m
+[text] ity   abʰivyāhr̥tya   br̥hatīsahasraṃ   śaśaṃsa .
+[struct] Sentence: c
+[text] tenendrasya   priyaṃ   dʰāmopeyāya  \
+[struct] Sentence: d
+[text] tam   indra   uvāca .
+[struct] Sentence: e
+[text] r̥ṣe   priyaṃ   vai   me   dʰāmopāgāḥ .
+[struct] Sentence: f
+[text] sa   vā   r̥ṣe
+[text] dvitīyaṃ   śaṃseti  \
+[struct] Sentence: g
+[text] sa   hānnam   ity   evābʰivyāhr̥tya   br̥hatīsahasraṃ   śaśaṃsa .
+[struct] Sentence: h
+[text] tenendrasya   priyaṃ   dʰāmopeyāya  \
+[struct] Sentence: i
+[text] tam   indra   uvāca .
+[struct] Sentence: j
+[text] r̥ṣe   priyaṃ   vai   me
+[text] dʰāmopāgāḥ .
+[struct] Sentence: k
+[text] sa   vā   r̥ṣe   tr̥tīyaṃ   śaṃseti  \
+[struct] Sentence: l
+[text] sa   hānnam   ity   evābʰivyā/hr̥tya
+[text] br̥hatīsahasraṃ   śaśaṃsa .
+[struct] Sentence: m
+[text] tenendrasya   priyaṃ   dʰāmopeyāya  \
+[struct] Sentence: n
+[text] tam   indra
+[text] uvāca .
+[struct] Sentence: o
+[text] r̥ṣe   priyaṃ   vai   me   dʰāmopāgā .
+[struct] Sentence: p
+[text] varaṃ   te   dadāmīti  \
+[struct] Sentence: q
+[text] sa
+[text] hovāca .
+[struct] Sentence: r
+[text] tvām   eva   jānīyām   iti  \
+[struct] Sentence: s
+[text] tam   indra   uvāca .
+[struct] Sentence: t
+[text] prāṇo   vā
+[text] aham   asmy .
+[struct] Sentence: u
+[text] r̥ṣe   prāṇas   tvaṃ .
+[struct] Sentence: v
+[text] prāṇaḥ   sarvāṇi   bʰūtāni .
+[struct] Sentence: w
+[text] prāṇo   hy   eṣa ,  ya   eṣa
+[text] tapati .
+[struct] Sentence: x
+[text] sa   etena   rūpeṇa   sarvā   diśo   viṣṭo   'smi .
+[struct] Sentence: y
+[text] tasya   me   'nnaṃ
+[text] mitraṃ   dakṣiṇaṃ .
+[struct] Sentence: z
+[text] tad   vaiśvāmitram .
+[struct] Sentence: aa
+[text] eṣa   tapann   evāsmīti   hovāca  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] tad   vā   idaṃ   br̥hatīsahasraṃ   saṃpannaṃ .
+[struct] Sentence: b
+[text] tasya   tāni   vyañjanāni   tac   cʰa/rīraṃ .
+[struct] Sentence: c
+[text] yo   gʰoṣaḥ ,  sa   ātmā .
+[struct] Sentence: d
+[text] ya   ūṣmāṇaḥ ,  sa   prāṇaḥ  \
+[struct] Sentence: e
+[text] etad   dʰa   sma
+[text] vai   tad   vidvān   vasiṣṭʰo   vasiṣṭʰo   babʰūva .
+[struct] Sentence: f
+[text] tata   etan   nāmadʰeyaṃ   lebʰe  \
+[struct] Sentence: g
+[text] etad   u
+[text] haivendro   viśvāmitrāya   provāca -.
+[struct] Sentence: h
+[text] etad   u   haivendro   bʰaradvājāya   provāca .
+[struct] Sentence: i
+[text] tasmāt   sa   tena   bandʰunā   yajñeṣu   hūyate  \
+[struct] Sentence: j
+[text] tad   vā   idaṃ   br̥hatīsahasraṃ   saṃpannam .
+[struct] Sentence: k
+[text] tasya   vā   etasya   br̥hatīsahasrasya   saṃpannasya   ṣaṭtriṃśatam   akṣarāṇāṃ
+[text] sahasrāṇi   bʰavanti .
+[struct] Sentence: l
+[text] tāvanti   śatasaṃvatsarasyāhnāṃ   sahasrāṇi   bʰavanti .
+[struct] Sentence: m
+[text] vyañjanair   eva   rātrīr   āpnuvanti ,  svarair   ahāni  \
+[struct] Sentence: n
+[text] tad   vā   idaṃ   br̥hatīsahasraṃ
+[text] saṃpannaṃ .
+[struct] Sentence: o
+[text] tasya   vā   etasya   br̥hatīsahasrasya   saṃpannasya   parastāt   pra/jñāmayo
+[text] devatāmayo   brahmamayo   'mr̥tamayaḥ   saṃbʰūya   devatā   apyeti ,  ya
+[text] evaṃ   veda  \
+[struct] Sentence: p
+[text] tad   yo   'haṃ ,  so   'sau .
+[struct] Sentence: q
+[text] yo   'sau ,  so   'ham  \
+[struct] Sentence: r
+[text] tad   uktam   r̥ṣiṇā  \
+[struct] Sentence: s
+[text] sūrya   ātmā   jagatas   tastʰuṣaś   ca -
+[text] -iti  \
+[struct] Sentence: t
+[text] etad   u   haivopekṣetopekṣeta  \\ 4 \\
+[text] ity   aitareyadvitīyāraṇyake   dvitīyo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 3
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] yo   ha   vā   ātmānaṃ   pañcavidʰam   uktʰaṃ   veda ,  yasmād   idaṃ   sarvam   u/ttiṣṭʰati ,
+[text] sa   saṃprativit  \
+[struct] Sentence: b
+[text] pr̥tʰivī   vāyur   ākāśa   āpo   jyotīṃ/ṣīty
+[text] eṣa   vā   ātmoktʰaṃ   pañcavidʰam .
+[struct] Sentence: c
+[text] etasmād   dʰīdaṃ   sarvam   uttiṣṭʰaty .
+[struct] Sentence: d
+[text] etam   e/vāpyeti
+[text] \
+[struct] Sentence: e
+[text] ayanaṃ   ha   vai   samānānāṃ   bʰavati   ya   evaṃ   veda  \
+[struct] Sentence: f
+[text] tasmin   yo   'nnaṃ   cānnādaṃ   ca   vedāhāsminn   annādo   jāyate ,  bʰavaty   asyā/nnam
+[text] \
+[struct] Sentence: g
+[text] āpaś   ca   pr̥tʰivī   cānnam .
+[struct] Sentence: h
+[text] etanmayāni   hy   annāni   bʰavanti .
+[struct] Sentence: i
+[text] jyotiś   ca
+[text] vāyuś   cānnādam .
+[struct] Sentence: j
+[text] etābʰyāṃ   hīdaṃ   sarvam   annam   atty .
+[struct] Sentence: k
+[text] āvapanam   ākāśa .
+[struct] Sentence: l
+[text] ākāśe
+[text] hīdaṃ   sarvaṃ   samopyate  \
+[struct] Sentence: m
+[text] āvapanaṃ   ha   vai   samānānāṃ   bʰavati   ya   evaṃ
+[text] veda  \
+[struct] Sentence: n
+[text] tasmin   yo   'nnaṃ   cānnādaṃ   ca   vedāhāsminn   annādo   jāyate ,  bʰavaty   a/syānnam
+[text] \
+[struct] Sentence: o
+[text] oṣadʰivanaspatayo   'nnaṃ .
+[struct] Sentence: p
+[text] prāṇabʰr̥to   'nnādam .
+[struct] Sentence: q
+[text] oṣadʰivana/spatīn
+[text] hi   prāṇabʰr̥to   'danti  \
+[struct] Sentence: r
+[text] teṣāṃ   ya   ubʰayatodantāḥ   puruṣasyānu
+[text] vidʰāṃ   vihitās ,  te   'nnādā .
+[struct] Sentence: s
+[text] annam   itare   paśavas .
+[struct] Sentence: t
+[text] tasmāt   ta   itarān   paśū/n
+[text] adʰīva   caranty .
+[struct] Sentence: u
+[text] adʰīva   hy   anne   'nnādo   bʰavati  \
+[struct] Sentence: v
+[text] adʰīva   ha   samānānāṃ
+[text] jāyate   ya   evaṃ   veda  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] tasya   ya   ātmānam   āvistarāṃ   vedāśnute   hāvir   bʰūyaḥ  \
+[struct] Sentence: b
+[text] oṣadʰivana/spatayo ,
+[text] yac   ca   kiñ   ca   prāṇabʰr̥t ,  sa   ātmānam   āvistarāṃ   veda  \
+[struct] Sentence: c
+[text] oṣadʰi/vanaspatiṣu
+[text] hi   raso   dr̥śyate ,  cittaṃ   prāṇabʰr̥tsu  \
+[struct] Sentence: d
+[text] prāṇabʰr̥tsu   tv   evāvi/starām
+[text] ātmā .
+[struct] Sentence: e
+[text] teṣu   hi   raso   'pi   dr̥śyate ,  na   cittam   itareṣu  \
+[struct] Sentence: f
+[text] puruṣe
+[text] tv   evāvistarām   ātmā .
+[struct] Sentence: g
+[text] sa   hi   prajñānena   saṃpannatamo .
+[struct] Sentence: h
+[text] vijñātaṃ   vadati ,
+[text] vijñātaṃ   paśyati ,  veda   śvastanaṃ ,  veda   lokālokau .
+[struct] Sentence: i
+[text] martyenāmr̥tam   ī/psaty
+[text] evaṃ   saṃpannaḥ  \
+[struct] Sentence: j
+[text] atʰetareṣāṃ   paśūnām   aśanāpipāse   evābʰivijñānaṃ .
+[struct] Sentence: k
+[text] na   vijñātaṃ   vadanti ,  na   vijñātaṃ   paśyanti ,  na   viduḥ   śvastanaṃ ,  na
+[text] lokālokau .
+[struct] Sentence: l
+[text] ta   etāvanto   bʰavanti .
+[struct] Sentence: m
+[text] yatʰāprajñaṃ   hi   saṃbʰavāḥ  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] sa   eṣa   puruṣaḥ   samudraḥ   sarvaṃ   lokam   iti  \
+[struct] Sentence: b
+[text] yad   dʰa   kiñ   cāśnute ,  'ty   enaṃ
+[text] manyate .
+[struct] Sentence: c
+[text] yady   antarikṣalokam   aśnute ,  'ty   enaṃ   manyate .
+[struct] Sentence: d
+[text] yady   amuṃ   lokam   aśnuvī/tāty
+[text] evainaṃ   manyeta  \
+[struct] Sentence: e
+[text] sa   eṣa   puruṣaḥ   pañcavidʰas .
+[struct] Sentence: f
+[text] tasya   yad   uṣṇaṃ ,  taj   jyo/tir .
+[struct] Sentence: g
+[text] yāni   kʰāni ,  sa   ākāśo .
+[struct] Sentence: h
+[text] 'tʰa   yal   lohitaṃ   śleṣmā   retas ,  tā
+[text] āpo .
+[struct] Sentence: i
+[text] yac   cʰarīraṃ ,  sā   pr̥tʰivī .
+[struct] Sentence: j
+[text] yaḥ   prāṇaḥ ,  sa   vāyuḥ  \
+[struct] Sentence: k
+[text] sa   eṣa
+[text] vāyuḥ   pañcavidʰaḥ ,  prāṇo   'pāno   vyāna   udānaḥ   samānaḥ  \
+[struct] Sentence: l
+[text] tā
+[text] etā   devatāḥ   prāṇāpānayor   eva   niviṣṭāś ,  cakṣuḥ   śrotraṃ   mano   vā/g
+[text] iti .
+[struct] Sentence: m
+[text] prāṇasya   hy   anv   apāyam   etā   apiyanti  \
+[struct] Sentence: n
+[text] sa   eṣa   vācaś   ci/ttasyottarottarikramo ,
+[text] yad   yajñaḥ  \
+[struct] Sentence: o
+[text] sa   eṣa   yajñaḥ   pañcavidʰo ,  'gnihotraṃ
+[text] darśapūrṇamāsau   cāturmāsyāni   paśuḥ   somaḥ  \
+[struct] Sentence: p
+[text] sa   eṣa   yajñānāṃ
+[text] saṃpannatamo ,  yat   soma .
+[struct] Sentence: q
+[text] etasmin   hy   etāḥ   pañcavidʰā   adʰigamyante .
+[struct] Sentence: r
+[text] yat   prā/k
+[text] savanebʰyaḥ ,  saikā   vidʰā
+[text] saikāvidʰā}
+[text] .
+[struct] Sentence: s
+[text] trīṇi   savanāni .
+[struct] Sentence: t
+[text] yad   ūrdʰvaṃ ,  sā   pañcamī  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] yo   ha   vai   yajñe   yajñaṃ   vedāhany   ahar   deveṣu   devam   adʰyūl̥haṃ ,  sa   saṃprativit  \
+[struct] Sentence: b
+[text] eṣa   vai   yajñe   yajño   'hany   ahar   deveṣu   devo   'dʰyūl̥ho ,  yad   etan   mahad   uktʰam  \
+[struct] Sentence: c
+[text] tad   etat   pañcavidʰaṃ .
+[struct] Sentence: d
+[text] trivr̥t   pañcadaśaṃ   saptadaśam   ekaviṃśaṃ   pañcaviṃśam   iti
+[text] stomato .
+[struct] Sentence: e
+[text] gāyatraṃ   ratʰantaraṃ   br̥had   bʰadraṃ   rājanam   iti   sāmato .
+[struct] Sentence: f
+[text] gāyatry   u/ṣṇig
+[text] br̥hatī   triṣṭub   dvipadeti   cʰandastaḥ .
+[struct] Sentence: g
+[text] śiro   dakṣiṇaḥ   pakṣa   uttaraḥ
+[text] pakṣaḥ   puccʰam   ātmety   ākʰyānam  \
+[struct] Sentence: h
+[text] pañcakr̥tvaḥ   prastauti .
+[struct] Sentence: i
+[text] pañcakr̥tva   udgā/yati .
+[struct] Sentence: j
+[text] pañcakr̥tvaḥ   pratiharati .
+[struct] Sentence: k
+[text] pañcakr̥tva   upadravati .
+[struct] Sentence: l
+[text] pañcakr̥tvo   nidʰa/nam
+[text] upayanti .
+[struct] Sentence: m
+[text] tat   stobʰasahasraṃ   bʰavati  \
+[struct] Sentence: n
+[text] evaṃ   hy   etāḥ   pañca   vidʰā
+[text] anuśasyante .
+[struct] Sentence: o
+[text] yat   prāk   tr̥cāśītibʰyaḥ ,  saukā   vidʰā .
+[struct] Sentence: p
+[text] tisras   tr̥cāśītayo .
+[struct] Sentence: q
+[text] yad   ūrdʰvaṃ ,  sā   pañcamī  \
+[struct] Sentence: r
+[text] tad   etat   sahasraṃ .
+[struct] Sentence: s
+[text] tat   sarvaṃ .
+[struct] Sentence: t
+[text] tāni   daśa   daśeti   vai
+[text] sarvam .
+[struct] Sentence: u
+[text] etāvatī   hi   saṃkʰyā .
+[struct] Sentence: v
+[text] daśa   daśatas ,  tac   cʰataṃ .
+[struct] Sentence: w
+[text] daśaśatāni ,  tat   sahasraṃ .
+[struct] Sentence: x
+[text] tat   sarvam  \
+[struct] Sentence: y
+[text] tāni   trīṇi   cʰandāṃsi   bʰavanti .
+[struct] Sentence: z
+[text] tredʰāvihitaṃ
+[text] tredʰā   vihitaṃ}
+[text] vā
+[text] idam   annam ,  aśanaṃ   pānaṃ   kʰādas .
+[struct] Sentence: aa
+[text] tad   etair   āpnoti  \\ 4 \\
+[struct] Paragraph: 5
+[struct] Sentence: a
+[text] tad   vā   idaṃ   br̥hatīsahasraṃ   saṃpannam  \
+[struct] Sentence: b
+[text] tad   dʰaitad   eke   nānācʰandasāṃ   sahasraṃ
+[text] pratijānate ,  kim   anyat ,  sad   anyad   brūyāmeti  \
+[struct] Sentence: c
+[text] triṣṭupsahasram   eke .
+[struct] Sentence: d
+[text] jagatīsa/hasram
+[text] eke .
+[struct] Sentence: e
+[text] 'nuṣṭupsahasram   eke  \
+[struct] Sentence: f
+[text] tad   uktam   r̥ṣiṇā  \
+[struct] Sentence: g
+[text] anuṣṭubʰam   anu   carcūryamā/ṇam
+[text] indraṃ   ni   cikyuḥ   kavayo   manīṣā -
+[text] -iti  \\
+[struct] Sentence: h
+[text] vāci   vai   tad   aindraṃ   prāṇaṃ
+[text] nyacāyann   ity   etat   tad   uktaṃ   bʰavati  \
+[struct] Sentence: i
+[text] sa   heśvaro   yaśasvī   kalyāṇakīrti/r
+[text] bʰavator .
+[struct] Sentence: j
+[text] īśvaro   ha   tu   purāyuṣaḥ   praitor   iti   ha   smāha -.
+[struct] Sentence: k
+[text] -akr̥tsno   hy   eṣa
+[text] ātmā ,  yad   vāg .
+[struct] Sentence: l
+[text] abʰi   hi   prāṇena   manase   'syamāno   vācā   nānu/bʰavati
+[text] \
+[struct] Sentence: m
+[text] br̥hatīm   abʰisaṃpādayed .
+[struct] Sentence: n
+[text] eṣa   vai   kr̥tsna   ātmā ,  yad   br̥hatī  \
+[struct] Sentence: o
+[text] so
+[text] 'yam   ātmā   sarvataḥ   śarīraiḥ   parivr̥tas .
+[struct] Sentence: p
+[text] tad   yatʰāyam   ātmā   sarvataḥ   śarīraiḥ
+[text] parivr̥ta ,  evam   eva   br̥hatī   sarvataś   cʰandobʰiḥ   parivr̥tā  \
+[struct] Sentence: q
+[text] madʰyaṃ   hy   eṣā/m
+[text] aṅgānām   ātmā ,  madʰyaṃ   cʰandasāṃ   br̥hatī  \
+[struct] Sentence: r
+[text] sa   heśvaro   yaśasvī   kalyā/ṇakīrtir
+[text] bʰavator .
+[struct] Sentence: s
+[text] īśvaro   ha   tu   purāyuṣaḥ   praitor   iti   ha   smāha .
+[struct] Sentence: t
+[text] kr̥tsno
+[text] hy   eṣa   ātmā ,  yad   br̥hatī .
+[struct] Sentence: u
+[text] tasmād   br̥hatīm   evābʰisaṃpādayet  \\ 5 \\
+[struct] Paragraph: 6
+[struct] Sentence: a
+[text] tad   vā   idaṃ   br̥hatīsahasraṃ   saṃpannaṃ .
+[struct] Sentence: b
+[text] tasya   vā   etasya   br̥hatīsahasrasya
+[text] saṃpannasyaikādaśānuṣṭbʰāṃ   śatāni   bʰavanti   pañcaviṃśatiś   cānuṣṭubʰa .
+[struct] Sentence: c
+[text] āttaṃ   vai   bʰūyasā   kanīyaḥ  \
+[struct] Sentence: d
+[text] tad   uktam   r̥ṣiṇā  \
+[struct] Sentence: e
+[text] vācam   aṣṭāpadīm   aham
+[text] i/ty .
+[struct] Sentence: f
+[text] aṣṭau   hi   caturakṣarāṇi   bʰavanti  \
+[struct] Sentence: g
+[text] navasraktim
+[text] ity .
+[struct] Sentence: h
+[text] br̥hatī   saṃpadya/mānā
+[text] navasraktiḥ
+[text] navasrakti
+[text] \
+[struct] Sentence: i
+[text] r̥taspr̥śam
+[text] iti .
+[struct] Sentence: j
+[text] satyaṃ   vai   vāg   r̥cā   spr̥ṣṭā  \
+[struct] Sentence: k
+[text] indrāt   pari   tanvaṃ   mama
+[text] iti .
+[struct] Sentence: l
+[text] tad   yad   evaitad   br̥hatīsahasram   anuṣṭupsaṃpannaṃ
+[text] bʰavati ,  tasmāt   tad   aindrāt   prāṇād   br̥hatyai   vācam   anuṣṭubʰaṃ   tanvaṃ   saṃnirmimīte  \
+[struct] Sentence: m
+[text] sa   vā   eṣa   vācaḥ   paramo   vikāro ,  yad   etan   mahad   uktʰaṃ .
+[struct] Sentence: n
+[text] tad   etat   pañcavidʰaṃ ,
+[text] mitam   amitaṃ   svaraḥ   satyānr̥te   iti  \
+[struct] Sentence: o
+[text] r̥g   gātʰā   kumbyā ,  tan   mitaṃ .
+[struct] Sentence: p
+[text] yajur   nigado   vr̥tʰāvāk ,  tad   amitaṃ .
+[struct] Sentence: q
+[text] sāmātʰo   yaḥ   kaś   ca   geṣṇaḥ ,  saḥ   svara .
+[struct] Sentence: r
+[text] o3m   iti   saytaṃ .
+[struct] Sentence: s
+[text] nety   anr̥tam  \
+[struct] Sentence: t
+[text] tad   etat   puṣpaṃ   pʰalaṃ   vāco ,  yat   satyaṃ .
+[struct] Sentence: u
+[text] sa
+[text] heśvaro   yaśasvī   kalyāṇakīrtir   bʰavitoḥ .
+[struct] Sentence: v
+[text] puṣpaṃ   hi   pʰalaṃ   vācaḥ
+[text] satyaṃ   vadati  \
+[struct] Sentence: w
+[text] atʰaitan   mūlaṃ   vāco ,  yad   anr̥taṃ .
+[struct] Sentence: x
+[text] tad   yatʰā   vr̥kṣa   āvirmūlaḥ
+[text] śuṣyati .
+[struct] Sentence: y
+[text] sa   udvartata .
+[struct] Sentence: z
+[text] evam   evānr̥taṃ   vadann   āvirmūlam   ātmānaṃ   karoti .
+[struct] Sentence: aa
+[text] sa   śuṣyati .
+[struct] Sentence: ab
+[text] sa   udvartate  \
+[struct] Sentence: ac
+[text] tasmād   anr̥taṃ   na   vaded .
+[struct] Sentence: ad
+[text] dayeta   tv   enena  \
+[struct] Sentence: ae
+[text] parāg   vā
+[text] etad   riktam   akṣaraṃ ,  yad   etad   o3m   iti .
+[struct] Sentence: af
+[text] tad   yat   kiñcom   ity   āhātraivāsmai   tad   ri/cyate .
+[struct] Sentence: ag
+[text] sa   yat   sarvam   oṃ   kuryād ,  riñcyād   ātmānaṃ .
+[struct] Sentence: ah
+[text] sa   kāmebʰyo   nālaṃ   syāt  \
+[struct] Sentence: ai
+[text] atʰaitat   pūrṇam   abʰyātmaṃ ,  yan   neti  \
+[struct] Sentence: aj
+[text] sa   yat   sarvaṃ   neti   brūyāt ,  pāpikāsya
+[text] kīrtir   jāyeta .
+[struct] Sentence: ak
+[text] sainaṃ   tatraiva   hanyāt  \
+[struct] Sentence: al
+[text] tasmāt   kāla   eva   dadyāt ,  kāle   na
+[text] dadyāt .
+[struct] Sentence: am
+[text] tat   satyānr̥te   mitʰunīkaroti .
+[struct] Sentence: an
+[text] tayor   mitʰunāt   prajāyate ,  bʰūyān   bʰa/vati
+[text] \
+[struct] Sentence: ao
+[text] yo   vai   tāṃ   vācaṃ   veda ,  yasyā   eṣa   vikāraḥ ,  sa   saṃprativit  \
+[struct] Sentence: ap
+[text] akāro   vai   sarvā   vāk .
+[struct] Sentence: aq
+[text] saiṣā   sparśoṣmabʰir   vyajyamānā   bahvī   nānā/rūpā
+[text] bʰavati  \
+[struct] Sentence: ar
+[text] tasyai   yad   upāṃśu ,  sa   prāṇo .
+[struct] Sentence: as
+[text] 'tʰa   yad   uccais ,  tac   cʰarīraṃ .
+[struct] Sentence: at
+[text] tasmāt   tat   tira   iva .
+[struct] Sentence: au
+[text] tira   iva   hy   aśarīram .
+[struct] Sentence: av
+[text] aśarīro   hi   prāṇo .
+[struct] Sentence: aw
+[text] 'tʰa
+[text] yad   uccais ,  tac   cʰarīraṃ .
+[struct] Sentence: ax
+[text] tasmāt   tad   āvir .
+[struct] Sentence: ay
+[text] āvir   hi   śarīram  \\ 6 \\
+[struct] Paragraph: 7
+[struct] Sentence: a
+[text] tad   vā   idaṃ   br̥hatīsahasraṃ   saṃpannaṃ .
+[struct] Sentence: b
+[text] tad   yaśaḥ .
+[struct] Sentence: c
+[text] sa   indraḥ .
+[struct] Sentence: d
+[text] sa   bʰūtānām   a/dʰipatiḥ
+[text] \
+[struct] Sentence: e
+[text] sa   ya   evam   etam   indraṃ   bʰūtānām   adʰipatiṃ   veda ,  visrasā
+[text] haivāsmāl   lokāt   praitīti   ha   smāha   mahidāsa   aitareyaḥ .
+[struct] Sentence: f
+[text] pretyendro
+[text] bʰūtvaiṣu   lokeṣu   rājati  \
+[struct] Sentence: g
+[text] tad   āhur .
+[struct] Sentence: h
+[text] yad   anena   rūpeṇāmuṃ   lokam   abʰisaṃ/bʰavatī3ṁ ,
+[text] atʰa   kena   rūpeṇemaṃ   lokam   ābʰavatī3ṁ  \
+[struct] Sentence: i
+[text] tad   yad   etat   striyāṃ
+[text] lohitaṃ   bʰavaty ,  agnes   tad   rūpaṃ .
+[struct] Sentence: j
+[text] tasmāt   tasmān   na   bībʰatseta -
+[struct] Sentence: k
+[text] -atʰa   yad   etat   puruṣe
+[text] reto   bʰavaty ,  ādityasya   tad   rūpaṃ .
+[struct] Sentence: l
+[text] tasmāt   tasmān   na   bībʰatseta  \
+[struct] Sentence: m
+[text] so   'yam   ā/tmemam
+[text] ātmānam   amuṣmā   ātmane   saṃprayacʰaty .
+[struct] Sentence: n
+[text] asāv   ātmāmum   ātmānam
+[text] imasmā   ātmane   saṃprayacʰati .
+[struct] Sentence: o
+[text] tāv   anyonyam   abʰisaṃbʰavato .
+[struct] Sentence: p
+[text] 'nenāha   rūpe/ṇāmuṃ
+[text] lokam   abʰisaṃbʰavaty ,  amuno   rūpeṇemaṃ   lokam   ābʰavati  \\ 7 \\
+[struct] Sentence: q
+[text] tatraite   ślokāḥ  \
+[struct] Sentence: r
+[struct] Verse: 1
+[text] yad   akṣaraṃ   pañcavidʰaṃ   sameti
+[text] \
+[text] yujo   yuktā   abʰi   yat   saṃvahanti
+[text] \
+[text] satyasya   satyam   anu   yatra   yujyate
+[text] \
+[text] tatra   devāḥ   sarva   ekaṃ   bʰavanti
+[text] \\ 1 \\
+[struct] Sentence: s
+[struct] Verse: 2
+[text] yad   akṣarād   akṣaram   eti   yuktam
+[text] \
+[text] yujo   yuktā   abʰi   yat   saṃvahanti
+[text] \
+[text] satyasya   satyam   anu   yatra   yujyate
+[text] \
+[text] tatra   devāḥ   sarva   ekaṃ   bʰavanti
+[text] \\ 2 \\
+[struct] Sentence: t
+[struct] Verse: 3
+[text] yad   vāca   om   iti   yac   ca   neti
+[text] \
+[text] yac   cāsyāḥ   krūraṃ   yad   u
+[text] yadi
+[text] colba/ṇiṣṇu
+[text] \
+[text] tad   viyūyā   kavayo   anvavindan
+[text] \
+[text] nāmāyattā   samatr̥pya/ñ
+[text] cʰrute   'dʰi
+[text] 'ti
+[text] \\ 3 \\
+[struct] Sentence: u
+[struct] Verse: 4
+[text] yasmin   nāmā   samatr̥pyañ   cʰrute   'dʰi
+[text] 'ti
+[text] \
+[text] tatra   devāḥ   sarvayujo   bʰavanti
+[text] \
+[text] tena   pāpmānam   apahatya   brahmaṇā
+[text] \
+[text] svargaṃ   lokam   apyeti   vidvān
+[text] \\ 4 \\
+[struct] Sentence: v
+[struct] Verse: 5
+[text] nainaṃ   vācā   striyaṃ   bruvan
+[text] \
+[text] nainam   astrīpumān   bruvan
+[text] \
+[text] pumāṃsaṃ   na
+[text] bruvann   enam
+[text] \
+[text] vadan   vadati   kaś   cana
+[text] \\ 5 \\
+[struct] Paragraph: 8
+[struct] Sentence: a
+[text] a
+[text] aha
+[text] aḥ
+[text] iti   brahma .
+[struct] Sentence: b
+[text] tatrāgatam   aham   iti  \
+[struct] Sentence: c
+[text] tad   vā   idaṃ   br̥hatīsahasraṃ
+[text] saṃpannaṃ .
+[struct] Sentence: d
+[text] tasya   vā   etasya   br̥hatīsahasrasya   saṃpannasya   ṣaṭtriṃśatam   akṣa/rāṇāṃ
+[text] sahasrāṇi   bʰavanti .
+[struct] Sentence: e
+[text] tāvanti   puruṣāyuṣo   'hnāṃ   sahasrāṇi
+[text] bʰavanti  \
+[struct] Sentence: f
+[text] jīvākṣareṇaiva   jīvāhar   āpnoti ,  jīvāhnā   jīvākṣara/m
+[text] iti  \
+[struct] Sentence: g
+[text] anakāmamāro   'tʰa   devaratʰas .
+[struct] Sentence: h
+[text] tasya   vāg   uddʰiḥ ,  śrotre   pakṣasī ,
+[text] cakṣuṣī   yukte ,  manaḥ   saṃgrahītā .
+[struct] Sentence: i
+[text] tad   ayaṃ   prāṇo   'dʰitiṣṭʰati  \
+[struct] Sentence: j
+[text] tad   uktam   r̥/ṣiṇā
+[text] \
+[struct] Sentence: k
+[text] ā   tena   yātaṃ   manaso   javīyasā
+[text] nimiṣaś   cij   javīyasā -
+[text] -iti ,
+[text] javīyaseti  \\ 8 \\
+[text] \\  ity   aitareyadvitīyāraṇyake   tr̥tīyo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 4
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] ātmā   vā   idam   eka   evāgra   āsīn ,  nānyat   kiñ   cana   miṣat  \
+[struct] Sentence: b
+[text] sa
+[text] īkṣata  \
+[struct] Sentence: c
+[text] lokān   nu   sr̥jā   iti  \
+[struct] Sentence: d
+[text] sa   imāṁl   lokān   asr̥jata  \  ambʰo
+[text] marīcīr   maram   āpaḥ  \
+[struct] Sentence: e
+[text] ado   'mbʰaḥ .
+[struct] Sentence: f
+[text] pareṇa   divaṃ .
+[struct] Sentence: g
+[text] dyauḥ   pratiṣṭʰā -.
+[struct] Sentence: h
+[text] -antarikṣaṃ
+[text] marīcayaḥ .
+[struct] Sentence: i
+[text] pr̥tʰivī   maro .
+[struct] Sentence: j
+[text] yā   adʰastāt ,  tā   āpaḥ  \
+[struct] Sentence: k
+[text] sa   īkṣata -.
+[struct] Sentence: l
+[text] -ime   nu
+[text] lokā .
+[struct] Sentence: m
+[text] lokapālān   nu   sr̥jā   iti  \
+[struct] Sentence: n
+[text] so   'dbʰya   eva   puruṣaṃ   samuddʰr̥tyā/mūrcʰayat
+[text] \
+[struct] Sentence: o
+[text] tam   abʰyatapat .
+[struct] Sentence: p
+[text] tasyābʰitaptasya   mukʰaṃ   nirabʰidyata   yatʰāṇḍaṃ
+[text] ,  mukʰād   vāg ,  vāco   'gniḥ  \
+[struct] Sentence: q
+[text] nāsike
+[text] nasike}
+[text] nirabʰidyetāṃ ,  nāsikābʰyāṃ   prāṇaḥ ,
+[text] prāṇād   vāyuḥ  \
+[struct] Sentence: r
+[text] akṣiṇī   nirabʰidyetām ,  akṣībʰyāṃ
+[text] akṣibʰyāṃ
+[text] cakṣuś ,  cakṣuṣa
+[text] ādityaḥ  \
+[struct] Sentence: s
+[text] karṇau   nirabʰidyetāṃ ,  karṇābʰyāṃ   śrotraṃ ,  śrotrād   diśaḥ  \
+[struct] Sentence: t
+[text] tvaṅ   nirabʰidyata ,  tvacā   lomāni ,  lomabʰya   oṣadʰivanaspatayaḥ  \
+[struct] Sentence: u
+[text] hr̥dayaṃ   nirabʰidyata ,  hr̥dayān   mano ,  manasaś   candramāḥ  \
+[struct] Sentence: v
+[text] nābʰir   nirabʰidyata ,
+[text] nābʰyā   apāno ,  'pānān   mr̥tyuḥ  \
+[struct] Sentence: w
+[text] śiśnaṃ   nirabʰidyata ,  śiśnād   reto ,
+[text] retasa   āpaḥ  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] tā   etā   devatāḥ   sr̥ṣṭā   asmin   mahaty   arṇave   prāpataṃs .
+[struct] Sentence: b
+[text] tam   aśanāpipā/sābʰyām
+[text] aśanāyāpipāse
+[text] anvavārjat  \
+[struct] Sentence: c
+[text] tā   enam   abruvann .
+[struct] Sentence: d
+[text] āyatanaṃ   naḥ   prajānīhi ,  yasmi/n
+[text] pratiṣṭʰitā   annam   adāmeti  \
+[struct] Sentence: e
+[text] tābʰyo   gām   ānayat .
+[struct] Sentence: f
+[text] tā   abruvan .
+[struct] Sentence: g
+[text] na   vai
+[text] no   'yam   alam   iti  \
+[struct] Sentence: h
+[text] tābʰyo   'śvam   ānayat .
+[struct] Sentence: i
+[text] tā   abruvan .
+[struct] Sentence: j
+[text] na   vai   no   'yam   a/lam
+[text] iti  \
+[struct] Sentence: k
+[text] tābʰyaḥ   puruṣam   ānayat .
+[struct] Sentence: l
+[text] tā   abruvan .
+[struct] Sentence: m
+[text] sukr̥taṃ   vateti .
+[text] bateti
+[struct] Sentence: n
+[text] puruṣo
+[text] vāva   sukr̥taṃ  \
+[struct] Sentence: o
+[text] tā   abravīd .
+[struct] Sentence: p
+[text] yatʰāyatanaṃ   praviśateti  \
+[struct] Sentence: q
+[text] agnir   vāg   bʰūtvā
+[text] mukʰaṃ   prāviśad .
+[struct] Sentence: r
+[text] vāyuḥ   prāṇo   bʰūtvā   nāsike   prāviśad .
+[struct] Sentence: s
+[text] ādityaś   cakṣu/r
+[text] bʰūtvākṣiṇī   prāviśad .
+[struct] Sentence: t
+[text] diśaḥ   śrotraṃ   bʰūtvā   karṇau   prāviśann .
+[struct] Sentence: u
+[text] oṣadʰivana/spatayo
+[text] lomāni   bʰūtvā   tvacaṃ   prāviśaṃś .
+[struct] Sentence: v
+[text] candramā   mano   bʰūtvā   hr̥dayaṃ
+[text] prāviśan .
+[struct] Sentence: w
+[text] mr̥tyur   apāno   bʰūtvā   nābʰiṃ   prāviśad .
+[struct] Sentence: x
+[text] āpo   reto   bʰūtvā   śiśnaṃ
+[text] prāviśan  \
+[struct] Sentence: y
+[text] tam   aśanāpipāse   abrūtām .
+[struct] Sentence: z
+[text] āvābʰyām   abʰiprajānīhīti .
+[struct] Sentence: aa
+[text] te
+[text] abravīd .
+[struct] Sentence: ab
+[text] etāsv   eva   vāṃ   devatāsv   ābʰajāmy .
+[struct] Sentence: ac
+[text] etāsu   bʰāginyau   karomīti  \
+[struct] Sentence: ad
+[text] tasmād   yasyai   kasyai   ca   devatāyai   havir   gr̥hyate ,  bʰāginyāv   evāsyām   aśa/nāpipāse
+[text] bʰavataḥ  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] sa   īkṣata -.
+[struct] Sentence: b
+[text] -ime   nu   lokāś   ca   lokapālāś   ca -
+[struct] Sentence: c
+[text] -annam   ebʰyaḥ   sr̥jā   iti  \
+[struct] Sentence: d
+[text] so   'po   'bʰyatapat .
+[struct] Sentence: e
+[text] tābʰyo   'bʰitaptābʰyo   mūrtir   ajāyata  \
+[struct] Sentence: f
+[text] yā   vai   sā
+[text] mūrtir   ajāyatānnaṃ   vai   tat  \
+[struct] Sentence: g
+[text] tad   enat   sr̥ṣṭaṃ
+[text] tad   etad   abʰisr̥ṣṭaṃ
+[text] tad annaṃ
+[text] etat
+[text] parāṅ   atyajigāṃsat
+[text] atyajigʰāṃsat
+[struct] Sentence: h
+[text] tad   vācāji/gʰr̥kṣat .
+[struct] Sentence: i
+[text] tan   nāśaknod   vācā   grahītum  \
+[struct] Sentence: j
+[text] sa   yad   dʰainad   vācāgrahaiṣyad ,  abʰivyāhr̥tya
+[text] haivānnam   atrapsyat  \
+[struct] Sentence: k
+[text] tat   prāṇenājigʰr̥kṣat .
+[struct] Sentence: l
+[text] tan   nāśaknot   prāṇena   grahītum  \
+[struct] Sentence: m
+[text] sa   yad   dʰainat   prāṇenāgrahaiṣyad ,  abʰiprāṇya   haivānnam   atrapsyat  \
+[struct] Sentence: n
+[text] tac   cakṣuṣāji/gʰr̥kṣat .
+[struct] Sentence: o
+[text] tan   nāśaknoc   cakṣuṣā   grahītum  \
+[struct] Sentence: p
+[text] sa   yad   dʰainac   cakṣuṣāgrahaiṣyad ,  dr̥ṣṭvā   haivā/nnam
+[text] atrapsyat  \
+[struct] Sentence: q
+[text] tac   cʰrotreṇājigʰr̥kṣat .
+[struct] Sentence: r
+[text] tan   nāśaknoc   cʰrotreṇa   grahītum  \
+[struct] Sentence: s
+[text] sa
+[text] yad   dʰainac   cʰrotreṇāgrahaiṣyac
+[text] cʰrotraiṇāgrahaiṣyac}
+[text] ,  cʰrutvā   haivānnam   atrapsyat  \
+[struct] Sentence: t
+[text] tat   tvacājigʰr̥kṣat .
+[struct] Sentence: u
+[text] ta/n
+[text] nāśaknot   tvacā   grahītum  \
+[struct] Sentence: v
+[text] sa   yad   dʰainat   tvacāgrahaiṣyat ,  spr̥ṣṭvā   haivānna/m
+[text] atrapsyat  \
+[struct] Sentence: w
+[text] tan   manasājigʰr̥kṣat .
+[struct] Sentence: x
+[text] tan   nāśaknon   manasā   grahītum  \
+[struct] Sentence: y
+[text] sa
+[text] yad   dʰainan   manasāgrahaiṣyad ,  dʰyātvā   haivānnam   atrapsyat  \
+[struct] Sentence: z
+[text] tac   cʰiśnenājigʰr̥kṣa/t .
+[struct] Sentence: aa
+[text] tan   nāśaknoc   cʰiśnena   grahītum  \
+[struct] Sentence: ab
+[text] sa   yad   dʰainac   cʰiśnenāgrahaiṣyad ,  visr̥jya
+[text] haivānnam   atrapsyat  \
+[struct] Sentence: ac
+[text] tad   apānenājigʰr̥kṣat .
+[struct] Sentence: ad
+[text] tad   āvayat  \
+[struct] Sentence: ae
+[text] saiṣo
+[text] sa   eṣo
+[text] 'nnasya
+[text] graho ,  yad   vāyur .
+[struct] Sentence: af
+[text] annāyur   vā   eṣa ,  yad   vāyuḥ  \
+[struct] Sentence: ag
+[text] sa   īkṣata .
+[struct] Sentence: ah
+[text] katʰaṃ   nv   idaṃ   madr̥te
+[text] syād   iti  \
+[struct] Sentence: ai
+[text] sa   īkṣata .
+[struct] Sentence: aj
+[text] katareṇa   prapadyā   iti  \
+[struct] Sentence: ak
+[text] sa   īkṣata .
+[struct] Sentence: al
+[text] yadi
+[text] vācābʰivyāhr̥taṃ ,  yadi   prāṇenābʰiprāṇitaṃ ,  yadi   cakṣuṣā   dr̥ṣṭaṃ ,  yadi
+[text] śrotreṇa   śrutaṃ ,  yadi   tvacā   spr̥ṣṭaṃ ,  yadi   manasā   dʰyātaṃ ,  yady   apānenā/bʰyapānitaṃ ,
+[text] yadi   śiśnena   visr̥ṣṭam ,  atʰa   ko   'ham   iti  \
+[struct] Sentence: am
+[text] sa   etam   eva
+[text] sīmānaṃ   vidāryaitayā   dvārā   prāpadyata  \
+[struct] Sentence: an
+[text] saiṣā   vidr̥tir   nāma   dvās .
+[struct] Sentence: ao
+[text] ta/d
+[text] etan   nāndanam  \
+[struct] Sentence: ap
+[text] tasya   traya   āvasatʰās ,  trayaḥ   svapnā ,  ayam   āvasatʰo
+[text] 'yam   āvasatʰo   'yam   āvasatʰa   iti  \
+[struct] Sentence: aq
+[text] sa   jāto   bʰūtāny   abʰivyaikṣa/t .
+[text] vyaikṣat
+[text] vyaikʰyat
+[text] vivaikṣat
+[text] vāva diśet
+[struct] Sentence: ar
+[text] kim   ihānyaṃ   vāvadiṣad   iti  \
+[struct] Sentence: as
+[text] sa   etam   eva   puruṣaṃ   brahma   tatamam   apa/śyat
+[text] \
+[struct] Sentence: at
+[text] idam   adarśam   itī3ṁ  \
+[struct] Sentence: au
+[text] tasmād   idaṃdro   nāma -.
+[struct] Sentence: av
+[text] -idaṃdro   ha   vai   nāma .
+[struct] Sentence: aw
+[text] tam   idaṃdraṃ   santam   indra   ity   ācakṣate   parokṣeṇa  \
+[struct] Sentence: ax
+[text] parokṣapriyā   iva   hi
+[text] devāḥ  \  parokṣapriyā   iva   hi   devāḥ  \\ 3 \\
+[text] \\  ity   aitareyadvitīyāraṇyake   caturtʰo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 5
+[struct] Sentence: ba
+[text] puruṣe   ha   vā   ayam   ādito   garbʰo   bʰavati  \
+[struct] Sentence: bb
+[text] yad   etad   retas ,  tad   eta/t
+[text] sarvebʰyo   'ṅgebʰyas   tejaḥ   saṃbʰūtam
+[text] saṃbʰr̥taṃ
+[text] ātmany   evātmānaṃ   bibʰarti .
+[struct] Sentence: bc
+[text] tad   yadā   striyāṃ
+[text] siñcaty ,  atʰainaj   janayati  \
+[struct] Sentence: bd
+[text] tad   asya   pratʰamaṃ   janma  \
+[struct] Sentence: be
+[text] tat   striyā   ātmabʰūyaṃ
+[text] gacʰati ,  yatʰā   svam   aṅgaṃ   tatʰā  \
+[struct] Sentence: bf
+[text] tasmād   enāṃ   na   hinasti  \
+[struct] Sentence: bg
+[text] sāsyaita/m
+[text] ātmānam   atra   gataṃ   bʰāvayati .
+[struct] Sentence: bh
+[text] sā   bʰāvayitrī   bʰāvayitavyā   bʰavati  \
+[struct] Sentence: bi
+[text] taṃ   strī   garbʰaṃ   bibʰarti .
+[struct] Sentence: bj
+[text] so   'gra   eva   kumāraṃ   janmano   'gre   'dʰibʰāva/yati
+[text] \
+[struct] Sentence: bk
+[text] sa   yat   kumāraṃ   janmano   'gre   'dʰibʰāvayaty ,  ātmānam   eva   tad   bʰāva/yati
+[text] \
+[struct] Sentence: bl
+[text] eṣāṃ   lokānāṃ   saṃtatyā .
+[struct] Sentence: bm
+[text] evaṃ   saṃtatā   hīme   lokāḥ  \
+[struct] Sentence: bn
+[text] tad   asya   dvitīyaṃ   janma  \
+[struct] Sentence: bo
+[text] so   'syāyam   ātmā   puṇyebʰyaḥ   karmabʰyaḥ
+[text] pratidʰīyate  \
+[struct] Sentence: bp
+[text] atʰāsyāyam   itara   ātmā   kr̥takr̥tyo   vayogataḥ   praiti  \
+[struct] Sentence: bq
+[text] sa   itaḥ   prayann   eva   punar   jāyate  \
+[struct] Sentence: br
+[text] tad   asya   tr̥tīyaṃ   janma  \
+[struct] Sentence: bs
+[text] tad   uktam   r̥/ṣiṇā
+[text] \
+[struct] Sentence: bt
+[text] garbʰe   nu   sann   anv   eṣām   avedam
+[text] ahaṃ   devānāṃ   janimāni   viśvā
+[text] \
+[text] śataṃ   mā   pura   āyasīr   arakṣann
+[text] adʰa   śyeno   javasā   nir   adīyam
+[text] iti  \\
+[struct] Sentence: bu
+[text] garbʰa   evaitac   cʰayāno   vāmadeva   evam   uvāca  \
+[struct] Sentence: bv
+[text] sa   evaṃ   vidvān   asmā/c
+[text] cʰarīrabʰedād   ūrdʰva   utkramyāmuṣmin   svarge   loke   sarvān   kāmān   āptvā/mr̥taḥ
+[text] samabʰavat ,  samabʰavat  \
+[text] \\  ity   aitareyadvitīyāraṇyake   pañcamo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 6
+[struct] Sentence: by
+[text] ko   'yam   ātmeti   vayam   upāsmahe .
+[struct] Sentence: bz
+[text] kataraḥ   sa   ātmā  \
+[struct] Sentence: ca
+[text] yena   vā
+[text] paśyati ,  yena   vā
+[text] śabdān
+[text] śabdaṃ
+[text] śr̥ṇoti ,  yena   vā   gandʰān   ājigʰrati ,  yena   vā
+[text] vācam   vyākaroti ,  yena   vā   svādu   cāsvādu   ca   vijānāti  \
+[struct] Sentence: cb
+[text] yad   etad   dʰr̥dayaṃ   manaś   caitat   saṃjñānam   ājñānaṃ   vijñānaṃ   prajñānaṃ   medʰā   dr̥ṣṭi/r
+[text] dʰr̥tir   matir   manīṣā   jūtiḥ   smr̥tiḥ   saṃkalpaḥ   kratur   asuṃ   kāmo   vaśa
+[text] iti  \
+[struct] Sentence: cc
+[text] sarvāṇy   evaitāni   prajñānasya   nāmadʰeyāni   bʰavanti  \
+[struct] Sentence: cd
+[text] eṣa
+[text] brahma -.
+[struct] Sentence: ce
+[text] -eṣa   indra .
+[struct] Sentence: cf
+[text] eṣa   prajāpatir .
+[struct] Sentence: cg
+[text] ete   sarve   devā   imāni   ca   pañca   mahā/bʰūtāni
+[text] pr̥tʰivī   vāyur   ākāśa   āpo   jyotīṃṣīty   etānīmāni   ca
+[text] kṣudramiśrāṇīva   bījānītarāṇi   cetarāṇi   cāṇḍajāni   ca
+[text] jārujāni   ca   svedajāni   codbʰijjāni
+[text] codbʰijāni
+[text] cāśvā   gāvaḥ   puruṣā
+[text] hastino   yat   kiñ   cedaṃ   prāṇi   jaṅgamaṃ   ca   patatri   ca   yac   ca   stʰāvaraṃ .
+[struct] Sentence: ch
+[text] sarvaṃ   tat   prajñānetraṃ .
+[struct] Sentence: ci
+[text] prajñāne   pratiṣṭʰitaṃ .
+[struct] Sentence: cj
+[text] prajñānetro   lokaḥ .
+[struct] Sentence: ck
+[text] prajñā
+[text] pratiṣṭʰā .
+[struct] Sentence: cl
+[text] prajñānaṃ   brahma  \
+[struct] Sentence: cm
+[text] sa   etena   prajñenātmanāsmāṁl   lokād   utkra/myāmuṣmin
+[text] svarge   loke   sarvān   kāmān   āptvāmr̥taḥ   samabʰavat ,  sama/bʰavat
+[text] \\
+[text] \\  ity   aitareyadvitīyāraṇyake   ṣaṣṭʰo   'dʰyāyaḥ  \\
+[text] \\  iti   dvitīyāraṇyakam  \\
+[struct] Adhyaya: 7
+[struct] Sentence: a
+[text] vāṅ   me   manasi   pratiṣṭʰitā .
+[struct] Sentence: b
+[text] mano   me   vāci   pratiṣṭʰitam .
+[struct] Sentence: c
+[text] āvir   ā/vīr
+[text] ma   edʰi .
+[struct] Sentence: d
+[text] devasya   ma   āṇī   stʰaḥ .
+[struct] Sentence: e
+[text] śrutaṃ   me   mā   prahāsīr
+[text] prahāsīd
+[struct] Sentence: f
+[text] anenādʰī/tenāhorātrān
+[text] saṃdadʰāmy .
+[struct] Sentence: g
+[text] r̥taṃ   vadiṣyāmi .
+[struct] Sentence: h
+[text] satyaṃ   vadiṣyāmi .
+[struct] Sentence: i
+[text] tan   mām   avatu .
+[struct] Sentence: j
+[text] tad   vaktāram   avatv .
+[struct] Sentence: k
+[text] avatu   mām .
+[struct] Sentence: l
+[text] avatu   vaktāram ,  avatu   vaktāram  \\
+[text] \\  ity   aitareyadvitīyāraṇyake   saptamo   'dʰyāyaḥ  \\
+[struct] Aranyaka: 3
+[text] \\  atʰa   tr̥tīyāraṇyakam  \\
+[struct] Adhyaya: 1
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] atʰātaḥ   saṃhitāyā   upaniṣat  \
+[struct] Sentence: b
+[text] pr̥tʰivī   pūrvarūpaṃ .
+[struct] Sentence: c
+[text] dyaur   utta/rarūpaṃ .
+[struct] Sentence: d
+[text] vāyuḥ   saṃhiteti   māṇḍūkeya .
+[struct] Sentence: e
+[text] ākāśaḥ   saṃhitety   asya   mākṣavyo
+[text] vedayāñ   cakre  \
+[struct] Sentence: f
+[text] sa   hāviparihr̥to   mene .
+[struct] Sentence: g
+[text] na   me   'sya   putreṇa   samagā/d
+[text] iti  \
+[struct] Sentence: h
+[text] samāne   vai .
+[struct] Sentence: i
+[text] tat   parihr̥to   mena   ity   āgastyaḥ .
+[struct] Sentence: j
+[text] samānaṃ   hy   etad   bʰavati
+[text] vāyuś   cākāśaś   ca
+[text] ca
+[text] ceti
+[text] \
+[struct] Sentence: k
+[text] ity   adʰidaivatam  \
+[struct] Sentence: l
+[text] atʰādʰyātmam  \
+[struct] Sentence: m
+[text] vāk   pūrvarūpaṃ .
+[struct] Sentence: n
+[text] mana   uttararūpaṃ .
+[struct] Sentence: o
+[text] prāṇaḥ   saṃhiteti   śūravīro   māṇḍūkeyaḥ  \
+[struct] Sentence: p
+[text] atʰa
+[text] hāsya   putra   āha   jyeṣṭʰo .
+[struct] Sentence: q
+[text] manaḥ   pūrvarūpaṃ .
+[struct] Sentence: r
+[text] vāg   uttararūpaṃ .
+[struct] Sentence: s
+[text] manasā   vā
+[text] agre
+[text] manasaivāgre
+[text] saṃkalpayaty .
+[struct] Sentence: t
+[text] atʰa   vācā   vyāharati .
+[struct] Sentence: u
+[text] tasmān   mana   eva   pūrvarūpaṃ .
+[struct] Sentence: v
+[text] vāg   uttararūpaṃ .
+[struct] Sentence: w
+[text] prāṇas   tv   eva   saṃhiteti  \
+[struct] Sentence: x
+[text] samānam   enayor   atra   pituś   ca
+[text] putrasya   ca  \
+[struct] Sentence: y
+[text] sa   eṣo   'śvaratʰaḥ   praṣṭivāhano   manovākprāṇasaṃhataḥ
+[text] saṃhitaḥ
+[text] \
+[struct] Sentence: z
+[text] sa   ya   evam   etāṃ   saṃhitāṃ   veda ,  saṃdʰīyate   prajayā   paśubʰir   yaśasā
+[text] brahmavarcasena   svargeṇa   lokena .
+[struct] Sentence: aa
+[text] sarvam   āyur   eti  \
+[struct] Sentence: ab
+[text] iti   nu   māṇḍūke/yānām
+[text] \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] atʰa   śākalyasya  \
+[struct] Sentence: b
+[text] pr̥tʰivī   pūrvarūpaṃ .
+[struct] Sentence: c
+[text] dyaur   uttararūpaṃ .
+[struct] Sentence: d
+[text] vr̥ṣṭiḥ   saṃdʰiḥ .
+[struct] Sentence: e
+[text] parjanyaḥ   saṃdʰātā  \
+[struct] Sentence: f
+[text] tad   utāpi   yatraitad   valavad
+[text] balavad}
+[text] anudgr̥hṇan   saṃdadʰad   ahorātre
+[text] varṣati ,  dyāvāpr̥tʰivyau   samadʰātām   ity   utāpy   āhuḥ  \
+[struct] Sentence: g
+[text] itī
+[text] iti
+[text] nv   adʰidai/vatam
+[text] \
+[struct] Sentence: h
+[text] atʰādʰyātmam  \
+[struct] Sentence: i
+[text] puruṣo   ha   vā   ayaṃ   sarva   āndaṃ .
+[struct] Sentence: j
+[text] dve   bidale
+[text] bʰavata   ity   āhus .
+[struct] Sentence: k
+[text] tasyedam   eva   pr̥tʰivyā   rūpam ,  idaṃ   divas .
+[struct] Sentence: l
+[text] tatrāyam   antare/ṇākāśo ,
+[text] yatʰāsau   dyāvāpr̥tʰivyāv   antareṇākāśaḥ  \
+[struct] Sentence: m
+[text] tasmin   hāsmi/nn
+[text] tasmin hasmin
+[text] tasminn ākāśe
+[text] tasminn asminn ākāśe
+[text] ākāśe   prāṇa   āyatto ,  yatʰāmuṣminn   ākāśe   vāyur   āyattaḥ  \
+[struct] Sentence: n
+[text] yatʰā/mūni
+[text] trīṇi   jyotīṃṣy ,  evam   imāni   puruṣe   trīṇi   jyotīṃṣi .
+[struct] Sentence: o
+[text] yatʰāsau   divy   āditya ,  evam   idaṃ   śirasi   cakṣur .
+[struct] Sentence: p
+[text] yatʰāsāv   antarikṣe
+[text] vidyud ,  evam   idam   ātmani   hr̥dayaṃ .
+[struct] Sentence: q
+[text] yatʰāyam   agniḥ   pr̥tʰivyām ,  evam   idam   upastʰe
+[text] retaḥ  \
+[struct] Sentence: r
+[text] evam   u   ha   sma   sarvalokam   ātmānam   anuvidʰāyāha -.
+[struct] Sentence: s
+[text] -idam   eva
+[text] pr̥tʰivyā   rūpam ,  idaṃ   divaḥ  \
+[struct] Sentence: t
+[text] sa   ya   evam   etāṃ   saṃhitāṃ   veda ,
+[text] saṃdʰīyate   prajayā   paśubʰir   yaśasā   brahmavarcasena   svargeṇa   lokena .
+[struct] Sentence: u
+[text] sarvam   āyur   eti  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] atʰāto   nirbʰujapravādāḥ  \
+[struct] Sentence: b
+[text] pr̥tʰivyāyatanaṃ   nirbʰujaṃ .
+[struct] Sentence: c
+[text] divyāyatanaṃ
+[text] pratr̥ṇaṃ .
+[struct] Sentence: d
+[text] antarikṣāyatanam   ubʰayam   antareṇa  \
+[struct] Sentence: e
+[text] atʰa   yady   enaṃ   nirbʰujaṃ   bruvanta/m
+[text] upavaded ,  acyoṣṭāvarābʰyāṃ
+[text] acyoṣṭʰāntarābʰyām
+[text] reads
+[text] acyoṣṭʰā   avarābʰyām
+[text] stʰānābʰyām   ity   enaṃ   brūyāt  \
+[struct] Sentence: f
+[text] atʰa   yady   enaṃ
+[text] pratr̥ṇaṃ   bruvantam   upavaded ,  acyoṣṭā   uttarābʰyāṃ
+[text] acyoṣṭottarābʰyāṃ
+[text] acyoṣṭʰā   uttarābʰyāṃ
+[text] stʰānābʰyām   ity   enaṃ   brūyāt  \
+[struct] Sentence: g
+[text] yas   tv   evobʰayam   antareṇāha ,  tasya   nāsty   upavādaḥ  \
+[struct] Sentence: h
+[text] yad   dʰi   saṃdʰiṃ   vivarta/yati ,
+[text] tan   nirbʰujasya   rūpam .
+[struct] Sentence: i
+[text] atʰa   yac   cʰuddʰe   akṣare   abʰivyāharati ,  tat   pra/tr̥ṇasya -.
+[struct] Sentence: j
+[text] -agra   u   evobʰaya .
+[struct] Sentence: k
+[text] antareṇobʰayaṃ   vyāptaṃ   bʰavati  \
+[struct] Sentence: l
+[text] annādyakāmo
+[text] nirbʰujaṃ   brūyāt ,  svargakāmaḥ   pratr̥ṇam ,  ubʰayakāma   ubʰayam   antareṇa  \
+[struct] Sentence: m
+[text] atʰa
+[text] yady   enaṃ   nirbjujaṃ   bruvantaṃ   para   upavadet ,  pr̥tʰivīṃ   devatām   āraḥ ,  pr̥tʰivī   tvā
+[text] devatāriṣyatīty
+[text] devatā   riṣyatīty}
+[text] enaṃ   brūyāt  \
+[struct] Sentence: n
+[text] atʰa   yady   enaṃ   pratr̥ṇaṃ   bruvantaṃ   para   upa/vaded ,
+[text] divaṃ   devatām   āro ,  dyaus   tvā   devatāriṣyatīty
+[text] devatā   riṣyatīty}
+[text] enaṃ   brūyāt  \
+[struct] Sentence: o
+[text] atʰa
+[text] yady   enam   ubʰayam   antareṇa   bruvantaṃ   para   upavaded ,  antarikṣaṃ   devatām   āro ,
+[text] 'ntarikṣaṃ   tvā   devatāriṣyatīty
+[text] devatā   riṣyatīty}
+[text] enaṃ   brūyāt  \
+[struct] Sentence: p
+[text] yatʰā   tu   katʰā   ca
+[text] bruvan   vā   bruvantaṃ   vā   brūyād ,  abʰyāśam   eva   yat   tatʰā   syāt  \
+[struct] Sentence: q
+[text] na   tv   evānya/t
+[text] kuśalād   brāhmaṇaṃ   brūyāt  \
+[struct] Sentence: r
+[text] atidyumna   eva   brāhmaṇaṃ   brūyāt  \
+[struct] Sentence: s
+[text] nātidyumne   cana   brāhmaṇaṃ   brūyān .
+[struct] Sentence: t
+[text] namo   astu   brāhmaṇebʰya   iti   ha
+[text] smāha   śūravīro   māṇḍūkeyaḥ  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] atʰāto   'nuvyāhārāḥ  \
+[struct] Sentence: b
+[text] prāṇo   vaṃśa   iti   vidyāt  \
+[struct] Sentence: c
+[text] sa   ya   enaṃ
+[text] prāṇaṃ   vaṃśam   upavadec ,  cʰaknuvañ   cen   manyeta ,  prāṇaṃ   vaṃśaṃ   samadʰā3ṁ ,  prāṇaṃ
+[text] mā   vaṃśaṃ   saṃdadʰataṃ   na   śaknoṣīty   āha .
+[struct] Sentence: d
+[text] prāṇas   tvā   vaṃśo   hāsyatīty   enaṃ
+[text] brūyāt  \
+[struct] Sentence: e
+[text] atʰa   ced   aśaknuvan   taṃ
+[text] aśaknuvantaṃ ?}
+[text] manyeta ,  prāṇaṃ   vaṃśaṃ   samadʰitsiṣaṃ ,  taṃ
+[text] nāśakaḥ   saṃdʰātuṃ ,  prāṇas   tvā   vaṃśo   hāsyatīty   enaṃ   brūyāt  \
+[struct] Sentence: f
+[text] yatʰā   tu
+[text] katʰā   ca   bruvan   vā   bruvantaṃ   vā   brūyād ,  abʰyāśam   eva   yat   tatʰā   syāt  \
+[struct] Sentence: g
+[text] na
+[text] tv   evānyat   kuśalād   brāhmaṇaṃ   brūyāt  \
+[struct] Sentence: h
+[text] atidyumna   eva   brāhmaṇaṃ   brūyāt  \
+[struct] Sentence: i
+[text] nātidyumne   cana   brāhmaṇaṃ   brūyān .
+[struct] Sentence: j
+[text] namo   astu   brāhmaṇebʰya   iti   ha
+[text] smāha   śūravīro   māṇḍūkeyaḥ  \\ 4 \\
+[struct] Sentence: k
+[text] atʰa   kʰalv   āhur   nirbʰujavaktrāḥ  \
+[struct] Sentence: l
+[text] pūrvam   akṣaraṃ   pūrvarūpam .
+[struct] Sentence: m
+[text] uttaram   uttara/rūpaṃ .
+[struct] Sentence: n
+[text] yo   'vakāśaḥ   pūrvarūpottararūpe   antareṇa ,  sā   saṃhiteti  \
+[struct] Sentence: o
+[text] sa
+[text] ya   evam   etāṃ   saṃhitāṃ   veda   saṃdʰīyate   prajayā   paśubʰir   yaśasā   brahma/varcasena
+[text] svargeṇa   lokena .
+[struct] Sentence: p
+[text] sarvam   āyur   eti  \
+[struct] Sentence: q
+[text] atʰa   vayaṃ   brūmo   nirbʰu/javaktrā
+[text] iti   ha   smāha   hrasvo   māṇḍūkeyaḥ .
+[struct] Sentence: r
+[text] pūrvam   evākṣaraṃ   pūrvarūpam .
+[struct] Sentence: s
+[text] u/ttaram
+[text] uttararūpaṃ .
+[struct] Sentence: t
+[text] yo   'vakāśaḥ   pūrvarūpottararūpe   antareṇa ,  yena   saṃdʰiṃ
+[text] vivartayati ,  yena   svarāsvaraṃ   vijānāti ,  yena   mātrāmātrāṃ   vibʰa/jate ,
+[text] sā   saṃhiteti  \
+[struct] Sentence: u
+[text] sa   ya   evam   etāṃ   saṃhitāṃ   veda ,  saṃdʰīyate   prajayā
+[text] paśubʰir   yaśasā   brahamavarcasena   svargeṇa   lokena .
+[struct] Sentence: v
+[text] sarvam   āyur   eti  \
+[struct] Sentence: w
+[text] atʰa
+[text] hāsya   putra   āha   madʰyamaḥ   prātībodʰīputro .
+[struct] Sentence: x
+[text] 'kṣare   kʰalv   ime   avi/karṣann
+[text] anekīkurvan   yatʰāvarṇam   āha .
+[struct] Sentence: y
+[text] tad   yāsau   mātrā   pūrvarūpottararūpe
+[text] antareṇa   saṃdʰivijñapanī ,  sāma   tad   bʰavati .
+[struct] Sentence: z
+[text] sāmaivāhaṃ   saṃhitāṃ   manya
+[text] iti  \
+[struct] Sentence: aa
+[text] tad   apy   etad   r̥ṣiṇoktam  \
+[struct] Sentence: ab
+[text] br̥haspate   na   paraḥ   sāmno   vidur
+[text] iti  \\
+[struct] Paragraph: 5
+[struct] Sentence: a
+[text] sa   ya   evam   etāṃ   saṃhitāṃ   veda ,  saṃdʰīyate   prajayā   paśubʰir   yaśasā   brahma/varcasena
+[text] svargeṇa   lokena .
+[struct] Sentence: b
+[text] sarvam   āyur   eti  \\ 5 \\
+[struct] Sentence: c
+[text] br̥hadratʰantarayo   rūpeṇa   saṃhitā   saṃdʰīyate   iti   tārukṣyaḥ
+[text] tārkṣyaḥ
+[text] tārukṣyaḥ
+[text] \
+[struct] Sentence: d
+[text] vāg   vai
+[text] ratʰantarasya   rūpaṃ ,  prāṇo   br̥hata .
+[struct] Sentence: e
+[text] ubʰābʰyām   u   kʰalu   saṃhitā   saṃdʰīyate
+[text] vācā   ca   prāṇena   ca  \
+[struct] Sentence: f
+[text] etasyāṃ   ha   smopaniṣadi   saṃvatsaraṃ   gā   rakṣa/yate
+[text] tārukṣyaḥ
+[text] tārkṣyaḥ
+[text] \
+[struct] Sentence: g
+[text] etasyāṃ   ha   sma   mātrāyāṃ   saṃvatsaraṃ   gā   rakṣayate
+[text] tārukṣyaḥ
+[text] tāṃrkṣyaḥ
+[text] tārkṣyaḥ
+[text] tārukṣyaḥ
+[text] \
+[struct] Sentence: h
+[text] tad   apy   etad   r̥ṣiṇoktam  \
+[struct] Sentence: i
+[text] ratʰantaram   ā   jabʰārā   vasiṣṭʰo
+[text] bʰara/dvājo
+[text] br̥had   ā   cakre   agner
+[text] iti  \\
+[struct] Sentence: j
+[text] sa   ya   evam   etāṃ   saṃhitāṃ   veda ,  saṃdʰīyate
+[text] prajayā   paśubʰir   yaśasā   brahmavarcasena   svargeṇa   lokena .
+[struct] Sentence: k
+[text] sarvam   āyur   eti  \
+[struct] Sentence: l
+[text] vāk   prāṇena   saṃhiteti   kauṇṭʰaravyaḥ .
+[struct] Sentence: m
+[text] prāṇaḥ   pavamānena .
+[struct] Sentence: n
+[text] pavamāno
+[text] viśvair   devair .
+[struct] Sentence: o
+[text] viśve   devāḥ   svargeṇa   lokena .
+[struct] Sentence: p
+[text] svargo   loko   brahmaṇā .
+[struct] Sentence: q
+[text] saiṣāvaraparā   saṃhitā  \
+[struct] Sentence: r
+[text] sa   yo   haitām   avaraparāṃ   saṃhitāṃ   vedaivaṃ   haiva
+[text] sa   prajayā   paśubʰir   yaśasā   brahmavarcasena   svargeṇa   lokena   saṃdʰīyate ,
+[text] yatʰaiṣā   saṃhitā  \
+[struct] Sentence: s
+[text] sa   yadi   pareṇa   vopasr̥taḥ   svena   vārtʰenābʰi/vyāhared ,
+[text] abʰivyāhārṣann   eva   vidyād
+[text] vyāhāred  ;  vyāhārṣaṃ   nety   eva
+[text] ne vidyāt
+[text] abʰivyāharann
+[text] ,  divaṃ   saṃhitāgamad ,  viduṣāṃ   devānām   evaṃ
+[text] bʰaviṣyatīti  \  śaśvat   tatʰā   syāt  \
+[struct] Sentence: t
+[text] sa   ya   evam   etāṃ   saṃhitāṃ   veda ,
+[text] saṃdʰīyate   prajayā   paśubʰir   yaśasā   brahmavarcasena   svargeṇa   lokena .
+[struct] Sentence: u
+[text] sarvam   āyur   eti  \
+[struct] Sentence: v
+[text] vāk   saṃhiteti   pañcālacaṇḍaḥ  \
+[struct] Sentence: w
+[text] vācā   vai   vedāḥ
+[text] saṃdʰīyante ,  vācā   cʰandāṃsi .
+[struct] Sentence: x
+[text] vācā   mitrāṇi   saṃdadʰati ,  vācā
+[text] sarvāṇi   bʰūtāny .
+[struct] Sentence: y
+[text] atʰo   vāg   evedaṃ   sarvam   iti  \
+[struct] Sentence: z
+[text] tad   yatraitad   adʰīte   vā   bʰāṣate
+[text] vā ,  vāci   tadā   prāṇo   bʰavati .
+[struct] Sentence: aa
+[text] vāk   tadā   prāṇaṃ   rel̥hy .
+[struct] Sentence: ab
+[text] atʰa   yatra   tūṣṇīṃ
+[text] vā   bʰavati   svapiti   vā ,  prāṇe   tadā   vāg   bʰavati .
+[struct] Sentence: ac
+[text] prāṇas   tadā
+[text] vācaṃ   rel̥hi .
+[struct] Sentence: ad
+[text] tāv   anyonyaṃ   rīl̥ho .
+[struct] Sentence: ae
+[text] vāg   vai   mātā ,  prāṇaḥ   putraḥ  \
+[struct] Sentence: af
+[text] tad   apy   e/tad
+[text] r̥ṣiṇoktam  \
+[struct] Sentence: ag
+[text] ekaḥ   suparṇaḥ   sa   samudram   ā   viveśa
+[text] sa   idaṃ   viśvaṃ
+[text] bʰuvanaṃ   vi   caṣṭe
+[text] \
+[text] taṃ   pākena   manasāpaśyam   antitas
+[text] taṃ   mātā   rel̥hi
+[text] sa   u   rel̥hi   mātaram
+[text] iti  \\
+[struct] Sentence: ah
+[text] sa   ya   evam   etāṃ   saṃhitāṃ   veda ,  saṃdʰīyate
+[text] prajayā   paśubʰir   yaśasā   brahmavarcasena   svargeṇa   lokena .
+[struct] Sentence: ai
+[text] sarvam   āyur   eti  \
+[struct] Sentence: aj
+[text] atʰātaḥ   prajāpatisaṃhitā  \
+[struct] Sentence: ak
+[text] jāyā   pūrvarūpaṃ .
+[struct] Sentence: al
+[text] patir   uttararūpaṃ .
+[struct] Sentence: am
+[text] putraḥ
+[text] saṃdʰiḥ .
+[struct] Sentence: an
+[text] prajananaṃ   saṃdʰānaṃ .
+[struct] Sentence: ao
+[text] saiṣāditiḥ   saṃhitā  \
+[struct] Sentence: ap
+[text] aditir   hīdaṃ   sarvaṃ ,
+[text] yad   idaṃ   kiñ   ca   pitā   ca   mātā   ca   putraś   ca   prajananaṃ   ca  \
+[struct] Sentence: aq
+[text] tad   apy   etad   r̥ṣi/ṇoktam
+[text] \
+[struct] Sentence: ar
+[text] aditir   mātā   sa   pitā   sa   putra
+[text] iti  \\
+[struct] Paragraph: 6
+[struct] Sentence: a
+[text] sa   ya   evam   etāṃ
+[text] saṃhitām   veda ,  saṃdʰīyate   prajayā   paśubʰir   yaśasā   brahmavarcasena   svargeṇa
+[text] lokena .
+[struct] Sentence: b
+[text] sarvam   āyur   eti ,  sarvam   āyur   eti  \\ 6 \\
+[struct] Sentence: c
+[text] ity   aitareyatr̥tīyāraṇyake   pratʰamo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 2
+[text] Adhyāya  2.
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] prāṇo   vaṃśa   iti   stʰaviraḥ   śākalyaḥ  \
+[struct] Sentence: b
+[text] tad   yatʰā   śālāvaṃśe   sarve
+[text] 'nye   vaṃśāḥ   samāhitāḥ   syur ,  evam   asmin   prāṇe   cakṣuḥ   śrotraṃ   mano
+[text] vāg   indriyāṇi   śarīraṃ   sarva   ātmā   samāhitaḥ  \
+[struct] Sentence: c
+[text] tasyaitasyātmanaḥ
+[text] prāṇa   ūṣmarūpam ,  astʰīni   sparśarūpaṃ ,  majjānaḥ   svararūpaṃ ,  māṃsaṃ
+[text] lohitam   ity   etad   anyac   caturtʰam   antastʰārūpam   iti   ha   smāha   hrasvo   mā/ṇḍūkeyaḥ
+[text] \
+[struct] Sentence: d
+[text] trayaṃ   tv   eva   na   etat   proktam  \
+[struct] Sentence: e
+[text] tasyaitasya   trayasyāstʰnāṃ
+[text] majjñāṃ   parvaṇām   iti   trīṇītaḥ   ṣaṣṭiśatāni ,  trīṇītas .
+[struct] Sentence: f
+[text] tāni   sapta
+[text] viṃśatiśatāni   bʰavanti .
+[struct] Sentence: g
+[text] sapta   ca   vai   śatāni   viṃśatiś   ca   saṃvatsa/rasyāhorātrāḥ
+[text] \
+[struct] Sentence: h
+[text] sa   eṣo   'haḥsaṃmānaś   cakṣurmayaḥ   śrotramayaś   cʰandomayo
+[text] manomayo   vāṅmaya   ātmā  \
+[struct] Sentence: i
+[text] sa   ya   evam   etam   ahaḥsaṃmānaṃ   cakṣurmayaṃ
+[text] śrotramayaṃ   cʰandomayaṃ   manomayaṃ   vāṅmayam   ātmānaṃ   vedāhnāṃ   sāyujyaṃ
+[text] sarūpatāṃ   salokatām   aśnute .
+[struct] Sentence: j
+[text] putrī   paśumān   bʰavati .
+[struct] Sentence: k
+[text] sarvam   āyur   eti  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] atʰa   kauṇṭʰaravyaḥ  \
+[struct] Sentence: b
+[text] trīṇi   ṣaṣṭiśatāny   akṣarāṇāṃ .
+[struct] Sentence: c
+[text] trīṇi   ṣaṣṭi/śatāny
+[text] ūṣmaṇāṃ .
+[struct] Sentence: d
+[text] trīṇi   ṣaṣṭiśatāni   saṃdʰīnām  \
+[struct] Sentence: e
+[text] yāny   akṣarāṇy   avo/cāmāhāni
+[text] tāni .
+[struct] Sentence: f
+[text] yān   ūṣmaṇo   'vocāma ,  rātrayas   tā .
+[struct] Sentence: g
+[text] yān   saṃdʰīn   avo/cāmāhorātrāṇāṃ
+[text] te   saṃdʰaya .
+[struct] Sentence: h
+[text] ity   adʰidaivatam  \
+[struct] Sentence: i
+[text] atʰādʰyātmam  \
+[struct] Sentence: j
+[text] yāny   a/kṣarāṇy
+[text] adʰidaivatam   avocāmāstʰīni   tāny   adʰyātmam  \
+[struct] Sentence: k
+[text] yān   ūṣmaṇo
+[text] 'dʰidaivatam   avocāma ,  majjānas   te   'dʰyātmam  \
+[struct] Sentence: l
+[text] eṣa   ha   vai   saṃprati/prāṇo .
+[struct] Sentence: m
+[text] yan   majjaitad   reto .
+[struct] Sentence: n
+[text] na   ha   vā   r̥te   prāṇād   retaḥ   sicyate .
+[struct] Sentence: o
+[text] yad   vā
+[text] r̥te   prāṇād   retaḥ   sicyate ,  pūyen ,  na   saṃbʰavet  \
+[struct] Sentence: p
+[text] yān   saṃdʰīn   adʰidaivatam   a/vocāma ,
+[text] parvāṇi   tāny   adʰyātmam  \
+[struct] Sentence: q
+[text] tasyaitasya   trayasyāstʰnāṃ   majjñāṃ
+[text] parvaṇām   iti   pañcetaś   catvāriṃśac   cʰatāni ,  pañcetas .
+[struct] Sentence: r
+[text] tad   aśītisahasraṃ   bʰava/ty .
+[struct] Sentence: s
+[text] aśītisahasraṃ   vā   arkalino .
+[struct] Sentence: t
+[text] br̥hatīr   ahar   abʰisaṃpādayanti  \
+[struct] Sentence: u
+[text] sa   eṣo
+[text] 'kṣarasaṃmānaś   cakṣurmayaḥ   śrotramayaś   cʰandomayo   manomayo   vāṅmaya
+[text] ātmā  \
+[struct] Sentence: v
+[text] sa   ya   evam   etam   akṣarasaṃmānaṃ   cakṣurmayaṃ   śrotramayaṃ   cʰandomayaṃ
+[text] manomayaṃ   vāṅmayam   ātmānaṃ   vedākṣarāṇāṃ   sāyujyaṃ   sarūpatāṃ   salo/katām
+[text] aśnute .
+[struct] Sentence: w
+[text] putrī   paśumān   bʰavati .
+[struct] Sentence: x
+[text] sarvam   āyur   eti  \\ 2 \\
+[struct] Sentence: y
+[text] catvāraḥ   puruṣā   iti   bādʰvaḥ .
+[struct] Sentence: z
+[text] śarīrapuruṣaś   cʰandaḥpuruṣo   veda/puruṣo
+[text] mahāpuruṣa   iti  \
+[struct] Sentence: aa
+[text] śarīrapuruṣa   iti   yam   avocāma ,  sa   ya
+[text] evāyaṃ   daihika   ātmā .
+[struct] Sentence: ab
+[text] tasya   yo   'yam   aśarīraḥ   prajñātmā ,  sa   rasaḥ  \
+[struct] Sentence: ac
+[text] cʰandaḥpuruṣa   iti   yam   avocāmākṣarasamāmnāya   eva .
+[struct] Sentence: ad
+[text] tasyaitasyākāro
+[text] rasaḥ  \
+[struct] Sentence: ae
+[text] vedapuruṣa   iti   yam   avocāma   yena   vedān   veda ,  r̥gvedaṃ   yajurvedaṃ
+[text] sāmavedaṃ .
+[struct] Sentence: af
+[text] tasyaitasya   brahmā   rasaḥ  \
+[struct] Sentence: ag
+[text] tasmād   brahmāṇaṃ   brahmiṣṭʰaṃ   kurvīta ,
+[text] yo   yajñasyolbaṇaṃ   paśyet  \
+[struct] Sentence: ah
+[text] mahāpuruṣa   iti   yam   avocāma ,  saṃvatsara
+[text] eva   pradʰvaṃsayann   anyāni   bʰūtāny ,  aikyā-bʰāvayann   anyāni .
+[struct] Sentence: ai
+[text] tasyaitasyāsā/v
+[text] ādityo   rasaṃ  \
+[struct] Sentence: aj
+[text] sa   yaś   cāyam   aśarīraḥ   prajñātmā   yaś   cāsāv   āditya
+[text] ekam   etad   iti   vidyāt  \
+[struct] Sentence: ak
+[text] tasmāt   puruṣaṃ-puruṣaṃ   praty   ādityo   bʰavati  \
+[struct] Sentence: al
+[text] tad   apy   etad   r̥ṣiṇoktam  \
+[struct] Sentence: am
+[text] citraṃ   devānām   ud   agād   anīkaṃ
+[text] cakṣur   mitrasya
+[text] varuṇasyāgneḥ
+[text] \
+[text] āprā   dyāvāpr̥tʰivī   antarikṣaṃ
+[text] \
+[text] sūrya   ātmā   jaga/tas
+[text] tastʰuṣaś   ca -
+[text] -iti  \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] etām   anuvidʰaṃ   saṃhitāṃ   saṃdʰīyamānāṃ   manya   iti
+[text] ha   smāha   bādʰvaḥ  \
+[struct] Sentence: b
+[text] etaṃ   hy   eva   bahvr̥cā   mahaty   uktʰe   mīmāṃsanta ,  eta/m
+[text] agnāv   adʰvaryava ,  etaṃ   mahāvrate   cʰandogā ,  etam   asyām ,  etaṃ   divy ,  etaṃ   vāyā/v ,
+[text] etam   ākāśa ,  etam   apsv ,  etam   oṣadʰīṣv ,  etaṃ   vanaspatiṣv ,  etaṃ   candramasy ,  etaṃ
+[text] nakṣatreṣv ,  etaṃ   sarveṣu   bʰūteṣv .
+[struct] Sentence: c
+[text] etam   eva   brahmety   ācakṣate  \
+[struct] Sentence: d
+[text] sa   eṣa   saṃvatsarasaṃ/mānaś
+[text] cakṣurmayaḥ   śrotramayaś   cʰandomayo   manomayo   vāṅmaya   ātmā  \
+[struct] Sentence: e
+[text] sa   ya   evam   etaṃ   saṃvatsarasaṃmānaṃ   cakṣurmayaṃ   śrotramayaṃ   cʰandomayaṃ
+[text] manomayaṃ   vāṅmayam   ātmānaṃ   parasmai   śaṃsati , \\ 3 \\
+[struct] Sentence: f
+[text] dugdʰadohā   asya   vedā   bʰavanti .
+[struct] Sentence: g
+[text] na   tasyānūkte   bʰāgo   'sti .
+[struct] Sentence: h
+[text] na
+[text] veda   sukr̥tasya   pantʰānam   iti  \
+[struct] Sentence: i
+[text] tad   apy   etad   r̥ṣiṇokam  \
+[struct] Sentence: j
+[text] yas   tityāja
+[text] sacividaṃ   sakʰāyaṃ
+[text] na   tasya   vācy   api   bʰāgo   asti
+[text] \
+[text] yad   īṃ   śr̥ṇo/ty
+[text] alakaṃ   śr̥ṇoti
+[text] nahi   praveda   sukr̥tasya   pantʰām
+[text] iti  \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] na
+[text] tasyānūkte   bʰāgo   'sti ,  na   veda   sukr̥tasya   pantʰānam   ity   etat   ta   uktaṃ
+[text] bʰavati  \
+[struct] Sentence: b
+[text] tasmād   evaṃ   vidvān   na   parasmā   agniṃ   cinuyān .
+[struct] Sentence: c
+[text] na   parasmai
+[text] mahāvratena   stuvīta .
+[struct] Sentence: d
+[text] na   parasmā   etad   ahaḥ   śaṃset  \
+[struct] Sentence: e
+[text] kāmaṃ   pitre
+[text] vācāryāya   vā   śaṃsed .
+[struct] Sentence: f
+[text] ātmana   evāsya   tat   kr̥taṃ   bʰavati  \
+[struct] Sentence: g
+[text] sa   yaś   cāya/m
+[text] aśarīraḥ   prajñātmā   yaś   cāsāv   āditya   ekam   etad   ity   avocāma  \
+[struct] Sentence: h
+[text] tau
+[text] yatra   vihīyete ,  candramā   ivādityo   dr̥śyate .
+[struct] Sentence: i
+[text] na   raśmayaḥ   prādur   bʰavanti .
+[struct] Sentence: j
+[text] lohinī   dyaur   bʰavati ,  yatʰā   mañjiṣṭʰā .
+[struct] Sentence: k
+[text] vyastaḥ   pāyuḥ .
+[struct] Sentence: l
+[text] kākakulāyaga/ndʰikam
+[text] asya   śiro   vāyati .
+[struct] Sentence: m
+[text] saṃpareto   'syātmā .
+[struct] Sentence: n
+[text] na   ciram   iva   jīvi/ṣyatīti
+[text] vidyāt  \
+[struct] Sentence: o
+[text] sa   yat   karaṇīyaṃ   manyeta ,  tat   kurvīta .
+[struct] Sentence: p
+[text] yad   anti   yac   ca
+[text] dūraka
+[text] iti   sapta   japed ,
+[text] ād   it   pratnasya   retasa
+[text] ity   ekā ,
+[text] yatra   brahmā
+[text] pavamāna -
+[text] -iti   ṣal̥ ,
+[text] ud   vayaṃ   tamasas   pari -
+[text] -ity   ekā  \
+[struct] Sentence: q
+[text] atʰāpi   yatra   cʰidra   ivā/dityo
+[text] dr̥śayate ,  ratʰanābʰir   ivābʰikʰyāyeta ,  cʰidrāṃ   vā   cʰāyāṃ   paśyet ,  ta/d
+[text] apy   evam   eva   vidyāt  \
+[struct] Sentence: r
+[text] atʰāpy   ādarśe   vodake   vā   jihmaśirasaṃ   vā/śirasaṃ
+[text] vātmānaṃ   paśyed ,  viparyaste   vā   kanyāke   jihmena   vā   dr̥śye/yātāṃ ,
+[text] tad   apy   evam   eva   vidyāt  \
+[struct] Sentence: s
+[text] atʰāpy   apidʰāyākṣiṇī   upekṣeta .
+[struct] Sentence: t
+[text] tad   yatʰā   baṭarakāṇi   saṃpatantīva   dr̥śyante .
+[struct] Sentence: u
+[text] tāni   yadā   na   paśyet ,  ta/d
+[text] apy   evam   eva   vidyāt  \
+[struct] Sentence: v
+[text] atʰāpy   apidʰāya   karṇā   upaśr̥ṇuyāt .
+[struct] Sentence: w
+[text] sa   eṣo
+[text] agner   iva   prajvalato   ratʰasyevopabdis .
+[struct] Sentence: x
+[text] taṃ   yadā   na   śr̥ṇuyāt ,  tad   apy   e/vam
+[text] eva   vidyāt  \
+[struct] Sentence: y
+[text] atʰāpi   yatra   nīla   ivāgnir   dr̥śyate   yatʰā   mayūra/grīvā -,
+[text] -amegʰe   vā   vidyutaṃ   paśyen ,  megʰe   vā   vidyutaṃ   na   paśyen ,  mahāmegʰe
+[text] vā   marīcīr   iva   paśyeta ,  tad   apy   evam   eva   vidyāt  \
+[struct] Sentence: z
+[text] atʰāpi   yatra   bʰūmiṃ
+[text] jvalantīm   iva   paśyeta ,  tad   apy   evam   eva   vidyāt  \
+[struct] Sentence: aa
+[text] iti   pratyakṣadarśa/nāni
+[text] \
+[struct] Sentence: ab
+[text] atʰa   svapnāḥ  \
+[struct] Sentence: ac
+[text] puruṣaṃ   kr̥ṣṇaṃ   kr̥ṣṇadantaṃ   paśyati .
+[struct] Sentence: ad
+[text] sa   enaṃ
+[text] hanti .
+[struct] Sentence: ae
+[text] varāha   enaṃ   hanti .
+[struct] Sentence: af
+[text] markaṭa   enam   āskandayaty
+[text] skandati
+[struct] Sentence: ag
+[text] āśu   vāyur   enaṃ
+[text] pravahati .
+[struct] Sentence: ah
+[text] suvarṇaṃ   kʰāditvāpagirati
+[text] kʰāditvagirati
+[struct] Sentence: ai
+[text] madʰv   aśnāti .
+[struct] Sentence: aj
+[text] bisāni   bʰakṣaya/ty .
+[struct] Sentence: ak
+[text] ekapuṇḍarīkam   dʰārayati .
+[struct] Sentence: al
+[text] kʰarair   varāhair   yuktair   yāti .
+[struct] Sentence: am
+[text] kr̥ṣṇāṃ   kr̥ṣṇavatsāṃ
+[text] naladamālī   dakṣiṇāmukʰo   vrājayati  \
+[struct] Sentence: an
+[text] sa   yady   eteṣāṃ   kiñ   cit   paśye/d ,
+[text] upoṣya   pāyasaṃ   stʰālīpākaṃ   śrapayitvā   rātrīsūktena
+[text] pratyr̥caṃ
+[text] hutvānyenānnena   brāhmaṇān   bʰojayitvā   caruṃ   svayaṃ   prāśnīyāt  \
+[struct] Sentence: ao
+[text] sa
+[text] yo   'to   'śruto
+[text] sa yataś śruto
+[text] 'gato   'mato   'nato   'dr̥ṣṭo   'vijñāto   'nādiṣṭaḥ   śrotā
+[text] mantā   draṣṭādeṣṭā   gʰoṣṭā   vijñātā   prajñātā   sarveṣāṃ   bʰūtānām   antara/puruṣaḥ ,
+[text] sa   ma   ātmeti   vidyāt  \\ 4 \\
+[struct] Paragraph: 5
+[struct] Sentence: a
+[text] atʰa   kʰalv   iyaṃ   sarvasyai   vāca   upaniṣat  \
+[struct] Sentence: b
+[text] sarvā   hy   evemāḥ   sarvasyai
+[text] vāca   upaniṣada .
+[struct] Sentence: c
+[text] imāṃ   tv   evācakṣate  \
+[struct] Sentence: d
+[text] pr̥tʰivyā   rūpaṃ   sparśā .
+[struct] Sentence: e
+[text] anta/rikṣasyoṣmāṇo .
+[struct] Sentence: f
+[text] divaḥ   svarāḥ  \
+[struct] Sentence: g
+[text] agne   rūpaṃ   sparśā .
+[struct] Sentence: h
+[text] vāyor   ūṣmāṇa .
+[struct] Sentence: i
+[text] ādityasya   svarāḥ  \
+[struct] Sentence: j
+[text] r̥gvedasya   rūpaṃ   sparśā .
+[struct] Sentence: k
+[text] yajurvedasyoṣmāṇaḥ .
+[struct] Sentence: l
+[text] sāmavedasya   svarāḥ  \
+[struct] Sentence: m
+[text] cakṣuṣo   rūpaṃ   sparśāḥ .
+[struct] Sentence: n
+[text] śrotrasyoṣmāṇo .
+[struct] Sentence: o
+[text] manasaḥ
+[text] svarāḥ  \
+[struct] Sentence: p
+[text] prāṇasya   rūpaṃ   sparśā .
+[struct] Sentence: q
+[text] apānasyoṣmāṇo .
+[struct] Sentence: r
+[text] vyānasya   svarāḥ  \
+[struct] Sentence: s
+[text] atʰa   kʰalv   iyaṃ   daivī   vīṇā   bʰavati .
+[struct] Sentence: t
+[text] tadanukr̥tir   asau   mānuṣī   vīṇā
+[text] bʰavati  \
+[struct] Sentence: u
+[text] yatʰāsyāḥ   śira ,  evam   amuṣyāḥ   śiro .
+[struct] Sentence: v
+[text] yatʰāsyā   udaram ,  eva/m
+[text] amuṣyā   ambʰaṇaṃ .
+[struct] Sentence: w
+[text] yatʰāsyai   jihvaivam   amuṣyai   vādanaṃ
+[struct] Sentence: x
+[text] yatʰāsyās   tantraya ,
+[text] evam   amuṣyā   aṅgulayo .
+[struct] Sentence: y
+[text] yatʰāsyāḥ   svarā ,  evam   amuṣyāḥ   svarā .
+[struct] Sentence: z
+[text] yatʰāsyā
+[text] sparśā ,  evam   amuṣyā   sparśā .
+[struct] Sentence: aa
+[text] yatʰā   hy   eveyaṃ   śabdavatī   tardmavaty ,  evam   asau
+[text] śabdavatī   tardmavatī .
+[struct] Sentence: ab
+[text] yatʰā   hy   eveyaṃ   lomaśena   carmaṇāpihitā   bʰava/ty ,
+[text] evam   asau   lomaśena   carmaṇāpihitā  \
+[struct] Sentence: ac
+[text] lomaśena   ha   sma   vai
+[text] carmaṇā   purā   vīṇā   apidadʰati  \
+[struct] Sentence: ad
+[text] sa   yo   haitāṃ   daivīṃ   vīṇāṃ   veda
+[text] śrutavadano   bʰavati .
+[struct] Sentence: ae
+[text] bʰūmiprāsya   kīrtir   bʰavati .
+[struct] Sentence: af
+[text] yatra   kva   cāryā   vāco
+[text] bʰāṣante ,  vidur   enaṃ   tatra  \
+[struct] Sentence: ag
+[text] atʰāto   vāgraso .
+[struct] Sentence: ah
+[text] yasyāṃ   saṃsady   adʰīyāno
+[text] vā   bʰāṣamāṇo   vā   na   viruruciṣeta ,  tatraitām   r̥caṃ   japet  \
+[struct] Sentence: ai
+[text] oṣṭʰā/pidʰānā
+[text] nakulī ,  dantaiḥ   parivr̥tā   paviḥ
+[text] \
+[text] sarvasyai   vāca   īśānā
+[text] ,
+[text] cāru   mām   iha   vādayet
+[text] \
+[struct] Sentence: aj
+[text] iti   vāgrasaḥ  \\ 5 \\
+[struct] Paragraph: 6
+[struct] Sentence: a
+[text] atʰa   hāsmā   etat   kr̥ṣṇahārito   vāgbrāhmaṇam   ivopodāharati  \
+[struct] Sentence: b
+[text] prajāpatiḥ   prajāḥ   sr̥ṣṭvā   vyasraṃsata   saṃvatsaraḥ  \
+[struct] Sentence: c
+[text] sa   cʰandobʰir   ātmānaṃ
+[text] samadadʰād .
+[struct] Sentence: d
+[text] yac   cʰandobʰir   ātmānaṃ   samadadʰāt ,  tasmāt   saṃhitā  \
+[struct] Sentence: e
+[text] tasyai   vā
+[text] etasyai   saṃhitāyai   ṇakāro   balaṃ ,  ṣakāraḥ   prāṇa   ātmā  \
+[struct] Sentence: f
+[text] sa   yo
+[text] haitau   ṇakāraṣakārāv   anusaṃhitam   r̥co   veda ,  sabalāṃ   saprāṇāṃ   saṃhitāṃ
+[text] veda -.
+[struct] Sentence: g
+[text] -āyuṣyam   iti   vidyāt  \
+[struct] Sentence: h
+[text] sa   yadi   vicikitset   saṇakāraṃ   bravāṇī3ṁ
+[text] aṇakārā3ṁ   iti ,  saṇakāram   eva   brūyāt ;  saṣakāraṃ   bravāṇī3ṁ   aṣa/kārā3ṁ
+[text] iti ,  saṣakāram   eva   brūyāt  \
+[struct] Sentence: i
+[text] te   yad   vayam   anusaṃhitam   r̥co
+[text] 'dʰīmahe ,  yac   ca   māṇḍūkeyam   adʰyāyaṃ   prabrūmas ,  tena   no   ṇakāraṣakārā
+[text] upāptāv   iti   ha   smāha   hrasvo   māṇḍūkeyaḥ  \
+[struct] Sentence: j
+[text] atʰa   yad   vayam   anusaṃhita/m
+[text] r̥co   'dʰīmahe ,  yac   ca   māṇḍūkeyīyam   adʰyāyaṃ   prabrūmas ,  tena   no   ṇakāra/ṣakārā
+[text] upāptāv   iti   ha   smāha   stʰaviraḥ   śākalyaḥ  \
+[struct] Sentence: k
+[text] etad   dʰa   sma
+[text] vai   tad   vidvāṃsa   āhur   r̥ṣayaḥ   kāvaṣeyāḥ .
+[struct] Sentence: l
+[text] kimartʰā   vayam   adʰyeṣyāmahe .
+[struct] Sentence: m
+[text] kimartʰā   vayaṃ   yakṣyāmahe .
+[struct] Sentence: n
+[text] vāci   hi   prāṇaṃ   juhumaḥ ,  prāṇe   vā
+[text] vācaṃ .
+[struct] Sentence: o
+[text] yo   hy   eva   prabʰavaḥ ,  sa   evāpyayaḥ  \
+[struct] Sentence: p
+[text] tā   etāḥ   saṃhitā
+[text] nānantevāsine   prabrūyān ,  nāsaṃvatsaravāsine ,  nāpravaktra   ity   ācāryā ,
+[text] ācāryāḥ  \\ 6 \\
+[text] \\  ity   aitareyatr̥tīyāraṇyake   dvitīyo   'dʰyāyaḥ  \\
+[text] iti   tr̥tīyāraṇyakaṃ   samāptam  \\
+[struct] Aranyaka: IV
+[text] \\  atʰa   caturtʰāraṇyakam  \\
+[struct] Paragraph: _
+[struct] Sentence: a
+[struct] Verse: 1
+[text] vidā́   magʰavan   vidā́   gātúm ,  ánu   śaṃsiṣo   díśaḥ
+[text] \
+[text] śíkṣā   śacīnāṃ   pate ,  pūrvīṇā́ṃ   purūvaso
+[text] \\ 1 \\
+[struct] Sentence: b
+[struct] Verse: 2
+[text] ābʰíṣ   ṭvám   abʰíṣṭibʰiḥ ,  prácetana   prá   cetaya
+[text] \
+[text] índra   dyumnā́ya   na   iṣá ,  evā́   hí   śakráḥ
+[text] \\ 2 \\
+[struct] Sentence: c
+[struct] Verse: 3
+[text] rāyé   vā́jāya   vajrivaḥ ,  śáviṣṭʰa   vajrinn   r̥ñjáse
+[text] \
+[text] máṃhiṣṭʰa   vajrinn   r̥ñjáse ,  ā́   yāhi   píba   mátsva
+[text] \\ 3 \\
+[struct] Sentence: d
+[struct] Verse: 4
+[text] vidā́   rāyáḥ   suvī́ryaṃ ,  bʰúvo   vā́jānāṃ   pátir   váśāṃ   ánu
+[text] \
+[text] máṃhiṣṭʰa   vajrinn   r̥ñjáse ,  yáḥ   śáviṣṭʰaḥ   śū́rāṇām
+[text] \\ 4 \\
+[struct] Sentence: e
+[struct] Verse: 5
+[text] yó   máṃhiṣṭʰo   magʰónāṃ ,  cíkitvo   abʰí   no   naya
+[text] \
+[text] índro   vide   tám   u   stuṣe ,  vaśī́   hí   śakráḥ
+[text] \\ 5 \\
+[struct] Sentence: f
+[struct] Verse: 6
+[text] tám   ūtáye   havāmahe ,  jétāram   áparājitam
+[text] \
+[text] sá   naḥ   parṣad   áti   dvíṣaḥ
+[text] krátuś   cʰandá   r̥táṃ   br̥hát
+[text] \\ 6 \\
+[struct] Sentence: g
+[struct] Verse: 7
+[text] índraṃ   dʰánasya   sātáye
+[text] havāmahe ,
+[text] jétāram   áparājitam
+[text] \
+[text] sá   naḥ   parṣad   áti   dvíṣaḥ
+[text] sá   naḥ   parṣad   áti   srídʰaḥ
+[text] \\ 7 \\
+[struct] Sentence: h
+[struct] Verse: 8
+[text] pū́rvasya   yát   te   adrivaḥ ,  sumná   ā́   dʰehi   no   vaso
+[text] \
+[text] pūrtíḥ   śaviṣtʰa   śasyáta ,  ī́śe   hí   śakráḥ
+[text] \\ 8 \\
+[struct] Sentence: i
+[struct] Verse: 9
+[text] nūnáṃ   táṃ   návyaṃ   sáṃnyase ,  prábʰo   jánasya   vr̥trahan
+[text] \
+[text] sám   anyéṣu   bravāvahai
+[text] śū́ro   yó   góṣu   gácʰati ,  sákʰā   suśévo
+[text] ádvayāḥ
+[text] \\ 9 \\
+[struct] Sentence: j
+[text] evā́   hy   eváivā   hy   agnā́3i
+[text] agnā
+[text] indra \ evā hy evaiva hī3 evā hy evaivā hi viṣṇā3u;
+[text] hīndram
+[text] hī3ndram;
+[text] hīndrā3,
+[text] \\
+[struct] Sentence: k
+[text] evā́   hy   eváivā   hīndrā́3
+[text] \\
+[struct] Sentence: l
+[text] evā́
+[text] hy   eváivā   hi   viṣṇā́3u
+[text] \\
+[struct] Sentence: m
+[text] evā́   hy   eváivā   hi   pūṣā́3n
+[text] pūṣan
+[text] pūṣa3n
+[text] \\
+[struct] Sentence: n
+[text] evā́
+[text] hy   eváivā   hi   devā́3ḥ
+[text] devāḥ
+[text] \\ 10 \\
+[struct] Sentence: o
+[text] evā́   hí   śakró ,  vaśī́   hí   śakró   váśā3ṁ
+[text] ánu
+[text] vaśāṁ
+[text] \\
+[struct] Sentence: p
+[text] ā́   yó   mányāya   manyáva ,  úpo   mányāya   manyáve
+[text] \\
+[struct] Sentence: q
+[text] úpehi
+[text] viśvádʰa
+[text] \\ 11 \\
+[struct] Sentence: r
+[text] vidā́   magʰavan   vidó3m
+[text] \\
+[text] \\  ity   aitareyāraṇyake   caturtʰāraṇyaṃ   samāptam  \\
+[struct] Aranyaka: 5
+[text] \\  atʰa   pañcamāraṇyakam  \\
+[struct] Adhyaya: 1
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] mahāvratasya   pañcaviṃśatiṃ   sāmidʰenyaḥ  \
+[struct] Sentence: b
+[text] ekaviṃśatau   prāg   upo/ttamāyāḥ
+[text] samidʰāgnim
+[text] iti   catasraḥ  \
+[struct] Sentence: c
+[text] vaiśvakarmaṇa
+[text] vaiṣvakarmaṇa}
+[text] r̥ṣabʰa   upāla/mbʰanīya
+[text] upāṃśu  \
+[struct] Sentence: d
+[text] ājyaprauge   viśvajitaḥ  \
+[struct] Sentence: e
+[text] hotrāś   caturviṃśāt  \
+[struct] Sentence: f
+[text] īṅkʰayantīr   apasyuva
+[text] iti   ca   brāhmaṇāccʰaṃsy   āvapeta   prātaḥsavane .
+[struct] Sentence: g
+[text] tīvra/syābʰivayaso
+[text] asya   pāhi -
+[text] -iti   mādʰyandine  \
+[struct] Sentence: h
+[text] trikadrukeṣu   mahiṣo
+[text] yavāśiram
+[text] iti   stotriyaḥ  \
+[struct] Sentence: i
+[text] endra   yāhy   upa   naḥ   parāvata
+[text] indrāya   hi
+[text] dyaur   asuro   anamnata
+[text] anamrata}
+[text] pro   ṣv   asmai   puroratʰam
+[text] ity   ato   'nurūpaḥ  \
+[struct] Sentence: j
+[text] caturviṃ/śān
+[text] marutvatīyasyātāno .
+[struct] Sentence: k
+[text] 'sat   su   me   jaritaḥ   sābʰivegaḥ
+[text] pibā
+[text] somam   abʰi   yam   ugra   tardaḥ
+[text] kayā   śubʰā   savayasaḥ   sanīl̥ā
+[text] marutvāṁ
+[text] indra   vr̥ṣabʰo   raṇāya
+[text] janiṣṭʰā   ugraḥ   sahase   turāya -
+[text] -iti   marutvatīyam  \
+[struct] Sentence: l
+[text] stʰite   marutvatīye   hotā   visaṃstʰitasaṃcareṇa   niṣkramyāgnīdʰrīye
+[text] tisra   ājyāhutīr   juhoty   audumbareṇa   sruveṇa  \
+[struct] Sentence: m
+[text] ánu   mām   índro   ánu   mā́ṃ
+[text] ánu mā
+[text] bŕ̥haspátir ,
+[text] ánu   sómo   ánu   vā́g   devy   ā̀vīt
+[text] \
+[text] ánu   mā́ṃ   mitrā́váruṇāv   ihā́vatām ,  ánu   dyā́vāpr̥tʰivī́   pūrváhūtau
+[text] \\
+[struct] Sentence: n
+[text] ādityā́   mā   víśve   avantu   devā́ḥ ,  saptá   rā́jāno   yá   udā́bʰíṣiktāḥ
+[text] utābʰíṣiktāḥ ,
+[text] \
+[text] vāyúḥ   pūṣā́   váruṇaḥ   sómo   agníḥ ,  sū́ryo   nákṣatrair   avatv   ihá   mā   nú
+[text] \\
+[struct] Sentence: o
+[text] pitáro   mā   víśvam   idáṃ   ca   bʰūtáṃ ,  pŕ̥śnimātaro   marútaḥ   svarkā́ḥ
+[text] \
+[text] yé   agnijihvā́   utá   vā   yájatrās
+[text] té   no   devāḥ   suhavāḥ   śárma   yacʰata -
+[text] -iti  \\
+[struct] Sentence: p
+[text] dakṣiṇe   mārjālīye   daśa   srucy ,  uttamāṃ   caturgr̥hītaṃ   pūrvam   avadāyo/ttarato
+[text] 'gner   upanidʰāya .
+[struct] Sentence: q
+[text] viharaṇaprabʰr̥ti   madʰyandine   mārjālīyo
+[text] jāgarito   bʰavati .
+[struct] Sentence: r
+[text] tasmin   parivr̥te   juhoti   prāgdvāre   vodagdvāre   vā
+[text] prāgudagdvāre   vā  \
+[struct] Sentence: s
+[text] agnir   ivānādʰr̥ṣyaḥ   pr̥tʰivīva   suṣadā   bʰūyāsam
+[text] \
+[struct] Sentence: t
+[text] antarikṣam   ivānāpyam   dyaur   ivānādʰr̥ṣyo   bʰūyāsam
+[text] \
+[struct] Sentence: u
+[text] sūrya   ivāprati/dʰr̥ṣyaś
+[text] candramā   iva   punarbʰūr   bʰūyāsam
+[text] \
+[struct] Sentence: v
+[text] mana   ivāpūrvaṃ   vāyur   iva   ślokabʰū/r
+[text] bʰūyāsam
+[text] \
+[struct] Sentence: w
+[text] ahar   iva   svaṃ   rātrir   iva   priyo   bʰūyāsam
+[text] \
+[struct] Sentence: x
+[text] gāva   iva
+[text] punarbʰuvo   mitʰunam   iva   marīcayo   bʰūyāsam
+[text] \
+[struct] Sentence: y
+[text] āpa   iva   rasa
+[text] oṣadʰaya   iva   rūpaṃ   bʰūyāsam
+[text] \
+[struct] Sentence: z
+[text] annam   iva   vibʰu   yajña   iva   prabʰur   bʰū/yāsam
+[text] \
+[struct] Sentence: aa
+[text] brahmeva   loke   kṣatram   iva   śriyāṃ   bʰūyāsam
+[text] \
+[struct] Sentence: ab
+[text] yad   agna   eṣā
+[text] samitir   bʰavāti -
+[text] -iti  \
+[struct] Sentence: ac
+[text] atra   vibʰajātʰa   vītʰeti   trīṇy   ananvr̥cam  \
+[struct] Sentence: ad
+[text] atra   tiṣṭʰann   ādityam   upatiṣṭʰate   paryāvr̥tte   pradakṣiṇam   āvr̥ttyaitaiś   caivā/svāhākārair ,
+[text] ehy   evā3 ,  idaṃ   madʰū3 ,  idaṃ   madʰu ,  imaṃ   tīvrasutaṃ   pibā3
+[text] ,
+[text] idaṃ   madʰū3
+[text] ,  idaṃ   madʰv   iti   ca  \
+[struct] Sentence: ae
+[text] preṣyāḥ   saṃśāsti   pūrṇakumbʰās
+[text] pūrṇakubʰmās}
+[text] tisro
+[text] 'vamāḥ   ṣal̥   uttamāḥ  \
+[struct] Sentence: af
+[text] imaṃ   dʰiṣṇyam   udakumbʰaṃ   ca   triḥ   pradakṣiṇaṃ
+[text] parivrajātʰa   dakṣiṇaiḥ   pāṇibʰir   dakṣiṇān   ūrūn   āgʰnānā ,
+[text] ehy   evā3 ,  idaṃ
+[text] madʰū3 ,  idaṃ   madʰv
+[text] iti   vadatyaḥ  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] upākr̥te   stotre   traidʰaṃ   ninayātʰātrottare   ca   mārjālīye ,  śeṣam   a/ntarvedīti
+[text] \
+[struct] Sentence: b
+[text] pradakṣiṇam   agniṃ   niṣkramyāgreṇa   yūpaṃ   purastāt   pratyaṅmukʰa/s
+[text] tiṣṭʰann   agneḥ   śira   upatiṣṭʰate ,
+[text] namas   te   gāyatrāya   yat   te   śira
+[text] iti  \
+[struct] Sentence: c
+[text] tenaiva   yatʰetaṃ   pratyetya   dakṣiṇam   udaṅmukʰaḥ   pakṣaṃ ,
+[text] namas   te   rātʰantarāya
+[text] yas   te   dakṣiṇaḥ   pakṣa
+[text] iti  \
+[struct] Sentence: d
+[text] apareṇāgnipucʰam   atikramya   prāṅmukʰa
+[text] uttaraṃ ,
+[text] namas   te   br̥hate   yas   ta   uttaraḥ   pakṣa
+[text] iti  \
+[struct] Sentence: e
+[text] paścāt   prāṅpuccʰaṃ ,
+[text] namas   te   bʰadrāya   yat   te   pucʰaṃ   yā   te   pratiṣṭʰā -
+[text] -iti  \
+[struct] Sentence: f
+[text] dakṣiṇataḥ   pucʰasyā/tmānaṃ ,
+[text] namas   te   rājanāya   yas   ta   ātmā -
+[text] -iti  \\ 2 \
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] yatʰetaṃ   sadaḥ   prasarpati  \
+[struct] Sentence: b
+[text] purastāt   preṅkʰa   upakl̥pto   bʰavati  \
+[struct] Sentence: c
+[text] stʰūṇe
+[text] rajjū   vīvadʰa   ity   etat   prakṣālya   tīrtʰena   prapādyottareṇāgnīdʰrīyaṃ   pari/vrajya
+[text] pūrvayā   dvārā   sadaḥ   sarvān   dʰiṣṇyān   uttareṇa  \
+[struct] Sentence: d
+[text] audumbarāṇi
+[text] kāṣṭḥāni   preṅkʰasya   bʰavanti   pālāśāni   miśrāṇi   vā  \
+[struct] Sentence: e
+[text] trīṇi
+[text] pʰalakāny   ubʰayatas   taṣṭāni   dve   vā   sūcyaś   ca   tāvatyaḥ  \
+[struct] Sentence: f
+[text] iṣumātraḥ
+[text] prāṅ   preṅkʰo ,  nimuṣṭikas   tiryaṅṅ ,  udagagraḥ   prāgagrābʰyāṃ   sūcībʰyāṃ   samutaḥ  \
+[struct] Sentence: g
+[text] dakṣiṇottare   stʰūṇe   nikʰāyābʰito   hotr̥ṣadanaṃ   vīvadʰam   atyādadʰāty   ā/sysaṃmitaṃ
+[text] kartuḥ  \
+[struct] Sentence: h
+[text] kuṣṭʰāsu   cʰidrāṇi   preṅkʰasya   bʰavanti .
+[struct] Sentence: i
+[text] rajjubʰyām   ū/rdʰvam
+[text] udvayati   dakṣiṇato   dakṣiṇayottarataḥ   savyayā .
+[struct] Sentence: j
+[text] dārbʰye   triguṇe
+[text] syātāṃ   savyadakṣiṇe   pañcavyāyāme   dviguṇe .
+[struct] Sentence: k
+[text] vīvadʰe   triḥ   pradakṣiṇaṃ
+[text] paryasyordʰvagrantʰiṃ   niṣṭarkyaṃ   badʰnāti  \
+[struct] Sentence: l
+[text] śākʰābʰir   br̥sībʰir   vā   paryr̥ṣanty   a/prakampi
+[text] \
+[struct] Sentence: m
+[text] caturaṅgulenaiṣa   vibʰūmaḥ   preṅkʰaḥ   syān   muṣṭimātreṇa   vā  \
+[struct] Sentence: n
+[text] dakṣiṇata   udāhitataraḥ   samo   vā  \
+[struct] Sentence: o
+[text] padamātre   dʰiṣṇyāt  \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] niṣṭʰite   preṅkʰe   hotā   vāṇam   audumbaraṃ   śatatantum   ubʰābʰyāṃ   parigr̥/hyottarata
+[text] upohate ,  yatʰā   vīṇām  \
+[struct] Sentence: b
+[text] saptabʰiś   cʰandobʰiś   caturuttaraiḥ
+[text] stʰānāny   asyordʰvam   udgr̥hṇīyād   daśabʰir   vā  \
+[text] gāyatreṇa   tvā   cʰandasodūhā/my
+[text] auṣṇihena   tvānuṣṭubʰena   tvā   bārhatena   tvā   pāṅktena   tvā   traiṣṭubʰena
+[text] treṣṭubʰena}
+[text] tvā
+[text] jāgatena   tvā   vairājena   tvā   dvaipadena   tvāticʰandasā   tvā -
+[text] -iti  \
+[struct] Sentence: c
+[text] cʰandāṃ/sy
+[text] anukramya   stʰānānām   anuparikramaṇam   audumbaryārdrayā   śākʰayā   sapalā/śayā
+[text] mūladeśena   vāṇaṃ   trir   ūrdʰvam   ullikʰati  \
+[text] prāṇāya   tvāpānāya
+[text] tvā   vyānāya   tvollikʰāmi -
+[text] -iti  \
+[struct] Sentence: d
+[text] anyebʰyo   'pi   kāmebʰyaḥ   punar   api
+[text] na   tūllikʰāmīti   brūyāt  \
+[struct] Sentence: e
+[text] atʰainaṃ   saśākʰaṃ   cʰandogebʰyaḥ   prayacʰati  \
+[struct] Sentence: f
+[text] bʰūtebʰyas   tvā -
+[text] -iti   paścārddʰe   pʰalake   pāṇī   pratiṣṭḥāpayati .
+[struct] Sentence: g
+[text] prāṇam   anu   pre/ṅkʰasva -
+[text] -iti   prāñcaṃ   preṅkʰaṃ   praṇayati ,
+[text] vyānam   anu   vīṅkʰasva -
+[text] -iti   tiryañcam ,
+[text] apā/nam
+[text] anv   īṅkʰasva -
+[text] -ity   abʰyātmam  \
+[struct] Sentence: h
+[text] bʰūr   bʰuvaḥ   svar
+[text] iti   japati  \
+[struct] Sentence: i
+[text] prāṇāya   tvā -
+[text] -iti
+[text] prāñcam   eva ,
+[text] vyānāya   tvā -
+[text] -iti   tiryañcam ,
+[text] apānāya   tvā -
+[text] -ity   abʰyātmam  \
+[struct] Sentence: j
+[text] vasa/vas
+[text] tvā   gāyatreṇa   cʰandasārohantu ,  tān   anv   ārohāmi -
+[text] -iti   paścārddʰe   pʰalake
+[text] 'ratnī   pratiṣṭʰāpayati  \
+[struct] Sentence: k
+[text] atʰa   pūrvaṃ   pʰalakaṃ   nānā   pāṇibʰyām   abʰipadyeta ,
+[text] yatʰāhiḥ   srapsyan  \  madʰyamaṃ   cʰubukenopaspr̥śed   dvayor   vā   saṃdʰim  \
+[struct] Sentence: l
+[text] rudrās   tvā   traiṣṭubʰena   cʰandasārohantu ,  tān   anv   ārohāmi -
+[text] -iti   dakṣiṇaṃ
+[text] saktʰy   atiharati  \
+[struct] Sentence: m
+[text] ādityās   tvā   jāgatena   cʰandasārohantu ,  tān   anv   ā/rohāmi -
+[text] -iti   savyam  \
+[struct] Sentence: n
+[text] viśve   tvā   devā   ānuṣṭubʰena   cʰandasārohantu
+[text] ,
+[text] tān   anv   ārohāmi -
+[text] -iti   samārohati .
+[struct] Sentence: o
+[text] paścāt   svasya   dʰiṣṇyasya   dakṣiṇaṃ
+[text] pādaṃ   prāñcaṃ   pratiṣṭʰāpayaty ,  atʰa   savyaṃ .
+[struct] Sentence: p
+[text] yadetaraḥ   śrāmyed ,  atʰetaraṃ .
+[struct] Sentence: q
+[text] yadetaro ,
+[text] 'tʰetaraṃ  \
+[struct] Sentence: r
+[text] nobʰau   vibʰūmau   kuryāt  \
+[struct] Sentence: s
+[text] kūrcān   hotrakāḥ   samārohanti
+[text] brahmā   caudumbarīm   āsandīm   udgātā  \
+[struct] Sentence: t
+[text] yadi   kasmai   cid   avaśyakarmaṇe
+[text] jigamiṣed ,  ādiśya   pālaṃ   prāṅ   avaruhya   caritvā   tam   artʰam   evam   evāja/payāvr̥tārohet
+[text] \\ 4 \\
+[struct] Paragraph: 5
+[struct] Sentence: a
+[text] prastotāraṃ   saṃśāsti ,
+[text] pañcaviṃśasya   stomasya   tisr̥ṣv   ardʰatr̥tīyā/sv
+[text] ardʰatrayodaśāsu   vā   pariśiṣṭāsu   pratʰamaṃ   pratihāraṃ   prabrūtād
+[text] iti  \
+[struct] Sentence: b
+[text] ardʰatrayodaśāsu   pravācayateti   jātūkarṇyaḥ  \
+[struct] Sentence: c
+[text] prokte   japati  \
+[text] suparṇo   'si   garutmān ,  premāṃ   vācaṃ   vadiṣyāmi ,  bahu   vadiṣyantīṃ   bahu
+[text] patiṣyantīṃ   bahu   kariṣyantīṃ   bahu   saniṣyantīṃ   bahor   bʰūyaḥ   kariṣyantīṃ
+[text] svar   gacʰantīṃ   svar   vadiṣyantīṃ   svaḥ   patiṣyantīṃ   svaḥ   kariṣyantīṃ   svaḥ
+[text] saniṣyantīṃ   svar   imaṃ   yajñaṃ   vakṣyantīṃ   svar   māṃ   yajamānaṃ   vakṣyantī/m
+[text] iti  \
+[struct] Sentence: d
+[text] dīkṣite   yajamānaśabdo ,  nādīkṣite  \
+[struct] Sentence: e
+[text] svar   amum   iti ,  yo
+[text] 'sya   priyaḥ   syān .
+[struct] Sentence: f
+[text] na   tu   vakṣyantīm   iti   brūyāt  \
+[struct] Sentence: g
+[text] uktʰavīryāṇi
+[text] ca  \
+[struct] Sentence: h
+[text] saṃ   prāṇo   vācā   sam   ahaṃ   vācā
+[struct] Sentence: i
+[text] saṃ   cakṣur   manasā   sam   ahaṃ   manasā
+[struct] Sentence: j
+[text] saṃ   śrotram   ātmanā   sam   aham   ātmanā
+[struct] Sentence: k
+[text] mayi   mahān ,  mayi   bʰargo ,  mayi
+[text] bʰago ,  mayi   bʰujo ,  mayi   stobʰo ,  mayi   stomo ,  mayi   śloko ,  mayi
+[text] gʰoṣo ,  mayi   yaśo ,  mayi   śrīr ,  mayi   kīrtir ,  mayi   bʰuktir
+[text] iti  \
+[struct] Sentence: l
+[text] āhūya
+[text] vāg   iti   japati  \
+[struct] Sentence: m
+[text] traya   āhāvāḥ   śastrāder   nividaḥ   paridʰānīyāyā
+[text] iti  \
+[struct] Sentence: n
+[text] śabdān   adʰvaryavaḥ   kārayanti  \
+[struct] Sentence: o
+[text] etasminn   ahani   prabʰūtam   annaṃ
+[text] dadyāt  \
+[struct] Sentence: p
+[text] rājaputreṇa   carma   vyādʰayanty .
+[struct] Sentence: q
+[text] āgʰnanti   bʰūmidundubʰiṃ ,  patnyaś   ca
+[text] kāṇḍavīṇā .
+[struct] Sentence: r
+[text] bʰūtānāṃ   ca   maitʰunaṃ ,  brahmacāripuṃścalyoḥ   saṃpravādo .
+[struct] Sentence: s
+[text] 'nekena   sāmnā   niṣkevalyāya   stuvate .
+[struct] Sentence: t
+[text] rājanastotriyeṇa   prati/padyate
+[text] \\ 5 \\
+[struct] Sentence: u
+[text] tad   id   āsa   bʰuvaneṣu   jyeṣṭʰaṃ
+[struct] Sentence: v
+[text] tāṃ   su   te   kīrtiṃ   magʰavan   mahitvā
+[struct] Sentence: w
+[text] bʰūya
+[text] id   vāvr̥dʰe   vīryāya
+[text] \
+[struct] Sentence: x
+[text] nr̥ṇām   u   tvā   nr̥tamaṃ   gīrbʰir   uktʰair
+[text] iti   tisraḥ  \
+[struct] Sentence: y
+[text] atra   haike ,
+[text] svādoḥ   svādīyaḥ   svādunā   sr̥jā   sam
+[text] adaḥ   su   madʰu
+[text] madʰunābʰi   yodʰīr
+[text] ity   ātmana   ete   pade   uddʰr̥tya   pakṣapade   pratyavada/dʰāty ,
+[text] aśvāyanto   magʰavann   indra   vājino
+[text] gām   aśvaṃ   ratʰyam   indra   saṃ   kira -
+[text] -i/ty .
+[struct] Sentence: z
+[text] etayoś   ca   stʰāna   itare  \
+[struct] Sentence: aa
+[text] śriyam   aha   gor   aśvam   ātman   dʰatte   saṃ   pakṣayoḥ
+[text] patanāya  \
+[struct] Sentence: ab
+[text] nadaṃ   va   odatīnām
+[text] ity   etayaitāni   vyatiṣajati   pādaiḥ
+[text] pādān ,  br̥hatīkāraṃ   nadavanty   uttarāṇi .
+[struct] Sentence: ac
+[text] pratʰamāyāṃ   ca   puruṣākṣarāṇy   upa/dadʰāti
+[text] pādeṣv   ekaikam   avasāne   tr̥tīyavarjaṃ .
+[struct] Sentence: ad
+[text] sa   kʰalu   viharati  \
+[struct] Sentence: ae
+[text] api
+[text] nidarśanāyodāhariṣyāmaḥ  \
+[struct] Sentence: af
+[text] tad   id   āsa   bʰuvaneṣu   jyeṣṭʰam
+[text] \
+[text] nadaṃ
+[text] va   odatīnām
+[text] \
+[text] yato   jajña   ugras   tveṣanr̥mṇo
+[text] ru  \  nadaṃ   yo/yuvatīno3m
+[text] yuvatīnom
+[text] yuvatīnām
+[text] yuvātīnā3m
+[text] yuvatīno3m;
+[text] yuvatīno
+[text] \\
+[struct] Sentence: ag
+[text] sadyo   jajñāno   ni   riṇāti   śatrūn
+[text] \
+[text] patiṃ   vo
+[text] agʰnyānām
+[text] \
+[text] anu   yaṃ   viśve   madanty   ūmāḥ
+[text] umāḥ
+[text] ūmāḥ
+[text] ,  ṣo
+[text] \
+[text] dʰenūnām   iṣudʰya/so3m
+[text] iti  \\
+[struct] Paragraph: 6
+[struct] Sentence: a
+[text] evam   etāṃ   triḥ  \
+[struct] Sentence: b
+[text] anyāsu   cet   samāmnātāsu   rājanena
+[text] sāmnā   stuvīran ,  yatʰāstʰānaṃ .
+[struct] Sentence: c
+[text] tā   ihaivemāḥ  \
+[struct] Sentence: d
+[text] asamāmnātāsu   cet   stu/vīran ,
+[text] samāmnātasya   tāvatīr   uddʰr̥tya   tatra   tāḥ   śaṃsed .
+[struct] Sentence: e
+[text] iho   evemāḥ  \
+[struct] Sentence: f
+[text] anyāsu   cet ,  prāk   sūdadohasas   tāḥ  \
+[struct] Sentence: g
+[text] tad   id   āsa -
+[text] -ity   etadādi   śastram  \
+[struct] Sentence: h
+[text] avihr̥taś   cātra   pratigaraḥ  \
+[struct] Sentence: i
+[text] tā   asya   sūdadohasa
+[text] ity   etadādiḥ
+[text] sūdadohāḥ ,  sūdadohāḥ  \\ 6 \\
+[text] \\  ity   aitareyapañcamāraṇyake   pratʰamo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 2
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] grīvāḥ  \
+[struct] Sentence: b
+[text] yásyedám   ārájas
+[text] ā́   rájao) ,
+[text] tújo   yújo   vánaṃ   sáhaḥ
+[text] \
+[text] índrasya   rántyaṃ
+[text] br̥hát
+[text] \\
+[struct] Sentence: c
+[text] nā́dʰr̥ṣa   ā́   dadʰarṣa ,  dādʰr̥ṣāṇáṃ   dʰr̥ṣitáṃ   śávaḥ
+[text] \
+[text] purā́   yád   īm   áti
+[text] vyátʰir ,  índrasya   dʰr̥ṣitáṃ   sáhaḥ
+[text] \\
+[struct] Sentence: d
+[text] sá   no   dadātu   táṃ   rayíṃ ,  rayím   piśá/ṅgasaṃdr̥śam
+[text] \
+[text] índraḥ   pátis   tavástamo   jáneṣv   ā́
+[text] \\
+[struct] Sentence: e
+[text] sūdadohāḥ  \
+[struct] Sentence: f
+[text] śiro
+[text] gāyatram
+[text] indram   id   gātʰino   br̥had
+[text] iti  \
+[struct] Sentence: g
+[text] anyāsu   cet   samāmnātāsu
+[text] stuvīrann ,  ubʰayā   saṃstʰānaviparyayo .
+[struct] Sentence: h
+[text] 'samāmnātāsu   cet   stuvīran ,  mi/śrāsu
+[text] ca  \
+[struct] Sentence: i
+[text] sūktasyottamāṃ   sūdadohāḥ  \
+[struct] Sentence: j
+[text] vijavaḥ  \
+[struct] Sentence: k
+[text] sutás   te   sóma
+[text] úpa   yāhi   yajñáṃ ,  mátsvā   mádaṃ   puruvā́raṃ
+[text] puru   vā́raṃ}
+[text] magʰā́ya
+[text] \
+[text] máṃhiṣṭʰa   indra
+[text] vijáro
+[text] vijuro}
+[text] gr̥ṇádʰyai
+[text] \\
+[struct] Sentence: l
+[text] sá   sāhátur   vr̥trahátyeṣu ,  śátrūn   r̥bʰúr   vigāhá   eṣáḥ
+[text] \
+[text] sá   no   netā́raṃ   maháyāma   índram
+[text] \\
+[struct] Sentence: m
+[text] inó   vásuḥ   sám   ajaḥ   parvateṣṭʰā́ḥ
+[text] ,
+[text] pratí   vām   r̥jīṣī́
+[text] \
+[text] índraḥ   śáśvadbʰir   johū́tra   évaiḥ
+[text] \\
+[struct] Sentence: n
+[text] sūdadohāḥ  \
+[struct] Sentence: o
+[text] ity   e/tat
+[text] trayaṃ   grīvāḥ   śiro   vijavaḥ   sarvam   ardʰarcyam  \\ 1 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] Line of ed.: 6      rātʰantaro   dakṣiṇaḥ   pakṣaḥ  \
+[struct] Sentence: b
+[text] abʰi   tvā   śūra   nonumo
+[text] 'bʰi   tvā
+[text] pūrvapītaya
+[text] iti   ratʰantarasya   stotriyānurūpau   pragātʰau .
+[struct] Sentence: c
+[text] catasraḥ
+[text] satīḥ   ṣaḍ   br̥hatīḥ   karoti  \
+[struct] Sentence: d
+[text] indrasya   nu   vīryāṇi   pra   vocaṃ
+[text] tve   ha
+[text] yat   pitaraś   cin   na   indra -
+[text] -iti   pañcadaśa .
+[struct] Sentence: e
+[text] yas   tigmaśr̥ṅgo   vr̥ṣabʰo   na   bʰīma
+[text] ugro   jajñe   vīryāya   svadʰāvān
+[text] ud   u   brahmāṇy   airata   śravasya -
+[text] -ā   te   maha
+[text] indro   'ty   ugra -
+[text] -iti   pañca   sūktāni  \
+[struct] Sentence: f
+[text] ā   na   indro   dūrād   ā   na   āsād
+[text] iti
+[text] saṃpātaḥ  \
+[struct] Sentence: g
+[text] ittʰā   hi   soma   in   mada
+[text] iti   paṅktiḥ  \
+[struct] Sentence: h
+[text] sūdadohāḥ  \
+[struct] Sentence: i
+[text] bārhata
+[text] uttaraḥ  \
+[struct] Sentence: j
+[text] tvām   id   dʰi   havāmahe
+[text] tvaṃ   hy   ehi   cerava
+[text] iti   br̥hataḥ   stotri/yānurūpau
+[text] pragātʰau  \
+[struct] Sentence: k
+[text] catasraḥ   satīḥ   ṣaḍ   br̥hatīḥ   karoti  \
+[struct] Sentence: l
+[text] tam   u
+[text] ṣṭuhi   yo   abʰibʰūtyojāḥ
+[text] suta   it   tvaṃ   nimiśla   indra   soma
+[text] iti
+[text] trīṇy .
+[struct] Sentence: m
+[text] abʰūr   eko   rayipate   rayīṇām
+[text] ity   aṣṭau   sūktāni  \
+[struct] Sentence: n
+[text] katʰā   mahām   avr̥/dʰat
+[text] kasya   hotur
+[text] iti   saṃpātaḥ  \
+[struct] Sentence: o
+[text] indro   madāya   vāvr̥dʰa
+[text] iti   paṅktiḥ  \
+[struct] Sentence: p
+[text] Line of ed.: 1      sūdadohāḥ  \
+[struct] Sentence: q
+[text] rātʰantaro   dakṣiṇaḥ   pakṣaḥ   pañcadaśastoma .
+[struct] Sentence: r
+[text] ekaśataṃ
+[text] vasiṣṭʰaprāsāho .
+[struct] Sentence: s
+[text] bārhata   uttaraḥ   saptadaśastomo .
+[struct] Sentence: t
+[text] dviśataṃ   bʰaradvāja/prāsāhaḥ
+[text] \
+[struct] Sentence: u
+[text] bʰadraṃ   pucʰaṃ   dvipadāsu  \
+[struct] Sentence: v
+[text] imā   nu   kaṃ   bʰuvanā   sīṣadʰāma -
+[text] -ā
+[text] yāhi   vanasā   saha -
+[text] -iti   nava   samāmnātāḥ  \
+[struct] Sentence: w
+[text] atʰāsamāmnātāḥ  \
+[struct] Sentence: x
+[struct] Verse: 1
+[text] Line of ed.: 5
+[text] prá   va   índrāya   vr̥trahántamāya ,  víprā   gātʰáṃ   gāyata   yáj   jújoṣat
+[text] \\ 1 \\
+[struct] Sentence: y
+[struct] Verse: 2
+[text] Line of ed.: 6
+[text] árcanty   arkáṃ   devátāḥ   svarkā́ ,  ā́   stobʰati   śrutó   yúvā   sá   índraḥ
+[text] \\ 2 \\
+[struct] Sentence: z
+[struct] Verse: 3
+[text] Line of ed.: 7
+[text] úpa   prakṣé   mádʰumati   kṣiyántaḥ ,  púṣyanto   rayíṃ   dʰīmáhe   tám   indra
+[text] \\ 3 \\
+[struct] Sentence: aa
+[struct] Verse: 4
+[text] Line of ed.: 8
+[text] viśvátodāvan   viśváto   na   ā́   bʰara ,  yám   tvā   śáviṣṭʰam   ī́mahe
+[text] \\ 4 \\
+[struct] Sentence: ab
+[struct] Verse: 5
+[text] Line of ed.: 9
+[text] sá   supráṇīte   nŕ̥tamaḥ   svarā́l̥   asi ,  máṃhiṣṭʰo   vā́jasātaye
+[text] \\ 5 \\
+[struct] Sentence: ac
+[struct] Verse: 6
+[text] Line of ed.: 10
+[text] tváṃ   hy   éka   ī́śiṣe
+[text] sanā́d   ámr̥kta   ójasā
+[text] \\ 6 \\
+[struct] Sentence: ad
+[struct] Verse: 7
+[text] Line of ed.: 11
+[text] víśvasya   prá   stobʰa   vidvā́n   purā́   vā   yádi   vehā́sa   nūnám
+[text] \\ 7 \\
+[struct] Sentence: ae
+[struct] Verse: 8
+[text] Line of ed.: 12
+[text] íṣaṃ   no   mitrā́váruṇā   kártanél̥āṃ ,  pī́varīm   íṣaṃ   kr̥ṇuhī́   na   indra
+[text] \\ 8 \\
+[struct] Sentence: af
+[struct] Verse: 9
+[text] Line of ed.: 13
+[text] śáṃ   padáṃ   magʰáṃ   rayiṣáṇi   ná   sómo ,  avratáṃ   hinoti   ná   spr̥śadrayíḥ
+[text] \\ 9 \\
+[struct] Sentence: ag
+[text] Line of ed.: 14
+[text] eṣa   brahmā -
+[text] -iti   tisraḥ .
+[struct] Sentence: ah
+[text] ā   dʰūrṣv   asmā
+[text] ity   ekā  \
+[struct] Sentence: ai
+[text] sūdadohāḥ  \
+[struct] Sentence: aj
+[text] yad   vā/vāna -
+[text] -iti   dʰāyyā  \  sūdadohāḥ  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] gāyatrī   tr̥cāśītiḥ  \
+[struct] Sentence: b
+[text] mahāṁ   indro   ya   ojasā -
+[text] -iti   tisra   uttamā
+[text] uddʰarati  \
+[struct] Sentence: c
+[text] purol̥āśaṃ   no   andʰasa
+[text] iti   tisraḥ  \
+[struct] Sentence: d
+[text] indra   it   somapā
+[text] eka
+[text] ity   etat   prabʰr̥tīnāṃ   tisra   uttamā   uddʰarati  \
+[struct] Sentence: e
+[text] tāsāṃ
+[text] svādavaḥ
+[text] somā   ā   yāhi -
+[text] -ity   etām   uddʰr̥tya ,
+[text] nahy   anyaṃ   bal̥ākaram
+[text] ity   etāṃ   pratyavada/dʰāti
+[text] \
+[struct] Sentence: f
+[text] jajñāno   nu   śatakratur
+[text] ity   ekā  \
+[struct] Sentence: g
+[text] puruhūtaṃ   puruṣṭutam
+[text] iti   śeṣaḥ  \
+[struct] Sentence: h
+[text] ud   gʰed   abʰi   śrutāmagʰam
+[text] ity   uttamām   uddʰarati  \
+[struct] Sentence: i
+[text] pra   kr̥tāny   r̥jīṣiṇa
+[text] ā   gʰā
+[text] ye   agnim   indʰata
+[text] ā   tū   na   indra   kṣumantam
+[text] iti   sūkte  \
+[struct] Sentence: j
+[text] sūda/dohāḥ
+[text] \\ 3 \\
+[struct] Paragraph: 4
+[struct] Sentence: a
+[text] bārhatī   tr̥cāśītiḥ  \
+[struct] Sentence: b
+[text] mā   cid   anyad   vi   śaṃsata -
+[text] -ity   ekayā   na   triṃśat  \
+[struct] Sentence: c
+[text] pibā   sutasya   rasina
+[text] iti   viṃśateḥ   saptamīṃ   cāṣṭamīṃ   coddʰarati  \
+[struct] Sentence: d
+[text] yad   indra   prāg   apāg   udag
+[text] iti   caturdaśa  \
+[struct] Sentence: e
+[text] vayaṃ   gʰa   tvā   sutāvanta
+[text] iti
+[text] pañcadaśa  \
+[struct] Sentence: f
+[text] mo   ṣu   tvā   vāgʰataś   cana -
+[text] -ity   etasya   dvipadāṃ
+[text] coddʰarati
+[text] rātʰantaraṃ
+[text] ca   pragātʰam  \
+[struct] Sentence: g
+[text] atʰa   hāsya
+[text] nakiḥ   sudāso   ratʰam
+[text] ity   etaṃ
+[text] pragātʰam   uddʰr̥tya ,
+[text] tvām   idā   hyo   nara
+[text] ity   etaṃ   pragātʰaṃ   pratyavadadʰāti  \
+[struct] Sentence: h
+[text] abʰi   pra   vaḥ   surādʰasam
+[text] iti   ṣaḍ   vālakʰilyānāṃ   sūktāni  \
+[struct] Sentence: i
+[text] yaḥ
+[text] satrāhā   vicarṣaṇir
+[text] iti   śeṣaḥ  \
+[struct] Sentence: j
+[text] ayaṃ   te   astu   haryata
+[text] iti   sūkte  \
+[struct] Sentence: k
+[text] ubʰayaṃ   śr̥ṇavac   ca   na
+[text] iti   saptamīṃ   cāṣṭamīṃ   coddʰarati  \
+[struct] Sentence: l
+[text] tarobʰir   vo
+[text] vidadvasum
+[text] ity   uttamām   uddʰarati  \
+[struct] Sentence: m
+[text] yo   rājā   carṣaṇīnām
+[text] ity   ekādaśa  \
+[struct] Sentence: n
+[text] taṃ
+[text] vo   dasmam   r̥tīṣaham
+[text] ā   no   viśvāsu   havyo
+[text] yā   indra   bʰuja   ābʰara
+[text] iti
+[text] nava  \
+[struct] Sentence: o
+[text] sūdadohāḥ  \\ 4 \\
+[struct] Paragraph: 5
+[struct] Sentence: a
+[text] auṣṇihī   tr̥cāśītiḥ  \
+[struct] Sentence: b
+[text] ya   indra   somapātama
+[text] iti   sūkte  \
+[struct] Sentence: c
+[text] tam   v   abʰi   pra   gāyata -
+[text] -ity   uttamām   uddʰarati  \
+[struct] Sentence: d
+[text] indrāya   sāma   gāyata
+[struct] Sentence: e
+[text] sakʰāya
+[text] ā   śiṣāmahi -
+[text] -iti   tisra   uttamā   uddʰarati  \
+[struct] Sentence: f
+[text] ya   eka   id   vidayata
+[text] ā   yāhy   adribʰiḥ   sutaṃ
+[text] yasya   tyac   cʰambaraṃ   mada
+[text] iti   trayas   tr̥cā .
+[struct] Sentence: g
+[text] gāyatryaḥ   saṃpadoṣṇihaḥ .
+[struct] Sentence: h
+[text] sapta-sapta   gāyatryaḥ   ṣaṭ-ṣal̥   uṣṇiho   bʰavanti  \
+[struct] Sentence: i
+[text] yad   indrāhaṃ   yatʰā   tvaṃ
+[text] pra   samrājaṃ   carṣaṇīnām
+[text] iti   sūkte  \
+[struct] Sentence: j
+[text] uttarasyottame
+[text] uddʰarati  \
+[struct] Sentence: k
+[text] vārtrahatyāya   śavasa
+[text] bārtrahatyāya}
+[text] ity   uttamām   uddʰarati  \
+[struct] Sentence: l
+[text] surūpakr̥tnum   ūtaya
+[text]  Line of ed.: 8    iti   trīṇi  \
+[struct] Sentence: m
+[text] endra   sānasiṃ   rayim
+[text] iti   sūkte  \
+[struct] Sentence: n
+[text] ya   ānayat   parāvata
+[text]  Line of ed.: 9    iti   tisra   uttamā   uddʰarati  \
+[struct] Sentence: o
+[text] revatīr   naḥ   sadʰamāda
+[text] iti   tisraḥ  \
+[struct] Sentence: p
+[text] sūdadohāḥ  \
+[struct] Sentence: q
+[text] ity   etās   tisras   tr̥cāśītayaḥ   sarvā   ardʰarcyāḥ  \
+[struct] Sentence: r
+[text] annam   aśītayaḥ  \
+[struct] Sentence: s
+[text] udaraṃ   vaśaḥ  \
+[struct] Sentence: t
+[text] tvāvataḥ   purūvasav
+[text] iti   vaśaḥ  \
+[struct] Sentence: u
+[text] sanitaḥ   susanitar
+[text] ity   etad   antaḥ  \
+[struct] Sentence: v
+[text] dadī   rekṇa
+[text] iti   dvipadā  \
+[struct] Sentence: w
+[text] nūnam   a/tʰa -
+[text] -ity   ekapadā  \
+[struct] Sentence: x
+[text] tā   asya   sūdadohasa
+[text] ity   etad   antaḥ .
+[struct] Sentence: y
+[text] sūdadohāḥ ,  sūda/dohāḥ
+[text] \\ 5 \\
+[text] \\  ity   aitareyapañcamāraṇyake   dvitīyo   'dʰyāyaḥ  \\
+[struct] Adhyaya: 3
+[struct] Paragraph: 1
+[struct] Sentence: a
+[text] ūrū  \
+[struct] Sentence: b
+[text] indrāgnī   yuvaṃ   su   na
+[text] ity   etasyārdʰarcān   gāyatrīkāram ,  utta/ram
+[text] uttarasyānuṣṭupkāraṃ   prāg   uttamāyāḥ  \
+[struct] Sentence: c
+[text] pra   vo   mahe   mandamānāyāndʰasa
+[text]  Line of ed.: 4    iti   nividdʰānam  \
+[struct] Sentence: d
+[text] vane   na   vā   yo   ny   adʰāyi   cākan
+[text] yo   jāta   eva
+[text] pratʰamo   manasvān
+[text] iti   te   antareṇa -
+[text] -ā   yāhy   arvāṅ   upa   vandʰureṣṭʰā
+[text] vidʰuṃ
+[text] dadrāṇaṃ   samane   bahūnām
+[text] ity   etad   āvapanam  \
+[struct] Sentence: e
+[text] daśatīnām   aindrīṇāṃ   tri/ṣṭubjagatīnāṃ
+[text] br̥hatīsaṃpannānāṃ
+[text] br̥hatīsapannā}
+[text] yāvatīr   āvaperaṃs ,  tāvanty   ūrdʰvam   āyuṣo
+[text] varṣāṇi   jijīviṣet   saṃvatsarāt-saṃvatsarād   daśato ,  na   vā  \
+[struct] Sentence: f
+[text] tyam   ū   ṣu
+[text] vājinaṃ   devajūtam
+[text] \
+[struct] Sentence: g
+[text] indro   viśvaṃ   virājati -
+[text] -ity   ekapadā  \
+[struct] Sentence: h
+[text] indraṃ
+[text] viśvā   avīvr̥dʰann
+[text] ity   ānuṣṭubʰam  \
+[struct] Sentence: i
+[text] tasya   pratʰamāyāḥ   pūrvam   ardʰarcaṃ
+[text] śastvottareṇārdʰarcenottarasyāḥ   pūrvam   ardʰarcaṃ   vyatiṣajati   pādaiḥ   pādā/n
+[text] anuṣṭupkāram  \
+[struct] Sentence: j
+[text] prāg   uttamāyāḥ   pūrvasmāt-pūrvasmād   ardʰarcād   uttaram-uttara/m
+[text] ardʰarcaṃ   vyatiṣajati  \
+[struct] Sentence: k
+[text] prakr̥tyā   śeṣaḥ  \
+[struct] Sentence: l
+[text] pibā   somam   indra   mandatu
+[text] tvā -
+[text] -iti   ṣaṭ  \
+[struct] Sentence: m
+[text] yoniṣ   ṭa   indra   sadane   akāri -
+[text] -ity   etasya   catasraḥ   śastvottamā/m
+[text] upasaṃtatyopottamayā   paridadʰāti  \
+[struct] Sentence: n
+[text] parihita   uktʰa   uktʰasaṃpadaṃ
+[text] japati  \
+[struct] Sentence: o
+[text] uktʰavīryasya   stʰāna   uktʰadohaḥ  \\ 1 \\
+[struct] Sentence: p
+[struct] Verse: 1
+[text] mūrdʰā́   lokā́nām   asi ,  vācó   rásas   téjaḥ   prāṇásyāyátanaṃ   mánasaḥ  \
+[text] sáṃveśaś   cákṣuṣaḥ   sáṃbʰavaḥ   śrótrasya   prátiṣṭʰā   hŕ̥dayasya   sárvam
+[text] \\ 1 \\
+[struct] Sentence: q
+[struct] Verse: 2
+[text] índraḥ   kármā́kṣitam   amŕ̥taṃ   vyòma   r̥táṃ   satyáṃ   vijigyānám
+[text] vijigyānam
+[text] vivācanám
+[text] vivā́canam}
+[text] \
+[text] ánto   vācó   víbʰuḥ   sárvasmād   úttaraṃ   jyótir   ū́dʰar   áprativādaḥ   pū́rvam
+[text] \\ 2 \\
+[struct] Sentence: r
+[struct] Verse: 3
+[text] sárvaṃ   vā́k   párāg   arvā́k   sápru   saliláṃ   dʰenú   pinvati ,  cákṣuḥ   śrótraṃ   prāṇáḥ  \
+[text] satyásaṃmitaṃ   vā́kprabʰūtaṃ   mánaso   víbʰūtaṃ   hŕ̥dayograṃ   brāhmaṇábʰartr̥/kam
+[text] \\ 3 \\
+[struct] Sentence: s
+[struct] Verse: 4
+[text] ánnaśubʰe   varṣápavitraṃ   góbʰagaṃ   pr̥tʰivyuparám   váruṇavāyvitamam  \
+[text] tápastanv   índrajyeṣṭʰaṃ   sahásradʰāram   ayútākṣaram   amŕ̥taṃ   dúhānam
+[text] \\ 4 \\
+[struct] Sentence: t
+[struct] Verse: 5
+[text] etā́s   ta   uktʰabʰū́taya
+[text] uktʰa   bʰū́taya} ,  etā́   vācó   víbʰūtayaḥ
+[text] \
+[text] tā́bʰir   ma   ihá   dʰukṣva -,  -amŕ̥tasya   śríyaṃ   mahī́m
+[text] \\ 5 \\
+[struct] Sentence: u
+[struct] Verse: 6
+[text] prajā́patir   idáṃ   bráhma ,  védānāṃ   sasr̥je   rásam
+[text] \
+[text] ténāhám   víśvam   āpyāsaṃ ,  sárvān   kā́mān   duhāṃ   mahát
+[text] \\ 6 \\
+[struct] Paragraph: 2
+[struct] Sentence: a
+[text] bʰū́r   bʰúvaḥ   svàs ,  tráyo   védo   'si
+[text] \
+[struct] Sentence: b
+[text] bráhma   prajā́m   me   dʰukṣva
+[text] \
+[struct] Sentence: c
+[text] ā́yuḥ
+[text] prāṇáṃ   me   dʰukṣva
+[text] \
+[struct] Sentence: d
+[text] paśū́n   víśaṃ   me   dʰukṣva
+[text] \
+[struct] Sentence: e
+[text] śríyaṃ   yáśo   me   dʰukṣva
+[text] \
+[struct] Sentence: f
+[text] lokám   brahmavarcasám
+[text] brahmavarcasam
+[text] abʰáyaṃ   yajñasamr̥ddʰíṃ   me   dʰukṣva
+[text] \
+[struct] Sentence: g
+[text] iti   vācayaty   adʰva/ryum ,
+[text] abuddʰaṃ   ced   asya   bʰavati  \
+[struct] Sentence: h
+[text] om ,  uktʰaśā   yaja   somasya -
+[text] -itījyāyai   saṃpre/ṣito ,
+[text] ye3   yajāmaha
+[text] ity   āgūrya   nityayaiva   yajati .
+[struct] Sentence: i
+[text] vyavānyevānu
+[text] vaṣaṭkaroti  \
+[struct] Sentence: j
+[text] uktaṃ   vaṣaṭkārānumantraṇam  \
+[struct] Sentence: k
+[text] āharaty   adʰvaryur   uktʰapā/tram
+[text] atigrāhyāṃś   camasāṃś   ca  \
+[struct] Sentence: l
+[text] bʰakṣaṃ   pratikʰyāya   hotā   prāṅ   preṅkʰād   ava/rohati
+[text] \
+[struct] Sentence: m
+[text] atʰaitaṃ   preṅkʰaṃ   pratyañcam   avabadʰnanti ,  yatʰā   śaṃsitāraṃ   bʰakṣayi/ṣyantaṃ
+[text] nopahaniṣyasīti  \
+[struct] Sentence: n
+[text] preṅkʰasya   hy   āyatana   āsīno
+[text] āyatanam āsīno
+[text] hotā
+[text] bʰakṣayati  \
+[struct] Sentence: o
+[text] atʰaitad   uktʰapātraṃ   hotopasr̥ṣṭena   japena   bʰakṣayati  \
+[text] vāg   devī   somasya   tr̥pyatu
+[text] \
+[text] somo   me   rājāyuḥ   prāṇāya   varṣatu
+[text] \
+[text] sa   me   prāṇaḥ   sarvam   āyur   duhāṃ   mahad
+[text] iti  \
+[struct] Sentence: p
+[text] uttamād   ābʰiplavikāt   tr̥tī/yasavanam
+[text] anyad   vaiśvadevān   nividdʰānād
+[struct] Sentence: q
+[text] asya   vāmasya   palitasya   hotur
+[text] iti
+[text] salilasya   dairgʰatamasa   ekacatvāriṃśatam   ānobʰadrīyaṃ
+[text] ca   tasya   stʰāna .
+[struct] Sentence: r
+[text] aikāhikau   vaiśvadevasya   pratipadanucarau  \
+[struct] Sentence: s
+[text] cyaveta   ced   yajñāyajñīyam ,
+[text] agne
+[text] tava   śravo   vaya
+[text] iti   ṣaṭ   stotriyānurūpau ,  yadīl̥āndaṃ .
+[struct] Sentence: t
+[text] bʰūyasīṣu
+[text] cet   stuvīrann ,
+[text] āgnim   na   svavr̥ktibʰir
+[text] iti   tāvatīr   anurūpaḥ  \
+[struct] Sentence: u
+[text] saṃpannaṃ
+[text] mahāvrataṃ   saṃtiṣṭʰata   idam   ahar   agniṣṭomo .
+[struct] Sentence: v
+[text] yatʰākālam   avabʰr̥tʰaṃ   preṅkʰaṃ   hareyuḥ ,
+[text] saṃdaheyur   br̥sīḥ  \\ 2 \\
+[struct] Paragraph: 3
+[struct] Sentence: a
+[text] nādīkṣito   mahāvratam   śaṃsen ,  nānagnau ,  na   parasmai ,  nāsaṃvatsara
+[text] ity   eke .
+[struct] Sentence: b
+[text] kāmaṃ   pitre   vācāryāya   vā   śaṃsed .
+[struct] Sentence: c
+[text] ātmano   haivāsya   tac   cʰastaṃ
+[text] bʰavati  \
+[struct] Sentence: d
+[text] hotr̥śastreṣu -
+[text] -uktʰaśā   yaja   somasya -
+[text] -ity   ekaḥ   praiṣaḥ   sanārāśaṃ/seṣv
+[text] anārāśaṃseṣu   vā   hotrakāṇām
+[text] \
+[struct] Sentence: e
+[text] [
+[text] uktʰaśā   yaja   somānā/m
+[text] iti  \]
+[struct] Sentence: f
+[text] tad   idam   ahar   nānantevāsine   prabrūyān ,  nāsaṃvatsaravāsine ,  no
+[text] evāsaṃvatsaravāsine ,  nābrahmacāriṇe ,  nāsabrahmacāriṇe ,  no   evā/sabrahmacāriṇe ,
+[text] nānabʰiprāptāyaitaṃ   deśam  \
+[struct] Sentence: g
+[text] na   bʰūyaḥ   sakr̥dgadanād   dvirga/danād
+[text] vā .
+[struct] Sentence: h
+[text] dvayy   eva  \
+[struct] Sentence: i
+[text] eka   ekasmai   prabrūyād   iti   ha   smāha   jātūkarṇyaḥ  \
+[struct] Sentence: j
+[text] na   vatse   cana
+[text] ca   na}
+[text] tr̥tīya   iti  \
+[struct] Sentence: k
+[text] na   tiṣṭʰaṃs   tiṣṭʰate ,  na   vrajan   vrajate ,  na
+[text] śayānaḥ   śayānāya ,  noparyāsīna   uparyāsīnāyādʰa   evāsīno   'dʰa
+[text] āsīnāya  \
+[struct] Sentence: l
+[text] nāvaṣṭabdʰo ,  na   pratistabdʰo ,  nātivīto ,  nāṅkaṃ   kr̥tvo/rdʰvajñur
+[text] anapaśrito   'dʰīyīta .
+[struct] Sentence: m
+[text] na   māṃsaṃ   bʰuktvā ,  na   lohitaṃ   dr̥ṣṭvā   na
+[text] gatāsuṃ ,  nāvratyam   ākramya ,  nāktvā ,  nābʰyajya ,  nonmardanaṃ   kārayitvā ,  na
+[text] nāpitena   kārayitvā ,  na   snātvā ,  na   varṇakenānulipya ,  na   srajam   a/pinahya ,
+[text] na   striyam   upagamya ,  nollikʰya ,  nāvilikʰya  \
+[struct] Sentence: n
+[text] nedam   ekasmi/nn
+[text] ahani   samāpayed   iti   ha   smāha   jātūkarṇyaḥ .
+[struct] Sentence: o
+[text] samāpayed   iti   gālavo
+[text] .
+[struct] Sentence: p
+[text] yad   anyat   prāk   tr̥cāśītibʰyaḥ   samāpayed   evety   āgniveśyāyano .
+[struct] Sentence: q
+[text] 'nyam   anya/smin
+[text] deśe   śamayamāna   iti  \
+[struct] Sentence: r
+[text] yatredam   adʰīyīta ,  na   tatrānyad   adʰīyīta .
+[struct] Sentence: s
+[text] yatra   tv   anyad   adʰīyīta ,  kāmam   idaṃ   tatrādʰīyīta  \
+[struct] Sentence: t
+[text] nedam   anadʰīyan   snātako
+[text] bʰavati
+[struct] Sentence: u
+[text] yady   apy   anyad   bahv   adʰīyān ,  naivedam   anadʰīyant   snātako   bʰavati  \
+[struct] Sentence: v
+[text] nā/smād
+[text] adʰītāt   pramādyed .
+[struct] Sentence: w
+[text] yady   apy   anyasmāt   pramādyen ,  naivāsmāt   pramādyen .
+[struct] Sentence: x
+[text] no   evā/smāt
+[text] pramādyet  \
+[struct] Sentence: y
+[text] asmāc   cen   na   pramādyed ,  alam   ātmana   iti   vidyāt  \
+[struct] Sentence: z
+[text] alaṃ   satyaṃ   vidyāt  \
+[struct] Sentence: aa
+[text] nedaṃvid   anidaṃvidā   samuddiśen ,  na   saha   bʰuñjīta ,
+[text] na   sadʰamādī   syāt  \
+[struct] Sentence: ab
+[text] atʰātaḥ   svādʰyāyadʰarmaṃ   vyākʰyāsyāmaḥ  \
+[struct] Sentence: ac
+[text] upa   purāṇe   nāpīte   kakṣodake   pūrvāhṇe ,  na   saṃbʰinnāsu   cʰāyāsv   a/parāhṇe ,
+[text] nādʰyūl̥ha   megʰe .
+[struct] Sentence: ad
+[text] 'partau   varṣe   trirātraṃ   vaidikenādʰyāyenānta/riyān .
+[struct] Sentence: ae
+[text] nāsmin   katʰāṃ   vadeta .
+[struct] Sentence: af
+[text] nāsya   rātrau   cana   cikīrtayiṣet
+[text] ca kīrtayiṣet
+[text] nāsya   rātrau   ca   na   ca   kīrtayiṣet
+[text] \
+[struct] Sentence: ag
+[text] tad   iti   vā   etasya   mahato   bʰūtasya   nāma   bʰavati .
+[struct] Sentence: ah
+[text] yo   'syaitad   evaṃ
+[text] nāma   veda ,  brahma   bʰavati ,  brahma   bʰavati  \\ 3 \\
+[struct] Sentence: ai
+[text] \\  ity   aitareyapañcamāraṇyake   tr̥tīyo   'dʰyāyaḥ  \\
+[struct] Sentence: aj
+[text] iti   pañcamāraṇyakaṃ   samāptam  \\

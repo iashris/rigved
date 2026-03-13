@@ -1,0 +1,1112 @@
+[
+  {
+    "reference": "1.1",
+    "sanskrit_iast": "om brahmavādino vadanti|| kiṁ kāraṇaṁ brahma kutaḥ sma jātā jīvāma kena kva ca saṁpratiṣṭhāḥ| adhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthām ||",
+    "meaning": "ॐ ब्रह्मवादिनो वदन्ति॥ किं कारणं ब्रह्म कुतः स्म जाता जीवाम केन क्व च संप्रतिष्ठाः। अधिष्ठिताः केन सुखेतरेषु वर्तामहे ब्रह्मविदो व्यवस्थाम्‌॥",
+    "text": "Rishis, discoursing on Brahman, ask: Is Brahman the cause? Whence are we born? By what do we live? Where is our final rest? O ye who know Brahman, under whose guidance we abide by the law of happiness and misery.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.2",
+    "sanskrit_iast": "kālaḥ svabhāvo niyatiryadṛcchā bhūtāni yoniḥ puruṣa iti cintyā | saṁyoga eṣāṁ na tvātmabhāvādātmāpyanīśaḥ sukhaduḥkhahetoḥ ||",
+    "meaning": "कालः स्वभावो नियतिर्यदृच्छा भूतानि योनिः पुरुष इति चिन्त्या। संयोग एषां न त्वात्मभावादात्माप्यनीशः सुखदुःखहेतोः॥",
+    "text": "Time, nature, law, chance, matter, the living self - none of these surely is the cause; nor even the combination of these is the cause because of their own birth, identity and the existence of the self. The Self being under the sway of happiness and misery is not a free agent and thus not the cause.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.3",
+    "sanskrit_iast": "te dhyānayogānugatā apaśyanhdevātmaśaktiṁ svaguṇairnigūḍhām | yaḥ kāraṇāni nikhilāni tāni kālātmayuktānyadhitiṣṭhatyekaḥ ||",
+    "meaning": "ते ध्यानयोगानुगता अपश्यन्ह्देवात्मशक्तिं स्वगुणैर्निगूढाम्‌। यः कारणानि निखिलानि तानि कालात्मयुक्तान्यधितिष्ठत्येकः॥",
+    "text": "The sages, absorbed in meditation through one-pointedness of mind, discovered the creative power, belonging to the Lord Himself and hidden in its own gunas. This is that Lord who is one without second and who rules over all those causes - time, the self and the rest.",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.4",
+    "sanskrit_iast": "tamekanemiṁ trivṛtaṁ ṣoḍaśāntaṁ śatārdhāraṁ viṁśatipratyarābhiḥ | aṣṭakaiḥ ṣaḍbhirviśvarūpaikapāśaṁ trimārgabhedaṁ dvinimittaikamoham ||",
+    "meaning": "तमेकनेमिं त्रिवृतं षोडशान्तं शतार्धारं विंशतिप्रत्यराभिः। अष्टकैः षड्भिर्विश्वरूपैकपाशं त्रिमार्गभेदं द्विनिमित्तैकमोहम्‌॥",
+    "text": "The sages saw the wheel of Brahman, which has one felly, a triple tire, sixteen end-parts, fifty spokes with twenty counter-spokes and six sets of eight; which is driven along three different roads by means of a belt that is single yet manifold; and whose illusion arises from two causes.",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.5",
+    "sanskrit_iast": "pañcasrotombuṁ pañcayonyugravakrāṁ pañcaprāṇormiṁ pañcabuddhyādimūlām | pañcāvartāṁ pañcaduḥkhaughavegāṁ pañcāśadbhedāṁ pañcaparvāmadhīmaḥ ||",
+    "meaning": "पञ्चस्रोतोम्बुं पञ्चयोन्युग्रवक्रां पञ्चप्राणोर्मिं पञ्चबुद्ध्यादिमूलाम्‌। पञ्चावर्तां पञ्चदुःखौघवेगां पञ्चाशद्भेदां पञ्चपर्वामधीमः॥",
+    "text": "We think of Him (in His manifestation as the universe) who is like a river that contains the waters of five streams; that has five big turnings due to five causes; that has the five Pranas for the waves, the mind - the basis of five-fold perception - for the source, and the five-fold misery for its rapids; and that has five whirlpools, five branches and innumerable aspects.",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.6",
+    "sanskrit_iast": "sarvājīve sarvasaṁsthe bṛhante asminhaṁso bhrāmyate brahmacakre | pṛthagātmānaṁ preritāraṁ ca matvā juṣṭastatastenāmṛtatvameti ||",
+    "meaning": "सर्वाजीवे सर्वसंस्थे बृहन्ते अस्मिन्हंसो भ्राम्यते ब्रह्मचक्रे। पृथगात्मानं प्रेरितारं च मत्वा जुष्टस्ततस्तेनामृतत्वमेति॥",
+    "text": "In this infinite wheel of Brahman, in which everything lives and rests, the pilgrim soul is whirled about. Knowing the individual soul, hitherto regarded as separate, to be itself the Moving Force, and blessed by Him, it attains immortality.",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.7",
+    "sanskrit_iast": "udgītametatparamaṁ tu brahma tasmiṁstrayaṁ supratiṣṭhā'kṣaraṁ ca | atrāntaraṁ brahmavido viditvā līnā brahmaṇi tatparā yonimuktāḥ ||",
+    "meaning": "उद्गीतमेतत्परमं तु ब्रह्म तस्मिंस्त्रयं सुप्रतिष्ठाऽक्षरं च। अत्रान्तरं ब्रह्मविदो विदित्वा लीना ब्रह्मणि तत्परा योनिमुक्ताः॥",
+    "text": "This is expressly declared to be the Supreme Brahman. In that is the triad. It is the firm support, and it is the imperishable. Knowing the inner essence of this, the knowers of Veda become devoted to Brahman, merge themselves in It, and are released from birth.",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.8",
+    "sanskrit_iast": "saṁyuktametatkṣaramakṣaraṁ ca vyaktāvyaktaṁ bharate viśvamīśaḥ | anīśaścātmā badhyate bhoktṛbhāvājjñātvā devaṁ mucyate sarvapāśaiḥ ||",
+    "meaning": "संयुक्तमेतत्क्षरमक्षरं च व्यक्ताव्यक्तं भरते विश्वमीशः। अनीशश्चात्मा बध्यते भोक्तृभावाज्ज्ञात्वा देवं मुच्यते सर्वपाशैः॥",
+    "text": "The Lord supports this universe, which consists of a combination of the perishable and the imperishable, the manifest and the unmanifest. As long as the self does not know the Lord, it gets attached to worldly pleasures, and is bound; but when it knows Him, all fetters fall away from it.",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.9",
+    "sanskrit_iast": "jñājñau dvāvajāvīśanīśāvajā hyekā bhoktṛbhogyārthayuktā | anantaścātmā viśvarūpo hyakartā trayaṁ yadā vindate brahmametat ||",
+    "meaning": "ज्ञाज्ञौ द्वावजावीशनीशावजा ह्येका भोक्तृभोग्यार्थयुक्ता। अनन्तश्चात्मा विश्वरूपो ह्यकर्ता त्रयं यदा विन्दते ब्रह्ममेतत्‌॥",
+    "text": "The conscious subject and the unconscious object, the master and the dependent, are both unborn. She, too, who is engaged in bringing about the relation of the enjoyer and the enjoyed (or between these two), is unborn. When all these three are realized as Brahman, the self becomes infinite, universal and free from the sense of agentship.",
+    "mandala": 1,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.10",
+    "sanskrit_iast": "kṣaraṁ pradhānamamṛtākṣaraṁ haraḥ kṣarātmānāvīśate deva ekaḥ | tasyābhidhyānādyojanāttattvabhāvāt bhūyaścānte viśvamāyānivṛttiḥ ||",
+    "meaning": "क्षरं प्रधानममृताक्षरं हरः क्षरात्मानावीशते देव एकः। तस्याभिध्यानाद्योजनात्तत्त्वभावात्‌ भूयश्चान्ते विश्वमायानिवृत्तिः॥",
+    "text": "Matter is perishable, but God is imperishable and immortal. He, the only God, rules over the perishable matter and individual souls. By meditating on him, by uniting with Him, and by becoming one with Him, there is cessation of all illusion in the end.",
+    "mandala": 1,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.11",
+    "sanskrit_iast": "jñātvā devaṁ sarvapāśāpahāniḥ kṣīṇaiḥ klaiśairjanmamṛtyuprahāṇiḥ | tasyābhidhyānāttṛtīyaṁ dehabhede viśvaiśvaryaṁ kevala āptakāmaḥ ||",
+    "meaning": "ज्ञात्वा देवं सर्वपाशापहानिः क्षीणैः क्लैशैर्जन्ममृत्युप्रहाणिः। तस्याभिध्यानात्तृतीयं देहभेदे विश्वैश्वर्यं केवल आप्तकामः॥",
+    "text": "With the knowledge of God, all fetters fall off. With the waning of ignorance, birth and death cease. Going beyond the consciousness of the body by meditating on Him, one reaches the third state, viz., the universal lordship. All his desires are satisfied, and he becomes one without a second.",
+    "mandala": 1,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.12",
+    "sanskrit_iast": "etajjñeyaṁ nityamevātmasaṁsthaṁ nātaḥ paraṁ veditavyaṁ hi kiñcit | bhoktā bhogyaṁ preritāraṁ ca matvā sarvaṁ proktaṁ trividhaṁ brahmametat ||",
+    "meaning": "एतज्ज्ञेयं नित्यमेवात्मसंस्थं नातः परं वेदितव्यं हि किञ्चित्‌। भोक्ता भोग्यं प्रेरितारं च मत्वा सर्वं प्रोक्तं त्रिविधं ब्रह्ममेतत्‌॥",
+    "text": "This is to be known as eternally existing in one's own self. Indeed, there is nothing to be known beyond this. As a result of meditation the enjoyer, the enjoyed and the power which brings about the enjoyment - all are declared to be the three aspects of Brahman.",
+    "mandala": 1,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.13",
+    "sanskrit_iast": "vahneryathā yonigatasya mūrtina|r dṛśyate naiva ca liṅganāśaḥ | sa bhūya evendhanayonigṛhyastadvobhayaṁ vai praṇavena dehe ||",
+    "meaning": "वह्नेर्यथा योनिगतस्य मूर्तिन।र् दृश्यते नैव च लिङ्गनाशः। स भूय एवेन्धनयोनिगृह्यस्तद्वोभयं वै प्रणवेन देहे॥",
+    "text": "Fire is not perceived in its source, the fire-stick, till it is ignited by percussion. The subtle essence of fire, nevertheless, is not absent in the stick; for fire can be obtained from the source, the fire-stick, by striking again. (The state of the Atman before and after realization). By meditating on the Pranava, the Atman is perceived manifestly in the body, (but it was there in a latent state even before realization).",
+    "mandala": 1,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.14",
+    "sanskrit_iast": "svadehamaraṇiṁ kṛtvā praṇavaṁ cottarāraṇim | dhyānanirmathanābhyāsāddevaṁ paśyannigūḍhavat ||",
+    "meaning": "स्वदेहमरणिं कृत्वा प्रणवं चोत्तरारणिम्‌। ध्याननिर्मथनाभ्यासाद्देवं पश्यन्निगूढवत्‌॥",
+    "text": "Making one's own body the lower piece of wood, and the Pranava the upper piece of wood, and practising churning in the form of meditation, one should realize God as one would find out something hidden.",
+    "mandala": 1,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "1.15",
+    "sanskrit_iast": "tileṣu tailaṁ dadhinīva sarpirāpaḥ srotaḥsvaraṇīṣu cāgniḥ | evamātmātmani gṛhyate'sau satyenainaṁ tapasā yo'nupaśyati || sarvavyāpinamātmānaṁ kṣīre sarpirivārpitam | ātmavidyātapomūlaṁ tadbrahmopaniṣat param tadbrahmopaniṣat param iti ||",
+    "meaning": "तिलेषु तैलं दधिनीव सर्पिरापः स्रोतःस्वरणीषु चाग्नि। एवमात्मात्मनि गृह्यतेऽसौ सत्येनैनं तपसा योऽनुपश्यति॥ सर्वव्यापिनमात्मानं क्षीरे सर्पिरिवार्पितम्‌। आत्मविद्यातपोमूलं तद्ब्रह्मोपनिषत्‌ परम्‌ तद्ब्रह्मोपनिषत्‌ परम्‌ इति॥",
+    "text": "As oil in sesame seeds, as butter in curds, as water in underground springs, as fire in wood, even so this Self is perceived in the self. He who, by means of truthfulness, self-control and concentration, looks again and again for this Self, which is all-pervading like butter contained in milk, and which is rooted in self-knowledge and meditation - he becomes that Supreme Brahman, the destroyer of ignorance.",
+    "mandala": 1,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.1",
+    "sanskrit_iast": "yuñjānaḥ prathamaṁ manastattvāya savitā dhiyaḥ | agnerjyotirnicāyya pṛthivyā adhyābharat ||",
+    "meaning": "युञ्जानः प्रथमं मनस्तत्त्वाय सविता धियः। अग्नेर्ज्योतिर्निचाय्य पृथिव्या अध्याभरत्‌॥",
+    "text": "First harnessing the mind and the senses with a view to realizing the Truth, and then having found out the light of the fire, the Evolving Soul brought itself out of the earth.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.2",
+    "sanskrit_iast": "yuktena manasā vayaṁ devasya savituḥ save | suvargeyāya śaktyā ||",
+    "meaning": "युक्तेन मनसा वयं देवस्य सवितुः सवे। सुवर्गेयाय शक्त्या॥",
+    "text": "With our minds controlled so as to manifest the self-luminous Immanent Soul, we shall vigorously endeavour for the attainment of supreme bliss.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.3",
+    "sanskrit_iast": "yuktvāya manasā devānsuvaryato dhiyā divam | bṛhajjyotiḥ kariṣyataḥ savitā prasuvāti tān ||",
+    "meaning": "युक्त्वाय मनसा देवान्सुवर्यतो धिया दिवम्‌। बृहज्ज्योतिः करिष्यतः सविता प्रसुवाति तान्‌॥",
+    "text": "Controlling the heaven-aspiring senses with the help of the mind and the intellect, the Immanent Soul so regenerates them as to enable them to manifest the self-luminous Infinite Light.",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.4",
+    "sanskrit_iast": "yuñjate mana uta yuñjate dhiyo viprā viprasya bhato vipaścitaḥ | vi hotrā dadhe vayunāvideka inmahī devasya savituḥ pariṣṭutiḥ ||",
+    "meaning": "युञ्जते मन उत युञ्जते धियो विप्रा विप्रस्य हतो विपश्चितः। वि होत्रा दधे वयुनाविदेक इन्मही देवस्य सवितुः परिष्टुतिः॥",
+    "text": "Great is the glory of the Immanent Soul who is all-pervading, all-knowing, infinite and self-luminous. Only those rare few who know, undergo the necessary discipline and spiritual practices. The wise do, indeed, control the activities of the intellect, and practise meditation and concentration.",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.5",
+    "sanskrit_iast": "yuje vāṁ brahma pūrvyaṁ namobhirviśloka etu pathyeva sūreḥ | śṛṇvantu viśve amṛtasya putrā ā ye dhāmāni divyāni tasthuḥ ||",
+    "meaning": "युजे वां ब्रह्म पूर्व्यं नमोभिर्विश्लोक एतु पथ्येव सूरेः। शृण्वन्तु विश्वे अमृतस्य पुत्रा आ ये धामानि दिव्यानि तस्थुः॥",
+    "text": "Following only in the footsteps of the wise, I merge you both in the ancient Brahman by continued meditation. May the Glorious One manifest Himself ! May the sons of Immortal Bliss hearken to me - even they who occupy celestial regions !",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.6",
+    "sanskrit_iast": "agniryatrābhimathyate vāyuryatrādhirudhyate | somo yatrātiricyate tatra sañjāyate manaḥ ||",
+    "meaning": "अग्निर्यत्राभिमथ्यते वायुर्यत्राधिरुध्यते। सोमो यत्रातिरिच्यते तत्र सञ्जायते मनः॥",
+    "text": "Where fire is churned out, where air is controlled, where Soma juice overflows - there the mind attains perfection.",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.7",
+    "sanskrit_iast": "savitrā prasavena juṣeta brahma pūrvyam | yatra yoniṁ kṛṇavase na hi te pūrtamakṣipat ||",
+    "meaning": "सवित्रा प्रसवेन जुषेत ब्रह्म पूर्व्यम्‌। यत्र योनिं कृणवसे न हि ते पूर्तमक्षिपत्‌॥",
+    "text": "Attaining whom thou destroyest the source and art no more troubled by the results of past actions - to that ancient Brahman be thou devoted through the Prime Cause, the Immanent Soul.",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.8",
+    "sanskrit_iast": "trirunnataṁ sthāpya samaṁ śarīraṁ hṛdīndriyāṇi manasā saṁniveśya | brahmoḍupena pratareta vidvānsrotāṁsi sarvāṇi bhayānakāni ||",
+    "meaning": "त्रिरुन्नतं स्थाप्य समं शरीरं हृदीन्द्रियाणि मनसा संनिवेश्य। ब्रह्मोडुपेन प्रतरेत विद्वान्स्रोतांसि सर्वाणि भयानकानि॥",
+    "text": "Placing the body in a straight posture, holding the chest, throat and head erect, and drawing the senses and the mind into the heart, the knowing one should cross over all the fearful currents by means of the raft of Brahman.",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.9",
+    "sanskrit_iast": "prāṇānprapīḍyeha saṁyuktaceṣṭaḥ kṣīṇe prāṇe nāsikayocchvasīta | duṣṭāśvayuktamiva vāhamenaṁ vidvānmano dhārayetāpramattaḥ ||",
+    "meaning": "प्राणान्प्रपीड्येह संयुक्तचेष्टः क्षीणे प्राणे नासिकयोच्छ्वसीत। दुष्टाश्वयुक्तमिव वाहमेनं विद्वान्मनो धारयेताप्रमत्तः॥",
+    "text": "Controlling the senses with an effort, and regulating the activities in the body, one should breathe out through the nostrils when the vital activities become gentle. Then the knowing one, without being in the least distracted, should keep his hold on the mind as on the reins attached to restive horses.",
+    "mandala": 2,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.10",
+    "sanskrit_iast": "same śucau śarkarāvahnivālukāvivarjite śabdajalāśrayādibhiḥ | manonukūle na tu cakṣupīḍane guhānivātāśrayaṇe prayojayet ||",
+    "meaning": "समे शुचौ शर्करावह्निवालुकाविवर्जिते शब्दजलाश्रयादिभिः। मनोनुकूले न तु चक्षुपीडने गुहानिवाताश्रयणे प्रयोजयेत्‌॥",
+    "text": "One should perform one's exercises in concentration, resorting to caves and such other pure places helpful to its practice - places where the ground is level without pebbles, and the scenery pleasing to the eyes; where there is no wind, dust, fire, dampness and disturbing noises.",
+    "mandala": 2,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.11",
+    "sanskrit_iast": "nīhāradhūmārkānilānalānāṁ khadyotavidyutsphaṭikaśaśīnām | etāni rūpāṇi puraḥsarāṇi brahmaṇyabhivyaktikarāṇi yoge ||",
+    "meaning": "नीहारधूमार्कानिलानलानां खद्योतविद्युत्स्फटिकशशीनाम्‌। एतानि रूपाणि पुरःसराणि ब्रह्मण्यभिव्यक्तिकराणि योगे॥",
+    "text": "Forms that appear like snow, smoke, sun, wind, fire, fire-fly, lightning, crystal and moon, precede the manifestation of Brahman in Yoga practice.",
+    "mandala": 2,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.12",
+    "sanskrit_iast": "pṛthivyaptejo'nilakhe samutthite pañcātmake yogaguṇe pravṛtte | na tasya rogo na jarā na mṛtyuḥ prāptasya yogāgnimayaṁ śarīram ||",
+    "meaning": "पृथिव्यप्तेजोऽनिलखे समुत्थिते पञ्चात्मके योगगुणे प्रवृत्ते। न तस्य रोगो न जरा न मृत्युः प्राप्तस्य योगाग्निमयं शरीरम्‌॥",
+    "text": "When the fivefold perception of Yoga, arising from (concentrating the mind on) earth, water, light, air and ether, have appeared to the Yogin, then he has become possessed of a body made of the fire of Yoga, and he will not be touched by disease, old age or death.",
+    "mandala": 2,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.13",
+    "sanskrit_iast": "laghutvamārogyamalolupatvaṁ varṇaprasādaṁ svarasauṣṭhavaṁ ca | gandhaḥ śubho mūtrapurīṣamalpaṁ yogapravṛttiṁ prathamāṁ vadanti ||",
+    "meaning": "लघुत्वमारोग्यमलोलुपत्वं वर्णप्रसादं स्वरसौष्ठवं च। गन्धः शुभो मूत्रपुरीषमल्पं योगप्रवृत्तिं प्रथमां वदन्ति॥",
+    "text": "It is said that the first signs of entering Yoga are lightness of body, health, thirstlessness of mind, clearness of complexion, a beautiful voice, an agreeable odour and scantiness excretions.",
+    "mandala": 2,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.14",
+    "sanskrit_iast": "yathaiva bimbaṁ mṛdayopaliptaṁ tejomayaṁ bhrājate tatsudhāntam | tadvātmatattvaṁ prasamīkṣya dehī ekaḥ kṛtārtho bhavate vītaśokaḥ ||",
+    "meaning": "यथैव बिम्बं मृदयोपलिप्तं तेजोमयं भ्राजते तत्‌सुधान्तम्‌। तद्वात्मतत्त्वं प्रसमीक्ष्य देही एकः कृतार्थो भवते वीतशोकः॥",
+    "text": "Just as the same metal disc, which was stained by dust before, shines brilliantly when cleaned, so the embodied being, seeing the truth of Atman, realizes oneness, attains the goal and becomes sorrowless.",
+    "mandala": 2,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.15",
+    "sanskrit_iast": "yadātmatattvena tu brahmatattvaṁ dīpopameneha yuktaḥ prapaśyet | ajaṁ dhruvaṁ sarvatattvairviśuddhaṁ jñātvā devaṁ mucyate sarvapāpaiḥ ||",
+    "meaning": "यदात्मतत्त्वेन तु ब्रह्मतत्त्वं दीपोपमेनेह युक्तः प्रपश्येत्‌। अजं ध्रुवं सर्वतत्त्वैर्विशुद्धं ज्ञात्वा देवं मुच्यते सर्वपापैः॥",
+    "text": "When the Yogin realizes the truth of Brahman, through the perception of the truth of Atman in this body as a self-luminous entity, then, knowing the Divinity as unborn, eternal and free from all the modifications of Prakriti, he is freed from all sins.",
+    "mandala": 2,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.16",
+    "sanskrit_iast": "eṣa ha devaḥ pradiśo'nu sarvāḥ pūrvo ha jātaḥ sa u garbhe antaḥ | sa eva jātaḥ sa janiṣyamāṇaḥ pratyaṅjanāstiṣṭhati sarvatomukhaḥ ||",
+    "meaning": "एष ह देवः प्रदिशोऽनु सर्वाः पूर्वो ह जातः स उ गर्भे अन्तः। स एव जातः स जनिष्यमाणः प्रत्यङ्जनास्तिष्ठति सर्वतोमुखः॥",
+    "text": "This Divinity pervades all directions in their entirety. He is the first-born (Hiranyagarbha). He has entered into the womb. He alone is born, and is to be born in future. He is inside all persons as the Indwelling Self, facing all directions.",
+    "mandala": 2,
+    "hymn": 16,
+    "verse": 16,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "2.17",
+    "sanskrit_iast": "yo devo'gnau yo'psu yo viśvaṁ bhuvanamāviveśa | ya oṣadhīṣu yo vanaspatiṣu tasmai devāya namo namaḥ ||",
+    "meaning": "यो देवोऽग्नौ योऽप्सु यो विश्वं भुवनमाविवेश। य ओषधीषु यो वनस्पतिषु तस्मै देवाय नमो नमः॥",
+    "text": "Salutations to that Divinity who is in the fire, who is in the water, who is in the plants, who is in the trees, who has pervaded the whole universe.",
+    "mandala": 2,
+    "hymn": 17,
+    "verse": 17,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.1",
+    "sanskrit_iast": "ya eko jālavānīśata īśanībhiḥ sarvāṁllokānīśata īśanībhiḥ | ya evaika udbhave sambhave ca ya etadviduramṛtāste bhavanti ||",
+    "meaning": "य एको जालवानीशत ईशनीभिः सर्वांल्लोकानीशत ईशनीभिः। य एवैक उद्भवे सम्भवे च य एतद्विदुरमृतास्ते भवन्ति॥",
+    "text": "It is the self-same One who exists alone at the time of creation and dissolution of the universe, that assumes manifold powers and appears as the Divine Lord by virtue of His inscrutable power of Maya. He it is that protects all the worlds and controls all the various forces working therein. Those who realize this Being becomes immortal.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.2",
+    "sanskrit_iast": "eko hi rudro na dvitīyāya tasthurya imāṁllokānīśata īśanībhiḥ | pratyaṅjanāṁstiṣṭhati sañcukocāntakāle saṁsṛjya viśvā bhuvanāni gopāḥ ||",
+    "meaning": "एको हि रुद्रो न द्वितीयाय तस्थुर्य इमांल्लोकानीशत ईशनीभिः। प्रत्यङ्जनांस्तिष्ठति सञ्चुकोचान्तकाले संसृज्य विश्वा भुवनानि गोपाः॥",
+    "text": "He who protects and controls the worlds by His own powers, He - Rudra - is indeed one only. There is no one beside Him who can make Him the second. O men, He is present inside the hearts of all beings. After projecting and maintaining all the worlds, He finally withdraws them into Himself.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.3",
+    "sanskrit_iast": "viśvataścakṣuruta viśvatomukho viśvatobāhuruta viśvataspāt | saṁ bāhubhyāṁ dhamati saṁpatatrairdyāvābhūmī janayandeva ekaḥ ||",
+    "meaning": "विश्वतश्चक्षुरुत विश्वतोमुखो विश्वतोबाहुरुत विश्वतस्पात्‌। सं बाहुभ्यां धमति संपतत्रैर्द्यावाभूमी जनयन्देव एकः॥",
+    "text": "Though God, the creator of heaven and earth, is one only, yet Heaven is the real owner of all the eyes, faces, hands and feet in this universe. It is Heaven who inspires them all to do their respective duties in accordance with the knowledge, past actions and tendencies of the various beings (with whom they appear to be associated).",
+    "mandala": 3,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.4",
+    "sanskrit_iast": "yo devānāṁ prabhavaścodbhavaśca viśvādhipo rudro maharṣiḥ | hiraṇyagarbhaṁ janayāmāsa pūrvaṁ sa no buddhyā śubhayā saṁyunaktu ||",
+    "meaning": "यो देवानां प्रभवश्चोद्भवश्च विश्वाधिपो रुद्रो महर्षिः। हिरण्यगर्भं जनयामास पूर्वं स नो बुद्ध्या शुभया संयुनक्तु॥",
+    "text": "May Heaven, who created the gods and supports them; who is the origin also of the cosmic soul; who confers bliss and wisdom on the devotes, destroying their sins and sorrows, and punishing all breaches of law - may Heaven, the great seer and the lord of all, endow us with good thoughts.",
+    "mandala": 3,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.5",
+    "sanskrit_iast": "yā te rudra śivā tanūraghorā'pāpakāśinī | tayā nastanuvā śaṁtamayā giriśantābhicākaśīhi ||",
+    "meaning": "या ते रुद्र शिवा तनूरघोराऽपापकाशिनी। तया नस्तनुवा शंतमया गिरिशन्ताभिचाकशीहि॥",
+    "text": "O Lord, who blesses all creatures by revealing the Vedas, deign to make us happy by Thy calm and blissful self, which roots out terror as well as sin.",
+    "mandala": 3,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.6",
+    "sanskrit_iast": "yābhiṣuṁ giriśaṁta haste bibharṣyastave | śivāṁ giritra tāṁ kuru mā hiṁsīḥ puruṣaṁ jagat ||",
+    "meaning": "याभिषुं गिरिशंत हस्ते बिभर्ष्यस्तवे। शिवां गिरित्र तां कुरु मा हिंसीः पुरुषं जगत्‌॥",
+    "text": "O revealer of the Vedic truths, deign to make propitious that arrow which Thou holdest in Thy hand for shooting at somebody. O protector of devotees, do not destroy that benign personal form of Thine which has manifested as the universe.",
+    "mandala": 3,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.7",
+    "sanskrit_iast": "tataḥ paraṁ brahmaparaṁ bṛhantaṁ yathānikāyaṁ sarvabhūteṣu gūḍham | viśvasyaikaṁ pariveṣṭitāramīśaṁ taṁ jñātvā'mṛtā bhavanti ||",
+    "meaning": "ततः परं ब्रह्मपरं बृहन्तं यथानिकायं सर्वभूतेषु गूढम्‌। विश्वस्यैकं परिवेष्टितारमीशं तं ज्ञात्वाऽमृता भवन्ति॥",
+    "text": "Higher than this Personal Brahman is the infinite Supreme Brahman, who is concealed in all beings according to their bodies, and who, though remaining single, envelops the whole universe. Knowing him to be the Lord, one becomes immortal.",
+    "mandala": 3,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.8",
+    "sanskrit_iast": "vedāhametaṁ puruṣaṁ mahāntamādityavarṇaṁ tamasaḥ parastāt | tameva viditvātimṛtyumeti nānyaḥ panthā vidyate'yanāya ||",
+    "meaning": "वेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसः परस्तात्‌। तमेव विदित्वातिमृत्युमेति नान्यः पन्था विद्यतेऽयनाय॥",
+    "text": "I have realized this Great Being who shines effulgent like the sun beyond all darkness. One passes beyond death only on realizing Him. There is no other way of escape from the circle of births and deaths.",
+    "mandala": 3,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.9",
+    "sanskrit_iast": "yasmātparaṁ nāparamasti kiṁcidyasmānnaṇīyo na jyāyo'sti kaścit | vṛkṣa iva stabdho divi tiṣṭhatyekastenedaṁ pūrṇaṁ puruṣeṇa sarvam ||",
+    "meaning": "यस्मात्परं नापरमस्ति किंचिद्यस्मान्नणीयो न ज्यायोऽस्ति कश्चित्‌। वृक्ष इव स्तब्धो दिवि तिष्ठत्येकस्तेनेदं पूर्णं पुरुषेण सर्वम्‌॥",
+    "text": "There is naught higher than or different from Him; naught greater or more minute than Him. Rooted in His own glory He stands like a tree, one without a second and immovable. By that Being the whole universe is filled.",
+    "mandala": 3,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.10",
+    "sanskrit_iast": "tato yaduttaratataṁ tadarūpamanāmayam | ya etadviduramṛtāste bhavantyathetare duḥkhamevāpiyanti ||",
+    "meaning": "ततो यदुत्तरततं तदरूपमनामयम्‌। य एतद्विदुरमृतास्ते भवन्त्यथेतरे दुःखमेवापियन्ति॥",
+    "text": "That Being is far beyond this world, is formless and free from misery. They who know this become immortal. But all others have indeed to suffer misery alone.",
+    "mandala": 3,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.11",
+    "sanskrit_iast": "sarvānanaśirogrīvaḥ sarvabhūtaguhāśayaḥ | sarvavyāpī sa bhagavāṁstasmātsarvagataḥ śivaḥ ||",
+    "meaning": "सर्वाननशिरोग्रीवः सर्वभूतगुहाशयः। सर्वव्यापी स भगवांस्तस्मात्सर्वगतः शिवः॥",
+    "text": "Therefore, that Divine Lord, being all-pervading, omnipresent and benevolent, dwells in the hearts of all beings, and makes use of all faces, heads and necks in this world.",
+    "mandala": 3,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.12",
+    "sanskrit_iast": "mahānprabhurvai puruṣaḥ satvasyaiṣa pravartakaḥ | sunirmalāmimāṁ prāptimīśāno jyotiravyayaḥ ||",
+    "meaning": "महान्प्रभुर्वै पुरुषः सत्वस्यैष प्रवर्तकः। सुनिर्मलामिमां प्राप्तिमीशानो ज्योतिरव्ययः॥",
+    "text": "This Self is indeed the mighty Lord. He is the imperishable (internal) light that controls everything. He guides the intellect of all beings so as to enable them to gain that extremely pure state (of Mukti).",
+    "mandala": 3,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.13",
+    "sanskrit_iast": "aṅguṣṭhamātraḥ puruṣo'ntarātmā sadā janānāṁ hṛdaye sanniviṣṭaḥ | hṛdā manvīśo manasābhiklṛpto ya etadviduramṛtāste bhavanti ||",
+    "meaning": "अङ्गुष्ठमात्रः पुरुषोऽन्तरात्मा सदा जनानां हृदये सन्निविष्टः। हृदा मन्वीशो मनसाभिक्लृप्तो य एतद्विदुरमृतास्ते भवन्ति॥",
+    "text": "Assuming a form of the size of a thumb, by virtue of intellect, emotion, imagination and will, the Infinite Being dwells in the hearts of creatures as their inner self. Those who realize this become immortal.",
+    "mandala": 3,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.14",
+    "sanskrit_iast": "sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt | sa bhūmiṁ viśvato vṛtvā'tyatiṣṭhaddaśāṅgulam ||",
+    "meaning": "सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्‌। स भूमिं विश्वतो वृत्वाऽत्यतिष्ठद्दशाङ्गुलम्‌॥",
+    "text": "That Infinite Being has a thousand heads, a thousand eyes and a thousand feet enveloping the whole universe on all sides. He exists beyond ten fingers.",
+    "mandala": 3,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.15",
+    "sanskrit_iast": "puruṣa eveda sarvaṁ yadbhūtaṁ yacca bhavyam | utāmṛtatvasyeśāno yadannenātirohati",
+    "meaning": "पुरुष एवेद सर्वं यद्भूतं यच्च भव्यम्‌। उतामृतत्वस्येशानो यदन्नेनातिरोहति॥",
+    "text": "That which is, that which was, and that which is yet to be - all this is nothing but this Infinite Being. Though He grows beyond His own nature into the form of the objective universe, He still remains the lord of immortality.",
+    "mandala": 3,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.16",
+    "sanskrit_iast": "sarvataḥpāṇipādaṁ tat sarvato'kṣiśiromukham | sarvataḥśrutimalloke sarvamāvṛtya tiṣṭhati ||",
+    "meaning": "सर्वतःपाणिपादं तत्‌ सर्वतोऽक्षिशिरोमुखम्‌। सर्वतःश्रुतिमल्लोके सर्वमावृत्य तिष्ठति॥",
+    "text": "With hands and feet everywhere, with eyes, heads and mouths everywhere, with ears everywhere, That exists, pervading everything in the universe.",
+    "mandala": 3,
+    "hymn": 16,
+    "verse": 16,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.17",
+    "sanskrit_iast": "sarvendriyaguṇābhāsaṁ sarvendriyavivarjitam | sarvasya prabhumīśānaṁ sarvasya śaraṇaṁ vṛhat ||",
+    "meaning": "सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम्‌। सर्वस्य प्रभुमीशानं सर्वस्य शरणं वृहत्॥",
+    "text": "They realize Him as shining by the functions of all the senses yet without the senses as the lord of all, the ruler of all, the refuge of all and the friend of all.",
+    "mandala": 3,
+    "hymn": 17,
+    "verse": 17,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.18",
+    "sanskrit_iast": "navadvāre pure dehī haṁso lelāyate bahiḥ | vaśī sarvasya lokasya sthāvarasya carasya ca ||",
+    "meaning": "नवद्वारे पुरे देही हंसो लेलायते बहिः। वशी सर्वस्य लोकस्य स्थावरस्य चरस्य च॥",
+    "text": "It is He who resides in the body, the city of nine gates. He is the soul that sports in the outside world. He is the master of the whole world, animate and inanimate.",
+    "mandala": 3,
+    "hymn": 18,
+    "verse": 18,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.19",
+    "sanskrit_iast": "apāṇipādo javano grahītā paśyatyacakṣuḥ sa śṛṇotyakarṇaḥ | sa vetti vedyaṁ na ca tasyāsti vettā tamāhuragryaṁ puruṣaṁ mahāntam ||",
+    "meaning": "अपाणिपादो जवनो ग्रहीता पश्यत्यचक्षुः स शृणोत्यकर्णः। स वेत्ति वेद्यं न च तस्यास्ति वेत्ता तमाहुरग्र्यं पुरुषं महान्तम्‌॥",
+    "text": "Without hands and feet He goes fast and grasps; without eyes He sees; without ears He hears. He knows whatever is to be known, yet there is none who knows Him. They say He is the foremost, the great Infinite Being.",
+    "mandala": 3,
+    "hymn": 19,
+    "verse": 19,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.20",
+    "sanskrit_iast": "aṇoraṇīyānmahato mahīyānātmā guhāyāṁ nihito'sya jantoḥ | tamakratuḥ paśyati vītaśoko dhātuḥ prasādānmahimānamīśam ||",
+    "meaning": "अणोरणीयान्महतो महीयानात्मा गुहायां निहितोऽस्य जन्तोः। तमक्रतुः पश्यति वीतशोको धातुः प्रसादान्महिमानमीशम्‌॥",
+    "text": "Subtler than even the subtlest and greater than the greatest, the Atman is concealed in the heart of the creature. By the grace of the Creator, one becomes free from sorrows and desires, and then realizes Him as the great Lord.",
+    "mandala": 3,
+    "hymn": 20,
+    "verse": 20,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "3.21",
+    "sanskrit_iast": "vedāhametamajaraṁ purāṇaṁ sarvātmānaṁ sarvagataṁ vibhutvāt | janmanirodhaṁ pravadanti yasya brahmavādino hi pravadanti nityam ||",
+    "meaning": "वेदाहमेतमजरं पुराणं सर्वात्मानं सर्वगतं विभुत्वात्‌। जन्मनिरोधं प्रवदन्ति यस्य ब्रह्मवादिनो हि प्रवदन्ति नित्यम्‌॥",
+    "text": "I know this undecaying primeval Immanent Self of all, who is omnipresent because of His all-pervasiveness, and whom the expounders of Brahman declare to be eternally free from birth.",
+    "mandala": 3,
+    "hymn": 21,
+    "verse": 21,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.1",
+    "sanskrit_iast": "ya eko'varṇo bahudhā śaktiyogādvarṇānanekānnihitārtho dadhāti | vi caiti cānte viśvamādau sa devaḥ sa no buddhyā śubhayā saṁyunaktu ||",
+    "meaning": "य एकोऽवर्णो बहुधा शक्तियोगाद्वर्णाननेकान्निहितार्थो दधाति। वि चैति चान्ते विश्वमादौ स देवः स नो बुद्ध्या शुभया संयुनक्तु॥",
+    "text": "He who is one and without hue, but has ordained manifoldly many hues by the Yoga of his Force and holds within himself all objects, and in Him the universe dissolves in the end, that Godhead was in the beginning. May He yoke us with a good and bright understanding.",
+    "mandala": 4,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.2",
+    "sanskrit_iast": "tadevāgnistadādityastadvāyustadu candramāḥ | tadeva śukraṁ tadbrahma tadāpastatprajāpatiḥ ||",
+    "meaning": "तदेवाग्निस्तदादित्यस्तद्वायुस्तदु चन्द्रमाः। तदेव शुक्रं तद्ब्रह्म तदापस्तत्प्रजापतिः॥",
+    "text": "That alone is the fire and That the sun and That the wind and That too the moon; That is the Luminous, That the Brahman, That the waters, That the Father and Lord of creatures.",
+    "mandala": 4,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.3",
+    "sanskrit_iast": "tvaṁ strī tvaṁ pumānasi tvaṁ kumāra uta vā kumārī | tvaṁ jīrṇo daṇḍena vañcasi tvaṁ jāto bhavasi viśvatomukhaḥ ||",
+    "meaning": "त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी। त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः॥",
+    "text": "Thou art the woman and Thou the man; Thou art a boy and again a young virgin; Thou art yonder worn and aged man that walkest bent with thy staff. Lo, Thou becomest born and the world is full of thy faces.",
+    "mandala": 4,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.4",
+    "sanskrit_iast": "nīlaḥ pataṅgo harito lohitākṣastaḍidgarbha ṛtavaḥ samudrāḥ | anādimattvaṁ vibhutvena vartase yato jātāni bhuvanāni viśvā ||",
+    "meaning": "नीलः पतङ्गो हरितो लोहिताक्षस्तडिद्गर्भ ऋतवः समुद्राः। अनादिमत्त्वं विभुत्वेन वर्तसे यतो जातानि भुवनानि विश्वा॥",
+    "text": "Thou art the blue bird and the green and the scarlet -eyed, the womb of lightning and the seasons and the oceans. Thou art that which is without beginning and thou movest with thy pervasive extension whence all the worlds are born.",
+    "mandala": 4,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.5",
+    "sanskrit_iast": "ajāmekāṁ lohitaśuklakṛṣṇāṁ bahvīḥ prajāḥ sṛjamānāṁ sarūpāḥ | ajo hyeko juṣamāṇo'nuśete jahātyenāṁ bhuktabhogāmajo'nyaḥ ||",
+    "meaning": "अजामेकां लोहितशुक्लकृष्णां बह्वीः प्रजाः सृजमानां सरूपाः। अजो ह्येको जुषमाणोऽनुशेते जहात्येनां भुक्तभोगामजोऽन्यः॥",
+    "text": "There is One, unborn, white and black and red, who is ever bringing forth many creatures with forms and her one unborn loves and cleaves to and lies with her; another unborn abandons, when all her enjoyments have been enjoyed.",
+    "mandala": 4,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.6",
+    "sanskrit_iast": "dvā suparṇā sayujā sakhāyā samānaṁ vṛkṣaṁ pariṣasvajāte | tayoranyaḥ pippalaṁ svādvattyanaśnannanyo abhicākaśīti ||",
+    "meaning": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते। तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति॥",
+    "text": "Two winged birds cling about a common tree, comrades, yoke -fellows; and one eats the sweet fruit of the tree, the other eats not, but watches.",
+    "mandala": 4,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.7",
+    "sanskrit_iast": "samāne vṛkṣe puruṣo nimagno'nīśayā śocati muhyamānaḥ | juṣṭaṁ yadā paśyatyanyamīśamasya mahimānamiti vītaśokaḥ ||",
+    "meaning": "समाने वृक्षे पुरुषो निमग्नोऽनीशया शोचति मुह्यमानः। जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः॥",
+    "text": "The Soul upon a common tree is absorbed and because he is not lord, grieves and is bewildered; but when he sees and cleaves to that other who is the Lord, he knows that all is His greatness and his sorrow passes away from him.",
+    "mandala": 4,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.8",
+    "sanskrit_iast": "ṛco akṣare parame vyomanyasmindevā adhi viśve niṣeduḥ | yastaṁ na veda kimṛcā kariṣyati ya ittadvidusta ime samāsate ||",
+    "meaning": "ऋचो अक्षरे परमे व्योमन्यस्मिन्देवा अधि विश्वे निषेदुः। यस्तं न वेद किमृचा करिष्यति य इत्तद्विदुस्त इमे समासते॥",
+    "text": "In the highest immutable Heaven where all the gods have taken up their session, there are the verses of the Rigveda, and he who knows Him not, what shall he do with the Rik? They who know That, lo, it is they who thus are seated.",
+    "mandala": 4,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.9",
+    "sanskrit_iast": "chandāṁsi yajñāḥ kratavo vratāni bhūtaṁ bhavyaṁ yacca vedā vadanti | asmānmāyī sṛjate viśvametattasmiṁścānyo māyayā sanniruddhaḥ ||",
+    "meaning": "छन्दांसि यज्ञाः क्रतवो व्रतानि भूतं भव्यं यच्च वेदा वदन्ति। अस्मान्मायी सृजते विश्वमेतत्तस्मिंश्चान्यो मायया सन्निरुद्धः॥",
+    "text": "Rhythms and sacrifices and ritual and vows, what has been and what is to be and what the Vedas declare,-the Master of Maya brings forth from that all this that is and there is another whom within it his Maya holds imprisoned.",
+    "mandala": 4,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.10",
+    "sanskrit_iast": "māyāṁ tu prakṛtiṁ vidyānmāyinaṁ ca maheśvaram | tasyāvayavabhūtaistu vyāptaṁ sarvamidaṁ jagat ||",
+    "meaning": "मायां तु प्रकृतिं विद्यान्मायिनं च महेश्वरम्‌। तस्यावयवभूतैस्तु व्याप्तं सर्वमिदं जगत्‌॥",
+    "text": "Thou shalt know Maya to be Force of Nature and theMaster of Maya to be the great Lord; this whole universe is occupied by His becomings that are His members.",
+    "mandala": 4,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.11",
+    "sanskrit_iast": "yo yoniṁ yonimadhitiṣṭhatyeko yasminnidaṁ saṁ ca vi caiti sarvam | tamīśānaṁ varadaṁ devamīḍyaṁ nicāyyemāṁ śāntimatyantameti ||",
+    "meaning": "यो योनिं योनिमधितिष्ठत्येको यस्मिन्निदं सं च वि चैति सर्वम्‌। तमीशानं वरदं देवमीड्यं निचाय्येमां शान्तिमत्यन्तमेति॥",
+    "text": "He who being One enters every womb and in whom all this comes together and goes apart, the adorable Godhead who rules as lord and gives us our desirable boons, one having seen comes exceedingly unto this peace.",
+    "mandala": 4,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.12",
+    "sanskrit_iast": "yo devānāṁ prabhavaścodbhavaśca viśvādhipo rudro maharṣiḥ | hiraṇyagarbhaṁ paśyata jāyamānaṁ sa no buddhyā śubhayā saṁyunaktu ||",
+    "meaning": "यो देवानां प्रभवश्चोद्भवश्च विश्वाधिपो रुद्रो महर्षिः। हिरण्यगर्भं पश्यत जायमानं स नो बुद्ध्या शुभया संयुनक्तु॥",
+    "text": "He who is the coming to birth of the gods and the arising of their being, the master of the universe, the Violent One, the Great Seer and beheld Hiranyagarbha born,-may he yoke us with a bright and good understanding.",
+    "mandala": 4,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.13",
+    "sanskrit_iast": "yo devānāmadhipo yasmillokā adhiśritāḥ | ya īśe asya dvipadaścatuṣpadaḥ kasmai devāya haviṣā vidhema ||",
+    "meaning": "यो देवानामधिपो यस्मिँल्लोका अधिश्रिताः। य ईशे अस्य द्विपदश्चतुष्पदः कस्मै देवाय हविषा विधेम॥",
+    "text": "He who is the master of the gods, in whom the worlds are lodged and who rules over this two -footed and four -footed, to what god should we offer the worship of our oblation?",
+    "mandala": 4,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.14",
+    "sanskrit_iast": "sūkṣmātisūkṣmaṁ kalilasya madhye viśvasya sraṣṭhāramanekarūpam | viśvasyaikaṁ pariveṣṭitāraṁ jñātvā śivaṁ śāntimatyantameti ||",
+    "meaning": "सूक्ष्मातिसूक्ष्मं कलिलस्य मध्ये विश्वस्य स्रष्ठारमनेकरूपम्‌। विश्वस्यैकं परिवेष्टितारं ज्ञात्वा शिवं शान्तिमत्यन्तमेति॥",
+    "text": "Subtle beyond the subtle in the midst of the hurtling chaos, the creator of the universe who has many forms and being one encompasses all, knowing as the Benign, one comes exceedingly to the peace.",
+    "mandala": 4,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.15",
+    "sanskrit_iast": "sa eva kāle bhuvanasya goptā viśvādhipaḥ sarvabhūteṣu gūḍhaḥ | yasminyuktā brahmarṣayo devatāśca tamevaṁ jñātvā mṛtyupāśāṁśchinatti ||",
+    "meaning": "स एव काले भुवनस्य गोप्ता विश्वाधिपः सर्वभूतेषु गूढः। यस्मिन्युक्ता ब्रह्मर्षयो देवताश्च तमेवं ज्ञात्वा मृत्युपाशांश्छिनत्ति॥",
+    "text": "He in Time is the guardian of the world of existence and the master of the universe secret in all existences,-in whom have union of Yoga the holy sages and the gods; thus knowing him one cuts asunder the snares of Death.",
+    "mandala": 4,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.16",
+    "sanskrit_iast": "ghṛtātparaṁ maṇḍamivātisūkṣmaṁ jñātvā śivaṁ sarvabhūteṣu gūḍham | viśvasyaikaṁ pariveṣṭitāraṁ jñātvā devaṁ mucyate sarvapāśaiḥ ||",
+    "meaning": "घृतात्परं मण्डमिवातिसूक्ष्मं ज्ञात्वा शिवं सर्वभूतेषु गूढम्‌। विश्वस्यैकं परिवेष्टितारं ज्ञात्वा देवं मुच्यते सर्वपाशैः॥",
+    "text": "Knowing him who is exceedingly subtle like the cream above the clarified butter, the Benign secret in all existences, knowing the God who being one encompasses all, one is released from every bondage.",
+    "mandala": 4,
+    "hymn": 16,
+    "verse": 16,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.17",
+    "sanskrit_iast": "eṣa devo viśvakarmā mahātmā sadā janānāṁ hṛdaye sanniviṣṭaḥ | hṛdā manīṣā manasābhiklṛpto ya etadviduramṛtāste bhavanti ||",
+    "meaning": "एष देवो विश्वकर्मा महात्मा सदा जनानां हृदये सन्निविष्टः। हृदा मनीषा मनसाभिक्लृप्तो य एतद्विदुरमृतास्ते भवन्ति॥",
+    "text": "This is the God, the mighty Soul, the Architect of all, seated for ever in the hearts of creatures and he is realised by the heart and the intellect and the mind; who know this, they become immortal.",
+    "mandala": 4,
+    "hymn": 17,
+    "verse": 17,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.18",
+    "sanskrit_iast": "yadā'tamastānna divā na rātrirna sanna cāsacchiva eva kevalaḥ | tadakṣaraṁ tatsaviturvareṇyaṁ prajñā ca tasmātprasṛtā purāṇī ||",
+    "meaning": "यदाऽतमस्तान्न दिवा न रात्रिर्न सन्न चासच्छिव एव केवलः। तदक्षरं तत्सवितुर्वरेण्यं प्रज्ञा च तस्मात्प्रसृता पुराणी॥",
+    "text": "When there is no darkness, that is neither day nor night, nor being nor non -being, it is the absolute Benign alone; That is the immutable, that the supreme light of the Creating Sun and from it the Wisdom went forth that is of old.",
+    "mandala": 4,
+    "hymn": 18,
+    "verse": 18,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.19",
+    "sanskrit_iast": "nainamūrdhvaṁ na tiryañcaṁ na madhye na parijagrabhat | na tasya pratimā asti yasya nāma mahadyaśaḥ ||",
+    "meaning": "नैनमूर्ध्वं न तिर्यञ्चं न मध्ये न परिजग्रभत्‌। न तस्य प्रतिमा अस्ति यस्य नाम महद्यशः॥",
+    "text": "Him one shall not seize as on high nor as one on a level plane nor in the middle; there is no image for him whose name is a mighty glory.",
+    "mandala": 4,
+    "hymn": 19,
+    "verse": 19,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.20",
+    "sanskrit_iast": "na saṁdṛśe tiṣṭhati rūpamasya na cakṣuṣā paśyati kaścanainam | hṛdā hṛdisthaṁ manasā ya ena-mevaṁ viduramṛtāste bhavanti ||",
+    "meaning": "न संदृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम्‌। हृदा हृदिस्थं मनसा य एन-मेवं विदुरमृतास्ते भवन्ति॥",
+    "text": "The form of Him stands not within the vision and none beholdeth Him by the eye; but by the heart and the mind, for in the heart is His station; who thus know Him, they become immortal.",
+    "mandala": 4,
+    "hymn": 20,
+    "verse": 20,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.21",
+    "sanskrit_iast": "ajāta ityevaṁ kaścidbhīruḥ prapadyate | rudra yatte dakṣiṇaṁ mukhaṁ tena māṁ pāhi nityam ||",
+    "meaning": "अजात इत्येवं कश्चिद्भीरुः प्रपद्यते। रुद्र यत्ते दक्षिणं मुखं तेन मां पाहि नित्यम्‌॥",
+    "text": "One here and there approaches him with awe thinking of him as the Unborn. O Violent One, that which is thy auspicious right -hand face, with that protect me ever.",
+    "mandala": 4,
+    "hymn": 21,
+    "verse": 21,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "4.22",
+    "sanskrit_iast": "mā nastoke tanaye mā na āyuṣi mā no goṣu mā na aśveṣu rīriṣaḥ | vīrān mā no rudra bhāmito vadhīrhaviṣmantaḥ sadāmit tvā havāmahe ||",
+    "meaning": "मा नस्तोके तनये मा न आयुषि मा नो गोषु मा न अश्वेषु रीरिषः। वीरान्‌ मा नो रुद्र भामितो वधीर्हविष्मन्तः सदामित्‌ त्वा हवामहे॥",
+    "text": "Do no hurt to our son nor our grandson nor our life nor our cattle nor our horses. O Violent One, slay not in thy anger our heroes; ever to Thee with the oblation we call.",
+    "mandala": 4,
+    "hymn": 22,
+    "verse": 22,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.1",
+    "sanskrit_iast": "dve akṣare brahmapare tvanante vidyāvidye nihite yatra gūḍhe | kṣaraṁ tvavidyā hyamṛtaṁ tu vidyā vidyāvidye īśate yastu so'nyaḥ ||",
+    "meaning": "द्वे अक्षरे ब्रह्मपरे त्वनन्ते विद्याविद्ये निहिते यत्र गूढे। क्षरं त्वविद्या ह्यमृतं तु विद्या विद्याविद्ये ईशते यस्तु सोऽन्यः॥",
+    "text": "Both of these in the Transcendent, the Knowledge & the Ignorance, yea both have their hidden being in the Eternal& Infinite Who dwelleth beyond Brahman of the Veda, & are set in it for ever. But of these Ignorance dieth and Knowledge liveth for ever; and He who is master of both is other than they.",
+    "mandala": 5,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.2",
+    "sanskrit_iast": "yo yoniṁ yonimadhitiṣṭhatyeko viśvāni rūpāṇi yonīśca sarvāḥ | ṛṣiṁ prasūtaṁ kapilaṁ yastamagre jñānairbibharti jāyamānaṁ ca paśyet ||",
+    "meaning": "यो योनिं योनिमधितिष्ठत्येको विश्वानि रूपाणि योनीश्च सर्वाः। ऋषिं प्रसूतं कपिलं यस्तमग्रे ज्ञानैर्बिभर्ति जायमानं च पश्येत्‌॥",
+    "text": "He being One entereth upon womb & womb, yea upon all forms of being and upon all wombs of creatures. This was He that of old filled with many sorts of Knowledge Kapila, the seer, after his mother bore him; yea He saw Kapila shaping.",
+    "mandala": 5,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.3",
+    "sanskrit_iast": "ekaika jālaṁ bahudhā vikurvannasminkṣetre saṁharatyeṣa devaḥ | bhūyaḥ sṛṣṭvā patayastatheśaḥ sarvādhipatyaṁ kurute mahātmā ||",
+    "meaning": "एकैक जालं बहुधा विकुर्वन्नस्मिन्क्षेत्रे संहरत्येष देवः। भूयः सृष्ट्वा पतयस्तथेशः सर्वाधिपत्यं कुरुते महात्मा॥",
+    "text": "God weaveth Him one net or He weaveth Him another and He maketh it of manifold meshes & casteth it abroad in this field of the body; then He draweth it in again. Also He created Yatis, great Seekers, & thus the Mighty Mind wieldeth the sceptre of His universal Lordship.",
+    "mandala": 5,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.4",
+    "sanskrit_iast": "sarvā diśa ūrdhvamadhaśca tiryakprakāśayanbhrājate yadvanaḍvān | evaṁ sa devo bhagavānvareṇyo yonisvabhāvānadhitiṣṭhatyekaḥ ||",
+    "meaning": "सर्वा दिश ऊर्ध्वमधश्च तिर्यक्‌प्रकाशयन्भ्राजते यद्वनड्वान्‌। एवं स देवो भगवान्वरेण्यो योनिस्वभावानधितिष्ठत्येकः॥",
+    "text": "The Sun riseth & driveth the world's wain, then he blazethillumining all the regions and above and below and the level grow one lustre, even so this glorious & shining God, being One, entereth upon & ruleth nature that clingeth to the womb, to each womb its nature.",
+    "mandala": 5,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.5",
+    "sanskrit_iast": "yacca svabhāvaṁ pacati viśvayoniḥ pācyāṁśca sarvānpariṇāmayedyaḥ | sarvametadviśvamadhitiṣṭhatyeko guṇāṁśca sarvānviniyojayed yaḥ ||",
+    "meaning": "यच्च स्वभावं पचति विश्वयोनिः पाच्यांश्च सर्वान्परिणामयेद्यः। सर्वमेतद्विश्वमधितिष्ठत्येको गुणांश्च सर्वान्विनियोजयेद्‌ यः॥",
+    "text": "For He who is theWomb of theWorld bringeth each nature to its perfection and He matureth all those that are yet to be perfected. He indwelleth&presideth over all this His world and setteth all the modes of Nature to their workings.",
+    "mandala": 5,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.6",
+    "sanskrit_iast": "tadvedaguhyopaniṣatsu gūḍhaṁ tadbrahmā vedate brahmayonim | ye pūrvaṁdevā ṛṣayaśca tadviduste tanmayā amṛtā vai babhūvuḥ ||",
+    "meaning": "तद्वेदगुह्योपनिषत्सु गूढं तद्ब्रह्मा वेदते ब्रह्मयोनिम्‌। ये पूर्वंदेवा ऋषयश्च तद्विदुस्ते तन्मया अमृता वै बभूवुः॥",
+    "text": "This is that secret mystery which is hidden in Upanishads; for the Upanishad is the secret of the Veda. This is that which Brahma knoweth for the Womb of the Eternal and the older Gods and the sages who knew of This, became This & were immortal.",
+    "mandala": 5,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.7",
+    "sanskrit_iast": "guṇānvayo yaḥ phalakarmakartā kṛtasya tasyaiva sa copabhoktā | sa viśvarūpastriguṇastrivartmā prāṇādhipaḥ saṁcarati svakarmabhiḥ ||",
+    "meaning": "गुणान्वयो यः फलकर्मकर्ता कृतस्य तस्यैव स चोपभोक्ता। स विश्वरूपस्त्रिगुणस्त्रिवर्त्मा प्राणाधिपः संचरति स्वकर्मभिः॥",
+    "text": "There isOne whomaketh works and their fruits to them, for the moods of Nature cleave to Him; this is He that enjoyeth the works He hath done; and the World is His body and He hath three modes of His natures & the roads of His travel are likewise three. Lo, the Master of Life, by the momentum of His own works He moveth in the centuries.",
+    "mandala": 5,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.8",
+    "sanskrit_iast": "aṅguṣṭhamātro ravitulyarūpaḥ saṅkalpāhaṅkārasamanvito yaḥ | buddherguṇenātmaguṇena caiva ārāgramātro hyaparo'pi dṛṣṭaḥ ||",
+    "meaning": "अङ्गुष्ठमात्रो रवितुल्यरूपः सङ्कल्पाहङ्कारसमन्वितो यः। बुद्धेर्गुणेनात्मगुणेन चैव आराग्रमात्रो ह्यपरोऽपि दृष्टः॥",
+    "text": "His size is as the size of a man's thumb but His aspect as the Sun in its glory; and He hath Volition and He hath Personality; but there is another whom we see by virtue of the Understanding & by virtue of the Spirit for the point of a cobbler's awl is not finer to vision.",
+    "mandala": 5,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.9",
+    "sanskrit_iast": "bālāgraśatabhāgasya śatadhā kalpitasya ca | bhāgo jīvaḥ sa vijñeyaḥ sa cānantyāya kalpate ||",
+    "meaning": "बालाग्रशतभागस्य शतधा कल्पितस्य च। भागो जीवः स विज्ञेयः स चानन्त्याय कल्पते॥",
+    "text": "Take thou the hundredth part of the point of a hair, divide it into a hundred parts again; then as is a part of this hundredth part of a hundredth, such shalt thou find this Spirit in man, if thou seek to separate Him; yet 'tis this in thee that availeth towards Infinity.",
+    "mandala": 5,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.10",
+    "sanskrit_iast": "naiva strī na pumāneṣa na caivāyaṁ napuṁsakaḥ | yadyaccharīramādatte tene tene sa yujyate ||",
+    "meaning": "नैव स्त्री न पुमानेष न चैवायं नपुंसकः। यद्यच्छरीरमादत्ते तेने तेने स युज्यते॥",
+    "text": "Not woman is He, nor man either, nor yet sexless; but whatsoever body He take, that confineth&preservethHim.",
+    "mandala": 5,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.11",
+    "sanskrit_iast": "saṅkalpanasparśanadṛṣṭimohairgrāsāṁbuvṛṣṭyā catmavivṛddhijanma | karmānugānyanukrameṇa dehī sthāneṣu rūpāṇyabhisamprapadyate ||",
+    "meaning": "सङ्कल्पनस्पर्शनदृष्टिमोहैर्ग्रासांबुवृष्ट्या चत्मविवृद्धिजन्म। कर्मानुगान्यनुक्रमेण देही स्थानेषु रूपाण्यभिसम्प्रपद्यते॥",
+    "text": "As body is born and groweth by food and drink and plenty, so also the Spirit in body progressively attaineth to successive forms in their fit places-by the allurements of sight, by the witcheries of touch, by the magic of volition, for according to his works he progresseth and his forms shape themselves to his works.",
+    "mandala": 5,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.12",
+    "sanskrit_iast": "sthūlāni sūkṣmāṇi bahūni caiva rūpāṇi dehī svaguṇairvṛṇoti | kriyāguṇairātmaguṇaiśca teṣāṁ saṁyogaheturaparo'pi dṛṣṭaḥ ||",
+    "meaning": "स्थूलानि सूक्ष्माणि बहूनि चैव रूपाणि देही स्वगुणैर्वृणोति। क्रियागुणैरात्मगुणैश्च तेषां संयोगहेतुरपरोऽपि दृष्टः॥",
+    "text": "Forms gross and forms subtle, forms many,-the Spirit in body evolveth them all by his own nature in its working; by the law of action of his works & the law of action of the Spirit in man, by these he evolveth them. But there is Another in Whom we behold Cause whereby all these meet together.",
+    "mandala": 5,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.13",
+    "sanskrit_iast": "anādyanantaṁ kalilasya madhye viśvasya sraṣṭhāramanekarūpam | viśvasyaikaṁ pariveṣṭitāraṁ jñātvā devaṁ mucyate sarvapāśaiḥ ||",
+    "meaning": "अनाद्यनन्तं कलिलस्य मध्ये विश्वस्य स्रष्ठारमनेकरूपम्‌। विश्वस्यैकं परिवेष्टितारं ज्ञात्वा देवं मुच्यते सर्वपाशैः॥",
+    "text": "Without beginning, without end in the welter and the chaos, who createth the world by taking many figures & as the One girdeth & encompasseth it. He is the Lord & if thou know Him thou shalt break free from all kinds of bondage.",
+    "mandala": 5,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "5.14",
+    "sanskrit_iast": "bhāvagrāhyamanīḍākhyaṁ bhāvābhāvakaraṁ śivam | kalāsargakaraṁ devaṁ ye viduste jahustanum ||",
+    "meaning": "भावग्राह्यमनीडाख्यं भावाभावकरं शिवम्‌। कलासर्गकरं देवं ये विदुस्ते जहुस्तनुम्‌॥",
+    "text": "Shiva the Master of all becomings and not -becomings and from Him this whole creation floweth and it is only one part of Shiva; but He is not named after any nest of the wing`ed Spirit, and the heart alone can apprehend Him. They who know Shiva, the Blessed One, abandon body for ever.",
+    "mandala": 5,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.1",
+    "sanskrit_iast": "svabhāvameke kavayo vadanti kālaṁ tathānye parimuhyamānāḥ | devasyaiṣa mahimā tu loke yenedaṁ bhrāmyate brahmacakram ||",
+    "meaning": "स्वभावमेके कवयो वदन्ति कालं तथान्ये परिमुह्यमानाः। देवस्यैष महिमा तु लोके येनेदं भ्राम्यते ब्रह्मचक्रम्‌॥",
+    "text": "'Tis Nature and Self -existence, say one school of the Seers. Nay, 'tis Time, say another; both are deceived and bewildered. 'Tis the Majesty of the Lord in the world of His creatures whereby the Wheel of the Eternal whirleth about continually.",
+    "mandala": 6,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.2",
+    "sanskrit_iast": "yenāvṛtaṁ nityamidaṁ hi sarvaṁ jñaḥ kālakāro guṇī sarvavidyaḥ | teneśitaṁ karma vivartate ha pṛthivyaptejoṁilakhāni cintyam ||",
+    "meaning": "येनावृतं नित्यमिदं हि सर्वं ज्ञः कालकारो गुणी सर्वविद्यः। तेनेशितं कर्म विवर्तते ह पृथिव्यप्तेजोंइलखानि चिन्त्यम्‌॥",
+    "text": "He envelopeth this whole Universe with Himself for ever,He that knoweth, Maker of Time,&the Modes ofNature dwell in Him; yea, all things He discerneth and by His governance the Law ofWorks revolveth in its cycle. Earth,water, fire, air, ether, of these thou shalt consider (as the substance wherein it turneth).",
+    "mandala": 6,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.3",
+    "sanskrit_iast": "tatkarma kṛtvā vinivartya bhūyastattvasya tattvena sametya yogam | ekena dvābhyāṁ tribhiraṣṭabhirvā kālena caivātmaguṇaiśca sūkṣmaiḥ ||",
+    "meaning": "तत्कर्म कृत्वा विनिवर्त्य भूयस्तत्त्वस्य तत्त्वेन समेत्य योगम्‌। एकेन द्वाभ्यां त्रिभिरष्टभिर्वा कालेन चैवात्मगुणैश्च सूक्ष्मैः॥",
+    "text": "The Lord doeth works and resteth again from His works, one or two or three or eight He yoketh Himself with the Principle of things in their essence & with Time He yoketh Himself and with Self in its subtle workings.",
+    "mandala": 6,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.4",
+    "sanskrit_iast": "ārabhya karmāṇi guṇānvitāni bhāvāṁśca sarvānviniyojayedyaḥ | teṣāmabhāve kṛtakarmanāśaḥ karmakṣaye yāti sa tattvato'nyaḥ ||",
+    "meaning": "आरभ्य कर्माणि गुणान्वितानि भावांश्च सर्वान्विनियोजयेद्यः। तेषामभावे कृतकर्मनाशः कर्मक्षये याति स तत्त्वतोऽन्यः॥",
+    "text": "So He beginneth works, that are subject to the modes of Nature, and setteth all existences to their workings:&when these things are not, thereby cometh annihilation of work that hath been done; and with the perishing of work, He departeth out of them; for in His final truth He is other than they.",
+    "mandala": 6,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.5",
+    "sanskrit_iast": "ādiḥ sa saṁyoganimittahetuḥ parastrikālādakalo'pi dṛṣṭaḥ | taṁ viśvarūpaṁ bhavabhūtamīḍyaṁ devaṁ svacittasthamupāsya pūrvam ||",
+    "meaning": "आदिः स संयोगनिमित्तहेतुः परस्त्रिकालादकलोऽपि दृष्टः। तं विश्वरूपं भवभूतमीड्यं देवं स्वचित्तस्थमुपास्य पूर्वम्‌॥",
+    "text": "Lo we have beheld Him & He is the Beginning and the Cause of all Causes whereby these elements meet together & form ariseth; the past, the present and the future are this side of Him and Time hath no part in Him. Let us worship the Ancient of Days in our own hearts who sitteth. Let us wait upon God who must be adored, for the world is His shape and the Universe is but His becoming.",
+    "mandala": 6,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.6",
+    "sanskrit_iast": "sa vṛkṣakālākṛtibhiḥ paro'nyo yasmātprapañcaḥ parivartate'yam | dharmāvahaṁ pāpanudaṁ bhageśaṁ jñātvātmasthamamṛtaṁ viśvadhāma ||",
+    "meaning": "स वृक्षकालाकृतिभिः परोऽन्यो यस्मात्‌प्रपञ्चः परिवर्ततेऽयम्‌। धर्मावहं पापनुदं भगेशं ज्ञात्वात्मस्थममृतं विश्वधाम॥",
+    "text": "Time & Form and the Tree of Things, none of these is He for He is more than they & it is from Him that this Cosmos beginneth. We will know this Master of grace & glory for He cometh to us carrying righteousness in His hand & He driveth Sin from its strong places. We will know Him for He is in our Self & immortal & the World's foundation.",
+    "mandala": 6,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.7",
+    "sanskrit_iast": "tamīśvarāṇāṁ paramaṁ maheśvaraṁ taṁ devatānāṁ paramaṁ ca daivatam | patiṁ patīnāṁ paramaṁ parastādvidāma devaṁ bhuvaneśamīḍyam ||",
+    "meaning": "तमीश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतम्‌। पतिं पतीनां परमं परस्ताद्‌विदाम देवं भुवनेशमीड्यम्‌॥",
+    "text": "We will know this Mightiest one who is far above all the mighty-this summit of the gods & their godhead, King of Kings and Lord of Lords, who towereth high above all summits & greatnesses. Let us learn of God for He is this World's Master & all shall adore Him.",
+    "mandala": 6,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.8",
+    "sanskrit_iast": "na tasya kāryaṁ karaṇaṁ ca vidyate na tatsamaścābhyadhikaśca dṛśyate | parāsya śaktirvividhaiva śrūyate svābhāvikī jñānabalakriyā ca ||",
+    "meaning": "न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यधिकश्च दृश्यते। परास्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया",
+    "text": "God needeth not to do anything neither hath He any organ of doing; there is none greater than He nor do we see any that is His equal-for His power is far over all, only men hear of it under a thousand names & various, ashions. Lo the strength of Him and the works of Him and His Knowledge, they are self-efficient & their own cause & nature.",
+    "mandala": 6,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.9",
+    "sanskrit_iast": "na tasya kaścitpatirasti loke na ceśitā naiva ca tasya liṅgam | sa kāraṇaṁ karaṇādhipādhipo na cāsya kaścijjanitā na cādhipaḥ ||",
+    "meaning": "न तस्य कश्चित्‌पतिरस्ति लोके न चेशिता नैव च तस्य लिङ्गम्‌। स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः॥",
+    "text": "He hath no master in all this world, there is none that shall rule over Him. Nor feature nor distinction hath He; for He is begetting cause and sovran over the lords of these natural organs, but Himself hath no begetter neither any sovran.",
+    "mandala": 6,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.10",
+    "sanskrit_iast": "yasturṇanābha iva tantubhiḥ pradhānajaiḥ svabhāvataḥ | deva ekaḥ svamāvṛṇoti sa no dadhātdbrahmāpyayam ||",
+    "meaning": "यस्तुर्णनाभ इव तन्तुभिः प्रधानजैः स्वभावतः। देव एकः स्वमावृणोति स नो दधात्द्ब्रह्माप्ययम्‌॥",
+    "text": "Even as is the spider that out of himself fashioneth his own web, so is God One & nought else existeth but by his own nature covereth Himself up in the threads He hath spun out of primal matter. May the One God ordain unto us departure into His Eternal.",
+    "mandala": 6,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.11",
+    "sanskrit_iast": "eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāntarātmā| karmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaśca ||",
+    "meaning": "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा। कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च॥",
+    "text": "One God who alone is & He lurketh hidden in every creature for He pervadeth and is the inmost Self of all beings, He presideth over all work and is the home of all things living. He is the Mighty Witness who relateth thought with thought and again He is the Absolute in whom mood is not nor any attribute.",
+    "mandala": 6,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.12",
+    "sanskrit_iast": "eko vaśī niṣkriyāṇāṁ bahūnāmekaṁ bījaṁ bahudhā yaḥ karoti | tamātmasthaṁ ye'nupaśyanti dhīrāsteṣāṁ sukhaṁ śāśvataṁ netareṣām ||",
+    "meaning": "एको वशी निष्क्रियाणां बहूनामेकं बीजं बहुधा यः करोति। तमात्मस्थं येऽनुपश्यन्ति धीरास्तेषां सुखं शाश्वतं नेतरेषाम्‌॥",
+    "text": "One God&alone He controlleth the many who have themselves no separate work nor purpose; andHe developeth one seed into many kinds of creatures; the strong-hearted behold God in their own Self, therefore for them is everlasting bliss and not for others.",
+    "mandala": 6,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.13",
+    "sanskrit_iast": "nityo nityānāṁ cetanaścetanānāmeko bahūnāṁ yo vidadhāti kāmān | tatkāraṇaṁ sāṁkhyayogādhigamyaṁ jñātvā devaṁ mucyate sarvapāśaiḥ ||",
+    "meaning": "नित्यो नित्यानां चेतनश्चेतनानामेको बहूनां यो विदधाति कामान्‌। तत्कारणं सांख्ययोगाधिगम्यं ज्ञात्वा देवं मुच्यते सर्वपाशैः॥",
+    "text": "One Eternal of all these that pass & are not, One conscious in all consciousnesses; He being One ordereth the desires of many; He alone is the great Source to which Sankhya and Yoga bring us. If thou know God thou shalt break free from every sort of bondage.",
+    "mandala": 6,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.14",
+    "sanskrit_iast": "na tatra sūryo bhāti na candratārakaṁ nemā vidyuto bhānti kuto'yamagniḥ | tameva bhāntamanubhāti sarvaṁ tasya bhāsā sarvamidaṁ vibhāti ||",
+    "meaning": "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः। तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति॥",
+    "text": "There the sun cannot shine and the moon has no splendour; the stars are blind; there our lightnings flash not neither any earthly fire; all that is bright is but the shadow of His brightness and by His shining all this shineth.",
+    "mandala": 6,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.15",
+    "sanskrit_iast": "eko haso bhuvanasyāsya madhye sa evāgniḥ salile saṁniviṣṭaḥ | tameva viditvā atimṛtyumeti nānyaḥ panthā vidyate'yanāya ||",
+    "meaning": "एको हंसो भुवनस्यास्य मध्ये स एवाग्निः सलिले संनिविष्टः। तमेव विदित्वा अतिमृत्युमेति नान्यः पन्था विद्यतेऽयनाय॥",
+    "text": "One Swan of Being in the heart of all this Universe & He is Fire that lieth deep in the heart of water. By Knowledge of Him, the soul passeth beyond the pursuit of Death and there is no other road for the great passage.",
+    "mandala": 6,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.16",
+    "sanskrit_iast": "sa viśvakṛdviśvavidātmayonirjñaḥ kālakāro guṇī sarvavid yaḥ | pradhānakṣetrajñapatirguṇeśaḥ sasāramokṣasthitibandhahetuḥ ||",
+    "meaning": "स विश्वकृद्विश्वविदात्मयोनिर्ज्ञः कालकारो गुणी सर्वविद्‌ यः। प्रधानक्षेत्रज्ञपतिर्गुणेशः ससारमोक्षस्थितिबन्धहेतुः॥",
+    "text": "He hath made all and knoweth all; forHe is the womb out of which Self ariseth, & being possessed of the Nature Moods He becometh Time's Maker and discerneth all things. And Matter is subject to Him & the Spirit inMan that cogniseth His field of matter & the modes of Nature are His servants. He therefore is the cause of this coming into phenomena & of the release from phenomena-&because of Him is their endurance & because of Him is their bondage.",
+    "mandala": 6,
+    "hymn": 16,
+    "verse": 16,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.17",
+    "sanskrit_iast": "sa tanmayo hyamṛta īśasaṁstho jñaḥ sarvago bhuvanasyāsya goptā | ya īśe asya jagato nityameva nānyo heturvidyata īśanāya ||",
+    "meaning": "स तन्मयो ह्यमृत ईशसंस्थो ज्ञः सर्वगो भुवनस्यास्य गोप्ता। य ईशे अस्य जगतो नित्यमेव नान्यो हेतुर्विद्यत ईशनाय॥",
+    "text": "Lo He is Immortal because He is utter existence; but He houseth Himself in the Lord & is the Knower, the Omnipresent that standeth on guard over this His universe, yea He ruleth all this moving world for ever and for ever, and there is no other source of lordship and kingliness.",
+    "mandala": 6,
+    "hymn": 17,
+    "verse": 17,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.18",
+    "sanskrit_iast": "yo brahmāṇaṁ vidadhāti pūrvaṁ yo vai vedāṁśca prahiṇoti tasmai | taha devaṁātmabuddhiprakāśaṁ mumukṣurvai śaraṇamahaṁ prapadye || niṣkalaṁ niṣkriya śāntaṁ niravadyaṁ nirañjanam | amṛtasya para setuṁ dagdhendanamivānalam ||",
+    "meaning": "यो ब्रह्माणं विदधाति पूर्वं यो वै वेदांश्च प्रहिणोति तस्मै। तह देवंआत्मबुद्धिप्रकाशं मुमुक्षुर्वै शरणमहं प्रपद्ये॥ निष्कलं निष्क्रिय शान्तं निरवद्यं निरञ्जनम्‌। अमृतस्य पर सेतुं दग्धेन्दनमिवानलम्‌॥",
+    "text": "He ordained Brahma the Creator from of old and sent forth unto him the Veda, I will hasten unto God who standeth self-revealed in the Spirit & in the Understanding. I will take refuge in the Lord for my salvation; Who hath neither parts nor works for He is utterly tranquil, faultless, stainless, therefore He is the one great bridge that carrieth us over to Immortality, even as when a fire hath burnt all its fuel.",
+    "mandala": 6,
+    "hymn": 18,
+    "verse": 18,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.19",
+    "sanskrit_iast": "yadā carmavadākāśaṁ veṣṭayiṣyanti mānavāḥ | tadā devamavijñāya duḥkhasyānto bhaviṣyati ||",
+    "meaning": "यदा चर्मवदाकाशं वेष्टयिष्यन्ति मानवाः। तदा देवमविज्ञाय दुःखस्यान्तो भविष्यति॥",
+    "text": "When the sons of men shall fold up ether like a skin and wrap the heavens round them like a garment, then alone without knowledge of the Lord our God shall the misery of the World have an ending.",
+    "mandala": 6,
+    "hymn": 19,
+    "verse": 19,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.20",
+    "sanskrit_iast": "tapaḥprabhāvāddevaprasādācca brahma ha śvetāśvataro'tha vidvān | atyāśramibhyaḥ paramaṁ pavitraṁ provāca samyagṛṣisaṅghajuṣṭam ||",
+    "meaning": "तपःप्रभावाद्देवप्रसादाच्च ब्रह्म ह श्वेताश्वतरोऽथ विद्वान्‌। अत्याश्रमिभ्यः परमं पवित्रं प्रोवाच सम्यगृषिसङ्घजुष्टम्‌॥",
+    "text": "By the might of his devotion&the grace of God in his being Svetasvatara hereafter knew the Eternal & he came to therenouncers of the worldly life and truly declared unto them the Most High & Pure God, to whom the companies of seers resort for ever.",
+    "mandala": 6,
+    "hymn": 20,
+    "verse": 20,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.21",
+    "sanskrit_iast": "vedānte paramaṁ guhyaṁ purākalpe pracoditam | nāpraśāntāya dātavyaṁ nāputrāyāśiṣyāya vā punaḥ ||",
+    "meaning": "वेदान्ते परमं गुह्यं पुराकल्पे प्रचोदितम्‌। नाप्रशान्ताय दातव्यं नापुत्रायाशिष्याय वा पुनः॥",
+    "text": "This is the great secret of the Vedanta which was declared in former times, not on hearts untranquilled to be squandered nor men sonless nor on one who hath no disciples.",
+    "mandala": 6,
+    "hymn": 21,
+    "verse": 21,
+    "vedaId": "svetasvatara_upanishad"
+  },
+  {
+    "reference": "6.22",
+    "sanskrit_iast": "yasya deve parā bhaktiryathā deve tathā gurau | tasyaite kathitā hyarthāḥ prakāśante mahātmanaḥ prakāśante mahātmana iti ||",
+    "meaning": "यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ। तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः प्रकाशन्ते महात्मन इति॥",
+    "text": "But whosoever hath supreme love & adoration for the Lord and as for the Lord, so likewise for the Master, to that Mighty Soul these great matters when they are told become clear of themselves, yea to the Great Soul of him they are manifest.",
+    "mandala": 6,
+    "hymn": 22,
+    "verse": 22,
+    "vedaId": "svetasvatara_upanishad"
+  }
+]

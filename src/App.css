@@ -29,6 +29,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1rem;
+  position: relative;
 }
 
 .header-content h1 {
@@ -71,6 +72,36 @@ body {
 
 .veda-selector .button-group {
   flex-wrap: wrap;
+}
+
+.veda-select {
+  padding: 0.5rem 1rem;
+  border: 2px solid #e2e8f0;
+  background: white;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #2d3748;
+  cursor: pointer;
+  min-width: 240px;
+  appearance: auto;
+}
+
+.veda-select:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2);
+}
+
+.veda-select optgroup {
+  font-weight: 700;
+  color: #4a5568;
+  padding: 4px 0;
+}
+
+.veda-select option {
+  font-weight: 400;
+  padding: 4px 8px;
 }
 
 .selector-label {

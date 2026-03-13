@@ -3,57 +3,17 @@ import { VEDA_CONFIGS } from "../types";
 
 // Normalize text by removing diacritics and special characters
 function normalizeText(text: string): string {
-  // Common Sanskrit diacritics and their replacements
   const replacements: Record<string, string> = {
-    ā: "a",
-    Ā: "A",
-    ī: "i",
-    Ī: "I",
-    ū: "u",
-    Ū: "U",
-    ṛ: "r",
-    Ṛ: "R",
-    ṝ: "r",
-    Ṝ: "R",
-    ḷ: "l",
-    Ḷ: "L",
-    ḹ: "l",
-    Ḹ: "L",
-    ṃ: "m",
-    Ṃ: "M",
-    ḥ: "h",
-    Ḥ: "H",
-    ṅ: "n",
-    Ṅ: "N",
-    ñ: "n",
-    Ñ: "N",
-    ṭ: "t",
-    Ṭ: "T",
-    ḍ: "d",
-    Ḍ: "D",
-    ṇ: "n",
-    Ṇ: "N",
-    ś: "s",
-    Ś: "S",
-    ṣ: "s",
-    Ṣ: "S",
-    ẓ: "z",
-    Ẓ: "Z",
-    ḻ: "l",
-    Ḻ: "L",
-    â: "a",
-    Â: "A",
-    î: "i",
-    Î: "I",
-    û: "u",
-    Û: "U",
-    ê: "e",
-    Ê: "E",
-    ô: "o",
-    Ô: "O",
-    ṁ: "m",
-    ḿ: "m",
-    Ḿ: "M",
+    ā: "a", Ā: "A", ī: "i", Ī: "I", ū: "u", Ū: "U",
+    ṛ: "r", Ṛ: "R", ṝ: "r", Ṝ: "R", ḷ: "l", Ḷ: "L", ḹ: "l", Ḹ: "L",
+    ṃ: "m", Ṃ: "M", ḥ: "h", Ḥ: "H",
+    ṅ: "n", Ṅ: "N", ñ: "n", Ñ: "N",
+    ṭ: "t", Ṭ: "T", ḍ: "d", Ḍ: "D", ṇ: "n", Ṇ: "N",
+    ś: "s", Ś: "S", ṣ: "s", Ṣ: "S",
+    ẓ: "z", Ẓ: "Z", ḻ: "l", Ḻ: "L",
+    â: "a", Â: "A", î: "i", Î: "I", û: "u", Û: "U",
+    ê: "e", Ê: "E", ô: "o", Ô: "O",
+    ṁ: "m", ḿ: "m", Ḿ: "M",
   };
 
   let normalized = text;
@@ -61,7 +21,6 @@ function normalizeText(text: string): string {
     normalized = normalized.replace(new RegExp(diacritic, "g"), replacement);
   }
 
-  // Also normalize using built-in normalize method for any remaining unicode
   return normalized.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
@@ -84,6 +43,33 @@ function finalizeVerse(
   verse.text = cleaned;
   collection.push(verse);
 }
+
+// ==========================================
+// Generic JSON loader for all texts
+// ==========================================
+
+async function loadGenericJson(vedaId: VedaId): Promise<Verse[]> {
+  const config = VEDA_CONFIGS[vedaId];
+  const response = await fetch(`./${config.dataPath}`);
+  const rawData = await response.json();
+
+  const verses: Verse[] = rawData.map((item: Record<string, unknown>) => ({
+    reference: item.reference as string || '',
+    text: (item.text as string) || '',
+    mandala: (item.mandala as number) || (item.chapter as number) || 0,
+    hymn: (item.hymn as number) || (item.khanda as number) || 0,
+    verse: (item.verse as number) || 1,
+    iast: (item.sanskrit_iast as string) || (item.iast as string) || '',
+    meaning: (item.meaning as string) || '',
+    vedaId: vedaId,
+  }));
+
+  return verses;
+}
+
+// ==========================================
+// Legacy fallback parsers
+// ==========================================
 
 function parseRigvedaCSV(text: string): Verse[] {
   const metadata = VEDA_CONFIGS.rigveda;
@@ -119,101 +105,6 @@ function parseRigvedaCSV(text: string): Verse[] {
   return verses;
 }
 
-async function loadAtharvavedaJson(): Promise<Verse[]> {
-  const response = await fetch('./atharvaveda.json');
-  const verses = await response.json();
-  return verses as Verse[];
-}
-
-async function loadRigvedaJson(): Promise<Verse[]> {
-  const response = await fetch('./rigveda.json');
-  const verses = await response.json();
-  return verses as Verse[];
-}
-
-async function loadYajurvedaBlackJson(): Promise<Verse[]> {
-  const response = await fetch('./yajurveda_black.json');
-  const verses = await response.json();
-  return verses as Verse[];
-}
-
-async function loadYajurvedaWhiteJson(): Promise<Verse[]> {
-  const response = await fetch('./yajurveda_white.json');
-  const verses = await response.json();
-  return verses as Verse[];
-}
-
-async function loadSatapathaBrahmanaJson(): Promise<Verse[]> {
-  const response = await fetch('./satapatha_brahmana.json');
-  const verses = await response.json();
-  return verses as Verse[];
-}
-
-async function loadSamavedaJson(): Promise<Verse[]> {
-  const response = await fetch('./samaveda.json');
-  const verses = await response.json();
-  return verses as Verse[];
-}
-
-async function loadJaiminiyaBrahmanaJson(): Promise<Verse[]> {
-  const response = await fetch('./jaiminiya_brahmana.json');
-  const rawData = await response.json();
-
-  // Map the Jaiminiya data structure to the Verse interface
-  // Jaiminiya has: chapter (Book), khanda (section)
-  // Verse interface expects: mandala, hymn, verse
-  const verses: Verse[] = rawData.map((item: {
-    reference: string;
-    chapter: number;
-    khanda: number;
-    text?: string;
-    meaning?: string;
-    sanskrit_iast?: string;
-    vedaId?: string;
-  }) => ({
-    reference: item.reference,
-    text: item.text || item.meaning || '',
-    mandala: item.chapter,  // Map chapter -> mandala (Book)
-    hymn: item.khanda,      // Map khanda -> hymn
-    verse: 1,               // Jaiminiya is 2-level, so verse is always 1
-    iast: item.sanskrit_iast,
-    meaning: item.meaning,
-    vedaId: 'jaiminiya_brahmana' as const,
-  }));
-
-  return verses;
-}
-
-async function loadChandogyaUpanishadJson(): Promise<Verse[]> {
-  const response = await fetch('./chandogya_upanishad.json');
-  const rawData = await response.json();
-
-  // Map Chandogya data to Verse interface
-  // Chandogya has: prapathaka (chapter), khanda (section), verse
-  const verses: Verse[] = rawData.map((item: {
-    reference: string;
-    mandala: number;
-    hymn: number;
-    verse: number;
-    text?: string;
-    meaning?: string;
-    sanskrit_iast?: string;
-    vedaId?: string;
-  }) => ({
-    reference: item.reference,
-    text: item.text || '',
-    mandala: item.mandala,  // prapathaka
-    hymn: item.hymn,        // khanda
-    verse: item.verse,
-    iast: item.sanskrit_iast,
-    meaning: item.meaning,
-    vedaId: 'chandogya_upanishad' as const,
-  }));
-
-  return verses;
-}
-
-// Keep old parser as fallback
 function parseAtharvavedaText(text: string): Verse[] {
   const metadata = VEDA_CONFIGS.atharvaveda;
   const lines = text.split(/\r?\n/);
@@ -303,77 +194,35 @@ function parseAtharvavedaText(text: string): Verse[] {
   return verses;
 }
 
+// ==========================================
+// Main loader
+// ==========================================
+
 export async function loadVedaData(vedaId: VedaId): Promise<Verse[]> {
   try {
-    if (vedaId === "rigveda") {
-      // Load pre-processed JSON with bilingual support (fast!)
-      try {
-        const verses = await loadRigvedaJson();
-        console.log(`Loaded ${verses.length} Rigveda verses from JSON`);
-        return verses;
-      } catch {
-        console.warn('Failed to load rigveda.json, falling back to griffith.csv');
+    // Try the generic JSON loader first (works for all texts)
+    try {
+      const verses = await loadGenericJson(vedaId);
+      console.log(`Loaded ${verses.length} ${VEDA_CONFIGS[vedaId].name} entries from JSON`);
+      return verses;
+    } catch (jsonError) {
+      console.warn(`Failed to load ${vedaId} JSON, trying fallback...`, jsonError);
+    }
 
-        // Fallback to griffith.csv if JSON loading fails
-        const response = await fetch("./griffith.csv");
-        const text = await response.text();
-        return parseRigvedaCSV(text);
-      }
+    // Legacy fallbacks for Rigveda and Atharvaveda
+    if (vedaId === "rigveda") {
+      const response = await fetch("./data/other/griffith.csv");
+      const text = await response.text();
+      return parseRigvedaCSV(text);
     }
 
     if (vedaId === "atharvaveda") {
-      // Load pre-processed JSON (fast!)
-      try {
-        const verses = await loadAtharvavedaJson();
-        console.log(`Loaded ${verses.length} Atharvaveda verses from JSON`);
-        return verses;
-      } catch {
-        console.warn('Failed to load JSON, falling back to av.txt');
-
-        // Fallback to av.txt if JSON loading fails
-        const response = await fetch("./av.txt");
-        const text = await response.text();
-        return parseAtharvavedaText(text);
-      }
+      const response = await fetch("./data/other/av.txt");
+      const text = await response.text();
+      return parseAtharvavedaText(text);
     }
 
-    if (vedaId === "yajurveda_black") {
-      const verses = await loadYajurvedaBlackJson();
-      console.log(`Loaded ${verses.length} Krishna Yajurveda verses from JSON`);
-      return verses;
-    }
-
-    if (vedaId === "yajurveda_white") {
-      const verses = await loadYajurvedaWhiteJson();
-      console.log(`Loaded ${verses.length} Shukla Yajurveda verses from JSON`);
-      return verses;
-    }
-
-    if (vedaId === "satapatha_brahmana") {
-      const verses = await loadSatapathaBrahmanaJson();
-      console.log(`Loaded ${verses.length} Satapatha Brahmana verses from JSON`);
-      return verses;
-    }
-
-    if (vedaId === "jaiminiya_brahmana") {
-      const verses = await loadJaiminiyaBrahmanaJson();
-      console.log(`Loaded ${verses.length} Jaiminiya Brahmana entries from JSON`);
-      return verses;
-    }
-
-    if (vedaId === "samaveda") {
-      const verses = await loadSamavedaJson();
-      console.log(`Loaded ${verses.length} Samaveda verses from JSON`);
-      return verses;
-    }
-
-    if (vedaId === "chandogya_upanishad") {
-      const verses = await loadChandogyaUpanishadJson();
-      console.log(`Loaded ${verses.length} Chandogya Upanishad verses from JSON`);
-      return verses;
-    }
-
-    console.warn(`Unsupported vedaId "${vedaId}" supplied to loadVedaData`);
+    console.warn(`No fallback available for "${vedaId}"`);
     return [];
   } catch (error) {
     console.error(`Error loading ${vedaId} data:`, error);
@@ -389,37 +238,25 @@ export function searchWord(
 ): SearchResult | null {
   if (!searchTerms.length || !verses.length) return null;
 
-  // Normalize search terms
   const normalizedSearchTerms = searchTerms.map((term) => normalizeText(term));
 
-  // Find matching verses using normalized comparison
   const matches = verses.filter((verse) => {
     const normalizedVerseText = normalizeText(verse.text);
     const normalizedIast = verse.iast ? normalizeText(verse.iast) : '';
+    const normalizedMeaning = verse.meaning ? normalizeText(verse.meaning) : '';
 
-    // Check if any of the normalized search terms appear in the normalized verse text or IAST
     return normalizedSearchTerms.some((term) => {
-      if (caseSensitive) {
-        // For case-sensitive, still use normalization but preserve case
-        const regex = new RegExp(
-          `\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
-          "g"
-        );
-        return regex.test(normalizedVerseText) || regex.test(normalizedIast);
-      } else {
-        // Case-insensitive search with normalization
-        const regex = new RegExp(
-          `\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
-          "gi"
-        );
-        return regex.test(normalizedVerseText) || regex.test(normalizedIast);
-      }
+      const flags = caseSensitive ? "g" : "gi";
+      const regex = new RegExp(
+        `\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
+        flags
+      );
+      return regex.test(normalizedVerseText) || regex.test(normalizedIast) || regex.test(normalizedMeaning);
     });
   });
 
   if (matches.length === 0) return null;
 
-  // Count by mandala
   const divisionCount = metadata.totalBooks;
   const mandalaCounts = new Array(divisionCount).fill(0);
   const mandalaSizes = new Array(divisionCount).fill(0);
@@ -438,7 +275,6 @@ export function searchWord(
     }
   });
 
-  // Calculate percentages
   const mandalaPercentages = mandalaCounts.map((count, idx) => {
     const size = mandalaSizes[idx];
     return size > 0 ? (count / size) * 100 : 0;
@@ -450,6 +286,6 @@ export function searchWord(
     mandalaCounts,
     mandalaPercentages,
     mandalaSizes,
-    matches: matches, // Return all matches
+    matches: matches,
   };
 }

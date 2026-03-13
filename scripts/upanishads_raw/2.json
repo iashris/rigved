@@ -1,0 +1,2829 @@
+{
+  "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/audioall/KENOPANISHAD+WITH+ASHIT+JI+VOX.wav",
+  "chapters" : [ {
+    "n" : "2/2",
+    "name_skt" : "प्रथमः खण्डः",
+    "name_tl" : "prathamaḥ khandaḥ",
+    "p" : "",
+    "u" : "1",
+    "verses" : [ {
+      "anvaya_skt" : "मनः केन इषितं प्रेषितं  च सन्   पतति।  केन युक्तः प्रथमः प्राणः प्रैति । केन इषिताम् इमं वाचं वदन्ति।  चक्षुः श्रोत्रं कः उ देवः युनक्ति ॥",
+      "anvaya_tl" : "manaḥ kena iṣitaṁ preṣitaṁ ( ca san )  patati |  kena yuktaḥ prathamaḥ prāṇaḥ praiti  | kena iṣitām imaṁ vācaṁ vadanti |  cakṣuḥ śrotraṁ kaḥ u devaḥ yunakti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.1.mp3",
+      "auro_md" : "By whom missioned falls the mind shot to its mark? By whom yoked moves the first life-breath forward on its paths? By whom impelled is this word that men speak? What god set eye and ear to their workings?",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "by whom",
+        "word_skt" : "केन",
+        "word_tl" : "kena"
+      }, {
+        "meaning_en" : "missioned",
+        "word_skt" : "इषितम्",
+        "word_tl" : "iṣitam"
+      }, {
+        "meaning_en" : "the mind",
+        "word_skt" : "मनः",
+        "word_tl" : "manaḥ"
+      }, {
+        "meaning_en" : "sent / shot",
+        "word_skt" : "प्रेषितम्",
+        "word_tl" : "preṣitam"
+      }, {
+        "meaning_en" : "being",
+        "word_skt" : "सन्",
+        "word_tl" : "san"
+      }, {
+        "meaning_en" : "falls",
+        "word_skt" : "पतति",
+        "word_tl" : "patati"
+      }, {
+        "meaning_en" : "by whom",
+        "word_skt" : "केन",
+        "word_tl" : "kena"
+      }, {
+        "meaning_en" : "yoked",
+        "word_skt" : "युक्तः",
+        "word_tl" : "yuktaḥ"
+      }, {
+        "meaning_en" : "first",
+        "word_skt" : "प्रथमः",
+        "word_tl" : "prathamaḥ"
+      }, {
+        "meaning_en" : "life - breath",
+        "word_skt" : "प्राणः",
+        "word_tl" : "prāṇaḥ"
+      }, {
+        "meaning_en" : "moves",
+        "word_skt" : "प्रैति",
+        "word_tl" : "praiti"
+      }, {
+        "meaning_en" : "by whom",
+        "word_skt" : "केन",
+        "word_tl" : "kena"
+      }, {
+        "meaning_en" : "impelled",
+        "word_skt" : "इषिताम्",
+        "word_tl" : "iṣitām"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इमम्",
+        "word_tl" : "imam"
+      }, {
+        "meaning_en" : "speech",
+        "word_skt" : "वाचम्",
+        "word_tl" : "vācam"
+      }, {
+        "meaning_en" : "speak",
+        "word_skt" : "वदन्ति",
+        "word_tl" : "vadanti"
+      }, {
+        "meaning_en" : "eye and to their workings",
+        "word_skt" : "चक्षुः",
+        "word_tl" : "cakṣuḥ"
+      }, {
+        "meaning_en" : "ear",
+        "word_skt" : "श्रोत्रम्",
+        "word_tl" : "śrotram"
+      }, {
+        "meaning_en" : "What/which",
+        "word_skt" : "कः",
+        "word_tl" : "kaḥ"
+      }, {
+        "meaning_en" : "(an emphatic particle)",
+        "word_skt" : "उ",
+        "word_tl" : "u"
+      }, {
+        "meaning_en" : "god",
+        "word_skt" : "देवः",
+        "word_tl" : "devaḥ"
+      }, {
+        "meaning_en" : "sets",
+        "word_skt" : "युनक्ति",
+        "word_tl" : "yunakti"
+      } ],
+      "hindi_explain" : "\tकिसके द्वारा प्रेषित यह मन बाणवत् अपने लक्ष्य पर जाकर गिरता है? किसके द्वारा नियुक्त प्रथम प्राण अपने पथ पर आगे बढ़ता है? किसके द्वारा प्रेरित है यह वाणी जिसे मनुष्य बोलते हैं? कौन है वह देव जिसने चक्षु और कर्ण को उनकी क्रियाओं में नियुक्त कर दिया है?",
+      "meaning_en" : " By whom missioned falls the mind shot to its mark? By whom yoked moves the first life - breath forward on its paths? By whom impelled is this word that men speak? What god set eye and ear to their workings?",
+      "n" : "2/1/2",
+      "p" : "",
+      "u" : "1",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "केनेषितं पतति प्रेषितं मनः।  केन प्राणः प्रथमः प्रैति युक्तः।\nकेनेषितां वाचमिमां वदन्ति। चक्षुः श्रोत्रं क उ देवो युनक्ति ॥",
+      "verse_tl" : "keneṣitaṁ patati preṣitaṁ manaḥ |  kena prāṇaḥ prathamaḥ praiti yuktaḥ |\nkeneṣitāṁ vācamimāṁ vadanti | cakṣuḥ śrotraṁ ka u devo yunakti ||"
+    }, {
+      "anvaya_skt" : "यत् श्रोत्रस्य श्रोत्रम्। मनसः मनः। वाचः ह वाचम्। सः उ प्राणस्य प्राणः। चक्षुसः चक्षुः। एवं विदित्वा श्रोत्रादिषु आत्मभावम् अतिमुच्य धीराः अस्मात् लोकात् प्रेत्य अमृताः भवन्ति ॥",
+      "anvaya_tl" : "yat śrotrasya śrotram | manasaḥ manaḥ | vācaḥ ha vācam | saḥ u prāṇasya prāṇaḥ | cakṣusaḥ cakṣuḥ |  ( evaṁ viditvā ) śrotrādiṣu ātmabhāvam atimucya dhīrāḥ asmāt lokāt pretya amṛtāḥ bhavanti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.2.mp3",
+      "auro_md" : "That which is hearing of our hearing, mind of our mind, speech of our speech, that too is life of our life-breath and sight of our sight. The wise are released beyond and they pass from this world and become immortal.",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "hearing",
+        "word_skt" : "श्रोत्रम्",
+        "word_tl" : "śrotram"
+      }, {
+        "meaning_en" : "of the hearing",
+        "word_skt" : "श्रोत्रस्य",
+        "word_tl" : "śrotrasya"
+      }, {
+        "meaning_en" : "of the mind",
+        "word_skt" : "मनसः",
+        "word_tl" : "manasaḥ"
+      }, {
+        "meaning_en" : "mind",
+        "word_skt" : "मनः",
+        "word_tl" : "manaḥ"
+      }, {
+        "meaning_en" : "of the speech",
+        "word_skt" : "वाचः",
+        "word_tl" : "vācaḥ"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "ह",
+        "word_tl" : "ha"
+      }, {
+        "meaning_en" : "speech",
+        "word_skt" : "वाचम्",
+        "word_tl" : "vācam"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "उ",
+        "word_tl" : "u"
+      }, {
+        "meaning_en" : "of life",
+        "word_skt" : "प्राणस्य",
+        "word_tl" : "prāṇasya"
+      }, {
+        "meaning_en" : "the life -breath",
+        "word_skt" : "प्राणः",
+        "word_tl" : "prāṇaḥ"
+      }, {
+        "meaning_en" : "of the sight",
+        "word_skt" : "चक्षुसः",
+        "word_tl" : "cakṣusaḥ"
+      }, {
+        "meaning_en" : "sight",
+        "word_skt" : "चक्षुः",
+        "word_tl" : "cakṣuḥ"
+      }, {
+        "meaning_en" : "thus having known",
+        "word_skt" : "एवं विदित्वा",
+        "word_tl" : "(evaṁ viditvā)"
+      }, {
+        "meaning_en" : "the wise men",
+        "word_skt" : "धीराः",
+        "word_tl" : "dhīrāḥ"
+      }, {
+        "meaning_en" : "released beyond",
+        "word_skt" : "अतिमुच्य",
+        "word_tl" : "atimucya"
+      }, {
+        "meaning_en" : "from this",
+        "word_skt" : "अस्मात्",
+        "word_tl" : "asmāt"
+      }, {
+        "meaning_en" : "world",
+        "word_skt" : "लोकात्",
+        "word_tl" : "lokāt"
+      }, {
+        "meaning_en" : "having passed",
+        "word_skt" : "प्रेत्य",
+        "word_tl" : "pretya"
+      }, {
+        "meaning_en" : "immortal",
+        "word_skt" : "अमृताः",
+        "word_tl" : "amṛtāḥ"
+      }, {
+        "meaning_en" : "become",
+        "word_skt" : "भवन्ति",
+        "word_tl" : "bhavanti"
+      } ],
+      "hindi_explain" : "२.\tवह  जो हमारे श्रवण का श्रवण है, हमारे मन का जो मन है, हमारी वाणी के पीछे जो वाक् है, वही हमारे प्राण का प्राण है तथा हमारे चक्षु का चक्षु है। ज्ञानी पुरुष इससे परे पहुँचकर मुक्त हो जाते हैं तथा इस लोक से प्रयाण करके वे अमर हो जाते हैं।",
+      "meaning_en" : " That which is hearing of our hearing, mind of our mind, speech of our speech, that too is life of our life -breath and sight of our sight. The wise are released beyond and they pass from this world and become immortal.",
+      "n" : "2/1/3",
+      "p" : "2/1/1",
+      "u" : "2",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "श्रोत्रस्य श्रोत्रं मनसो मनो यत्। वाचो ह वाचं स उ प्राणस्य प्राणः।\nचक्षुषश्चक्षुरतिमुच्य धीराः। प्रेत्यास्माल्लोकादमृता भवन्ति ॥",
+      "verse_tl" : "śrotrasya śrotraṁ manaso mano yat | vāco ha vācaṁ sa u prāṇasya prāṇaḥ |\ncakṣuṣaścakṣuratimucya dhīrāḥ | pretyāsmāllokādamṛtā bhavanti ||"
+    }, {
+      "anvaya_skt" : "तत्र चक्षुः न गछति। न वाक् न उ मनः।  तत्  न विद्मः। यथा एतत् अनुशिष्यात्  तत् अपि  न विजानीमः। तत् विदितत् अन्यत् एव। अथो अविदितात् अधि पूर्वेषाम्। इति शुश्रुमः ये नः तत् व्याचचक्षिरे ॥",
+      "anvaya_tl" : "tatra cakṣuḥ na gachati | na vāk na u manaḥ | ( tat ) na vidmaḥ | yathā etat anuśiṣyāt ( tat api ) na vijānīmaḥ | tat viditat anyat eva | atho aviditāt adhi pūurveṣām | iti śuśrumaḥ ye naḥ tat vyācacakṣire ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.3.mp3",
+      "auro_md" : "There sight travels not, nor speech, nor the mind. We know It not nor can distinguish how one should teach of It: for It is other than the known; It is there above the unknown. It is so we have heard from men of old who declared That to our understanding.",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "there",
+        "word_skt" : "तत्र",
+        "word_tl" : "tatra"
+      }, {
+        "meaning_en" : "sight",
+        "word_skt" : "चक्षुः",
+        "word_tl" : "cakṣuḥ"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "travels",
+        "word_skt" : "गछति",
+        "word_tl" : "gachati"
+      }, {
+        "meaning_en" : "nor",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "nor speech",
+        "word_skt" : "वाक्",
+        "word_tl" : "vāk"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "उ",
+        "word_tl" : "u"
+      }, {
+        "meaning_en" : "mind",
+        "word_skt" : "मनः",
+        "word_tl" : "manaḥ"
+      }, {
+        "meaning_en" : "It",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "we know not",
+        "word_skt" : "न विद्मः",
+        "word_tl" : "na vidmaḥ"
+      }, {
+        "meaning_en" : "as",
+        "word_skt" : "यथा",
+        "word_tl" : "yathā"
+      }, {
+        "meaning_en" : "It",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "one should teach of",
+        "word_skt" : "अनुशिष्यात्",
+        "word_tl" : "anuśiṣyāt"
+      }, {
+        "meaning_en" : "that also",
+        "word_skt" : "तत् अपि",
+        "word_tl" : "tat api "
+      }, {
+        "meaning_en" : "we know not",
+        "word_skt" : "न विजानीमः",
+        "word_tl" : "na vijānīmaḥ"
+      }, {
+        "meaning_en" : "It",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "than the known",
+        "word_skt" : "विदितत्",
+        "word_tl" : "viditat"
+      }, {
+        "meaning_en" : "other",
+        "word_skt" : "अन्यत्",
+        "word_tl" : "anyat"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "and",
+        "word_skt" : "अथो",
+        "word_tl" : "atho"
+      }, {
+        "meaning_en" : "the unknown",
+        "word_skt" : "अविदितात्",
+        "word_tl" : "aviditāt"
+      }, {
+        "meaning_en" : "above",
+        "word_skt" : "अधि",
+        "word_tl" : "adhi"
+      }, {
+        "meaning_en" : "thus / it is so",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "from men of old",
+        "word_skt" : "पूर्वेषाम्",
+        "word_tl" : "pūurveṣām"
+      }, {
+        "meaning_en" : "we have heard",
+        "word_skt" : "शुश्रुमः",
+        "word_tl" : "śuśrumaḥ"
+      }, {
+        "meaning_en" : "who",
+        "word_skt" : "ये",
+        "word_tl" : "ye"
+      }, {
+        "meaning_en" : "to us (to our understanding)",
+        "word_skt" : "नः",
+        "word_tl" : "naḥ"
+      }, {
+        "meaning_en" : "That",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "have declared",
+        "word_skt" : "व्याचचक्षिरे",
+        "word_tl" : "vyācacakṣire"
+      } ],
+      "hindi_explain" : "३.\tवहाँ न चक्षु जा सकता है, न वाणी, न ही मन। हम न 'उसे’ जानते हैं न यह जान पाते हैं कि ‘उसकी’ शिक्षा कैसे दी जाये; क्योंकि 'वह' विदित से अन्य है; तथा अविदित से भी परे है; 'वह' ऐसा है यह हमने उन पूर्वजों से सुना है जिन्होंने उस 'परतत्त्व' की हमारे बोध के लिए व्याख्या की है।",
+      "meaning_en" : " There sight travels not, nor speech, nor the mind. We know It not nor can distinguish how one should teach of It: for It is other than the known; It is there above the unknown. It is so we have heard from men of old who declared That to our understanding.",
+      "n" : "2/1/4",
+      "p" : "2/1/2",
+      "u" : "3",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनो\nन विद्मो न विजानीमो यथैतदनुशिष्यात्।\nअन्यदेव तद्विदितादथो अविदितादधि।\nइति शुश्रुम पूर्वेषां ये नस्तद्व्याचचक्षिरे ॥",
+      "verse_tl" : "na tatra cakṣurgacchati na vāggacchati no mano\nna vidmo na vijānīmo yathaitadanuśiṣyāt |\nanyadeva tadviditādatho aviditādadhi |\niti śuśruma pūrveṣāṁ ye nastadvyācacakṣire ||"
+    }, {
+      "anvaya_skt" : "यत् वाचा अनभ्युदितम्। येन वाक् अभ्युद्यते। तत् एव त्वं ब्रह्म विद्धि। यत् इदं उपासते इदं न ॥",
+      "anvaya_tl" : "yat vācā anabhyuditam | yena vāk abhyudyate | tat eva tvaṁ brahma viddhi | yat idaṁ upāsate idaṁ na ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.4.mp3",
+      "auro_md" : "That which is unexpressed by the word, that by which the word is expressed, know That to be the Brahman and not this which men follow after here.",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "by the word",
+        "word_skt" : "वाचा",
+        "word_tl" : "vācā"
+      }, {
+        "meaning_en" : "is unexpressed",
+        "word_skt" : "अनभ्युदितम्",
+        "word_tl" : "anabhyuditam"
+      }, {
+        "meaning_en" : "that by which",
+        "word_skt" : "येन",
+        "word_tl" : "yena"
+      }, {
+        "meaning_en" : "the word",
+        "word_skt" : "वाक्",
+        "word_tl" : "vāk"
+      }, {
+        "meaning_en" : "is expressed",
+        "word_skt" : "अभ्युद्यते",
+        "word_tl" : "abhyudyate"
+      }, {
+        "meaning_en" : "That",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "you",
+        "word_skt" : "त्वम्",
+        "word_tl" : "tvam"
+      }, {
+        "meaning_en" : "the Brahman",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "know to be",
+        "word_skt" : "विद्धि",
+        "word_tl" : "viddhi"
+      }, {
+        "meaning_en" : "which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "men follow after",
+        "word_skt" : "उपासते",
+        "word_tl" : "upāsate"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      } ],
+      "hindi_explain" : "४.\t'वह' जो वाणी के द्वारा अभिव्यक्त नहीं हो पाता, जिसके द्वारा वाणी अभिव्यक्त होती है,  'उसे' तुम 'ब्रह्म' जानो, न कि इसे जिसकी मनुष्य यहाँ उपासना करते हैं।",
+      "meaning_en" : " That which is unexpressed by the word, that by which the word is expressed, know That to be the Brahman and not this which men follow after here.",
+      "n" : "2/1/5",
+      "p" : "2/1/3",
+      "u" : "4",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यद्वाचानभ्युदितं येन वागभ्युद्यते।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+      "verse_tl" : "yadvācāanabhyuditaṁ yena vāgabhyudyate |\ntadeva brahma tvaṁ viddhi nedaṁ yadidamupāsate ||"
+    }, {
+      "anvaya_skt" : "मनसा यत् न मनुते। येन मनः मतं  इति ब्रह्मविदः  आहुः। तत् एव त्वं ब्रह्म विद्धि। यत् इदं उपासते इदं न ॥",
+      "anvaya_tl" : "manasā yat na manute | yena manaḥ mataṁ ( iti brahmavidaḥ ) āhuḥ | tat eva tvaṁ brahma viddhi | yat idaṁ upāsate idaṁ na ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.5.mp3",
+      "auro_md" : "That which thinks not by the mind,[^1] that by which the mind is thought, know That to be the Brahman and not this which men follow after here.\n\n[^1]: Or, \"that which one thinks not with the mind",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "by the mind",
+        "word_skt" : "मनसा",
+        "word_tl" : "manasā"
+      }, {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "thinks",
+        "word_skt" : "मनुते",
+        "word_tl" : "manute"
+      }, {
+        "meaning_en" : "that by which",
+        "word_skt" : "येन",
+        "word_tl" : "yena"
+      }, {
+        "meaning_en" : "the mind",
+        "word_skt" : "मनः",
+        "word_tl" : "manaḥ"
+      }, {
+        "meaning_en" : "is thought",
+        "word_skt" : "मतम्",
+        "word_tl" : "matam"
+      }, {
+        "meaning_en" : "is declared",
+        "word_skt" : "आहुः",
+        "word_tl" : "āhuḥ"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "you",
+        "word_skt" : "त्वम्",
+        "word_tl" : "tvam"
+      }, {
+        "meaning_en" : "the Brahman",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "know to be",
+        "word_skt" : "विद्धि",
+        "word_tl" : "viddhi"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "men follow after",
+        "word_skt" : "उपासते",
+        "word_tl" : "upāsate"
+      } ],
+      "hindi_explain" : "५.\t'वह' जो मन के द्वारा मनन नहीं करता,<sup>१</sup> 'वह' जिसके द्वारा मन स्वयं मनन का विषय बन जाता है, 'उसे' ही तुम 'ब्रह्म' जानो, न कि इसे जिसकी मनुष्य यहां उपासना करते हैं।",
+      "meaning_en" : " That which thinks not by the mind, that by which the mind is thought, know That to be the Brahman and not this which men follow after here.",
+      "n" : "2/1/6",
+      "p" : "2/1/4",
+      "u" : "5",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यन्मनसा न मनुते येनाहुर्मनो मतम्‌।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+      "verse_tl" : "yanmanasā na manute yenāhurmano matam |\ntadeva brahma tvaṁ viddhi nedaṁ yadidamupāsate ||"
+    }, {
+      "anvaya_skt" : "यत् चक्शुषा न पश्यति। येन चक्षूंषि पश्यति। तत् एव त्वं ब्रह्म विद्धि। यत् इदं उपासते इदं न ॥",
+      "anvaya_tl" : "yat cakśuṣā na paśyati | yena cakṣūṁṣi paśyati | tat eva tvaṁ brahma viddhi | yat idaṁ upāsate idaṁ na ||",
+      "audiourl" : "",
+      "auro_md" : "That which sees not with the eye,[^2] that by which one sees the eye's seeings, know That to be the Brahman and not this which men follow after here.\n\n[^2]: Or, \"that which one sees not with the eye\".",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "with the eye",
+        "word_skt" : "चक्शुषा",
+        "word_tl" : "cakśuṣā"
+      }, {
+        "meaning_en" : "sees not",
+        "word_skt" : "न पश्यति",
+        "word_tl" : "na paśyati"
+      }, {
+        "meaning_en" : "by which",
+        "word_skt" : "येन",
+        "word_tl" : "yena"
+      }, {
+        "meaning_en" : "the eyes",
+        "word_skt" : "चक्षूंषि",
+        "word_tl" : "cakṣūṁṣi"
+      }, {
+        "meaning_en" : "sees",
+        "word_skt" : "पश्यति",
+        "word_tl" : "paśyati"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "you",
+        "word_skt" : "त्वम्",
+        "word_tl" : "tvam"
+      }, {
+        "meaning_en" : "the Brahman",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "know to be",
+        "word_skt" : "विद्धि",
+        "word_tl" : "viddhi"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "men follow after",
+        "word_skt" : "उपासते",
+        "word_tl" : "upāsate"
+      } ],
+      "hindi_explain" : "६.\t'वह' जो चक्षु के द्वारा नहीं देखता,<sup>२</sup> 'वह' जिसके द्वारा व्यक्ति चक्षु को देखने की क्रिया को देखता है 'उसे' ही तुम 'ब्रह्म' जानो, ना कि इसे जिसकी मनुष्य यहां उपासना करते हैं।",
+      "meaning_en" : " That which sees not with the eye, that by which one sees the eye's seeings, know That to be the Brahman and not this which men follow after here.",
+      "n" : "2/1/7",
+      "p" : "2/1/5",
+      "u" : "6",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यच्चक्षुषा न पश्यति येन चक्षूंषि पश्यति।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+      "verse_tl" : "yaccakṣuṣā na paśyati yena cakṣūṁṣi paśyati |\ntadeva brahma tvaṁ viddhi nedaṁ yadidamupāsate ||"
+    }, {
+      "anvaya_skt" : "यत् श्रोत्रेण न शृणोति। येन इदं श्रोत्रम् श्रुतम्। तत् एव त्वं ब्रह्म विद्धि। यत् इदं उपासते इदं न ॥",
+      "anvaya_tl" : "yat śrotreṇa na śṛṇoti | yena idaṁ śrotram śrutam | tat eva tvaṁ brahma viddhi | yat idaṁ upāsate idaṁ na ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.7.mp3",
+      "auro_md" : "That which hears not with the ear,[^3] that by which the ear's hearing is heard, know That to be the Brahman and not this which men follow after here.\n\n[^3]: Or, \"that which one hears not with the ear\".",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "with the ear",
+        "word_skt" : "श्रोत्रेण",
+        "word_tl" : "śrotreṇa"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "hears",
+        "word_skt" : "ष्र्इणोति",
+        "word_tl" : "ṣriṇoti"
+      }, {
+        "meaning_en" : "that by which",
+        "word_skt" : "येन",
+        "word_tl" : "yena"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "the ear's hearing",
+        "word_skt" : "श्रोत्रम्",
+        "word_tl" : "śrotram"
+      }, {
+        "meaning_en" : "is heard",
+        "word_skt" : "श्रुतम्",
+        "word_tl" : "śrutam"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "you",
+        "word_skt" : "त्वम्",
+        "word_tl" : "tvam"
+      }, {
+        "meaning_en" : "the Brahman",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "know to be",
+        "word_skt" : "विद्धि",
+        "word_tl" : "viddhi"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "men follow after",
+        "word_skt" : "उपासते",
+        "word_tl" : "upāsate"
+      } ],
+      "hindi_explain" : "७.\t'वह' जो श्रोत्र (कान) के द्वारा नहीं सुनता,<sup>३</sup> 'वह' जिसके द्वारा इस श्रोत्र की क्रिया को सुना जाता है, 'उसे' ही तुम 'ब्रह्म' जानो, ना कि इसे जिसकी मनुष्य यहां उपासना करते हैं।",
+      "meaning_en" : " That which hears not with the ear, that by which the ear's hearing is heard, know That to be the Brahman and not this which men follow after here.",
+      "n" : "2/1/8",
+      "p" : "2/1/6",
+      "u" : "7",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिदं श्रुतम्‌।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+      "verse_tl" : "yacchrotreṇa na śṛṇoti yena śrotramidaṁ śrutam |\ntadeva brahma tvaṁ viddhi nedaṁ yadidamupāsate ||"
+    }, {
+      "anvaya_skt" : "यत् प्राणेन न प्राणिति। येन प्राणः प्रणीयते। तत् एव त्वं ब्रह्म विद्धि। यत् इदं उपासते इदं न ॥",
+      "anvaya_tl" : "yat prāṇena na prāṇiti | yena prāṇaḥ praṇīyate | tat eva tvaṁ brahma viddhi | yat idaṁ upāsate idaṁ na ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.8.mp3",
+      "auro_md" : "That which breathes not with the breath,[^4] that by which the life-breath is led forward in its paths, know That to be the Brahman and not this which men follow after here.\n\n[^4]: Or, \"that which one breathes not (i.e. smells not) with the breath\".",
+      "cname_skt" : "प्रथमः खन्दः",
+      "cname_tl" : "prathamaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "with the breath",
+        "word_skt" : "प्राणेन",
+        "word_tl" : "prāṇena"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "breathes",
+        "word_skt" : "प्राणिति",
+        "word_tl" : "prāṇiti"
+      }, {
+        "meaning_en" : "that by which",
+        "word_skt" : "येन",
+        "word_tl" : "yena"
+      }, {
+        "meaning_en" : "the life -breath",
+        "word_skt" : "प्राणः",
+        "word_tl" : "prāṇaḥ"
+      }, {
+        "meaning_en" : "is led forward in its paths",
+        "word_skt" : "प्रणीयते",
+        "word_tl" : "praṇīyate"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "you",
+        "word_skt" : "त्वम्",
+        "word_tl" : "tvam"
+      }, {
+        "meaning_en" : "the Brahman",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "know to be",
+        "word_skt" : "विद्धि",
+        "word_tl" : "viddhi"
+      }, {
+        "meaning_en" : "which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "men follow after",
+        "word_skt" : "उपासते",
+        "word_tl" : "upāsate"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      } ],
+      "hindi_explain" : "८.\t'वह' जो श्वास के द्वारा श्वास नहीं लेता,<sup>४</sup> जिसके द्वारा प्राण-वायु स्वयं अपने पथ पर आगे ले जाया जाता है, 'उसे' ही तुम 'ब्रह्म' जानो, न कि इसे जिसकी मनुष्य यहां उपासना करते हैं।\n<sup>१</sup> अथवा, ''जिसका व्यक्ति मन के द्वारा चिन्तन नहीं करता है ।'' \n<sup>२</sup> अथवा, ''जिसे व्यक्ति चक्षु के द्वारा नहीं देखता है ।‘’ \n<sup>३</sup> अथवा, ''जिसका व्यक्ति कर्ण के द्वारा श्रवण नहीं करता है । ''\n<sup>४</sup>अथवा, ''जिसका व्यक्ति श्वास के द्वारा श्वसन नहीं करता।'' (अर्थात् सूँघता नहीं है।)''",
+      "meaning_en" : " That which breathes not with the breath, that by which the life -breath is led forward in its paths, know That to be the Brahman and not this which men follow after here.",
+      "n" : "2/2/1",
+      "p" : "2/1/7",
+      "u" : "8",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यत्प्राणेन न प्राणिति येन प्राणः प्रणीयते।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+      "verse_tl" : "yatprāṇena na prāṇiti yena prāṇaḥ praṇīyate |\ntadeva brahma tvaṁ viddhi nedaṁ yadidamupāsate ||"
+    } ]
+  }, {
+    "n" : "2/3",
+    "name_skt" : "द्वितीयः खण्डः",
+    "name_tl" : "dvitīyaḥ khandaḥ",
+    "p" : "2/1",
+    "u" : "2",
+    "verses" : [ {
+      "anvaya_skt" : "यदि सुवेद इति मन्यसे नूनं त्वं दभ्रम् एव अपि रूपं वेत्थ। अपि च देवेषु अस्य यत् एव। अथ नु ते मीमांस्यं एव मन्ये वीदितम् ॥",
+      "anvaya_tl" : "yadi suveda iti manyase nūnaṁ tvaṁ dabhram eva api rūpaṁ vettha | api ca deveṣu asya yat eva | atha nu te mīmāṁsyaṁ eva manye vīditam ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.1.mp3",
+      "auro_md" : "If thou thinkest that thou knowest It well, little indeed dost thou know the form of the Brahman. That of It which is thou, that of It which is in the gods, this thou hast to think out. I think It known.",
+      "cname_skt" : "द्वितीयः खन्दः",
+      "cname_tl" : "dvitīyaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "knowest It well",
+        "word_skt" : "सुवेद",
+        "word_tl" : "suveda"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "thou thinkest",
+        "word_skt" : "मन्यसे",
+        "word_tl" : "manyase"
+      }, {
+        "meaning_en" : "surely",
+        "word_skt" : "नूनम्",
+        "word_tl" : "nūnam"
+      }, {
+        "meaning_en" : "dost thou",
+        "word_skt" : "त्वम्",
+        "word_tl" : "tvam"
+      }, {
+        "meaning_en" : "very little",
+        "word_skt" : "दभ्रम्",
+        "word_tl" : "dabhram"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "also",
+        "word_skt" : "अपि",
+        "word_tl" : "api"
+      }, {
+        "meaning_en" : "the form",
+        "word_skt" : "रूपम्",
+        "word_tl" : "rūpam"
+      }, {
+        "meaning_en" : "know",
+        "word_skt" : "वेत्थ",
+        "word_tl" : "vettha"
+      }, {
+        "meaning_en" : "also",
+        "word_skt" : "अपि",
+        "word_tl" : "api"
+      }, {
+        "meaning_en" : "and",
+        "word_skt" : "च",
+        "word_tl" : "ca"
+      }, {
+        "meaning_en" : "in the gods",
+        "word_skt" : "देवेषु",
+        "word_tl" : "deveṣu"
+      }, {
+        "meaning_en" : "of It",
+        "word_skt" : "अस्य",
+        "word_tl" : "asya"
+      }, {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "surely",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "अथ",
+        "word_tl" : "atha"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "नु",
+        "word_tl" : "nu"
+      }, {
+        "meaning_en" : "thou",
+        "word_skt" : "ते",
+        "word_tl" : "te"
+      }, {
+        "meaning_en" : "hast to think out",
+        "word_skt" : "मीमांस्यम्",
+        "word_tl" : "mīmāṁsyam"
+      }, {
+        "meaning_en" : "alone",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "I think",
+        "word_skt" : "मन्ये",
+        "word_tl" : "manye"
+      }, {
+        "meaning_en" : "(It) known",
+        "word_skt" : "वीदितम्",
+        "word_tl" : "vīditam"
+      } ],
+      "hindi_explain" : "१.\tयदि तुम मानते हो कि तुम 'उसे' भली प्रकार जानते हो तो निस्संदेह, तुम स्वल्पमात्र ही 'ब्रह्म' के स्वरूप को जानते हो। उसका 'वह' रूप जो तुम हो, उसका 'वह' रूप जो देवगणों में है, उसकी तुम्हें मीमांसा करनी है। तब 'उसे' मैं ज्ञात मानता हूँ।",
+      "meaning_en" : " If thou thinkest that thou knowest It well, little indeed dost thou know the form of the Brahman. That of It which is thou, that of It which is in the gods, this thou hast to think out. I think It known.",
+      "n" : "2/2/2",
+      "p" : "2/1/8",
+      "u" : "1",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यदि मन्यसे सुवेदेति दभ्रमेवापि नूनं त्वं वेत्थ ब्रह्मणो रूपम्‌।\nयदस्य त्वं यदस्य देवेष्वथ नु मीमांस्यमेव ते मन्ये विदितम्‌ ॥",
+      "verse_tl" : "yadi manyase suvedeti dabhramevāpi nūnaṁ tvaṁ vettha brahmaṇo rūpam |\nyadasya tvaṁ yadasya deveṣvatha nu mīmāṁsyameva te manye viditam ||"
+    }, {
+      "anvaya_skt" : "अहं सुवेद इति न मन्ये। न वेद इति न वेद च। नः यः न उ न वेद वेद इति च तत् वेद। सः  तत् वेद ॥",
+      "anvaya_tl" : "ahaṁ suveda iti na manye | na veda iti na veda ca | naḥ yaḥ  na u na veda veda iti ca tat veda|  ( saḥ ) tat veda ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.2.mp3",
+      "auro_md" : "I think not that I know It well and yet I know that It is not unknown to me. He of us who knows It, knows That; he knows that It is not unknown to him.",
+      "cname_skt" : "द्वितीयः खन्दः",
+      "cname_tl" : "dvitīyaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "I",
+        "word_skt" : "अहम्",
+        "word_tl" : "aham"
+      }, {
+        "meaning_en" : "know (It) well",
+        "word_skt" : "सुवेद",
+        "word_tl" : "suveda"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "think",
+        "word_skt" : "मन्ये",
+        "word_tl" : "manye"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "know",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "know",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      }, {
+        "meaning_en" : "and",
+        "word_skt" : "च",
+        "word_tl" : "ca"
+      }, {
+        "meaning_en" : "among us",
+        "word_skt" : "नः",
+        "word_tl" : "naḥ"
+      }, {
+        "meaning_en" : "who",
+        "word_skt" : "यः",
+        "word_tl" : "yaḥ"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "उ",
+        "word_tl" : "u"
+      }, {
+        "meaning_en" : "not",
+        "word_skt" : "न",
+        "word_tl" : "na"
+      }, {
+        "meaning_en" : "knows",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      }, {
+        "meaning_en" : "knows",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "and",
+        "word_skt" : "च",
+        "word_tl" : "ca"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "knows",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "knows",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      } ],
+      "hindi_explain" : "२.\tमैं नहीं मानता कि मैं 'उसे' (परतत्त्व को) भली प्रकार जानता हूँ, तो भी मैं जानता हूँ कि 'वह' मेरे लिए अज्ञात नहीं है। हम लोगों में जो 'इसे' जानता है, वह उस 'परतत्त्व' को जानता है; वह जानता है कि 'यह' उसके लिए अज्ञात नहीं है।",
+      "meaning_en" : " I think not that I know It well and yet I know that It is not unknown to me. He of us who knows It, knows That; he knows that It is not unknown to him.",
+      "n" : "2/2/3",
+      "p" : "2/2/1",
+      "u" : "2",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "नाहं मन्ये सुवेदेति नो न वेदेति वेद च।\nयो नस्तद्वेद तद्वेद नो न वेदेति वेद च ॥",
+      "verse_tl" : "nāhaṁ manye suvedeti no na vedeti veda ca |\nyo nastadveda tadveda no na vedeti veda ca ||"
+    }, {
+      "anvaya_skt" : "यस्य अमतं  तस्य मतं यस्य मतं सः न वेद।  यस्मात्  विजानताम् अविज्ञातम्  अविजानताम् विज्ञातम् ॥",
+      "anvaya_tl" : "yasya amataṁ  tasya mataṁ yasya mataṁ saḥ na veda | ( yasmāt ) vijānatām avijñātam  avijānatām vijñātam ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.3.mp3",
+      "auro_md" : "He by whom It is not thought out, has the thought of It; he by whom It is thought out, knows It not. It is unknown to the discernment of those who discern of It, by those who seek not to discern of It, It is discerned.",
+      "cname_skt" : "द्वितीयः खन्दः",
+      "cname_tl" : "dvitīyaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "by whom",
+        "word_skt" : "यस्य",
+        "word_tl" : "yasya"
+      }, {
+        "meaning_en" : "It is not thought out",
+        "word_skt" : "अमतम्",
+        "word_tl" : "amatam"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "तस्य",
+        "word_tl" : "tasya"
+      }, {
+        "meaning_en" : "has the thought of It",
+        "word_skt" : "मतम्",
+        "word_tl" : "matam"
+      }, {
+        "meaning_en" : "by whom",
+        "word_skt" : "यस्य",
+        "word_tl" : "yasya"
+      }, {
+        "meaning_en" : "It is thought out",
+        "word_skt" : "मतम्",
+        "word_tl" : "matam"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "knows It not",
+        "word_skt" : "न वेद",
+        "word_tl" : "na veda"
+      }, {
+        "meaning_en" : "(to the discernment) of those who discern of It",
+        "word_skt" : "विजानताम्",
+        "word_tl" : "vijānatām"
+      }, {
+        "meaning_en" : "It is unknown",
+        "word_skt" : "अविज्ञातम्",
+        "word_tl" : "avijñātam"
+      }, {
+        "meaning_en" : "by those who seek not to discern of It",
+        "word_skt" : "अविजानताम्",
+        "word_tl" : "avijānatām"
+      }, {
+        "meaning_en" : "It is discerned",
+        "word_skt" : "विज्ञातम्",
+        "word_tl" : "vijñātam"
+      } ],
+      "hindi_explain" : "३.\tजिसके द्वारा इसको 'विचारबद्ध' नहीं किया जाता, उसके पास 'इसका' विचार है; जिसके द्वारा 'इसका' मननपूर्वक विचार किया गया है वह 'इसे' नहीं जानता। जो 'इसका' विवेचन करते हैं उनके लिए ‘यह' अविज्ञात है, जो 'इसके' विवेचन का प्रयत्न नहीं करते, उनके लिए 'यह' विज्ञात है।",
+      "meaning_en" : " He by whom It is not thought out, has the thought of It; he by whom It is thought out, knows It not. It is unknown to the discernment of those who discern of It, by those who seek not to discern of It, It is discerned.",
+      "n" : "2/2/4",
+      "p" : "2/2/2",
+      "u" : "3",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यस्यामतं तस्य मतं मतं यस्य न वेद सः।\nअविज्ञातं विजानतां विज्ञातमविजानताम्‌ ॥",
+      "verse_tl" : "yasyāmataṁ tasya mataṁ mataṁ yasya na veda saḥ |\navijñātaṁ vijānatāṁ vijñātamavijānatām ||"
+    }, {
+      "anvaya_skt" : "प्रतिबोधविदितं  मतं  हि अमृतत्वं विन्दते। आत्मना वीर्यं विन्दते। विद्यया अमृतं  विन्दते ॥",
+      "anvaya_tl" : "pratibodhaviditaṁ  mataṁ  hi amṛtatvaṁ vindate | ātmanā vīryaṁ vindate | vidyayā amṛtaṁ  vindate ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.4.mp3",
+      "auro_md" : "When It is known by perception that reflects It, then one has the thought of It, for one finds immortality; by the self one finds the force to attain and by the knowledge one finds immortality.",
+      "cname_skt" : "द्वितीयः खन्दः",
+      "cname_tl" : "dvitīyaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "known by perception that reflects",
+        "word_skt" : "प्रतिबोधविदितम्",
+        "word_tl" : "pratibodhaviditam"
+      }, {
+        "meaning_en" : "has the thought (of It)",
+        "word_skt" : "मतम्",
+        "word_tl" : "matam"
+      }, {
+        "meaning_en" : "since / for",
+        "word_skt" : "हि",
+        "word_tl" : "hi"
+      }, {
+        "meaning_en" : "immortality",
+        "word_skt" : "अमृतत्वम्",
+        "word_tl" : "amṛtatvam"
+      }, {
+        "meaning_en" : "one finds",
+        "word_skt" : "विन्दते",
+        "word_tl" : "vindate"
+      }, {
+        "meaning_en" : "by the self",
+        "word_skt" : "आत्मना",
+        "word_tl" : "ātmanā"
+      }, {
+        "meaning_en" : "the force (to attain)",
+        "word_skt" : "वीर्यम्",
+        "word_tl" : "vīryam"
+      }, {
+        "meaning_en" : "one finds",
+        "word_skt" : "विन्दते",
+        "word_tl" : "vindate"
+      }, {
+        "meaning_en" : "by the knowledge",
+        "word_skt" : "विद्यया",
+        "word_tl" : "vidyayā"
+      }, {
+        "meaning_en" : "immortality",
+        "word_skt" : "अमृतम्",
+        "word_tl" : "amṛtam"
+      }, {
+        "meaning_en" : "one finds",
+        "word_skt" : "विन्दते",
+        "word_tl" : "vindate"
+      } ],
+      "hindi_explain" : "जब यह ऐसे प्रत्यक्ष बोध के द्वारा जाना जाता है जो ‘इसे’ प्रतिबिम्बित करता है, तभी व्यक्ति 'इसका’ विचार बना पाता है, क्योंकि उससे व्यक्ति को अमृतत्व की उपलब्धि होती है; उपलब्धि के लिए व्यक्ति को आत्मा से वीर्य (शक्ति) प्राप्त होता है तथा विद्या से अमृतत्व की प्राप्ति होती है।",
+      "meaning_en" : " When It is known by perception that reflects It, then one has the thought of It, for one finds immortality; by the self one finds the force to attain and by the knowledge one finds immortality.",
+      "n" : "2/2/5",
+      "p" : "2/2/3",
+      "u" : "4",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "प्रतिबोधविदितं मतममृतत्वं हि विन्दते।\nआत्मना विन्दते वीर्यं विद्यया विन्दतेऽमृतम्‌ ॥",
+      "verse_tl" : "pratibodhaviditaṁ matamamṛtatvaṁ hi vindate |\nātmanā vindate vīryaṁ vidyayā vindate'mṛtam ||"
+    }, {
+      "anvaya_skt" : "इह अवेदीत् चेत् अथ सत्यम् अस्तिन्।  इह न अवेदीत् चेत्  तदा  महती विनष्टिः।  तस्मात्  धीराः भूतेषु भूतेषु विचित्य अस्मात् लोकात् प्रेत्य अमृताः भवन्ति॥",
+      "anvaya_tl" : "iha avedīt cet atha satyam astin |  iha na avedīt cet ( tadā ) mahatī vinaṣṭiḥ| ( tasmāt ) dhīrāḥ bhūteṣu bhūteṣu vicitya asmāt lokāt pretya amṛtāḥ bhavanti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.5.mp3",
+      "auro_md" : "If here one comes to that knowledge, then one truly is; if here one comes not to the knowledge, then great is the perdition. The wise distinguish That in all kinds of becomings and they pass forward from this world and become immortal.",
+      "cname_skt" : "द्वितीयः खन्दः",
+      "cname_tl" : "dvitīyaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "here",
+        "word_skt" : "इह",
+        "word_tl" : "iha"
+      }, {
+        "meaning_en" : "(one) comes to that knowledge",
+        "word_skt" : "अवेदीत्",
+        "word_tl" : "avedīt"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "चेत्",
+        "word_tl" : "cet"
+      }, {
+        "meaning_en" : "then",
+        "word_skt" : "अथ",
+        "word_tl" : "atha"
+      }, {
+        "meaning_en" : "one truly is",
+        "word_skt" : "सत्यम् अस्ति",
+        "word_tl" : "satyam asti"
+      }, {
+        "meaning_en" : "here",
+        "word_skt" : "इह",
+        "word_tl" : "iha"
+      }, {
+        "meaning_en" : "comes not to the knowledge",
+        "word_skt" : "न अवेदीत्",
+        "word_tl" : "na avedīt"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "चेत्",
+        "word_tl" : "cet"
+      }, {
+        "meaning_en" : "(then) great",
+        "word_skt" : "महती",
+        "word_tl" : "mahatī"
+      }, {
+        "meaning_en" : "is the perdition",
+        "word_skt" : "विनष्टिः",
+        "word_tl" : "vinaṣṭiḥ"
+      }, {
+        "meaning_en" : "the wise",
+        "word_skt" : "धीराः",
+        "word_tl" : "dhīrāḥ"
+      }, {
+        "meaning_en" : "in all kinds of becomings",
+        "word_skt" : "भूतेषु भूतेषु",
+        "word_tl" : "bhūteṣu bhūteṣu"
+      }, {
+        "meaning_en" : "distinguishing (That)",
+        "word_skt" : "विचित्य",
+        "word_tl" : "vicitya"
+      }, {
+        "meaning_en" : "from this world",
+        "word_skt" : "अस्मात् लोकात् ",
+        "word_tl" : "asmāt lokāt"
+      }, {
+        "meaning_en" : "having passed forward",
+        "word_skt" : "प्रेत्य",
+        "word_tl" : "pretya"
+      }, {
+        "meaning_en" : "immortal",
+        "word_skt" : "अमृताः",
+        "word_tl" : "amṛtāḥ"
+      }, {
+        "meaning_en" : "(they) become",
+        "word_skt" : "भवन्ति",
+        "word_tl" : "bhavanti"
+      } ],
+      "hindi_explain" : "यदि व्यक्ति यहीं (इसी लोक में) उस ज्ञान को प्राप्त कर लेता है तो व्यक्ति का अस्तित्व सार्थक है, यदि यहीं उस ज्ञान की प्राप्ति नहीं की, तो महाविनाश है। ज्ञानीजन विविध भूत-पदार्थों में 'उस' का विवेचन कर, इस लोक से प्रयाण करके अमर हो जाते हैं।",
+      "meaning_en" : " If here one comes to that knowledge, then one truly is; if here one comes not to the knowledge, then great is the perdition. The wise distinguish That in all kinds of becomings and they pass forward from this world and become immortal.",
+      "n" : "2/3/1",
+      "p" : "2/2/4",
+      "u" : "5",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "इह चेदवेदीदथ सत्यमस्ति। न चेदिहावेदीन्महती विनष्टिः।\nभूतेषु भूतेषु विचित्य धीराः। प्रेत्यास्माल्लोकादमृता भवन्ति ॥",
+      "verse_tl" : "iha cedavedīdatha satyamasti | na cedihāvedīnmahatī vinaṣṭiḥ |\nbhūteṣu bhūteṣu vicitya dhīrāḥ | pretyāsmāllokādamṛtā bhavanti ||"
+    } ]
+  }, {
+    "n" : "2/4",
+    "name_skt" : "तृतीय खण्डः",
+    "name_tl" : "tṛtīya khandaḥ",
+    "p" : "2/2",
+    "u" : "3",
+    "verses" : [ {
+      "anvaya_skt" : "ब्रह्म ह देवेभ्यः  विजिग्ये। तस्य  ब्रह्मणः विजये देवाः अमहीयन्त ह। ते ऐक्शन्त विजयः अस्माकम् एव अस्माकम् एव अयं महिमा  च  इति ॥",
+      "anvaya_tl" : "brahma ha devebhyaḥ  vijigye | tasya  brahmaṇaḥ vijaye devāḥ amahīyanta ha | te aikśanta vijayaḥ asmākam eva asmākam eva ayaṁ mahimā ( ca ) iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.1.mp3",
+      "auro_md" : "The Eternal conquered for the gods and in the victory of the Eternal the gods grew to greatness. This was what they saw: \"Ours the victory, ours the greatness.",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Eternal",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "ह",
+        "word_tl" : "ha"
+      }, {
+        "meaning_en" : "for the gods",
+        "word_skt" : "देवेभ्यः",
+        "word_tl" : "devebhyaḥ"
+      }, {
+        "meaning_en" : "conquered",
+        "word_skt" : "विजिग्ये",
+        "word_tl" : "vijigye"
+      }, {
+        "meaning_en" : "of that",
+        "word_skt" : "तस्य",
+        "word_tl" : "tasya"
+      }, {
+        "meaning_en" : "Eternal",
+        "word_skt" : "ब्रह्मणः",
+        "word_tl" : "brahmaṇaḥ"
+      }, {
+        "meaning_en" : "in the victory",
+        "word_skt" : "विजये",
+        "word_tl" : "vijaye"
+      }, {
+        "meaning_en" : "gods",
+        "word_skt" : "देवाः",
+        "word_tl" : "devāḥ"
+      }, {
+        "meaning_en" : "grew to greatness",
+        "word_skt" : "अमहीयन्त",
+        "word_tl" : "amahīyanta"
+      }, {
+        "meaning_en" : "they",
+        "word_skt" : "ते",
+        "word_tl" : "te"
+      }, {
+        "meaning_en" : "saw",
+        "word_skt" : "ऐक्शन्त",
+        "word_tl" : "aikśanta"
+      }, {
+        "meaning_en" : "the victory, ours the greatness",
+        "word_skt" : "विजयः",
+        "word_tl" : "vijayaḥ"
+      }, {
+        "meaning_en" : "ours",
+        "word_skt" : "अस्माकम्",
+        "word_tl" : "asmākam"
+      }, {
+        "meaning_en" : "alone",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "ours",
+        "word_skt" : "अस्माकम्",
+        "word_tl" : "asmākam"
+      }, {
+        "meaning_en" : "alone",
+        "word_skt" : "एव",
+        "word_tl" : "eva"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "अयम्",
+        "word_tl" : "ayam"
+      }, {
+        "meaning_en" : "greatness",
+        "word_skt" : "महिमा",
+        "word_tl" : "mahimā"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      } ],
+      "hindi_explain" : "'ब्रह्म' ने देवगणों के लिए विजय प्राप्त की तथा 'ब्रह्म' की उस विजय में देवगण महिमान्वित हुए। उन्हें दिखाई पड़ा कि \"यह विजय हमारी है, यह हमारी ही महिमा है ।”",
+      "meaning_en" : " The Eternal conquered for the gods and in the victory of the Eternal the gods grew to greatness. They saw, “Ours the victory, ours the greatness.”",
+      "n" : "2/3/2",
+      "p" : "2/2/5",
+      "u" : "1",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो विजये देवा अमहीयन्त।\nत ऐक्शन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति ॥",
+      "verse_tl" : "brahma ha devebhyo vijigye tasya ha brahmaṇo vijaye devā amahīyanta |\nta aikśantāsmākamevāyaṁ vijayo'smākamevāyaṁ mahimeti ||"
+    }, {
+      "anvaya_skt" : "ब्रह्म  ह एषां तत्  विजज्ञौ। तेभ्यः  सः  प्रादुर्बभूव। तत् इदं यक्षं किम् इति न व्यजानत ॥",
+      "anvaya_tl" : "(brahma) ha eṣāṁ tat  vijajñau | tebhyaḥ  (saḥ) prādurbabhūva | tat idaṁ yakṣaṁ kim iti na vyajānata ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.2.mp3",
+      "auro_md" : "The Eternal knew their thought and appeared before them; and they knew not what was this mighty Daemon.",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Eternal",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "(brahma)"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "ह",
+        "word_tl" : "ha"
+      }, {
+        "meaning_en" : "their",
+        "word_skt" : "एषाम्",
+        "word_tl" : "eṣām"
+      }, {
+        "meaning_en" : "that thought",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "knew",
+        "word_skt" : "विजज्ञौ",
+        "word_tl" : "vijajñau"
+      }, {
+        "meaning_en" : "before them",
+        "word_skt" : "तेभ्यः",
+        "word_tl" : "tebhyaḥ"
+      }, {
+        "meaning_en" : "appeared",
+        "word_skt" : "प्रादुर्बभूव",
+        "word_tl" : "prādurbabhūva"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "mighty Daemon",
+        "word_skt" : "यक्षम्",
+        "word_tl" : "yakṣam"
+      }, {
+        "meaning_en" : "what",
+        "word_skt" : "किम्",
+        "word_tl" : "kim"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "they knew not",
+        "word_skt" : "न व्यजानत",
+        "word_tl" : "na vyajānata"
+      } ],
+      "hindi_explain" : "वह 'ब्रह्म-तत्त्व' देवों के इस मनोभाव को जान गया और उनके सम्मुख प्रकट हुआ; और वे नहीं पहचान सके कि यह बलशाली यक्ष क्या है।",
+      "meaning_en" : " The Eternal knew their thought and appeared before them; and they knew not what was this mighty Daemon.",
+      "n" : "2/3/3",
+      "p" : "2/3/1",
+      "u" : "2",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तद्धैषां विजज्ञौ तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत किमिदं यक्षमिति ॥",
+      "verse_tl" : "taddhaiṣāṁ vijajñau tebhyo ha prādurbabhūva tanna vyajānata kimidaṁ yakṣamiti ||"
+    }, {
+      "anvaya_skt" : "ते अग्निम् अब्रुबन् जातवेदः किम् एतत् यक्षम् इति एतत् विजानीहि। तथा इति ॥",
+      "anvaya_tl" : "te agnim abruban jātavedaḥ kim etat yakṣam iti etat vijānīhi | tathā iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.3.mp3",
+      "auro_md" : "They said to Agni, \"O thou that knowest all things born, learn of this thing, what may be this mighty Daemon,\" and he said, \"So be it.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "they",
+        "word_skt" : "ते",
+        "word_tl" : "te"
+      }, {
+        "meaning_en" : "to Agni",
+        "word_skt" : "अग्निम्",
+        "word_tl" : "agnim"
+      }, {
+        "meaning_en" : "said",
+        "word_skt" : "अब्रुबन्",
+        "word_tl" : "abruban"
+      }, {
+        "meaning_en" : "O thou that knowest all things born",
+        "word_skt" : "जातवेदः",
+        "word_tl" : "jātavedaḥ"
+      }, {
+        "meaning_en" : "what",
+        "word_skt" : "किम्",
+        "word_tl" : "kim"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "mighty Daemon",
+        "word_skt" : "यक्षम्",
+        "word_tl" : "yakṣam"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "learn of",
+        "word_skt" : "विजानीहि",
+        "word_tl" : "vijānīhi"
+      }, {
+        "meaning_en" : "so be it",
+        "word_skt" : "तथा इति",
+        "word_tl" : "tathā iti"
+      } ],
+      "hindi_explain" : "उन्होने अग्निदेव से कहा, ''हे समस्त उद्भवों को जानने वाले देव (जातवेदा)! इस विषय में जानकारी प्राप्त करो कि यह बलशाली यक्ष क्या है?” अग्निदेव ने कहा, ''तथा इति” (मैं वैसा ही करूंगा)।",
+      "meaning_en" : " They said to Agni, “O thou that knowest all things born, learn of this thing, what may be this mighty Daemon,” and he said, “So be it.”",
+      "n" : "2/3/4",
+      "p" : "2/3/2",
+      "u" : "3",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि किमेतद्यक्षमिति तथेति ॥",
+      "verse_tl" : "te'gnimabruvan jātaveda etadvijānīhi kimetadyakṣamiti tatheti ||"
+    }, {
+      "anvaya_skt" : "अग्निः  तत् अभ्यद्रवत्। तमभ्यवदत् कः असि इति। अहं अग्निः वै अस्मि जातवेदाः अहम् अस्मि इति अब्रवीत् ॥",
+      "anvaya_tl" : "(agniḥ ) tat abhyadravat | tamabhyavadat kaḥ asi iti| ahaṁ agniḥ vai asmi jātavedāḥ aham asmi iti abravīt ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.4.mp3",
+      "auro_md" : "He rushed toward the Eternal and It said to him, \"Who art thou?\" \"I am Agni,\" he said, \"I am he that knows all things born.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Fire god",
+        "word_skt" : "अग्निः",
+        "word_tl" : "agniḥ"
+      }, {
+        "meaning_en" : "towards That (the mighty daemon)",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "rushed",
+        "word_skt" : "अभ्यद्रवत्",
+        "word_tl" : "abhyadravat"
+      }, {
+        "meaning_en" : "to him",
+        "word_skt" : "तम्",
+        "word_tl" : "tam"
+      }, {
+        "meaning_en" : "It said",
+        "word_skt" : "अभ्यवदत्",
+        "word_tl" : "abhyavadat"
+      }, {
+        "meaning_en" : "who",
+        "word_skt" : "कः",
+        "word_tl" : "kaḥ"
+      }, {
+        "meaning_en" : "art thou",
+        "word_skt" : "असि",
+        "word_tl" : "asi"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "I am Agni",
+        "word_skt" : "अहम् अग्निः अस्मि",
+        "word_tl" : "aham agniḥ asmi"
+      }, {
+        "meaning_en" : "I",
+        "word_skt" : "अहम् वै",
+        "word_tl" : "aham vai"
+      }, {
+        "meaning_en" : "am he that knows all things born",
+        "word_skt" : "जातवेदाः अस्मि",
+        "word_tl" : "jātavedāḥ asmi"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "he said",
+        "word_skt" : "अब्रवीत्",
+        "word_tl" : "abravīt"
+      } ],
+      "hindi_explain" : "वह उस यक्ष की ओर द्रुतगति से गया और ‘उसने' अग्नि से कहा, ''तुम कौन हो? ''इसने कहा, ''मैं अग्नि हूँ, मैं समस्त उद्भवों को जानने वाला (जातवेदा) हूँ।''",
+      "meaning_en" : " He rushed towards the Eternal and It said to him, “Who art thou?” “I am Agni,” he said, “I am he that knows all things born.”",
+      "n" : "2/3/5",
+      "p" : "2/3/3",
+      "u" : "4",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तदभ्यद्रवत्तमभ्यवदत्कोऽसीत्यग्निर्वा अहमस्मीत्यब्रवीज्जातवेदा वा अहमस्मीति ॥",
+      "verse_tl" : "tadabhyadravattamabhyavadatko'sītyagnirvā ahamasmītyabravījjātavedā vā ahamasmīti ||"
+    }, {
+      "anvaya_skt" : "तस्मिन् त्वयि किं वीर्यम् इति। पृथिव्याम् इदं यत्  अस्ति  इदं सर्वम् अपि दहेयम् इति ॥",
+      "anvaya_tl" : "tasmin tvayi kiṁ vīryam iti | pṛthivyām idaṁ yat ( asti ) idaṁ sarvam api daheyam iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.5.mp3",
+      "auro_md" : "\"Since such thou art, what is the force in thee?\" \"Even all this I could burn, all that is upon the earth.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "such being the case",
+        "word_skt" : "तस्मिन्",
+        "word_tl" : "tasmin"
+      }, {
+        "meaning_en" : "in thee",
+        "word_skt" : "त्वयि",
+        "word_tl" : "tvayi"
+      }, {
+        "meaning_en" : "what",
+        "word_skt" : "किम्",
+        "word_tl" : "kim"
+      }, {
+        "meaning_en" : "the force",
+        "word_skt" : "वीर्यम्",
+        "word_tl" : "vīryam"
+      }, {
+        "meaning_en" : "thus (the Yaksha asked Agni)",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "upon the earth",
+        "word_skt" : "पृथिव्याम्",
+        "word_tl" : "pṛthivyām"
+      }, {
+        "meaning_en" : "all this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "is",
+        "word_skt" : "अस्ति",
+        "word_tl" : "asti"
+      }, {
+        "meaning_en" : "all this",
+        "word_skt" : "इदम् सर्वम्",
+        "word_tl" : "idam sarvam"
+      }, {
+        "meaning_en" : "even",
+        "word_skt" : "अपि",
+        "word_tl" : "api"
+      }, {
+        "meaning_en" : "I could burn",
+        "word_skt" : "दहेयम्",
+        "word_tl" : "daheyam"
+      }, {
+        "meaning_en" : "thus (the Agni replied to the Yaksha)",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      } ],
+      "hindi_explain" : "''यदि तुम ऐसे हो, तो तुम्हारे अन्दर क्या शक्ति (वीर्य) है? ''इस सबको, इस पृथ्वी पर जो कुछ है, उस सबको मैं भस्म कर सकता हूँ।",
+      "meaning_en" : " “Since such thou art, what is the force in thee?” “Even all this I could burn, all that is upon the earth.”",
+      "n" : "2/3/6",
+      "p" : "2/3/4",
+      "u" : "5",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वं दहेयं यदिदं पृथिव्यामिति ॥",
+      "verse_tl" : "tasmiṁstvayi kiṁ vīryamityapīdaṁ sarvaṁ daheyaṁ yadidaṁ pṛthivyāmiti ||"
+    }, {
+      "anvaya_skt" : "एतत् दह इति  उक्त्वा  तस्मै तृणं निदधौ।  अग्निः  सर्वजवेन तत उपप्रेयाय। तत् दग्धुं न शशाक। सः ततः निवव्रृते ॥",
+      "anvaya_tl" : "etat daha iti ( uktvā ) tasmai tṛṇaṁ nidadhau | ( agniḥ ) sarvajavena tata upapreyāya | tat dagdhuṁ na śaśāka | saḥ tataḥ nivavrṛte ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.6.mp3",
+      "auro_md" : "The Eternal set before him a blade of grass: \"This burn,\" and he made towards it with all his speed, but he could not burn it. There he ceased, and turned back; \"I could not know of It, what might be this mighty Daemon.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "before him",
+        "word_skt" : "तस्मै",
+        "word_tl" : "tasmai"
+      }, {
+        "meaning_en" : "a blade of grass",
+        "word_skt" : "तृणम्",
+        "word_tl" : "tṛṇam"
+      }, {
+        "meaning_en" : "set",
+        "word_skt" : "निदधौ",
+        "word_tl" : "nidadhau"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "you burn",
+        "word_skt" : "दह",
+        "word_tl" : "daha"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "the Eternal said",
+        "word_skt" : "अवदत्",
+        "word_tl" : "avadat"
+      }, {
+        "meaning_en" : "the  Fire god",
+        "word_skt" : "अग्निः",
+        "word_tl" : "agniḥ"
+      }, {
+        "meaning_en" : "with all his speed",
+        "word_skt" : "सर्वजवेन",
+        "word_tl" : "sarvajavena"
+      }, {
+        "meaning_en" : "towards it",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "he made",
+        "word_skt" : "उपप्रेयाय",
+        "word_tl" : "upapreyāya"
+      }, {
+        "meaning_en" : "it",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "to burn",
+        "word_skt" : "दग्धुम्",
+        "word_tl" : "dagdhum"
+      }, {
+        "meaning_en" : "was  not able",
+        "word_skt" : "न शशाक",
+        "word_tl" : "na śaśāka"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "from there",
+        "word_skt" : "ततः",
+        "word_tl" : "tataḥ"
+      }, {
+        "meaning_en" : "turned back",
+        "word_skt" : "निवव्रृते",
+        "word_tl" : "nivavrṛte"
+      } ],
+      "hindi_explain" : "उसके सम्मुख उस यक्ष ने एक तिनका रख दिया; ''इसे जलाओ।'' वह अपने पूरे वेग से उसे जलाने को प्रवृत्त हुआ, किन्तु उसे जला नहीं सका। वह निश्चेष्ट हो गया और वापिस लौट आया; ''मैं नहीं जान सका कि ‘यह' बलशाली यक्ष क्या है।''",
+      "meaning_en" : " The Eternal set before him a blade of grass; “This burn;” and he made towards it with all his speed, but could not burn it. There he ceased, and turned back; “I could not know of It, what might be this mighty Daemon.”",
+      "n" : "2/3/7",
+      "p" : "2/3/5",
+      "u" : "6",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्मै तृणं निदधावेतद्दहेति तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्शमिति ॥",
+      "verse_tl" : "tasmai tṛṇaṁ nidadhāvetaddaheti tadupapreyāya sarvajavena tanna śaśāka dagdhuṁ sa tata eva nivavṛte naitadaśakaṁ vijñātuṁ yadetadyakśamiti ||"
+    }, {
+      "anvaya_skt" : "अथ वायुम् अब्रुवन् वायो किम् एतत् यक्शम् इति तथेति एतत् विजानिहि। तथा इति ॥",
+      "anvaya_tl" : "atha vāyum abruvan vāyo kim etat yakśam iti tatheti etat vijānihi| tathā iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.7.mp3",
+      "auro_md" : "Then they said to Vayu, \"O Vayu, this discern, what is this mighty Daemon.\" He said, \"So be it.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "then",
+        "word_skt" : "अथ",
+        "word_tl" : "atha"
+      }, {
+        "meaning_en" : "to Vayu",
+        "word_skt" : "वायुम्",
+        "word_tl" : "vāyum"
+      }, {
+        "meaning_en" : "they said",
+        "word_skt" : "अब्रुवन्",
+        "word_tl" : "abruvan"
+      }, {
+        "meaning_en" : "O Vayu",
+        "word_skt" : "वायो",
+        "word_tl" : "vāyo"
+      }, {
+        "meaning_en" : "what",
+        "word_skt" : "किम्",
+        "word_tl" : "kim"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "mighty Daemon",
+        "word_skt" : "यक्षम्",
+        "word_tl" : "yakṣam"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "learn of",
+        "word_skt" : "विजानिहि",
+        "word_tl" : "vijānihi"
+      }, {
+        "meaning_en" : "so be it",
+        "word_skt" : "तथे इति",
+        "word_tl" : "tathe iti"
+      } ],
+      "hindi_explain" : "तब वे वायुदेव से बोले, ''हे वायु! यह पता करो यह बलशाली यक्ष क्या है? वायु ने कहा, ''तथा इति।''",
+      "meaning_en" : " Then they said to Vayu, “O Vayu, this discern, what is this mighty Daemon.” He said, “So be it.”",
+      "n" : "2/3/8",
+      "p" : "2/3/6",
+      "u" : "7",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "अथ वायुमब्रुवन् वायवेतद्विजानीहि किमेतद्यक्शमिति तथेति ॥",
+      "verse_tl" : "atha vāyumabruvan vāyavetadvijānīhi kimetadyakśamiti tatheti ||"
+    }, {
+      "anvaya_skt" : "वायुः  तत् अभ्यद्रवत्। तम् अभ्यद्रवत् कः असि इति। वायुः वै अहम् अस्मि इति मातरिश्वा वै अहम् अस्मि इति अब्रवीत् ॥",
+      "anvaya_tl" : "(vāyuḥ) tat abhyadravat | tam abhyadravat kaḥ asi iti | vāyuḥ vai aham asmi iti mātariśvā vai aham asmi iti abravīt ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.8.mp3",
+      "auro_md" : "He rushed upon That; It said to him, \"Who art thou?\" \"I am Vayu,\" he said, \"and I am he that expands in the Mother of things.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Wind god",
+        "word_skt" : "वायुः",
+        "word_tl" : "vāyuḥ"
+      }, {
+        "meaning_en" : "upon That",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "rushed",
+        "word_skt" : "अभ्यद्रवत्",
+        "word_tl" : "abhyadravat"
+      }, {
+        "meaning_en" : "to him",
+        "word_skt" : "तम्",
+        "word_tl" : "tam"
+      }, {
+        "meaning_en" : "(the Yalsha) said",
+        "word_skt" : "अभ्यवदत्",
+        "word_tl" : "abhyavadat"
+      }, {
+        "meaning_en" : "who art thou",
+        "word_skt" : "कः असि",
+        "word_tl" : "kaḥ asi"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "I",
+        "word_skt" : "अहम्",
+        "word_tl" : "aham"
+      }, {
+        "meaning_en" : "am Vayu, the Wind god",
+        "word_skt" : "वायुः अस्मि",
+        "word_tl" : "vāyuḥ asmi"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "that expands in the Mother of things",
+        "word_skt" : "मातरिश्वा",
+        "word_tl" : "mātariśvā"
+      }, {
+        "meaning_en" : "or",
+        "word_skt" : "व",
+        "word_tl" : "va"
+      }, {
+        "meaning_en" : "I am",
+        "word_skt" : "अहम् अस्मि",
+        "word_tl" : "aham asmi"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "said",
+        "word_skt" : "अब्रवीत्",
+        "word_tl" : "abravīt"
+      } ],
+      "hindi_explain" : "वह 'उसके' (यक्ष के) प्रति द्रुतगति से गया; ‘उसने’ (यक्ष ने) वायु से कहा, ''तुम कौन हो?  इसने कहा, ''मैं वायु हूँँ, मैं हीं वह तत्त्व हूँ जो वस्तुओं के ‘मातृ-तत्त्व' में विस्तीर्ण होता है(मातरिश्वा हूँ)।",
+      "meaning_en" : " He rushed upon That; It said to him, “Who art thou?” “I am Vayu,” he said, “and I am he that expands in the Mother of things.”",
+      "n" : "2/3/9",
+      "p" : "2/3/7",
+      "u" : "8",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तदभ्यद्रवत्तमभ्यवदत् कोऽसीति वायुर्वा अहमस्मीत्यब्रवीन्मातरिश्वा वा अहमस्मीति ॥",
+      "verse_tl" : "tadabhyadravattamabhyavadat ko'sīti vāyurvā ahamasmītyabravīnmātariśvā vā ahamasmīti ||"
+    }, {
+      "anvaya_skt" : "तस्मिन् त्वयि किं वीर्यम् इति। इदं सर्वम् अपि आददीय यत् इदं पृथिव्याम् इति ॥",
+      "anvaya_tl" : "tasmin tvayi kiṁ vīryam iti | idaṁ sarvam api ādadīya yat idaṁ pṛthivyām iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.9.mp3",
+      "auro_md" : "\"Since such thou art, what is the force in thee?\" \"Even all this I can take for myself all this that is upon the earth.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "such being the case",
+        "word_skt" : "तस्मिन्",
+        "word_tl" : "tasmin"
+      }, {
+        "meaning_en" : "in thee",
+        "word_skt" : "त्वयि",
+        "word_tl" : "tvayi"
+      }, {
+        "meaning_en" : "what",
+        "word_skt" : "किम्",
+        "word_tl" : "kim"
+      }, {
+        "meaning_en" : "the force",
+        "word_skt" : "वीर्यम्",
+        "word_tl" : "vīryam"
+      }, {
+        "meaning_en" : "thus (the Yaksha asked Agni)",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "all this",
+        "word_skt" : "इदम् सर्वम्",
+        "word_tl" : "idam sarvam"
+      }, {
+        "meaning_en" : "even",
+        "word_skt" : "अपि",
+        "word_tl" : "api"
+      }, {
+        "meaning_en" : "I can take for myself",
+        "word_skt" : "आददीय",
+        "word_tl" : "ādadīya"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "all this",
+        "word_skt" : "इदम्",
+        "word_tl" : "idam"
+      }, {
+        "meaning_en" : "upon the earth",
+        "word_skt" : "पृथिव्याम्",
+        "word_tl" : "pṛthivyām"
+      }, {
+        "meaning_en" : "is",
+        "word_skt" : "अस्ति",
+        "word_tl" : "asti"
+      } ],
+      "hindi_explain" : "''यदि तुम ऐसे हो, तो तुम्हारे अन्दर क्या शक्ति (वीर्य) है?” ''इस सबको, इस पृथ्वी पर जो कुछ भी है, उसको मैं अपने लिए ले लेने मे समर्थ हूँ।'' ",
+      "meaning_en" : " “Since such thou art, what is the force in thee?” “Even all this I can take for myself, all this that is upon the earth.”",
+      "n" : "2/3/10",
+      "p" : "2/3/8",
+      "u" : "9",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वमाददीय यदिदं पृथिव्यामिति ॥",
+      "verse_tl" : "tasmiṁstvayi kiṁ vīryamityapīdaṁ sarvamādadīya yadidaṁ pṛthivyāmiti ||"
+    }, {
+      "anvaya_skt" : "एतत् आदत्स्व इति तस्मै तृणं निदधौ। तद् सर्वजवेन उपप्रेयाय। तत् आदातुं न शशाक। ततः सः निववृते। यत् एतत् यक्षम् एतत् विज्ञातुं न अशकम् इति ॥",
+      "anvaya_tl" : "etat ādatsva iti tasmai tṛṇaṁ nidadhau | tad sarvajavena upapreyāya | tat ādātuṁ na śaśāka | tataḥ saḥ nivavṛte | yat etat yakṣam eatat vijñātuṁ na aśakam iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.10.mp3",
+      "auro_md" : "That set before him a blade of grass, \"This take.\" He went towards it with all his speed and he could not take it. Even there he ceased, even thence he returned: \"I could not discern of That, what is this mighty Daemon.\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "take it for yourself",
+        "word_skt" : "आदत्स्व",
+        "word_tl" : "ādatsva"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "before him",
+        "word_skt" : "तस्मै",
+        "word_tl" : "tasmai"
+      }, {
+        "meaning_en" : "a blade of grass",
+        "word_skt" : "तृणम्",
+        "word_tl" : "tṛṇam"
+      }, {
+        "meaning_en" : "set",
+        "word_skt" : "निदधौ",
+        "word_tl" : "nidadhau"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "with all his speed",
+        "word_skt" : "सर्वजवेन",
+        "word_tl" : "sarvajavena"
+      }, {
+        "meaning_en" : "he made",
+        "word_skt" : "उपप्रेयाय",
+        "word_tl" : "upapreyāya"
+      }, {
+        "meaning_en" : "it",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "to take",
+        "word_skt" : "आदातुम्",
+        "word_tl" : "ādātum"
+      }, {
+        "meaning_en" : "was  not able",
+        "word_skt" : "न शशाक",
+        "word_tl" : "na śaśāka"
+      }, {
+        "meaning_en" : "from there",
+        "word_skt" : "ततः",
+        "word_tl" : "tataḥ"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "turned back",
+        "word_skt" : "निववृते",
+        "word_tl" : "nivavṛte"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "mighty Daemon",
+        "word_skt" : "यक्षम्",
+        "word_tl" : "yakṣam"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "to discern",
+        "word_skt" : "विज्ञातुम्",
+        "word_tl" : "vijñātum"
+      }, {
+        "meaning_en" : "was not able",
+        "word_skt" : "न अशकम्",
+        "word_tl" : "na aśakam"
+      }, {
+        "meaning_en" : "thus (he said to the other gods)",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      } ],
+      "hindi_explain" : "उस यक्ष ने उसके सम्मुख एक तिनका रखा; ''इसे ले जाओ।'' वह अपने पूर्ण वेग से तिनके की ओर बढ़ा, पर उसे ले नहीं सका। वहीं निश्चेष्ट हो गया, और वहीं से वह वापिस लौट आया; ''मैं नहीं जान सका कि 'वह' बलशाली यक्ष क्या है।",
+      "meaning_en" : " That set before him a blade of grass; “This take.” He went towards it with all his speed and he could not take it. Even there he ceased, even thence he returned; “I could not discern of That, what is this mighty Daemon.”",
+      "n" : "2/3/11",
+      "p" : "2/3/9",
+      "u" : "10",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्मै तृणं निदधावेतदादत्स्वेति तदुपप्रेयाय सर्वजवेन तन्न शशाकादातुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्शमिति ॥",
+      "verse_tl" : "tasmai tṛṇaṁ nidadhāvetadādatsveti tadupapreyāya sarvajavena tanna śaśākādātuṁ sa tata eva nivavṛte naitadaśakaṁ vijñātuṁ yadetadyakśamiti ||"
+    }, {
+      "anvaya_skt" : "अथ इन्द्रम् अवृवन् मघवन् किम् एतत् यक्षम् एतत् विजानीहि। तथा इति। तत् अभ्यद्रवत् तस्मात् निरोदधे ॥",
+      "anvaya_tl" : "atha indram avṛvan maghavan kim etat yakṣam etat vijānīhi | tathā iti | tat abhyadravat tasmāt nirodadhe ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.11.mp3",
+      "auro_md" : "Then they said to Indra, \"Master of plenitudes, get thou the knowledge, what is this mighty Daemon.\" He said, \"So be it.\" He rushed upon That. That vanished from before him.",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "then",
+        "word_skt" : "अथ",
+        "word_tl" : "atha"
+      }, {
+        "meaning_en" : "to Indra",
+        "word_skt" : "इन्द्रम्",
+        "word_tl" : "indram"
+      }, {
+        "meaning_en" : "they said",
+        "word_skt" : "अवृवन्",
+        "word_tl" : "avṛvan"
+      }, {
+        "meaning_en" : "O Indra, master of plenitudes",
+        "word_skt" : "मघवन्",
+        "word_tl" : "maghavan"
+      }, {
+        "meaning_en" : "what",
+        "word_skt" : "किम्",
+        "word_tl" : "kim"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "mighty Daemon",
+        "word_skt" : "यक्षम्",
+        "word_tl" : "yakṣam"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "learn of",
+        "word_skt" : "विजानीहि",
+        "word_tl" : "vijānīhi"
+      }, {
+        "meaning_en" : "so be it",
+        "word_skt" : "तथा इति",
+        "word_tl" : "tathā iti"
+      }, {
+        "meaning_en" : "he rushed upon That",
+        "word_skt" : "अभ्यद्रवत्",
+        "word_tl" : "abhyadravat"
+      }, {
+        "meaning_en" : "from before him",
+        "word_skt" : "तस्मात्",
+        "word_tl" : "tasmāt"
+      }, {
+        "meaning_en" : "that vanished",
+        "word_skt" : "निरोदधे",
+        "word_tl" : "nirodadhe"
+      } ],
+      "hindi_explain" : "तब उन्होंने इन्द्र से कहा, ''हे सम्पदाओं के स्वामी (मघवन्), इसके विषय में ज्ञान प्राप्त करो कि यह बलशाली यक्ष क्या है।'' उसने कहा, ''तथा इति।'' वह द्रुतगति से 'उसकी' ओर गया। 'वह' इन्द्र के सामने से तिरोहित हो गया।",
+      "meaning_en" : " Then they said to Indra, “Master of plenitudes, get thou the knowledge, what is this mighty Daemon.” He said, “So be it.” He rushed upon That. That vanished from before him.",
+      "n" : "2/3/12",
+      "p" : "2/3/10",
+      "u" : "11",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "अथेन्द्रमब्रुवन् मघवन्नेतद्विजानीहि किमेतद्यक्शमिति तथेति तदभ्यद्रवत् तस्मात्तिरोदधे ॥",
+      "verse_tl" : "athendramabruvan maghavannetadvijānīhi kimetadyakśamiti tatheti tadabhyadravat tasmāttirodadhe ||"
+    }, {
+      "anvaya_skt" : "सः तस्मिन् एव आकाशे बहुशोभमानां स्त्रियम् आजगाम। ताम् हैमवतीम् उमाम् उवाच ह किम् यक्षम् इति ॥",
+      "anvaya_tl" : "saḥ tasmin eva ākāśe bahuśobhamānāṁ striyam ājagāma | tām haimavatīm umām uvāca ha kim yakṣam iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.12.mp3",
+      "auro_md" : "He in the same ether came upon the Woman, even upon Her who shines out in many forms, Uma daughter of the snowy summits. To her he said, \"What was this mighty Daemon?\"",
+      "cname_skt" : "तृतीय खन्दः",
+      "cname_tl" : "tṛtīya khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "in the same",
+        "word_skt" : "तस्मिन् एव",
+        "word_tl" : "tasmin eva"
+      }, {
+        "meaning_en" : "ether",
+        "word_skt" : "आकाशे",
+        "word_tl" : "ākāśe"
+      }, {
+        "meaning_en" : "who shines out in many forms",
+        "word_skt" : "बहुशोभमानाम्",
+        "word_tl" : "bahuśobhamānām"
+      }, {
+        "meaning_en" : "(as) woman",
+        "word_skt" : "स्त्रियम्",
+        "word_tl" : "striyam"
+      }, {
+        "meaning_en" : "came upon",
+        "word_skt" : "आजगाम",
+        "word_tl" : "ājagāma"
+      }, {
+        "meaning_en" : "to her",
+        "word_skt" : "ताम्",
+        "word_tl" : "tām"
+      }, {
+        "meaning_en" : "Uma, the daughter of the snowy summits",
+        "word_skt" : "हैमवतीम् उमाम्",
+        "word_tl" : "haimavatīm umām"
+      }, {
+        "meaning_en" : "said",
+        "word_skt" : "उवाच",
+        "word_tl" : "uvāca"
+      }, {
+        "meaning_en" : "what was this",
+        "word_skt" : "किम् ह",
+        "word_tl" : "kim ha"
+      }, {
+        "meaning_en" : "mighty Daemon",
+        "word_skt" : "यक्षम्",
+        "word_tl" : "yakṣam"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      } ],
+      "hindi_explain" : "वह (इन्द्र) उसी आकाश में अनेक रूपों में भासित हो रही एक स्त्री के समीप आया जो हिमवान् शिखरों की पुत्री 'उमा' है। वह उमा से बोला, ''यह बलशाली यक्ष क्या था?",
+      "meaning_en" : " He in the same ether came upon the Woman, even upon Her who shines out in many forms, Uma daughter of the snowy summits. To her he said, “What was this mighty Daemon?”",
+      "n" : "2/4/1",
+      "p" : "2/3/11",
+      "u" : "12",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमां हैमवतीं तां होवाच किमेतद्यक्शमिति ॥",
+      "verse_tl" : "sa tasminnevākāśe striyamājagāma bahuśobhamānāmumāṁ haimavatīṁ tāṁ hovāca kimetadyakśamiti ||"
+    } ]
+  }, {
+    "n" : "",
+    "name_skt" : "चतुर्थः खण्डः",
+    "name_tl" : "caturthaḥ khandaḥ",
+    "p" : "2/3",
+    "u" : "4",
+    "verses" : [ {
+      "anvaya_skt" : "सा  एतत्  ब्रह्म इति उवाच ह ब्रह्मणः विजये एतत् महीयध्वं वै इति। ततः ह एव   एतत्  ब्रह्म  इति विदाञकार ॥",
+      "anvaya_tl" : "sā ( etat ) brahma iti uvāca ha brahmaṇaḥ vijaye etat mahīyadhvaṁ vai iti | tataḥ ha eva  ( etat ) brahma  iti vidāñakāra ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.1.mp3",
+      "auro_md" : "She said to him, \"It is the Eternal. Of the Eternal is this victory in which ye shall grow to greatness.\" Then alone he came to know that this was the Brahman.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "she",
+        "word_skt" : "सा",
+        "word_tl" : "sā"
+      }, {
+        "meaning_en" : "It is",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "the Eternal",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "said",
+        "word_skt" : "उवाच",
+        "word_tl" : "uvāca"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "ह",
+        "word_tl" : "ha"
+      }, {
+        "meaning_en" : "of the Eternal",
+        "word_skt" : "ब्रह्मणः",
+        "word_tl" : "brahmaṇaḥ"
+      }, {
+        "meaning_en" : "victory in which",
+        "word_skt" : "विजये",
+        "word_tl" : "vijaye"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "shall grow to greatness",
+        "word_skt" : "महीयध्वम्",
+        "word_tl" : "mahīyadhvam"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "वै",
+        "word_tl" : "vai"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "then",
+        "word_skt" : "ततः",
+        "word_tl" : "tataḥ"
+      }, {
+        "meaning_en" : "alone",
+        "word_skt" : "ह एव",
+        "word_tl" : "ha eva"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "the Brahman",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "came to know",
+        "word_skt" : "विदाञकार",
+        "word_tl" : "vidāñakāra"
+      } ],
+      "hindi_explain" : "उसने (उमा ने) उससे कहा, '''यह' 'शाश्वत-तत्त्व' (ब्रह्म) है। यह 'ब्रह्म' की ही विजय है जिसमें तुम महिमा को प्राप्त करोगे।“  तभी वह जान पाया कि यह 'ब्रह्म' है।",
+      "meaning_en" : " She said to him, “It is the Eternal. Of the Eternal is this victory in which ye shall grow to greatness.” Then alone he came to know that this was the Brahman.",
+      "n" : "2/4/2",
+      "p" : "2/3/12",
+      "u" : "1",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदाञ्चकार ब्रह्मेति ॥",
+      "verse_tl" : "sā brahmeti hovāca brahmaṇo vā etadvijaye mahīyadhvamiti tato haiva vidāñcakāra brahmeti ||"
+    }, {
+      "anvaya_skt" : "यत् ते अग्निः वायुः इन्द्रः एनत् नेदिष्ठं पस्पर्शुः ते हि एनत् ब्रह्म इति विदाञ्चकार। तस्मात् वै एते देवाः अन्यान् देवान् अतितराम् इव ॥",
+      "anvaya_tl" : "yat te agniḥ vāyuḥ indraḥ enat nediṣṭhaṁ pasparśuḥ te hi enat brahma iti vidāñcakāara | tasmāt vai ete devāḥ anyān devān atitarām iva ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.2.mp3",
+      "auro_md" : "Therefore are these gods as it were beyond all the other gods, even Agni and Vayu and Indra, because they came nearest to the touch of That....[^1]\n\n[^1]: By some mistake of early memorisers or later copyists the rest of the verse has become hopelessly corrupted. It runs, \"They he first came to know that it was the Brahman,\" which is neither fact nor sense nor grammar. The close of the third verse has crept into and replaced the original close of the second.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "since",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "they",
+        "word_skt" : "ते",
+        "word_tl" : "te"
+      }, {
+        "meaning_en" : "the Fire god",
+        "word_skt" : "अग्निः",
+        "word_tl" : "agniḥ"
+      }, {
+        "meaning_en" : "the Wind god",
+        "word_skt" : "वायुः",
+        "word_tl" : "vāyuḥ"
+      }, {
+        "meaning_en" : "the god of the Divine will",
+        "word_skt" : "इन्द्रः",
+        "word_tl" : "indraḥ"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एनत्",
+        "word_tl" : "enat"
+      }, {
+        "meaning_en" : "close",
+        "word_skt" : "नेदिष्ठम्",
+        "word_tl" : "nediṣṭham"
+      }, {
+        "meaning_en" : "touched",
+        "word_skt" : "पस्पर्शुः",
+        "word_tl" : "pasparśuḥ"
+      }, {
+        "meaning_en" : "they",
+        "word_skt" : "ते",
+        "word_tl" : "te"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "हि",
+        "word_tl" : "hi"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एनत्",
+        "word_tl" : "enat"
+      }, {
+        "meaning_en" : "the Eternal",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "came to know",
+        "word_skt" : "विदाञ्चकार",
+        "word_tl" : "vidāñcakāara"
+      }, {
+        "meaning_en" : "therefore",
+        "word_skt" : "तस्मात्",
+        "word_tl" : "tasmāt"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "वै",
+        "word_tl" : "vai"
+      }, {
+        "meaning_en" : "these",
+        "word_skt" : "एते",
+        "word_tl" : "ete"
+      }, {
+        "meaning_en" : "gods",
+        "word_skt" : "देवाः",
+        "word_tl" : "devāḥ"
+      }, {
+        "meaning_en" : "other",
+        "word_skt" : "अन्यान्",
+        "word_tl" : "anyān"
+      }, {
+        "meaning_en" : "gods",
+        "word_skt" : "देवान्",
+        "word_tl" : "devān"
+      }, {
+        "meaning_en" : "transcend",
+        "word_skt" : "अतितराम्",
+        "word_tl" : "atitarām"
+      }, {
+        "meaning_en" : "like / as if",
+        "word_skt" : "इव",
+        "word_tl" : "iva"
+      } ],
+      "hindi_explain" : "इसीलिए ये देवगण-अग्नि, वायु तथा इन्द्र, अन्यान्य देवों से मानों परे, उच्चतर हैं, क्योंकि उन्हें उस ‘परतत्त्व' का निकटतम स्पर्श प्राप्त हुआ...   प्राचीन कण्ठस्थ करने वालों की अथवा परवर्ती अनुलेखकों की किसी भूल के कारण इस मंत्र का शेषांश पूरी तरह से दूषित हो गया है। इसका अर्थ है-''कि वह प्रथम जान पाया कि यह ‘ब्रह्म' है'' यह भाव न तो तथ्य है, न अर्थयुक्त, न व्याकरण-सम्मत है। तीसरे मंत्र के अन्तिम अंश ने दूसरे मंत्र के मूलपाठ के अन्तिम अंश में प्रवेश करके उसका स्थान ले लिया है।",
+      "meaning_en" : " Therefore are these gods as it were beyond all the other gods, even Agni and Vayu and Indra, because they came nearest to the touch of That... ",
+      "n" : "2/4/3",
+      "p" : "2/4/1",
+      "u" : "2",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्माद्वा एते देवा अतितरामिवान्यान्देवान्यदग्निर्वायुरिन्द्रस्ते ह्येनन्नेदिष्ठं पस्पर्शुस्ते ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥",
+      "verse_tl" : "tasmādvā ete devā atitarāmivānyāndevānyadagnirvāyurindraste hyenannediṣṭhaṁ pasparśuste hyenatprathamo vidāñcakāra brahmeti ||"
+    }, {
+      "anvaya_skt" : "सः हि एनत् नेदिष्ठं पस्पर्श हि सः एनत् ब्रह्म इति प्रथमः विदाञकार। तस्मात् वै इन्द्रः अन्यान् देवान् अतितराम् इव ॥",
+      "anvaya_tl" : "saḥ hi enat nediṣṭhaṁ pasparśa hi saḥ enat brahma iti prathamaḥ vidāñakāra | tasmāt vai indraḥ anyān devān atitarām iva ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.3.mp3",
+      "auro_md" : "Therefore is Indra as it were beyond all the other gods because he came nearest to the touch of That, because he first knew that it was the Brahman.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "हि",
+        "word_tl" : "hi"
+      }, {
+        "meaning_en" : "closer",
+        "word_skt" : "नेदिष्ठम्",
+        "word_tl" : "nediṣṭham"
+      }, {
+        "meaning_en" : "touched",
+        "word_skt" : "पस्पर्श",
+        "word_tl" : "pasparśa"
+      }, {
+        "meaning_en" : "since",
+        "word_skt" : "हि",
+        "word_tl" : "hi"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एनत्",
+        "word_tl" : "enat"
+      }, {
+        "meaning_en" : "the Eternal",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "first",
+        "word_skt" : "प्रथमः",
+        "word_tl" : "prathamaḥ"
+      }, {
+        "meaning_en" : "knew",
+        "word_skt" : "विदाञकार",
+        "word_tl" : "vidāñakāra"
+      }, {
+        "meaning_en" : "therefore",
+        "word_skt" : "तस्मात्",
+        "word_tl" : "tasmāt"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "वै",
+        "word_tl" : "vai"
+      }, {
+        "meaning_en" : "god Indra",
+        "word_skt" : "इन्द्रः",
+        "word_tl" : "indraḥ"
+      }, {
+        "meaning_en" : "other",
+        "word_skt" : "अन्यान्",
+        "word_tl" : "anyān"
+      }, {
+        "meaning_en" : "gods",
+        "word_skt" : "देवान्",
+        "word_tl" : "devān"
+      }, {
+        "meaning_en" : "transcending beyond",
+        "word_skt" : "अतितराम्",
+        "word_tl" : "atitarām"
+      }, {
+        "meaning_en" : "like",
+        "word_skt" : "इव",
+        "word_tl" : "iva"
+      } ],
+      "hindi_explain" : "इसलिए इन्द्र अन्यान्य देवगणों से मानों परे, उच्चतर हैं, क्योंकि वह 'उसके' स्पर्श के निकटतम आया, क्योंकि सर्वप्रथम उसे यह ज्ञात हुआ कि वह 'ब्रह्म' था।",
+      "meaning_en" : " Therefore is Indra as it were beyond all the other gods because he came nearest to the touch of That, because he first knew that it was the Brahman.",
+      "n" : "2/4/4",
+      "p" : "2/4/2",
+      "u" : "3",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्माद् वा इन्द्रोऽतितरामिवान्यान्देवान्स ह्येनन्नेदिष्ठं पस्पर्श स ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥",
+      "verse_tl" : "tasmād vā indro'titarāmivānyāndevānsa hyenannediṣṭhaṁ pasparśa sa hyenatprathamo vidāñcakāra brahmeti ||"
+    }, {
+      "anvaya_skt" : "तस्य एषः आदेशः यत् एतत् विद्युतः व्यद्युतत्  आ३ न्यमीमिषद् इति इत् आ३ इति अधिदैवतम् ॥",
+      "anvaya_tl" : "tasya eṣaḥ ādeśaḥ yat etat vidyuataḥ vyadyutat  ā3 nyamīmiṣad iti it ā3 iti adhidaivatam ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.4.mp3",
+      "auro_md" : "Now this is the indication of That,—as is this flash of the lightning upon us or as is this falling of the eyelid, so in that which is of the gods.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "his",
+        "word_skt" : "तस्य",
+        "word_tl" : "tasya"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एषः",
+        "word_tl" : "eṣaḥ"
+      }, {
+        "meaning_en" : "indication",
+        "word_skt" : "आदेशः",
+        "word_tl" : "ādeśaḥ"
+      }, {
+        "meaning_en" : "that which",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "vidyataḥ"
+      }, {
+        "meaning_en" : "of the lightning",
+        "word_skt" : "विद्यतः",
+        "word_tl" : "vidyataḥ"
+      }, {
+        "meaning_en" : "flash",
+        "word_skt" : "आ व्यद्युतत्",
+        "word_tl" : "ā vyadyutat"
+      }, {
+        "meaning_en" : "falling of the eyelid",
+        "word_skt" : "आ न्यमीमिषद्",
+        "word_tl" : "ā nyamīmiṣad"
+      }, {
+        "meaning_en" : "thus / so",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "that which",
+        "word_skt" : "इत्",
+        "word_tl" : "it"
+      }, {
+        "meaning_en" : "thus / so",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "is of the gods",
+        "word_skt" : "अधिदैवतम्",
+        "word_tl" : "adhidaivatam"
+      } ],
+      "hindi_explain" : "यह 'उसी' का निर्देश है,... जैसे विद्युत् का चमकना हो अथवा जैसे पलक का झपक जाना हो, वैसा ही अधिदैव-भाव है।",
+      "meaning_en" : " Now this is the indication of That,-as is this flash of the lightning upon us or as is this falling of the eyelid, so in that which is of the gods.",
+      "n" : "2/4/5",
+      "p" : "2/4/3",
+      "u" : "4",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा इतीन्न्यमीमिषदा इत्यधिदैवतम्‌ ॥",
+      "verse_tl" : "tasyaiṣa ādeśo yadetadvidyuto vyadyutadā itīnnyamīmiṣadā ityadhidaivatam ||"
+    }, {
+      "anvaya_skt" : "अथ अध्यातम्। यत् एतत् अनेन मनः एतत् गछति इव च अभिक्षणम् उपस्मरति सङ्कल्पः क्रियते  च ॥",
+      "anvaya_tl" : "atha adhyātam| yat etat anena manaḥ etat gachati iva ca abhikṣaṇam upasmarati saṅkalpaḥ (kriyate ) ca ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.5.mp3",
+      "auro_md" : "Then in that which is of the Self,—as the motion of this mind seems to attain to That and by it afterwards the will in the thought continually remembers It.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "then",
+        "word_skt" : "अथ",
+        "word_tl" : "atha"
+      }, {
+        "meaning_en" : "that which is of the Self",
+        "word_skt" : "अध्यातम्",
+        "word_tl" : "adhyātam"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "यत्",
+        "word_tl" : "yat"
+      }, {
+        "meaning_en" : "the motion of this mind",
+        "word_skt" : "मनः",
+        "word_tl" : "manaḥ"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "by it",
+        "word_skt" : "अनेन",
+        "word_tl" : "anena"
+      }, {
+        "meaning_en" : "will in the thought",
+        "word_skt" : "सङ्कल्पः",
+        "word_tl" : "saṅkalpaḥ"
+      }, {
+        "meaning_en" : "continually",
+        "word_skt" : "अभिक्षणम्",
+        "word_tl" : "abhikṣaṇam"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "attains to",
+        "word_skt" : "गछति",
+        "word_tl" : "gachati"
+      }, {
+        "meaning_en" : "iva",
+        "word_skt" : "इव",
+        "word_tl" : "iva"
+      }, {
+        "meaning_en" : "and",
+        "word_skt" : "च",
+        "word_tl" : "ca"
+      }, {
+        "meaning_en" : "remembers",
+        "word_skt" : "उपस्मरति",
+        "word_tl" : "upasmarati"
+      }, {
+        "meaning_en" : "and",
+        "word_skt" : "च",
+        "word_tl" : "ca"
+      } ],
+      "hindi_explain" : "अब अध्यात्म-भाव यथा इस मन की गति 'उस' (परतत्त्व) को प्राप्त करती प्रतीत होती है एवं तत्पश्चात् उससे चिन्तनगत संकल्प निरन्तर 'उसका’ स्मरण करता है।",
+      "meaning_en" : " Then in that which is of the Self,-as the motion of this mind seems to attain to That and by it afterwards the will in the thought continually remembers It.",
+      "n" : "2/4/6",
+      "p" : "2/4/4",
+      "u" : "5",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "अथाध्यात्मं यद्देतद् गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्श्णं सङ्कल्पः ॥",
+      "verse_tl" : "athādhyātmaṁ yaddetad gacchatīva ca mano'nena caitadupasmaratyabhīkśṇaṁ saṅkalpaḥ ||"
+    }, {
+      "anvaya_skt" : "तत् ह तद्वनं नाम।  तस्मात्  तद्वनम् इति उपासितव्यम्। स यः एतत् एवं वेद एनं सर्वाणि भूतानि अभिसंवाञ्छन्ति ॥",
+      "anvaya_tl" : "tat ha tadvanaṁ nāma | ( tasmāt ) tadvanam iti upāsitavyam| sa yaḥ etat evaṁ veda enaṁ sarvāṇi bhūtāni abhisaṁvāñchanti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.6.mp3",
+      "auro_md" : "The name of That is \"That Delight\"; as That Delight one should follow after It. He who so knows That, towards him verily all existences yearn.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "ह",
+        "word_tl" : "ha"
+      }, {
+        "meaning_en" : "That Delight",
+        "word_skt" : "तद्वनम्",
+        "word_tl" : "tadvanam"
+      }, {
+        "meaning_en" : "the name",
+        "word_skt" : "नाम",
+        "word_tl" : "nāma"
+      }, {
+        "meaning_en" : "as That Delight",
+        "word_skt" : "तद्वनम् इति",
+        "word_tl" : "tadvanam iti"
+      }, {
+        "meaning_en" : "one should follow after It",
+        "word_skt" : "उपासितव्यम्",
+        "word_tl" : "upāsitavyam"
+      }, {
+        "meaning_en" : "",
+        "word_skt" : "तस्मात्",
+        "word_tl" : "(tasmāt)"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "स",
+        "word_tl" : "sa"
+      }, {
+        "meaning_en" : "who",
+        "word_skt" : "यः",
+        "word_tl" : "yaḥ"
+      }, {
+        "meaning_en" : "That",
+        "word_skt" : "एतत्",
+        "word_tl" : "etat"
+      }, {
+        "meaning_en" : "so",
+        "word_skt" : "एवम्",
+        "word_tl" : "evam"
+      }, {
+        "meaning_en" : "knows",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      }, {
+        "meaning_en" : "towards him",
+        "word_skt" : "एनम्",
+        "word_tl" : "enam"
+      }, {
+        "meaning_en" : "all existences",
+        "word_skt" : "सर्वाणि भूतानि",
+        "word_tl" : "sarvāṇi bhūtāni"
+      }, {
+        "meaning_en" : "verily yearn",
+        "word_skt" : "अभिसंवाञ्छन्ति",
+        "word_tl" : "abhisaṁvāñchanti"
+      } ],
+      "hindi_explain" : "‘उस' (परतत्त्व) का नाम है ''वह आनन्द'', 'उस आनन्द' के रूप में ही 'उसकी' उपासना करनी चाहिये। जो 'उसे' इस रूप में जानता है सभी प्राणी उसे विशेष रूप से चाहते हैं।",
+      "meaning_en" : " The name of That is “That Delight”; as That Delight one should follow after It. He who so knows That, towards him verily all existences yearn.",
+      "n" : "2/4/7",
+      "p" : "2/4/5",
+      "u" : "6",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि हैनम् सर्वाणि भूतानि संवाञ्छन्ति॥",
+      "verse_tl" : "taddha tadvanaṁ nāma tadvanamityupāsitavyaṁ sa ya etadevaṁ vedābhi hainam sarvāṇi bhūtāni saṁvāñchanti ||"
+    }, {
+      "anvaya_skt" : "भोः उपनिषदं ब्रुहि इति। ते उपनिषत् उक्त्वा ब्राह्मीं वाव उपनिषदं ते अब्रूम इति ॥",
+      "anvaya_tl" : "bhoḥ upaniṣadaṁ bruhi iti | te upaniṣat uktvā brāhmīṁ vāva upaniṣadaṁ te abrūma iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.7.mp3",
+      "auro_md" : "Thou hast said \"Speak to me Upanishad\";[^2] spoken to thee is Upanishad. Of the Eternal verily is the Upanishad that we have spoken.\n\n[^2]: Upanishad means inner knowledge, that which enters into the final Truth and settles in it.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "O Thou!",
+        "word_skt" : "भोः",
+        "word_tl" : "bhoḥ"
+      }, {
+        "meaning_en" : "the Upanishad",
+        "word_skt" : "उपनिषदम्",
+        "word_tl" : "upaniṣadam"
+      }, {
+        "meaning_en" : "speak (to me)",
+        "word_skt" : "ब्रुहि",
+        "word_tl" : "bruhi"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "to thee",
+        "word_skt" : "ते",
+        "word_tl" : "te"
+      }, {
+        "meaning_en" : "the Upanishad",
+        "word_skt" : "उपनिषत्",
+        "word_tl" : "upaniṣat"
+      }, {
+        "meaning_en" : "spoken",
+        "word_skt" : "उक्त्वा",
+        "word_tl" : "uktvā"
+      }, {
+        "meaning_en" : "of the Eternal",
+        "word_skt" : "ब्राह्मीम्",
+        "word_tl" : "brāhmīm"
+      }, {
+        "meaning_en" : "verily",
+        "word_skt" : "वाव",
+        "word_tl" : "vāva"
+      }, {
+        "meaning_en" : "(is) the Upanishad",
+        "word_skt" : "उपनिषदम्",
+        "word_tl" : "upaniṣadam"
+      }, {
+        "meaning_en" : "to thee",
+        "word_skt" : "ते",
+        "word_tl" : "te"
+      }, {
+        "meaning_en" : "that we have spoken",
+        "word_skt" : "अब्रूम इति",
+        "word_tl" : "abrūma iti"
+      } ],
+      "hindi_explain" : "तुमने कहा-''उपनिषद्<sup>६</sup> का प्रवचन कीजिये''; तुम्हारे लिए उपनिषद् का प्रवचन कर दिया है। निश्चित रूप से यह ब्राह्मी (ब्रह्मज्ञान सम्बन्धी) उपनिषद् है जिसका हमने उपदेश दिया है।  <sup>६</sup>उपनिषद् का तात्पर्य है अन्तरज्ञान, वह ज्ञान जो परम सत्य में प्रवेश करता है और उसमें प्रतिष्ठित हो जाता है।..",
+      "meaning_en" : " Thou hast said “Speak to me Upanishad”; spoken to thee is Upanishad. Of the Eternal verily is the Upanishad that we have spoken.",
+      "n" : "2/4/8",
+      "p" : "2/4/6",
+      "u" : "7",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद् ब्राह्मीं वाव त उपनिषदमब्रूमेति ॥",
+      "verse_tl" : "upaniṣadaṁ bho brūhītyuktā ta upaniṣad brāhmīṁ vāva ta upaniṣadamabrūmeti ||"
+    }, {
+      "anvaya_skt" : "तपः दमः कर्म इति तस्यै प्रतिष्ठा। वेदाः सर्वाङ्गानि सत्यम् आयतनम् ॥",
+      "anvaya_tl" : "tapaḥ damaḥ karma iti tasyai pratiṣṭhā | vedāḥ sarvāṅgāni satyam āyatanam ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.8.mp3",
+      "auro_md" : "Of this knowledge austerity and self-conquest and works are the foundation, the Vedas are all its limbs, truth is its dwelling place.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "austerity",
+        "word_skt" : "तप",
+        "word_tl" : "tapa"
+      }, {
+        "meaning_en" : "self-conquest",
+        "word_skt" : "दम",
+        "word_tl" : "dama"
+      }, {
+        "meaning_en" : "works",
+        "word_skt" : "कर्म",
+        "word_tl" : "karma"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "इति",
+        "word_tl" : "iti"
+      }, {
+        "meaning_en" : "of this (knowledge)",
+        "word_skt" : "तस्यै",
+        "word_tl" : "tasyai"
+      }, {
+        "meaning_en" : "foundation",
+        "word_skt" : "प्रतिष्ठा",
+        "word_tl" : "pratiṣṭhā"
+      }, {
+        "meaning_en" : "the Vedas (are)",
+        "word_skt" : "वेदाः",
+        "word_tl" : "vedāḥ"
+      }, {
+        "meaning_en" : "all (its) limbs",
+        "word_skt" : "सर्वाङ्गानि",
+        "word_tl" : "sarvāṅgāni"
+      }, {
+        "meaning_en" : "truth",
+        "word_skt" : "सत्यम्",
+        "word_tl" : "satyam"
+      }, {
+        "meaning_en" : "(its) dwelling place",
+        "word_skt" : "आयतनम्",
+        "word_tl" : "āyatanam"
+      } ],
+      "hindi_explain" : "तप, आत्म-विजय (दम) तथा कर्म इस अन्तरज्ञान के आधार (प्रतिष्ठा) हैं, 'वेद' इसके सब अंग हैं, सत्य इसका धाम है।",
+      "meaning_en" : " Of this knowledge austerity and self-conquest and works are the foundation, the Vedas are all its limbs, truth is its dwelling place.",
+      "n" : "2/4/9",
+      "p" : "2/4/7",
+      "u" : "8",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम्‌ ॥",
+      "verse_tl" : "tasyai tapo damaḥ karmeti pratiṣṭhā vedāḥ sarvāṅgāni satyamāyatanam ||"
+    }, {
+      "anvaya_skt" : "यः वै एताम् एवं वेद  सः  पाप्मानम् अपहत्य अनन्ते ज्येये स्वर्गे लोके प्रतितिष्ठति ॥",
+      "anvaya_tl" : "anvayaḥ-yaḥ vai etām evaṁ veda ( saḥ ) pāpmānam apahatya anante jyeye svarge loke pratitiṣṭhati ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.9.mp3",
+      "auro_md" : "He who knows this knowledge, smites evil away from him and in that vaster world and infinite heaven finds his foundation, yea, he finds his foundation.",
+      "cname_skt" : "चतुर्थः खन्दः",
+      "cname_tl" : "caturthaḥ khandaḥ",
+      "glossary" : [ {
+        "meaning_en" : "who",
+        "word_skt" : "यः",
+        "word_tl" : "yaḥ"
+      }, {
+        "meaning_en" : "indeed",
+        "word_skt" : "वै",
+        "word_tl" : "vai"
+      }, {
+        "meaning_en" : "this knowledge",
+        "word_skt" : "एताम्",
+        "word_tl" : "etām"
+      }, {
+        "meaning_en" : "thus",
+        "word_skt" : "एवम्",
+        "word_tl" : "evam"
+      }, {
+        "meaning_en" : "knows",
+        "word_skt" : "वेद",
+        "word_tl" : "veda"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "evil",
+        "word_skt" : "पाप्मानम्",
+        "word_tl" : "pāpmānam"
+      }, {
+        "meaning_en" : "smiting away",
+        "word_skt" : "अपहत्य",
+        "word_tl" : "apahatya"
+      }, {
+        "meaning_en" : "in that infinite, yea, he finds his foundation",
+        "word_skt" : "अनन्ते",
+        "word_tl" : "anante"
+      }, {
+        "meaning_en" : "in that vaster",
+        "word_skt" : "ज्येये",
+        "word_tl" : "jyeye"
+      }, {
+        "meaning_en" : "heaven",
+        "word_skt" : "स्वर्गे",
+        "word_tl" : "svarge"
+      }, {
+        "meaning_en" : "world",
+        "word_skt" : "लोके",
+        "word_tl" : "loke"
+      }, {
+        "meaning_en" : "finds his foundation",
+        "word_skt" : "प्रतितिष्ठति",
+        "word_tl" : "pratitiṣṭhati"
+      } ],
+      "hindi_explain" : "जो इस अन्तरज्ञान को जानता है वह अपने पाप का उच्छेदन करके उस बृहत्तर लोक एवं अनन्त स्वर्ग में प्रतिष्ठित हो जाता है, अवश्यमेव वह प्रतिष्ठित हो जाता है।",
+      "meaning_en" : " He who knows this knowledge, smites evil away from him and in that vaster world and infinite heaven finds his foundation, yea, he finds his foundation.",
+      "n" : "",
+      "p" : "2/4/8",
+      "u" : "9",
+      "uname_skt" : "केनोपनिषद्",
+      "uname_tl" : "kenopaniṣad",
+      "verse_skt" : "यो वा एतामेवं वेदापहत्य पाप्मानमनन्ते स्वर्गे लोके ज्येये प्रतितिष्ठति प्रतितिष्ठति ॥",
+      "verse_tl" : "yo vā etāmevaṁ vedāpahatya pāpmānamanante svarge loke jyeye pratitiṣṭhati pratitiṣṭhati ||"
+    } ]
+  } ],
+  "title_skt" : "केनोपनिषद्",
+  "title_tl" : "kenopaniṣad",
+  "u" : "2"
+}

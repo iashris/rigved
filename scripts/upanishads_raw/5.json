@@ -1,0 +1,705 @@
+{
+  "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/audioall/MANDUKYA+UPANISHAD+WITH+ASHIT+JI+VOX.wav",
+  "n" : "",
+  "p" : "",
+  "title_skt" : "माण्डुक्योपनिषद्",
+  "title_tl" : "māṇḍukyopaniṣad",
+  "u" : "5",
+  "verses" : [ {
+    "anvaya_skt" : "इदं सर्वं इति एतत् अक्षरम् उपव्याक्षानं भूतं भवत् भविष्यत् इति सर्वम् ओङ्कारः एव। अन्यत् च यत् त्रिकालातीतं तत् अपि ओङ्कारः एव ॥",
+    "anvaya_tl" : "idaṁ sarvaṁ iti etat akṣaram upavyākṣānaṁ bhūtaṁ bhavat bhaviṣyat iti sarvam oṅkāraḥ eva| anyat ca yat trikālātītaṁ tat api oṅkāraḥ eva ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.1.mp3",
+    "auro_md" : "OM is this imperishable Word, OM is the Universe, and this is the exposition of OM. The past, the present and the future, all that was, all that is, all that will be, is OM. Likewise all else that may exist beyond the bounds of Time, that too is OM.",
+    "glossary" : [ {
+      "meaning_en" : "OM is",
+      "word_skt" : "ओम् इति",
+      "word_tl" : "om iti"
+    }, {
+      "meaning_en" : "this",
+      "word_skt" : "एतत्",
+      "word_tl" : "etat"
+    }, {
+      "meaning_en" : "imperishable Word",
+      "word_skt" : "अक्षरम्",
+      "word_tl" : "akṣaram"
+    }, {
+      "meaning_en" : "(OM is) the Universe and all this is",
+      "word_skt" : "इदम् सर्वम्",
+      "word_tl" : "idam sarvam"
+    }, {
+      "meaning_en" : "the exposition of OM",
+      "word_skt" : "तस्य उपव्याक्षानम्",
+      "word_tl" : "tasya upavyākṣānam"
+    }, {
+      "meaning_en" : "the past",
+      "word_skt" : "भूतम्",
+      "word_tl" : "bhūtam"
+    }, {
+      "meaning_en" : "the present",
+      "word_skt" : "भवत्",
+      "word_tl" : "bhavat"
+    }, {
+      "meaning_en" : "and the future",
+      "word_skt" : "भविष्यत् इति",
+      "word_tl" : "bhaviṣyat iti"
+    }, {
+      "meaning_en" : "all that was, all that is, all that will be",
+      "word_skt" : "सर्वम्",
+      "word_tl" : "sarvam"
+    }, {
+      "meaning_en" : "is OM",
+      "word_skt" : "ओङ्कारः एव",
+      "word_tl" : "oṅkāraḥ eva"
+    }, {
+      "meaning_en" : "likewise all else",
+      "word_skt" : "अन्यत् च",
+      "word_tl" : "anyat ca"
+    }, {
+      "meaning_en" : "that may exist beyond the bounds of Time",
+      "word_skt" : "यत् त्रिकालातीतम्",
+      "word_tl" : "yat trikālātītam"
+    }, {
+      "meaning_en" : "that too",
+      "word_skt" : "तत् अपि",
+      "word_tl" : "tat api"
+    }, {
+      "meaning_en" : "is OM",
+      "word_skt" : "ओङ्कारः एव",
+      "word_tl" : "oṅkāraḥ eva"
+    } ],
+    "hindi_explain" : "'ओम्' ही है यह 'अक्षर-शब्द', 'ओम्' ही सशृण 'विश्व' है और यह 'ओम्' की ही व्याख्या है! भूत, वर्तमान तथा भविष्य अर्थात् जो कुछ था, जो कुछ है तथा जो कुछ होगा, वह 'ओम्' है। इसी प्रकार 'काल' (त्रिकाल) की सीमा से परे जो कुछ भी हो सकता है वह भी 'ओम्' ही है।",
+    "meaning_en" : " OM is this imperishable Word, OM is the Universe, and this is the exposition of OM. The past, the present and the future, all that was, all that is, all that will be, is OM. Likewise all else that may exist beyond the bounds of Time, that too is OM.",
+    "n" : "5/2",
+    "p" : "",
+    "u" : "1",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्‌ भविष्यदिति सर्वमोङ्कार एव।\nयच्चान्यत्‌ त्रिकालातीतं तदप्योङ्कार एव ॥",
+    "verse_tl" : "omityetadakṣaramidaṁ sarvaṁ tasyopavyākhyānaṁ bhūtaṁ bhavad bhaviṣyaditi sarvamoṅkāra eva|\nyaccānyat trikālātītaṁ tadapyoṅkāra eva ||"
+  }, {
+    "anvaya_skt" : "एतत् सर्वं हि ब्रह्म। सः अयम् आत्मा चतुष्पात् ॥",
+    "anvaya_tl" : "etat sarvaṁ hi brahma| saḥ ayam ātmā catuṣpāt ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.2.mp3",
+    "auro_md" : "All this Universe is the Eternal Brahman, this Self is the Eternal, and the Self is fourfold.",
+    "glossary" : [ {
+      "meaning_en" : "all this Universe is",
+      "word_skt" : "एतत् सर्वम् हि",
+      "word_tl" : "etat sarvam hi"
+    }, {
+      "meaning_en" : "the Eternal Brahman",
+      "word_skt" : "ब्रह्म",
+      "word_tl" : "brahma"
+    }, {
+      "meaning_en" : "this Self is the Eternal",
+      "word_skt" : "सः अयम् आत्मा",
+      "word_tl" : "saḥ ayam ātmā"
+    }, {
+      "meaning_en" : "the Self is fourfold",
+      "word_skt" : "चतुष्पात्",
+      "word_tl" : "catuṣpāt"
+    } ],
+    "hindi_explain" : "यह सम्पूर्ण 'विश्व' 'शाश्वत-ब्रह्म' ही है यह 'आत्मा' 'ब्रह्म' हैं एवं 'आत्मा' चतुर्विध है, इसके चार पाद हैं।",
+    "meaning_en" : " All this Universe is the Eternal Brahman, this Self is the Eternal, and",
+    "n" : "5/3",
+    "p" : "5/1",
+    "u" : "2",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "सर्वं ह्येतद्‌ ब्रह्म अयमात्मा ब्रह्म सोऽयमात्मा चतुष्पात्‌ ॥",
+    "verse_tl" : "sarvaṁ hyetad brahma ayamātmā brahma so'yamātmā catuṣpāt ||"
+  }, {
+    "anvaya_skt" : "जागरितस्थानः वाहिःप्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुक् वैश्वानरः प्रथमः पादः ॥",
+    "anvaya_tl" : "jāgaritasthānaḥ vāhiḥprajñaḥ saptāṅgaḥ ekonaviṁśatimukhaḥ sthūlabhuk vaiśvānaraḥ prathamaḥ pādaḥ ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.3.mp3",
+    "auro_md" : "He whose place is the wakefulness, who is wise of the outward, who has seven limbs, to whom there are nineteen doors, who feeleth and enjoyeth gross objects, Vaiswanor, the Universal Male, He is the first.",
+    "glossary" : [ {
+      "meaning_en" : "he whose place is the wakefulness",
+      "word_skt" : "जागरितस्थानः",
+      "word_tl" : "jāgaritasthānaḥ"
+    }, {
+      "meaning_en" : "who is wise of the outward",
+      "word_skt" : "वाहिःप्रज्ञः",
+      "word_tl" : "vāhiḥprajñaḥ"
+    }, {
+      "meaning_en" : "who has seven limbs",
+      "word_skt" : "सप्ताङ्गः",
+      "word_tl" : "saptāṅgaḥ"
+    }, {
+      "meaning_en" : "to whom there are nineteen doors",
+      "word_skt" : "एकोनविंशतिमुखः",
+      "word_tl" : "ekonaviṁśatimukhaḥ"
+    }, {
+      "meaning_en" : "who feeleth and enjoyeth gross objects",
+      "word_skt" : "स्थूलभुक्",
+      "word_tl" : "sthūlabhuk"
+    }, {
+      "meaning_en" : "Vaiswanara, the Universal Male",
+      "word_skt" : "वैश्वानरः",
+      "word_tl" : "vaiśvānaraḥ"
+    }, {
+      "meaning_en" : "he is the first",
+      "word_skt" : "प्रथमः पादः",
+      "word_tl" : "prathamaḥ pādaḥ"
+    } ],
+    "hindi_explain" : "जाग्रत्-अवस्था जिसका स्थान है, जो बहिर्गत जगत् का ज्ञाता है, जो सात अगोंवाला है, जिसके लिए उत्रीस द्वार हैं, जो स्थूल पदार्थों की रसानुभूति करता है, 'वैश्वानर' अर्थात् 'विश्व-पुरुष', 'वह' है प्रथम पाद।",
+    "meaning_en" : " He whose place is the wakefulness, who is wise of the outward, who has seven limbs, to whom there are nineteen doors, who feeleth and enjoyeth gross objects, Vaiswanara, the Universal Male, He is the first.",
+    "n" : "5/4",
+    "p" : "5/2",
+    "u" : "3",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "जागरितस्थानो बहिःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग् वैश्वानरः प्रथमः पादः ॥",
+    "verse_tl" : "jāgaritasthāno bahiḥprajñaḥ saptāṅga ekonaviṁśatimukhaḥ sthūlabhug vaiśvānaraḥ prathamaḥ pādaḥ ||"
+  }, {
+    "anvaya_skt" : "स्वप्नस्थानः अन्तःप्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः प्रविविक्तभुक् तैजसः द्वितीयः पादः ॥",
+    "anvaya_tl" : "svapnasthānaḥ antaḥprajñaḥ saptāṅgaḥ ekonaviṁśatimukhaḥ praviviktabhuk taijasaḥ dvitīyaḥ pādaḥ ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.4.mp3",
+    "auro_md" : "He whose place is the dream, who is wise of the inward, who has seven limbs, to whom there are nineteen doors, who feeleth and enjoyeth subtle objects, Taijasa, the Inhabitant in Luminous Mind, He is the second.",
+    "glossary" : [ {
+      "meaning_en" : "he whose place is the dream",
+      "word_skt" : "स्वप्नस्थानः",
+      "word_tl" : "svapnasthānaḥ"
+    }, {
+      "meaning_en" : "who is wise of the inward",
+      "word_skt" : "अन्तःप्रज्ञः",
+      "word_tl" : "antaḥprajñaḥ"
+    }, {
+      "meaning_en" : "who has seven limbs",
+      "word_skt" : "सप्ताङ्गः",
+      "word_tl" : "saptāṅgaḥ"
+    }, {
+      "meaning_en" : "to whom there are nineteen doors",
+      "word_skt" : "एकोनविंशतिमुखः",
+      "word_tl" : "ekonaviṁśatimukhaḥ"
+    }, {
+      "meaning_en" : "who feeleth and enjoyeth subtle objects",
+      "word_skt" : "प्रविविक्तभुक्",
+      "word_tl" : "praviviktabhuk"
+    }, {
+      "meaning_en" : "Taijasa, the Inhabitant in Luminous Mind",
+      "word_skt" : "तैजसः",
+      "word_tl" : "taijasaḥ"
+    }, {
+      "meaning_en" : "he is the second",
+      "word_skt" : "द्वितीयः पादः",
+      "word_tl" : "dvitīyaḥ pādaḥ"
+    } ],
+    "hindi_explain" : "स्वप्नावस्था जिसका स्थान है, जो अन्तर्जगत् का ज्ञाता है, जो सात अगोंवाला है, जिसके लिए उत्रीस द्वार हैं, जो सूक्ष्म पदार्थों की रसानुभूति करता है, 'तेजस' अर्थात् 'तेजोमय मन' में 'निवास करने वाला', 'वह' द्वितीय पाद है।",
+    "meaning_en" : " He whose place is the dream, who is wise of the inward, who has seven limbs, to whom there are nineteen doors, who feeleth and enjoyeth subtle objects, Taijasa, the Inhabitant in Luminous Mind, He is the second.",
+    "n" : "5/5",
+    "p" : "5/3",
+    "u" : "4",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक् तैजसो द्वितीयः पादः ॥",
+    "verse_tl" : "svapnasthāno'ntaḥprajñaḥ saptāṅga ekonaviṁśatimukhaḥ praviviktabhuk taijaso dvitīyaḥ pādaḥ ||"
+  }, {
+    "anvaya_skt" : "यत्र सुप्तः कम् च न कामं न कामयते। कम् च न स्वप्नं न पश्यति। तत् सुषुप्तं। सुषुप्तस्थानः एकीभूतः प्रज्ञानघनः एव आनन्दमयः हि आनन्दभुक् चेतोमुखः प्राज्ञः तृतीयः पादः ॥",
+    "anvaya_tl" : "yatra suptaḥ kam ca na kāmaṁ na kāmayate| kam ca na svapnaṁ na paśyati| tat suṣuptaṁ| suṣuptasthānaḥ ekībhūtaḥ prajñānaghanaḥ eva ānandamayaḥ hi ānandabhuk cetomukhaḥ prājñaḥ tṛtīyaḥ pādaḥ ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.5.mp3",
+    "auro_md" : "When one sleepeth and yearneth not with any desire, nor seeth any dream, that is the perfect slumber. He whose place is the perfect slumber, who is become Oneness, who is wisdom gathered into itself, who is made of mere delight, who enjoyeth delight unrelated, to whom conscious mind is the door, Prajna, the Lord of Wisdom, He is the third.",
+    "glossary" : [ {
+      "meaning_en" : "when",
+      "word_skt" : "यत्र",
+      "word_tl" : "yatra"
+    }, {
+      "meaning_en" : "sleepeth",
+      "word_skt" : "सुप्तः",
+      "word_tl" : "suptaḥ"
+    }, {
+      "meaning_en" : "one",
+      "word_skt" : "कञ्चन",
+      "word_tl" : "kañcana"
+    }, {
+      "meaning_en" : "any desire",
+      "word_skt" : "कामम्",
+      "word_tl" : "kāmam"
+    }, {
+      "meaning_en" : "yearneth not with",
+      "word_skt" : "न कामयते",
+      "word_tl" : "na kāmayate"
+    }, {
+      "meaning_en" : "one",
+      "word_skt" : "कञ्चन",
+      "word_tl" : "kañcana"
+    }, {
+      "meaning_en" : "any dream",
+      "word_skt" : "स्वप्नम्",
+      "word_tl" : "svapnam"
+    }, {
+      "meaning_en" : "nor seeth",
+      "word_skt" : "न पश्यति",
+      "word_tl" : "na paśyati"
+    }, {
+      "meaning_en" : "that is the perfect slumber",
+      "word_skt" : "तत् सुषुप्तम्",
+      "word_tl" : "tat suṣuptam"
+    }, {
+      "meaning_en" : "he whose place is the perfect slumber",
+      "word_skt" : "सुषुप्तस्थानः",
+      "word_tl" : "suṣuptasthānaḥ"
+    }, {
+      "meaning_en" : "who is become Oneness",
+      "word_skt" : "एकीभूतः",
+      "word_tl" : "ekībhūtaḥ"
+    }, {
+      "meaning_en" : "who is wisdom gathered into itself",
+      "word_skt" : "प्रज्ञानघनः एव",
+      "word_tl" : "prajñānaghanaḥ eva"
+    }, {
+      "meaning_en" : "who is made of mere delight",
+      "word_skt" : "आनन्दमयः हि",
+      "word_tl" : "ānandamayaḥ hi"
+    }, {
+      "meaning_en" : "who enjoyeth delight unrelated",
+      "word_skt" : "आनन्दभुक्",
+      "word_tl" : "ānandabhuk"
+    }, {
+      "meaning_en" : "to whom conscious mind is the door",
+      "word_skt" : "चेतोमुखः",
+      "word_tl" : "cetomukhaḥ"
+    }, {
+      "meaning_en" : "Prajna, the Lord of Wisdom",
+      "word_skt" : "प्राज्ञः",
+      "word_tl" : "prājñaḥ"
+    }, {
+      "meaning_en" : "he is the third",
+      "word_skt" : "तृतीयः पादः",
+      "word_tl" : "tṛtīyaḥ pādaḥ"
+    } ],
+    "hindi_explain" : "जब कोई सोता है तथा किसी भी कामना की अभिलाषा नहीं करता, न किसी स्वप्न को देखता है, वह है पूर्ण सुषुप्तावस्था। सुषुप्ति जिसका स्थान है, जो 'एकीभूत' हो गया है, जो प्रज्ञानघन अर्थात् स्वयं में घनीभूत प्रज्ञा है जो केवल आनन्दमय है, जो निरपेक्ष आनन्द का रसास्वाद करता है, सचेतन मन जिसके लिए द्वार है 'प्राज्ञ' 'प्रज्ञा का ईश', 'वह' तृतीय पाद है।",
+    "meaning_en" : " When one sleepeth and yearneth not with any desire, nor seeth any dream, that is the perfect slumber. He whose place is the perfect slumber, who is become Oneness, who is wisdom gathered into itself, who is made of mere delight, who enjoyeth delight unrelated, to whom conscious mind is the door, Prajna, the Lord of Wisdom, He is the third.",
+    "n" : "5/6",
+    "p" : "5/4",
+    "u" : "5",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम्‌।\nसुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक्‌ चेतोमुखः प्राज्ञस्तृतीयः पादः ॥",
+    "verse_tl" : "yatra supto na kañcana kāmaṁ kāmayate na kañcana svapnaṁ paśyati tat suṣuptam |\nsuṣuptasthāna ekībhūtaḥ prajñānaghana evānandamayo hyānandabhuk cetomukhaḥ prājñastṛtīyaḥ pādaḥ ||"
+  }, {
+    "anvaya_skt" : "एषः सर्वेश्वरः। एषः सर्वज्ञः। एषः अन्तर्यामी। एषः सर्वस्य योनिः। हि भूतानां प्रभवाप्ययौ ॥",
+    "anvaya_tl" : "eṣaḥ sarveśvaraḥ| eṣaḥ sarvajñaḥ| eṣaḥ antaryāmī| eṣaḥ sarvasya yoniḥ| hi bhūtānāṁ prabhavāpyayau ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.6.mp3",
+    "auro_md" : "This is the Almighty, this is the Omniscient, this is the Inner Soul, this is the Womb of the Universe, this is the Birth and Destruction of creatures.",
+    "glossary" : [ {
+      "meaning_en" : "this is the Almighty",
+      "word_skt" : "एषः सर्वेश्वरः",
+      "word_tl" : "eṣaḥ sarveśvaraḥ"
+    }, {
+      "meaning_en" : "this is the Omniscient",
+      "word_skt" : "एषः सर्वज्ञः",
+      "word_tl" : "eṣaḥ sarvajñaḥ"
+    }, {
+      "meaning_en" : "this is the Inner Soul",
+      "word_skt" : "एषः अन्तर्यामी",
+      "word_tl" : "eṣaḥ antaryāmī"
+    }, {
+      "meaning_en" : "of the Universe",
+      "word_skt" : "एषः सर्वस्य",
+      "word_tl" : "eṣaḥ sarvasya"
+    }, {
+      "meaning_en" : "this is the Womb",
+      "word_skt" : "योनिः हि",
+      "word_tl" : "yoniḥ hi"
+    }, {
+      "meaning_en" : "of creatures",
+      "word_skt" : "भूतानाम्",
+      "word_tl" : "bhūtānām"
+    }, {
+      "meaning_en" : "this is the Birth and Destruction",
+      "word_skt" : "प्रभवाप्ययौ",
+      "word_tl" : "prabhavāpyayau"
+    } ],
+    "hindi_explain" : "यह 'सर्वेश्वर' है, यह 'सर्वज्ञ' है, यह है 'अन्तरात्मा'-अन्तर्यामी, यह समस्त विश्व की 'योनि' अर्थात् जन्म देने वाला 'गर्भ' है, यह समस्त प्राणियों की 'उत्पत्ति' एवं उनका 'प्रलय' है।",
+    "meaning_en" : " This is the Almighty, this is the Omniscient, this is the Inner Soul, this is the Womb of the Universe, this is the Birth and Destruction of creatures.",
+    "n" : "5/7",
+    "p" : "5/5",
+    "u" : "6",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "एष सर्वेश्वरः एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम्‌ ॥",
+    "verse_tl" : "eṣa sarveśvaraḥ eṣa sarvajña eṣo'ntaryāmyeṣa yoniḥ sarvasya prabhavāpyayau hi bhūtānām ||"
+  }, {
+    "anvaya_skt" : "न अन्तःप्रज्ञम्। न वहिःप्रज्ञम्। न उभयतःप्रज्ञम्। न प्रज्ञानधनम्।  न प्रज्ञम्। न अप्रज्ञम्।  अदृष्टम् अव्यवहार्यम् अग्राह्यम् अलक्षणम् अचिन्त्यम् अव्यपदेश्यम् एकात्मप्रत्यसारं प्रपञ्चोपशमम् शान्तं शिवम् अद्वैतं चतुर्थं मन्यन्ते  विवेकिनः । सः आत्मा सः विज्ञेयः ॥",
+    "anvaya_tl" : "na antaḥprajñam | na vahiḥprajñam | na ubhayataḥprajñam| na prajñānadhanam|  na prajñam| na aprajñam|  adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam ekātmapratyasāraṁ prapañcopaśamam śāntaṁ śivam advaitaṁ caturthaṁ manyante ( vivekinaḥ )| saḥ ātmā saḥ vijñeyaḥ ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.7.mp3",
+    "auro_md" : "He who is neither inward-wise, nor outward-wise, nor both inward and outward wise, nor wisdom self-gathered, nor possessed of wisdom, nor unpossessed of wisdom, He Who is unseen and incommunicable, unseizable, featureless, unthinkable, and unnameable, Whose essentiality is awareness of the Self in its single existence, in Whom all phenomena dissolve, Who is Calm, Who is Good, Who is the One than Whom there is no other, Him they deem the fourth; He is the Self, He is the object of Knowledge.",
+    "glossary" : [ {
+      "meaning_en" : "he who is neither inward wise",
+      "word_skt" : "न अन्तः प्रज्ञम्",
+      "word_tl" : "na antaḥ prajñam"
+    }, {
+      "meaning_en" : "nor outward wise",
+      "word_skt" : "न वहिः प्रज्ञम्",
+      "word_tl" : "na vahiḥ prajñam"
+    }, {
+      "meaning_en" : "nor both inward and outward wise",
+      "word_skt" : "न उभयतः प्रज्ञम्",
+      "word_tl" : "na ubhayataḥ prajñam"
+    }, {
+      "meaning_en" : "nor wisdom self gathered",
+      "word_skt" : "न प्रज्ञानधनम्",
+      "word_tl" : "na prajñānadhanam"
+    }, {
+      "meaning_en" : "nor possessed of wisdom",
+      "word_skt" : "न प्रज्ञम्",
+      "word_tl" : "na prajñam"
+    }, {
+      "meaning_en" : "nor unpossessed of wisdom",
+      "word_skt" : "न अप्रज्ञम्",
+      "word_tl" : "na aprajñam"
+    }, {
+      "meaning_en" : "he who is unseen",
+      "word_skt" : "अदृष्टम्",
+      "word_tl" : "adṛṣṭam"
+    }, {
+      "meaning_en" : "incommunicable",
+      "word_skt" : "अव्यवहार्यम्",
+      "word_tl" : "avyavahāryam"
+    }, {
+      "meaning_en" : "unseizable",
+      "word_skt" : "अग्राह्यम्",
+      "word_tl" : "agrāhyam"
+    }, {
+      "meaning_en" : "featureless",
+      "word_skt" : "अलक्षणम्",
+      "word_tl" : "alakṣaṇam"
+    }, {
+      "meaning_en" : "unthinkable",
+      "word_skt" : "अचिन्त्यम्",
+      "word_tl" : "acintyam"
+    }, {
+      "meaning_en" : "unnameable",
+      "word_skt" : "अव्यपदेश्यम्",
+      "word_tl" : "avyapadeśyam"
+    }, {
+      "meaning_en" : "whose essentiality is awareness of the Self in its single existence",
+      "word_skt" : "एकात्मप्रत्यसारम्",
+      "word_tl" : "ekātmapratyasāram"
+    }, {
+      "meaning_en" : "in whom all phenomena dissolve",
+      "word_skt" : "प्रपञ्चोपशमम्",
+      "word_tl" : "prapañcopaśamam"
+    }, {
+      "meaning_en" : "who is Calm",
+      "word_skt" : "शान्तम्",
+      "word_tl" : "śāntam"
+    }, {
+      "meaning_en" : "who is Good",
+      "word_skt" : "शिवम्",
+      "word_tl" : "śivam"
+    }, {
+      "meaning_en" : "who is the One than whom there is no other",
+      "word_skt" : "अद्वैतम्",
+      "word_tl" : "advaitam"
+    }, {
+      "meaning_en" : "the fourth",
+      "word_skt" : "चतुर्थम्",
+      "word_tl" : "caturtham"
+    }, {
+      "meaning_en" : "him they deem",
+      "word_skt" : "मन्यन्ते",
+      "word_tl" : "manyante"
+    }, {
+      "meaning_en" : "he is the Self",
+      "word_skt" : "सः आत्मा",
+      "word_tl" : "saḥ ātmā"
+    }, {
+      "meaning_en" : "he is the object of Knowledge",
+      "word_skt" : "सः विज्ञेयः",
+      "word_tl" : "saḥ vijñeyaḥ"
+    } ],
+    "hindi_explain" : "वह न अन्तःप्रज्ञ है न बहिष्प्रज्ञ है, न उभय-प्रज्ञ अर्थात् अन्तः एवं बहिष्प्रज्ञ एक साथ है, न वह प्रज्ञान-घन है, न प्रज्ञ (ज्ञाता) है, न अप्रज्ञ (अज्ञाता)। वह जो अदृष्ट है, अव्यवहार्य है, अग्राह्य है, अलक्षण है, अचिन्त्य है, अव्यपदेश्य अर्थात् अनिर्देश्य है, 'आत्मा' के ऐकान्तिक अस्तित्व का बोध ही जिसका सार है, 'जिसमें' समस्त प्रपञ्चात्मक जगत् का विलय हो जाता है, जो 'पूर्ण शान्त' है, जो 'शिवम्' है-मंगलकारी है, और जो 'अद्वैत' है, 'उसे' ही चतुर्थ (पाद) माना जाता है; 'वही' है 'आत्मा', एकमात्र 'वही' 'विज्ञेय' (जानने योग्य तत्त्व) है।",
+    "meaning_en" : " He who is neither inward wise, nor outward wise, nor both inward and outward wise, nor wisdom self gathered, nor possessed of wisdom, nor unpossessed of wisdom, He Who is unseen and incommunicable, unseizable, featureless, unthinkable, and unnameable,Whose essentiality is awareness of the Self in its single existence, in Whom all phenomena dissolve, Who is Calm, Who is Good, Who is the One than Whom there is no other, Him they deem the fourth; He is the Self, He is the object of Knowledge.",
+    "n" : "5/8",
+    "p" : "5/6",
+    "u" : "7",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्‌।\nअदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥",
+    "verse_tl" : "nāntaḥprajñaṁ na bahiṣprajñaṁ nobhayataḥprajñaṁ na prajñānaghanaṁ na prajñaṁ nāprajñam|\nadṛṣṭamavyavahāryamagrāhyamalakṣaṇamacintyamavyapadeśyamekātmapratyayasāraṁ prapañcopaśamaṁ śāntaṁ śivamadvaitaṁ caturthaṁ manyante sa ātmā sa vijñeyaḥ ||"
+  }, {
+    "anvaya_skt" : "सः अयम् आत्मा अध्यक्षरम् ओङ्कारः  एव । अधिमात्रम्  तु  पादाः मात्राः मात्राः च  मात्राः  अकारः उकारः मकारः इति ॥",
+    "anvaya_tl" : "saḥ ayam ātmā adhyakṣaram oṅkāraḥ ( eva )| adhimātram ( tu ) pādāḥ māatrāḥ mātrāḥ ca ( mātrāḥ ) akāraḥ ukāraḥ makāraḥ iti ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.8.mp3",
+    "auro_md" : "Now this the Self, as to the imperishable Word, is OM; and as to the letters, His parts are the letters and the letters are His parts, namely, A U M.",
+    "glossary" : [ {
+      "meaning_en" : "this the Self",
+      "word_skt" : "सः अयम् आत्मा",
+      "word_tl" : "saḥ ayam ātmā"
+    }, {
+      "meaning_en" : "as to the imperishable Word",
+      "word_skt" : "अध्यक्षरम्",
+      "word_tl" : "adhyakṣaram"
+    }, {
+      "meaning_en" : "is OM",
+      "word_skt" : "ओङ्कारः",
+      "word_tl" : "oṅkāraḥ"
+    }, {
+      "meaning_en" : "as to the letters M",
+      "word_skt" : "अधिमात्रम्",
+      "word_tl" : "adhimātram"
+    }, {
+      "meaning_en" : "his parts are the letters",
+      "word_skt" : "पादाः मात्राः",
+      "word_tl" : "pādāḥ māatrāḥ"
+    }, {
+      "meaning_en" : "the letters are His parts",
+      "word_skt" : "मात्राः च",
+      "word_tl" : "mātrāḥ ca"
+    }, {
+      "meaning_en" : "namely, A U M",
+      "word_skt" : "अकारः उकारः मकारः इति",
+      "word_tl" : "akāraḥ ukāraḥ makāraḥ iti"
+    } ],
+    "hindi_explain" : "अथ, यह है 'आत्मा', और 'अक्षर-शब्द' है 'ओम्'; और 'उसके' पाद (अंश) हैं उसके वर्णाक्षर, तथा वर्णाक्षर हैं 'उसके' पादांश-'अकार', 'उकार' तथा 'मकार'।",
+    "meaning_en" : " Now this the Self, as to the imperishable Word, is OM; and as to the letters, His parts are the letters and the letters are His parts, namely, A U M.",
+    "n" : "5/9",
+    "p" : "5/7",
+    "u" : "8",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "सोऽयमात्माध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा मात्राश्च पादा अकार उकारो मकार इति ॥",
+    "verse_tl" : "so'yamātmādhyakṣaramoṅkāro'dhimātraṁ pādā mātrā mātrāśca pādā akāra ukāro makāra iti ||"
+  }, {
+    "anvaya_skt" : "जागरितस्थानः वैश्वानरः अकारः प्रथमा मात्रा।  यतः  आप्तेः आदिमत्वात् वा यः एवं वेद। सः ह वै सर्वान् कामान् आप्नोति। आदि च भवति ॥",
+    "anvaya_tl" : "jāgaritasthānaḥ vaiśvānaraḥ akāraḥ prathamā mātrā| ( yataḥ ) āpteḥ ādimatvāt vā yaḥ evaṁ veda | saḥ ha vai sarvān kāmān āpnoti| ādi ca bhavati ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.9.mp3",
+    "auro_md" : "The Waker, Vaiswanor, the Universal Male, He is A, the first letter, because of Initiality and Pervasiveness; he that knoweth Him for such pervadeth and attaineth all his desires; he becometh the source and first.",
+    "glossary" : [ {
+      "meaning_en" : "the Waker",
+      "word_skt" : "जागरितस्थानः",
+      "word_tl" : "jāgaritasthānaḥ"
+    }, {
+      "meaning_en" : "Vaiswanara, the Universal Male",
+      "word_skt" : "वैश्वानरः",
+      "word_tl" : "vaiśvānaraḥ"
+    }, {
+      "meaning_en" : "he is A",
+      "word_skt" : "अकारः",
+      "word_tl" : "akāraḥ"
+    }, {
+      "meaning_en" : "the first letter",
+      "word_skt" : "प्रथमा मात्रा",
+      "word_tl" : "prathamā mātrā"
+    }, {
+      "meaning_en" : "because of Pervasiveness",
+      "word_skt" : "आप्तेः",
+      "word_tl" : "āpteḥ"
+    }, {
+      "meaning_en" : "and Initiality",
+      "word_skt" : "आदिमत्वात् वा",
+      "word_tl" : "ādimatvāt vā"
+    }, {
+      "meaning_en" : "that knoweth Him for such",
+      "word_skt" : "यः एवम् वेद",
+      "word_tl" : "yaḥ evam veda"
+    }, {
+      "meaning_en" : "he",
+      "word_skt" : "सः ह वै",
+      "word_tl" : "saḥ ha vai"
+    }, {
+      "meaning_en" : "all his desires",
+      "word_skt" : "सर्वान् कामान्",
+      "word_tl" : "sarvān kāmān"
+    }, {
+      "meaning_en" : "pervadeth and attaineth",
+      "word_skt" : "आप्नोति",
+      "word_tl" : "āpnoti"
+    }, {
+      "meaning_en" : "he becometh the source and first",
+      "word_skt" : "आदि च भवति",
+      "word_tl" : "ādi ca bhavati"
+    } ],
+    "hindi_explain" : "जागरित-अवस्थावाला, 'वैश्वानरः'-वैश्व-पुरुष', अपने 'आदित्व' एवं 'व्यापकता' के कारण 'वह' है 'अकार', प्रथम वर्णाक्षर; जो 'उसे' इस प्रकार जानता है वह सर्वव्याप्त हो जाता है तथा अपनी समस्त कामनाओं को प्राप्त करता है; वह स्वयं 'आदि'-उत्स एवं आरम्भ-बन जाता है।",
+    "meaning_en" : " The Waker, Vaiswanara, the Universal Male, He is A, the first letter, because of Initiality and Pervasiveness; he that knoweth Him for such pervadeth and attaineth all his desires; he becometh the source and first.",
+    "n" : "5/10",
+    "p" : "5/8",
+    "u" : "9",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्रा।\nआप्तेरादिमत्वाद् वा आप्नोति ह वै सर्वान्‌ कामानादिश्च भवति य एवं वेद ॥",
+    "verse_tl" : "jāgaritasthāno vaiśvānaro'kāraḥ prathamā mātrā|\nāpterādimatvād vā āpnoti ha vai sarvān kāmānādiśca bhavati ya evaṁ veda ||"
+  }, {
+    "anvaya_skt" : "स्वप्नस्थानः तैजसः उकारः द्वितीया मात्रा। उत्कर्षात् उभयत्वात् वा। यः एवं वेद  सः  ज्ञानसन्ततिं उतर्षति। समानः भवति। अस्य कुले अब्रह्मवित् न भवति ॥",
+    "anvaya_tl" : "svapnasthānaḥ taijasaḥ ukāraḥ dvitīyā mātrā| utkarṣāt ubhayatvāt vā| yaḥ evaṁ veda ( saḥ ) jñānasantatiṁ utarṣati| samānaḥ bhavati| asya kule abrahmavit na bhavati ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.10.mp3",
+    "auro_md" : "The Dreamer, Taijasa, the Inhabitant in Luminous Mind, He is U, the second letter, because of Advance and Centrality; he that knoweth Him for such, advanceth the bounds of his knowledge and riseth above difference; nor of his seed is any born that knoweth not the Eternal.",
+    "glossary" : [ {
+      "meaning_en" : "the Dreamer",
+      "word_skt" : "स्वप्नस्थानः",
+      "word_tl" : "svapnasthānaḥ"
+    }, {
+      "meaning_en" : "Taijasa, the Inhabitant in Luminous Mind",
+      "word_skt" : "तैजसः",
+      "word_tl" : "taijasaḥ"
+    }, {
+      "meaning_en" : "He is U",
+      "word_skt" : "उकारः",
+      "word_tl" : "ukāraḥ"
+    }, {
+      "meaning_en" : "the second letter",
+      "word_skt" : "द्वितीया मात्रा",
+      "word_tl" : "dvitīyā mātrā"
+    }, {
+      "meaning_en" : "because of Advance",
+      "word_skt" : "उत्कर्षात्",
+      "word_tl" : "utkarṣāt"
+    }, {
+      "meaning_en" : "and Centrality",
+      "word_skt" : "उभयत्वात् वा",
+      "word_tl" : "ubhayatvāt vā"
+    }, {
+      "meaning_en" : "he that knoweth Him for such",
+      "word_skt" : "यः एवम् वेद",
+      "word_tl" : "yaḥ evam veda"
+    }, {
+      "meaning_en" : "the bounds of his knowledge",
+      "word_skt" : "ज्ञानसन्ततिम्",
+      "word_tl" : "jñānasantatim"
+    }, {
+      "meaning_en" : "advanceth",
+      "word_skt" : "उतर्षति",
+      "word_tl" : "utarṣati"
+    }, {
+      "meaning_en" : "and riseth above difference",
+      "word_skt" : "समानः भवति",
+      "word_tl" : "samānaḥ bhavati"
+    }, {
+      "meaning_en" : "in his family",
+      "word_skt" : "अस्य कुले",
+      "word_tl" : "asya kule"
+    }, {
+      "meaning_en" : "that knoweth not the Eternal",
+      "word_skt" : "अब्रह्मवित्",
+      "word_tl" : "abrahmavit"
+    }, {
+      "meaning_en" : "none takes birth",
+      "word_skt" : "न भवति",
+      "word_tl" : "na bhavati"
+    } ],
+    "hindi_explain" : "स्वप्न-अवस्थावाला, 'तेजस'--'तेजोमय मन में निवास करने वाला'-अपनी 'श्रेष्ठता' (उत्कर्ष) एवं 'मध्यमावस्था' (उभयत्व) के कारण 'वह' है 'उकार', द्वितीय वर्णाक्षर; जो 'उसे' इस प्रकार जानता है वह अपने ज्ञान की सीमाओं का उत्कर्ष करता (अभी बढ़ाता) है तथा असमानताओं से ऊपर उठ जाता है; ऐसे व्यक्ति के कुल में उसके वीर्य से उत्पन्न सन्तति 'अब्रह्मविद्' (ब्रह्म को न जानने वाली) नहीं होती।",
+    "meaning_en" : " The Dreamer, Taijasa, the Inhabitant in Luminous Mind, He is U, the second letter, because of Advance and Centrality; he that knoweth Him for such, advanceth the bounds of his knowledge and riseth above difference; nor of his seed is any born that knoweth not the Eternal.",
+    "n" : "5/11",
+    "p" : "5/9",
+    "u" : "10",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रा उत्कर्षादुभयत्वाद् वा उत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित् कुले भवति य एवं वेद ॥",
+    "verse_tl" : "svapnasthānastaijasa ukāro dvitīyā mātrā utkarṣādubhayatvād vā utkarṣati ha vai jñānasantatiṁ samānaśca bhavati nāsyābrahmavit kule bhavati ya evaṁ veda ||"
+  }, {
+    "anvaya_skt" : "सुषुप्तस्थानः प्राज्ञः तृतीया मात्रा मकारः। मितेः अपीतेः वा यः एवं वेद  सः  ह वै इदं मिनोति। अपीतिः च भवति ॥",
+    "anvaya_tl" : "suṣuptasthānaḥ prājñaḥ tṛtīyā mātrā makāraḥ| miteḥ apīteḥ vā yaḥ evaṁ veda ( saḥ ) ha vai idaṁ minoti| apītiḥ ca bhavati ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.11.mp3",
+    "auro_md" : "The Sleeper, Prajna, the Lord of Wisdom, He is M, the third letter, because of Measure and Finality; he that knoweth Him for such measureth with himself the Universe and becometh the departure into the Eternal.",
+    "glossary" : [ {
+      "meaning_en" : "the Sleeper",
+      "word_skt" : "सुषुप्तस्थानः",
+      "word_tl" : "suṣuptasthānaḥ"
+    }, {
+      "meaning_en" : "Prajna, the Lord of Wisdom",
+      "word_skt" : "प्राज्ञः",
+      "word_tl" : "prājñaḥ"
+    }, {
+      "meaning_en" : "the third letter",
+      "word_skt" : "तृतीया मात्रा",
+      "word_tl" : "tṛtīyā mātrā"
+    }, {
+      "meaning_en" : "he is M",
+      "word_skt" : "मकारः",
+      "word_tl" : "makāraḥ"
+    }, {
+      "meaning_en" : "because of Measure",
+      "word_skt" : "मितेः",
+      "word_tl" : "miteḥ"
+    }, {
+      "meaning_en" : "and Finality",
+      "word_skt" : "अपीतेः वा",
+      "word_tl" : "apīteḥ vā"
+    }, {
+      "meaning_en" : "he that knoweth Him for such",
+      "word_skt" : "यः एवम् ह वेद",
+      "word_tl" : "yaḥ evam ha veda"
+    }, {
+      "meaning_en" : "the Universe",
+      "word_skt" : "इदम् वै",
+      "word_tl" : "idam vai"
+    }, {
+      "meaning_en" : "measureth with himself",
+      "word_skt" : "मिनोति",
+      "word_tl" : "minoti"
+    }, {
+      "meaning_en" : "and becometh the departure into the Eternal",
+      "word_skt" : "अपीतिः च भवति",
+      "word_tl" : "apītiḥ ca bhavati"
+    } ],
+    "hindi_explain" : "सुषुप्त-अवस्थावाला, 'प्राज्ञ'-'प्रज्ञा का ईश्वर' मापने के कारण तथा 'अन्तिमावस्था' के कारण, 'वह' है 'मकार', तृतीय वर्णाक्षर; जो 'उसे' इस प्रकार जानता है वह अपने साथ सम्पूर्ण 'विश्व' को माप लेता है एवं 'ब्रह्म' में लीन हो जाता है।",
+    "meaning_en" : " The Sleeper, Prajna, the Lord of Wisdom, He is M, the third letter, because of Measure and Finality; he that knoweth Him for such measureth with himself the Universe and becometh the departure into the Eternal.",
+    "n" : "5/12",
+    "p" : "5/10",
+    "u" : "11",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा मिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥",
+    "verse_tl" : "suṣuptasthānaḥ prājño makārastṛtīyā mātrā miterapītervā minoti ha vā idaṁ sarvamapītiśca bhavati ya evaṁ veda ||"
+  }, {
+    "anvaya_skt" : "अमात्रः अव्यवहार्यः प्रपञ्चोपशमः शिवः अद्वैतः चतुर्थः एवम् ओंकारः आत्मा एव। यः एवं वेद  सः  आत्मना आत्मानं संविशति ॥",
+    "anvaya_tl" : "amātraḥ avyavahāryaḥ prapañcopaśamaḥ śivaḥ advaitaḥ caturthaḥ evam oṁkāraḥ ātmā eva| yaḥ evaṁ veda ( saḥ ) ātmanā ātmānaṁ saṁviśati ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.12.mp3",
+    "auro_md" : "Letterless is the fourth, the Incommunicable, the end of phenomena, the Good, the One than Whom there is no other; thus is OM. He that knoweth is the Self and entereth by his self into the Self, he that knoweth, he that knoweth.\n\n*Here ends the Mandoukya Upanishad.*\n\n---\n\n*After which one repeats the Mantra.",
+    "glossary" : [ {
+      "meaning_en" : "letterless",
+      "word_skt" : "अमात्रः",
+      "word_tl" : "amātraḥ"
+    }, {
+      "meaning_en" : "the Incommunicable",
+      "word_skt" : "अव्यवहार्यः",
+      "word_tl" : "avyavahāryaḥ"
+    }, {
+      "meaning_en" : "the end of phenomena",
+      "word_skt" : "प्रपञ्चोपशमः",
+      "word_tl" : "prapañcopaśamaḥ"
+    }, {
+      "meaning_en" : "the Good",
+      "word_skt" : "शिवः",
+      "word_tl" : "śivaḥ"
+    }, {
+      "meaning_en" : "the One than Whom there is no other",
+      "word_skt" : "अद्वैतः",
+      "word_tl" : "advaitaḥ"
+    }, {
+      "meaning_en" : "is the fourth",
+      "word_skt" : "चतुर्थः",
+      "word_tl" : "caturthaḥ"
+    }, {
+      "meaning_en" : "thus is OM",
+      "word_skt" : "एवम् ओंकारः",
+      "word_tl" : "evam oṁkāraḥ"
+    }, {
+      "meaning_en" : "the Self",
+      "word_skt" : "आत्मा एव",
+      "word_tl" : "ātmā eva"
+    }, {
+      "meaning_en" : "by his self",
+      "word_skt" : "आत्मना",
+      "word_tl" : "ātmanā"
+    }, {
+      "meaning_en" : "into the Self",
+      "word_skt" : "आत्मानम्",
+      "word_tl" : "ātmānam"
+    }, {
+      "meaning_en" : "entereth",
+      "word_skt" : "संविशति",
+      "word_tl" : "saṁviśati"
+    } ],
+    "hindi_explain" : "चतुर्थ है 'अवर्णाक्षर' (अमात्रा), 'अव्यवहार्य', इस (सृष्टि) प्रपञ्च का उपशम अर्थात् अन्त, परम मंगलकारी-'शिव', 'अद्वैत' (अद्वितीय) ऐसा है 'ओम्'। 'आत्मा' ही आत्मा के द्वारा 'आत्मा' में प्रवेश करके 'आत्मा' को जानता है, जो यह जानता है, वही यह जानता है।",
+    "meaning_en" : " Letterless is the fourth, the Incommunicable, the end of phenomena, the Good, the One than Whom there is no other; thus is OM. He that knoweth is the Self and entereth by his self into the Self, he that knoweth, he that knoweth.",
+    "n" : "",
+    "p" : "5/11",
+    "u" : "12",
+    "uname_skt" : "माण्डुक्योपनिषद्",
+    "uname_tl" : "māṇḍukyopaniṣad",
+    "verse_skt" : "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोङ्कार आत्मैव संविशत्यात्मनात्मानं य एवं वेद य एवं वेद ॥",
+    "verse_tl" : "amātraścaturtho'vyavahāryaḥ prapañcopaśamaḥ śivo'dvaita evamoṅkāra ātmaiva saṁviśatyātmanātmānaṁ ya evaṁ veda ya evaṁ veda ||"
+  } ]
+}

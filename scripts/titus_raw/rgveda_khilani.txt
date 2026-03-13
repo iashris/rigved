@@ -1,0 +1,3985 @@
+[struct] Text: RVKh
+[struct] Adhyaya: 1
+[struct] Hymn: intr.
+[struct] Halfverse: 1
+[text] oṃ   namo   viṣṇave  /
+[struct] Halfverse: 2
+[text] atʰa   kʰileṣu   sūktapratīkādy   uktaṃ   prayojana[m ... ] ...  śatarcyādīnām   adʰidaivatā   lakṣaṇāni   ca  /
+[struct] Halfverse: 3
+[text] cʰandasāṃ   cādʰikyaṃ   ca  /
+[struct] Halfverse: 4
+[text] kr̥tiḫ   prakr̥tir   ākr̥tir   vikr̥tis   saṃkr̥tir   abʰikr̥tir   utkr̥tir   ity  1)  aśīty   akṣarādīni ,  caturuttarāṇy  2)  eva   yajūṃṣi ,  saṅkʰyānuvartanāditulyaṃ  3)  r̥ṣīṇāṃ   ca   tulyanāmnāṃ   gotram   anādeśe ,  kʰilānyantaraṃ  4)  mantroktāny   eva   saṅkʰyādīni   *sambʰavet  5) //
+[struct] Hymn: anuk.
+[struct] Halfverse: 1
+[text] saṃ   tr̥caṃ   śaśvat   ṣaḍūnā   tārkṣyas   suparṇa   āśvinaṃ   vai   tat   saptamy   āgneyī   parā   aindrī   ekādaśī   vā   navamī   liṅgoktā   devatā   aṣṭamyādi   virāḍrūpāś  1)  catasro   jagatya   urobr̥hatī   pra   sapta   brāhmyo  2)  niṣadupaniṣadau   dvitīyā   jagatī   ṣaṣṭʰī   virāṭstʰānā   jyotiṣmantaṃ   daśa   bʰāradvājo   jyotiṣmāṃ  3)  ṣaṣṭʰyādyā   liṅgoktadevatām  4)  ānuṣṭum  5)  navamyantye   ca   kr̥śa   ekādaśāśvinaẖ   kr̥śa   ādyāṣ   ṣaḍ   liṅgoktadevatā   ānuṣṭubʰam   imāni   saptāpunardoṣa   aindrāvaruṇaṃ   jāgatam   ayam̐   ṣaḍ   retāgāṅgyo   yadā   tr̥caṃ   yāmuniḫ   praṇetā  /
+[struct] Halfverse: 2
+[text] yaṃ   ṣaḍ   yajñavatso   yaṃ   catuṣkaṃ   gaurīvītir   idam   aṣṭau   cakṣuṣī   āśvināpadoṣaṣ   ṣaṣṭʰī   jagaty   atrānuktagotrās   sauparṇāḥ  //
+[struct] Hymn: 1
+[text] oṃ
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] sámaikṣiṣyordʰvámahasa   ādityéna   sahī́yasā  /
+[struct] Halfverse: b
+[text] aháṃ   yyáśasvínāṃ   yáśo   viśvā   rūpā́ṇy   ā́   dade  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] udyánn   adyá   ví   no   bʰaja   pitā́   putrébʰyo   yátʰā  /
+[struct] Halfverse: b
+[text] dīrgʰāyutvásya   heśiṣe   tásya   no   dʰehi   sūrya  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] udyántan   tvā   mitramaha   āróhantaṃ   vvicakṣaṇa  /
+[struct] Halfverse: b
+[text] páśyema   śarádaś   śatáṃ   jī́vema   śarádaś   śatám  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] abʰí   tyáṃ   meśáṃ   puruhūtám   r̥gmíyam  / 1 /
+[struct] Hymn: 2
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] śáśvan   nā́satyā   yuváyor   mahitváṃ   gā́vo   arcanti   sádam   ít   purukṣū
+[struct] Halfverse: b
+[text] yád   ūhátʰur   aśvinā   bʰujyúm   ástam   anārambʰaṇé   ádʰvani   taugryám   ástam  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yád   áśvam̐   śvetáṃ   dádʰato   abʰigʰnán   nā́satyā   bʰujyū́sumátāya   peráve  /
+[struct] Halfverse: b
+[text] tā́ṃ   vvām̐   rátiṃ   vvidátʰeṣu   viprā   rébʰanto   dasrāv   agamán   manasyúm  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] ā́   no   vipanyū   sávanaṃ   juṣétʰām   ā́   vām̐   ham̐sā́s   suyujo   vahántu  /
+[struct] Halfverse: b
+[text] yuvā́m̐   stómāso   jánayo   ná   máryā   uśánto   dasrā   vr̥ṣaṇā   sacente  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] ā́   no   yātaṃ   tr̥vŕ̥tā   somapéyam̐   rátʰena   dyukṣā   sávanaṃ   mádāya  /
+[struct] Halfverse: b
+[text] stīrṇáṃ   vāṃ   barhís   súṣutā   mádʰūni   yuktā́   hótāro   ratʰinā́s   suhástāḥ
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] vā́sātyau   citraú   jágato   nidʰā́nau   dyā́vābʰūmī   śr̥ṇutám̐   rodásī   me  /
+[struct] Halfverse: b
+[text] tā́v   aśvínā   rā́sabʰāśvā   hávam   me   śubʰaspatī   ā́gatam̐   sūryáyā   sahá  / 2 /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] pérṣas   santu   mádʰuno   gʰr̥tásya   tīvrám̐   sómaṃ   ní   vapantu   śuṣmíṇaḥ
+[struct] Halfverse: b
+[text] eváṃ   tátʰā   yuvaty   *áśvinau   bāhū́   ū́rjaṃ   duhatu   mádʰunā   gʰr̥téna  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] ágne   maddantu   yátayas   stómāḫ   prá   ṇú   tyaṃ   diváṃ   yyānti   gʰarmám  /
+[struct] Halfverse: b
+[text] cáturdaśaṃ   tridívaṃ   yyuvānam   ójo   mimātu   dráviṇam̐   suméke  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] hárim̐   hinomi   dáyamāno   am̐śú   purumīḍʰá   r̥ṣabʰám   jáyān  /
+[struct] Halfverse: b
+[text] háryaśvam̐   háritas   saptā́śvaṃ   yyuktā́nemiṃ   trinā́bʰiṃ   vváruṇaṃ   pragā́tʰas   svastáye  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] sómo   vaiṣṇaváṃ   mahimā́nam   ojas   saptá   ŕ̥ṣayas   suvī́rā   nárāḫ   prīṇayanti  /
+[struct] Halfverse: b
+[text] saudʰanvanā́sas   suhástāś   śámībʰis   tvaṣṭám   āṅgirasám   r̥bʰávaṃ   svastáye  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] ihaíha   vo   mágʰavan   ní   dadʰāmi   dʰruváṃ   tīvráṃ   ca   tám̐   hr̥diyántaṃ   br̥háspatim  /
+[struct] Halfverse: b
+[text] sáte   dadʰāmi   dráviṇam̐   havíṣmate   gʰarmáś   cit   taptáḫ   pravŕ̥je   váhanti  / 3 /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] śáśvat   sauparṇaú   víṣitastukáṃ   vvāyasáṃ   viśvabʰújaḫ   patʰirákṣī   nr̥cákṣasau  /
+[struct] Halfverse: b
+[text] iyám̐   hítvā   dáyamānaṃ   pŕ̥cadbʰir   māṃ   vvāyasó   doṣā́d   dáyamāno   abubudʰat  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] tám   ekanemíṃ   trívr̥taṃ   ṣoḍaśā́ram̐   śatā́vāraṃ   vvim̐śatí   prátyarābʰiḥ
+[struct] Halfverse: b
+[text] aṣṭakaíṣ   ṣaḍbʰír   viśvarū́paikapā́śaṃ   trímārgabʰedáṃ   dvínimittaíkamóham
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] sádam̐   sádam   ekámakaṃ   tastʰúṣaḫ   pañcátriṃśād   daśáparam
+[struct] Halfverse: b
+[text] tríṃśatam̐   śívaṃ   návaguhyaṃ   yajñám   aṣṭaṣaṣṭʰaṃ   vidat
+[struct] Verse: 14
+[struct] Halfverse: a
+[text] átiṣṭʰad   vájraṃ   vvŕ̥ṣaṇam̐   suvīraṃ   dadʰanváṃ   devā́m̐   hárim   indrakeśam
+[struct] Halfverse: b
+[text] āyā́m̐   índraṣ   ṣoḍaśī́   śárma   yaccʰatu   ṣaḍvarmíṇam   ékaṃ   dʰruván   ti   sākám  / 4
+[struct] Hymn: 3
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] prá   dʰā́rā   yantu   mádʰuno   gʰr̥tásya   yad   ávindatam̐   sū́rī   usríyāyām  /
+[struct] Halfverse: b
+[text] mitrā́váruṇau   bʰúvanasya   kārū́   tā́   me   aśvinā   juṣatām̐   sa[vánā]  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] su[kʰám̐]   rátʰam̐   śatáyāvānam   āśúṃ   prataryā́vāṇam̐   suṣádam̐   hiraṇyáyam  /
+[struct] Halfverse: b
+[text] ā́   tiṣṭʰad   yátra   duhitā́   vivásvatas   tám   evā́rvā́ñcam   ávase   karāmahe  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yé   vām   áśvāso   ratʰirā́   vipaścíto   vā́tadʰrājiṣas   suyújo   gʰr̥taścútaḥ  /
+[struct] Halfverse: b
+[text] yébʰir   yātʰa   úpa   sūryā́ṃ   vvareyáṃ   tébʰir   no   dasrā   vardʰatam̐   samátsu  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yád   vām̐   réto   aśvinā   poṣayitnú   yád   rā́sabʰo   vadʰrimatyaís   *sudānū  /
+[struct] Halfverse: b
+[text] yásmāj   jajñé   devákāmas   sudákṣas   tád   asyai   dattaṃ   bʰiṣajāv   abʰidyú  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yán   nāsā́tyā   bʰeṣajáṃ   cittrábʰānū   yénā́vatʰus   tokákāmām   u   nú   gʰoṣā́m  /
+[struct] Halfverse: b
+[text] tád   asyai   dattaṃ   triṣú   pum̐su   *vadʰvaí   yénā́vindatu   náyam̐   sā   suhástyam  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] váṣaḍ   vān   dásrāv   asmin   suté   nā́satyā   hótā   kr̥ṇotu   vedʰā́ḥ
+[struct] Halfverse: b
+[text] sísratān   nā́ry   r̥táprajātā   ví   párvāṇi   jihatām̐   sū́tavā́   u  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] evā́   niṣác   copaniṣác   ca   víprā   yuvā́m̐   rébʰatyau   sayújā   supárṇyau  /
+[struct] Halfverse: b
+[text] bráhmāṇyakratur   vidátʰeṣu   śákrā   dʰattán   táyos   tánayan   tokám   ágryam  // 5 //
+[struct] Hymn: 4
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] jyótiṣmantaṃ   ketumántan   tricakrám̐   sukʰám̐   rátʰam̐   suṣádaṃ   bʰū́rimāyam  /
+[struct] Halfverse: b
+[text] cittrā́magʰā   yásya   yóge   dʰi   jajñe   táṃ   vām̐   huvé   áti   riktaṃ   píbadʰyai  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yuván   devā́   krátunā   pūrvyéṇa   yuktā́   rátʰena   taviṣáṃ   yajatrā  /
+[struct] Halfverse: b
+[text] ā́   gaccʰatan   nāsatyā   śácībʰir   idáṃ   tr̥tī́yam̐   sávanaṃ   píbātʰaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yuvā́n   devā́s   tráya   ekādaśā́sas   satyā́   satyásya   dadʰire   purástāt  /
+[struct] Halfverse: b
+[text] asmā́kaṃ   yyajñám̐   sávanañ   juṣāṇā́   pātám̐   sómam   aśvinā   dī́dyagnī  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] panā́yyaṃ   tád   aśvinākr̥táṃ   vvāṃ   vr̥ṣabʰó   divó   rájasaḫ   pr̥tʰivyā́ḥ  /
+[struct] Halfverse: b
+[text] sahásram̐   śám̐sā   utá   yé   gáviṣṭʰau   sárvām̐   ít   tā́m̐   úpa   yātaṃ   píbadʰyai  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ayáṃ   vvāṃ   bʰāgó   níhito   yájatremā́   gíro   nāsatyópa   yātam  /
+[struct] Halfverse: b
+[text] píbatam̐   sómaṃ   mádʰumantam   aśvinā   prá   dāśvā́m̐sam   avatam̐   śácībʰiḥ  // 6 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] jyótiṣmantam̐   suprátīkam   ájasreṇa   bʰānúnā   dī́dyagnī  /
+[struct] Halfverse: b
+[text] śiváṃ   prajā́nāṃ   kr̥ṇuṣva   mā́   him̐sīḫ   púruṣaṃ   jágat  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] dʰātā́   rātís   savitédáñ   *juṣantāṃ   tváṣṭā   yád   dū́to   ábʰavad   vivásvataḥ  /
+[struct] Halfverse: b
+[text] sáṃ   vvām   aśvíbʰyām   uṣásā   sajū́s   tám   ūrváṃ   gávyaṃ   máhi   gr̥ṇāná   indra  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] bʰarádvājasya   sunváto   yaviṣṭʰā́   yāhy   agne   mádʰumattamas   sutáḥ  /
+[struct] Halfverse: b
+[text] somásya   mā   taváso   dī́dʰyānā   áccʰā   kóśaṃ   janáyitvā́vato   bʰuvat  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] agníḫ   pr̥tʰúr   bráhmaṇaspátis   sómo   devéṣv   ā́   yamat  /
+[struct] Halfverse: b
+[text] índrasyā́dʰipatya   me   bŕ̥haspate   hávīm̐ṣi   te  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] rucáṃ   brā́hmyaṃ   janáyanto   devā́   agré   yád   ábruvan  /
+[struct] Halfverse: b
+[text] yás   tvedám   brāhmaṇó   vidyā́t   tásya   devā́   asan   váśe  // 7 //
+[struct] Hymn: 5
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] kr̥śás   tváṃ   bʰuvanaspate   pā́ti   devā́nām   ádbʰutaḥ  /
+[struct] Halfverse: b
+[text] áśvinā   pātám   asmayū́   nā́satyā   tiróahnyam  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] tván   tám̐   suparṇa   ā́   bʰara   divás   putrā́   ní   ṣedire  /
+[struct] Halfverse: b
+[text] agníḫ   prajā́nām   abʰavaj   jā́tavedo   vícarṣaṇe  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] agnír   hótā   vibʰū́   vásur   devā́nām   uttamáṃ   yyáśaḥ  /
+[struct] Halfverse: b
+[text] púnar   agníḫ   prajā́patir   vaiśvānaró   hiraṇyáyaḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] agnís   trātā́   śivó   bʰavad   varūtʰyò   viśvádevyoḥ  /
+[struct] Halfverse: b
+[text] dráviṇaṃ   pāhi   viśvátas   somapā́   abʰayaṅkaráḥ  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ágne   ní   jahi   mármāṇy   arātī́nāṃ   ca   mármaṇām  /
+[struct] Halfverse: b
+[text] dīrgʰāyutvásya   heśiṣe   tásya   no   dʰehi   sūrya  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] udyántan   tvā   mitramaha   ārohántaṃ   vvicakṣaṇa  /
+[struct] Halfverse: b
+[text] páśyema   śarádaś   śatáṃ   jī́vema   śarádaś   śatám  // 8 //
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] kr̥śáṃ   cyávānam   ŕ̥śim   andʰám   aśvinā   jujurvā́m̐saṃ   kr̥ṇutʰaẖ   kárvarebʰiḥ
+[struct] Halfverse: b
+[text] akṣaṇvántam̐   stʰūlavápuṣkam   ugrā́   púnar   yúvānaṃ   pátim   ít   kanī́nām  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] yó   vām̐   sómair   havíṣā   yó   gʰr̥téna   védena   yó   mánasā   vāśá   śakrā  /
+[struct] Halfverse: b
+[text] sá   dʰatte   rátnaṃ   dyumád   índravantam   puruspŕ̥haṃ   pr̥tanājyám̐   suvī́ram  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] prá   vān   narā   saptávadʰrir   manīṣā́   gíram̐   hinvát   prativābʰyām   idā́nīm  /
+[struct] Halfverse: b
+[text] vr̥kṣā́   samuddʰám   uśánā   yúvānam   átʰa   táṃ   kr̥ṇuta   mā   vírapśin[am]  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] ájohavīt   saptávadʰris   suhásta   drúṇi   baddʰó   ryyásamānaḫ   kakúdmān  /
+[struct] Halfverse: b
+[text] árūrujataṃ   yyuvám   ásya   vr̥kṣám   ádrin   ná   vajrī   suvr̥ṣāyámāṇaḥ  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] evā́   kr̥śáś   cakamānám   anā[...]s   suhávā   rātísūraḥ  /
+[struct] Halfverse: b
+[text] bráhmacakre   yuváyor   várdʰanāni   dʰattáṃ   tásmai   sádam   árātidabdʰím  // 9 //
+[struct] Hymn: 6
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] īmā́ni   vāṃ   bʰāgadʰéyāni   sisrata   índrāvaruṇā   prá   mahé   sutéṣu   vām  /
+[struct] Halfverse: b
+[text] yajñé   yajñe   hí   sávanā   bʰuraṇyátʰo   yát   sunvaté   yájamānāya   śíkṣatʰaḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] niṣṣídʰvarīr   óṣadʰīr   ā́pa   ā́bʰyām   índrāvaruṇā   mahimā́nam   āśata  /
+[struct] Halfverse: b
+[text] yā́   tastʰátū   rájasas   pāré   ádʰvano   yáyoś   śátrur   nákir   ā́deva   óhate  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] satyán   tád   indrāvaruṇā   gʰr̥taścútam   mádʰva   ūrmín   duhate   saptá   vā́ṇīḥ  /
+[struct] Halfverse: b
+[text] tā́bʰir   dāśvā́m̐sam   avatam̐   śubʰaspatī   yó   vām   ádabdʰo   abʰí   pā́ti   cíttibʰiḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] gʰr̥taprúṣas   saúmyā   jīrádānavas   saptá   svásāras   sádana   r̥tásya  /
+[struct] Halfverse: b
+[text] yā́   ha   vām   indrāvaruṇā   gʰr̥taścútā   tā́bʰir   dákṣaṃ   yyájamānāya   śikṣatam  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ávocāma   mahaté   saúbʰagāya   satyáṃ   tveśā́bʰyām   mahimā́nam   indriyám  /
+[struct] Halfverse: b
+[text] asmā́n   sv   indrāvaruṇā   gʰr̥taścútā   tríbʰis   saptébʰir   avatam̐   śubʰaspatī  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] índrāvaruṇā   yád   r̥ṣíbʰyo   manīṣā́   vācó   matím̐   śśrutám   ádʰattam   ágre  /
+[struct] Halfverse: b
+[text] tā́ni   ccʰándām̐sy   asr̥janta   dʰī́rā   yajnán   tanvānā́s   tápasābʰy   ápaśyan  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] índrāvaruṇā   saumanasám   ádr̥ptam̐   rāyás   póṣaṃ   yyájamāneṣu   dʰattam  /
+[struct] Halfverse: b
+[text] prajā́ṃ   puṣṭím̐   rayím   asmā́su   dʰattaṃ   dīrgʰāyutvā́ya   prá   tiratan   na   ā́yuḥ  // 10 //
+[struct] Hymn: 7
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ayám̐   sómas   suśámī   ádribudʰnaḫ   páriṣkr̥to   matíbʰir   uktʰaśastáḥ
+[struct] Halfverse: b
+[text] góbʰiś   śrītó   matsarás   sā́magīto   makṣū́   párvāte   pári   vām̐   suśiprā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] ásya   pā́jasaḫ   pibatam̐   sutásya   vā́reṣṭʰā́vyāḫ   páripūtasya   vŕ̥ṣṇaḥ
+[struct] Halfverse: b
+[text] tā́v   aśvinā   jaṭʰáram   ā́   pr̥ṇetʰām   átʰā   máno   vasudʰéyāya   dʰattam
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] éhá   yātaṃ   tanvā  3  śā́śadānā   mádʰūni   naś   cakamānó   nú   medʰā  /
+[struct] Halfverse: b
+[text] ví   suā́   mandrā́   pururéjamānā   yuvāyátī   hávate   vām   manīṣā́  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] sukʰán   nāsatyā   rátʰam   am̐śumántam̐   syonám̐   suváhnim   ádʰi   tiṣṭʰataṃ   yyúvam  /
+[struct] Halfverse: b
+[text] yáṃ   vāṃ   vváhanti   haríto   váhiṣṭʰā   śatám   áśvā   yádi   vā   saptá   devā́  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yáṃ   vvénan   t-ā́-gaccʰatam   mānavásya   śāryātásya   śadanám̐   śasyámānā  /
+[struct] Halfverse: b
+[text] ábībʰayus   sadʰamā́daṃ   cakānáś   cyávano   devā́n   yuváyos   sá   eṣáḥ
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] ā́   no   aśvinā   trivŕ̥tā   rátʰenārvā́ṃcam̐   rayíṃ   vvahatam̐   suvī́ram  /
+[struct] Halfverse: b
+[text] śr̥ṇvántā   vām   ávase   johavīmi   vr̥dʰé   ca   no   bʰavataṃ   vvā́jasātau  // 11
+[struct] Hymn: 8
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yadā́   yuṃjātʰe   magʰávānam   āśúm   puruspŕ̥haṃ   pr̥tanājyám̐   suvī́ram  /
+[struct] Halfverse: b
+[text] sváśvaṃ   dasrā   rátʰam   ā́   havéṣu   tádā   yutī́r   yeti   rásan   tanū́nām  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] bʰándiṣṭʰā   imé   kaváyaś   caranti   bʰáreṣu   ná   grátʰitā   turváśāsaḥ
+[struct] Halfverse: b
+[text] vā́cam̐   hinvānā́ḫ   purupéśasaṃ   vvā   havíṣṃatī   sávane   mandayádʰyai
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] śrutám̐   hávaṃ   tarpayatam   makʰasyúṅ   kā́mam   eṣām   ā́   vahatʰo   hávīṃṣi  /
+[struct] Halfverse: b
+[text] ádʰa   stotŕ̥̄n   yájamānaṃ   ca   pātám   ūtíbʰir   nr̥patī   yā́   abʰī́ke  / 12 /
+[struct] Hymn: 9
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yáṃ   gáccʰatʰas   sutapā   devávantam̐   havíṣkr̥taṃ   vvŕ̥ṣaṇā   rātáhavyam  /
+[struct] Halfverse: b
+[text] sá   puṣyaty   ánnam̐   śatám   āviruktʰya  3  mánā   píban   práyatam   ādayitnú  //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yā́   dám̐sām̐si   jaritā́   duṣṭárā   vāṃ   yyā́   śám̐santi   jaritā́ras   sutéṣu  /
+[struct] Halfverse: b
+[text] yā́nīhá   puṣyantu   vidʰā́   jáneṣu   yér   aśnátʰo   vidátʰe   somapéyam  //
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yád   uśántā   vr̥ṣaṇā   yā́   dadʰīcé   śiro   bʰiṣajā   samádʰattam   arvā́k  /
+[struct] Halfverse: b
+[text] tád   vāṃ   matī́   mádʰunā   táṃ   yyúvānā   váṣaákr̥taṃ   bʰasatʰo   mandasānā́  //
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] mā́   voca   ā́tʰarvaṇa   yád   brávīmi   mádʰu   te   nyaír   vīrátarair   acittám  /
+[struct] Halfverse: b
+[text] yád   anv   áśāsan   magʰávā   dadʰīcáṃ   tád   vām   *avakṣac   cʰírasā   hayásya  //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yád   ā   gáccʰād   vīḍitó   vájrabāhur   dʰatté   pitŕ̥bʰyā   mádʰu   no   dadʰīcā́  /
+[struct] Halfverse: b
+[text] ā́   tiréyaṃ   duśśuté   mā́   vádeti   yadā́   vádat   sā   yúvayos   sukīrtíḥ  //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] yā́bʰiś   śácībʰir   vr̥ṣaṇā   dadʰīcáṃ   yā́bʰis   túraṃ   kāvaśeyáṃ   makʰásya  /
+[struct] Halfverse: b
+[text] yā́bʰir   dʰíyaṃ   jínvatʰāké   nípānā   tā́bʰir   novataṃ   vidátʰe   gabʰīrā́  // 13 //
+[struct] Hymn: 10
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ayám̐   sómo   devayā́   vām̐   sumedʰā́   hr̥dispŕ̥g   yāti   dʰíṣaṇāṃ   miyānáḥ
+[struct] Halfverse: b
+[text] svā́dʰiṣṭʰo   havyā́n   mádʰuno   gʰr̥tā́d   vā   nū́tno   vām̐   stómo   aśvināhám   emi  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] prá   vām   máhī   mandate   devákāmā́   yayaír   ayāso   vayúnāni   viśvā  /
+[struct] Halfverse: b
+[text] tā́v   aśvinā   purubʰújā   suśastī́   r̥ṣihítā   mam̐hataṃ   vviśvádʰenām  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yó   *vāṅ   gomā́n   áśvavān   sūnŕ̥tāvān   puruścandrá   spārhā́[ṇi]   spārhayiṣṇúḥ
+[struct] Halfverse: b
+[text] yáñ   jóhavīmi   ratʰiró   gáviṣṭʰau   tám   ahve   *rátʰam   ā́   viśvárūpam  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] suvŕ̥d   rátʰo   vāṃ   vvr̥ṣaṇā   suváhniḫ   puruspŕ̥ho   vasuvíd   yó   váyodʰā́ḥ
+[struct] Halfverse: b
+[text] yéna   vā́jān   vahatam̐   spārhávīrān   úruśríyaś   śurúdʰośvā́m̐śca   mādʰvī  // 14 //
+[struct] Hymn: 11
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] īdán   devā   bʰāgadʰéyaṃ   purāṇáṃ   yád   ā́śire   hr̥ṣitā́   yajñíyāsaḥ
+[struct] Halfverse: b
+[text] eṣásya   gʰarmáḫ   páripūta   r̥gbʰís   táṃ   bápsatʰo   ratʰirā́   vidrávantā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] vr̥kṇám̐   śíro   vr̥ṣaṇā   yán   makʰásya   śiro   bʰiṣajā   samádʰattam   arvā́k  /
+[struct] Halfverse: b
+[text] tád   vān   náras   sarírañ   cā́ru   cittrám̐   sádā   gr̥ṇanti   kaváyas   sutéṣu  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yéna   devā́   ágʰnata   sám̐   rápām̐si   yénā́sahanta   pr̥tánā   adevī́ḥ  /
+[struct] Halfverse: b
+[text] *yénā́bʰavann   amŕ̥tās   somadʰā́nan   tám   arpayatam̐   śirásā   hayásya  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] purā́   viśīrṣṇā́   vidátʰena   devā́   nā́vāśíṣorundʰata   nā́pi   nā́kam  /
+[struct] Halfverse: b
+[text] ījānā́   bahvī́r   u   sámā   yadā́sya   śíro   dattam̐   sámadʰā́nvāruhan   svàḥ  // 15 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yád   vām   mātā́   úpa   ā́tiṣṭʰad   ugram̐   suvŕ̥drátʰān   avyatʰeyám̐   saráṇyūḥ
+[struct] Halfverse: b
+[text] tátra   vām   mādʰvī   madʰvā́hitam̐   sunītʰáṃ   pratnám   aśvinā   mayobʰú  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] yuvám̐   stribʰíś   citayatʰópi   nā́kaṃ   yyuváṃ   pá[y]ām̐si   śákvarīṣu   dʰattam  /
+[struct] Halfverse: b
+[text] yuváṃ   vvīrúdbʰis   sr̥játam   mahīmáṃ   yyuváṃ   sártave   sr̥jataṃ   vví   síndʰūn  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yuváṃ   mādʰvī   mádʰubʰis   sāragʰébʰir   yuváṃ   bʰeṣajā́   stʰo   bʰiṣajā   supāṇī́  /
+[struct] Halfverse: b
+[text] yuvám̐   rátʰebʰī   ratʰiraí   stʰa   ugrā   sumaṅgalā́v   amīvacā́tanebʰiḥ
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] tán   me   dattañ   cákṣur   akṣṇór   vicákṣe   páśyāmo   yéna   svár   imā́   díśaś   ca  /
+[struct] Halfverse: b
+[text] yénābʰíkʰyāya   vi   dʰávāma   śakran   durháṇād   vām   aśvinā   śū́rasātau  // 16 //
+[struct] Hymn: 12
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ā́śvinā   vahataṃ   pīvárīs   svadʰā́śvāvatīr   dāsápatnīr   írāvatīḥ
+[struct] Halfverse: b
+[text] yuvór   dānā́so   diví   nāditeyó   yuvóḫ   páyām̐si   rurucire   súśukrā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yád   *rebʰáṃ   dasrā   vinígūḍʰam   apsú   yuvāyántaṃ   vvājayántam̐   *r̥bī́sāt  /
+[struct] Halfverse: b
+[text] únninyatʰur   aśvinā́   vádʰrim   āśúṃ   tád   vāṃ   vratáṃ   maháyanty   uktʰaśā́saḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yā́   vān   nú   sárire   yā́   pr̥tʰivyā́ṃ   yyā́   vīrútsu   grāvásu   yā́ntárikṣe  /
+[struct] Halfverse: b
+[text] yā́   vī́réṣu   sūríṣu   yā́pi   nā́ke   tā́bʰir   naś   śárma   yaccʰataṃ   yyuvānā  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yó   vāṃ   bʰarítrā   stuvató   magʰā́ni   práyantrī́ṇi   dviṣató   barhā́ṇāni  /
+[struct] Halfverse: b
+[text] trā́trīṇi   śáśvatām̐   sā́tápanti   tā́bʰir   naś   śarma   yaccʰataṃ   yyuvānā  // 17 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yó   vān   tricakrás   supavís   suśáptis   trivandʰuráẖ   ketumā́n   vā́taram̐hāḥ
+[struct] Halfverse: b
+[text] yóge   yásya   vi   tánoty   abʰīśúṃ   vvibʰā́varīs   sadatʰo   yán   mayobʰú  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] yuvám   ūhatʰur   vimadā́ya   jāyā́ṃ   yuváṃ   vváśām̐   śayáve   dʰenúm   akratām  /
+[struct] Halfverse: b
+[text] yuvám   ā́yuṣā   tārayataṃ   prá   bándʰanam   attrím   amuktaṃ   yyuvám   am̐haso   ví  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] *hávantam   meṣā́n   vr̥kyè   śivā́yai   pitā́   cákāra   ŕ̥ṣim   andʰám   aśvinā  /
+[struct] Halfverse: b
+[text] tásminn   r̥jrā́śve   cákṣuṣī   ádʰattam   āvíṣ   kr̥ṇutaṃ   punár   ásya   lokám  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] yád   vāṃ   cákṣur   diví   yát   supárṇo   yéna   paśyatʰo   bʰúvanāny   amartyāḥ  /
+[struct] Halfverse: b
+[text] tán   me   dattaṃ   cákṣuṣī   devábandʰū   namásyāṃ   vvindetʰa   purudʰā́   cakānā́m  /
+[struct] Halfverse: c
+[text] upaprayantó   adʰvarám  // 18 //
+[struct] Hymn: col.
+[struct] Halfverse: 1
+[text] iti   kʰile   pratʰamodʰyāyaḥ  /
+[struct] Halfverse: 2
+[text] oṃ   namo   viṣṇave
+[struct] Adhyaya: 2
+[struct] Hymn: anuk.
+[struct] Halfverse: 1
+[text] oṃ   maikā   bʰadraṃ   pañcānuṣṭubʰo   jāgarṣy   ekā   jātavedasyam̐   svastyayanaṃ   dve   varṣantv   ekā   hiraṇyavarṇām   ekonā   śrīr   bʰārgavī   śrīr   alakṣmīgʰnaṃ   śraiyyam   ānuṣṭubʰaṃ   vvai   śakvaryantaṃ   hiṃsāgneyī   caturtʰī   prastārapaṅktis   triṣṭubʰau   pañcadaśy   upariṣṭādbr̥hatī   śrīḫputrāḫ  1)  pare   ṣaṭ   ciklītaḫ   pañcānandakardamau   vaiśvadevaṃ   mayi   śleṣaś   śleṣo   jātavedasyaṃ   br̥hatyādi   sam̐sravantv   iti   sam̐sravān   vaiśvadevaṃ   dvitīyādi   triṣṭubʰāv   ā   te   sapta   prajāvān   garbʰārtʰāśīstutiḫ  2)  prajāpatir   aindravāyavyau   caturtʰī   br̥hatī   pañcamī   prastārapaṅktir   agniḫ   pañca   jīvaputra   agnivāruṇam   atijagaty   ānuṣṭup   triṣṭubantaṃ   cakṣur   ekātmastutiś   śaṃvvatī   ṣaṭ   śāntir   ānuṣṭubʰaṃ   pañcamyādi   br̥hatī   jagatyau   svapnekā   yasyopā  3)  nuṣṭub ,  vālakʰilyāḫ   pareṣṭau  4)
+[struct] Hymn: 1
+[text] oṃ
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] mā́   bibʰer   ná   mariṣyasi   pári   tvā   pāmi   sarvátaḥ  /
+[struct] Halfverse: b
+[text] gʰanéna   hanmi   vŕ̥ścikam   áhin   daṇḍénā́gatam  /
+[struct] Halfverse: c
+[text] tvám   agne   dyúbʰis   tvám   āśuśukṣaṇiḥ  // 1 //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] ādityaratʰavégena   viṣṇór   bāhubaléna   ca  /
+[struct] Halfverse: b
+[text] garuḷapakṣanipā́tena   bʰūmíṃ   gaccʰa   mahā́yaśāḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] garuḷasya   jā́tamātreṇá   trayó   lokāḥ   prakámpitāḥ  /
+[struct] Halfverse: b
+[text] prakáṃpitā   mahī́   sárvā   saśaílavanakā́nanā  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] gáganaṃ   náṣṭacandrārkáṃ   jyotíṣaṃ   ná   prakā́śate  /
+[struct] Halfverse: b
+[text] devátā   bʰáyabʰītāś   cá   mārúto   na   plavā́yati   mārúto   na   plavā́yaty   óṃ   námaḥ  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] bʰo   sarpa   bʰadra   bʰadráṃ   te   dūráṃ   gaccʰa   mahā́yaśāḥ  /
+[struct] Halfverse: b
+[text] janámejayásya   yajñāṃté   āstī́kavacanáṃ   smara  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] āstīkavacanaṃ   śrútvā   yaḥ   sárpo   na   nivártate  /
+[struct] Halfverse: b
+[text] śatádʰā   bʰídyate   mūrdʰní   śiṃśávr̥kṣapʰaláṃ   yatʰā  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] ágastyo   mā́dʰavaś   caivá   mucúkuṃdo   mahāmuniḥ  /
+[struct] Halfverse: b
+[text] kápilo   múnir   āstīkáḥ   paṃcaíte   sukʰaśā́yinaḥ  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] nármadāyaí   namaḥ   prātár   narmádāyai   namó   niśi  /
+[struct] Halfverse: b
+[text] námostu   nármade   tubʰyáṃ   trāhí   māṃ   viṣasárpataḥ  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] yó   jaratkā́ruṇā   jātó   jarátkanyāṃ   mahā́yaśāḥ  /
+[struct] Halfverse: b
+[text] tásya   sarpópi   bʰadráṃ   te   dūráṃ   gaccʰa   mahā́yaśāḥ  /
+[struct] Halfverse: c
+[text] tásya   sarpásya   sarpatváṃ   tasmaí   sarpa   namóstu   te  /
+[struct] Hymn: 2
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] bʰadráṃ   vvada   dakṣiṇató   bʰadrám   uttarató   vada  /
+[struct] Halfverse: b
+[text] bʰadráṃ   purástān   no   vada   bʰadrám   paścā́t   kapiñjala  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] bʰadráṃ   vvada   putraír   bʰadráṃ   vvada   gr̥héṣu   ca  /
+[struct] Halfverse: b
+[text] bʰadrám   asmā́kaṃ   vvada   bʰadráṃ   no   ábʰayaṃ   vvada  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] bʰadrám   adʰástān   no   vada   bʰadrám   upáriṣṭān   no   vada  /
+[struct] Halfverse: b
+[text] bʰadráṃ   bʰadráṃ   na   ā́   vada   bʰadráṃ   nas   sarvató   vada  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] asapatnáṃ   purástān   naś   śiván   dakṣiṇatás   kr̥dʰi  /
+[struct] Halfverse: b
+[text] ábʰayam̐   sátataṃ   paścā́d   bʰadrám   uttarató   gr̥hé  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yauvánāni   maháyasi   jigyúṣām   iva   dundubʰíḥ  /
+[struct] Halfverse: b
+[text] śákuntaka   pradakṣiṇám̐   śatápattrābʰí   no   vada  /
+[struct] Halfverse: c
+[text] āvádam̐s   tvám̐   śakune   bʰadrám   ā́   vada  // 2 //
+[struct] Hymn: 3
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] jā́garṣi   tváṃ   bʰúvane   jātavedo   jā́garṣi   yátra   yájate   havíṣmān  /
+[struct] Halfverse: b
+[text] idám̐   havíś   śraddádʰāno   juhomi   téna   pāsi   gúhyaṃ   nā́ma   gónām  /
+[struct] Halfverse: c
+[text] vidā́   divó   viṣyann   ádrim   uktʰaíḥ  // 3 //
+[struct] Hymn: 4
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] stvastyáyanaṃ   tā́rkṣyam   áriṣṭanemim   mahádbʰūtaṃ   vvāyasáṃ   devátānām  /
+[struct] Halfverse: b
+[text] asuragʰnám   índrasakʰam̐   samátsu   br̥hád   yáśo   nā́vam   ivā́   ruhema  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] am̐homúcam   āṅgirasáṃ   gáyaṃ   ca   svasty   ā́treyám   mánasā   ca   tā́rkṣyam  /
+[struct] Halfverse: b
+[text] práyatapāṇiś   śaraṇáṃ   prá   padye   svastí   sambādʰéṣv   ábʰayan   no   astu  /
+[struct] Halfverse: c
+[text] prá   śyāvāśva   dʰr̥ṣṇuyā́  // 4 //
+[struct] Hymn: 5
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] várṣantu   te   vibʰāvari   divó   abʰrásya   vidyútaḥ  /
+[struct] Halfverse: b
+[text] róhantu   sárvabījāny   áva   brahmadvíṣo   jahi  /
+[struct] Halfverse: c
+[text] prá   saṃrā́je   br̥hádarcā   gabʰīrám  // 5 //
+[struct] Hymn: 6
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] híraṇyavarṇām̐   háriṇīm̐   suvárṇarajatásrajām  /
+[struct] Halfverse: b
+[text] candrā́m̐   hiráṇmayīṃ   lakṣmī́ṃ   jā́tavedo   mámā́   vaha  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] tā́m   ma   ā́   vaha   jātavedo   lakṣmī́m   ánapagāmínīm  /
+[struct] Halfverse: b
+[text] yásyām̐   híraṇyaṃ   vindéyaṃ   gā́m   áśvaṃ   púruṣān   ahám  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] aśvapūrvā́m̐   ratʰamadʰyā́m̐   hastínādapramodínīm  /
+[struct] Halfverse: b
+[text] śríyaṃ   devī́m   úpa   hvaye   śrī́r   mā   devī́   juṣatām  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] kām̐sy   ásmi   tā́m̐   híraṇyaprāvārām   ārdrā́ñ   jválantīṃ   tr̥ptā́ṃ   tarpáyantīm  /
+[struct] Halfverse: b
+[text] padmestitʰā́ṃ   padmávarṇāṃ   tā́m   ihópa   hvaye   śríyam  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] candrā́ṃ   prabʰāsā́ṃ   yyaśásā   jválantīm̐   śríyaṃ   lloké   devájuṣṭām   udārā́m  /
+[struct] Halfverse: b
+[text] tā́m   padmánemim̐   śáraṇaṃ   prá   padye   alakṣmī́r   me   naśyatāṃ   tvā́ṃ   vr̥ṇomi  // 6 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] ādityávarṇe   tápasódʰi   jātó   vánaspátis   táva   vr̥kṣótʰá   bilváḥ  /
+[struct] Halfverse: b
+[text] tásya   pʰálāni   tápasā́   nudantu   māyā́ntarā   yā́śca   bāhyā́   alakṣmī́ḥ  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] úpaitu   mān   devasakʰáẖ   kīrtíś   ca   máṇinā   sahá  /
+[struct] Halfverse: b
+[text] prādúr   bʰūtósmi   rā́ṣṭresmín   kīrtíṃ   vr̥ddʰíṃ   dadātu   me  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] kṣútpipāsā́malā   jyeṣṭʰā́m   alakṣmī́n   nāśayāmy   áham  /
+[struct] Halfverse: b
+[text] ábʰūtim   ásamr̥ddʰiṃ   ca   sárvān   nír   ṇuda   me   gŕ̥hāt  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] gándʰadvārā́ṃ   durā́dʰarṣāṃ   nityápuṣṭāṃ   karīṣíṇīm  /
+[struct] Halfverse: b
+[text] ī́śvarīm̐   sárvabʰūtānān   tā́m   ihópa   hvaye   śríyam  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] mánasaẖ   kā́mam   ā́kūtiṃ   vvācás   satyám   aśīmahi  /
+[struct] Halfverse: b
+[text] paśū́nāṃ   rūpám   ánnasya   máyi   śrī́ś   śrayatāṃ   yyáśaḥ  // 7 //
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] kardamená   prajā   bʰūtā́   máyi   sám   bʰava   kárdama  /
+[struct] Halfverse: b
+[text] śríyaṃ   vvāsáya   me   kulé   mātáraṃ   padmamālínīm  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] ā́pa   sravantu   snígdʰāni   cíklītā   vása   me   gr̥hé  /
+[struct] Halfverse: b
+[text] ní   ca   devī́m   mātáram̐   śríyaṃ   vvāsáya   me   kulé  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] pakvā́ṃ   puṣkáriṇīṃ   puṣṭā́ṃ   piṅgálāṃ   padmamālínīm  /
+[struct] Halfverse: b
+[text] sūryā́m̐   hiráṇmayīṃ   lakṣmī́ṃ   jā́tavedo   mámā́   vaha  /
+[struct] Verse: 14
+[struct] Halfverse: a
+[text] ārdrā́ṃ   puṣkáriṇīṃ   yaṣṭī́m̐   suvárṇam̐   hemamālínīm  /
+[struct] Halfverse: b
+[text] candrā́m̐   hiráṇmayīṃ   llakṣmī́ṃ   jā́tavedo   mámā́   vaha  /
+[struct] Verse: 15
+[struct] Halfverse: a
+[text] tā́m   ma   ā́   vaha   jātavedo   lakṣmī́m   ánapagāmínīm  /
+[struct] Halfverse: b
+[text] yásyām̐   híraṇyaṃ   prábʰūtaṃ   gā́vo   dāsyó   vindéyaṃ   púruṣān   ahám  // 8 //
+[struct] Verse: 16
+[struct] Halfverse: a
+[text] yá   ānandám̐   samā́viśad   upā́dʰāvan   vibʰā́vasum  /
+[struct] Halfverse: b
+[text] śríyas   sárvā   upā́siṣva   cíklīta   vasa   me   gr̥hé  /
+[struct] Verse: 17
+[struct] Halfverse: a
+[text] kardamená   prajā   sraṣṭā́   sambʰū́tiṃ   gamayāmasi  /
+[struct] Halfverse: b
+[text] ádadʰād   úpāgād   yéṣāṃ   kā́mām̐   sasr̥jmáhe  /
+[struct] Verse: 18
+[struct] Halfverse: a
+[text] jā́tavedaḫ   punīhí   mā   rāyáspóṣaṃ   ca   dʰāraya  /
+[struct] Halfverse: b
+[text] agnír   mā   tásmād   énaso   viśvā́n   muñcatv   ám̐hasaḥ  /
+[struct] Verse: 19
+[struct] Halfverse: a
+[text] áccʰā   no   mittramaho   deva   devā́n   ágne   vócas   sumatím̐   [ródas]y[oḥ]  /
+[struct] Halfverse: b
+[text] vīhí   svastím̐   sukṣitín   divó   nŕ̥̄n   dviṣó   ám̐hām̐si   duritā́   tarema   tā́   tarema   távā́vasā   tarema  / 9 /
+[struct] Hymn: 6A
+[struct] Verse: 16
+[struct] Halfverse: a
+[text] yáḥ   śúciḥ   práyato   bʰūtvā́   juhúyād   ājyam   ánvahaṃ  /
+[struct] Halfverse: b
+[text] sūktáṃ   paṃcádaśarcaṃ   ca   śrīkā́maḥ   satatáṃ   japet  /
+[struct] Verse: 17
+[struct] Halfverse: a
+[text] pádmānané   padma-ūrū   padmā́kṣī   padmasáṃbʰave  /
+[struct] Halfverse: b
+[text] tán   me   bʰajási   padmā́kṣī́   yéna   saúkʰyaṃ   labʰā́my   áhaṃ  /
+[struct] Verse: 18
+[struct] Halfverse: a
+[text] aśvadā́yai   godāyaí   dʰanádāyai   mahā́dʰane  /
+[struct] Halfverse: b
+[text] dʰánaṃ   me   júṣatāṃ   devi   sarvákāmāṃś   ca   déhi   me  /
+[struct] Verse: 19
+[struct] Halfverse: a
+[text] pútrapautráṃ   dʰanaṃ   dʰānyaṃ   hastyáśvādigavé   ratʰaṃ  /
+[struct] Halfverse: b
+[text] prajānā́ṃ   bʰávasi   mātā   āyúṣmaṃtaṃ   karótu   me  /
+[struct] Verse: 20
+[struct] Halfverse: a
+[text] dʰánam   agnír   dʰanaṃ   vāyúr   dʰánaṃ   sū́ryo   dʰanaṃ   vásuḥ  /
+[struct] Halfverse: b
+[text] dʰánam   índro   bŕ̥haspátir   váruṇaṃ   dʰánaṃ   út   sr̥je  /
+[struct] Verse: 21
+[struct] Halfverse: a
+[text] vaínateya   sómam   piba   sómam   pibatu   vr̥trahā  /
+[struct] Halfverse: b
+[text] sómaṃ   dʰánasya   somíno   máhyaṃ   dádātu   somínaḥ  /
+[struct] Verse: 22
+[struct] Halfverse: a
+[text] ná   kródʰo   na   ca   mātsaryáṃ   na   lóbʰo   nāśubʰā́   matiḥ  /
+[struct] Halfverse: b
+[text] bʰávaṃti   kŕ̥tapuṇyānāṃ   bʰaktā́nāṃ   śrī́sūktaṃ   japet  /
+[struct] Verse: 23
+[struct] Halfverse: a
+[text] sarasijanilaye   sárojahaste   dʰavalatarāṃ   śubʰagaṃdʰámālyaśobʰe  /
+[struct] Halfverse: b
+[text] bʰagavati   harivallábʰe   manojñe   tribʰuvanabʰūtikarí   pra   sīda   mahyaṃ  /
+[struct] Verse: 24
+[struct] Halfverse: a
+[text] śrīvárcasvam   ā́yuṣyam   ā́rogyam   ā́vidʰāc   cʰúbʰamānaṃ   mahīyate  /
+[struct] Halfverse: b
+[text] dʰānyáṃ   dʰanáṃ   paśúṃ   bahúputralābʰáṃ   śatásaṃvatsaráṃ   dīrgʰám   ā́yuḥ  /
+[struct] Verse: 25
+[struct] Halfverse: a
+[text] víṣṇupatnī́ṃ   kṣamāṃ   devī́ṃ   mādʰávīṃ   mādʰavápriyāṃ  /
+[struct] Halfverse: b
+[text] lákṣmīṃ   priyásakʰīṃ   devī́ṃ   namā́ny   acyutavállabʰāṃ  /
+[struct] Verse: 26
+[struct] Halfverse: a
+[text] mahālakṣmī́   ca   vidmáhe   viṣṇupatnī́   ca   dʰīmahi  /
+[struct] Halfverse: b
+[text] tán   no   lakṣmīḥ   pra   codáyāt  /
+[struct] Verse: 27
+[struct] Halfverse: a
+[text] padmānane   padmini   padmapatre   padmapriye   padmadalāyatākṣi  /
+[struct] Halfverse: b
+[text] viśvapriye   viśvamanonukūle   tvatpādapadmaṃ   hr̥di   saṃ   ni   dʰatsva  /
+[struct] Verse: 28
+[struct] Halfverse: a
+[text] ānaṃdaḥ   kardamaḥ   śrītaś   ciklīta   iva   viśritaḥ  /
+[struct] Halfverse: b
+[text] r̥ṣayaś   śriyaḥ   putrāś   ca   śrīr   devī   devadevatā  /
+[struct] Verse: 29
+[struct] Halfverse: a
+[text] r̥ṇarogādi   dāridryaṃ   pāpakṣudapamr̥tyavaḥ  /
+[struct] Halfverse: b
+[text] bʰayaḥ   śokamanas   tāpā   naśyaṃtu   mama   sarvadā  /
+[struct] Hymn: 6B
+[struct] Verse: 23
+[struct] Halfverse: a
+[text] candrābʰā́ṃ   lákṣmīm   īśānā́ṃ   sūryā́bʰāṃ   śríyam   aíśvarīm  /
+[struct] Halfverse: b
+[text] cándrasūryāgnivarṇābʰā́ṃ   mahālákṣmīm   upāsmáhe  /
+[struct] Verse: 24
+[struct] Halfverse: a
+[text] várṣantu   te   vibʰāvari   divo   abʰrásya   vidyútaḥ  /
+[struct] Halfverse: b
+[text] róhantu   sárvabījāny   áva   brahmadvíṣo   jahi  /
+[struct] Verse: 25
+[struct] Halfverse: a
+[text] pádmapriye   pádmini   pádmahaste   pádmānane   pádmadálāyatākṣi  /
+[struct] Halfverse: b
+[text] víśvapriye   viṣṇumánónukūle   tvátpādapadmáṃ   mayí   sán   nidʰatsva  /
+[struct] Verse: 26
+[struct] Halfverse: a
+[text] yā   sā   padmāsanastʰā   vipulakaṭitaṭī   padmapatrāyatākṣī   gambʰīrā  /
+[struct] Halfverse: b
+[text] vartanābʰistanabʰaranamitā   śubʰravastrottarīyā  /
+[struct] Verse: 27
+[struct] Halfverse: a
+[text] lakṣmīr   divyair   gajendrair   maṇigaṇakʰacitai   snāpitā   hemakuṃbʰaiḥ  /
+[struct] Halfverse: b
+[text] nityaṃ   sā   padmahastā   mama   vasatu   gr̥he   sarvamāṅgalyayuktā  /
+[struct] Verse: 28
+[struct] Halfverse: a
+[text] siddʰalakaṣmīr   mokṣalakṣmīr   jayalakṣmīḥ   sarasvatī  /
+[struct] Halfverse: b
+[text] śrīr   lakṣmīr   varalakṣmīś   ca   prasannā   mama   sarvadā  /
+[struct] Verse: 29
+[struct] Halfverse: a
+[text] varāṃ   kuśāpāśam   abʰītim   udrāṃ   karair   vahaṃtī   kamalāsanastʰām  /
+[struct] Halfverse: b
+[text] bālārkakoṭipratibʰāṃ   trinetrāṃ   bʰajeham   ādyāṃ   jagadīśvarīṃ   tām  /
+[struct] Verse: 30
+[struct] Halfverse: a
+[text] sarvamaṃgalamāṃgalye   śive   sarvārtʰasādʰike  /
+[struct] Halfverse: b
+[text] śaradʰaye   tryaṃbake   gaurī   nārāyaṇi   namostu   te
+[struct] Hymn: 7
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] cíklīto   yásya   nā́ma   tád   dívā   náktaṃ   ca   sukrato  /
+[struct] Halfverse: b
+[text] asmā́n   dīdāsa   yújyāya   jīváse   jātavedaḫ
+[struct] Halfverse: c
+[text] punántu   mān   devajanā́ḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] punántu   mánasā   dʰíyaḫ   punántu   viśvā   bʰūtā́ni  /
+[struct] Halfverse: b
+[text] jā́tavedo   yád   ástutam  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] viśve   devāḫ   punītá   mā   jā́tavedaḫ   punīhí   mā  /
+[struct] Halfverse: b
+[text] sáṃbʰūtā   asmā́kaṃ   vvīrā́   dʰruvā́   dʰruvéṣu   tiṣṭʰati  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] dʰruvā́   dyaúr   dʰruvā́   pr̥tʰivī́   dʰruvā́   dʰruvéṣu   tiṣṭʰati  /
+[struct] Halfverse: b
+[text] ágne   áccʰā   yád   ástutam̐   rāyás   póṣaṃ   ca   dʰāraya  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] áccʰā   no   mittramaho   deva   devā́n   ágne   vocas   sumatím̐ródasyoḥ  /
+[struct] Halfverse: b
+[text] vīhí   svastím̐   sukṣitín   divó   nŕ̥̄n   dviṣó   ám̐hām̐si   duritā́   tarema   tā́   tarema   távā́vasā   tarema  // 10 //
+[struct] Hymn: 8
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] máyi   śleṣó   mā   vadʰīḫ   prá   sam̐rā́jaṃ   ca   sukrato  /
+[struct] Halfverse: b
+[text] asmā́n   pr̥ṇīṣva   yújyāya   jīváse   jā́tavedaḫ   punīhí   mā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] márto   yó   *no   dídāsaty   ádʰirastʰā   ná   nīnaśat  /
+[struct] Halfverse: b
+[text] dávidʰvato   vibʰā́vaso   jāgā́ram   utá   te   dʰíyam  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] anamīvā́   bʰavantv   agʰnyā   sú   saṅ   garbʰo   ví   mocatu  /
+[struct] Halfverse: b
+[text] arātīyánti   yé   kécit   sū́rayaś   cābʰi   majmánā  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] rāyás   póṣaṃ   vví   dʰāraya   jā́tavedaḫ   punīhí   mā  /
+[struct] Halfverse: b
+[text] usrā́   bʰavantu   *no   máyo   bahvī́r   goṣṭʰé   gʰr̥tā́cyaḥ  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] áccʰā   no   mittramaho   deva   devā́n   agne   vocas   sumatím̐   ródasyoḥ  /
+[struct] Halfverse: b
+[text] vīhí   svastím̐   sukṣitín   divó   nŕ̥̄n   dviṣó   ám̐hām̐si   duritā́   tarema   tā́   tarema   távā́vasā   tarema  // 11 //
+[struct] Hymn: 9
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] sám̐   sravantu   marútas   sám   áśvās   sám   u   pū́ruṣāḥ  /
+[struct] Halfverse: b
+[text] sán   dʰānyásya   yā́   spʰātís   sam̐srā́vyeṇa   havíṣā   juhomi  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] éhá   yanti   paśávo   yé   páreyur   vāyúr   yéṣām̐   sáhacāráṃ   jujóṣa  /
+[struct] Halfverse: b
+[text] tváṣṭā   yéṣāṃ   rūpadʰéyāni   védāsmím̐s   tā́m̐   lloké   savitā́bʰí   rakṣatu  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] imáṃ   goṣṭʰáṃ   paśávas   sám̐   sravantu   bŕ̥haspátir   ā́   nayatu   prajānán  /
+[struct] Halfverse: b
+[text] sinīvālī́   nayaty   ágra   eṣām   ā́   jagmúṣonumate   ní   yaccʰa  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] sám̐   siñcāmi   gávāṅ   kṣīrám̐   sám   ā́jyena   bálam̐   rásam  /
+[struct] Halfverse: b
+[text] sám̐siktā   asmā́kaṃ   vvīrā́   dʰruvā́   gā́vas   santu   gópatau  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ā́   harāmi   gávāṅ   kṣīrám   ā́   harāmi   dʰānya3m̐   rásam  /
+[struct] Halfverse: b
+[text] ā́hr̥tā   asmā́kaṃ   vvīrā́   ā́   pátnīr   idám   ástakam  // 12 //
+[struct] Hymn: 10
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ā́   te   gárbʰo   yónim   etu   púmān   bā́ṇa   iveṣudʰím  /
+[struct] Halfverse: b
+[text] ā́   vīró   átra   jāyatāṃ   putrás   te   dáśamāsyaḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] karómi   te   prājāpatyám   ā́   gárbʰo   yónim   etu   te  /
+[struct] Halfverse: b
+[text] ánūnaḫ   pūrnó   jāyatām   ánandʰóśroṇopiśācadʰītáḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] púmām̐s   te   putró   jāyatāṃ   púmān   ánu   jāyatām  /
+[struct] Halfverse: b
+[text] yā́ni   bʰadrā́ṇi   bī́jāny   r̥ṣabʰā́   janáyanti   naḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] tā́ni   bʰadrā́ṇi   bī́jāny   r̥ṣabʰā́   janáyantu   te  /
+[struct] Halfverse: b
+[text] taís   tváṃ   putráṃ   janayes   sá   jāyatāṃ   vvīrātamas   svā́nām  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yó   váśāyāṃ   gárbʰo   yópi   vehatī́ndras   tán   ní   dadʰe   vánaspátau  /
+[struct] Halfverse: b
+[text] taís   tváṃ   putrā́n   vindasva   sā́   prasū́r   dʰénukā   bʰava  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] sáṃ   vvo   mánām̐si   jānātām̐   sán   nā́bʰis   sán   tátosat  /
+[struct] Halfverse: b
+[text] sán   tvā   kā́masya   yóktreṇa   yuñjāny   ávimocanāya  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] kā́mas   sám   r̥dʰyatāṃ   máhyam   áparājitam   evá   me  /
+[struct] Halfverse: b
+[text] yáṃ   kā́maṃ   kāmáye   deva   tám   me   vāyo   sám   ardʰaya  // 13 //
+[struct] Hymn: 11
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] agnír   etu   pratʰamó   devátānām̐   só   syāḫ   prajā́ṃ   muñcatu   mr̥tyupāśā́t  /
+[struct] Halfverse: b
+[text] tád   ayám̐   rā́jā   váruṇonumanyatāṃ   yyátʰeyám̐   strī́   paútram   agʰán   ná   rodāt  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] imā́m   agnís   trāyatāṃ   gā́rhapatyaḫ   prajā́m   asyai   tiratu   dīrgʰám   ā́yuḥ  /
+[struct] Halfverse: b
+[text] áśūnyopástʰā   jī́vatām   astu   mātā́   paútram   ānandám   abʰí   ví   budʰyatām   iyám  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] mā́   te   gr̥hé   niśi   gʰorá   uttʰā́d   anyátra   tvád   rudatyás   sáṃ   vviśantu  /
+[struct] Halfverse: b
+[text] mā́   tváṃ   vvikeśy   úra   ā́   vadʰiṣṭʰā   jīváputrā   patiloké   ví   rāja   prajā́ṃ   páśyaṃtī   sumanasyámānā  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] aprajasyám   pautramartyáṃ   pāpmā́nam   utá   vāgʰám  /
+[struct] Halfverse: b
+[text] prajā́m   ivonmucyasva   dviṣádbʰyaḫ   práti   muñcāmi   pā́śān  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] devákr̥taṃ   brā́hmaṇaṃ   kalpámānaṃ   téna   hanmi   yoniṣádaḫ   piśācā́n  /
+[struct] Halfverse: b
+[text] kravyā́do   mr̥tyū́n   ádʰarān   pātayāmi   dīrgʰám   ā́yus   táva   jī́vantu   putrā́ḥ  /
+[struct] Halfverse: c
+[text] tvám̐   hy   agne   pratʰamó   manótā  // 14 //
+[struct] Hymn: 12
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] cákṣuś   ca   śrótaṃ   ca   mánaś   ca   vā́k   ca   prāṇāpā́ṇau   déha   idám̐   śárīram  /
+[struct] Halfverse: b
+[text] dvaú   pratyáñcāv   anulomaú   visárgāv   édán   tám   manye   dáśayantram   útsam  /
+[struct] Halfverse: c
+[text] yá   ā́nayat   parāvátaḥ  // 15 //
+[struct] Hymn: 13
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] śáṃvvatīḫ   pāráyanty   etédáṃ   pr̥ccʰasva   váco   yátʰā  /
+[struct] Halfverse: b
+[text] abʰyā́ran   tám̐   samā́ketaṃ   yyá   evédám   iti   brávat  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] jāyā́ketaṃ   párisrutam   bʰā́ratī   brahmavā́dinī  /
+[struct] Halfverse: b
+[text] sañjānānā́   mahī́   jātā́   yá   evédám   iti   brávat  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] índras   táṃ   kiṃ   vibʰúṃ   prabʰúṃ   bʰānúnā   yáṃ   jújoṣati  /
+[struct] Halfverse: b
+[text] téna   sū́ryam   arocayad   yénemé   ródasī   ubʰé  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] juṣásvāgne   aṅgiraẖ   kāṇvám   médʰyātitʰim  /
+[struct] Halfverse: b
+[text] mā́   tvā   sómasya   bárbr̥hat   sutásya   mádʰumattamaḥ  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] tvā́m   agne   aṅgiraś   śocasva   devavī́tamaḥ  /
+[struct] Halfverse: b
+[text] ā́   śantama   śántamābʰir   abʰíṣṭibʰiś   śāntím̐   svastím   akurvata  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] śán   naẖ   kanikradad   deváḫ   parjányo   abʰí   varṣatv   óṣadʰayas   sám   pravardʰantam  /
+[struct] Halfverse: b
+[text] śán   no   dyā́vāpr̥tʰivī́   śáṃ   prajā́bʰyas   śán   no   astu   dvipáde   śáñ   cátuṣpade  /
+[struct] Halfverse: c
+[text] śán   na   indrāgnī́   bʰavatām   ávobʰiḥ  // 16 //
+[struct] Hymn: 14
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] svápnas   svapnā́dʰikáraṇe   sárvan   ní   ṣvāpayā   jánam  /
+[struct] Halfverse: b
+[text] ā́   sū́ryam   anyā́n   svāpáyāvyuṣáṃ   *jāgr̥yā́m   ahám  /
+[struct] Halfverse: c
+[text] ká   īṃ   vyáktā   náras   sánīḍʰāḥ  // 17 //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] ájagaro   nāma   sarpáḥ   sarpíraviṣo   mahā́n  /
+[struct] Halfverse: b
+[text] tásmin   hí   sárpaḥ   súdʰitas   téna   tvā   svāpayāmasi  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] sárpaḥ   sárpo   ajágaraḥ   sarpíraviṣo   mahā́n  /
+[struct] Halfverse: b
+[text] tásya   sárpāt   siṃdʰavas   tásya   gādʰám   aśīmahi  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] kāḷikó   nāma   sarpó   navánāgasahásrabaḷaḥ  /
+[struct] Halfverse: b
+[text] yamunahradé   ha   so   jāto3   yo   nārāyaṇavā́hanaḥ  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yádi   kāḷíkadūtasyá   yadí   kāḥkāḷikā́d   bʰayam  /
+[struct] Halfverse: b
+[text] jánmabʰūmím   atikrāṃtó   nirvíṣo   yāti   kā́ḷikaḥ  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] ā́   yāhīṃdra   patʰíbʰir   iḷitébʰir   yajñám   imáṃ   no   bʰāgadʰéyaṃ   juṣasva  /
+[struct] Halfverse: b
+[text] tr̥ptā́ṃ   juhur   mā́tuḷasyeva   yóṣā   bʰāgás   te   paítr̥ṣvaséyī   vapā́m   iva  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yaśáskaraṃ   bálavaṃtaṃ   prabʰútvaṃ   tám   evá   rājādʰipátir   babʰūva  /
+[struct] Halfverse: b
+[text] sáṃkīrṇánāgāśvapátir   narāṇā́ṃ   sumaṃgályaṃ   satataṃ   dīrgʰám   ā́yuḥ  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] karkoṭakó   nāma   sarpó   yo   dŕ̥ṣṭīviṣa   úcyate  /
+[struct] Halfverse: b
+[text] tásya   sarpásya   sarpatváṃ   tasmaí   sarpa   namóstu   te  /
+[struct] Verse: 9A
+[struct] Halfverse: a
+[text] áti   kāḷíkaraudrasyá   viṣṇúḥ   saumyena   *bʰā́minā  /
+[struct] Halfverse: b
+[text] yamunanadī́   kāḷikaṃ   te   víṣṇustotram   anú   smaram  /
+[struct] Verse: 9B
+[struct] Halfverse: a
+[text] yé   'dó   rocané   divó   yé   vā   sū́ryasya   raśmíṣu  /
+[struct] Halfverse: b
+[text] téṣām   apsú   sádaskr̥táṃ   tébʰyaḥ   sarpébʰyo   námaḥ  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] námo   astu   sarpébʰyo   yé   ké   ca   pr̥tʰivī́m   ánu  /
+[struct] Halfverse: b
+[text] yé   antárikṣe   yé   diví   tébʰyaḥ   sarpébʰyo   námaḥ  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] ugrāyudʰā[ḥ]   pramatʰina[ḥ]   pravīrā   māyāvino   balino   miccʰamānāḥ  /
+[struct] Halfverse: b
+[text] ye   devā   asurān   parābʰavan   tāṃs   tvaṃ   vajreṇa   magʰavan   ni   vāraya  //
+[struct] Hymn: 15
+[struct] Verse: _
+[struct] Halfverse: a
+[text] yásya   vratám   upatíṣṭʰanta   ā́po   yásya   vraté   paśávo   yánti   sárve  /
+[struct] Halfverse: b
+[text] yásya   vraté   púṣṭipatir   níviṣṭas   tám̐   sárasvantam   ávase   johavīmi  /
+[struct] Halfverse: c
+[text] yajñé   divó   nr̥ṣádane   pr̥tʰivyā́ḥ  // 18 //
+[struct] Hymn: 16
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] upá   pra   vada   maṇḍūki   varṣám   ā́   vada   tāduri  /
+[struct] Halfverse: b
+[text] mádʰye   hradásya   plavásva   nigŕ̥hya   catúraḫ   padáḥ  /
+[struct] Halfverse: c
+[text] índrāsomā   tápatam̐   rákṣa   ubjátam  // 19 //
+[struct] Hymn: col.
+[struct] Halfverse: 1
+[text] ity   r̥gvede   kʰile   dvitīyodʰyāyaḥ  //
+[struct] Halfverse: 2
+[text] oṃ   namo   viṣṇave
+[struct] Adhyaya: 3
+[struct] Hymn: anuk.
+[struct] Halfverse: 1
+[text] abʰi   daśa   praskaṇvaḫ   prāgātʰan   tu  1)  pra   puṣṭigur   yatʰā   śruṣṭigur   yatʰā   āyur   upamam   aṣṭau   medʰya   etat   te   mātariśvā   dvitīyaḫ  2)  prāgātʰo   vaiśvadevo   bʰūri   pañca   kr̥śaḫ   pr̥ṣadʰrasya  3)  dānastutis   tu  4)  gāyatraṃ   tu  4)  tr̥tīyāpañcamyāv   anuṣṭubʰau   prati   pr̥ṣadʰraḫ   pāṅktyantam̐  5)  saliṅgoktā   devatā   tvam   ekā   pāvamānīṣ   ṣaḍ   vaiśvadevam   antyādye   ca   pāvamānīstutiḫ   pañcamī   triṣṭub   iḍaiva   dve   br̥haddivo   yatra   tisras   sasruṣīr   ekaihi   mama   dvātrim̐śat   prājāpatyo   hr̥dyo   vaiśvadevan   tu   vivāhārtʰāśīs   tv   ānuṣṭubʰan   tv   ādyā   triṣṭup   tr̥tīyāvim̐śīpañcavim̐śyaḥ   paṅktayo   daśamī   pura-uṣṇig   dvādaśādye   āstārapaṅktiḫ   prastārapaṅktir   ekonavim̐śī   br̥haty   ekonatrim̐śī   triṣṭub   jagatīvod   aṣṭau   parāgadāso   dʰruva   ekā   eko   dve   ud   ekā   yac   cāsau   dve   brahma   daśa   vāmadevyo   nakulas   saurī   gʰarmastutir   bārhaspatyā   sāvitry   aṣṭir   gʰarmaparā  6)  etās   sauryaś   cāndramasyaś   ca   śeṣā   jagatyaḥ
+[struct] Hymn: 1
+[text] oṃ
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] abʰí   prá   vas   surā́dʰasam   índram   arca   yátʰā   vidé  /
+[struct] Halfverse: b
+[text] yó   jaritŕ̥bʰyo   magʰávā   purūvásus   sahásreṇeva   śíkṣati  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] śatā́nīkeva   prá   jigāti   dʰr̥ṣṇuyā́   hánti   vr̥ttrā́ṇi   dāśúṣe  /
+[struct] Halfverse: b
+[text] girér   iva   prá   rásā   asya   pinvire   dátrāṇi   purubʰójasaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] ā́   tvā   sutā́sa   índavo   mádā   yá   indra   girvaṇaḥ  /
+[struct] Halfverse: b
+[text] ā́po   ná   vajrinn   ánv   okyam̐  3  sáraḫ   pr̥ṇánti   śūra   rā́dʰase  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] anehásaṃ   pratáraṇaṃ   vivákṣaṇaṃ   mádʰvas   svā́diṣṭʰam   īṃ   piba  /
+[struct] Halfverse: b
+[text] ā́   yátʰā   mandasānáẖ   kirā́si   naḫ   prá   kṣudréva   tmánā   dʰr̥ṣát  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ā́   nas   stómam   úpa   dravád   dʰiyānó   áśvo   ná   sótr̥bʰiḥ  /
+[struct] Halfverse: b
+[text] yán   te   svadʰāvan   svadáyanti   dʰenáva   índra   káṇveṣu   rātáyaḥ  // 1 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] ugrán   ná   vīrán   námasópa   sedima   víbʰūtim   ákṣitāvasum  /
+[struct] Halfverse: b
+[text] udrī́va   vajrinn   avató   ná   siṃcate   kṣárantīndra   dʰītáyaḥ  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yád   dʰa   nūnáṃ   yyád   vā   yajñé   yád   vā   pr̥tʰivyā́m   ádʰi  /
+[struct] Halfverse: b
+[text] áto   no   yajñám   āśúbʰir   mahemata   ugrá   r̥ṣvébʰir   ā́   gahi  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] ajirā́so   hára[yo]   y[é]   ta   āśáv[o]   v[ā́]t[ā]   iva   prasakṣíṇaḥ  /
+[struct] Halfverse: b
+[text] yébʰir   [ápa]ty[aṃ]   m[á]nuṣaḫ   parī́yase   yébʰir   víśvam̐   svà[r]   dr̥[śé]  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] [etā́vatas   ta   īmaha   índra]   sumnásya   gómataḥ  /
+[struct] Halfverse: b
+[text] yátʰā   prā́va   étaśaṃ   kŕ̥tvye   dʰáne   yátʰā   váśan   dáśavraje  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] yátʰā   káṇve   magʰavann   trasádasyavi   y[átʰā   paktʰé   dá]śavraje  /
+[struct] Halfverse: b
+[text] yátʰā   góśarye   ásanor   r̥jiśvanī́ndra   gómad   dʰíraṇyavat  // 2 //
+[struct] Hymn: 2
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] prá   sú   śrutám̐   surā́dʰasam   árcā   śakrám   [abʰíṣṭa]ye  /
+[struct] Halfverse: b
+[text] yás   sunvaté   stuvaté   kā́myaṃ   vvásu   sahásreṇeva   mám̐hate  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] śatā́nīkā   hetáyo   asya   duṣṭárā   índrasya   samíṣo   mahī́ḥ  /
+[struct] Halfverse: b
+[text] śinír   ná   bʰujmā́   magʰávatsu   pinvate   yád   īṃ   sutā́   ámandiṣuḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yád   īm̐   sutā́sa   índavobʰí   priyám   ámandiṣuḥ  /
+[struct] Halfverse: b
+[text] ā́po   ná   dʰāyi   sávanam   ma   ā́   vaso   dúgʰā   ivópa   dāśúṣe  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] anehásaṃ   vvo   hávamānam   ūtáye   mádʰvaẖ   kṣaranti   dʰītáyaḥ  /
+[struct] Halfverse: b
+[text] ā́   tvā   vaso   havamānāsa   índava   úpa   stotréṣu   dadʰire  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ā́   nas   sóme   svadʰavará   iyānó   átyo   ná   tośate  /
+[struct] Halfverse: b
+[text] yán   te   svadʰāvan   svadʰáyanti   gūrtáyaḫ   pauré   ccʰandáyase   há[vam]  // 3 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] prá   vīrám   ugráṃ   vvivicin   dʰanaspŕ̥taṃ   vvíbʰūtim̐   rā́dʰaso   maháḥ  /
+[struct] Halfverse: b
+[text] udrī́va   vajrinn   avató   vasutvanā́   sádā   pīpetʰa   dāśúṣe  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yád   dʰa   nūnáṃ   parāváti   yád   vā   pr̥tʰivyā́n   diví  /
+[struct] Halfverse: b
+[text] yujāná   indra   háribʰir   mahemata   ugrá   r̥ṣvébʰir   ā́   gahi  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] ratʰirāso   hárayo   yé   te   asrídʰa   ójo   vā́tasya   píprati  /
+[struct] Halfverse: b
+[text] yébʰir   ní   dásyuṃ   mánuṣo   nigʰóṣayo   yébʰis   svàḫ   parī́yase  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] etā́vatas   te   vaso   vidyā́ma   śūra   návyasaḥ  /
+[struct] Halfverse: b
+[text] yátʰā   prā́vo   magʰavan   médʰyātitʰiṃ   yyátʰā   nī́pātitʰin   dʰáne  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] yátʰā   káṇve   magʰavan   médʰe   adʰvaré   dīrgʰánītʰe   dámūnasi  /
+[struct] Halfverse: b
+[text] yátʰā   góśarye   ásiṣāso   adrivo   máyi   gotrám̐   hariśríyam  // 4 //
+[struct] Hymn: 3
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yátʰā   mánau   sā́ṃvvaraṇam̐   sómam   indrā́pibas   sutám  /
+[struct] Halfverse: b
+[text] nī́pātitʰau   magʰavan   médʰyātitʰau   púṣṭigau   śrúṣṭigau   sácā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] pārṣadvānáḫ   práskaṇvam̐   sám   a[sādayac]   cʰáyānaṃ   jívrim   úddʰitam  /
+[struct] Halfverse: b
+[text] sahásrāṇy   ā́siṣāsad   gávām   ŕ̥ṣis   tvóto   dásyave   vŕ̥kaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yá   uktʰébʰir   ná   vindʰáte   cikíd   yá   r̥ṣicódanaḥ  /
+[struct] Halfverse: b
+[text] índran   tám   áccʰā   vada   návyasyā   maty   áviṣyantan   ná   bʰójase  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yásmā   arkám̐   saptáśīrṣāṇam   ānr̥cús   tridʰā́tum   uttamé   padé  /
+[struct] Halfverse: b
+[text] sá   tv   imā́   víśvā   bʰúvanāni   cikradad   ā́d   ij   janiṣṭa   paúm̐syam  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yó   no   dātā́   vásūnām   índraṃ   tám̐   hūmahe   vayám  /
+[struct] Halfverse: b
+[text] vidmā́   hy   asya   sumatín   návīyasīṃ   gaméma   gómati   vrajé  // 5 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] yásmai   tváṃ   vaso   dānā́ya   śíkṣasi   sá   rāyás   póṣam   aśnute  /
+[struct] Halfverse: b
+[text] tán   tvā   vayáṃ   magʰavann   indra   girvaṇas   sutā́vanto   havāmahe  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] kadā́   caná   starī́r   asi   néndra   saścasi   dāśúṣe  /
+[struct] Halfverse: b
+[text] úpopén   nú   magʰavan   bʰū́ya   ín   nú   te   dā́nan   devásya   pr̥cyate  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] prá   yó   nanakṣé   abʰy   ójasā   kríviṃ   vadʰaíś   śúṣṇan   nigʰoṣáyan  /
+[struct] Halfverse: b
+[text] yadéd   ástambʰīt   pratʰáyann   amū́n   divám   ā́d   íj   janiṣṭa   pā́rtʰivaḥ  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] yásyāyáṃ   vvíśva   ā́ryo   dā́saś   śevadʰipā́   aríḥ  /
+[struct] Halfverse: b
+[text] tirás   cid   aryé   rúśame   pávīravi   túbʰyét   só   ajyate   rayíḥ  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] turaṇyávo   mádʰumanto   gʰr̥taścúto   víprāso   arkám   ānr̥cuḥ  /
+[struct] Halfverse: b
+[text] asmé   rayíḫ   papratʰe   vŕ̥ṣṇyam̐   śávosmé   suvānā́sa   índavaḥ  // 6 //
+[struct] Hymn: 4
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yátʰā   mánau   vívasvati   sómam̐   śakrā́pibas   sutám  /
+[struct] Halfverse: b
+[text] yátʰā   trité   ccʰánda   indra   jújoṣasy   āyaú   mādayase   sácā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] pŕ̥ṣadʰre   médʰye   mātariśvanī́ndra   suvāné   ámandatʰāḥ  /
+[struct] Halfverse: b
+[text] yátʰā   sómaṃ   dáśaśipre   dáśoṇye   syū́maraśmāv   ŕ̥jīnasi  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yá   uktʰā́   kévalā   dadʰé   yás   sómaṃ   dʰr̥ṣatā́pibat  /
+[struct] Halfverse: b
+[text] yásmai   víṣṇus   trī́ṇi   padā́   vicakramá   úpa   mitrásya   dʰármabʰiḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yásya   tvám   indra   stómeṣu   cākáno   vā́je   vājiñ   cʰatakrato  /
+[struct] Halfverse: b
+[text] tán   tvā   vayám̐   sudúgʰām   iva   godúhe   juhūmási   śrávassu   ca  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yó   no   dātā́   sá   naḫ   pitā́   mahā́m̐   ugrá   īśānakŕ̥t  /
+[struct] Halfverse: b
+[text] áyāmann   ugró   magʰávā   purūvásur   gór   áśvasya   prá   dāti   naḥ  // 7 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] yásmai   tváṃ   vvaso   dānā́ya   mám̐hase   sá   rāyás   póṣam   invati  /
+[struct] Halfverse: b
+[text] vasūyávo   vásupatim̐   śatákratum̐   stómair   índram̐   havāmahe  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] kadā́   caná   prá   yuccʰasy   ubʰé   ní   pāsi   jánmanī  /
+[struct] Halfverse: b
+[text] túrīyāditya   sávanan   ta   indriyám   ā́   tastʰāv   amŕ̥tan   diví  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] yásmai   tváṃ   magʰavann   indra   girvaṇaś   śíkṣo   śíkṣasi   dāśúṣe  /
+[struct] Halfverse: b
+[text] asmā́ka[ṅ   gíra   utá   suṣṭutíṃ   vaso   kaṇvavác]   cʰr̥[ṇu]dʰī   hávam  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] ástāvi   mánma   pūrvyám   bráhméndrāya   vocata  /
+[struct] Halfverse: b
+[text] pūrvī́r   r̥tásya   br̥hatī́r   anūṣa[ta   stotúr   medʰā́   a]sr̥kṣata  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] sám   índro   rā́yo   br̥hatī́r   adʰūnuta   sáṃ   kṣoṇī́   sám   u   sū́ryam  /
+[struct] Halfverse: b
+[text] sám̐   śukrā́saś   śúcayas   sáṃ   gávāśiras   sómā   [índram   ama]ndiṣuḥ  // 8 //
+[struct] Hymn: 5
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] upamán   tvā   magʰónāṃ   jyéṣṭʰaṃ   ca   vr̥ṣabʰā́ṇām  /
+[struct] Halfverse: b
+[text] pūrbʰíttamaṃ   magʰavann   indra   govídam   ī́śānam̐   rāyá   [īma]he  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yá   āyúṅ   kútsam   atitʰigvám   árdayo   vāvr̥dʰānó   divédive  /
+[struct] Halfverse: b
+[text] tán   tvā   vayám̐   háryaśvam̐   śatákratuṃ   vājayánto   havāmahe  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] ā́   no   viśveṣām̐   rásaṃ   mádʰvas   siñcanty   ádrayaḥ  /
+[struct] Halfverse: b
+[text] yé   parāváti   sunviré   jáneṣv   ā́   yé   arvāvátī́ndavaḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] viśvā   dvéṣām̐si   jahi   cā́va   cā́   kr̥dʰi   víśve   sunvantv   ā́   vásu  /
+[struct] Halfverse: b
+[text] śī́rṣṭeṣu   cit   te   madirā́so   am̐śávo   yátrā   sómasya   tr̥mpási  // 9 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] índra   né[dī]ya   éd   ihi   mitámedʰābʰir   ūtíbʰiḥ  /
+[struct] Halfverse: b
+[text] ā́   śantama   śántamābʰir   abʰíṣṭibʰir   ā́   svāpe   svāpíbʰiḥ  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] ājitúram̐   sátpatiṃ   vviśvácarṣaṇiṃ   kr̥dʰí   prajā́sv   ā́bʰagam  /
+[struct] Halfverse: b
+[text] prá   sū́   tirā   śácībʰir   yé   ta   uktʰínaẖ   krátuṃ   punata   ānuṣák  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yás   te   sā́dʰiṣṭʰóvase   té   syāma   bʰáreṣu   te  /
+[struct] Halfverse: b
+[text] vītíhótrābʰir   utá   deváhūtibʰis   sasavā́m̐so   viśr̥ṇviré  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] ahám̐   hí   te   harivo   bráhma   vājayúr   ājíṃ   yyā́mi   sádotíbʰiḥ  /
+[struct] Halfverse: b
+[text] tvā́m   íd   evá   tám   áme   sám   aśvayúr   gavyúr   ágre   matīnā́m  // 10 //
+[struct] Hymn: 6
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] etát   ta   indra   vīryàṃ   [g]īrbʰír   gr̥ṇánti   kārávaḥ  /
+[struct] Halfverse: b
+[text] te   stóbʰanta   ū́rjam   āvan   gʰr̥taścútaṃ   paprā́so   nakṣan   dʰītíbʰiḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] nákṣanta   índram   ávase   ṣu[k]r̥tyáyā   yéṣām̐   sutéṣu   mándase  /
+[struct] Halfverse: b
+[text] yátʰā   saṃvvarté   ámado   yátʰā   kr̥śá   evā́smé   indra   matsva  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] ā́   no   víśve   sajóṣaso   dévāso   gántanópa   naḥ  /
+[struct] Halfverse: b
+[text] vásavo   rudrā́   ávase   na   ā́   gamam̐   śr̥ṇvántu   marúto   hávam  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] pūṣā́   víṣṇur   hávanaṃ   me   sárasvaty   ávantu   saptá   síndʰavaḥ  /
+[struct] Halfverse: b
+[text] ā́po   vā́taḫ   párvatāso   vánaspátiś   śr̥ṇótu   pr̥tʰivī́   hávam  // 11 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yád   indra   rā́dʰo   ásti   te   mā́gʰonaṃ   magʰávattama  /
+[struct] Halfverse: b
+[text] téna   no   bodʰi   sadʰamā́dyo   vr̥dʰé   bʰágo   dānā́ya   vr̥ttrahan  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] ā́jipate   nr̥pate   tvám   íd   dʰí   no   vā́ja   ā́   bʰakṣi   sukrato  /
+[struct] Halfverse: b
+[text] vayám̐   hótrābʰir   utá   deváhū́tibʰis   sasavā́m̐so   manāmahe  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] sánti   hya3ryá   āśíṣa   índra   ā́yur   jánānām  /
+[struct] Halfverse: b
+[text] asmā́n   nakṣasva   magʰavann   úpā́vase   dʰukṣásva   pípyúṣīm   íṣam  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] vayán   ta   indra   stómebʰir   vidʰema   tvám   asmā́kam̐   śatakrato  /
+[struct] Halfverse: b
+[text] máhi   stʰūrám̐   śaśayam̐   rā́dʰo   áhrayaṃ   práskaṇvāya   ní   tośaya  // 12 //
+[struct] Hymn: 7
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] bʰū́rī́d   índrasya   vīryaṃ  3  vy   ákʰyam   abʰyā́jati  /
+[struct] Halfverse: b
+[text] rā́dʰas   te   dasyave   vr̥ka  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] śatám̐   śvetā́sa   ukṣáṇo   diví   tā́ro   ná   rocante  /
+[struct] Halfverse: b
+[text] mahnā́   dívan   ná   tastabʰuḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] śatáṃ   vveṇū́m̐   śatám̐   śúnaś   śatáṃ   cármāṇi   mlātā́ni  /
+[struct] Halfverse: b
+[text] śatám   me   balbajastukā́   áruṣīṇāṃ   cátuśśatam  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] sudevā́s   stʰa   kaṇvāyanā́   váyovayo   vicarántaḥ  /
+[struct] Halfverse: b
+[text] áśvāso   ná   caṅkṣamata  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ā́d   ít   sāptásya   carkirann   ā́nūnaṃ   ca   máhi   śrávaḥ  /
+[struct] Halfverse: b
+[text] śyā́vīr   atidʰvasán   patʰáś   cákṣuṣā   caná   sannáśe  // 13 //
+[struct] Hymn: 8
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] práti   te   dasyave   vr̥ka   rā́dʰo   adarśy   áhrayam  /
+[struct] Halfverse: b
+[text] dyaúr   ná   pratʰinā́   śávaḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] dáśa   máhyaṃ   pūtákratus   sahásrā   dásyave   vŕ̥kaḥ  /
+[struct] Halfverse: b
+[text] nítyād   rāyó   ámam̐hata  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] śatám   me   gardabʰā́nām̐   śarám   ū́rṇāvatīnām  /
+[struct] Halfverse: b
+[text] śatán   dāsā́m̐   ádʰi   srajaḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] tátro   ápi   prā́ṇīyata   pūtákratāyī   vyaktā  /
+[struct] Halfverse: b
+[text] áśvānām   ín   ná   yūtʰyam  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ácety   agniś   cikitir   havyavā́ṭ   sá   sumádratʰaḥ  /
+[struct] Halfverse: b
+[text] agníś   śukréṇa   śocíṣā   br̥hát   sū́ryo   arocata   diví   sū́ryo   arocata  /
+[struct] Halfverse: c
+[text] ágna   ā́   yāhy   agníbʰiḥ  // 14 //
+[struct] Hymn: 9
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] tváṃ   drapsáṃ   dʰánuṣā   yúdʰyamānam   upā́tiṣṭʰo   magʰavann   am̐śumátyāḥ  /
+[struct] Halfverse: b
+[text] prá   śū́ra   ā́pas   sánitā   dʰánānīndra   tā́ni   te   purukr̥t   sáhām̐si  /
+[struct] Halfverse: c
+[text] tvam̐   ha   tyát   saptábʰyo   jā́yamānaḥ  // 15 //
+[struct] Hymn: 10
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] pāvamānī́s   svastyáyanīs   sudúgʰā   hí   gʰr̥taścútaḥ  /
+[struct] Halfverse: b
+[text] ŕ̥ṣibʰis   sámbʰr̥to   ráso   brāhmaṇéṣv   amŕ̥tam̐   hitám  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] pāvamānī́r   diśantu   na   imám̐   llokám   átʰo   amúm  /
+[struct] Halfverse: b
+[text] kā́mān   sám   ardʰayantu   no   devaír   devī́s   samā́hr̥tāḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yéna   devā́ḥ   pavítreṇātmā́nam   [punáte   sádā]  /
+[struct] Halfverse: b
+[text] [téna   sahásradʰāreṇa   pāvamānyáḫ   punantu   mā  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] prājāpatyáṃ   pavítram̐   śatódyāmam̐   hiraṇmáyam  /
+[struct] Halfverse: b
+[text] téna   brahmavído   vayáṃ   pūtám   bráhma   punīmahe  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] índras   sunītī́   sahá   mā   punātu   sómas   svastyā́   váruṇas   samī́cyā  /
+[struct] Halfverse: b
+[text] yamó   rā́jā   pramr̥ṇā́bʰiḫ   punātu   māṃ   jātávedā   morjáyantyā   punātu  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] pāvamānī́s   svastyáyanīr   yā́bʰir   gaccʰati   nāndanám  /
+[struct] Halfverse: b
+[text] púṇyām̐ś   ca   bʰakṣā́n   bʰakṣayaty]   amr̥tatváṃ   ca   gaccʰati  /
+[struct] Halfverse: c
+[text] prá   devám   accʰā   mádʰumanta  // 16 //
+[struct] Hymn: 10Pet.
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yán   me   gárbʰe   vásataḥ   pāpám   ugrám   yáj   jāyamā́nasya   ca   kíṃ   cid   anyát  /
+[struct] Halfverse: b
+[text] jātásya   ca   yác   cāpi   ca   várddʰato   me   tát   pāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] mātā́pitrór   yan   ná   kr̥taṃ   váco   me   yát   stʰāvaráṃ   jaṃgámam   ābabʰū́va  /
+[struct] Halfverse: b
+[text] víśvasya   yát   prahr̥ṣitáṃ   váco   me   tát   pāvamānī́bʰir   aháṃ   punāmi  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] kráyavikrayād   yónidoṣād   bʰákṣād   bʰójyāt   pratígrahāt  /
+[struct] Halfverse: b
+[text] asaṃbʰojanā́c   cāpi   nr̥śám̐saṃ   tátpāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] gógʰnāt   táskaratvāt   strī́vadʰād   yác   ca   kílbiṣam  /
+[struct] Halfverse: b
+[text] pāpakáṃ   ca   cáraṇebʰyas   tátpāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] bráhmavadʰāt   súrāpānāt   súvarṇasteyād   vŕ̥ṣalimitʰúnasaṃgamāt  /
+[struct] Halfverse: b
+[text] gúror   dārābʰigámanāc   ca   tátpāvamānī́bʰir   aháṃ   punāmi  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] bā́lagʰnān   mā́tr̥pitr̥vadʰād   bʰū́mitaskarāt   sarvavarṇagamana-mitʰúnasaṃgamāt  /
+[struct] Halfverse: b
+[text] pāpébʰyaś   ca   pratígrahāt   sádyaḥ   praharaṃti   sárvaduṣkr̥taṃ   tátpāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] amaṃtram   ánnam   yát   kiṃ   cíd   dʰūyate   ca   hutā́śane  /
+[struct] Halfverse: b
+[text] saṃvatsarákr̥taṃ   pāpáṃ   tátpāvamānī́bʰir   aháṃ   punāmi  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] dúryaṣṭaṃ   dúradʰītaṃ   pāpám   yác   cājñānatókr̥tam  /
+[struct] Halfverse: b
+[text] ayājitā́ś   cāsáṃyājyās   tátpāvamānī́bʰir   aháṃ   punāmi  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] r̥tásya   yónayomr̥tásya   dʰā́ma   sárvā   devébʰyaḥ   púṇyagaṃdʰā  /
+[struct] Halfverse: b
+[text] tā   na   āpáḥ   pravahaṃtu   pāpáṃ   śráddʰā   gaccʰāmi   sukŕ̥tām   u   lokáṃ   tátpāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] bráhmavadʰāt   súrāpānāt   súvarṇasteyād   vŕ̥ṣalimitʰúnasaṃgamāt  /
+[struct] Halfverse: b
+[text] gúror   dārābʰigámanāc   ca   tátpāvamānī́bʰir   aháṃ   punāmi  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] yán   me   gárbʰe   vásataḥ   pāpám   ugrám   yáj   jāyamā́nasya   ca   kíṃ   cid   anyát  /
+[struct] Halfverse: b
+[text] jātásya   ca   yác   cāpi   ca   várddʰato   me   tát   pāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] mātā́pitrór   yan   ná   kr̥taṃ   váco   me   yát   stʰāvaráṃ   jaṃgámam   ābabʰū́va  /
+[struct] Halfverse: b
+[text] víśvasya   yát   prahr̥ṣitáṃ   váco   me   tát   pāvamānī́bʰir   aháṃ   punāmi  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] kráyavikrayād   yónidoṣād   bʰákṣād   bʰójyāt   pratígrahāt  /
+[struct] Halfverse: b
+[text] asaṃbʰojanā́c   cāpi   nr̥śám̐saṃ   tátpāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 14
+[struct] Halfverse: a
+[text] gógʰnāt   táskaratvāt   strī́vadʰād   yác   ca   kílbiṣam  /
+[struct] Halfverse: b
+[text] pāpakáṃ   ca   cáraṇebʰyas   tátpāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 15
+[struct] Halfverse: a
+[text] bā́lagʰnān   mā́tr̥pitr̥vadʰād   bʰū́mitaskarāt   sarvavarṇagamana-mitʰúnasaṃgamāt  /
+[struct] Halfverse: b
+[text] pāpébʰyaś   ca   pratígrahāt   sádyaḥ   praharaṃti   sárvaduṣkr̥taṃ   tátpāvamānī́bʰir   ahám   punāmi  /
+[struct] Verse: 16
+[struct] Halfverse: a
+[text] pāvamānī́ṃ   pitŕ̥̄n   dévān   dʰyāyéd   yaś   ca   sarásvatīṃ  /
+[struct] Halfverse: b
+[text] pítīṃs   tasyópa   tiṣṭʰeta   kṣīráṃ   sarpír   mádʰūdakáṃ  /
+[struct] Verse: 17
+[struct] Halfverse: a
+[text] r̥ṣayas   tu   tápas   tepuḥ   sarvé   svargajigī́ṣavaḥ  /
+[struct] Halfverse: b
+[text] tápasas   tápasogryaṃ   tu   pāvámanīr   r̥có   japet  /
+[struct] Verse: 18
+[struct] Halfverse: a
+[text] pāvamānáṃ   paraṃ   brahmá   ye   páṭʰaṃti   manī́ṣiṇaḥ  /
+[struct] Halfverse: b
+[text] sáptajánma   bʰaved   vipró   dʰanā́ḍʰyo   vedapā́ragaḥ  /
+[struct] Verse: 19
+[struct] Halfverse: a
+[text] dáśottarāṇy   r̥cāṃ   caitátpāvámānīḥ   śatā́ni   ṣaṭ  /
+[struct] Halfverse: b
+[text] etáj   juhváṃ   jápaṃś   caiva   gʰoráṃ   mr̥tyubʰayám   jayet  /
+[struct] Verse: 20
+[struct] Halfverse: a
+[text] pāvamānáṃ   paraṃ   brahmá   śukrájyotiḥ   sanā́tanam  /
+[struct] Halfverse: b
+[text] ŕ̥ṣīṃs   tasyópa   tiṣṭʰeta   kṣīráṃ   sarpír   mádʰūdakám  //
+[struct] Hymn: 11
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] íḍaiva   [vām   ánu   vastāṃ   gʰr̥téna   yásyāḫ   padé   puná]te   devayántaḥ  /
+[struct] Halfverse: b
+[text] gʰr̥tápadī   śákvarī   sómapr̥ṣṭʰópa   yajñám   astʰita   vaiśvadevī́  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] vaiśvadevī́   punatī́   devy   ā[gād   yasyām   imā   bahvyas   ta]nvò   vītápr̥ṣṭʰāḥ  /
+[struct] Halfverse: b
+[text] táyā   mádantas   sadʰamā́dʰyeṣu   vayáṃ   syāma   pátayo   rayīṇā́m  /
+[struct] Halfverse: c
+[text] prá   tu   drava   pári   kóśan   ni   ṣīda  // 17 //
+[struct] Hymn: 12
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yátra   lókyās   tanutyájāś   śraddʰáyā   tápasā   jitā́ḥ  /
+[struct] Halfverse: b
+[text] téjaś   ca   yátra   bráhma   ca   tátra   mā́m   amŕ̥taṅ   kr̥dʰī́ndrāyendo   pári   srava  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yátra   dévā   mahātmánas   séndras   samarúdgaṇāḥ  /
+[struct] Halfverse: b
+[text] brahmā́   ca   yátra   víṣṇuś   ca   tátra   mā́m   amŕ̥taṅ   kr̥dʰī́ndrāyendo   pári   srava  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yátra   tát   paramáṃ   padáṃ   víṣṇor   loké   mahīyáte  /
+[struct] Halfverse: b
+[text] devaís   sukŕ̥takarmabʰis   tátra   mā́m   amŕ̥taṅ   kr̥dʰī́ndrāyendo   pári   srava  /
+[struct] Hymn: 13
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] sasrúṣīs   tád   apáso   dívā   náktaṃ   ca   sasrúṣīḥ  /
+[struct] Halfverse: b
+[text] váreṇyakratur   ahám   ā́   devī́r   ávasā   huve  /
+[struct] Halfverse: c
+[text] ó   cit   sákʰāyam̐   sakʰyā́   vavr̥tyām  // 19 //
+[struct] Hymn: 14
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] éhindra   vasumátā   rátʰena   sākám̐   sómam   apiban   mádāya  /
+[struct] Halfverse: b
+[text] hr̥tsú   pītvā́   mándasān[o]   marúdbʰis   stīrṇáṃ   yyāhi   vr̥ttrahátyāya   vajrī́  /
+[struct] Halfverse: c
+[text] índra   sómam   imám   piba  // 20 //
+[struct] Hymn: 15
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] máma   vraté   hŕ̥dayan   te   dadʰāmi   máma   citám   ánu   cittán   te   astu  /
+[struct] Halfverse: b
+[text] máma   vācám   ekavratā́   jusasva   br̥haspátis   tvā   ní   yunaktu   máhyam  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] dʰātā́   tvā   máhyam   adadan   máhyam   dʰātā́   dadʰātu   tvā  /
+[struct] Halfverse: b
+[text] prá   dʰātā́   tvā   máhyaṃ   prā́   yaccʰan   máhyaṃ   tvānúmatir   dadau  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] anúmaténu   manyasva   svā́numaténu   manyasva  /
+[struct] Halfverse: b
+[text] máhyam   enam̐   sám   ā   kuru   vā́cā   cákṣuṣā   mánasā   máyi   sáṃyyatam  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] ā́   harayat   te   hŕ̥dayan   tád   astu   hŕ̥dayaṃ   máma  /
+[struct] Halfverse: b
+[text] átʰo   yán   máma   hŕ̥dayaṃ   tád   astu   hŕ̥dayaṃ   táva  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] hŕ̥dayena   hŕ̥dayaṃ   prāṇéna   prāṇám   agr̥bʰam  /
+[struct] Halfverse: b
+[text] gr̥bʰṇā́mi   cákṣuṣā   cákṣur   gr̥bʰṇā́mi   mánasā   mánaḥ  // 21 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] ā́kūtaṃ   cittáṃ   cákṣuś   śrótram   átʰo   bálam  /
+[struct] Halfverse: b
+[text] śríyaṃ   yā́ṃ   devā́   jagmus   táyā   badʰnāmi   te   mánaḥ  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] ánnamayena   maṇinā   prāṇásūtreṇa   pŕ̥śninā  /
+[struct] Halfverse: b
+[text] badʰnā́mi   sátyagrantʰínā   hŕ̥dayaṃ   ca   mánaś   ca   te  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] āvártanaṃ   nivártanaṃ   máyā   saṃvvánanaṃ   táva  /
+[struct] Halfverse: b
+[text] indrāgnī́   aśvínobʰā́   tváṣṭā   dʰātā́   ca   cakrátuḥ  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] yéna   citténa   vádasi   yéna   tvānyóbʰi   dā́sati  /
+[struct] Halfverse: b
+[text] sárvaṃ   tád   agna   ā́   bʰara   máhyaṃ   dāsā́ya   rā́dʰyaḥ  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] ánuvanam̐   súvanam   údvanaṃ   vvánam  /
+[struct] Halfverse: b
+[text] gʰarmásya   paśya   rūpā́ṇi   téna   badʰnāmi   te   mánaḥ  // 22 //
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] sám   mā   viśantu   paśávas   sám   mā   viśantv   óṣadʰīḥ  /
+[struct] Halfverse: b
+[text] sám   mā   viśantu   rā́jāno   yátʰāháṅ   kāmaye   tátʰā  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] antaráṃ   ca   nédīyaś   ca   máno   devā́   upā́sate  /
+[struct] Halfverse: b
+[text] anantaróháṃ   túbʰyaṃ   bʰūyāsam̐   hŕ̥dayam   me   bʰūyāsam   anantarám  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] sabʰā́   sam   āsāv   itúś   cāvatām   ubʰé   prajā́pater   duhitārau   sácetasau  /
+[struct] Halfverse: b
+[text] sáṅgatʰéṣu   páde   cāru   námo   vaiśvānarā́ya   adʰ[i]  /
+[struct] Verse: 14
+[struct] Halfverse: a
+[text] [.........]  ya   pádena   ta   ā́   te   prāṇā́n   sam   ā́   dade  /
+[struct] Halfverse: b
+[text] átʰo   etát   sam   ā́   dade   yád   anyéṣu   jáneṣu   ca  /
+[struct] Verse: 15
+[struct] Halfverse: a
+[text] ahán   te   cákṣuṣā   cákṣur   ahán   te   mánasā   mánaḥ  /
+[struct] Halfverse: b
+[text] aháṃ   gandʰárvarūpeṇa   sána   ā́   vartayāmi   te  // 23 //
+[struct] Verse: 16
+[struct] Halfverse: a
+[text] hatácitto   hatámáno   ható   anyéṣu   te   mánaḥ  /
+[struct] Halfverse: b
+[text] sarvéṣu   kŕ̥ṣṇakeśeṣu   ható   anyéṣu   te   mánaḥ  /
+[struct] Verse: 17
+[struct] Halfverse: a
+[text] sárvāsu   śúddʰadantīṣu   ható   anyā́su   te   mánaḥ  /
+[struct] Halfverse: b
+[text] mā́ṃ   caivá   paśya   sū́ryaṃ   ca   mā   tŕ̥tīyaṃ   kádā   caná  /
+[struct] Verse: 18
+[struct] Halfverse: a
+[text] smr̥tír   asi   kāmasañjánanī   máyi   te   kā́mo   astu  /
+[struct] Halfverse: b
+[text] yát   te   máno   váreṇyam̐   llokéṣu   báhudʰā   kr̥tám  /
+[struct] Verse: 19
+[struct] Halfverse: a
+[text] samudrám   iva   sarítas   sárvan   tvā́nuvartayāmasi  /
+[struct] Halfverse: b
+[text] ā́   dīpayāmi   te   hŕ̥dayam   agnā́   me   vá   prá   dīpayāmasi  /
+[struct] Verse: 20
+[struct] Halfverse: a
+[text] eṣá   te   hŕ̥dayeṅgāró   dīptás   te   asmi   dáhyase  /
+[struct] Halfverse: b
+[text] mayā́   te   dáhyamānasyāgnír   dāṃséna   na   tr̥pyatu   bʰū́mir   dām̐séna   tr̥pyatu  // 24 //
+[struct] Verse: 21
+[struct] Halfverse: a
+[text] cíttaṃ   ca   te   mánaś   ca   te   máyi   dʰātā́   ní   yaccʰatu  /
+[struct] Halfverse: b
+[text] máyi   te   cíttam   ā́yattam   mánas   te   máyi   samáśnute  /
+[struct] Verse: 22
+[struct] Halfverse: a
+[text] ā́vr̥tās   te   máyā   prā[
+[struct] Halfverse: b
+[struct] Verse: 23
+[struct] Halfverse: a
+[struct] Halfverse: b
+[struct] Verse: 24
+[struct] Halfverse: a
+[struct] Halfverse: b
+[struct] Verse: 25
+[struct] Halfverse: a
+[struct] Halfverse: b
+[struct] Verse: 26
+[struct] Halfverse: a
+[text] naṣṭán   te   kr̥pam   any[a]smin   máyi   te   ramatām   mánaḥ  /
+[struct] Halfverse: b
+[text] anu  [                ]  mánaḥ  /
+[struct] Verse: 27
+[struct] Halfverse: a
+[text] cákṣuś   śrótraṃ   cā́dʰītaṃ   ca   sárvan   te   ahám   ā́   dade  /
+[struct] Halfverse: b
+[text] hŕ̥dya   ŕ̥ṣir   ajāyata   de  [            ] /
+[struct] Verse: 28
+[struct] Halfverse: a
+[text] tád   evaiṣv   adadʰur   hŕ̥dayeṣv   ártʰadarśinam  /
+[struct] Halfverse: b
+[text] sárvajñam̐   sárvadarśinam̐   sá   naẖ   kármāṇi   sādʰáya  /
+[struct] Verse: 29
+[struct] Halfverse: a
+[text] yé  [        ]  st[a]va   jātavedaḫ   práviṣṭā   agnír   durhŕ̥dayasya   kárma  /
+[struct] Halfverse: b
+[text] téṣām   ahám   bʰāgadʰéyaṃ   juhomi   tā́m   mā   devā́s   sárvai[h]   kām[ai]s   tarpayantām  /
+[struct] Verse: 30
+[struct] Halfverse: a
+[text] bʰŕ̥gūṇām   áṅgirasāṃ   tápaso   gr̥ṇá   saṃyyátam  /
+[struct] Halfverse: b
+[text] kuśikā́bʰyávarāṇāṃ   ca   mána   ā́   vartayāmi   te  /
+[struct] Verse: 31
+[struct] Halfverse: a
+[text] yát   te   máno   váreṇyam̐   llokéṣu   báhudʰā   kr̥tám  /
+[struct] Halfverse: b
+[text] tát   ta   ā́   vartayāmasy   adʰríś   cāháś   ca   brāhmaṇáḥ  /
+[struct] Verse: 32
+[struct] Halfverse: a
+[text] yát   kákṣīvān   saṃvvánanaṃ   putró   áṅgirasām   ávet  /
+[struct] Halfverse: b
+[text] téna   nodya   víśve   devā́s   sám   priyā́m̐   sám   avīvanan  // 26 //
+[struct] Hymn: 16
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] uttúdainaṃ   gr̥hápate   jñātébʰyaś   śayanā́d   ádʰi  /
+[struct] Halfverse: b
+[text] grīvā́   gr̥hītvót   tiṣṭʰa   pādáto   na   viveśaya  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] út   kʰā́d   udantu   marúta   út   samudrā́m   áto   dádʰi  /
+[struct] Halfverse: b
+[text] krátvāyám   agnír   dahatu   krátvā   tapatu   sū́ryaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] kāmaśayyā́rtʰebʰitaptā́ṃ   yyátʰā   stríyam̐   śoṣayasi  /
+[struct] Halfverse: b
+[text] evám̐   śoṣáya   no   rā́tīr   dívā   n[a]ktaṃ   daśasyatam  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] imā́m   me   mittrā́váruṇau   kr̥dʰí   citténa   vy   asyatām  /
+[struct] Halfverse: b
+[text] datvā́   pītvā́grataẖ   kr̥tvā́   yátʰāsyā́ṃ   devaśo   váśe  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] párān   kr̥ṇuṣva   dāsā́n   dévīváśān   anvavā́yinaḥ  /
+[struct] Halfverse: b
+[text] adʰiṣṭʰā́ya   padā́   mūrdʰni   sānváyāñ   cʰāśvatī́s   samā  // 27 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] r̥túbʰiṣ   ávārtavébʰir   ā́yuṣā   sahá   várcasā  /
+[struct] Halfverse: b
+[text] saṃvatsarásya   téjasā   téna   mā   sahá   śundʰata  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] anéna   bráhmaṇāgne   tvám   ayáṃ   cendro   ná   īḍitaḥ  /
+[struct] Halfverse: b
+[text] sam̐rā́jaṃ   cā́dʰipatyaṃ   ca   svānāṅ   kr̥ṇu   tam   úttamam  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] ágne   ní   jahi   sám̐hitān   iṣū́n   marmaṇi   mármaṇi  /
+[struct] Halfverse: b
+[text] *kʰādíram̐   hr̥di   śaṅkún   no   dviṣáto   na   vivéśaya  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] satyenottabʰitā   bʰū́miḥ  // 28 //
+[struct] Hymn: 17
+[struct] Verse: _
+[struct] Halfverse: a
+[text] dʰrúvaidʰi   póṣyā   máyi   máhyan   tvādād   bŕ̥haspátiḥ  /
+[struct] Halfverse: b
+[text] máyā   pátyā   prajā́vatī   sáñ   śarádaś   śatám  /
+[struct] Halfverse: c
+[text] ví   hí   sótor   ásr̥kṣata  // 29 //
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] avidʰavā́   bʰava   várṣāṇi   śatáṃ   sāgraṃ   tu   súvratā  /
+[struct] Halfverse: b
+[text] tejásvī   ca   yaśásvī   ca   dʰarmápatnī   patívratā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] janáyad   bahupútrāṇi   mā́   ca   duḥkʰáṃ   labʰét   kvacit  /
+[struct] Halfverse: b
+[text] bʰartā́   te   sómapā   nityáṃ   bʰavéd   dʰarmaparā́yaṇaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] aṣṭaputrā́   bʰava   tvaṃ   ca   subʰágā   ca   patívratā  /
+[struct] Halfverse: b
+[text] bʰartúś   caivá   pitur   bʰrātúr   hr̥dáyānandinī   sádā  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] índrasya   tú   yatʰendrāṇī́   śrīdʰárasya   yatʰā́   śriyā́  /
+[struct] Halfverse: b
+[text] śaṃkárasya   yatʰā   gaúrī   tad   bʰártur   api   bʰártari  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] átrer   yatʰā́nusūyā   syād   vasíṣṭʰasyāpy   arúndʰatī  /
+[struct] Halfverse: b
+[text] kauśikasya   yatʰā   sátī   tatʰā́   tvam   api   bʰártari  /
+[struct] Hymn: 18
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] éka   evā́gnir   bahudʰā́   sámiddʰa   ékas   sū́ryo   víśvam   ánu   prábʰūtam  /
+[struct] Halfverse: b
+[text] ékaivóṣā́s   sárvam   idáṃ   vví   bʰāty   ékaivā́   idáṃ   vví   babʰūva   sárvam  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yám   r̥tvíjo   bahudʰā́   kalpáyantas   sácetaso   yajñám   imáṃ   vváhanti  /
+[struct] Halfverse: b
+[text] yó   anūcānó   brāhmaṇó   yuktá   āste   kā́   svit   tátra   yájamānasya   saṃvvít  /
+[struct] Halfverse: c
+[text] yāvanmātrám   uṣáso   ná   prátīkam  // 30 //
+[struct] Hymn: 19
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] úd   apaptama   vasatér   váyo   yatʰā́   riṇantv   ā   bʰr̥gavo   mányamānāḥ  /
+[struct] Halfverse: b
+[text] púrūravaḫ   púnar   ástam   párehi   yāme   máno   devajanā́   áyāt   svaḥ  /
+[struct] Halfverse: c
+[text] prá   te   mahé   vidátʰe   śam̐siṣam̐   hárī  // 31 //
+[struct] Hymn: 20
+[struct] Verse: _
+[struct] Halfverse: a
+[text] yád  [        ]  yád   ákr̥taṃ   yád   énaś   cakr̥mā́   vayám  /
+[struct] Halfverse: b
+[text] óṣadʰayas   tásmāt   pāntu   duritā́d   énasas   pári  /
+[struct] Halfverse: c
+[text] bŕ̥haspate   práti   me   devátām   ihi  // 32 //
+[struct] Hymn: 21
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] asaú   yā́   sénā   marutaḫ   páreṣām   abʰyaíti   na   ójasā   spárdʰamānā  /
+[struct] Halfverse: b
+[text] tā́ṃ   gūhata   támasā́pavratena   yátʰāmī́ṣām   anyó   anyán   ná   jā́nāt  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] andʰā́   amítrā   bʰavatāśīrṣā́ṇoháya   iva  /
+[struct] Halfverse: b
+[text] téṣāṃ   vo   agnídagdʰānām   índro   hantu   váraṃvaram  // 33 //
+[struct] Hymn: 22
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] bráhma   jajñā́naṃ   pratʰamáṃ   purástāt   ví   sīmatás   surúco   vená   āvaḥ  /
+[struct] Halfverse: b
+[text] sá   budʰnyā̀   upamā́   asya   viṣṭʰā́s   satáś   ca   yónim   ásataś   ca   ví   vaḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] iyám   pitré   rā́ṣṭry   ety   ágre   pratʰamā́ya   janúṣe   bʰū́maneṣṭʰā́ḥ  /
+[struct] Halfverse: b
+[text] tásmā   etám̐   surúcaṃ   hvārámahyaṃ   gʰarmám̐   śrīṇanti   pratʰamā́ya   dʰāséḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] mahā́n   mahī́   ástabʰāyad   víjāto   dyā́ṃ   pitā́   sádma   pā́rtʰivaṃ   ca   rájaḥ  /
+[struct] Halfverse: b
+[text] sá   budʰnyā́d   āṣṭa   janúṣābʰy   u3grám   bŕ̥haspátir   devátā   tásya   samrā́ṭ  /
+[struct] Verse: 4A
+[struct] Halfverse: a
+[text] abʰí   tyáṃ   devám̐   savitā́ram   oṇyòẖ   kavíkratum
+[struct] Halfverse: b
+[text] ūrdʰvā́   yásyāmátir   bʰā́   ádidyutat   sávīmani
+[struct] Verse: 4B
+[struct] Halfverse: a
+[text] árcāmi   satyásavam̐   ratnadʰā́m   abʰí   priyáṃ   matíṃ   kavím  /
+[struct] Halfverse: b
+[text] híraṇyapāṇir   amimīta   sukrátuẖ   kr̥pā́   svàḥ  // 34 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] tā́   sū́ryācandramásā   [g]ātuvíttamā   mahát   téjo   vásumad   bʰrā́jato   diví  /
+[struct] Halfverse: b
+[text] sā́mātmánā   cáratas   sāmacāríṇā   yáyor   vratáṃ   na   vasé   jā́tu   deváyoḥ  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] [ubʰā́v   ántau   pári   yāta   ármyā   divó   ná   raśmī́m̐s   tanutó   vy   arṇavé  /
+[struct] Halfverse: b
+[text] ubʰā́   bʰuvantī́   bʰúvanā   kavíkratū   sū́ryā   ná   candrā́   carato   hatā́matī  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] pátī   dyumád   viśvavídā   ubʰā́   divás   sū́ryā   ubʰā́   candrámasā   vicakṣaṇā́  /
+[struct] Halfverse: b
+[text] viśvávārā   varivobʰā́   váreṇyā   tā́]   no[vataṃ]   matimántā   máhivratā  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] víśvaváparī   pratá[raṇā   tarantā́   suvarvídā   dr̥śáye   bʰū́riraśmī  /
+[struct] Halfverse: b
+[text] sū́ryā   hí   candrā́   vásu   tve]ṣádarśatā   manasvínobʰā́nu   carató   nu   sán   dívam  // 35 //
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] asyá   śráv[o]   n[ad]y[às]   s[aptá   bíbʰrati   dyā́vā   kṣā́mā   pr̥tʰivī́   da]rśatáṃ   vápuḥ  /
+[struct] Halfverse: b
+[text] asmé   sūryācandramásābʰicákṣe   śraddʰé   kám   indra   carato   vitarturám  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] pūrv[ā]par[áṃ]   c[arato   māyáyaitaú   śíśū   krī́]ḍantau   pári   yāto   adʰvarám  /
+[struct] Halfverse: b
+[text] víśvāny   anyó   bʰúvanābʰicáṣṭa   r̥tū́m̐r   anyó   vidádʰaj   jāyate   púnaḥ  /
+[struct] Halfverse: c
+[text] ásāvi   sómaḫ   pu[ruhūta   tú]bʰyam  // 36 //
+[struct] Hymn: col.
+[struct] Halfverse: 1
+[text] ity   r̥gvede   kʰile   tr̥tīyodʰyāyaḥ
+[struct] Halfverse: 2
+[text] oṃ   namo   viṣṇave
+[struct] Adhyaya: 4
+[struct] Hymn: anuk.
+[struct] Halfverse: 1
+[text] oṃ   ā   yasminn   ekānuṣṭubʰam  1)  tu   tad   ā   rātri   catuṣkam   ādyā   br̥haty   arvāṃcam   ekā   triṣṭum   namas   te   catuṣkam   aśmākʰāno   vaidyutam   antye   triṣṭubʰau   yāṃ   catvārim̐śat   prtayaṅ  2)  kr̥tyānāśanam   āśīḫ   pāṅkty   antam   āyuṣyaṃ   daśa   dākṣāyaṇāyaikarcās   sanakas   sanākas   sanātanas   sanandanas   sahasaṃjñās   sumas   suśrīs   suvāk   sarvo   hiraṇyātmastutiḫ   pañcamy   aṣṭamīnavamyau   [triṣṭubʰas   sap]  3)  tamī   śakvarī   bʰūmis   sapta   prājāpatyā   lākṣā   lākṣāstavo   medʰā   nava   medʰā   mānavī   madʰāvī   caturtʰ[yā]dir   mahābr̥hatī   paṅktir   virāḍjagatī  4)  gāyatrī   triṣṭub   ā   sūs   saptātʰarvaṇas   subʰeṣaja   āgneyaḫ   prakr̥tīẖ   kr̥tir   ākr̥tir   vikr̥tis   saṅkr̥tir   abʰikr̥tir   *utkr̥tir  5)  venas   tr̥caṃ   veno   bʰāvavr̥ttaṃ   tu   yena   saptonā   mānavaś   śivasaṅkalpo   mānasaṃ   yāsāṃ   dve   anuṣṭup   paṅktī   nejameṣa   tr̥caṃ   prājāpatyo   nejameṣonīkavantam   ekā
+[struct] Hymn: 1
+[text] oṃ
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ā́   yásmin   devávītaye   putrā́so   yantu   saṃyyátaḥ  /
+[struct] Halfverse: b
+[text] ánādʰr̥ṣṭaṃ   vipanyáyā   práti   śrutā́ya   vo   dʰr̥ṣát  /
+[struct] Halfverse: c
+[text] aháṃ   rudrébʰir   vásubʰiś   carāmi  // 1 //
+[struct] Hymn: 2
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ā́   rātri   pā́rtʰivam̐   rájaḫ   pitúr   aprāyi   dʰā́mabʰiḥ  /
+[struct] Halfverse: b
+[text] divás   sádām̐si   br̥hatī́   ví   tiṣṭʰasa   ā́   tveṣáṃ   vartate   támaḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yé   te   rātri   nr̥cákṣaso   yuktā́so   navatír   náva  /
+[struct] Halfverse: b
+[text] aśītís   santv   áṣṭā   utó   te   saptá   saptatíḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] rā́trīṃ   prá   padye   janánīm̐   sarvábʰūtanivéśanīm  /
+[struct] Halfverse: b
+[text] bʰradrā́ṃ   bʰagávatīṃ   kr̥ṣṇā́ṃ   vviśvásya   jagató   niśām  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] saṃvveśanī́m̐   saṃyamanī́ṃ   grahánakṣatramā́linīm  /
+[struct] Halfverse: b
+[text] prápannohám̐   śivām̐   rātrī́ṃ   bʰadré   pārám   aśī́mahi  /
+[struct] Halfverse: c
+[text] mámāgne   várco   vihavéṣv   astu  // 2 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] stoṣyāmi   práyato   devī́ṃ   śaráṇyām   bahvr̥cápriyām  /
+[struct] Halfverse: b
+[text] sahasrasáṃmitāṃ   durgāṃ   jātávedase   sunavāma   sómam  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] śāṃtyartʰaṃ   taddvijātī́nām   r̥ṣibʰiḥ   samupā́śritāḥ  /
+[struct] Halfverse: b
+[text] ŕ̥gvede   tvaṃ   samutpannā́rātīyato   ní   dahāti   védaḥ  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yé   tvāṃ   devi   prapádyanti   brāhmaṇā   havyavā́hanīm  /
+[struct] Halfverse: b
+[text] avidyā   báhuvidyā   vā   sá   naḥ   parṣád   ati   durgā́ṇi   viśvā  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] yé   agnivarṇā́ṃ   śubʰāṃ   saumyāṃ   kīrtáyiṣyaṃti   yé   dvijāḥ  /
+[struct] Halfverse: b
+[text] tāṃ   tārayati   dúrgāṇi   navéva   síṃdʰuṃ   duritāty   agníḥ  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] durgeṣu   viṣame   gʰóre   saṃgrāme   ripusáṃkaṭe  /
+[struct] Halfverse: b
+[text] ágnicoránipāteṣu   duṣṭágrahanivā́raṇe   duṣṭágrahanivā́raṇy   óṃ   námaḥ  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] durgeṣu   viṣameṣú   tvaṃ   saṃgrā́meṣu   vanéṣu   ca  /
+[struct] Halfverse: b
+[text] mohayitvā́   prapadyaṃte   teṣāṃ   me   abʰayáṃ   kuru   teṣā́m   me   abʰayáṃ   kurv   óṃ   námaḥ  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] keśinī́ṃ   sárvabʰūtā́nāṃ   paṃcámīti   ca   nā́ma   ca  /
+[struct] Halfverse: b
+[text] sā   māṃ   samāṃ   díśāṃ   devī   sarvátaḥ   parirákṣatu   sarvátaḥ   parirákṣatu   óṃ   námaḥ  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] tā́m   agnívarṇāṃ   tápasā   jvalaṃtī́ṃ   vairocanī́ṃ   karmapʰaléṣu   júṣṭām  /
+[struct] Halfverse: b
+[text] durgā́ṃ   devī́ṃ   śáraṇam   aháṃ   prá   padye   sutárasi   tarase   námaḥ   sutárasi   tarase   námaḥ  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] dúrgā   durgéṣu   stʰāneṣú   śaṃ   nó   devīr   abʰíṣṭaye  /
+[struct] Halfverse: b
+[text] yá   imáṃ   durgā́stavaṃ   puṇyáṃ   rātraú   rātrau   sadā́   paṭʰet  /
+[struct] Verse: 14
+[struct] Halfverse: a
+[text] rā́triḥ   kúśikaḥ   saubʰáro   rātrir   vā́   bʰāradvājī́   rātristávaṃ   gāyatram  /
+[struct] Halfverse: b
+[text] rā́trīsūktáṃ   japen   nityáṃ   tatkā́la   upapádyate  //
+[struct] Hymn: 3
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] arvā́ñcam   índram   a[m]úto   havāmahe   yó   gojíd   dʰanajíd   aśvajíd   yáḥ  /
+[struct] Halfverse: b
+[text] imán   no   yajñáṃ   vvihavé   juṣasvehá   kúrmo   harivo   vedínan   tvā  // 3 //
+[struct] Hymn: 4
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] námas   te   astu   vidyúte   námas   te   stanayitnáve  /
+[struct] Halfverse: b
+[text] námas   te   astv   áśmane   yó   mā   dūṇā́śo   ásyasi  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] námas   te   pravato   nápād   yáttas   tápas   samū́hasi  /
+[struct] Halfverse: b
+[text] mr̥ḍáyā   nas   tanúbʰyóbʰayan   naḫ   paśúbʰyaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] právato   nápān   náma   evā́stu   túbʰyam   námas   te   hetáye   tápuṣe   ca   kr̥ṇ[maḥ]  /
+[struct] Halfverse: b
+[text] vidmā́   te   nā́ma   paramáṅ   gúhā   yát   samudré   antár   níhitāpi   nā́si  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yā́n   tvā   devā́   ájaniṣṭa   dʰíṣva   dʰíyaṃ   kr̥ṇvānā́   ásanāya   vā́yam  /
+[struct] Halfverse: b
+[text] sā́   no   mr̥ḍa   vidátʰe   gr̥ṇānā́   tásyai   te   námo   astu   devi  // 4 //
+[struct] Hymn: 5
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yā́ṅ   kalpáyanti   noráyaẖ   krūrā́ṃ   kr̥tyā́ṃ   vvadʰū́m   iva  /
+[struct] Halfverse: b
+[text] tā́m   bráhmaṇā   pári   nijmaḫ   pratyák   kartā́ram   r̥ccʰatu  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] śīrṣaṇvatī́ṃ   karṇavatī́ṃ   vvíśvarūpāṃ   bʰayáṅkarīm  /
+[struct] Halfverse: b
+[text] yáḫ   prā́   hiṇómi   hādyá   tvā   ví   tát   tváṃ   yojayāśubʰi  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yéna   citténa   vádasi   prátikūlam   agʰāyūni  /
+[struct] Halfverse: b
+[text] tám   eváṃ   te   ní   kr̥tye   ha   mā́smām̐   r̥ṣyo   ánāgasaḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] abʰí   vartasva   kartā́ra[ṃ]   nírastāsmā́bʰir   ójasā  /
+[struct] Halfverse: b
+[text] ā́yur   asya   ní   vartasva   p[r]ajā́ṃ   ca   puruṣā́dini  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yás   tvā   kr̥tye   cakārehá   tán   tváṃ   gaccʰa   punarnave  /
+[struct] Halfverse: b
+[text] árātīẖ   kr̥tyān   nāśaya   sárvāś   ca   yātudʰānyàḥ  // 5 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] kṣípraṃ   kr̥tye   ní   vartasva   kartúr   evá   gr̥hā́n   práti  /
+[struct] Halfverse: b
+[text] paśū́m̐ś   cā́vāsya   nāśaya   vīrā́m̐ś   cāsya   ní   bārhaya  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yás   tvā   kr̥tye   prá   jigā[ti  ....
+[struct] Halfverse: b
+[text] [            ]
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] [yás   te   párūṃṣi   sandadʰáu   rástʰasyeva   r̥]bʰúr   dʰiyā́  /
+[struct] Halfverse: b
+[text] táṃ   gr̥ccʰa   tátra   t[e]   jánam[ájñātas   te]yá[ṃ   jánaḥ]  [//6.]
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] [...            ]  kaścid   vā   ny   abʰi   him̐sati  /
+[struct] Halfverse: b
+[text] tásya   tváṃ   dror   iveddʰognís   tanúḫ   pr̥ccʰasva   heḍitaḥ  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] bʰ  [...            ]  sy[a]   t[e]   pāpakŕ̥tvane  /
+[struct] Halfverse: b
+[text] hárasvatīs   tváṃ   ca   kr̥tye   nóc   cʰiṣas   tásya   kiñcaná  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] yé   no   śivā́saḫ   pántʰānaḫ   pa[rā]yānti   parā́vatam  /
+[struct] Halfverse: b
+[text] taír   devyárātīẖ   kr̥tyā́   no   gamáyasvā́   ní   vartaya  /
+[struct] Verse: 14
+[struct] Halfverse: a
+[text] yó   naẖ   káścid   druhórātir   mánasāpy   ábʰi   dā́sati  /
+[struct] Halfverse: b
+[text] dū́rastʰo   vāntikastʰó   vā   tásya   hr̥dyám   ásr̥k   piba  /
+[struct] Verse: 15
+[struct] Halfverse: a
+[text] yénāsi   kr̥tye   práhitā   dūḍʰyénāsmajjigʰā́m̐sayā  /
+[struct] Halfverse: b
+[text] tásya   vyanác   cā́vyanac   ca   hinástu   śaradā́śaniḥ  // 7 //
+[struct] Verse: 16
+[struct] Halfverse: a
+[text] yády   u   vaíṣi   dvipády   asmā́n   yádi   vaiṣi   cátuṣpadī  /
+[struct] Halfverse: b
+[text] *nírastā́to   'vratā́smā́bʰi[h]   kartúr   aṣṭā́padī   gr̥hám  /
+[struct] Verse: 17
+[struct] Halfverse: a
+[text] yó   naś   śápād   áśapato   yáś   ca   naś   śápataś   śápāt  /
+[struct] Halfverse: b
+[text] vr̥kṣá   iva   vidyútā   hatá   ā́   mūlā́d   anuśúṣya[tu]  /
+[struct] Verse: 18
+[struct] Halfverse: a
+[text] yáṃ   dviṣmó   yáś   ca   no   dvéṣṭy   agʰā́yur   yáś   ca   naś   śápāt  /
+[struct] Halfverse: b
+[text] śúne   péṣṭram   ivā́vakṣā́maṃ   táṃ   práty   asyāmi   mr̥tyáve  /
+[struct] Verse: 19
+[struct] Halfverse: a
+[text] yáś   ca   sāpatnáś   śapá[tʰo]   yás   ca   jāmyā́ś   śapátʰaḥ  /
+[struct] Halfverse: b
+[text] brahmā́   ca   yát   kruddʰáś   śapāt   sárvaṃ   tát   kr̥dʰy   adʰaspadám  /
+[struct] Verse: 20
+[struct] Halfverse: a
+[text] sábandʰuś   cā́sabandʰuś   ca   yó   [asmā́m̐   abʰi]dā́sati  /
+[struct] Halfverse: b
+[text] tásya   tvám   bʰindʰy   adʰiṣṭʰāya   padā́   viṣpūryate   śíraḥ  // 8 //
+[struct] Verse: 21
+[struct] Halfverse: a
+[text] abʰí   prehi   [sa]hasrākṣáṃ   yyuktvā́śu[m̐   śapa]tʰa   rátʰ[am]  /
+[struct] Halfverse: b
+[text] śátrūm̐r   anvíccʰatī   kr̥tye   vŕ̥kīvā́vivr̥to   gr̥hā́n  /
+[struct] Verse: 22
+[struct] Halfverse: a
+[text] pári   ṇo   vr̥ṅdʰi   śapátʰān   dáhann   agnír   iva   vrajám  /
+[struct] Halfverse: b
+[text] śátrūm̐r   evā́   vi   no   jahi   divyā́   vr̥kṣám   ivāśániḥ  /
+[struct] Verse: 23
+[struct] Halfverse: a
+[text] śátrūn   me   proṣṭa   śapátʰān   kr̥tyā́ś   ca   súhr̥do   *hŕ̥dyāḥ  /
+[struct] Halfverse: b
+[text] jihmā́ś   ślakṣṇā́ś   ca   dúrhr̥das   sámiddʰaṃ   jātávedasam  /
+[struct] Verse: 24
+[struct] Halfverse: a
+[text] asapatnáṃ   purástān   naś   śiváṃ   dakṣiṇatás   kr̥dʰi  /
+[struct] Halfverse: b
+[text] ábʰayam̐   sátataṃ   paścā́d   bʰadrám   uttarató   gr̥hé  /
+[struct] Verse: 25
+[struct] Halfverse: a
+[text] párehi   kr̥tye   mā́   tiṣṭʰa   vr̥ddʰásyeva   padán   naya  /
+[struct] Halfverse: b
+[text] mr̥gásya   hi   mŕ̥gāris   tváṃ   rán   tvan   níkartum   arhasi  // 9 //
+[struct] Verse: 26
+[struct] Halfverse: a
+[text] agʰnyā́sye   gʰórarūpe   várarūpe   vínāśani  /
+[struct] Halfverse: b
+[text] jambʰitā́ḫ   *prátyā   gr̥bʰṇīṣva   sváyamādāyā́dbʰutam  /
+[struct] Verse: 27
+[struct] Halfverse: a
+[text] tvám   indro   yámo   váruṇas   tvám   ā́po   agnír   atʰāniláḥ  /
+[struct] Halfverse: b
+[text] brahmā́   caivá   rudráś   ca   tváṣṭā   caiva   prajā́patiḥ  /
+[struct] Verse: 28
+[struct] Halfverse: a
+[text] āvártadʰvan   nivártadʰvam   r̥távaḫ   parivátsarāḥ  /
+[struct] Halfverse: b
+[text] áhorātrā́ś   cābdā́ś   ca   tván   díśaḫ   pradíśaś   ca   me  /
+[struct] Verse: 29
+[struct] Halfverse: a
+[text] tvám   indro   yámo   váruṇas   tvám   ā́po   agnír   atʰāniláḥ  /
+[struct] Halfverse: b
+[text] atyā́hr̥tya   paṣū́n   devā́n   út   pātayasvā́dbʰutam  // 10 //
+[struct] Verse: 30
+[struct] Halfverse: a
+[text] ábʰyaktās   tā́[s]   svalaṅkr̥tās   sárvan   no   duritáṃ   jahi  /
+[struct] Halfverse: b
+[text] jānītʰā́ś   caiva   kr̥tyā́nāṃ   kartŕ̥̄[n]   nŕ̥̄n   pāpacétasaḥ  /
+[struct] Verse: 31
+[struct] Halfverse: a
+[text] yátʰā   hánti   pūrvāsínaṃ   táyaivéṣvāśukr̥j   jánaḥ  /
+[struct] Halfverse: b
+[text] tátʰā   tváyā   yujā́   vayáṃ   tásya   nikr̥ṇma   stʰā́s   tu   jaṅga[ma]m  /
+[struct] Verse: 32
+[struct] Halfverse: a
+[text] út   tiṣṭʰaivá   parehītó3gʰnyā́sye   kím   ihéccʰasi  /
+[struct] Halfverse: b
+[text] grīvā́s   te   kr̥tye   padā́   cā́pi   kartsyāmi   nír   drava  /
+[struct] Verse: 33
+[struct] Halfverse: a
+[text] svāyasā́   santi   nosáyo   vidmaś   caivá   párūm̐ṣi   te  /
+[struct] Halfverse: b
+[text] taí   stʰa   nikŕ̥ṇma   stʰāny   ugré   yádi   no   jīvayásva   īm  /
+[struct] Verse: 34
+[struct] Halfverse: a
+[text] mā́syóc   cʰiṣo   dvipádaṃ   móca   kiñcíc   cátuṣpadam  /
+[struct] Halfverse: b
+[text] mā́   jñātī́r   ánujāsvanvā́   mā́   veśá[ṃ]   prátiveśinā  // 11 //
+[struct] Verse: 35
+[struct] Halfverse: a
+[text] śatrūyatā́   práhitām   imā́ṃ   yyénābʰi   yátʰāyatʰā  /
+[struct] Halfverse: b
+[text] tátas   tátʰā   tvānudatu   yó   'yám   antár   máyi   śritáḥ  /
+[struct] Verse: 36
+[struct] Halfverse: a
+[text] eváṃ   tván   níkr̥tāsmābʰír   brahmáṇā   devi   sárvaśaḥ  /
+[struct] Halfverse: b
+[text] yátʰā   tám   ā́śritaṅ   kartvā́   pā́padʰīr   evá   no   jahi  /
+[struct] Verse: 37
+[struct] Halfverse: a
+[text] yó   nas   svó   áraṇo   yáś   ca   níṣṭyo   jígʰāṃsati  /
+[struct] Halfverse: b
+[text] devā́s   tám̐   sárve   dʰūrvantu   bráhma   várma   mámā́ntaram  /
+[struct] Verse: 38
+[struct] Halfverse: a
+[text] yátʰā   vidyúddʰató   vr̥kṣá   ā́   mū́lād   anuśuṣyáti  /
+[struct] Halfverse: b
+[text] evám̐   sá   prati   śuṣyatu   yó   me   pāpáṃ   cikī́rṣati  /
+[struct] Verse: 39
+[struct] Halfverse: a
+[text] yátʰā   prátihitā   bʰūtvā́   tā́m   evá   práti   dʰāvati  /
+[struct] Halfverse: b
+[text] pāpáṃ   tám   evá   dʰāvatu   yó   me   pāpáṃ   cikī́rṣati  /
+[struct] Verse: 40
+[struct] Halfverse: a
+[text] kuvī́ran   te   súkʰam̐   rudráṃ   nándīmānaṃ   vvimatʰa   ha  /
+[struct] Halfverse: b
+[text] bráhma   várma   mámā́ntaram̐   śárma   várma   mámā́ntaraṃ   gʰármavárma   mámā́ntaram  // 12 //
+[struct] Hymn: 6
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] āyúṣyaṃ   [varcasyàṃ   rāyáspóṣam   aúbʰidam  /
+[struct] Halfverse: b
+[text] idám̐   híraṇyaṃ   várcasvaj   jaítrāyā́   viśatād   u   mā́m  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] uccaír   vājí   pr̥tanāṣā́ṭ   sa]bʰāsāháṃ   dʰanañjayám  /
+[struct] Halfverse: b
+[text] sárvās   sámagrā   ŕ̥ddʰayo   híraṇye[smín]   samā́hr̥tāḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] śunám   ahá[m̐]   hir[aṇ]yasva[pit]ú[r]   n[ā́]m[eva]   jagrabʰa  /
+[struct] Halfverse: b
+[text] téna   mā́m̐   sū́ryatvacam   akaram   puruṣapriyám  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] samrā́jaṃ   ca   virā́jaṃ   cābʰiṣṭír   yā́   ca   me   dʰruvā́  /
+[struct] Halfverse: b
+[text] lakṣmī́   rāṣṭrásya   yā́   múkʰe   táyā   mām   indra   sám̐   sr̥ja  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] agnéḫ   prájātaṃ   pári   yád   dʰíraṇyam   amŕ̥taṃ   jajñé   ádʰi   mártyeṣu  /
+[struct] Halfverse: b
+[text] yá   enad   véda   sá   íd   enad   arhati   jarā́mr̥tyur   bʰavati   yó   bibʰárti  // 13 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] yád   véda   rā́jā   váruṇo   yád   u   devī́   sárasvatī  /
+[struct] Halfverse: b
+[text] índro   yád   vr̥trahā́   veda   tán   me   varcasa   ā́yuṣe  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] ná   tád   rákṣām̐si   ná   piśācā́s   táranti   devā́nām   ójaḫ   pratʰamajám̐   hye3tát  /
+[struct] Halfverse: b
+[text] yó   bibʰárti   dākṣāyaṇā́híraṇyam̐   sá   devéṣu   kr̥ṇute   dīrgʰám   ā́yus   sá   manuṣyéṣu   kr̥ṇute   dīrgʰám   ā́yuḥ  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] yad   ā́badʰnan   dākṣāyaṇā́   híraṇyam̐   śatā́nīkāya   sumanasyámānāḥ  /
+[struct] Halfverse: b
+[text] tán   ma   ā́   badʰnāmi   śataśāradāyā́yuṣmāṃ   jarádaṣṭír   yátʰā́sat  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] gʰr̥tā́d   úlluptaṃ   mádʰumat   suvárṇam   dʰanañjayáṃ   dʰarúṇaṃ   dʰārayiṣṇú  /
+[struct] Halfverse: b
+[text] r̥ṇák   sapátnān   ádʰarām̐ś   ca   kr̥ṇvád   ā́   roha   mā́ṃ   mahaté   saúbʰagāya  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] priyám   mā   kuru   devéṣu   priyám̐   rā́jasu   mā   kuru  /
+[struct] Halfverse: b
+[text] priyáṃ   vviśvéṣu   goptréṣu   máyi   dʰehi   rucā́   rúcam  /
+[struct] Halfverse: c
+[text] nā́sad   āsīn   no   sad   āsīt  // 14 //
+[struct] Hymn: 7
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] bʰū́mir   mātā́   nábʰaḫ   pitā́ryamā́   te   pitāmaháḥ  /
+[struct] Halfverse: b
+[text] gʰr̥tā́cī   nā́ma   vā́   asi   sā́   devā́nām   ási   svásā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yás   tvā   píbati   jī́[vati]   trā́yase   púruṣan   tvám  /
+[struct] Halfverse: b
+[text] *trā́triṇī   śáśvatām   asi   śáśvatām̐   samyáñcanī  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yád   daṇḍéna   yád   íṣuṇā   yád   vā́rur   hárasā   kr̥tám  /
+[struct] Halfverse: b
+[text] tásya   tvám   asi   níṣkr̥tis   sā́nau   níṣkītya   óṣadʰīḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] vr̥kṣáṃvr̥kṣam̐   sáṃ   patasi   vŕ̥ṣāyantīva   kanyánā  /
+[struct] Halfverse: b
+[text] jáyantī   pratyātíṣṭʰantī   sañjeyā́   nā́ma   vā́   asi  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] bʰadrā́t   plakṣé   nís   tiṣṭʰāśvattʰé   kʰadiré   dʰavé  /
+[struct] Halfverse: b
+[text] bʰadrā́t   parṇé   nyagródʰe   sā́   mā́m̐   rautsī́d   arundʰatī́  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] *áśvasyā́sr̥k   saṃpatasi   tát   parṇám   abʰi   tiṣṭʰasi  /
+[struct] Halfverse: b
+[text] sarát   pataty   arṇasi   sā́   mā́m̐   rautsīd   arundʰatī́  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] híraṇyaparṇe   súbʰage   sókṣme   lómaśavakṣaṇé  /
+[struct] Halfverse: b
+[text] apā́m   asi   svásā   lā́kṣe   vā́to   hātmā́   babʰūvá   te  /
+[struct] Halfverse: c
+[text] táva   tyá   indra   sakʰyéṣu   váhnayáḥ  // 15 //
+[struct] Hymn: 7PS
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] rātrī   mātā   nabʰaḫ   pitāryamā   te   pitāmahaḥ  /
+[struct] Halfverse: b
+[text] śilādī   nāma   vāsi   sā   devānām   asi   svasā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yas   tvā   pibati   jīvati   trāyase   puruṣaṃ   tvaṃ  /
+[struct] Halfverse: b
+[text] dʰaratrī   ca   śaśvatām   asi   śaśvatāṃ   nyanvaṃcanīṃ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yad   aṇḍeṇa   yad   uṣṭā   yad   adur   harasā   kr̥taṃ  /
+[struct] Halfverse: b
+[text] tasya   tvam   asi   bʰīṣajīṃ   niẖkr̥tir   nāma   vāsī  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] bʰadrā   prakṣeṇa   tiṣṭʰasy   aśvattʰe   kʰadire   dʰave  /
+[struct] Halfverse: b
+[text] bʰadrā   nyagrodʰe   parṇe   mā   nehy   arundʰatī  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] vr̥kṣaṃ   vr̥kṣaṃ   ārohasi   vr̥ṣaṇyantīva   kanyalā  /
+[struct] Halfverse: b
+[text] jayantī   pratyātiṣṭʰantī   saṃjayā   nāma   vāsī  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] hiraṇyavarṇe   yuvate   śuṣme   lomasamakṣaṇe  /
+[struct] Halfverse: b
+[text] apām   asi   svasā   lākṣe   vāto   yat   sā   babʰūvyatʰe  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] hiraṇyabāhū   subʰage   sūryavarṇe   vapuṣṭame  /
+[struct] Halfverse: b
+[text] r̥taṃ   gaccʰasi   niṣkr̥dʰi   semaṃ   niṣkr̥dʰi   pauruṣaṃ  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] gʰr̥tācī   nāma   kānīno   na   babʰru   pitā   bʰava  /
+[struct] Halfverse: b
+[text] aśvo   yamasye  (!)  śrāvas   tāsya   hāstnāsy   ukṣata  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] aśvasyāstnas   saṃpatitā   sā   parṇam   abʰiśuṣyata  /
+[struct] Halfverse: b
+[text] sadā   patatinn   asi   mā   nehy   arundʰatī  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] gʰr̥tācake   vāmarate   vidyutparṇe   arundʰatī  /
+[struct] Halfverse: b
+[text] yā   turaṅgamiṣṭāsi   tvam   aṃga   niṣkarī   yasī  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] yat   te   jagradʰam   piśācais   tat   tārhāpy   āyatāṃ   punaḥ  /
+[struct] Halfverse: b
+[text] lākṣā   yadvā   víśvabʰeṣajīr   devebʰis   trāyatāṃ   saha  /
+[struct] Hymn: 8
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] médʰā[m]   máhyam   áṅgiraso   médʰām̐   saptárṣayo   daduḥ  /
+[struct] Halfverse: b
+[text] médʰām   índraś   cāgníś   ca   médʰān   dʰātā́   dadʰātu   me  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] médʰāṃ   me   váruṇo   rājā́   médʰān   devī́   sárasvatī  /
+[struct] Halfverse: b
+[text] médʰām   me   aśvínau   devā́v   ā́   dʰattaṃ   púṣkarasrajā  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yā́   médʰāpsarássu   gandʰarvéṣu   ca   yán   mánaḥ  /
+[struct] Halfverse: b
+[text] daívī   yā́   mā́nuṣī   médʰā   sā́   mām   ā́   viśatād   ihá  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yán   menū́ktaṃ   tád   ramatām̐   śákeyaṃ   yyád   anubruvé  /
+[struct] Halfverse: b
+[text] níśāmitaṃ   ní   śāmaye   máyi   śrutám  /
+[struct] Halfverse: c
+[text] sahá   vratena   bʰūyāsaṃ   bráhmaṇā   sáṅ   gamemahi  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] śárīram   me   vicakṣaṇa   vā́ṅ   me   mádʰumad   duhe  /
+[struct] Halfverse: b
+[text] ávr̥dʰam   ahám   asaú   sū́ryo   bráhmaṇa   āṇī́s   stʰa  /
+[struct] Halfverse: c
+[text] śrutám   me   mā́   prá   hāsīḥ  // 16 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] médʰāṃ   devī́ṃ   mánasā   réjamānāṃ   gandʰarvájuṣṭāṃ   práti   no   juṣasva  /
+[struct] Halfverse: b
+[text] máhyaṃ   médʰāṃ   vada   máhyam̐   śríyaṃ   vvada   médʰāvī́   bʰūyāsam   ajírācariṣṇúḥ  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] sádasaspátim   ádbʰutaṃ   priyám   índrasya   kā́myam  /
+[struct] Halfverse: b
+[text] saním   médʰām   ayāsiṣam  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] medʰā́vy   ahám̐   sumánās   suprátīkaś   śraddʰā́manās   satyámatis   suśévaḥ  /
+[struct] Halfverse: b
+[text] mahāyaśā́   dʰārayíṣṇuḫ   pravaktā́   bʰūyā́sam   asyeśvaráyā   prayogé  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] yā́ṃ   médʰān   devagaṇā́ḥ   pitáraś   cópāsate  /
+[struct] Halfverse: b
+[text] tayā   mā́m   adyá   medʰayā́gne   medʰāvínaṃ   kuru  // 17 //
+[struct] Hymn: 9
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ā   sū́r   etu   parāvátognír   gr̥hapátis   suprátīko   vibʰā́vasur  /
+[struct] Halfverse: b
+[text] agnír   jyótir   nicā́yyaḫ   pr̥tʰivyā́m   ádʰy   ā́bʰara  /
+[struct] Halfverse: c
+[text] yám   āgátya   vājy   ádʰvānam̐   sárvā   mŕ̥dʰo   ví   dʰūnute  /
+[struct] Halfverse: d
+[text] ākrámyā   vājin   pr̥tʰivī́m   agním   iccʰa   rucā́   tvám  /
+[struct] Halfverse: e
+[text] sénāṃ   jigāti   suṣṭutím̐   sudī́dʰitir   vibʰā́vasum  //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] dʰruvám   agnír   no   dūtó   rodásī   havyavā́ḍ   devā́m̐   ā́   vakṣad   adʰvaré  /
+[struct] Halfverse: b
+[text] vípro   dūtáḫ   páriṣkr̥to   yákṣaś   ca   yajñíyaẖ   kavíḥ  /
+[struct] Halfverse: c
+[text] apnavānav[ád]   aurvavád   bʰr̥guváj   jamadagniva[d  ................................ ]
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] [yadi   te   mātrā]  .....  [havya]vā́ḍ   agnír   no   dūtó   rodásī   utóttaréṇa   duhitā́   juhótā   mádʰumattamam   agnáye   jātávedase  /
+[struct] Halfverse: b
+[text] prajā́ṃ   me   yáccʰa   dvi[pa]da[ṃ]   catúṣpadam   agním   *ahim̐santam   aṅgirásvat  /
+[struct] Halfverse: c
+[text] úd   astʰād   ūrdʰvá   īyate   dyumánto   dī́dyato   br̥háccʰukrā́ś   śócanto   arcáyaḥ  //
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] máhiṣī   vo   agnír   dʰūmáketur   uṣarbudʰó   vaiśvānará   uṣásām   ágram   akʰyad   áty   akramīd   draviṇodā́   vājy   árvā́kas   sú   lokám̐   súkr̥taḫ   pr̥tʰivyā́ṃ   tátaẖ   kʰanéma   suprátīkam   agníṃ   vvaiśvānarám̐   svó   rúhāṇā   ádʰi   nā́ke   asmínn   ádʰā   poṣásva   póṣeṇa   púnar   no   naṣṭám   ā́   kr̥dʰi   púnar   no   rayím   ā́   kr̥dʰi  //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ná   vaí   devā́n   pī́varo   sáṃyyatātmā   rórūyamāṇaẖ   kakúbʰām   acodátégne   ú   mánya   tvám   agne   vratabʰŕ̥c   cʰúcir   ágne   devā́m̐   ihā́   vahópa   yajñám̐   havíś   ca   naḥ  /
+[struct] Halfverse: b
+[text] vratā́ni   bibʰrad   vratapā́   ádabdʰo   yájā   no   devā́m̐   ajáras   suvī́raḥ  /
+[struct] Halfverse: c
+[text] dádʰad   rátnāni   sumŕ̥ḍīko   ágne   gopāya   no   jīváse   jātavedaḥ  //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] devó   agnís   svíṣṭakr̥t   sudráviṇā   mandráẖ   kavís   satyámanmāyajī́   hótā   hotur   hotur   ā́yajīyān   ágne   yān   devā́n   áyāḍ   yā́m̐   ápiprer   yé   te   hotré   ámatsata   tā́m̐   sasanúṣīm̐   hótrān   devaṅgamā́n   diví   devéṣu   yajñám   érayemám̐   svíṣṭakr̥c   cāgnir   hótā́bʰūd   vásuváne   vasudʰéyasya   namovāké   vīhi  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] sárvam   vváhantu   duṣkr̥tám   agníṅ   gīrbʰír   havāmahe  /
+[struct] Halfverse: b
+[text] agníś   śukréṇa   śocíṣā   br̥hát   sū́ryo   arocata   diví   sū́ryo   árocata  /
+[struct] Halfverse: c
+[text] gʰr̥taír   havyébʰir   ā́hutaṃ   dyumát   sū́ryo   ná   rocan   tegnaú   hávyāni   dʰattánāgnaú   bráhmāṇi   kévalā́gne   br̥hántam   adʰvaré  /
+[struct] Halfverse: d
+[text] saścáto   dāśúṣo   gr̥hám   evā́   tvā́m   agne   sáhobʰir   gīrbʰír   vatsó   avīvr̥dʰat  //
+[struct] Halfverse: e
+[text] śāsá   ittʰā́   mahā́m̐si  / 18 /
+[struct] Hymn: 10
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] venás   tát   paśyad   bʰúvanasya   vidvā́n   yátra   víśvaṃ   bʰúvaty   ékanī́ḍam  /
+[struct] Halfverse: b
+[text] idáṃ   dʰenúr   aduhaj   jā́yamānā   svarvídam   abʰyanūṣata   vrā́ḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] prá   tád   voced   amŕ̥tan   nú   vidvā́n   gandʰarvó   nā́ma   níhitaṃ   gúhā   yát  /
+[struct] Halfverse: b
+[text] trī́ṇi   padā́ni   níhitā   gúhāsya   yás   tā́ni   véda   sá   pitúṣ   pitā́sat  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] sató   bándʰur   janitā́   sá   vidʰātā́   dʰā́māni   veda   bʰúvanāni   víśvā  /
+[struct] Halfverse: b
+[text] yátra   devā́   amŕ̥tam   ānaśānā́s   tr̥tī́ye   dʰā́mann   ábʰy   aírayanta  /
+[struct] Halfverse: c
+[text] akṣī́bʰyān   te   nā́sikābʰyām  // 19 //
+[struct] Hymn: 10PS
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] venas   tat   paśyanta   paramaṃ   padaṃ   yatra   viśvaṃ   bʰavaty   ekanaḍaṃ  /
+[struct] Halfverse: b
+[text] idaṃ   dʰenur   aduhaj   jāyamānās   svarvidobʰyanukti   virāṭ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] pr̥tʰag   voced   amr̥taṃ   na   vidvān   gandʰarvo   dʰāma   paramaṃ   guhā   yat  /
+[struct] Halfverse: b
+[text] trīṇi   padāni   hatā   guhāsu   vas   tāni   veda   sa   pituṣ   pitāsat  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] sa   no   bandʰur   janitā   sa   vidʰantā   dʰāmāni   veda   bʰuvanāni   viśvā  /
+[struct] Halfverse: b
+[text] yatra   devā   amr̥tām   ānaśānā   samāne   dʰāmann   addʰīrayanta  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] pari   viśvā   bʰuvanāny   āyam   upācaṣṭe   pratʰamajā   r̥tasya  /
+[struct] Halfverse: b
+[text] vācasi   vāktri   bʰuvaneṣṭʰā   dʰāsraṃ   neṣaṇatveṣo   agniḥ  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] pari   dyāvāpr̥tʰi  (!)  sadyāyam   r̥tasya   tantuṃ   vitataṃ   dr̥keśaṃ  /
+[struct] Halfverse: b
+[text] devo   devatvam   abʰirakṣamāṇas   samānaṃ   bandʰuṃ   vipariccʰade   kaḥ  //
+[struct] Hymn: 11
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yénedám   bʰūtáṃ   bʰúvanaṃ   bʰaviṣyát   párigr̥hītam   amŕ̥tena   sárvam  /
+[struct] Halfverse: b
+[text] yéna   yajñás   tāyáte   saptá   hótā   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yéna   kármāṇy   apáso   manīṣíṇo   yajñé   kr̥ṇvánti   vidátʰeṣu   dʰī́rāḥ  /
+[struct] Halfverse: b
+[text] yád   apūrváṃ   yyakṣám   antáḫ   prajā́nān   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yát   prajñā́nam   utá   céto   dʰŕ̥tiś   ca   yáj   jyótir   antár   amŕ̥taṃ   prajā́su  /
+[struct] Halfverse: b
+[text] yásmān   ná   r̥té   kíñ   caná   kárma   kriyáte   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yáj   jā́grato   dūrám   udaíti   daívaṃ   tád   u   suptásya   tátʰaivaíti  /
+[struct] Halfverse: b
+[text] dūraṅgamáṃ   jyótiṣāṃ   jyótir   ékaṃ   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yásmin   ŕ̥cas   sā́ma   yájūm̐ṣi   yásmin   prátiṣṭʰitā   ratʰanābʰā́vivārā́ḥ  /
+[struct] Halfverse: b
+[text] yásmim̐ś   cittám̐   sárvam   ótam   prajā́nān   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] suṣāratʰír   áśvān   iva   yán   manuṣyā́n   nenīyátebʰī́śubʰir   vājína   iva  /
+[struct] Halfverse: b
+[text] hr̥tprátiṣṭʰaṃ   yyád   ajiráñ   jáviṣṭʰan   tán   me   mánaś   śivásaṅkalpam   astu  // 20 //
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] yád   átra   ṣaṣṭʰáṃ   triśatám̐   śarīráṃ   yajṅásya  [    ]  hyan   návanā́bʰam   ā́dyam  /
+[struct] Halfverse: b
+[text] *dáśa   pañcá   trim̐śátam̐   yyát   paráñ   ca   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] yé   pañcapañcā́   daśatám̐   śatám̐   ca   sahásraṃ   ca   niyútaṃ   nyárbudaṃ   ca  /
+[struct] Halfverse: b
+[text] té   yajñacittéṣṭakāt   tám̐   śárīraṃ   tán   [me   mánaś   śi]vá[saṅkalpam   as]tu  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] [ved]āham   [e]taṃ   puruṣa[ṃ]   ma[hān]tam   ādityavarṇan   ta[masa]ḫ   parastā[t]  /
+[struct] Halfverse: b
+[text] [  ]u[     ]  nt[  ]  dʰī́rās   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] yéna   kármāṇi   prácaranti   dʰī́rā   víprā   vācā́   mánasā   karma   [ṇāca]  /
+[struct] Halfverse: b
+[text] saṃvvídam   ánu   sáṃ   yyánti   prāṇínas   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] yé   máno   hŕ̥dayaṃ   yyé   ca   devā́   yé   antárikṣe   bahudʰā́   cáranti  /
+[struct] Halfverse: b
+[text] yé   śrotráṃ   cakṣúṣī   sáñcaranti   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] yéna   dyaúr   ugrā́   pr̥tʰivī́   cāntárikṣaṃ   yé   párvatāḫ   pradíśo   díśaś   ca  /
+[struct] Halfverse: b
+[text] yénedáñ   jágaty   ā́ptaṃ   prajā́nān   tán   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] yénedáṃ   sárvaṃ   jágato   babʰūvúr   yé   devā́   ápi   maható   jātávedāḥ  /
+[struct] Halfverse: b
+[text] tád   *ivā́gnis   tápaso   jyotír   ékan   tan   me   mánaś   śivásaṅkalpam   astu  /
+[struct] Halfverse: c
+[text] túbʰyedám   indra   pári   ṣicyate   mádʰu  // 21 //
+[struct] Hymn: 12
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yā́sām   ū́dʰaś   cáturbilaṃ   mádʰoḫ   pūrṇáṃ   gʰr̥tásya   ca  /
+[struct] Halfverse: b
+[text] tā́   nas   santu   páyasvatīr   báhvīr   goṣṭʰé   gʰr̥tā́cyaḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] upamaítu   mayobʰúvam   ū́rjaṃ   caújaś   ca   pípratīḥ  /
+[struct] Halfverse: b
+[text] dúhānā   akṣitím   páyo   máma   gotré   niviśadʰvaṃ   yátʰā   bʰávāmy   uttamáḥ  /
+[struct] Halfverse: c
+[text] vibʰrā́ḍ   br̥hát   pibatu   somyám   mádʰu  // 22 //
+[struct] Hymn: 13
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] néjameṣa   párā   pata   súputraḫ   púnar   ā́   pata  /
+[struct] Halfverse: b
+[text] asyaí   me   putrákāmāyai   gárbʰam   ā́   dʰehi   yáḫ   púmān  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yátʰeyáṃ   pr̥tʰivī́   máhy   uttānā́   gárbʰam   ā́   dadʰe  /
+[struct] Halfverse: b
+[text] eván   táṃ   gárbʰaṃ   ā́   dʰehi   daśamé   māsí   sū́tave  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] víṣṇoś   śraíṣṭʰyena   rūpéṇāsyā́n   nā́ryāṅ   gavīnyā́m  /
+[struct] Halfverse: b
+[text] púmām̐saṃ   putrám   ā́   dʰehi   daśamé   māsí   sū́tave  /
+[struct] Halfverse: c
+[text] máhi   trīṇā́m   ávostu  // 23 //
+[struct] Hymn: 14
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ánīkavantam   ūtáyegníṃ   gīrbʰír   havāmahe  /
+[struct] Halfverse: b
+[text] sá   naḫ   parṣad   áti   dvíṣaḥ  /
+[struct] Halfverse: c
+[text] prá   ṇūnám   jātávedasam  // 24 //
+[struct] Hymn: col.
+[struct] Halfverse: 1
+[text] ity   r̥gvede   kʰile   caturtʰodʰyāyaḥ
+[struct] Halfverse: 2
+[text] oṃ   namo   viṣṇave
+[struct] Adhyaya: 5
+[struct] Hymn: anuk.
+[struct] Halfverse: 1
+[text] oṃ   saṃjñānaṃ   pañca   kaśyapas   saṃjñānaś   śaṃyyur   uttamā   sāśīś   śakvarī  1)  sarvatra   nairhastyaṃ   tr̥caṃ   nirhastyasapatnagʰnaṃ   senādaraṇam  2)  ānuṣṭubʰaṃ   br̥hatīmadʰyaṃ   pra   sapta   kaśyapo   jamadagnir   uttamā  3)  śaṃyyur   ādyāgneyī   gāyatrī   dvitīyopottamāśīḫ   pāṅktyaṃ   tr̥tīyā   akṣarastutis   sānuṣṭup   caturtʰī   saumī   pañcamī   saurī   vidā   daśa   pādāś   ca   pañca  4)  viśvāmitra   indro  5)  vā   prajāpatir   aindraṃ   pāvanam   ānuṣṭubʰam   purīṣapadāny   āgneyavaiṣṇavaaindrapauṣṇadaivāni   vairājāni   dvitīyāpañcamyāv   uṣṇihau  6)  caturtʰī   nyaṅkusāriṇī   saptamī   purastādbr̥hatī   navamyantye   paṅktī   agnir  7)  ekādaśa   liṅgoktadevataṃ   yajūṃṣi   vāyus  8)  sapta   pra-ugeṇoktadaivatam  9)  gāyatram̐   ṣaṣṭīśakvarī ,  yājuṣāṇi   pañca   hotā   dvādaśa   vasiṣṭʰo   vā  10)  praiṣasūktāny   ādyam   āpriyaṃ   paraṃ   liṅgoktadevatam   aniruktam̐   svayajñoktadevatam   anyat   proktaṃ ,  ajaid  11)  ekādaśa   saptamīnavamyau   triṣṭubʰau   devam̐   hotāṣṭādaśa   hotā   dvādaśa   idan   tr̥caṃ   vvasiṣṭʰavāmedavau   kuntāpau   dvibr̥hatyāv  12)  anuṣṭubvacyasvarānuṣṭub  13)  antam̐   rājñaś   catuṣkam   indraḫ   paṅkty   antaṃ   yyaḫ  14)  pañca   yaṣ   ṣaḍ   yat   pañca   etā   dvyūnaitaśo   muniṣ   ṣaṣṭyaṣṭamyāv   uṣṇihāv   antyā   dvipadā   yajūm̐ṣi   vā   catvāri   vitatau   ṣaḍ   ānuṣṭubʰam   ihettʰa   catuṣkaṃ   dvipadam  15)  bʰug   ekapādā  16)  nicr̥d   vīmenuṣṭub   ādityāḫ   panca   jagatī   triṣṭub   upariṣṭādbr̥hatī   purastʰādbr̥hatī  17)  dvipadā   yajur   vā   tvan   tr̥cam   ānuṣṭubʰan   tu   yad   daśa   hotr̥pratigaritros   saṃvādo   nākapr̥tsu   jagaty  18)  ādyā   jagaty   ādyā  //
+[struct] Hymn: 1
+[text] oṃ
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] saṃjñā́nam   uśánāvadat   saṃjñā́naṃ   vváruṇo   vadat  /
+[struct] Halfverse: b
+[text] saṃjñā́nam   índraś   cāgníś   ca   saṃjñā́nam̐   savitā́   vadat  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] saṃjñā́nam   nas   svébʰyas   saṃjñā́nam̐   áraṇebʰyaḥ  /
+[struct] Halfverse: b
+[text] saṃjñā́nam   aśvínā   yuvám   ihā́smā́su   ní   yaccʰatām  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yát   kakṣī́vān   saṃvvánaṃ   putró   áṅgirasām   ávet  /
+[struct] Halfverse: b
+[text] téna   nodya   víśve   devā́s   sám   priyā́m̐   sám   avīvanan  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] sáṃ   vvo   mánā́m̐si   jānatām̐   sám   ā́kūtim   manāmasi  /
+[struct] Halfverse: b
+[text] asaú   yó   vímanā   jánas   tám̐   samā́vartayāmasi  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] tac   cʰaṃ[yyór   ā́   vr̥ṇīma]he   gātúṃ   yajñāya   gātúṃ   yajñápataye   daívī   svastír   astu   nas   svastír   mā́nuṣebʰyaḥ  /
+[struct] Halfverse: b
+[text] ūrdʰváṃ   jigātu   [bʰeṣajám̐   śán]   no   astu   dvipáde   śáñ   cátuṣpade  // 1 //
+[struct] Hymn: 2
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] nairhástyam̐   senādáraṇaṃ   pári   vártmeva   yád   dʰavíḥ  /
+[struct] Halfverse: b
+[text] ténāmítrāṇ[āṃ   bāhū́]n   havíṣā   śoṣayāmasi  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] pári   vártmāny   eṣām   índraḫ   pūṣā́   ca   cakrátuḥ  /
+[struct] Halfverse: b
+[text] téṣāṃ   vvo   agnídagdʰānām   agnígūḍʰānā[m   índ]ro   hantu   váraṃvvaram  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] aíṣu   nahyá   viṣā́danam̐   hariṇásya   dʰíyaṃ   yyatʰā  /
+[struct] Halfverse: b
+[text] párāṅ   amitrā́m̐   aiṣatv   arvā́cī   gaúr   upéjatu  // 2 //
+[struct] Hymn: 3
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] prā́dʰavarā́ṇāṃ   pate   vaso   hótar   váreṇyakrato  /
+[struct] Halfverse: b
+[text] túbʰyaṃ   gāyatrám   r̥cyáte  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] gókāmo   ánnakāmaḫ   prajā́kāmotá   kaśyápaḥ  /
+[struct] Halfverse: b
+[text] bʰūtáṃ   bʰaviṣyát   prá   stauti   mahád   bráhmaikam   akṣáram   bahú   bráhmaikam   akṣáram  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yád   akṣáraṃ   bʰūtakŕ̥to   víśve   devā́   upā́sate  /
+[struct] Halfverse: b
+[text] mahaŕ̥ṣim   asya   goptā́raṃ   jamádagnim   akurvata  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] jamádagnir   ā́   pyāyate   cʰándobʰiś   caturuttáraiḥ  /
+[struct] Halfverse: b
+[text] rā́jñas   sómasya   bʰakṣéṇa   bráhmaṇā   vīryávatām̐   śivā́   naḫ   pradíśo   diśaḥ  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ajó   yát   téjo   dádr̥śe   śukráṃ   jyótiḫ   parogúhā  /
+[struct] Halfverse: b
+[text] tád   r̥ṣiẖ   káśyapa   staúti   satyáṃ   bráhma   carācaráṃ   dʰruváṃ   bráhma   carācarám  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] tryāyuṣáṃ   jamádagneẖ   káśyapasya   tryāyuṣám  /
+[struct] Halfverse: b
+[text] agástyasya   tryāyuṣáṃ   yád   devā́nāṃ   tryāyuṣáṃ   tán   no   astu   tryāyuṣám  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] tác   cʰaṃyyór   ā́   vr̥ṇīmahe   gātúṃ   yajñā́ya   gātúṃ   yajñápataye   daívī   svastír   astu   nas   svastír   mā́nuṣebʰyaḥ  /
+[struct] Halfverse: b
+[text] ūrdʰváṃ   jigātu   bʰeṣajám̐   śán   no   astu   dvipáde   śáñ   cátuṣpade  // 3 //
+[struct] Hymn: 4
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] vidā́   magʰavan   vidā́   gātúm   ánu   śam̐siṣo   díśaḥ  /
+[struct] Halfverse: b
+[text] śíkṣā   śácīnāṃ   pate   pūrvīṇā́ṃ   purūvaso  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] ābʰíṣ   ávam   abʰíṣṭibʰiḫ   pracetana   prá   cetaya  /
+[struct] Halfverse: b
+[text] índra   dyumnā́ya   na   iṣá   evā́   hí   śakráḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] rāyé   vā́jāya   vajrivaś   śáviṣṭʰa   vajrin   r̥ñjáse  /
+[struct] Halfverse: b
+[text] mám̐hiṣṭʰa   vajrin   r̥ñjása   ā́   yāhi   piba   mátsva  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] vidā́   rāyé   suvī́ryaṃ   bʰúvo   vā́jānāṃ   pátir   váśām̐   ánu  /
+[struct] Halfverse: b
+[text] mám̐hiṣṭʰa   vajrin   r̥ñjáse   yáś   śáviṣṭʰaś   śū́rāṇām  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yó   mám̐hiṣṭʰo   magʰónāṃ   cikitvó   abʰí   no   náya  /
+[struct] Halfverse: b
+[text] índro   vide   tám   u   stuṣe   vaśī́   hi   śakráḥ  // 4 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] tám   ūtáye   havāmahe   jétāram   áparājitam  /
+[struct] Halfverse: b
+[text] sá   naḫ   parṣad   áti   dvíṣaẖ   krátuś   cʰánda   r̥táṃ   br̥hat  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] índran   dʰánasya   sātáye   havāmahe   jétāram   áparājitam  /
+[struct] Halfverse: b
+[text] sá   naḫ   parṣad   áti   dvíṣas   sá   naḫ   parṣad   áti   srídʰaḥ  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] pū́rvasya   yát   te   adrivas   sumná   ā́   dʰehi   no   vaso  /
+[struct] Halfverse: b
+[text] pūrtíś   śaviṣṭʰa   śáśvata   ī́śe   hí   śakráḥ  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] nūnáṃ   tán   návyaṃ   mányase   prábʰo   jánasya   vr̥ttrahan  /
+[struct] Halfverse: b
+[text] sám   anyéṣu   bravāvahai   śū́ro   yó   góṣu   gaccʰati   sákʰā   suśévo   advayāḥ  // 5 //
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] evā́   hy   evaívā́   hy   agnā́3ī́  /  evā́   hy   evaívā́   hi   viṣṇā́3ú  /
+[struct] Halfverse: b
+[text] evā́   hy   evaívā   hīndra  /  evā́   hy   evaívā   hi   pūṣan  /
+[struct] Halfverse: c
+[text] evā́   hy   evaívā   hi   devāḥ  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] evā́   hí   śakró   vaśī́   hi   śakró   váśām̐   ánu  /
+[struct] Halfverse: b
+[text] ā́yo   manyā́ya   manyáva   úpo   manyā́ya   manyáva   úpehi   viśvátʰa  // 6 //
+[struct] Hymn: 5
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] agnir   deveddʰaḥ  /
+[struct] Halfverse: b
+[text] agnir   manviddʰaḥ  /
+[struct] Halfverse: c
+[text] agnis   suṣamit  /
+[struct] Halfverse: d
+[text] hotā   devavr̥taḥ  /
+[struct] Halfverse: e
+[text] hotā   manuvr̥taḥ  /
+[struct] Halfverse: f
+[text] praṇīr   yajñānām  /
+[struct] Halfverse: g
+[text] ratʰīr   adʰvarāṇām  /
+[struct] Halfverse: h
+[text] atūrto   hotā  /
+[struct] Halfverse: i
+[text] tūrṇir   havyavāṭ  /
+[struct] Halfverse: j
+[text] ā   devo   devān   vakṣat  /
+[struct] Halfverse: k
+[text] yakṣad   agnir   devo   devān  /
+[struct] Halfverse: l
+[text] so   adʰvarā   karati   jātavedāḥ  // 7 //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] indro   marutvān   somasya   pibatu  /
+[struct] Halfverse: b
+[text] marutstotro   marudgaṇaḥ  /
+[struct] Halfverse: c
+[text] marutsakʰā   marudvr̥dʰaḥ  /
+[struct] Halfverse: d
+[text] gʰnan   vr̥ttrā   sr̥jad   apaḥ  /
+[struct] Halfverse: e
+[text] marutām   ojasā   saha  /
+[struct] Halfverse: f
+[text] ya   īm   enaṃ   devā   anvamadan  /
+[struct] Halfverse: g
+[text] aptūrye   vr̥ttratūrye  /
+[struct] Halfverse: h
+[text] śambarahatye   gaviṣṭʰau  /
+[struct] Halfverse: i
+[text] arcantaṃ   guhyā   padā  /
+[struct] Halfverse: j
+[text] paramasyāṃ   parāvati  /
+[struct] Halfverse: k
+[text] ād   īṃ   brahmāṇi   vardʰayan  /
+[struct] Halfverse: l
+[text] anādʰr̥ṣṭāny   ojasā  /
+[struct] Halfverse: m
+[text] kr̥ṇvan   devebʰyo   duvaḥ  /
+[struct] Halfverse: n
+[text] marudbʰis   sakʰibʰis   saha  /
+[struct] Halfverse: o
+[text] indro   marutvām̐   iha   śravad   iha   somasya   pibatu  /
+[struct] Halfverse: p
+[text] premān   devo   devahūtim   avatu   devyā   dʰiyā  /
+[struct] Halfverse: q
+[text] predaṃ   brahma  /
+[struct] Halfverse: r
+[text] predaṃ   kṣattram  /
+[struct] Halfverse: s
+[text] premam̐   sunvantaṃ   yajamānam   avatu  /
+[struct] Halfverse: t
+[text] cittraś   cittrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: u
+[text] śravad   brahmāṇy   āvasā   gamat  // 8 //
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] indro   devas   somaṃ   pibatu  /
+[struct] Halfverse: b
+[text] ekajānāṃ   vvīratamaḥ  /
+[struct] Halfverse: c
+[text] bʰūrijānāṃ   tavastamaḥ  /
+[struct] Halfverse: d
+[text] haryos   stʰātā  /
+[struct] Halfverse: e
+[text] pr̥śneḫ   pretā  /
+[struct] Halfverse: f
+[text] vajrasya   bʰartā  /
+[struct] Halfverse: g
+[text] purāṃ   bʰettā  /
+[struct] Halfverse: h
+[text] purān   darmā  /
+[struct] Halfverse: i
+[text] apām̐   sr̥ṣṭā  /
+[struct] Halfverse: j
+[text] ap[āṃ   ne]tā  /
+[struct] Halfverse: k
+[text] satvanāṃ   netā  /
+[struct] Halfverse: l
+[text] nijagʰnir   dūreśravāḥ  /
+[struct] Halfverse: m
+[text] upamājikr̥d   dam̐sanāvān  /
+[struct] Halfverse: n
+[text] ihośan   devo   babʰūvān  /
+[struct] Halfverse: o
+[text] indro   [deva   iha   śravad   i]ha   somam   pibatu  /
+[struct] Halfverse: p
+[text] premān   devo   devahūtim   avatu   devyā   dʰiyā  /
+[struct] Halfverse: q
+[text] predaṃ   brahma  /
+[struct] Halfverse: r
+[text] predaṃ   kṣattraṃ  /
+[struct] Halfverse: s
+[text] premam̐   sunvantaṃ   yajamānam   avatu  /
+[struct] Halfverse: t
+[text] cittraś   cittrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: u
+[text] śravad   brahmāṇy   āvasā   gamat  // 9 //
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] savitā   devas   somasya   pibatu   hiraṇyapāṇis   sujihvaḥ  /
+[struct] Halfverse: b
+[text] subāhus   svaṅguriḥ  /
+[struct] Halfverse: c
+[text] trir   ahan   satyasavanaḥ  /
+[struct] Halfverse: d
+[text] yat   prāsuvad   vasudʰitī   ubʰe   joṣṭrī   savīmani  /
+[struct] Halfverse: e
+[text] śreṣṭʰam̐   sāvitram   āsuvan  /
+[struct] Halfverse: f
+[text] dogdʰrīn   dʰenuṃ  /
+[struct] Halfverse: g
+[text] voḍʰāram   anaḍvāham  /
+[struct] Halfverse: h
+[text] āśum̐   saptiṃ  /
+[struct] Halfverse: i
+[text] jiṣṇum̐   ratʰeṣṭʰāṃ  /
+[struct] Halfverse: j
+[text] purandʰiṃ   yoṣāṃ  /
+[struct] Halfverse: k
+[text] sabʰeyaṃ   yuvānam  /
+[struct] Halfverse: l
+[text] parāmīvām̐   sāviṣat   parāgʰaśam̐sam  /
+[struct] Halfverse: m
+[text] savitā   deva   iha   śravad   iha   somasya   matsat  /
+[struct] Halfverse: n
+[text] premāṃ   devo   devahūtim   avatu   devyā   dʰiyā  /
+[struct] Halfverse: o
+[text] predaṃ   brahma  /
+[struct] Halfverse: p
+[text] predaṃ   kṣattraṃ  /
+[struct] Halfverse: q
+[text] premam̐   sunvantaṃ   yyajamānam   avatu  /
+[struct] Halfverse: r
+[text] cittraś   cittrābʰir   ūtibiḥ  /
+[struct] Halfverse: s
+[text] śravad   brahmāṇy   āvasā   gamat  // 10 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] dyāvāpr̥tʰivī   somasya   matsatām  /
+[struct] Halfverse: b
+[text] pitā   ca   mātā   ca  /
+[struct] Halfverse: c
+[text] putraś   ca   prajananaṃ   ca  /
+[struct] Halfverse: d
+[text] dʰenuś   ca   r̥ṣabʰaś   ca  /
+[struct] Halfverse: e
+[text] dʰanyā   ca   dʰiṣaṇā   ca  /
+[struct] Halfverse: f
+[text] suretāś   ca   sudugʰā   ca  /
+[struct] Halfverse: g
+[text] śambʰūś   ca   mayobʰūś   ca  /
+[struct] Halfverse: h
+[text] ūrjasvatī   ca   payasvatī   ca  /
+[struct] Halfverse: i
+[text] retodʰāś   ca   retobʰr̥c   ca  /
+[struct] Halfverse: j
+[text] dyāvāpr̥tʰivī   iha   śrutām   iha   somasya   matsatām  /
+[struct] Halfverse: k
+[text] premāṃ   devī   devahūtim   avatāṃ   devyā   dʰiyā  /
+[struct] Halfverse: l
+[text] predaṃ   brahma  /
+[struct] Halfverse: m
+[text] predaṃ   kṣattraṃ  /
+[struct] Halfverse: n
+[text] premam̐   sunvantaṃ   yajamānam   avatām  /
+[struct] Halfverse: o
+[text] cittre   cittrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: p
+[text] śrutāṃ   brahmāṇy   āvasā   gamatām  // 11 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] r̥bʰavo   devās   somasya   matsan  /
+[struct] Halfverse: b
+[text] viṣṭvī   svapasaḥ  /
+[struct] Halfverse: c
+[text] karmaṇā   suhastāḥ  /
+[struct] Halfverse: d
+[text] dʰanyā   dʰaniṣṭʰāḥ  /
+[struct] Halfverse: e
+[text] śamyā   śamiṣṭʰāḥ  /
+[struct] Halfverse: f
+[text] śacyā   śaciṣṭʰāḥ  /
+[struct] Halfverse: g
+[text] ye   dʰenuṃ   vviśvajuvaṃ   viśvarūpām   arakṣan  /
+[struct] Halfverse: h
+[text] arakṣan   dʰenur   abʰavad   viśvarūpī  /
+[struct] Halfverse: i
+[text] ayuñjata   harī  /
+[struct] Halfverse: j
+[text] ayur   devām̐   upa  /
+[struct] Halfverse: k
+[text] abudʰran   saṅ   kanīnā   madantaḥ  /
+[struct] Halfverse: l
+[text] saṃvvatsare   svapaso   yajñiyaṃ   bʰāgam   āyan  /
+[struct] Halfverse: m
+[text] r̥bʰavo   devā   iha   śravann   iha   somasya   matsan  /
+[struct] Halfverse: n
+[text] premāṃ   devā   devahūtim   avantu   devyā   dʰiyā  /
+[struct] Halfverse: o
+[text] predaṃ   brahma  /
+[struct] Halfverse: p
+[text] predaṃ   kṣattraṃ  /
+[struct] Halfverse: q
+[text] premam̐   sunvantaṃ   yyajamānam   avantu  /
+[struct] Halfverse: r
+[text] cittrāś   cittrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: s
+[text] śravan   brahmāṇy   āvasā   gaman  // 12 //
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] víśve   devās   somasya   matsan  /
+[struct] Halfverse: b
+[text] viśve   vaiśvānarāḥ  /
+[struct] Halfverse: c
+[text] viśve   viśvamahasaḥ  /
+[struct] Halfverse: d
+[text] mahi   mahāntaḥ  /
+[struct] Halfverse: e
+[text] takvānnā   nemadʰitīvānaḥ  /
+[struct] Halfverse: f
+[text] āskrāḥ   pacatavāhasaḥ  /
+[struct] Halfverse: g
+[text] vāta   ātmāno   agnijūtāḥ  /
+[struct] Halfverse: h
+[text] ye   dyāṃ   ca   pr̥tʰivīṃ   cātastʰuḥ  /
+[struct] Halfverse: i
+[text] apaś   ca   svaś   ca  /
+[struct] Halfverse: j
+[text] brahma   ca   kṣatraṃ   ca  /
+[struct] Halfverse: k
+[text] barhiś   ca   vediṃ   ca  /
+[struct] Halfverse: l
+[text] yajñaṃ   coru   cāntarikṣam  /
+[struct] Halfverse: m
+[text] ye   stʰa   traya   ekādaśāḥ  /
+[struct] Halfverse: n
+[text] trayaś   ca   trim̐śac   ca  /
+[struct] Halfverse: o
+[text] trayaś   ca   trī   ca   śatā  /
+[struct] Halfverse: p
+[text] trayaś   ca   trī   ca   sahasrā  /
+[struct] Halfverse: q
+[text] tāvantobʰiṣācaḥ  /
+[struct] Halfverse: r
+[text] tāvanto   rātiṣācaḥ  /
+[struct] Halfverse: s
+[text] tāvatīḫ   patnīḥ  /
+[struct] Halfverse: t
+[text] tāvatīr   gnāḥ  /
+[struct] Halfverse: u
+[text] tāvanta   udaraṇe  /
+[struct] Halfverse: v
+[text] tāvanto   niveśane  /
+[struct] Halfverse: w
+[text] ato   vā   devā   bʰūyām̐sas   stʰa  /
+[struct] Halfverse: x
+[text] mā   vo   devā   atiśaṣā   mā   pariśasā   vikṣi  /
+[struct] Halfverse: y
+[text] viśve   devā   iha   śravann   iha   somasya   matsan  /
+[struct] Halfverse: z
+[text] premāṃ   devā   devahūtim   avaṃtu   devyā   dʰiyā  /
+[struct] Halfverse: aa
+[text] predaṃ   brahma  /
+[struct] Halfverse: ab
+[text] predaṃ   kṣattraṃ  /
+[struct] Halfverse: ac
+[text] premam̐   sunvantaṃ   yyajamānam   avantu  /
+[struct] Halfverse: ad
+[text] cittrāś   cittrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: ae
+[text] śravan   brahmāṇy   āvasā   gaman  // 13 //
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] agnir   vaiśvānaras   somasya   matsat  /
+[struct] Halfverse: b
+[text] viśveṣāṃ   devānām̐   samit  /
+[struct] Halfverse: c
+[text] ajasraṃ   daivyaṃ   jyotiḥ  /
+[struct] Halfverse: d
+[text] yo   viḍbʰyo   mānuṣībʰyo   dīdet  /
+[struct] Halfverse: e
+[text] dyuṣu   pūrvāsu   didyutānaḥ  /
+[struct] Halfverse: f
+[text] ajara   uṣasām   anīke  /
+[struct] Halfverse: g
+[text] ā   yo   dyāṃ   bʰāty   ā   pr̥tʰivīm  /
+[struct] Halfverse: h
+[text] urv   antarikṣam  /
+[struct] Halfverse: i
+[text] jyotiṣā   yajñāya   śarma   yam̐sat  /
+[struct] Halfverse: j
+[text] agnir   vaiśvānara   iha   śravad   iha   somasya   matsat  /
+[struct] Halfverse: k
+[text] premān   devo   devahūtim   avatu   devyā   dʰiyā  /
+[struct] Halfverse: l
+[text] predaṃ   brahma  /
+[struct] Halfverse: m
+[text] predaṃ   kṣattram  /
+[struct] Halfverse: n
+[text] premam̐   sunvantaṃ   yyajamānam   avatu   citraś   citrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: o
+[text] śravad   brahmāṇy   āvasā   gamat  // 14 //
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] maruto   devās   somasya   matsan  /
+[struct] Halfverse: b
+[text] suṣṭubʰas   svarkāḥ  /
+[struct] Halfverse: c
+[text] arkastubʰo   br̥hadvayasaḥ  /
+[struct] Halfverse: d
+[text] śūrā   anādʰr̥ṣṭaratʰāḥ  /
+[struct] Halfverse: e
+[text] tveṣāsaḫ   pr̥śnimātaraḥ  /
+[struct] Halfverse: f
+[text] śubʰrā   hiraṇyakʰādayaḥ  /
+[struct] Halfverse: g
+[text] tavaso   bʰandadiṣṭayaḥ  /
+[struct] Halfverse: h
+[text] nabʰasyā   varṣanirṇijaḥ  /
+[struct] Halfverse: i
+[text] maruto   devā   iha   śravann   iha   somasya   matsan  /
+[struct] Halfverse: j
+[text] premān   devā   devahūtim   avantu   devyā   dʰiyā  /
+[struct] Halfverse: k
+[text] predaṃ   brahma  /
+[struct] Halfverse: l
+[text] predaṃ   kṣattram  /
+[struct] Halfverse: m
+[text] premam̐   sunvantaṃ   yyajamānam   avantu  /
+[struct] Halfverse: n
+[text] citrāś   citrābʰi[r   ūtibʰiḥ  /
+[struct] Halfverse: o
+[text] śravan   b]rahmāṇy   āvasā   gaman  // 15 //
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] agnir   jātavedās   somasya   matsat  /
+[struct] Halfverse: b
+[text] svanīkaś   cittrabʰānuḥ  /
+[struct] Halfverse: c
+[text] apro[ṣivān   gr̥hapa]tis   tiras   tamām̐si   darśataḥ  /
+[struct] Halfverse: d
+[text] gʰr̥tāhavana   īḍyaḥ  /
+[struct] Halfverse: e
+[text] bahulavartmāstr̥tayajvā  /
+[struct] Halfverse: f
+[text] pratītyā   śattrūñ   jetāparāji[taḥ]  /
+[struct] Halfverse: g
+[text] [a]gne   jātavedobʰi   dyumnam   abʰi   saha   āyaccʰasva  /
+[struct] Halfverse: h
+[text] tuśo   aptuśaḥ  /
+[struct] Halfverse: i
+[text] samiddʰāram̐   stotāram   am̐hasas   pāhi  /
+[struct] Halfverse: j
+[text] agnir   jātave[dā]   iha   śravad   iha   somasya   matsat  /
+[struct] Halfverse: k
+[text] premāṃ   devo   devahūtim   avatu  /
+[struct] Halfverse: l
+[text] devyā   dʰiyā  /
+[struct] Halfverse: m
+[text] predaṃ   brahma  /
+[struct] Halfverse: n
+[text] predaṃ   kṣattram  /
+[struct] Halfverse: o
+[text] premam̐   sunvantaṃ   yyajamānam   avatu  /
+[struct] Halfverse: p
+[text] citraś   citrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: q
+[text] śravad   brahmāṇy   āvasā   gamat  // 16 //
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] asya   made   jaritar   indras   somasya   matsat  /
+[struct] Halfverse: b
+[text] asya   made   jaritar   indrohim   ahan  /
+[struct] Halfverse: c
+[text] asye   made   jaritar   indro   vr̥ttram   ahan  /
+[struct] Halfverse: d
+[text] asya   made   jaritar   indropāṃ   vvegam   airayat  /
+[struct] Halfverse: e
+[text] asya   made   jaritar   indro   jinvad   ajuvo   pinvad   ajitaḥ  /
+[struct] Halfverse: f
+[text] asya   made   jaritar   indra   ud   āryaṃ   vvarṇam   atirad   ava   dāsīd   viśo   astabʰnāt  /
+[struct] Halfverse: g
+[text] asya   made   jaritar   indra   ud   dyām   astabʰnād   apratʰayat   pr̥tʰivīm  /
+[struct] Halfverse: h
+[text] asya   made   jaritar   indro   divi   sūryam   airayad   vy   antarikṣam   atirat  /
+[struct] Halfverse: i
+[text] asya   made   jaritar   indras   samudrān   prakupitām̐   aramṇāt  /
+[struct] Halfverse: j
+[text] asya   made   jaritar   indra   r̥śyām̐   iva   paṃpʰaṇataḫ   parvatān   prakupitām̐   aramṇāt  /
+[struct] Halfverse: k
+[text] asya   made   jaritar   indra   iha   śravad   iha   somasya   matsat  /
+[struct] Halfverse: l
+[text] premān   devo   devahūtim   avatu   devyā   dʰiyā  /
+[struct] Halfverse: m
+[text] predaṃ   brahma  /
+[struct] Halfverse: n
+[text] predaṃ   kṣattram  /
+[struct] Halfverse: o
+[text] premam̐   sunvantaṃ   yyajamānam   avatu  /
+[struct] Halfverse: p
+[text] cittraś   cittrābʰir   ūtibʰiḥ  /
+[struct] Halfverse: q
+[text] śravad   brahmāṇy   āvasā   gamat  // 17 //
+[struct] Hymn: 6
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] vāyúr   agregā́   yajñaprī́s   sākáṃ   gan   mánasā   yajñám  /
+[struct] Halfverse: b
+[text] śivó   niyúdbʰiś   śivā́bʰiḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] híraṇyavartanī   nárā   devā́   patī́   abʰíṣṭaye  /
+[struct] Halfverse: b
+[text] vāyúś   céndraś   ca   súmakʰā  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] kā́vyā   rā́jānā   krátvā   dákṣasya   duroṇé  /
+[struct] Halfverse: b
+[text] riśā́dasā   sadʰástʰa   ā́  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] daívyā   adʰvaryū́   ā́   gatam̐   rátʰena   sū́ryatvacā  /
+[struct] Halfverse: b
+[text] mádʰvā   yajñám̐   sám   añjātʰe  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] índra   uktʰébʰir   bʰándiṣṭʰo   vā́jānāṃ   ca   vā́japatiḥ  /
+[struct] Halfverse: b
+[text] hárivān   sutā́nām̐   sákʰā  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] víśvān   devā́n   havāmahesmín   yajñé   supéśasaḥ  /
+[struct] Halfverse: b
+[text] tá   imáṃ   yajñám   ā́   gaman   devā́so   devyā́   dʰiyā́  /
+[struct] Halfverse: c
+[text] juṣāṇā́   adʰvaré   sádo   yé   yajñásya   tanūkŕ̥taḥ  /
+[struct] Halfverse: d
+[text] víśva   ā́   sómapītaye  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] vācā́   mahī́ṃ   devī́ṃ   vā́cam   asmín   yajñé   supéśasam  /
+[struct] Halfverse: b
+[text] sárasvatīm̐   havāmahe  // 18 //
+[struct] Hymn: 7
+[text] praiṣadʰyāya
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] hótā   yakṣad   agníṃ   samídʰā   suṣamídʰā   sámiddʰaṃ   nā́bʰā   pr̥tʰivyā́s   saṅgatʰé   vāmásya  /
+[text] várṣmaṃ   divá   iḍás   padé   vétv   ā́jyasya   hótar   yája  /
+[struct] Halfverse: b
+[text] hótā   yakṣat   tanūnápātam   áditer   gárbʰaṃ   bʰúvanasya   gopā́m  /
+[text] mádʰvādyá   devó   devébʰyo   devayā́nān   patʰó   anaktu   vétv   ā́jyasya   hótar   yaja  /
+[struct] Halfverse: c
+[text] hótā   yakṣan   nárā́śam̐saṃ   nr̥śastáṃ   nŕ̥̄m̐ḫ   praṇetrám  /
+[text] góbʰir   vapā́vān   syād   vīraíś   śáktīvān   rátʰaiḫ   pratʰamayā́vā   híraṇyaiś   cándrī   vétv   ā́jyasya   hótar   yája  /
+[struct] Halfverse: d
+[text] hótā   yakṣad   agním   iḍá   īḍitó   devó   devā́m̐   ā́   vakṣad   dūtó   havyavā́ḍ   ámūraḥ  /
+[text] úpemáṃ   yyajñám   úpemā́ṃ   devó   deváhūtim   avatu   vétv   ā́jyasya   hótar   yája  /
+[struct] Halfverse: e
+[text] hótā   yakṣad   barhís   suṣṭárīmórṇamradā   asmín   yajñé   ví   ca   prá   ca   pratʰatām̐   svāsastʰán   devébʰyaḥ  /
+[text] ém   enad   adyá   vásavo   rudrā́   ādityā́s   sadantu   priyám   índrasyāstu   vétv   ā́jyasya   hótar   yája  /
+[struct] Halfverse: f
+[text] hótā   yakṣad   dúra   r̥ṣvā́ẖ   kavaṣyó   kóṣadʰāvanīr   úd   ā́tābʰir   jíhatāṃ   vví   pákṣobʰiś   śrayantām  /
+[text] suprāyaṇā́   asmín   yajñé   ví   śrayantām   r̥tāvŕ̥dʰo   vyántv   ā́jyasya   hótar   yája  // 19 //
+[struct] Halfverse: g
+[text] hótā   yakṣad   uṣā́sānáktā   br̥hatī́   supéśasā   nŕ̥̄m̐ḫ   pátibʰyo   yóniṃ   kr̥ṇvāné  /
+[text] sam̐smáyamāne   índreṇa   devaír   édáṃ   barhís   sīdatāṃ   vītā́m   ā́jyasya   hótar   yája  /
+[struct] Halfverse: h
+[text] hótā   yakṣad   daívyā   hotā́rā   mandrā́   pótārā   kavī́   prácetasā  /
+[text] svíṣṭam   adyā́nyáẖ   kárad   iṣā́   svábʰigūrtam   anya   ū́rjā   svatavasemáṃ   yajñáṃ   diví   devéṣu   dʰattāṃ   vvītā́m   ā́jyasya   hótar   yája  /
+[struct] Halfverse: i
+[text] hótā   yakṣat   tisró   devī́r   apásām   apástamā   áccʰidram   adyédám   ápas   tanvatām  /
+[text] devébʰyo   devī́r   devám   ápo   vyántv   ā́jyasya   hótar   yája  /
+[struct] Halfverse: k
+[text] hótā   yakṣat   tváṣṭāram   áciṣṭam   ápākam̐   retodʰā́ṃ   vvíśravasaṃ   yyaśodʰā́m  /
+[text] pururū́pam   ákāmakarśanam̐   supóṣaḫ   póṣais   syāt   suvī́ro   vīraír   vétv   ā́jyasya   hótar   yája  /
+[struct] Halfverse: l
+[text] hóta   yakṣad   vánaspátim   upā́va   srakṣad   dʰi[yó   joṣṭā́]ram̐   śaśáman   náraḥ  /
+[text] svádāt   svádʰitir   r̥tutʰā́dyá   devó   devébʰyo   havyā́vāḍ   vétv   ā́jyasya   hótar   yája  /
+[struct] Halfverse: m
+[text] [hótā   yakṣad   agním̐]   svā́hā́jyasya   svā́hā   médasas   svā́hā   stokā́nām̐   svā́hā   svā́hākr̥tīnām̐   svā́hā   havyásūktīnām  /
+[text] svā́hā   devā   ājyapā   juṣāṇā́   ágna   ā́jyasya   vyántu   hótar   yaja  // 20 //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] ajaid   agnir   asanad   vājan   ni   devo   devebʰyo   havyāvāṭ  /
+[text] prāñjobʰir   hinvāno   dʰenābʰiẖ   kalpamāno   yajñasyāyuḫ  /
+[text] pratirann   upapreṣa   hotar   havyā   devebʰyaḥ  /
+[struct] Halfverse: b
+[text] hotā   yakṣad   agnim   ājyasya   juṣatām̐   havir   hotar   yaja  /
+[struct] Halfverse: c
+[text] hotā   yakṣat   somam   ājyasya   juṣatām̐   havir   hotar   yaja  /
+[struct] Halfverse: d
+[text] hotā   yakṣad   agnīṣomau   ccʰāgasya   vapāyā   medaso   juṣetāṃ   havir   hotar   yaja  /
+[struct] Halfverse: e
+[text] hotā   yakṣad   agnīṣomau   puroḍāśásya   juṣetām̐   havir   hotar   yaja/
+[struct] Halfverse: f
+[text] hotā   yakṣad   agnīṣomau   ccʰāgasya   haviṣa   āttām   adya   madʰyato   meda   udbʰr̥taṃ   purā   dveṣobʰyaḫ   purā   pauruṣeyyā   gr̥bʰo   gʰastāṃ   nūnaṃ   gʰāse   ajrāṇām   yyavasapratʰamānām̐   sumatkṣarāṇām̐   śatarudriyāṇām   agniṣvāttānāṃ   pīvopavasanānāṃ   pārśvataś   śroṇitaś   śitāmata   utsādatoṅgād   aṅgād   avattānāṃ   karata   evāgnīṣomau   juṣetām̐   havir   hotar   yaja  // 21 //
+[struct] Halfverse: g
+[text] devebʰyo   vanaspate   havīm̐ṣi   hiraṇyaparṇa   pradivas   te   artʰam  /
+[text] pradakṣiṇid   raśanayā   niyūya   r̥tasya   vakṣi   patʰibʰī   rajiṣṭʰaiḥ  /
+[struct] Halfverse: h
+[text] hotā   yakṣad   vanaspatim   abʰi   hi   piṣṭatamayā   rabʰiṣṭayā   raśanayādʰita  /
+[text] yatrāgner   ājyasya   haviṣaḫ   priyā   dʰāmāni   yatra   somasyājyasya   haviṣaḫ   priyā   dʰāmāni   yatrāgnīṣomayoś   cʰāgasya   haviṣaḫ   priyā   dʰāmāni   yatrā   vanaspateḫ   priyā   pātʰā́m̐si   yatra   devānām   ājyapānāṃ   priyā   dʰāmāni   yatrāgner   hotuḫ   priyā   dʰāmāni   tatraitaṃ   prastuty   evopastuty   evopāvasrakṣad   rabʰīyām̐   sam   iva   kr̥tvī   karad   evan   devo   vanaspatir   juṣatām̐   havir   hotar   yaja  /
+[struct] Halfverse: i
+[text] vanaspate   raśanayā   niyūya   piṣṭatamayā   vayunāni   vidvān  /
+[text] vahā   devatrā   dadʰiṣo   havīm̐ṣi   pra   ca   dātāram   amr̥teṣu   vocaḥ  /
+[struct] Halfverse: k
+[text] hotā   yakṣad   agnim̐   sviṣṭakr̥tam   ayāḍ   agnir   agner   ājyasya   haviṣaḫ   priyā   dʰāmāny   ayāṭ   somasyājyasya   haviṣaḫ   priyā   dʰāmāny   ayāḍ   agnīṣomayoś   cʰāgasya   haviṣaḫ   priyā   dʰāmāny   ayāḍ   vanaspateḫ   priyā   pātʰām̐sy   ayāḍ   devānām   ājyapānāṃ   priyā   dʰāmāni   yakṣad   agner   hotuḫ   priyā   dʰāmāni   yakṣat   svaṃ   mahimānam   āyajatām   ejyā   iṣaẖ   kr̥ṇotu   so   adʰvarā   jātavedā   juṣatām̐   havir   hotar   yaja
+[struct] Halfverse: l
+[text] agnim   adya   hotāram   avr̥ṇītāyaṃ   yyajamānaḫ   pacan   paktīḫ   pacan   puroḍāśaṃ   gr̥hṇann   agnaya   ājyaṃ   gr̥hṇan   somāyājyaṃ   badʰnann   agnīṣomābʰyāṃ   ccʰāgam̐   sūpastʰādya   devo   vanaspatir   abʰavad   agnaya   ājyena   somāyājyenāgnīṣomābʰyāṃ   ccʰāgenāgʰattāṃ   tam   medastaḫ   prati   pacatāgrabʰīṣṭām   avīvr̥dʰetāṃ   puroḍāśena   tvām   adya   r̥ṣa   ārṣeya   r̥ṣīṇāṃ   napād   avr̥ṇītāyaṃ   yyajamāno   bahubʰya   ā   saṅgatebʰyaḥ  /
+[text] eṣa   me   deveṣu   vasu   vāry   āyakṣyata   iti   tā   yā   devā   devadānāny   adus   tāny   asmā   ā   ca   śāssvā   ca   gurasveṣitaś   ca   hotar   asi   bʰadravācyāya   preṣito   mānuṣas   sūktavākāya   sūktā   brūhi  // 22 //
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] devam   barhis   sudevaṃ   devais   syāt   suvīraṃ   vīrair   vastor   vr̥jyetāktoḫ   prabʰriyetāty   anyān   rāyā   barhiṣmato   madema   vasuvane   vasudʰeyasya   vetu   yaja  /
+[struct] Halfverse: b
+[text] devīr   dvāras   saṅgʰāte   vīḍvīr   yāmañ   cʰitʰirā   dʰruvā   devahūtau   vatsa   īm   enās   taruṇā   āmimīyāt   kumāro   vā   navajāto   mainā   arvā   reṇukakāṭaḫ   praṇag   vasuvane   vasudʰeyasya   vyantu   yaja  /
+[struct] Halfverse: c
+[text] devī   uṣāsānaktā   vy   asmin   yajñe   prayaty   ahvetām   api   nūnaṃ   daivīr   viśaḫ   prāyāsiṣṭām̐   suprīte   sudʰite   vasuvane   vasudʰeyasya   vītāṃ   yyaja  /
+[struct] Halfverse: d
+[text] devī   joṣṭrī   vasudʰitī   yayor   anyāgʰā   dveṣām̐si   yūyavad   ānyāvakṣad   vasu   vāryāṇi   yajamā[nāya   vasuvane]   vasudʰeyasya   vītāṃ   yyaja  /
+[struct] Halfverse: e
+[text] devī   ūrjāhutī   iṣam   ūrjam   anyāvakṣat   sagdʰim̐   sapītim   anyā   [navena   pūrvaṃ   dayamānā   s]yāma   purāṇena   navan   tām   ūrjam   ūrjāhutī   ūrjayamāne   adʰātāṃ   vvasuvane   vasudʰeyasya   vītāṃ   yyaja  // 23 //
+[struct] Halfverse: f
+[text] devā   daivyā   hotārā   potārā   neṣṭārā   hatāgʰaśam̐sāv   ābʰarad   vasū   vasuvane   vasudʰeyasya   vītāṃ   yyaja  /
+[struct] Halfverse: g
+[text] devīs   tisras   tisro   devīr   iḍā   sarasvatī   bʰāratī   dyāṃ   bʰāraty   ādityair   aspr̥kṣat   sarasvatīmam̐   rudrair   yajñam   āvīd   ihaiveḍayā   vasumatyā   sadʰamādam   madema   vasuvane   vasudʰeyasya   vyantu   yaja  /
+[struct] Halfverse: h
+[text] devo   narāśam̐sas   triśīrṣā   ṣaḍakṣaś   śatam   id   enam̐   śitipr̥ṣṭʰā   ādadʰati   sahasram   īṃ   pravahanti   mittrāvaruṇed   asya   hotram   arhato   br̥haspati   stotram   aśvinādʰvaryavaṃ   vvasuvane   vasudʰeyasya   vetu   yaja  /
+[struct] Halfverse: i
+[text] devo   vanaspatir   varṣaprāvā   gʰr̥tanirṇig   dyām   agreṇāspr̥kṣad   āntarikṣaṃ   madʰyenāprāḫ   pr̥tʰivīm   upareṇādr̥m̐hīd   vasuvane   vasudʰeyasya   vetu   yaja  /
+[struct] Halfverse: k
+[text] devam   barhir   vāritīnāṃ   nidʰedʰāsi   pracyutīnām   apracyutaṃ   nikāmadʰaraṇaṃ   puruspārhaṃ   yyaśasvad   enā   barhiṣāṇyā   barhīm̐ṣy   abʰiṣyāma   vasuvane   vasudʰeyasya   vetu   yaja  /
+[struct] Halfverse: l
+[text] devo   agnis   sviṣṭakr̥t   sudraviṇā   mandraẖ   kavis   satyamanmāyajī   hotā   hotur   hotur   āyajīyān   agne   yān   devān   ayāḍ   yām̐   apiprer   ye   te   hotre   amatsata  /
+[text] tām̐   sasanuṣīm̐   hotrān   devaṅgamāṃ   divi   deveṣu   yajñam   erayemam̐   sviṣṭakr̥c   cāgne   hotābʰūr   vasuvane   vasudʰeyasya   namovāke   vīhi   yaja  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] hotā   yakṣad   indram̐   harivām̐   indro   dʰānā   attu   pūṣaṇvān   karambʰam̐   sarasvatīvān   bʰāratīvān   parivāpa   indrasyāpūpo   mittrāvaruṇayoḫ   payasyā   prātassāvasya   puroḍāśām̐   indraḫ   prastʰitāṃ   juṣāṇo   vetu   hotar   yaja  // 24 //
+[struct] Halfverse: b
+[text] hotā   yakṣad   indram̐   harivām̐   indro   dʰāna   attu   pūṣaṇvān   karambʰam̐   sarasvatīvān   bʰāratīvān   parivāpa   indrasyāpūpo   mādʰyandinasya   savanasya   puroḍāśām̐   indraḫ   prastʰitāṃ   juṣāṇo   vetu   hotar   yaja  /
+[struct] Halfverse: c
+[text] hotā   yakṣad   indram̐   harivām̐   indro   dʰāna   attu   puṣaṇvān   karambʰam̐   sarasvatīvān   bʰāratīvān   parivāpa   indrasyāpūpas   tr̥tīyasya   savanasya   puroḍāśām̐   indraḫ   prastʰitāṃ   juṣāno   vetu   hotar   yaja  /
+[struct] Halfverse: d
+[text] hotā   yakṣad   agniṃ   puroḍāśānāṃ   juṣatām̐   havir   hotar   yaja  /
+[struct] Halfverse: e
+[text] hotā   yakṣad   vāyum   agregām   agreyāvānam   agre   somasya   pātāraṃ   karad   evaṃ   vvāyur   āvasā   gamaj   juṣatāṃ   vetu   pibatu   somam̐   hotar   yaja  // 25 //
+[struct] Halfverse: f
+[text] hotā   yakṣad   indravāyū   arhantā   rihāṇā   gavyābʰir   gomantā   bʰriyantāṃ   vvīrayā   śukrayā   enayor   niyuto   goagrayāṇāṃ   vvīrau   kaśāśvapurastāt   tāsām   iha   prayāṇam   āstikavimocanaṃ   karata   evendravāyū   juṣetāṃ   vītāṃ   pibatāṃ   somam̐   hotar   yaja  /
+[struct] Halfverse: g
+[text] hotā   yakṣan   mitrāvaruṇā   sukṣattrā   riśādasā   ni   cin   miṣantā   nicirā   nicayyām̐sākṣṇaś   cid   gātuvittarānulbaṇena   cakṣasā   r̥tamr̥tam   iti   dīdʰyānā   karata   evam   mittrāvaruṇā   juṣetāṃ   vītāṃ   pibetām̐   somam̐   hotar   yaja  /
+[struct] Halfverse: h
+[text] hotā   yakṣad   aśvinā   nāsatyā   dīdyagnī   rudravartanī   ny   antareṇa   cakreṇa   ca   vāmīr   iṣa   ūrja   āvahantam̐   suvīrās   sanutareṇā   naruṣo   bādʰetāṃ   madʰukaśayemaṃ   yyajñaṃ   yuvānā   mimikṣatāṃ   karata   evāśvinā   juṣetāṃ   vvītāṃ   pibetām̐   somam̐   hotar   yaja  /
+[struct] Halfverse: i
+[text] hotā   yakṣad   indraṃ   prātaḫ   prātassāvasy   arvāvato   gamad   ā   parāvata   oror   antarikṣād   ā   svāt   sadʰastʰād   ime   asmai   śukrā   madʰuścutaḫ   prastʰitā   indrāya   somās   tāṃ   juṣatāṃ   vetu   pibatu   somam̐   hotar   yaja  //
+[struct] Halfverse: k
+[text] hotā   yakṣad   indram   mādʰyandinasya   savanasya   niṣkevalyasya   bʰāgasyāttāraṃ   pātāram̐   śrotāram̐   havam   āgantāram   asyā   dʰiyo   vitāram̐   sunvato   yajamānasya   vr̥dʰam   o[bʰā   kukṣī]   pr̥ṇatāṃ   vvārtragʰnaṃ   ca   māgʰonaṃ   ceme   asmai   śukrā   mantʰinaḫ   prastʰitā   indrāya   somās   tāṃ   ju[ṣatāṃ   vetu   piba]tu   somam̐   hotar   yaja  // 26 //
+[struct] Halfverse: l
+[text] hotā   yakṣad   indraṃ   tr̥tīyasya   savanasya   r̥bʰumato   vibʰumato   vājavato   br̥haspativato   viśvadevyāvatas   sam   asya   madāḫ   prātastanāgmata   sam   mādʰyandinās   samidātanās   teṣām̐   samukṣitānāṃ   gaura   iva   pragāhyā   vr̥ṣāyasvāyūyā   bāhubʰyām   upa   yāhi   haribʰyāṃ   praprutʰyā   śipre   niṣpr̥tʰya   r̥jīṣinn   ime   asmai   tīvrā   āśīrvantaḫ   prastʰitā   indrāya   somās   tāṃ   juṣatāṃ   vvetu   pibatu   somam̐   hotar   yaja  /
+[struct] Halfverse: m
+[text] hotā   yakṣad   indraṃ   marutvantam   indro   marutvāñ   juṣatāṃ   vvetu   pibatu   somam̐   hotar   yaja  /
+[struct] Halfverse: n
+[text] hotā   yakṣad   ādityān   priyān   priyadʰāmnaḫ   priyavratān   mahas   svasarasya   patīn   uror   antarikṣasyādʰyakṣān   svādityam   avocat   tad   asmai   sunvate   yajamānāya   karann   evam   ādityā   juṣantāṃ   mandantāṃ   vyantu   pibantu   mandantu   somam̐   hotar   yaja  /
+[struct] Halfverse: o
+[text] hotā   yakṣad   devam̐   savitāram   parāmīvām̐   sāviṣat   parāgʰaśam̐sam̐   susāvitram   asāviṣat   tad   asmai   sunvate   yajamānāya   karad   evan   devas   savitā   juṣatāṃ   mandatāṃ   vetu   pibatu   somam̐   hotar   yaja  /
+[struct] Halfverse: p
+[text] agnim   adya   hotāram   avr̥ṇītāyam̐   sunvan   yajamānaḫ   pacan   paktīḫ   pacan   puroḍāśān   gr̥hṇann   agnaya   ājyaṃ   gr̥hṇan   somāyājyaṃ   badʰnann   agnaye   ccʰāgam̐   sunvann   indrāya   somaṃ   bʰr̥jja   haribʰyāṃ   dʰānās   sūpastʰā   adya   devo   vanaspatir   abʰavad   agnaye   ājyena   somāyājyenāgnaye   ccʰāgenendrāya   somena   haribʰyāṃ   dʰānābʰir   agʰattaṃ   medastaḫ   prati   pacatāgrabʰīd   avīvr̥dʰata   puroḍāśair   apād   indras   somaṃ   gavāśiraṃ   yyavāśiraṃ   tīvrāntaṃ   bahulamadʰyam   upottʰā   madā   vyaśrod   vimadām̐   ānaḍ   avīvr̥dʰatāṅgūṣais   tvām   adya   r̥ṣa   ārṣeya   r̥ṣīṇāṃ   napād   avr̥ṇītāyam̐   sunvan   yajamāno   bahubʰya   ā   saṅgatebʰyaḥ  /
+[text] eṣa   me   deveṣu   vasu   vāry   āyakṣyata   iti   tā   yā   devā   devadānāny   adus   tāny   asmā   ā   ca   śāssvā   ca   gurasveṣitaś   ca   hotar   asi   bʰadravācyāya   preṣito   mānuṣas   sūktavākāya   sūktā   brūhi  // 27 //
+[struct] Halfverse: q
+[text] dʰānāsomānām   indrāddʰi   ca   piba   ca   babdʰān   te   harī   dʰānā   upa   r̥jīṣaṃ   jigʰratām   ā   ratʰacarṣaṇe   siṃcasva   yat   tvā   pr̥ccʰād   viṣaṃ   patnīẖ   kvāmīmadatʰā   ity   asmin   sunvati   yajamāne   tasmai   kim   arāstʰāḥ  /
+[text] suṣṭʰu   suvīryaṃ   yajñasyāgura   udr̥caṃ   yyad   yad   acīkamatot   tat   tatʰābʰūd   dʰotar   yaja  /
+[struct] Halfverse: r
+[text] iha   mada   eva   magʰavann   indra   te   śvo   vasumato   rudravato   ādityavata   r̥bʰumato   vibʰumato   vājavato   br̥haspativato   viśvadevyāvataś   śvassutyām   agnim   indrāyendrāgnibʰyāṃ   prabrūhi  /
+[text] mittrāvaruṇābʰyāṃ   vvasubʰyo   rudrebʰyo   ādityebʰyo   viśvebʰyo   devebʰyo   brahmaṇebʰyas   somyebʰyas   somapebʰyo   brahman   vācaṃ   yaccʰa  /
+[struct] Halfverse: s
+[text] hotā   yakṣad   aśvinā   somānāṃ   tiroahnyānāṃ   trir   ā   vartir   yātāṃ   trir   aha   mānayetʰām   uto   turīyan   nāsatyā   vājināya   devāḥ  /
+[text] sajūr   agnī   rohidaśvo   gʰr̥tasnuḥ  /
+[text] sajūr   uṣā   arūṣebʰiḥ  /
+[text] sajūs   sūrya   etaśebʰiḥ  /
+[text] sajoṣasāv   aśvinā   dam̐sobʰiẖ   karata   evāśvinā   juṣetāṃ   mandetāṃ   vītāṃ   pibetām̐   somam̐   hotar   yaja  // 28 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] hotā   yakṣad   indram̐   hotrāt   sajūr   divā   pr̥tʰivyā   r̥tunā   somaṃ   pibatu   hotar   yaja  /
+[struct] Halfverse: b
+[text] hotā   yakṣan   marutaḫ   potrāt   suṣṭubʰas   svarkā   r̥tunā   somam   pibantu   potar   yaja  /
+[struct] Halfverse: c
+[text] hotā   yakṣad   grāvo   neṣṭrāt   tvaṣṭā   sujanimā   sajūr   devānāṃ   patnībʰir   r̥tunā   somaṃ   pibatu   neṣṭar   yaja  /
+[struct] Halfverse: d
+[text] hotā   yakṣad   agnim   āgnīdʰrād   r̥tunā   somaṃ   pibatv   agnīd   yaja  /
+[struct] Halfverse: e
+[text] hotā   yakṣad   indraṃ   brahmāṇaṃ   brahmaṇād   r̥tunā   somaṃ   pibatu   brahman   yaja
+[struct] Halfverse: f
+[text] hotā   yakṣan   mittrāvaruṇā   praśāstā[rau   praśā]strād   r̥tunā   somaṃ   pibatāṃ   praśāstar   yaja  // 29 //
+[struct] Halfverse: g
+[text] hotā   yakṣad   devaṃ   draviṇodām̐   hotr[ād   r̥tubʰis   somaṃ]   pibatu   hotar   yaja  /
+[struct] Halfverse: h
+[text] hotā   yakṣad   devaṃ   draviṇodāṃ   potrād   r̥tubʰis   somaṃ   pibatu   potar   yaja  /
+[struct] Halfverse: i
+[text] hotā   yakṣad   devaṃ   draviṇodāṃ   neṣṭrād   r̥tubʰis   somaṃ   pibatu   neṣṭar   yaja
+[struct] Halfverse: k
+[text] hotā   yakṣad   devaṃ   draviṇodām   apād   dʰotrād   apāt   potrād   apān   neṣṭrāt   turīyaṃ   pātram   amr̥ktam   amartyam   indrapānaṃ   devo   draviṇodāḫ   pibatu   drāviṇodasaḥ  /
+[text] svayamāyūyās   svayamabʰigūryāḥ  /
+[text] svayamabʰigūrtayā   hotrāya   r̥tubʰis   somasya   pibatv   accʰāvāka   yaja  /
+[struct] Halfverse: l
+[text] hotā   yakṣad   aśvinādʰavaryū   ādʰvaryavād   r̥tunā   somaṃ   pibetām   adʰvaryū   yajatām  /
+[struct] Halfverse: m
+[text] hotā   yakṣad   agniṃ   gr̥hapatiṃ   gārhapatyāt   sugr̥hapatis   tv   adʰāgne   yam̐   sunvan   yajamānas   syāt   sugr̥hapatis   tvam   anena   sunvatā   yajamānenāgnir   gr̥hapatir   gārhapatyād   r̥tunā   somaṃ   pibatu   gr̥hapate   yaja  // 30 // //
+[struct] Hymn: 8
+[text] kuntāpādʰyāya
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] idáṃ   janā   upaśrutan   nárāśám̐sa   staviṣyate  /
+[struct] Halfverse: b
+[text] ṣaṣtím̐   sahásrā   navatíñ   ca   kauráva   ā́   ruśámeṣu   dadmahe  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] úṣṭrā   yásya   pravā́hiṇo   vadʰū́manto   dvír   dáśa  /
+[struct] Halfverse: b
+[text] varṣmā́   rátʰasya   ní   jihīḍate   díva   ī́ṣamāṇā   úpaspŕ̥śaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] eṣá   iṣā́ya   māmahe   śatáṃ   níṣkān   dáśasrajaḥ  /
+[struct] Halfverse: b
+[text] trī́ṇi   śatā́ny   árvatām̐   sahásrā   dáśa   gónām  // 31 //
+[struct] Hymn: 9
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] vacyásva   rebʰa   vacyásva   vr̥kṣé   ná   pakvé   śakunáḥ  /
+[struct] Halfverse: b
+[text] níṣ   ṭe   jihvā́   carcarīti   kṣuró   ná   bʰuríjor   iva  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] prá   rebʰāso   manī́ṣayā   vŕ̥tʰā   gā́va   iverate  /
+[struct] Halfverse: b
+[text] amótaputrakā   eṣā́m   u   módakā   upā́sate  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] prá   rebʰa   dʰíyaṃ   bʰarasva   govídaṃ   vvasuvídam  /
+[struct] Halfverse: b
+[text] devatrémā́ṃ   vvā́cam̐   śr̥ṇīhī́ṣur   nā́   vīrā́stāram  // 32 //
+[struct] Hymn: 10
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] rā́jño   viśvajanī́nasya   yó   devó   mártyām̐   áti  /
+[struct] Halfverse: b
+[text] vaiśvānarásya   suṣṭutím   ā́   sunotā   parikṣítaḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] parikṣín   naẖ   kṣémam   akarat   táma   āsanám   ā́   saram  /
+[struct] Halfverse: b
+[text] arāyyáṅ   kúrvan   kaúravyaḫ   pátir   vadati   jāyáyā  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] katarát   ta   ā́   harāṇi   dádʰi   mántʰāṃ3   parisrútam  /
+[struct] Halfverse: b
+[text] jāyā́   pátiṃ   vví   pr̥ccʰati   rāṣṭré   rā́jñaḫ   parikṣítaḥ  //
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] [ábʰīva   svàḫ   prá   jihīte   yávaḥ   pakváḫ   pátʰo   bílam  /
+[struct] Halfverse: b
+[text] jánas   sá   bʰadrám   edʰate   rāṣṭré   rā́jñaḫ   parikṣítaḥ]  // 33 //
+[struct] Hymn: 11
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] índraẖ   kārúm   abūbudʰad   út   tiṣṭʰa   ví   carā   cáran  /
+[struct] Halfverse: b
+[text] máméd   ugrásya   carkr̥tís   sárva   ít   te   pr̥ṇād   aríḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] ihá   gāvaḫ   prá   jāyadʰvam   ihā́śvā   ihá   pūruṣāḥ  /
+[struct] Halfverse: b
+[text] ihó   sahásradakṣiṇo   vīrás   trātā́   ní   ṣīdatu  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] némā́   indra   gā́vo   riṣán   mo   ā́sāṅ   gópatī   ríṣat  /
+[struct] Halfverse: b
+[text] mā́sām   amittrayúr   jána   indra   mā́   stená   ī́śata  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] úpa   vo   nára   emasi   sūkténa   vácasā   vayám   bʰadréṇa   vácasā   vayám  /
+[struct] Halfverse: b
+[text] cáno   *dadʰiṣva   no   gíro   ná   riṣyema   kadā́   caná  // 34 //
+[struct] Hymn: 12
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yás   sábʰeyo   vidatʰya3s   sútvā   yájvā   ca   pū́ruṣaḥ  /
+[struct] Halfverse: b
+[text] sū́ryaṃ   cā́mū   riśā́dasaṃ   tád   devā́ḫ   prā́g   akalpayan  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yó   jāmyā3ḫ   práty   amadad   yás   sákʰāyan   nínitsati  /
+[struct] Halfverse: b
+[text] jyéṣṭʰo   yád   ápracetās   tád   ā́hur   adʰarāg   íti  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yád   bʰadrásya   púruṣasya   putró   bʰavati   dā́dʰr̥ṣiḥ  /
+[struct] Halfverse: b
+[text] tád   vípro   ábravīd   udág   gandʰarváẖ   kā́myaṃ   vvácaḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yáś   ca   paṇír   abʰújiṣyo3   yáś   ca   revā́m̐   ádāśuriḥ  /
+[struct] Halfverse: b
+[text] dʰī́rāṇām̐   śāśvatām   áhaṃ   tád   apā́g   íti   śuśrava  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yé   ca   devā́   ayajantā́tʰo   yé   ca   *parādadúḥ  /
+[struct] Halfverse: b
+[text] sū́ryo   dívam   iva   gatvā́ya   magʰávāno   ví   rapśate  // 35 //
+[struct] Hymn: 13
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yónāktākṣyó   anabʰyakto3   máṇivo   áhiraṇyávaḥ  /
+[struct] Halfverse: b
+[text] ábrahmā́brahmaṇas   putrás   tó   tā́   kálpeṣu   sámmitā  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yá   ā́ktākṣyas   svàbʰyaktas   sumáṇis   suhiraṇyávaḥ  /
+[struct] Halfverse: b
+[text] súbrahmā   brahmáṇas   putrás   tó   tā́   kálpeṣu   sámmitā  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] aprapāṇā́   ca   veśantā́   revā́m̐   ápracatiś   cáyaḥ  /
+[struct] Halfverse: b
+[text] áyabʰyā   kányā   kalyāṇī   tvó   tā́   kálpeṣu   sámmitā  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] suprapāṇā́   ca   veśantā́   revā́m̐   súpracatiś   cáyaḥ  /
+[struct] Halfverse: b
+[text] súyabʰyā   kányā   kalyāṇī́   tvó   tā   kálpeṣu   sámmitā  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] parivr̥ktā́   ca   máhiṣī   svastyā́   ca   yúdʰiṅgamáḥ  /
+[struct] Halfverse: b
+[text] śvā́śur   áśva   ā́yāmī   tvó   tā́   kálpeṣu   sámmitā  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] vāvātā   ca   mahiṣvaṇistʰā́   ca   yúdʰiṅgamáḥ  /
+[struct] Halfverse: b
+[text] ánāśur   áśva   ā́yāmī   tvó   tā́   kálpeṣu   sámmitā  // 36 //
+[struct] Hymn: 14
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yád   [indrādó   dāśarājñémānuṣaṃ   vigā́hatʰāḥ]  /
+[struct] Halfverse: b
+[text] vírūpas   s[árvasmā   āsīt   sadŕ̥g   ákṣāya   váñcate]  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] [tváṃ   viṣākṣam   magʰavan   namrám   paryākaror   a]bʰí  /
+[struct] Halfverse: b
+[text] tvám̐   rauhiṇáṃ   vyāsyás   tváṃ   vvr̥ttrásyābʰinac   cʰ[íraḥ]  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yáḥ   párvatān   vy   ádadʰād   yó   apó   vy   ágāhatʰāḥ  /
+[struct] Halfverse: b
+[text] [yo   vr̥traṃ   vr̥trahann   aha]n   tásmā   indra   námostu   te  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] práṣṭin   dʰā́vantam̐   háryor   auccaiśśravasám   abravam  /
+[struct] Halfverse: b
+[text] svasty   áśva   jaítrāyéndram   ā́   vahato   rátʰam  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] yátvā   śvetā́   úccaiśśravasam̐   háryor   yuñjanti   dákṣiṇam  /
+[struct] Halfverse: b
+[text] mūrdʰā́nam   áśvaṃ   devā́nām   bíbʰrad   índraṃ   mahīyate  // 37 //
+[struct] Hymn: 15
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] etā́   áśvā   ā́   plavante  /  pratīpáṃ   prātisatvanám  /
+[struct] Halfverse: b
+[text] tā́sām   ékā   háriklikā  /  háriklike   kím   iccʰasi  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] sādʰúṃ   putráṃ   hiraṇyayám  /  kvā́ha   táṃ   párāsyaḥ  /
+[struct] Halfverse: b
+[text] yátrāmū́s   tisráś   śim̐śápāḥ  /  pári   tráyaḫ   pŕ̥dākavaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] śŕ̥ṅgan   dʰámanta   ā́sate  /  ayáṃ   vvahāte   avahi  /
+[struct] Halfverse: b
+[text] sá   ittʰa   kam̐   sá   eva   kam  /  ságʰā   gʰa   te   ságʰā   gʰa   me  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] gómī   gʰa   gominīr   abʰi  /  púmāṃ   bʰūmné   ninitsasi  /
+[struct] Halfverse: b
+[text] bálbab   átʰo   íti  /  bálbabo   átʰo   íti  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ájakorákovikā́  /  áśvasya   vāro   góś   śápʰaḥ  /
+[struct] Halfverse: b
+[text] keśínī   śyénī   énīva  /  ánāmayopajíhvikā  // 38 //
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] kó   amba   húlam   ā́yuni  /  kó   árjunyāḫ   páyaḥ  /
+[struct] Halfverse: b
+[text] kó   ásiknyāḫ   páyaḥ  /  étaṃ   pr̥ccʰa   kuháṃ   pr̥ccʰa  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] kúhā   káṃ   pákvakaṃ   pr̥ccʰa  /  yá   āyánti   śvábʰiṣ   kúbʰiḥ  /
+[struct] Halfverse: b
+[text] ábjantaẖ   kubʰāyávaḥ  /  ā́manako   mánastʰakaḥ  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] devattáḫ   práti   jū́ryaḥ  /  pináṣṭi   partikā́   havíḥ  /
+[struct] Halfverse: b
+[text] prā́   budbudo   matʰāyati  /  śúṅga   út   pata  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] mā́   tvā́ti   sákʰā   no   vadat  /  vaśā́yāḫ   putrám   āyan   tám  /
+[struct] Halfverse: b
+[text] írā   céndram   amandata  /  iyánn   iyánn   íti  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] átʰo   iyánn   íti  /  átʰo   jyā́yastaro   bʰuvat  /
+[struct] Halfverse: b
+[text] iyáṃ   yyakā́   śalākakā́  /  ā́   minoti   ní   bʰajyate  // 39 //
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] tásyā   anunibʰáñjanam  /  váruṇo   yāti   bábʰrubʰiḥ  /
+[struct] Halfverse: b
+[text] śatám   babʰrór   *abʰī́śubʰiḥ  /  śatáṃ   káśā   hiraṇyáyīḥ  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] śatám̐   rátʰā   hiraṇyáyāḥ  /  ā́halakuś   śavartakáḥ  /
+[struct] Halfverse: b
+[text] ā́yavanena   téjanī  /  śapʰéna   pī́va   óhate  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] vániṣṭʰunopá   nr̥tyati  /  imám   máhyam   adur   íti  /
+[struct] Halfverse: b
+[text] te   vr̥kṣā́s   sahá   tíṣṭʰanti  /  pā́kavaliś   śákavaliḥ  /
+[struct] Verse: 14
+[struct] Halfverse: a
+[text] aśvattʰáḥ   kʰadiró   dʰávaḥ  /  aradúḥ   paramáś   śaye  /
+[struct] Halfverse: b
+[text] hatá   iva   pāpapū́ruṣaḥ  /  ádoham   ít   pī́yūṣakam  /
+[struct] Verse: 15
+[struct] Halfverse: a
+[text] dvaú   ca   hastíno   dŕ̥tī  /  ádʰyardʰaṃ   ca   párasvataḥ  /
+[struct] Halfverse: b
+[text] ā́d   alā́bukam   ekakám  /  alābukáṃ   níkʰātakam  // 40 //
+[struct] Verse: 16
+[struct] Halfverse: a
+[text] karkaríko   nikʰātákaḥ  /  tád   vā́ta   ún   matʰāyati  /
+[struct] Halfverse: b
+[text] kulāyáṃ   káravām̐   íti  /  ugráṃ   *vvalṣad   ā́tatam  /
+[struct] Verse: 17
+[struct] Halfverse: a
+[text] na   *valṣad   ánātatam  /  ká   eṣāṃ   karkarím̐   llikʰat  /
+[struct] Halfverse: b
+[text] ká   eṣāṃ   dundubʰím̐   hanát  /  yád   īm̐   hanat   katʰám̐   hanát  /
+[struct] Verse: 18
+[struct] Halfverse: a
+[text] daílīm̐   hanat   katʰám̐   hanat  /  páry   ākā́raṃ   púnaḫ   punaḥ  // 41 //
+[struct] Hymn: 16
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] vítatau   kiraṇaú   dvaú   tā́v   ā́   pinaṣṭi   pū́ruṣaḥ  /
+[struct] Halfverse: b
+[text] ná   vai   kumāri   tát   tátʰā   yátʰā   kumāri   mányase  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] [mātúṣ   ṭe   kiráṇau   dvaú   nīvī́táḫ   púruṣād   r̥té  /
+[struct] Halfverse: b
+[text] ná   vai   kumāri   tád   tátʰā   yátʰā   kumāri   mányase  /]
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] nigŕ̥hya   kárṇakau   dvaú   nír   āyáccʰasi   madʰyamám  /
+[struct] Halfverse: b
+[text] ná   vai   kumāri   tát   tátʰā   yátʰā   kumāri   mányase  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] uttānā́yai   śayānā́yai   tíṣṭʰann   evā́va   gūhasi  /
+[struct] Halfverse: b
+[text] ná   vai   kumāri   tát   tátʰā   yátʰā   kumāri   mányase  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] ślakṣṇā́yām̐   ślákṣṇikāyām̐   ślákṣṇam   evā́va   gūhasi  /
+[struct] Halfverse: b
+[text] ná   vai   kumāri   tát   tátʰā   yátʰā   kumāri   mányase  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] áva   ślakṣṇám   avabʰraśad   antár   lomávati   hradé  /
+[struct] Halfverse: b
+[text] ná   vai   kumāri   tát   tátʰā   yátʰā   kumāri   mányase  // 42 //
+[struct] Hymn: 17
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ihéttʰa   prā́g   ápāg   udag   adʰarā́g   arā́lā   ud   abʰartsata  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] ihettʰa   prāg   apāg   udag   adʰarāg   vatsāḫ   pruṣanta   āsate  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] ihettʰa   prāg   apāg   udag   adʰarāk   stʰālīpāko   vi   līyate  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] ihettʰa   prāg   apāg   udag   adʰarāk   silīpuccʰo   vi   līyate  /
+[struct] Hymn: 18
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] bʰug   ity   abʰigataḥ  /  śar   ity   abʰiṣṭʰitaḥ  /
+[struct] Halfverse: b
+[text] pʰal   ity   apakrāntaḥ  /
+[struct] Hymn: 19
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] vīme   devā   akram̐satādʰvaryoẖ   kṣipraṃ   [pra]cara  /
+[struct] Halfverse: b
+[text] suśastir   id   gavām   asy   ati   prakʰidaso   mahat  // 43 //
+[struct] Hymn: 20
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] ādityā   ha   jaritar   aṅgirobʰyo   dakṣiṇām   anayan  /
+[struct] Halfverse: b
+[text] tām̐   ha   jaritar   na   praty   āyan   tām   u   ha   jaritaḫ   pratyāyan  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] tām̐   ha   jarita[r   na   praty   agr̥bʰṇan   tām   u   ha   jaritaḫ   pratyagr̥bʰṇan  /
+[struct] Halfverse: b
+[text] ahā   neta   sann   avicetanāni   jajñā   neta   sann   apurogavāsaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] uta   śveta   āśupatvā   uto   padyābʰir   javiṣṭʰaḥ  /
+[struct] Halfverse: b
+[text] u]tem   āśu   mānaṃ   piparti  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] ādityā   rudr[ā   vasavas   tv   eḍate   idam̐   rā]dʰaḫ   práti   gr̥bʰṇīhy   áṅgiraḥ  /
+[struct] Halfverse: b
+[text] [idam̐   rādʰo   br̥ha]t   pr̥tʰú   devā́   dádatv   ā   varám  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] tád   vo   astu   sucétanaṃ   yyuṣme   astu   [divedive]  /
+[struct] Halfverse: b
+[text] práty   eva   gr̥bʰāyata  // 44 //
+[struct] Hymn: 21
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] tvám   indra   śármann   ariṇā   havyáṃ   pā́rāvatebʰyaḥ  /
+[struct] Halfverse: b
+[text] víprāya   stuvaté   vásu   r̥júr   ic   cʰravase   vaháḥ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] tvám   indra   kápotāya   ccʰínnapakṣāya   váñcate  /
+[struct] Halfverse: b
+[text] śyāmā́kaṃ   pakváṃ   vviruja   vā́r   asmā   akr̥ṇór   bahú  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] āraṅgaró   vāvadīti   tredʰā́   baddʰó   varaty   áyāḥ  /
+[struct] Halfverse: b
+[text] írām   u   ha   prá   śam̐saty   ányrām   ápa   sedʰata  // 45 //
+[struct] Hymn: 22
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yád   asyā   ám̐hubʰedyāḫ   pŕ̥tʰu   stʰūrám   upā́tasat  /
+[struct] Halfverse: b
+[text] muṣkā́   íd   asyā   ejato   gośápʰe   śakulā́v   iva  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] yádā   stʰūréṇa   pasasā́   áṇū   muṣkā́   upā́vadʰīt  /
+[struct] Halfverse: b
+[text] víṣvañcāv   asyārdatas   síkatāsv   iva   gárdabʰau  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] yád   álpikā   sválpikā   karkandʰukévá   pacyate  /
+[struct] Halfverse: b
+[text] vāsántikám   iva   téjanaṃ   yábʰyamānā   ví   namyate  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] yád   devā́so   lalābukáṃ   prá   viṣṭīmínam   ā́viṣuḥ  /
+[struct] Halfverse: b
+[text] saktʰnā́   te   dr̥śyate   nārī́   satyásyākṣībʰagó   yátʰā  // 46 //
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] mahānagny   úpa   brūte   śvásyā́   veśitáṃ   pásaḥ  /
+[struct] Halfverse: b
+[text] īdŕ̥k   pʰálasya   vŕ̥kṣasya   śūrpám̐   śūrpaṃ   bʰájemahi  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] mahānagny   ádr̥ptam̐   hi   só   krandad   ástam   ā́sadat  /
+[struct] Halfverse: b
+[text] śáknu   kāmanā́   bʰuva   máśakam̐   sáktʰy   údyatam  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] mahānagny   úlū́kʰalam   áti   krāmanty   ábravīt  /
+[struct] Halfverse: b
+[text] yátʰaiva   te   vanaspate   pí   gʰnanti   tátʰaiva   me
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] mahānagnī́   kr̥kavā́kum̐   śamyáyā   paridʰā́vati
+[struct] Halfverse: b
+[text] idán   ná   vidma   téjanam̐   śīrṣṇā́   bʰavati   dʰā́nikā
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] mahānagnī́   mahānagnán   dʰā́vantam   ánu   dʰāvati
+[struct] Halfverse: b
+[text] imā́s   tád   asya   gā́   rakṣa   yábʰa   mā́m   addʰy   ódanam
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] mahā́n   vaí   bʰradró   bilbó   mahā́n   pakvá   udumbáraḥ
+[struct] Halfverse: b
+[text] mahām̐   abʰijñú   bā́dʰate   mahatás   sādʰú   kʰódanam  /
+[struct] Verse: 11
+[struct] Halfverse: a
+[text] kápr̥n   náraẖ   kapr̥tʰám   úd   dadʰātana   codáyata   kʰudáta   vā́jasātaye  /
+[struct] Halfverse: b
+[text] niṣṭigryàḫ   putrám   ā́   cyāvayotáya   índram̐   sabā́dʰa   ihá   sómapītaye  /
+[struct] Verse: 12
+[struct] Halfverse: a
+[text] yád   dʰa   prā́cīr   ájagantóro   maṇḍūradʰāṇikīḥ  /
+[struct] Halfverse: b
+[text] hatā́   índrasya   śáttravas   sárve   budbudáyāśavaḥ  /
+[struct] Verse: 13
+[struct] Halfverse: a
+[text] dadʰikrā́vṇo   akāriṣañ   jiṣñór   áśvasya   vājínaḥ  /
+[struct] Halfverse: b
+[text] surabʰí   no   múkʰā   karat   prá   ṇa   ā́yūm̐ṣi   tāriṣat  / 47 /
+[struct] Adhyaya: S
+[text] saṃhitāraṇyaṃ
+[struct] Hymn: 3
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] úditaś   śukríyan   dadʰe   tád  1)  ahám   ātmáni   dadʰe  /
+[struct] Halfverse: b
+[text] anu   mām   aítv   indriyáṃ   máyi   śrī́r   máyi   yáśaḥ  //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] sárvasya   prāṇás  2)  sabala   úttiṣṭʰāmy   ánu   māśīr  3)  uttiṣṭʰatv   anu   mā   yantu   devatāḥ  /
+[struct] Halfverse: b
+[text] adabdʰañ   cakṣur   iṣiram  4)  manas  5)  sūryo   jyotiṣāṃ   śreṣṭʰo   dīkṣe   mā   mā   him̐sīḥ  //
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] tac   cakṣur   devahitaṃ   śukram   uccarat  /
+[struct] Halfverse: b
+[text] paśyema   śaradaś   śatañ   jīvema   śaradaś   śatam  //
+[struct] Verse: 4
+[struct] Halfverse: 1
+[text] agne   iḍā   nama   iḍā   nama  6)  r̥ṣibʰyo   mantrakr̥dbʰyo   mantrapātibʰyo   namo   vo   astu   devebʰyaḥ  /
+[struct] Halfverse: 2
+[text] śivā   naś   śantamā   bʰava   sumr̥ḍīkā   sarasvati  /
+[struct] Halfverse: 3
+[text] mā   te   vyoma   sandr̥śi  /
+[struct] Halfverse: 4
+[text] bʰadraṅ   karṇebʰiḥ  /
+[struct] Halfverse: 5
+[text] r̥k  /
+[struct] Halfverse: 6
+[text] śan   na   indrāgnī   r̥k  /
+[struct] Halfverse: 7
+[text] stuṣe   janam  /
+[struct] Halfverse: 8
+[text] r̥k   kayā   naś   citraḥ  /
+[struct] Halfverse: 9
+[text] kas   tvā   satyo   madānām  /
+[struct] Halfverse: 10
+[text] abʰī   ṣu   ṇaḥ  /
+[struct] Halfverse: 11
+[text] syonā   pr̥tʰivī   bʰava  7) /
+[struct] Halfverse: 12
+[text] sapratʰa   iti   śāntiś   śāntiś   śāntiḥ  ///.
+[struct] Verse: col.
+[struct] Halfverse: 1
+[text] ity   r̥gvede   saṃhitāraṇye   tr̥tīyodʰyāyaḥ  //
+[text] iti   śrīr̥gvede   śākalake   śākʰāyāṃ   daśamamaṇḍale   r̥gvedakʰilasahitas   saṃhitāraṇyasahitaś   ca   sampūrṇaṃ   samāptam . //
+[text] oṃ   námo   bráhmaṇe   námo   astv   agnáye   námaḫ   pr̥tʰívyai   náma   óṣadʰībʰyaḥ  /
+[text] námo   vācé   námo   vācaspátaye   námo   víṣṇave   br̥haté   kr̥ṇomīty   *etā́sām   evá   devátānāṃ   sārṣṭítāṃ   sā́yujyaṃ   salokátām   āpnoti   yá   eváṃ   vidvā́(m̐)   svādʰyāyám   adʰīté  //
+[struct] Halfverse: 2
+[text] oṃ   anantaśākʰākalpāya   bʰogyamokṣapʰalāya   ca  /
+[text] brahmaṇāsevimānāya   vedavr̥kṣāya   vai   namaḥ  //
+[text] saṃ  51  bʰā   śu   ti  13  likʰitam . //
+[text] bʰaṭṭabʰīmasvāmino   rāmisvāminaḫ   putraś   śavalasvāminaḫ   pautras   saṃpādyataṃ   samāptam  //
+[text] śubʰam   astu .
+[struct] Adhyaya: Add.
+[struct] Hymn: 1
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] sūktānte   tr̥ṇāny   agnāv   araṇye   vodake   'pi   vā  /
+[struct] Halfverse: b
+[text] yat   str̥ṇair   adʰyayanaṃ   tad   adʰītaṃ   str̥ṇāni   bʰava   te   bʰava  //
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] vāpīkūpataḍāgānāṃ   samudraṃ   gaccʰa   svāhāgniṃ   gaccʰa   svāhā  //.
+[struct] Hymn: 2
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] viśveśvara   virūpākṣa   viśvarūpa   sadāśiva  /
+[struct] Halfverse: b
+[text] śaraṇaṃ   bʰava   bʰūteśa   karuṇākara   śaṃkara  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] hara   śaṃbʰo   mahādeva   viśveśāmaravallabʰa  /
+[struct] Halfverse: b
+[text] śiva   śaṃkara   sarvātman   nīlakaṃṭʰa   namo   'stu   te  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] mr̥tyuṃjayāya   rudrāya   nīlakaṃṭʰāya   śaṃbʰave  /
+[struct] Halfverse: b
+[text] amr̥teśāya   śarvāya   śrīmahādevāya   te   namaḥ  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] etāni   śivanāmāni   yaḥ   paṭʰen   niyataḥ   sakr̥t  /
+[struct] Halfverse: b
+[text] nāsti   mr̥tyubʰayaṃ   tasya   pāparogādi   kiṃcana  /
+[struct] Hymn: 3
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yajñeśācyuta   goviṃda   mādʰavānaṃta   keśava  /
+[struct] Halfverse: b
+[text] kr̥ṣṇa   viṣṇo   hr̥ṣīkeśa   vāsudeva   namo   'stu   te  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] kr̥ṣṇāya   gopinātʰāya   cakriṇe   suravairiṇe  /
+[struct] Halfverse: b
+[text] amr̥teśāya   gopāya   goviṃdāya   namo   namaḥ  /
+[struct] Verse: 3
+[struct] Halfverse: 1
+[text] etāny   anantanāmāni   maṇḍalānte   (sadā)   paṭʰet  /
+[struct] Hymn: 4
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] yat   str̥ṇair   adʰyayanaṃ   tad   adʰītaṃ   str̥ṇāni   bʰava   te   bʰava  /
+[struct] Halfverse: b
+[text] vāpīkūpataḍāgānāṃ   samudraṃ   gaccʰa   svāhā  /
+[struct] Verse: 2
+[struct] Halfverse: 1
+[text] sūktānte   tr̥ṇāny   agnau . /
+[struct] Hymn: 5
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] sítāsite   saríte   yátra   saṃgaté   tátrāplutā́so   dívam   útpataṃti  /
+[struct] Halfverse: b
+[text] yé   vai   tanvàṃ1   ví   sr̥jaṃti   dʰī́rās   te   jánāso   amr̥tatváṃ   bʰajaṃte . //
+[struct] Hymn: 6
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] havirbʰir   eke   svar   itaḥ   sacaṃte   sunvaṃta   eke   savaneṣu   somān  /
+[struct] Halfverse: b
+[text] śacīr   madaṃta   uta   dakṣiṇābʰir   nej   jihmāyaṃto   narakaṃ   patāma . /
+[struct] Hymn: 7
+[struct] Verse: 1
+[struct] Halfverse: a
+[text] himasya   tvā   jarāyuṇā   śāle   pari   vyayāmasi  /
+[struct] Halfverse: b
+[text] uta   hrado   hi   no   bʰuvo   'gnir   dadātu   bʰeṣajaṃ  /
+[struct] Halfverse: c
+[text] śītahrado   hi   no   bʰuvo   'gnir   dadātu   bʰeṣajaṃ  /
+[struct] Verse: 2
+[struct] Halfverse: a
+[text] antikām   agnim   ajanayad   durvāraḥ   śiśur   āgamat  /
+[struct] Halfverse: b
+[text] ajātaputrapakṣāyā   hr̥dayaṃ   mama   dūyate  /
+[struct] Verse: 3
+[struct] Halfverse: a
+[text] vipulaṃ   vanaṃ   bahvākāśaṃ   cara   jātavedaḥ   kāmāya  /
+[struct] Halfverse: b
+[text] māṃ   ca   rakṣa   putrāmś   ca   śaraṇam   abʰūt   tava  /
+[struct] Verse: 4
+[struct] Halfverse: a
+[text] piṅgākṣa   lohitagrīva   kr̥ṣṇavarṇa   namo   'stu   te  /
+[struct] Halfverse: b
+[text] asmān   ni   barha   rasyonaṃ   sāgarasyormayo   yatʰā  /
+[struct] Verse: 5
+[struct] Halfverse: a
+[text] indraḥ   kṣatraṃ   dadātu   varuṇam   abʰi   ṣiñcatu  /
+[struct] Halfverse: b
+[text] śatravo   nidʰanaṃ   yāntu   jayas   tvaṃ   brahmatejasā  /
+[struct] Verse: 6
+[struct] Halfverse: a
+[text] kapilajaṭīṃ   sarvabʰakṣaṃ   cāgniṃ   pratyakṣadaivatam  /
+[struct] Halfverse: b
+[text] varuṇaṃ   ca   vaśāmy   agre   mama   putrāṃś   ca   rakṣatu   mama   putrāṃś   ca   rakṣatv   oṃ   namaḥ  /
+[struct] Verse: 7
+[struct] Halfverse: a
+[text] sāgraṃ   varṣaśataṃ   jīva   piba   kʰāda   ca   moda   ca  /
+[struct] Halfverse: b
+[text] duḥkʰitāṃś   ca   dvijāṃś   caiva   prajāṃ   ca   paśu   pālaya  /
+[struct] Verse: 8
+[struct] Halfverse: a
+[text] yāvad   ādityas   tapati   yāvad   bʰrājati   candramāḥ  /
+[struct] Halfverse: b
+[text] yāvad   vāyuḥ   plavāyati   tāvaj   jīva   jayā   jaya  /
+[struct] Verse: 9
+[struct] Halfverse: a
+[text] yena   kena   prakāreṇa   ko   vīnām   anu   jīvati  /
+[struct] Halfverse: b
+[text] pareṣām   upakārārtʰaṃ   yaj   jīvati   sa   jīvati  /
+[struct] Halfverse: c
+[text] etāṃ   vaiśvānārīṃ   sarvadeva   namo   'stu   te  /
+[struct] Verse: 10
+[struct] Halfverse: a
+[text] na   corabʰayaṃ   na   ca   sarpabʰayaṃ   na   ca   vyāgʰrabʰayaṃ   na   ca   mr̥tyubʰayaṃ  /
+[struct] Halfverse: b
+[text] yasyāpamr̥tyur   na   ca   mr̥tyuḥ   sa   sarvaṃ   labʰate   sa   sarvaṃ   jayate . /

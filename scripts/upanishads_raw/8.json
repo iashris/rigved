@@ -1,0 +1,2505 @@
+{
+  "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/audioall/AITARIYA+UPANISHAD+++WITH++RAVINDRA+JI+VOX.wav\"",
+  "chapters" : [ {
+    "n" : "8/2",
+    "name_skt" : "प्रथमोऽध्यायः",
+    "name_tl" : "prathamo'dhyāyaḥ",
+    "p" : "",
+    "u" : "1",
+    "verses" : [ {
+      "anvaya_skt" : "अग्ने वै इदम् आत्मा एकः एव आसीत्। अन्यत् किञ्चन मिषत् न  आसीत् । सः ईक्षत लोकान् नु सृजै इति ॥",
+      "anvaya_tl" : "agne vai idam ātmā ekaḥ eva āsīt| anyat kiñcana miṣat na ( āsīt )| saḥ īkṣata lokān nu sṛjai iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.1.mp3",
+      "auro_md" : "In the beginning the Spirit was One and all this (universe) was the Spirit; there was nought else that saw. The Spirit thought, \"Lo, I will make me worlds from out my being.\"",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "in the beginning",
+        "word_skt" : "अग्ने",
+        "word_tl" : "agne"
+      }, {
+        "meaning_en" : "the Spirit",
+        "word_skt" : "आत्मा",
+        "word_tl" : "ātmā"
+      }, {
+        "meaning_en" : "One",
+        "word_skt" : "एकः एव",
+        "word_tl" : "ekaḥ eva"
+      }, {
+        "meaning_en" : "was",
+        "word_skt" : "आसीत्",
+        "word_tl" : "āsīt"
+      }, {
+        "meaning_en" : "and all this (universe was the Spirit)",
+        "word_skt" : "इदम् वै",
+        "word_tl" : "idam vai"
+      }, {
+        "meaning_en" : "there was nought else",
+        "word_skt" : "न अन्यत् किञ्चन",
+        "word_tl" : "na anyat kiñcana"
+      }, {
+        "meaning_en" : "that saw",
+        "word_skt" : "मिषत्",
+        "word_tl" : "miṣat"
+      }, {
+        "meaning_en" : "the Spirit thought",
+        "word_skt" : "सः ईक्षत",
+        "word_tl" : "saḥ īkṣata"
+      }, {
+        "meaning_en" : "I will make me worlds from out my being",
+        "word_skt" : "लोकान् नु सृजै इति",
+        "word_tl" : "lokān nu sṛjai iti"
+      } ],
+      "hindi_explain" : "आरम्भ में 'एकमेव' 'परमात्म-चैतन्य' था तथा यह सब (सम्पूर्ण जगत्) 'परमात्म-चैतन्य' ही था; इसके अतिरिक्त अन्य कोई द्रष्टा नहीं था। 'परमात्म-चैतन्य' ने विचार किया, ''अरे, मैं अपनी ही सत्ता में से स्वयं को लोकों के रूप में सृष्ट कर दूँ।''",
+      "meaning_en" : " In the beginning the Spirit was One and all this (universe) was the Spirit; there was nought else that saw. The Spirit thought, “Lo, I will make me worlds from out my being.”",
+      "n" : "8/1/2",
+      "p" : "",
+      "sname_skt" : "प्रथमः खण्डः",
+      "sname_tl" : "prathamaḥ khaṇḍaḥ",
+      "u" : "1",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "हरिः ॐ॥ आत्मा वा इदमेक एवाग्र आसीन्नान्यत्किञ्चन मिषत्‌।\nस ईक्षत लोकान्नु सृजा इति ॥",
+      "verse_tl" : "hariḥ om|| ātmā vā idameka evāgra āsīnnānyatkiñcana miṣat | sa īkṣata lokānnu sṛjā iti ||"
+    }, {
+      "anvaya_skt" : "सः इमान् लोकान् असृजत अम्भः मरीचीः  मरम्  आपः  अदः अम्भः परेण दिवम्  दौः  तस्य  प्रतिष्ठा  अन्तरिक्षं मरीचयः  पृथिवी मरः याः अधस्तात् ताः आपः ॥",
+      "anvaya_tl" : "saḥ imān lokān asṛjata ambhaḥ marīcīḥ  maram  āpaḥ  adaḥ ambhaḥ pareṇa divam  dauḥ ( tasya ) pratiṣṭhā  antarikṣaṁ marīcayaḥ  pṛthivī maraḥ yāḥ adhastāt tāḥ āpaḥ ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.2.mp3",
+      "auro_md" : "These were the worlds he made; Ambhah, of the ethereal waters, Marichih of light, Mara, of death and mortal things, Apah, of the lower waters. Beyond the shining firmament are the ethereal waters and the firmament is their base and resting-place; Space is the world of light; the earth is the world mortal; and below the earth are the lower waters.",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "these worlds",
+        "word_skt" : "इमान् लोकान्",
+        "word_tl" : "imān lokān"
+      }, {
+        "meaning_en" : "made",
+        "word_skt" : "असृजत",
+        "word_tl" : "asṛjata"
+      }, {
+        "meaning_en" : "the ethereal waters",
+        "word_skt" : "अम्भः",
+        "word_tl" : "ambhaḥ"
+      }, {
+        "meaning_en" : "light, Apah",
+        "word_skt" : "मरीचीः",
+        "word_tl" : "marīcīḥ"
+      }, {
+        "meaning_en" : "death and mortal things",
+        "word_skt" : "मरम्",
+        "word_tl" : "maram"
+      }, {
+        "meaning_en" : "the lower waters",
+        "word_skt" : "आपः",
+        "word_tl" : "āpaḥ"
+      }, {
+        "meaning_en" : "beyond the shining firmament",
+        "word_skt" : "दिवम् अन्तरिक्षम् परेण",
+        "word_tl" : "divam antarikṣam pareṇa"
+      }, {
+        "meaning_en" : "are the ethereal waters",
+        "word_skt" : "अम्भः",
+        "word_tl" : "ambhaḥ"
+      }, {
+        "meaning_en" : "the firmament is their base and resting place",
+        "word_skt" : "अदः प्रतिष्ठा",
+        "word_tl" : "adaḥ pratiṣṭhā"
+      }, {
+        "meaning_en" : "Space is the world of light",
+        "word_skt" : "दौः मरीचयः",
+        "word_tl" : "dauḥ marīcayaḥ"
+      }, {
+        "meaning_en" : "the earth is the world mortal",
+        "word_skt" : "पृथिवी मरः",
+        "word_tl" : "pṛthivī maraḥ"
+      }, {
+        "meaning_en" : "that below the earth",
+        "word_skt" : "याः अधस्तात्",
+        "word_tl" : "yāḥ adhastāt"
+      }, {
+        "meaning_en" : "are the lower waters",
+        "word_skt" : "ताः आपः",
+        "word_tl" : "tāḥ āpaḥ"
+      } ],
+      "hindi_explain" : "उसने इन लोकों की सृष्टि की; 'अम्भः-आकाशीय जलों का लोक, 'मरीचीः'-प्रकाश का लोक, 'भ्रम्'–मृत्यु एवं मर्त्य वस्तुओं का लोक, 'आपः' -निम्नतर जलों का लोक। प्रकाशमय द्युलोक से परे हैं आकाशीय जल, तथा द्युलोक है उनका आधारभूत विश्राम-स्थल; 'अन्तरिक्ष' है प्रकाश का लोक; पृथ्वी है मर्त्यलोक; तथा पृथ्वी के नीचे हैं निम्नतर जल।",
+      "meaning_en" : " These were the worlds he made; Ambhah, of the ethereal waters, Marichih of light, Mara, of death and mortal things, Apah, of the lower waters. Beyond the shining firmament are the ethereal waters and the firmament is their base and resting place; Space is the world of light; the earth is the world mortal; and below the earth are the lower waters.",
+      "n" : "8/1/3",
+      "p" : "8/1/1",
+      "sname_skt" : "प्रथमः खण्डः",
+      "sname_tl" : "prathamaḥ khaṇḍaḥ",
+      "u" : "2",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स इमांल्लोकानसृजत - - अम्भो मरीचीर्ममापोऽम्भः परेण दिवं द्यौः प्रतिष्ठाऽन्तरिक्षं मरीचयः॥\nपृथिवी मरो या अधस्तात्ता आपः ॥",
+      "verse_tl" : "sa imāṁllokānasṛjata - - ambho marīcīrmamāpo'mbhaḥ pareṇa divaṁ dyauḥ pratiṣṭhā'ntarikṣaṁ marīcayaḥ ||\npṛthivī maro yā adhastāttā āpaḥ ||"
+    }, {
+      "anvaya_skt" : "सः ईक्षत इमे नु लोकाः  लोकपालान् नु सृजै इति। सः अद्भ्यः एव पुरुषं समुद्धृत्य अमूर्च्छयत् ॥",
+      "anvaya_tl" : "saḥ īkṣata ime nu lokāḥ  lokapālān nu sṛjai iti| saḥ adbhyaḥ eva puruṣaṁ samuddhṛtya amūrcchayat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.3.mp3",
+      "auro_md" : "The Spirit thought, \"Lo, these are the worlds; and now will I make me guardians for my worlds.\" Therefore he gathered the Purusha out of the waters and gave Him shape and substance.",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Spirit thought",
+        "word_skt" : "सः ईक्षत",
+        "word_tl" : "saḥ īkṣata"
+      }, {
+        "meaning_en" : "Lo, these are the worlds",
+        "word_skt" : "इमे नु लोकाः",
+        "word_tl" : "ime nu lokāḥ"
+      }, {
+        "meaning_en" : "guardians for my worlds",
+        "word_skt" : "लोकपालान् नु",
+        "word_tl" : "lokapālān nu"
+      }, {
+        "meaning_en" : "now will I make",
+        "word_skt" : "सृजै इति",
+        "word_tl" : "sṛjai iti"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "out of the waters",
+        "word_skt" : "अद्भ्यः एव",
+        "word_tl" : "adbhyaḥ eva"
+      }, {
+        "meaning_en" : "the Purusha",
+        "word_skt" : "पुरुषम्",
+        "word_tl" : "puruṣam"
+      }, {
+        "meaning_en" : "gathered",
+        "word_skt" : "समुद्धृत्य",
+        "word_tl" : "samuddhṛtya"
+      }, {
+        "meaning_en" : "gave shape and substance",
+        "word_skt" : "अमूर्च्छयत्",
+        "word_tl" : "amūrcchayat"
+      } ],
+      "hindi_explain" : "'परमात्म-चैतन्य' ने विचार किया, ''ये तो हैं लोके; और अब मैं स्वयं को इन लोकों के लिए लोकपालों के रूप में सृष्ट करूँगा। ''अतः उसने जलों से 'पुरुष' को एकीभूत करके निकाला तथा 'उसे' रूप एवं तात्त्विकता प्रदान की।",
+      "meaning_en" : " The Spirit thought, “Lo, these are the worlds; and now will I make me guardians for my worlds.” Therefore he gathered the Purusha out of the waters and gave Him shape and substance.",
+      "n" : "8/1/5",
+      "p" : "8/1/4",
+      "sname_skt" : "प्रथमः खण्डः",
+      "sname_tl" : "prathamaḥ khaṇḍaḥ",
+      "u" : "3",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स ईक्षतेमे नु लोका लोकपालान्नु सृजा इति॥\nसोऽद्भ्य एव पुरुषं समुद्धृत्यामूर्च्छयत्‌ ॥",
+      "verse_tl" : "sa īkṣateme nu lokā lokapālānnu sṛjā iti ||\nso'dbhya eva puruṣaṁ samuddhṛtyāmūrcchayat ||"
+    }, {
+      "anvaya_skt" : "तम् अभ्यतपत्  त्स्य अभितप्तस्य मुखं निरभिद्यत यथा अण्डं  निर्भिद्यते   मुखात् वाक्  वाचः अग्निः। नासिके निरभिद्येताम्। नासिकभ्यां प्राणः  प्राणात् वायुः। अक्षिणी निरभिद्येताम्। अक्षिभ्यां चक्षुः  चक्षुषः आदित्यः। कर्णौ निरभिद्येताम्। कर्णभ्यां श्रोत्रम्  श्रोत्रात् दिशः। त्वक् निरभिद्यत। त्वचः लोमानि  लोमभ्यः ओषधिवनस्पतयः। हृदयं निराभेद्यत। हृदयात् मनः  मनसः चन्द्रमाः। नाभिः निरभिद्यत। नाभ्याः अपानः अपानात् मृत्युः। शिश्नं निरभिद्यत  रेतः रेतसः आपः ॥",
+      "anvaya_tl" : "tam abhyatapat  tsya abhitaptasya mukhaṁ nirabhidyata yathā aṇḍaṁ ( nirbhidyate )  mukhāt vāk  vācaḥ agniḥ| nāsike nirabhidyetām| nāsikabhyāṁ prāṇaḥ  prāṇāt vāyuḥ| akṣiṇī nirabhidyetām| akṣibhyāṁ cakṣuḥ  cakṣuṣaḥ ādityaḥ| karṇau nirabhidyetām| karṇabhyāṁ śrotram  śrotrāt diśaḥ| tvak nirabhidyata| tvacaḥ lomāni  lomabhyaḥ oṣadhivanaspatayaḥ| hṛdayaṁ nirābhedyata| hṛdayāt manaḥ  manasaḥ candramāḥ| nābhiḥ nirabhidyata| nābhyāḥ apānaḥ apānāt mṛtyuḥ| śiśnaṁ nirabhidyata  retaḥ retasaḥ āpaḥ ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.4.mp3",
+      "auro_md" : "Yea, the Spirit brooded over Him and of Him thus brooded over the mouth broke forth, as when an egg is hatched and breaketh; from the mouth brake Speech and of Speech fire was born. The nostrils brake forth and from the nostrils Breath and of Breath air was born. The eyes brake forth and from the eyes Sight and of Sight the Sun was born. The ears brake forth and from the ears Hearing and of Hearing the regions were born. The skin brake forth and from the skin hairs and from the hairs herbs of healing and all trees and plants were born. The heart brake forth and from the heart Mind and of Mind the moon was born. The navel brake forth and from the navel Apana and of Apana Death was born. The organ of pleasure brake forth and from the organ seed and of seed the waters were born.",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Spirit brooded over Him",
+        "word_skt" : "तम् अभ्यतपत्",
+        "word_tl" : "tam abhyatapat"
+      }, {
+        "meaning_en" : "of Him thus brooded over",
+        "word_skt" : "त्स्य अभितप्तस्य",
+        "word_tl" : "tsya abhitaptasya"
+      }, {
+        "meaning_en" : "as when an egg is hatched and breaketh",
+        "word_skt" : "अण्डम् यथा",
+        "word_tl" : "aṇḍam yathā"
+      }, {
+        "meaning_en" : "the mouth broke forth",
+        "word_skt" : "मुखम् निरभिद्यत ",
+        "word_tl" : "mukham nirabhidyata"
+      }, {
+        "meaning_en" : "from the mouth brake Speech",
+        "word_skt" : "मुखात् वाक्",
+        "word_tl" : "mukhāt vāk"
+      }, {
+        "meaning_en" : "of Speech fire was born",
+        "word_skt" : "वाचः अग्निः",
+        "word_tl" : "vācaḥ agniḥ"
+      }, {
+        "meaning_en" : "the nostrils brake forth",
+        "word_skt" : "नासिके निरभिद्येताम्",
+        "word_tl" : "nāsike nirabhidyetām"
+      }, {
+        "meaning_en" : "from the nostrils Breath",
+        "word_skt" : "नासिकभ्याम् प्राणः",
+        "word_tl" : "nāsikabhyām prāṇaḥ"
+      }, {
+        "meaning_en" : "of Breath air was born",
+        "word_skt" : "प्राणात् वायुः",
+        "word_tl" : "prāṇāt vāyuḥ"
+      }, {
+        "meaning_en" : "the eyes brake forth",
+        "word_skt" : "अक्षिणी निरभिद्येताम्",
+        "word_tl" : "akṣiṇī nirabhidyetām"
+      }, {
+        "meaning_en" : "from the eyes Sight",
+        "word_skt" : "अक्षिभ्याम् चक्षुः",
+        "word_tl" : "akṣibhyām cakṣuḥ"
+      }, {
+        "meaning_en" : "of Sight the Sun was born",
+        "word_skt" : "चक्षुषः आदित्यः",
+        "word_tl" : "cakṣuṣaḥ ādityaḥ"
+      }, {
+        "meaning_en" : "from the ears Hearing",
+        "word_skt" : "कर्णभ्याम् श्रोत्रम्",
+        "word_tl" : "karṇabhyām śrotram"
+      }, {
+        "meaning_en" : "of Hearing the regions were born",
+        "word_skt" : "श्रोत्रात् दिशः",
+        "word_tl" : "śrotrāt diśaḥ"
+      }, {
+        "meaning_en" : "the skin brake forth",
+        "word_skt" : "त्वक् निरभिद्यत",
+        "word_tl" : "tvak nirabhidyata"
+      }, {
+        "meaning_en" : "from the skin hairs",
+        "word_skt" : "त्वचः लोमानि",
+        "word_tl" : "tvacaḥ lomāni"
+      }, {
+        "meaning_en" : "from the hairs herbs of healing and all trees and plants were born",
+        "word_skt" : "लोमभ्यः ओषधिवनस्पतयः",
+        "word_tl" : "lomabhyaḥ oṣadhivanaspatayaḥ"
+      }, {
+        "meaning_en" : "the heart brake forth",
+        "word_skt" : "हृदयम् निराभेद्यत",
+        "word_tl" : "hṛdayam nirābhedyata"
+      }, {
+        "meaning_en" : "from the heart Mind",
+        "word_skt" : "हृदयात् मनः",
+        "word_tl" : "hṛdayāt manaḥ"
+      }, {
+        "meaning_en" : "of Mind the moon was born",
+        "word_skt" : "मनसः चन्द्रमाः",
+        "word_tl" : "manasaḥ candramāḥ"
+      }, {
+        "meaning_en" : "the navel brake forth",
+        "word_skt" : "नाभिः निरभिद्यत",
+        "word_tl" : "nābhiḥ nirabhidyata"
+      }, {
+        "meaning_en" : "from the navel Apana",
+        "word_skt" : "नाभ्याः अपानः",
+        "word_tl" : "nābhyāḥ apānaḥ"
+      }, {
+        "meaning_en" : "of Apana Death was born",
+        "word_skt" : "अपानात् मृत्युः",
+        "word_tl" : "apānāt mṛtyuḥ"
+      }, {
+        "meaning_en" : "the organ of pleasure brake forth",
+        "word_skt" : "शिश्नम् निरभिद्यत",
+        "word_tl" : "śiśnam nirabhidyata"
+      }, {
+        "meaning_en" : "of seed the waters were born",
+        "word_skt" : "रेतसः आपः",
+        "word_tl" : "retasaḥ āpaḥ"
+      }, {
+        "meaning_en" : "from the organ seed",
+        "word_skt" : "शिश्रात् रेतः",
+        "word_tl" : "śiśrāt retaḥ"
+      } ],
+      "hindi_explain" : "और 'परमात्म-चैतन्य' ने 'उसका' (पुरुष का) अभिचिन्तन किया तथा इस प्रकार अभिचिन्तित 'उसमें' से उसी प्रकार एक मुख फूटकर प्रकट हुआ जैसे सेने के बाद अण्डा फूट जाता है। मुख से 'वाक्शक्ति' एवं 'वाक्शक्ति' से अग्नि उत्पन्न हुई। नासाछिद्र फूटकर प्रकट हुए तथा नासाछिद्रों से 'प्राण' और 'प्राण' से वायु उत्पन्न हुआ। फिर आँखें फूटकर प्रकट हुई तथा आँखों से 'चक्षुशक्ति' और 'चक्षुशक्ति' से 'सूर्य' उत्पन्न हुआ। फिर दोनों कान फूटकर प्रकट हुए और कानों से 'श्रोत्रशक्ति' तथा 'श्रोत्रशक्ति' से दिशाऐं प्रकट हुई। त्वचा फूटकर प्रकट हुई और त्वचा से लोम तथा लोमों से औषधियाँ एवं समस्त वृक्ष-वनस्पतियाँ उत्पन्न हुईं। हृदय फूटकर प्रकट हुआ और हृदय से 'मन' तथा 'मन' से चन्द्रमा उत्पन्न हुआ। नाभि फूटकर प्रकट हुई और नाभि से 'अपानवायु' तथा 'अपानवायु' से 'मृत्यु' उत्पन्न हुई। शिश्न (सुखेन्द्रिय लिंग) फूटकर प्रकट हुआ और लिंग से रेतस् (वीर्य) तथा रेतस् (वीर्य) से जलों का जन्म हुआ।",
+      "meaning_en" : " Yea, the Spirit brooded over Him and of Him thus brooded over the mouth broke forth, as when an egg is hatched and breaketh; from the mouth brake Speech and of Speech fire was born. The nostrils brake forth and from the nostrils Breath and of Breath air was born. The eyes brake forth and from the eyes Sight and of Sight the Sun was born. The ears brake forth and from the ears Hearing and of Hearing the regions were born. The skin brake forth and from the skin hairs and from the hairs herbs of healing and all trees and plants were born. The heart brake forth and from the heart Mind and of Mind the moon was born. The navel brake forth and from the navel Apana and of Apana Death was born. The organ of pleasure brake forth and from the organ seed and of seed the waters were born.",
+      "n" : "8/2/1",
+      "p" : "8/1/3",
+      "sname_skt" : "प्रथमः खण्डः",
+      "sname_tl" : "prathamaḥ khaṇḍaḥ",
+      "u" : "4",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तमभ्यतपत्तस्याभितप्तस्य मुखं निरभिद्यत यथाऽण्डं मुखाद्वाग्वाचोऽग्निर्नासिके निरभिद्येतां नासिकाभ्यां प्राणः॥\nप्राणाद्वायुरक्षिणी निरभिद्येतमक्षीभ्यां चक्षुश्चक्षुष आदित्यः कर्णौ निरभिद्येतां कर्णाभ्यां श्रोत्रं श्रोत्राद्दिशस्त्वङ् निरभिद्यत त्वचो लोमानि लोमभ्य ओषधिवनस्पतयो हृदयं  निरभिद्यत हृदयान्मनो मनसश्चन्द्रमा नाभिर्निरभिद्यत नाभ्या अपानोऽपानान्मृत्युः शिश्नं निरभिद्यत शिश्नाद्रेतो रेतस आपः ॥",
+      "verse_tl" : "tamabhyatapattasyābhitaptasya mukhaṁ nirabhidyata yathā'ṇḍaṁ mukhādvāgvāco'gnirnāsike nirabhidyetāṁ nāsikābhyāṁ prāṇaḥ ||\nprāṇādvāyurakṣiṇī nirabhidyetamakṣībhyāṁ cakṣuścakṣuṣa ādityaḥ karṇau nirabhidyetāṁ karṇābhyāṁ śrotraṁ śrotrāddiśastvaṅ nirabhidyata tvaco lomāni lomabhya oṣadhivanaspatayo hṛdayaṁ  nirabhidyata hṛdayānmano manasaścandramā nābhirnirabhidyata nābhyā apāno'pānānmṛtyuḥ śiśnaṁ nirabhidyata śiśnādreto retasa āpaḥ ||"
+    } ]
+  }, {
+    "n" : "8/3",
+    "name_skt" : "द्वितीयोऽध्यायः",
+    "name_tl" : "dvitīyo'dhyāyaḥ",
+    "p" : "8/1",
+    "u" : "2",
+    "verses" : [ {
+      "anvaya_skt" : "सृष्टाः ताः एताः देवताः अस्मिन् महति अर्णवे प्रापतन्।  सः  तम् असनपिपासाभ्याम् अन्वावर्जत्। ताः एनम् अबृवन्  - नः आयतनं प्रजानीहि  यस्मिन् प्रतिष्ठिताः अन्नम् अदाम  इति ॥",
+      "anvaya_tl" : "sṛṣṭāḥ tāḥ etāḥ devatāḥ asmin mahati arṇave prāpatan| ( saḥ ) tam asanapipāsābhyām anvāvarjat| tāḥ enam abṛvan  - naḥ āyatanaṁ prajānīhi  yasmin pratiṣṭhitāḥ annam adāma  iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.1.mp3",
+      "auro_md" : "These were the Gods that He created; they fell into this great Ocean, and Hunger and Thirst leaped upon them. Then they said to Him, \"Command unto us an habitation that we may dwell secure and eat of food.\"",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "created",
+        "word_skt" : "सृष्टाः",
+        "word_tl" : "sṛṣṭāḥ"
+      }, {
+        "meaning_en" : "these were the Gods",
+        "word_skt" : "ताः एताः देवताः",
+        "word_tl" : "tāḥ etāḥ devatāḥ"
+      }, {
+        "meaning_en" : "into this great Ocean",
+        "word_skt" : "अस्मिन् महति अर्णवे",
+        "word_tl" : "asmin mahati arṇave"
+      }, {
+        "meaning_en" : "they fell",
+        "word_skt" : "प्रापतन्",
+        "word_tl" : "prāpatan"
+      }, {
+        "meaning_en" : "upon them",
+        "word_skt" : "तम्",
+        "word_tl" : "tam"
+      }, {
+        "meaning_en" : "Hunger and Thirst",
+        "word_skt" : "असनपिपासाभ्याम्",
+        "word_tl" : "asanapipāsābhyām"
+      }, {
+        "meaning_en" : "leaped",
+        "word_skt" : "अन्वावर्जत्",
+        "word_tl" : "anvāvarjat"
+      }, {
+        "meaning_en" : "they",
+        "word_skt" : "ताः",
+        "word_tl" : "tāḥ"
+      }, {
+        "meaning_en" : "said to Him",
+        "word_skt" : "एनम् अबृवन्",
+        "word_tl" : "enam abṛvan"
+      }, {
+        "meaning_en" : "command unto us",
+        "word_skt" : "नः प्रजानीहि",
+        "word_tl" : "naḥ prajānīhi"
+      }, {
+        "meaning_en" : "in which",
+        "word_skt" : "यस्मिन्",
+        "word_tl" : "yasmin"
+      }, {
+        "meaning_en" : "we may dwell secure",
+        "word_skt" : "प्रतिष्ठिताः",
+        "word_tl" : "pratiṣṭhitāḥ"
+      }, {
+        "meaning_en" : "and eat of food",
+        "word_skt" : "अन्नम् अदाम इति",
+        "word_tl" : "annam adāma iti"
+      } ],
+      "hindi_explain" : "'उसके' द्वारा रचे गये थे ये देवगण; ये इस 'महासागर' में गिर पड़े तथा 'क्षुधा' एवं 'पिपासा' के वशीभूत हो गये। तब उन्होंने 'उससे' कहा-'' आप हमारे लिए निवास स्थान निर्दिष्ट करिये जहाँ हम अवस्थित (प्रतिष्ठित) रह कर अन्न (भोजन) ग्रहण कर सकें।''",
+      "meaning_en" : " These were the Gods that He created; they fell into this great Ocean, and Hunger and Thirst leaped upon them. Then they said to Him, “Command unto us an habitation that we may dwell secure and eat of food.”",
+      "n" : "8/2/2",
+      "p" : "8/1/4",
+      "sname_skt" : "द्वितीयः खण्डः",
+      "sname_tl" : "dvitīyaḥ khaṇḍaḥ",
+      "u" : "1",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "ता एता देवताः सृष्टा अस्मिन्महत्यर्णवे प्रापतंस्तमशनापिपासाभ्यामन्ववार्जत्‌।\nता एनमब्रुवन्नायतनं नः प्रजानीहि यस्मिन् प्रतिष्ठिता अन्नमदामेति ॥",
+      "verse_tl" : "tā etā devatāḥ sṛṣṭā asminmahatyarṇave prāpataṁstamaśanāpipāsābhyāmanvavārjat |\ntā enamabruvannāyatanaṁ naḥ prajānīhi yasmin pratiṣṭhitā annamadāmeti ||"
+    }, {
+      "anvaya_skt" : "ताभ्यः गाम् आनयत्। ताः अबृवन्   - अयं न वै नः अलम्। ताभ्यः अश्वम् आनयत्। ताः अबृबन् अयं न वै नः अलम् ॥",
+      "anvaya_tl" : "tābhyaḥ gām ānayat| tāḥ abṛvan   - ayaṁ na vai naḥ alam| tābhyaḥ aśvam ānayat| tāḥ abṛban ayaṁ na vai naḥ alam ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.2.mp3",
+      "auro_md" : "He brought unto them the cow, but they said, \"Verily, it is not sufficient for us.\" He brought unto them the horse, but they said, \"Verily, it is not enough for us.\"",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "unto them or form them",
+        "word_skt" : "ताभ्यः",
+        "word_tl" : "tābhyaḥ"
+      }, {
+        "meaning_en" : "he brought the cow",
+        "word_skt" : "गाम् आनयत्",
+        "word_tl" : "gām ānayat"
+      }, {
+        "meaning_en" : "but they said",
+        "word_skt" : "ताः अबृवन्",
+        "word_tl" : "tāḥ abṛvan"
+      }, {
+        "meaning_en" : "it is",
+        "word_skt" : "अयम्",
+        "word_tl" : "ayam"
+      }, {
+        "meaning_en" : "not for us",
+        "word_skt" : "न वै नः",
+        "word_tl" : "na vai naḥ"
+      }, {
+        "meaning_en" : "sufficient",
+        "word_skt" : "अलम् इति",
+        "word_tl" : "alam iti"
+      }, {
+        "meaning_en" : "unto them",
+        "word_skt" : "ताभ्यः",
+        "word_tl" : "tābhyaḥ"
+      }, {
+        "meaning_en" : "the horse",
+        "word_skt" : "अश्वम्",
+        "word_tl" : "aśvam"
+      }, {
+        "meaning_en" : "he brought",
+        "word_skt" : "आनयत्",
+        "word_tl" : "ānayat"
+      }, {
+        "meaning_en" : "but they said",
+        "word_skt" : "ताः अबृबन्",
+        "word_tl" : "tāḥ abṛban"
+      }, {
+        "meaning_en" : "it is",
+        "word_skt" : "अयम्",
+        "word_tl" : "ayam"
+      }, {
+        "meaning_en" : "not for us",
+        "word_skt" : "न वै नः",
+        "word_tl" : "na vai naḥ"
+      }, {
+        "meaning_en" : "enough",
+        "word_skt" : "अलम् इति",
+        "word_tl" : "alam iti"
+      } ],
+      "hindi_explain" : "'वह' उनके लिए गौ लेकर आया किन्तु उन्होंने कहा ''वस्तुतः यह हमारे लिए कदापि पर्याप्त नहीं है ।'' ''वह' उनके लिए अश्व लेकर आया किन्तु वे बोले, ''वस्तुतः यह भी हमारे लिए पर्याप्त नहीं है।\" ",
+      "meaning_en" : " He brought unto them the cow, but they said, “Verily, it is not sufficient for us.” He brought unto them the horse, but they said, “Verily, it is not enough for us.”",
+      "n" : "8/2/3",
+      "p" : "8/2/1",
+      "sname_skt" : "द्वितीयः खण्डः",
+      "sname_tl" : "dvitīyaḥ khaṇḍaḥ",
+      "u" : "2",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "ताभ्यो गामानयत्ता अब्रुवन्न वै नोऽयमलमिति।\nताभ्योऽश्वमानयत्ता अब्रुवन्न वै नोऽयमलमिति ॥",
+      "verse_tl" : "tābhyo gāmānayattā abruvanna vai no'yamalamiti |\ntābhyo'śvamānayattā abruvanna vai no'yamalamiti ||"
+    }, {
+      "anvaya_skt" : "ताभ्यः पुरुषम् आनयत्। ताः अबृवन्  - सुकृतं बत इति। पुरुषः वाव सुकृतं  सः  ताः अब्रवीत्  - यथायतनं प्रविशत इति ॥",
+      "anvaya_tl" : "tābhyaḥ puruṣam ānayat| tāḥ abṛvan  - sukṛtaṁ bata iti| puruṣaḥ vāva sukṛtaṁ ( saḥ ) tāḥ abravīt  - yathāyatanaṁ praviśata iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.3.mp3",
+      "auro_md" : "He brought unto them Man, and they said, \"O well fashioned truly! Man indeed is well and beautifully made.\" Then the Spirit said unto them, \"Enter ye in each according to his habitation.\"",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "unto them",
+        "word_skt" : "ताभ्यः",
+        "word_tl" : "tābhyaḥ"
+      }, {
+        "meaning_en" : "Man",
+        "word_skt" : "पुरुषम्",
+        "word_tl" : "puruṣam"
+      }, {
+        "meaning_en" : "he brought",
+        "word_skt" : "आनयत्",
+        "word_tl" : "ānayat"
+      }, {
+        "meaning_en" : "they said",
+        "word_skt" : "ताः अबृवन्",
+        "word_tl" : "tāḥ abṛvan"
+      }, {
+        "meaning_en" : "truly well fashioned",
+        "word_skt" : "सुकृतम् बत इति",
+        "word_tl" : "sukṛtam bata iti"
+      }, {
+        "meaning_en" : "man indeed is well and beautifully made",
+        "word_skt" : "पुरुषः वाव सुकृतम्",
+        "word_tl" : "puruṣaḥ vāva sukṛtam"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "said unto them",
+        "word_skt" : "ताः अब्रवीत्",
+        "word_tl" : "tāḥ abravīt"
+      }, {
+        "meaning_en" : "in each according to his habitation",
+        "word_skt" : "यथायतनम्",
+        "word_tl" : "yathāyatanam"
+      }, {
+        "meaning_en" : "enter",
+        "word_skt" : "प्रविशत इति",
+        "word_tl" : "praviśata iti"
+      } ],
+      "hindi_explain" : "'वह' उनके लिए 'मानव' लेकर आया और उन्होंने कहा....''अहो! वास्तव में यह सुन्दरता से बनाया हुआ है! मानव सचमुच बहुत सुन्दरता और पटुता से रचा गया है।'' तब 'परमात्म-चैतन्य' ने उनसे (देवों से) ''तुम सब अपने-अपने निवासस्थान के अनुसार इसमें प्रवेश करो।\"",
+      "meaning_en" : " He brought unto them Man, and they said, “O well fashioned truly!Man indeed is well and beautifully made.” Then the Spirit said unto them, “Enter ye in each according to his habitation.”",
+      "n" : "8/2/4",
+      "p" : "8/2/2",
+      "sname_skt" : "द्वितीयः खण्डः",
+      "sname_tl" : "dvitīyaḥ khaṇḍaḥ",
+      "u" : "3",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "ताभ्यो पुरुषमानयत्ता अब्रुवन्‌ सुकृतं बतेति पुरुषो वाव सुकृतम्‌।\nता अब्रवीद्यथायतनं प्रविशतेति ॥",
+      "verse_tl" : "tābhyo puruṣamānayattā abruvan sukṛtaṁ bateti puruṣo vāva sukṛtam |\ntā abravīdyathāyatanaṁ praviśateti ||"
+    }, {
+      "anvaya_skt" : "अग्निः वाक् भुत्वा मुखं प्राविशत्। वायुः प्राणः भूत्वा नासिके प्राविशत्। आदित्यः चक्षुः भूत्वा अक्षिणी प्राविशत्। दिशः श्रोत्रं भूत्वा कर्णौ प्राविशत्। ओषधिवनस्पतयः लोमानि भूत्वा त्वचं प्राविशत्। चन्द्रमाः मनः भूत्वा हृदयं प्राविशत्। मृत्युः अपानः भूत्वा नाभिं प्राविशत्। आपः रेतः भूत्वा शिश्नं प्राविशन् ॥",
+      "anvaya_tl" : "agniḥ vāk bhutvā mukhaṁ prāviśat| vāyuḥ prāṇaḥ bhūtvā nāsike prāviśat| ādityaḥ cakṣuḥ bhūtvā akṣiṇī prāviśat| diśaḥ śrotraṁ bhūtvā karṇau prāviśat| oṣadhivanaspatayaḥ lomāni bhūtvā tvacaṁ prāviśat| candramāḥ manaḥ bhūtvā hṛdayaṁ prāviśat| mṛtyuḥ apānaḥ bhūtvā nābhiṁ prāviśat| āpaḥ retaḥ bhūtvā śiśnaṁ prāviśan ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.4.mp3",
+      "auro_md" : "Fire became Speech and entered into the mouth; Air became Breath and entered into the nostrils; the Sun became Sight and entered into the eyes; the Quarters became Hearing and entered into the ears; Herbs of healing and the plants and trees became Hairs and entered into the skin; the Moon became Mind and entered into the heart; Death became Apana, the lower breathing and entered into the navel; the Waters became Seed and entered into the organ.",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "Fire",
+        "word_skt" : "अग्निः",
+        "word_tl" : "agniḥ"
+      }, {
+        "meaning_en" : "became Speech and",
+        "word_skt" : "वाक् भुत्वा",
+        "word_tl" : "vāk bhutvā"
+      }, {
+        "meaning_en" : "entered into the mouth",
+        "word_skt" : "मुखम् प्राविशत्",
+        "word_tl" : "mukham prāviśat"
+      }, {
+        "meaning_en" : "Air",
+        "word_skt" : "वायुः",
+        "word_tl" : "vāyuḥ"
+      }, {
+        "meaning_en" : "became Breath and",
+        "word_skt" : "प्राणः भूत्वा",
+        "word_tl" : "prāṇaḥ bhūtvā"
+      }, {
+        "meaning_en" : "entered into the nostrils",
+        "word_skt" : "नासिके प्राविशत्",
+        "word_tl" : "nāsike prāviśat"
+      }, {
+        "meaning_en" : "the Sun",
+        "word_skt" : "आदित्यः",
+        "word_tl" : "ādityaḥ"
+      }, {
+        "meaning_en" : "became Sight and",
+        "word_skt" : "चक्षुः भूत्वा",
+        "word_tl" : "cakṣuḥ bhūtvā"
+      }, {
+        "meaning_en" : "entered into the eyes",
+        "word_skt" : "अक्षिणी प्राविशत्",
+        "word_tl" : "akṣiṇī prāviśat"
+      }, {
+        "meaning_en" : "the Quarters",
+        "word_skt" : "दिशः",
+        "word_tl" : "diśaḥ"
+      }, {
+        "meaning_en" : "became Hearing and",
+        "word_skt" : "श्रोत्रम् भूत्वा",
+        "word_tl" : "śrotram bhūtvā"
+      }, {
+        "meaning_en" : "entered into the ears",
+        "word_skt" : "कर्णौ प्राविशत्",
+        "word_tl" : "karṇau prāviśat"
+      }, {
+        "meaning_en" : "Herbs of healing and the plants and trees",
+        "word_skt" : "ओषधिवनस्पतयः",
+        "word_tl" : "oṣadhivanaspatayaḥ"
+      }, {
+        "meaning_en" : "became Hairs and",
+        "word_skt" : "लोमानि भूत्वा",
+        "word_tl" : "lomāni bhūtvā"
+      }, {
+        "meaning_en" : "entered into the skin",
+        "word_skt" : "त्वचम् प्राविशत्",
+        "word_tl" : "tvacam prāviśat"
+      }, {
+        "meaning_en" : "the Moon",
+        "word_skt" : "चन्द्रमाः",
+        "word_tl" : "candramāḥ"
+      }, {
+        "meaning_en" : "became Mind and",
+        "word_skt" : "मनः भूत्वा",
+        "word_tl" : "manaḥ bhūtvā"
+      }, {
+        "meaning_en" : "entered into the heart",
+        "word_skt" : "हृदयम् प्राविशत्",
+        "word_tl" : "hṛdayam prāviśat"
+      }, {
+        "meaning_en" : "Death",
+        "word_skt" : "मृत्युः",
+        "word_tl" : "mṛtyuḥ"
+      }, {
+        "meaning_en" : "became Apana, the lower breathing, and",
+        "word_skt" : "अपानः भूत्वा",
+        "word_tl" : "apānaḥ bhūtvā"
+      }, {
+        "meaning_en" : "entered into the navel",
+        "word_skt" : "नाभिम् प्राविशत्",
+        "word_tl" : "nābhim prāviśat"
+      }, {
+        "meaning_en" : "the Waters",
+        "word_skt" : "आपः",
+        "word_tl" : "āpaḥ"
+      }, {
+        "meaning_en" : "became Seed and",
+        "word_skt" : "रेतः भूत्वा",
+        "word_tl" : "retaḥ bhūtvā"
+      }, {
+        "meaning_en" : "entered into the organ",
+        "word_skt" : "शिश्नम् प्राविशन्",
+        "word_tl" : "śiśnam prāviśan"
+      } ],
+      "hindi_explain" : "'अग्नि' 'वाक्शक्ति' बनकर मुख में प्रविष्ट हो गया; 'वायु' 'प्राण' बनकर नासाछिद्रों में प्रविष्ट हो गया; 'सूर्य' 'चक्षुशक्ति' बनकर आँखों में हो गया; 'दिशाऐं' 'श्रोत्र' बनकर कानों में प्रविष्ट हो गयी; 'औषधियाँ' तथा वृक्ष-वनस्पतियाँ 'लोम' बनकर त्वचा में प्रविष्ट हो गयीं; 'चन्द्रमा' 'मन' बनकर हृदय में प्रविष्ट हो गया; 'मृत्यु' 'अपान', निम्नतर वायु बनकर नाभि में प्रविष्ट हो गयी; 'जल' 'रेतस् ' (वीर्य) बनकर (लिंग) में प्रविष्ट हो गये।",
+      "meaning_en" : " Fire became Speech and entered into the mouth; Air became Breath and entered into the nostrils; the Sun became Sight and entered into the eyes; the Quarters became Hearing and entered into the ears; Herbs of healing and the plants and trees became Hairs and entered into the skin; the Moon became Mind and entered into the heart; Death became Apana, the lower breathing, and entered into the navel; the Waters became Seed and entered into the organ.",
+      "n" : "8/2/5",
+      "p" : "8/2/3",
+      "sname_skt" : "द्वितीयः खण्डः",
+      "sname_tl" : "dvitīyaḥ khaṇḍaḥ",
+      "u" : "4",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "अग्निर्वाग्भूत्वा मुखं प्राविशद्वायुः प्राणो भूत्वा नासिके प्राविशदादित्यश्चक्षुर्भूत्वा अक्षिणी प्राविशाद्दिशः श्रोत्रं भूत्वा कर्णौ प्राविशन्नोषधिवनस्पतयो लोमानि भूत्वा त्वचंप्राविशंश्चन्द्रमा मनो भूत्वा हृदयं प्राविशन्मृत्युरपानो भूत्वा नाभिं प्राविशदापो रेतो भूत्वा शिश्नं प्राविशन्‌ ॥",
+      "verse_tl" : "agnirvāgbhūtvā mukhaṁ prāviśadvāyuḥ prāṇo bhūtvā nāsike prāviśadādityaścakṣurbhūtvā akṣiṇī prāviśāddiśaḥ śrotraṁ bhūtvā karṇau prāviśannoṣadhivanaspatayo lomāni bhūtvā tvacaṁprāviśaṁścandramā mano bhūtvā hṛdayaṁ prāviśanmṛtyurapāno bhūtvā nābhiṁ prāviśadāpo reto bhūtvā śiśnaṁ prāviśan ||"
+    }, {
+      "anvaya_skt" : "तम् अशनापिपासे आबाभ्याम् आयतनम् अभिप्रजानीहि इति अब्रूताम्। सः ते अब्रवीत् एतासु देवतासु एव वाम् आभजामि  एतासु भागिनौ करोमि इति। तस्मात् यस्यै कस्यै च देवतायै हविः गृह्यते अशनापिपासे अस्याम् भागिन्यौ एव भवतः ॥",
+      "anvaya_tl" : "tam aśanāpipāse ābābhyām āyatanam abhiprajānīhi iti abrūtām| saḥ te abravīt etāsu devatāsu eva vām ābhajāmi  etāsu bhāginau karomi iti| tasmāt yasyai kasyai ca devatāyai haviḥ gṛhyate aśanāpipāse asyām bhāginyau eva bhavataḥ ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.5.mp3",
+      "auro_md" : "Then Hunger and Thirst said unto the Spirit, \"Unto us too command an habitation.\" But He said unto them, \"Even among these gods do I apportion you; lo! I have made you sharers in their godhead.\" Therefore to whatever god the oblation is offered, Hunger and Thirst surely have their share in the offering.",
+      "cname_skt" : "प्रथमोऽध्यायः",
+      "cname_tl" : "prathamo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "unto the Spirit",
+        "word_skt" : "तम्",
+        "word_tl" : "tam"
+      }, {
+        "meaning_en" : "then Hunger and Thirst",
+        "word_skt" : "अशनापिपासे",
+        "word_tl" : "aśanāpipāse"
+      }, {
+        "meaning_en" : "unto us",
+        "word_skt" : "आबाभ्याम्",
+        "word_tl" : "ābābhyām"
+      }, {
+        "meaning_en" : "command an habitation",
+        "word_skt" : "अभिप्रजानीहि इति",
+        "word_tl" : "abhiprajānīhi iti"
+      }, {
+        "meaning_en" : "said",
+        "word_skt" : "अब्रूताम्",
+        "word_tl" : "abrūtām"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "said unto them",
+        "word_skt" : "ते अब्रवीत्",
+        "word_tl" : "te abravīt"
+      }, {
+        "meaning_en" : "even among these gods",
+        "word_skt" : "एतासु देवतासु एव",
+        "word_tl" : "etāsu devatāsu eva"
+      }, {
+        "meaning_en" : "do I apportion you",
+        "word_skt" : "वाम् आभजामि",
+        "word_tl" : "vām ābhajāmi"
+      }, {
+        "meaning_en" : "in their godhead",
+        "word_skt" : "एतासु",
+        "word_tl" : "etāsu"
+      }, {
+        "meaning_en" : "I have made you sharers",
+        "word_skt" : "भागिनौ करोमि इति",
+        "word_tl" : "bhāginau karomi iti"
+      }, {
+        "meaning_en" : "therefore",
+        "word_skt" : "तस्मात्",
+        "word_tl" : "tasmāt"
+      }, {
+        "meaning_en" : "to whatever god",
+        "word_skt" : "यस्यै कस्यै च देवतायै",
+        "word_tl" : "yasyai kasyai ca devatāyai"
+      }, {
+        "meaning_en" : "the oblation is offered",
+        "word_skt" : "हविः गृह्यते",
+        "word_tl" : "haviḥ gṛhyate"
+      }, {
+        "meaning_en" : "Hunger and Thirst",
+        "word_skt" : "अशनापिपासे",
+        "word_tl" : "aśanāpipāse"
+      }, {
+        "meaning_en" : "in the offering",
+        "word_skt" : "अस्याम्",
+        "word_tl" : "asyām"
+      }, {
+        "meaning_en" : "surely have their share",
+        "word_skt" : "भागिन्यौ एव भवतः आयतनम्",
+        "word_tl" : "bhāginyau eva bhavataḥ āyatanam"
+      } ],
+      "hindi_explain" : "तब 'क्षुधा' तथा 'पिपासा' ने 'परमात्म-चेतन्य' से कहा, ''हमारे लिए भी निवास-स्थान का निर्देश करिये।'' किन्तु 'उसने' इनसे कहा, \"इन देवों में भी मैं तुम्हें भाग देता हूँ; लो, इनके देवत्व में भी मैंने तुम्हें भागीदार बना दिया।'' अतः जिस किसी भी देवता के लिए हवि अर्पित की जाती है, 'क्षुधा' तथा 'पिपासा' का निश्चित रूप से उस हवि में भाग होता है। ",
+      "meaning_en" : " Then Hunger and Thirst said unto the Spirit, “Unto us too command an habitation.” But He said unto them, “Even among these gods do I apportion you; lo! I have made you sharers in their godhead.” Therefore to whatever god the oblation is offered, Hunger and Thirst surely have their share in the offering.",
+      "n" : "8/3/1",
+      "p" : "8/2/4",
+      "sname_skt" : "द्वितीयः खण्डः",
+      "sname_tl" : "dvitīyaḥ khaṇḍaḥ",
+      "u" : "5",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तमशनायापिपासे अब्रूतामावाभ्यामभिप्रजानीहीति।\nते अब्रवीदेतास्वेव वां देवतास्वाभजाम्येतासु भागिन्न्यौ करोमीति।\nतस्माद्यस्यै कस्यै च देवतायै हविगृ।\nर्ह्यते भागिन्यावेवास्यामशनायापिपासे भवतः ॥",
+      "verse_tl" : "tamaśanāyāpipāse abrūtāmāvābhyāmabhiprajānīhīti|\nte abravīdetāsveva vāṁ devatāsvābhajāmyetāsu bhāginnyau karomīti |\ntasmādyasyai kasyai ca devatāyai havigṛ|\nrhyate bhāginyāvevāsyāmaśanāyāpipāse bhavataḥ ||"
+    } ]
+  }, {
+    "n" : "8/4",
+    "name_skt" : "तृतीयोऽध्यायः",
+    "name_tl" : "tṛtīyo'dhyāyaḥ",
+    "p" : "8/2",
+    "u" : "3",
+    "verses" : [ {
+      "anvaya_skt" : "सः इक्षत  - इमे नु लोकाः च लोकपालाः च। एभ्यः अन्नं सृजै इति ॥",
+      "anvaya_tl" : "saḥ ikṣata  - ime nu lokāḥ ca lokapālāḥ ca | ebhyaḥ annaṁ sṛjai iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.1.mp3",
+      "auro_md" : "\"These verily are my worlds and their guardians; and now will I make me food for these.\"",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Spirit thought",
+        "word_skt" : "सः इक्षत",
+        "word_tl" : "saḥ ikṣata"
+      }, {
+        "meaning_en" : "these verily",
+        "word_skt" : "इमे नु",
+        "word_tl" : "ime nu"
+      }, {
+        "meaning_en" : "my worlds",
+        "word_skt" : "लोकाः च",
+        "word_tl" : "lokāḥ ca"
+      }, {
+        "meaning_en" : "and their guardians",
+        "word_skt" : "लोकपालाः च",
+        "word_tl" : "lokapālāḥ ca"
+      }, {
+        "meaning_en" : "for these",
+        "word_skt" : "एभ्यः",
+        "word_tl" : "ebhyaḥ"
+      }, {
+        "meaning_en" : "food",
+        "word_skt" : "अन्नम्",
+        "word_tl" : "annam"
+      }, {
+        "meaning_en" : "and now will I make me",
+        "word_skt" : "सृजै इति",
+        "word_tl" : "sṛjai iti"
+      } ],
+      "hindi_explain" : "'परमात्म-चैतन्य' ने विचार किया, ''अवश्य ही ये मेरे लोक तथा उनके लोकपाल हैं; और अब मैं स्वयं को इनके लिए अन्नरूप में रचता हूँ।''",
+      "meaning_en" : " The Spirit thought, “These verily are my worlds and their guardians; and now will I make me food for these.”",
+      "n" : "8/3/2",
+      "p" : "8/2/5",
+      "u" : "1",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स ईक्षतेमे नु लोकाश्च लोकपालाश्चान्नमेभ्यः सृजा इति ॥",
+      "verse_tl" : "sa īkṣateme nu lokāśca lokapālāścānnamebhyaḥ sṛjā iti ||"
+    }, {
+      "anvaya_skt" : "सः अपः अभ्यतपत् अभितप्ताभ्यः ताभ्यः मूर्तिः अजायत  या वै सा मूर्तिः अजायत अन्नं वै तत् ॥",
+      "anvaya_tl" : "saḥ apaḥ abhyatapat abhitaptābhyaḥ tābhyaḥ mūrtiḥ ajāyata  yā vai sā mūrtiḥ ajāyata annaṁ vai tat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.2.mp3",
+      "auro_md" : "The Spirit brooded in might upon the waters and from the waters brooded mightily over, Form was born. Lo, all this that was born as form, is no other than Food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Spirit",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "upon the waters",
+        "word_skt" : "अपः",
+        "word_tl" : "apaḥ"
+      }, {
+        "meaning_en" : "brooded in might",
+        "word_skt" : "अभ्यतपत्",
+        "word_tl" : "abhyatapat"
+      }, {
+        "meaning_en" : "from the waters brooded mightily over",
+        "word_skt" : "अभितप्ताभ्यः ताभ्यः",
+        "word_tl" : "abhitaptābhyaḥ tābhyaḥ"
+      }, {
+        "meaning_en" : "form",
+        "word_skt" : "मूर्तिः",
+        "word_tl" : "mūrtiḥ"
+      }, {
+        "meaning_en" : "was born",
+        "word_skt" : "अजायत",
+        "word_tl" : "ajāyata"
+      }, {
+        "meaning_en" : "all this form",
+        "word_skt" : "या वै सा मूर्तिः",
+        "word_tl" : "yā vai sā mūrtiḥ"
+      }, {
+        "meaning_en" : "that was born",
+        "word_skt" : "अजायत",
+        "word_tl" : "ajāyata"
+      }, {
+        "meaning_en" : "is verily the food",
+        "word_skt" : "अन्नम् वै तत्",
+        "word_tl" : "annam vai tat"
+      } ],
+      "hindi_explain" : "'परमात्म-चैतन्य' ने जलों पर शक्तिपूर्वक अभिचिन्तन किया तथा शक्तिपूर्वक अभिचिन्तित (अभितप्त) जलों से मूर्तरूप का जन्म हुआ। और, यह सब जो भी मूर्तरूप में उत्पन्न हुआ है, वह अन्न के अतिरिक्त अन्य कुछ नहीं है।",
+      "meaning_en" : " The Spirit brooded in might upon the waters and from the waters brooded mightily over Form was born. Lo, all this that was born as form, is no other than Food.",
+      "n" : "8/3/3",
+      "p" : "8/3/1",
+      "u" : "2",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "सोऽपोऽभ्यतपत् ताभ्योऽभितप्ताभ्यो मूर्तिरजायत।\nया वै सा मूर्तिरजायतान्नं वै तत्‌ ॥",
+      "verse_tl" : "so'po'bhyatapat tābhyo'bhitaptābhyo mūrtirajāyata |\nyā vai sā mūrtirajāyatānnaṁ vai tat ||"
+    }, {
+      "anvaya_skt" : "तत् एतत् अभिसृष्टं अन्नम् पराक् अत्यजिघांसत्। तत् वाचा अजिघृक्षत्  तत् वाचा ग्रहीतुम् न अशक्नोत्। सः यत् ह वाचा एनत् अग्रहैष्यत् अन्नम् अभिव्याहृत्य ह एव अत्रप्स्यत् ॥",
+      "anvaya_tl" : "tat etat abhisṛṣṭaṁ annam parāk atyajighāṁsat| tat vācā ajighṛkṣat  tat vācā grahītum na aśaknot| saḥ yat ha vācā enat agrahaiṣyat annam abhivyāhṛtya ha eva atrapsyat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.3.mp3",
+      "auro_md" : "Food being created fled back from his grasp. By speech He would have seized it, but he could not seize it by speech. Had he seized it by speech, then would a man be satisfied by merely speaking of food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "this",
+        "word_skt" : "तत् एतत्",
+        "word_tl" : "tat etat"
+      }, {
+        "meaning_en" : "food being created",
+        "word_skt" : "अभिसृष्टम् अन्नम्",
+        "word_tl" : "abhisṛṣṭam annam"
+      }, {
+        "meaning_en" : "fled back from his grasp",
+        "word_skt" : "पराक् अत्यजिघांसत्",
+        "word_tl" : "parāk atyajighāṁsat"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by speech",
+        "word_skt" : "वाचा",
+        "word_tl" : "vācā"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "but he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by speech",
+        "word_skt" : "वाचा",
+        "word_tl" : "vācā"
+      }, {
+        "meaning_en" : "to seize",
+        "word_skt" : "ग्रहीतुम्",
+        "word_tl" : "grahītum"
+      }, {
+        "meaning_en" : "was not able",
+        "word_skt" : "न अशक्नोत्",
+        "word_tl" : "na aśaknot"
+      }, {
+        "meaning_en" : "it by speech",
+        "word_skt" : "वाचा",
+        "word_tl" : "vācā"
+      }, {
+        "meaning_en" : "had he seized it",
+        "word_skt" : "सः यत् ह एनत् अग्रहैष्यत्",
+        "word_tl" : "saḥ yat ha enat agrahaiṣyat"
+      }, {
+        "meaning_en" : "then by merely speaking food",
+        "word_skt" : "अन्नम् अभिव्याहृत्य एव ह",
+        "word_tl" : "annam abhivyāhṛtya eva ha"
+      }, {
+        "meaning_en" : "would a man be satisfied",
+        "word_skt" : "अत्रप्स्यत्",
+        "word_tl" : "atrapsyat"
+      } ],
+      "hindi_explain" : "सृष्ट अन्न ने उसकी पकड़ से सरक कर पीछे को भागना चाहा। 'वाक्' के द्वारा 'उसने' उसे पकड़ना चाहा, किन्तु 'वाक्' से वह उसे नहीं पकड़ सका। यदि 'वह' उसे 'वाक्' से पकड़ पाता तो मानव भोजन के विषय में कथन करने से ही तृप्त हो जाता।",
+      "meaning_en" : " Food being created fled back from his grasp. By speech He would have seized it, but He could not seize it by speech. Had He seized it by speech, then would a man be satisfied by merely speaking food.",
+      "n" : "8/3/4",
+      "p" : "8/3/2",
+      "u" : "3",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तदेनदभिसृष्टं पराङ्त्यजिघांसत्।\nतद्वाचाऽजिघृक्षत्‌ तन्नाशक्नोद्वाचा ग्रहीतुम्‌।\nस यद्धैनद्वाचाग्रहैष्यदभिव्याहृत्य हैवान्नमत्रप्स्यत्‌ ॥",
+      "verse_tl" : "tadenadabhisṛṣṭaṁ parāṅtyajighāṁsat |\ntadvācā'jighṛkṣat tannāśaknodvācā grahītum |\nsa yaddhainadvācāgrahaiṣyadabhivyāhṛtya haivānnamatrapsyat ||"
+    }, {
+      "anvaya_skt" : "तत् प्राणेन अजिघृक्षत्। तत् प्राणेन ग्रहीतुम् न अशक्नोत्। सः यत् ह प्राणेन एनत् अग्रहैसत् अन्नम् अभिप्राण्य ह एव अत्रप्स्यत् ॥",
+      "anvaya_tl" : "tat prāṇena ajighṛkṣat| tat prāṇena grahītum na aśaknot| saḥ yat ha prāṇena enat agrahaisat annam abhiprāṇya ha eva atrapsyat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.4.mp3",
+      "auro_md" : "By the breath He would have seized it, but He could not seize it by the breath. Had He seized it by the breath, then would a man be satisfied by merely breathing food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the breath",
+        "word_skt" : "प्राणेन",
+        "word_tl" : "prāṇena"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "but he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the breath",
+        "word_skt" : "प्राणेन",
+        "word_tl" : "prāṇena"
+      }, {
+        "meaning_en" : "could not seize it",
+        "word_skt" : "ग्रहीतुम् न अशक्नोत्",
+        "word_tl" : "grahītum na aśaknot"
+      }, {
+        "meaning_en" : "it by the breath",
+        "word_skt" : "प्राणेन",
+        "word_tl" : "prāṇena"
+      }, {
+        "meaning_en" : "had he seized",
+        "word_skt" : "सः यत् ह एनत् अग्रहैष्यत्",
+        "word_tl" : "saḥ yat ha enat agrahaiṣyat"
+      }, {
+        "meaning_en" : "by merely breathing food",
+        "word_skt" : "अन्नम् अभिप्राण्य ह एव",
+        "word_tl" : "annam abhiprāṇya ha eva"
+      }, {
+        "meaning_en" : "then would a man be satisfied",
+        "word_skt" : "अत्रप्स्यत्",
+        "word_tl" : "atrapsyat"
+      } ],
+      "hindi_explain" : "'उसने' प्राण (श्वास) के द्वारा उसे पकड़ना चाहा, किन्तु 'वह' प्राण से उसे नहीं पकड़ सका। यदि 'वह' उसे प्राण से पकड़ पाता तो मानव भोजन को केवल सूँघने से ही तृप्त हो जाता।",
+      "meaning_en" : " By the breath He would have seized it, but He could not seize it by the breath. Had He seized it by the breath, then would a man be satisfied by merely breathing food.",
+      "n" : "8/3/5",
+      "p" : "8/3/3",
+      "u" : "4",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तत् प्राणेनाजिघृक्षत्‌ तन्नाशक्नोत् प्राणेन ग्रहीतुम्।\nस यद्धैनत्प्राणेनाग्रहैष्यदभिप्राण्य हैवान्नमत्रप्स्यत्‌ ॥",
+      "verse_tl" : "tat prāṇenājighṛkṣat tannāśaknot prāṇena grahītum|\nsa yaddhainatprāṇenāgrahaiṣyadabhiprāṇya haivānnamatrapsyat ||"
+    }, {
+      "anvaya_skt" : "तत् चक्षुषा अजिघृक्षत्। तत् चक्षुषा ग्रहीतुं न अशक्नोत्। सः यत् ह चक्षुषा अग्रहैष्यत्  अन्नं दृष्ट्वा ह एव अत्रप्स्यत् ॥",
+      "anvaya_tl" : "tat cakṣuṣā ajighṛkṣat| tat cakṣuṣā grahītuṁ na aśaknot| saḥ yat ha cakṣuṣā agrahaiṣyat  annaṁ dṛṣṭvā ha eva atrapsyat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.5.mp3",
+      "auro_md" : "By the eye He would have seized it, but He could not seize it by the eye. Had He seized it by the eye, then would a man be satisfied by merely seeing food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the eye",
+        "word_skt" : "चक्षुषा",
+        "word_tl" : "cakṣuṣā"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "but he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the eye",
+        "word_skt" : "चक्षुषा",
+        "word_tl" : "cakṣuṣā"
+      }, {
+        "meaning_en" : "could not seize it",
+        "word_skt" : "ग्रहीतुम् न अशक्नोत्",
+        "word_tl" : "grahītum na aśaknot"
+      }, {
+        "meaning_en" : "by the eye",
+        "word_skt" : "चक्षुषा",
+        "word_tl" : "cakṣuṣā"
+      }, {
+        "meaning_en" : "had he seized it",
+        "word_skt" : "सः यत् ह एनत् अग्रहैष्यत्",
+        "word_tl" : "saḥ yat ha enat agrahaiṣyat"
+      }, {
+        "meaning_en" : "by merely seeing food",
+        "word_skt" : "अन्नम् दृष्ट्वा ह एव",
+        "word_tl" : "annam dṛṣṭvā ha eva"
+      }, {
+        "meaning_en" : "would a man be satisfied",
+        "word_skt" : "अत्रप्स्यत्",
+        "word_tl" : "atrapsyat"
+      } ],
+      "hindi_explain" : "'उसने' उसे चक्षु से पकड़ना चाहा, किन्तु 'वह' उसे चक्षु से नहीं पकड़ सका। यदि 'वह' उसे चक्षु से पकड़ पाता तो मानव भोजन को केवल देखने से तृप्त हो जाता।",
+      "meaning_en" : " By the eye He would have seized it, but He could not seize it by the eye. Had He seized it by the eye, then would a man be satisfied by merely seeing food.",
+      "n" : "8/3/6",
+      "p" : "8/3/4",
+      "u" : "5",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तच्चक्षुषाऽजिघृक्षत्‌ तन्नाशक्नोच्चक्षुषा ग्रहीतुम्।\nस यद्धैनच्चक्षुषाग्रहैष्यद् दृष्ट्वा हैवानमत्रप्स्यत्‌ ॥",
+      "verse_tl" : "taccakṣuṣā'jighṛkṣat tannāśaknoccakṣuṣā grahītum|\nsa yaddhainaccakṣuṣāgrahaiṣyad dṛṣṭvā haivānamatrapsyat ||"
+    }, {
+      "anvaya_skt" : "तत् श्रोत्रेण अजिघृक्षत्। तत् श्रोत्रेण ग्रहीतुं न अशक्नोत्। सः यत् ह एनत् श्रोत्रेण अग्रहैष्यत्  अन्नम् श्रुत्वा ह एव अत्रप्स्यत् ॥",
+      "anvaya_tl" : "tat śrotreṇa ajighṛkṣat| tat śrotreṇa grahītuṁ na aśaknot| saḥ yat ha enat śrotreṇa agrahaiṣyat  annam śrutvā ha eva atrapsyat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.6.mp3",
+      "auro_md" : "By the ear He would have seized it, but He could not seize it by the ear. Had He seized it by the ear, then would a man be satisfied by merely hearing food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the ear",
+        "word_skt" : "श्रोत्रेण",
+        "word_tl" : "śrotreṇa"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "but he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the ear",
+        "word_skt" : "श्रोत्रेण",
+        "word_tl" : "śrotreṇa"
+      }, {
+        "meaning_en" : "could not seize it",
+        "word_skt" : "ग्रहीतुम् न अशक्नोत्",
+        "word_tl" : "grahītum na aśaknot"
+      }, {
+        "meaning_en" : "by the ear",
+        "word_skt" : "श्रोत्रेण",
+        "word_tl" : "śrotreṇa"
+      }, {
+        "meaning_en" : "had he seized it",
+        "word_skt" : "सः यत् ह एनत् अग्रहैष्यत्",
+        "word_tl" : "saḥ yat ha enat agrahaiṣyat"
+      }, {
+        "meaning_en" : "by merely hearing food",
+        "word_skt" : "अन्नम् श्रुत्वा ह एव",
+        "word_tl" : "annam śrutvā ha eva"
+      }, {
+        "meaning_en" : "then would a man be satisfied",
+        "word_skt" : "अत्रप्स्यत्",
+        "word_tl" : "atrapsyat"
+      } ],
+      "hindi_explain" : "'उसने' श्रोत्र से उसे पकड़ना चाहा, किन्तु 'वह' उसे श्रोत्र से नहीं पकड़ सका। यदि वह उसे श्रोत्र से पकड़ पाता तो मानव भोजन के सम्बन्ध में सुनने से ही तृप्त हो जाता।",
+      "meaning_en" : " By the ear He would have seized it, but He could not seize it by the ear. Had He seized it by the ear, then would a man be satisfied by merely hearing food.",
+      "n" : "8/3/7",
+      "p" : "8/3/5",
+      "u" : "6",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तच्छ्रोत्रेणाजिघृक्षत्‌ तन्नाशक्नोच्छ्रोत्रेण ग्रहीतुं स यद्धैनच्छ्रोतेणाग्रहैष्यच्छ्रुत्वा हैवान्नमत्रप्स्यत्‌ ॥",
+      "verse_tl" : "tacchrotreṇājighṛkṣat tannāśaknocchrotreṇa grahītuṁ sa yaddhainacchroteṇāgrahaiṣyacchrutvā haivānnamatrapsyat ||"
+    }, {
+      "anvaya_skt" : "तत् त्वचा अजिघृक्षत्। तत् त्वचा ग्रहीतुम् न अशक्नोत्। सः यत् ह एनं त्वचा अग्रहैष्यत् अन्नम् स्पृष्ट्वा ह एव अत्रप्स्यत् ॥",
+      "anvaya_tl" : "tat tvacā ajighṛkṣat| tat tvacā grahītum na aśaknot| saḥ yat ha enaṁ tvacā agrahaiṣyat annam spṛṣṭvā ha eva atrapsyat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.7.mp3",
+      "auro_md" : "By the skin He would have seized it, but He could not seize it by the skin. Had He seized it by the skin, then would a man be satisfied by merely touching food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the skin",
+        "word_skt" : "त्वचा",
+        "word_tl" : "tvacā"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "but he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the skin",
+        "word_skt" : "त्वचा",
+        "word_tl" : "tvacā"
+      }, {
+        "meaning_en" : "could not seize it",
+        "word_skt" : "ग्रहीतुम् न अशक्नोत्",
+        "word_tl" : "grahītum na aśaknot"
+      }, {
+        "meaning_en" : "by the skin",
+        "word_skt" : "त्वचा",
+        "word_tl" : "tvacā"
+      }, {
+        "meaning_en" : "had he seized it",
+        "word_skt" : "सः यत् ह एनत् अग्रहैष्यत्",
+        "word_tl" : "saḥ yat ha enat agrahaiṣyat"
+      }, {
+        "meaning_en" : "by merely touching food",
+        "word_skt" : "अन्नम् स्पृष्ट्वा ह एव",
+        "word_tl" : "annam spṛṣṭvā ha eva"
+      }, {
+        "meaning_en" : "would a man be satisfied ",
+        "word_skt" : "अत्रप्स्यत्",
+        "word_tl" : "atrapsyat"
+      } ],
+      "hindi_explain" : "त्वचा से 'उसने' उसे पकड़ना चाहा, किन्तु 'वह' उसे त्वचा से नहीं पकड़ सका। यदि 'वह' उसे त्वचा से पकड़ पाता तो मानव भोजन के केवल स्पर्श से तृप्त हो जाता।",
+      "meaning_en" : " By the skin He would have seized it, but He could not seize it by the skin. Had He seized it by the skin, then would a man be satisfied by merely touching food.",
+      "n" : "8/3/8",
+      "p" : "8/3/6",
+      "u" : "7",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तत्त्वचाऽजिघृक्षत्‌ तन्नाशक्नोत्त्वचा ग्रहीतुम्।\nस यद्धैनत्त्वचाऽग्रहैष्यत्स्पृष्ट्वा हैवान्नमत्रप्स्यत्‌ ॥",
+      "verse_tl" : "tattvacā'jighṛkṣat tannāśaknottvacā grahītum|\nsa yaddhainattvacā'grahaiṣyatspṛṣṭvā haivānnamatrapsyat ||"
+    }, {
+      "anvaya_skt" : "तत् मनसा अजिघृक्षत्। तत् मनसा ग्रहीतुम् न अशक्नोत्। सः यत् ह मनसा अग्रहैष्यत्। अन्नं ध्यात्वा ह एव अत्रप्स्यत् ॥",
+      "anvaya_tl" : "tat manasā ajighṛkṣat| tat manasā grahītum na aśaknot| saḥ yat ha manasā agrahaiṣyat | annaṁ dhyātvā ha eva atrapsyat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.8.mp3",
+      "auro_md" : "By the Mind He would have seized it, but He could not seize it by the mind. Had He seized it by the mind, then would a man be satisfied by merely thinking food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the mind",
+        "word_skt" : "मनसा",
+        "word_tl" : "manasā"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "but he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the mind",
+        "word_skt" : "मनसा",
+        "word_tl" : "manasā"
+      }, {
+        "meaning_en" : "could not seize it",
+        "word_skt" : "ग्रहीतुम् न अशक्नोत्",
+        "word_tl" : "grahītum na aśaknot"
+      }, {
+        "meaning_en" : "by the mind",
+        "word_skt" : "मनसा",
+        "word_tl" : "manasā"
+      }, {
+        "meaning_en" : "had he seized it",
+        "word_skt" : "सः यत् ह एनत् अग्रहैष्यत्",
+        "word_tl" : "saḥ yat ha enat agrahaiṣyat"
+      }, {
+        "meaning_en" : "by merely thinking food",
+        "word_skt" : "अन्नम् ध्यात्वा ह एव",
+        "word_tl" : "annam dhyātvā ha eva"
+      }, {
+        "meaning_en" : "would a man be satisfied",
+        "word_skt" : "अत्रप्स्यत्",
+        "word_tl" : "atrapsyat"
+      } ],
+      "hindi_explain" : "'उसने' मन के द्वारा उसे पकड़ना चाहा, किन्तु 'वह' उसे मन से नहीं पकड़ सका। यदि 'वह' उसे मन से पकड़ पाता तो मानव भोजन के विचार मात्र से तृप्त हो जाता।",
+      "meaning_en" : " By the mind He would have seized it, but He could not seize it by the mind. Had He seized it by the mind, then would a man be satisfied by merely thinking food.",
+      "n" : "8/3/9",
+      "p" : "8/3/7",
+      "u" : "8",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तन्मनसाजिघृक्षत्‌ तन्नाशक्नोन्मनसा ग्रहीतुम्।\nस यद्धैनन्मनसाग्रहैष्यद् ध्यात्वा हैवान्नमत्रप्स्यत्‌ ॥",
+      "verse_tl" : "tanmanasājighṛkṣat tannāśaknonmanasā grahītum|\nsa yaddhainanmanasāgrahaiṣyad dhyātvā haivānnamatrapsyat ||"
+    }, {
+      "anvaya_skt" : "तत् शिश्नेन अजिघृक्षत्। तत् शिश्नेन ग्रहीतुम् न अशक्नोत्। सः यत् ह शिश्नेन अग्रहैस्यत्। अन्नं विसृज्य ह एव अत्रप्स्यत् ॥",
+      "anvaya_tl" : "tat śiśnena ajighṛkṣat| tat śiśnena grahītum na aśaknot| saḥ yat ha śiśnena agrahaisyat| annaṁ visṛjya ha eva atrapsyat ||",
+      "audiourl" : "",
+      "auro_md" : "By the organ He would have seized it, but He could not seize it by the organ. Had He seized it by the organ, then would a man be satisfied by merely emitting food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the organ",
+        "word_skt" : "शिश्नेन",
+        "word_tl" : "śiśnena"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the organ",
+        "word_skt" : "शिश्नेन",
+        "word_tl" : "śiśnena"
+      }, {
+        "meaning_en" : "could not seize it",
+        "word_skt" : "ग्रहीतुम् न अशक्नोत्",
+        "word_tl" : "grahītum na aśaknot"
+      }, {
+        "meaning_en" : "by the organ",
+        "word_skt" : "शिश्नेन",
+        "word_tl" : "śiśnena"
+      }, {
+        "meaning_en" : "had he seized it",
+        "word_skt" : "यत् ह एनत् अग्रहैष्यत्",
+        "word_tl" : "yat ha enat agrahaiṣyat"
+      }, {
+        "meaning_en" : "by merely emitting food",
+        "word_skt" : "अन्नम् विसृज्य ह एव",
+        "word_tl" : "annam visṛjya ha eva"
+      }, {
+        "meaning_en" : "then would a man be satisfied",
+        "word_skt" : "अत्रप्स्यत्",
+        "word_tl" : "atrapsyat"
+      } ],
+      "hindi_explain" : "'उसने' लिंग (शिश्न) के द्वारा उसे पकड़ना चाहा, किन्तु वह लिंग से उसे नहीं पकड़ सका। यदि 'वह' उसे लिंग से पकड़ पाता तो वह भोजन के विसर्जन मात्र से तृप्त हो जाता।",
+      "meaning_en" : " By the organ He would have seized it, but He could not seize it by the organ. Had He seized it by the organ, then would a man be satisfied by merely emitting food.",
+      "n" : "8/3/10",
+      "p" : "8/3/8",
+      "u" : "9",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तच्छिश्नेनाजिघृक्षत्‌ तन्नाशक्नोच्छिश्नेन ग्रहीतु।\nस यद्धैनच्छिश्नेनाग्रहैष्यद्वित्सृज्य हैवान्नमत्रप्स्यत्‌ ॥",
+      "verse_tl" : "tacchiśnenājighṛkṣat tannāśaknocchiśnena grahītu|\nsa yaddhainacchiśnenāgrahaiṣyadvitsṛjya haivānnamatrapsyat ||"
+    }, {
+      "anvaya_skt" : "तत् अपानेन अजिघृक्षत्  तत् आवयत्। सः एषः अन्नस्य ग्रहः यत् वायुः। एषः यत् वायुः अन्नायुः वै ॥",
+      "anvaya_tl" : "tat apānena ajighṛkṣat  tat āvayat| saḥ eṣaḥ annasya grahaḥ yat vāyuḥ| eṣaḥ yat vāyuḥ annāyuḥ vai ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.10.mp3",
+      "auro_md" : "By the Apana He would have seized it, and it was seized. Lo, this is the seizer of food which is also Breath of the Life, and therefore all that is Breath has its life in food.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the apana",
+        "word_skt" : "अपानेन",
+        "word_tl" : "apānena"
+      }, {
+        "meaning_en" : "would have seized it",
+        "word_skt" : "अजिघृक्षत्",
+        "word_tl" : "ajighṛkṣat"
+      }, {
+        "meaning_en" : "and it was seized",
+        "word_skt" : "तत् आवयत्",
+        "word_tl" : "tat āvayat"
+      }, {
+        "meaning_en" : "this is",
+        "word_skt" : "सः एषः",
+        "word_tl" : "saḥ eṣaḥ"
+      }, {
+        "meaning_en" : "which is also Breath of the Life",
+        "word_skt" : "यत् वायुः",
+        "word_tl" : "yat vāyuḥ"
+      }, {
+        "meaning_en" : "of food",
+        "word_skt" : "अन्नस्य",
+        "word_tl" : "annasya"
+      }, {
+        "meaning_en" : "is the seizer",
+        "word_skt" : "ग्रहः",
+        "word_tl" : "grahaḥ"
+      }, {
+        "meaning_en" : "therefore all that is Breath",
+        "word_skt" : "एषः यत् वायुः",
+        "word_tl" : "eṣaḥ yat vāyuḥ"
+      }, {
+        "meaning_en" : "has life in food",
+        "word_skt" : "अन्नायुः वै",
+        "word_tl" : "annāyuḥ vai"
+      } ],
+      "hindi_explain" : "'उसने' अपान के द्वारा उसे पकड़ना चाहा, और उसे पकड़ लिया गया। और, यही है अन्न (भोजन) का ग्रहणकर्ता जो कि 'प्राण-वायु' भी है, इसीलिए जो कुछ भी 'वायु' (श्वांसमय) है उसकी आयु अन्न में है।",
+      "meaning_en" : " By the Apana He would have seized it, and it was seized. Lo this is the seizer of food which is also Breath of the Life, and therefore all that is Breath hath its life in food.",
+      "n" : "8/3/11",
+      "p" : "8/3/9",
+      "u" : "10",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तदपानेनाजिघृक्षत्‌ तदावयत्।\nसैषोऽन्नस्य ग्रहो यद्वायुरनायुवा।\nर् एष यद्वायुः ॥",
+      "verse_tl" : "tadapānenājighṛkṣat tadāvayat|\nsaiṣo'nnasya graho yadvāyuranāyuvā|\nr eṣa yadvāyuḥ ||"
+    }, {
+      "anvaya_skt" : "सः ईक्षत मत् ऋते कथं नु इदं स्यात् इति। सः ईक्षत कतरेण प्रपदै इति। सः ईक्षत यदि वाचा अभिव्याहृतम् यदि प्राणेन अभिप्राणितम् यदि चक्षुषा दृष्टम्  यदि श्रोत्रेण श्रुतम्  यदि त्वचा स्पृष्टम्  यदि मनसा ध्यातम् यदि अपानेन अभ्यपानितम्  यदि शिश्नेन विसृष्तम्  अथ कः अहम् इति ॥",
+      "anvaya_tl" : "saḥ īkṣata mat ṛte kathaṁ nu idaṁ syāt iti| saḥ īkṣata katareṇa prapadai iti| saḥ īkṣata yadi vācā abhivyāhṛtam  yadi prāṇena abhiprāṇitam  yadi cakṣuṣā dṛṣṭam  yadi śrotreṇa śrutam  yadi tvacā spṛṣṭam  yadi manasā dhyātam  yadi apānena abhyapānitam  yadi śiśnena visṛṣtam  atha kaḥ aham iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.11.mp3",
+      "auro_md" : "The Spirit thought, \"How should all this be without me?\" and He thought, \"By what way shall I enter in?\" He thought also, \"If utterance is by Speech, if breathing is by the Breath, if sight is by the Eye, if hearing is by the Ear, if thought is by the Mind, if the lower workings are by Apana, if emission is by the organ, then who am I?\"",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "the Spirit thought",
+        "word_skt" : "सः ईक्षत",
+        "word_tl" : "saḥ īkṣata"
+      }, {
+        "meaning_en" : "without Me",
+        "word_skt" : "मत् ऋते",
+        "word_tl" : "mat ṛte"
+      }, {
+        "meaning_en" : "how",
+        "word_skt" : "कथम् नु",
+        "word_tl" : "katham nu"
+      }, {
+        "meaning_en" : "should all this be",
+        "word_skt" : "इदम् स्यात् इति",
+        "word_tl" : "idam syāt iti"
+      }, {
+        "meaning_en" : "he thought",
+        "word_skt" : "सः ईक्षत",
+        "word_tl" : "saḥ īkṣata"
+      }, {
+        "meaning_en" : "by what way",
+        "word_skt" : "कतरेण",
+        "word_tl" : "katareṇa"
+      }, {
+        "meaning_en" : "shall I enter in",
+        "word_skt" : "प्रपदै इति",
+        "word_tl" : "prapadai iti"
+      }, {
+        "meaning_en" : "he thought",
+        "word_skt" : "सः ईक्षत",
+        "word_tl" : "saḥ īkṣata"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by Speech",
+        "word_skt" : "वाचा",
+        "word_tl" : "vācā"
+      }, {
+        "meaning_en" : "utterance is",
+        "word_skt" : "अभिव्याहृतम्",
+        "word_tl" : "abhivyāhṛtam"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by the Breath",
+        "word_skt" : "प्राणेन",
+        "word_tl" : "prāṇena"
+      }, {
+        "meaning_en" : "breathing is",
+        "word_skt" : "अभिप्राणितम्",
+        "word_tl" : "abhiprāṇitam"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by the Eye",
+        "word_skt" : "चक्षुषा",
+        "word_tl" : "cakṣuṣā"
+      }, {
+        "meaning_en" : "sight is",
+        "word_skt" : "दृष्टम्",
+        "word_tl" : "dṛṣṭam"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by the Ear",
+        "word_skt" : "श्रोत्रेण",
+        "word_tl" : "śrotreṇa"
+      }, {
+        "meaning_en" : "if hearing is",
+        "word_skt" : "श्रुतम्",
+        "word_tl" : "śrutam"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by the skin",
+        "word_skt" : "त्वचा",
+        "word_tl" : "tvacā"
+      }, {
+        "meaning_en" : "touch is",
+        "word_skt" : "स्पृष्टम्",
+        "word_tl" : "spṛṣṭam"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by the Mind",
+        "word_skt" : "मनसा",
+        "word_tl" : "manasā"
+      }, {
+        "meaning_en" : "if thought is",
+        "word_skt" : "ध्यातम्",
+        "word_tl" : "dhyātam"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by Apana",
+        "word_skt" : "अपानेन",
+        "word_tl" : "apānena"
+      }, {
+        "meaning_en" : "if the lower workings are",
+        "word_skt" : "अभ्यपानितम्",
+        "word_tl" : "abhyapānitam"
+      }, {
+        "meaning_en" : "if",
+        "word_skt" : "यदि",
+        "word_tl" : "yadi"
+      }, {
+        "meaning_en" : "by the organ",
+        "word_skt" : "शिश्नेन",
+        "word_tl" : "śiśnena"
+      }, {
+        "meaning_en" : "if emission is",
+        "word_skt" : "विसृष्तम्",
+        "word_tl" : "visṛṣtam"
+      }, {
+        "meaning_en" : "then",
+        "word_skt" : "अथ",
+        "word_tl" : "atha"
+      }, {
+        "meaning_en" : "who am I",
+        "word_skt" : "कः अहम् इति",
+        "word_tl" : "kaḥ aham iti"
+      } ],
+      "hindi_explain" : "'परमात्म-चैतन्य' ने सोचा, ''मेरे बिना यह सब कैसे रहेगा?'' और 'उसने' विचार किया, ''मैं किस मार्ग से इसमें प्रवेश करुँ?'' 'उसने' यह भी सोचा, ''यदि कथन 'वाक्' के द्वारा होता है, यदि श्वसन 'श्रोत्र' के द्वारा होता है, यदि दर्शन 'चक्षु' के द्वारा होता है, यदि श्रवण 'श्रोत्र' के द्वारा होता है, (यदि स्पर्श त्वचा के द्वारा होता है,)<sup>*</sup> यदि 'मन' के द्वारा होता है, यदि निम्न प्रक्रियाएँ 'अपान' के द्वारा होती हैं, यदि विसर्जन लिंग के द्वारा होता है, तो 'मैं' कौन हूँ?\n<sup>*</sup>यह अंश श्रीअरविन्द के अंग्रेजी अनुवाद में नहीं है, संस्कृत के मूल पाठ में है। - अनु,",
+      "meaning_en" : " The Spirit thought, “Without Me how should all this be?” and He thought, “By what way shall I enter in?” He thought also, “If utterance is by Speech, if breathing is by the Breath, if sight is by the Eye, if hearing is by the Ear, if thought is by the Mind, if the lower workings are by Apana, if emission is by the organ, who then am I?”",
+      "n" : "8/3/12",
+      "p" : "8/3/10",
+      "u" : "11",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स ईक्षत कथं न्विदं मदृते स्यादिति स ईक्षत कतरेण प्रपद्या इति।\nस ईक्षत यदि वाचाऽभिव्याहृतं यदि प्राणेनाभिप्राणितं यदि चक्षुषा दृष्टं यदि श्रोत्रेण श्रुतं यदि त्वचा स्पृष्टं यदि मनसा ध्यातं यद्यपानेनाभ्यपानितं यदि शिश्नेन विसृष्टमथ कोऽहमिति ॥",
+      "verse_tl" : "sa īkṣata kathaṁ nvidaṁ madṛte syāditi sa īkṣata katareṇa prapadyā iti |\nsa īkṣata yadi vācā'bhivyāhṛtaṁ yadi prāṇenābhiprāṇitaṁ yadi cakṣuṣā dṛṣṭaṁ yadi śrotreṇa śrutaṁ yadi tvacā spṛṣṭaṁ yadi manasā dhyātaṁ yadyapānenābhyapānitaṁ yadi śiśnena visṛṣṭamatha ko'hamiti ||"
+    }, {
+      "anvaya_skt" : "सः एतम् एव सीमानं विदार्य एतया द्वारा प्रापद्यत। सा एषा विदृतिः नाम दोः तत् एतत् नान्दनम्। तस्य त्रयः आवसथाः स्वप्नाः त्रयः  अयम् आवसथः  अयम् आवसथः  अयम् आवसथः इति ॥",
+      "anvaya_tl" : "saḥ etam eva sīmānaṁ vidārya etayā dvārā prāpadyata | sā eṣā vidṛtiḥ nāma doḥ tat etat nāndanam| tasya trayaḥ āvasathāḥ svapnāḥ trayaḥ  ayam āvasathaḥ  ayam āvasathaḥ  ayam āvasathaḥ iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.12.mp3",
+      "auro_md" : "It was this bound that He cleft, it was by this door that He entered in. 'Tis this that is called the gate of the cleaving; this is the door of His coming and here is the place of His delight. He has three mansions in His city, three dreams wherein He dwells, and of each in turn He says \"Lo, this is my habitation\" and \"This is my habitation\" and \"This is my habitation.\"",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "tt was this bound",
+        "word_skt" : "एतम् एव सीमानम्",
+        "word_tl" : "etam eva sīmānam"
+      }, {
+        "meaning_en" : "that having cleft",
+        "word_skt" : "विदार्य",
+        "word_tl" : "vidārya"
+      }, {
+        "meaning_en" : "it was by this door",
+        "word_skt" : "एतया द्वारा",
+        "word_tl" : "etayā dvārā"
+      }, {
+        "meaning_en" : "that he entered in",
+        "word_skt" : "प्रापद्यत",
+        "word_tl" : "prāpadyata"
+      }, {
+        "meaning_en" : "'Tis this",
+        "word_skt" : "सा एषा",
+        "word_tl" : "sā eṣā"
+      }, {
+        "meaning_en" : "that is called the gate of the cleaving",
+        "word_skt" : "विदृतिः नाम द्वाः",
+        "word_tl" : "vidṛtiḥ nāma dvāḥ"
+      }, {
+        "meaning_en" : "this is the place of his delight",
+        "word_skt" : "तत् एतत् नान्दनम्",
+        "word_tl" : "tat etat nāndanam"
+      }, {
+        "meaning_en" : "he hath three mansions in His city",
+        "word_skt" : "तस्य त्रयः आवसथाः",
+        "word_tl" : "tasya trayaḥ āvasathāḥ"
+      }, {
+        "meaning_en" : "three dreams wherein he dwelleth",
+        "word_skt" : "त्रयः स्वप्नाः",
+        "word_tl" : "trayaḥ svapnāḥ"
+      }, {
+        "meaning_en" : "this is my habitation",
+        "word_skt" : "अयम् आवसथः",
+        "word_tl" : "ayam āvasathaḥ"
+      }, {
+        "meaning_en" : "this is my habitation",
+        "word_skt" : "अयम् आवसथः",
+        "word_tl" : "ayam āvasathaḥ"
+      }, {
+        "meaning_en" : "this is my habitation",
+        "word_skt" : "अयम् आवसथः इति",
+        "word_tl" : "ayam āvasathaḥ iti"
+      } ],
+      "hindi_explain" : "इसी सीमा को 'उसने' विदीर्ण किया, और इसी द्वार से 'उसने' अन्दर प्रवेश किया। इसी को कहा जाता है विदृति का द्वार; यही 'उसका' प्रवेश-द्वार है तथा यही है 'उसके' आनन्द का स्थान। 'उसकी' पुरी में 'उसके' तीन आवास-स्थान हैं, तीन स्वप्न हैं जिनमें 'वह' निवास करता है तथा क्रमशः प्रत्येक के विषय में 'वह' कहता है, ''यही है मेरा आवास'' तथा \"यही है मेरा आवास'' तथा ''यही है मेरा आवास।''",
+      "meaning_en" : " It was this bound that He cleft, it was by this door that He entered in. 'Tis this that is called the gate of the cleaving; this is the door of His coming and here is the place of His delight. He hath three mansions in His city, three dreams wherein He dwelleth, and of each in turn He saith, “Lo, this is my habitation” and “This is my habitation” and “This is my habitation.”",
+      "n" : "8/3/13",
+      "p" : "8/3/11",
+      "u" : "12",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स एतमेव सीमानं विदर्यैतया द्वारा प्रापद्यत।\nसैषा विदृतिर्नाम द्वास्तदेतन्नाऽन्दनम्‌।\nसैषा विदृतिर्न्नामद्वास्तदेतन्नान्दनम्।\nतस्य त्रय आवसथाः स्त्रयः स्वप्नाः।\nअयमावसथोऽयमावसथोऽयमावसथ इति ॥",
+      "verse_tl" : "sa etameva sīmānaṁ vidaryaitayā dvārā prāpadyata |\nsaiṣā vidṛtirnāma dvāstadetannā'ndanam |\nsaiṣā vidṛtirnnāmadvāstadetannāndanam|\ntasya traya āvasathāḥ strayaḥ svapnāḥ|\nayamāvasatho'yamāvasatho'yamāvasatha iti ||"
+    }, {
+      "anvaya_skt" : "सः जातः भूतानि अभिवैख्यत्  - इह किम् अन्यम् वावदिषत् इति।\nसः एतं पुरुषं एव ततमम् ब्रह्म अपश्यत्  - इदम् अदर्शम् इति ॥",
+      "anvaya_tl" : "saḥ jātaḥ bhūtāni abhivaikhyat  - iha kim anyam vāvadiṣat iti| saḥ etaṁ puruṣaṁ eva tatamam brahma apaśyat  - idam adarśam iti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.13.mp3",
+      "auro_md" : "Now when He was born, He thought and spoke only of Nature and her creations; in this world of matter of what else should He speak or reason? Thereafter He beheld that Being who is the Brahman and the last Essence. He said, \"Yea, this is He; verily, I have beheld Him.\"",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "when he was born",
+        "word_skt" : "सः जातः",
+        "word_tl" : "saḥ jātaḥ"
+      }, {
+        "meaning_en" : "Nature and her creations",
+        "word_skt" : "भूतानि",
+        "word_tl" : "bhūtāni"
+      }, {
+        "meaning_en" : "he thought and spoke only of",
+        "word_skt" : "अभिवैख्यत्",
+        "word_tl" : "abhivaikhyat"
+      }, {
+        "meaning_en" : "in this world of matter",
+        "word_skt" : "इह",
+        "word_tl" : "iha"
+      }, {
+        "meaning_en" : "of what else",
+        "word_skt" : "किम् अन्यम्",
+        "word_tl" : "kim anyam"
+      }, {
+        "meaning_en" : "should He speak or reason?",
+        "word_skt" : "वावदिषत् इति",
+        "word_tl" : "vāvadiṣat iti"
+      }, {
+        "meaning_en" : "he",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "that Being",
+        "word_skt" : "एतम् पुरुषम् एव",
+        "word_tl" : "etam puruṣam eva"
+      }, {
+        "meaning_en" : "the last Essence",
+        "word_skt" : "ततमम्",
+        "word_tl" : "tatamam"
+      }, {
+        "meaning_en" : "who is the Brahman",
+        "word_skt" : "ब्रह्म",
+        "word_tl" : "brahma"
+      }, {
+        "meaning_en" : "beheld He said,",
+        "word_skt" : "अपश्यत्",
+        "word_tl" : "apaśyat"
+      }, {
+        "meaning_en" : "Yea, this is He; verily, I have beheld Him",
+        "word_skt" : "इदम् अदर्शम् इदम् अदर्शम् इति",
+        "word_tl" : "idam adarśam idam adarśam iti"
+      } ],
+      "hindi_explain" : "अब, जब 'उसने' जन्म लिया, तब 'उसने' केवल 'प्रकृति' तथा उस प्रकृति की सृष्टि के विषय में ही चिन्तन तथा कथन किया; इस भौतिक जगत् में 'वह' अन्य किसका कथन अथवा चिन्तन करता? तत्पश्चात् 'उसने' उस 'सत्ता' का दर्शन किया जो 'ब्रह्म' है तथा जो अन्तिम 'सारतत्त्व' है। 'उसने' कहा, \"यही है 'वह', मैंने 'उसका' दर्शन कर लिया।''",
+      "meaning_en" : " Now when He was born, He thought and spoke only of Nature and her creations; in this world of matter of what else should He speak or reason? Thereafter He beheld that Being who is the Brahman and the last Essence. He said, “Yea, this is He; verily, I have beheld Him.”",
+      "n" : "8/3/14",
+      "p" : "8/3/12",
+      "u" : "13",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स जातो भूतान्यभिव्यैख्यत्‌ किमिहान्यं वावदिषदिति।\nस एतमेव पुरुषं ब्रह्म ततममपश्यदिदमदर्शनमिती ॥",
+      "verse_tl" : "sa jāto bhūtānyabhivyaikhyat kimihānyaṁ vāvadiṣaditi |\nsa etameva puruṣaṁ brahma tatamamapaśyadidamadarśanamitī ||"
+    }, {
+      "anvaya_skt" : "तस्मात् इदन्द्रः ह वै नाम इदन्द्रः। इदन्द्रं सन्तं तं परोक्षेण इन्द्रः इति आचक्षते। हि देवाः परोक्षप्रियाः इव ॥",
+      "anvaya_tl" : "tasmāt idandraḥ ha vai nāma idandraḥ| idandraṁ santaṁ taṁ parokṣeṇa indraḥ iti ācakṣate| hi devāḥ parokṣapriyāḥ iva ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.14.mp3",
+      "auro_md" : "Therefore is He Idandra; for Idandra is the true name of Him. But though He is Idandra, they call Him Indra because of the veil of the Unrevelation; for the gods love the veil of the Unrevelation, yea, verily, the gods love the Unrevelation.",
+      "cname_skt" : "तृतीयोऽध्यायः",
+      "cname_tl" : "tṛtīyo'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "therefore",
+        "word_skt" : "तस्मात्",
+        "word_tl" : "tasmāt"
+      }, {
+        "meaning_en" : "he is Idandra",
+        "word_skt" : "इदन्द्रः",
+        "word_tl" : "idandraḥ"
+      }, {
+        "meaning_en" : "for Idandra is the true name of Him",
+        "word_skt" : "इदन्द्रः ह वै नाम",
+        "word_tl" : "idandraḥ ha vai nāma"
+      }, {
+        "meaning_en" : "but though he is Idandra",
+        "word_skt" : "इदन्द्रम् सन्तम्",
+        "word_tl" : "idandram santam"
+      }, {
+        "meaning_en" : "him",
+        "word_skt" : "तम्",
+        "word_tl" : "tam"
+      }, {
+        "meaning_en" : "because of the veil of the Unrevelation",
+        "word_skt" : "परोक्षेण",
+        "word_tl" : "parokṣeṇa"
+      }, {
+        "meaning_en" : "as Indra",
+        "word_skt" : "इन्द्रः इति",
+        "word_tl" : "indraḥ iti"
+      }, {
+        "meaning_en" : "they call",
+        "word_skt" : "आचक्षते",
+        "word_tl" : "ācakṣate"
+      }, {
+        "meaning_en" : "for the gods love the veil of the Unrevelation",
+        "word_skt" : "परोक्षप्रियाः एव हि देवः",
+        "word_tl" : "parokṣapriyāḥ eva hi devaḥ"
+      }, {
+        "meaning_en" : "for the gods love the veil of the Unrevelation",
+        "word_skt" : "परोक्षप्रियाः एव हि देवः",
+        "word_tl" : "parokṣapriyāḥ eva hi devaḥ"
+      } ],
+      "hindi_explain" : "इसीलिए 'वह' 'इदन्द्र' है; कारण 'उसका' वास्तविक नाम 'इदन्द्र' है। किन्तु यद्यपि 'वह' 'इदन्द्र' है तथापि उसे 'इन्द्र' कहते हैं 'परोक्ष' के भाव से (अप्रकट के आवरण की तरह) क्योंकि देवगण 'परोक्ष' प्रिय होते हैं, सचमुच देवगण अप्रकट को आवरण को पसन्द करते हैं।",
+      "meaning_en" : " Therefore is He Idandra; for Idandra is the true name of Him. But though He is Idandra, they call Him Indra because of the veil of the Unrevelation; for the gods love the veil of the Unrevelation, yea, verily, the gods love the Unrevelation.",
+      "n" : "8/4/1",
+      "p" : "8/3/13",
+      "u" : "14",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तस्मादिदन्द्रो नामेदन्द्रो ह वै नाम।\nतमिदन्द्रं सन्तमिंद्र इत्याचक्षते परोक्षेण।\nपरोक्षप्रिया इव हि देवाः परोक्षप्रिया इव हि देवाः ॥",
+      "verse_tl" : "tasmādidandro nāmedandro ha vai nāma |\ntamidandraṁ santamiṁdra ityācakṣate parokṣeṇa |\nparokṣapriyā iva hi devāḥ parokṣapriyā iva hi devāḥ ||"
+    } ]
+  }, {
+    "n" : "8/5",
+    "name_skt" : "चतुर्थोऽध्यायः",
+    "name_tl" : "caturtho'dhyāyaḥ",
+    "p" : "8/3",
+    "u" : "4",
+    "verses" : [ {
+      "anvaya_skt" : "अयम् आदितः पुरुषे ह वै यत् एतत् रेतः गर्भः भवति। सर्वेभ्यः अङ्गेभ्यः सम्भूतं तत् एतत् तेजः आत्मानम् आत्मनि एव बिभर्ति। यदा एनत् स्त्रियां सिञ्चति अथ एनत् जनयति। अस्य तत् प्रथमं जन्म ॥",
+      "anvaya_tl" : "ayam āditaḥ puruṣe ha vai yat etat retaḥ garbhaḥ bhavati| sarvebhyaḥ aṅgebhyaḥ sambhūtaṁ tat etat tejaḥ ātmānam ātmani eva bibharti| yadā enat striyāṁ siñcati atha enat janayati| asya tat prathamaṁ janma ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.1.mp3",
+      "auro_md" : "In the male first the unborn child becomes. This which is seed is the force and heat of him that from all parts of the creature draws together for becoming; therefore he bears himself in himself, and when he casts it into the woman, 'tis himself he begets. And this is the first birth of the Spirit.",
+      "cname_skt" : "चतुर्थोऽध्यायः",
+      "cname_tl" : "caturtho'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "in the male",
+        "word_skt" : "पुरुषे ह वै",
+        "word_tl" : "puruṣe ha vai"
+      }, {
+        "meaning_en" : "first",
+        "word_skt" : "आदितः",
+        "word_tl" : "āditaḥ"
+      }, {
+        "meaning_en" : "the unborn child becometh",
+        "word_skt" : "गर्भः भवति",
+        "word_tl" : "garbhaḥ bhavati"
+      }, {
+        "meaning_en" : "this which is seed",
+        "word_skt" : "अयम् यत् एतत् रेतः",
+        "word_tl" : "ayam yat etat retaḥ"
+      }, {
+        "meaning_en" : "that from all parts of the creature",
+        "word_skt" : "सर्वेभ्यः अङ्गेभ्यः",
+        "word_tl" : "sarvebhyaḥ aṅgebhyaḥ"
+      }, {
+        "meaning_en" : "draweth together for becoming",
+        "word_skt" : "सम्भूतम्",
+        "word_tl" : "sambhūtam"
+      }, {
+        "meaning_en" : "himself",
+        "word_skt" : "आत्मानम्",
+        "word_tl" : "ātmānam"
+      }, {
+        "meaning_en" : "in himself",
+        "word_skt" : "आत्मनि एव",
+        "word_tl" : "ātmani eva"
+      }, {
+        "meaning_en" : "therefore he beareth",
+        "word_skt" : "बिभर्ति",
+        "word_tl" : "bibharti"
+      }, {
+        "meaning_en" : "when he",
+        "word_skt" : "यदा एनत्",
+        "word_tl" : "yadā enat"
+      }, {
+        "meaning_en" : "into the woman",
+        "word_skt" : "स्त्रियाम्",
+        "word_tl" : "striyām"
+      }, {
+        "meaning_en" : "casteth it",
+        "word_skt" : "सिञ्चति",
+        "word_tl" : "siñcati"
+      }, {
+        "meaning_en" : "'tis himself he begetteth",
+        "word_skt" : "अथ एनत् जनयति",
+        "word_tl" : "atha enat janayati"
+      }, {
+        "meaning_en" : "and this",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "of the Spirit",
+        "word_skt" : "अस्य",
+        "word_tl" : "asya"
+      }, {
+        "meaning_en" : "is the first birth",
+        "word_skt" : "प्रथमम् जन्म",
+        "word_tl" : "prathamam janma"
+      } ],
+      "hindi_explain" : "पुरुष में ही सर्वप्रथम अजात शिशु (गर्भ) बनता है। यह जो रेतस् (वीर्य) है वह उसकी शक्ति एवं तेज है जो व्यक्ति के समस्त अंगों से एकत्रित होता है सम्भूति (बनने) के लिए; अतएव वह स्वयं को स्वयं में ही धारण करता है, और जब वह इसे स्त्री के अन्दर सिंचित करता है तब वह स्वयं को उत्पन्न करता है। और यह है 'परमात्म-चैतन्य' का प्रथम जन्म।",
+      "meaning_en" : " In the male first the unborn child becometh. This which is seed is the force and heat of him that from all parts of the creature draweth together for becoming; therefore he beareth himself in himself, and when he casteth it into the woman, 'tis himself he begetteth. And this is the first birth of the Spirit. ",
+      "n" : "8/4/2",
+      "p" : "8/3/14",
+      "u" : "1",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "पुरुषे ह वा अयमादितो गर्भो भवति यदेतद्रेतः।\nतदेतत्सर्वेभ्योऽङ्गेभ्यस्तेजः संभूतमात्मन्येवात्मानं बिभर्ति तद्यदा स्त्रियां सिञ्चत्यथैनज्जनयति तदस्य प्रथमं जन्म ॥",
+      "verse_tl" : "puruṣe ha vā ayamādito garbho bhavati yadetadretaḥ |\ntadetatsarvebhyo'ṅgebhyastejaḥ saṁbhūtamātmanyevātmānaṁ bibharti tadyadā striyāṁ siñcatyathainajjanayati tadasya prathamaṁ janma ||"
+    }, {
+      "anvaya_skt" : "तत् स्त्रियाः आत्मभूयं गच्छति यथा स्वम् अङ्गम् तथा। तस्मात् एनां न हिनस्ति। स अत्र गतम् अस्य एतम् आत्मानम् भावयति ॥",
+      "anvaya_tl" : "tat striyāḥ ātmabhūyaṁ gacchati yathā svam aṅgam tathā| tasmāt enāṁ na hinasti| sa atra gatam asya etam ātmānam bhāvayati ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.2.mp3",
+      "auro_md" : "It becomes one self with the woman, therefore it does her no hurt and she cherishes this self of her husband that has got into her womb.",
+      "cname_skt" : "चतुर्थोऽध्यायः",
+      "cname_tl" : "caturtho'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "it",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "with the woman",
+        "word_skt" : "स्त्रियाः",
+        "word_tl" : "striyāḥ"
+      }, {
+        "meaning_en" : "become one self",
+        "word_skt" : "आत्मभूयम् गच्छति",
+        "word_tl" : "ātmabhūyam gacchati"
+      }, {
+        "meaning_en" : "as",
+        "word_skt" : "यथा",
+        "word_tl" : "yathā"
+      }, {
+        "meaning_en" : "its own limbs",
+        "word_skt" : "स्वम् अङ्गम्",
+        "word_tl" : "svam aṅgam"
+      }, {
+        "meaning_en" : "in that way",
+        "word_skt" : "तथा",
+        "word_tl" : "tathā"
+      }, {
+        "meaning_en" : "therefore",
+        "word_skt" : "तस्मात्",
+        "word_tl" : "tasmāt"
+      }, {
+        "meaning_en" : "it doeth her no hurt",
+        "word_skt" : "एनाम् न हिनस्ति",
+        "word_tl" : "enām na hinasti"
+      }, {
+        "meaning_en" : "she",
+        "word_skt" : "स",
+        "word_tl" : "sa"
+      }, {
+        "meaning_en" : "that hath got into her womb",
+        "word_skt" : "अत्र गतम्",
+        "word_tl" : "atra gatam"
+      }, {
+        "meaning_en" : "of it (her husband)",
+        "word_skt" : "अस्य",
+        "word_tl" : "asya"
+      }, {
+        "meaning_en" : "this self",
+        "word_skt" : "एतम् आत्मानम्",
+        "word_tl" : "etam ātmānam"
+      }, {
+        "meaning_en" : "cherisheth",
+        "word_skt" : "भावयति",
+        "word_tl" : "bhāvayati"
+      } ],
+      "hindi_explain" : "वह स्त्री के साथ एकात्म हो जाता है (ठीक वैसे ही जैसे उसका अपना ही अंग हो)<sup>*</sup>  इसी कारण यह उस स्त्री को कोई पीड़ा नहीं देता है और वह अपने पति के इस आत्मरूप अंश का, जो उसके गर्भ में आ गया है, स्नेह से पोषण करती है।",
+      "meaning_en" : " It becometh one self with the woman, therefore it doeth her no hurt and she cherisheth this self of her husband that hath got into her womb.",
+      "n" : "8/4/3",
+      "p" : "8/4/1",
+      "u" : "2",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तत्स्त्रिया आत्मभूयं गच्छति यथा स्वमङ्गं तथा।\nतस्मादेनां न हिनस्ति।\nसाऽस्यैतमात्मानमत्र गतं भावयति ॥",
+      "verse_tl" : "tatstriyā ātmabhūyaṁ gacchati yathā svamaṅgaṁ tathā |\ntasmādenāṁ na hinasti |\nsā'syaitamātmānamatra gataṁ bhāvayati ||"
+    }, {
+      "anvaya_skt" : "सा भावयित्री भावयितव्या भवति। तं गर्भम्  अग्रे  स्त्री बिभर्ति। अग्रे जन्मनः अधि एव कुमारम् भावयति। सः कुमारं जन्मनः अधि अग्रे यत् भावयति तत् एषां लोकानां सन्तत्यै  आत्मानां भावयति। हि एवं हि इमे लोकाः सन्तताः। तत् अस्य द्वितीयं जन्म ॥",
+      "anvaya_tl" : "sā bhāvayitrī bhāvayitavyā bhavati| taṁ garbham ( agre ) strī bibharti| agre janmanaḥ adhi eva kumāram bhāvayati| saḥ kumāraṁ janmanaḥ adhi agre yat bhāvayati tat eṣāṁ lokānāṁ santatyai  ātmānāṁ bhāvayati| hi evaṁ hi ime lokāḥ santatāḥ| tat asya dvitīyaṁ janma ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.3.mp3",
+      "auro_md" : "She the cherisher must be cherished. So the woman bears the unborn child and the man cherishes the boy even from the beginning ere it is born. And whereas he cherishes the boy ere it is born, 'tis verily himself that he cherishes for the continuance of these worlds and their peoples; for 'tis even thus the thread of these worlds spins on unbroken. And this is the second birth of the Spirit.",
+      "cname_skt" : "चतुर्थोऽध्यायः",
+      "cname_tl" : "caturtho'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "she the cherisher",
+        "word_skt" : "सा भावयित्री",
+        "word_tl" : "sā bhāvayitrī"
+      }, {
+        "meaning_en" : "must be cherished",
+        "word_skt" : "भावयितव्या भवति",
+        "word_tl" : "bhāvayitavyā bhavati"
+      }, {
+        "meaning_en" : "the unborn child",
+        "word_skt" : "तम् गर्भम्",
+        "word_tl" : "tam garbham"
+      }, {
+        "meaning_en" : "the woman beareth",
+        "word_skt" : "स्त्री बिभर्ति",
+        "word_tl" : "strī bibharti"
+      }, {
+        "meaning_en" : "the man",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "even from the beginning ere it is born",
+        "word_skt" : "अग्रे जन्मनः अधि एव",
+        "word_tl" : "agre janmanaḥ adhi eva"
+      }, {
+        "meaning_en" : "the boy",
+        "word_skt" : "कुमारम्",
+        "word_tl" : "kumāram"
+      }, {
+        "meaning_en" : "cherisheth",
+        "word_skt" : "भावयति",
+        "word_tl" : "bhāvayati"
+      }, {
+        "meaning_en" : "the boy",
+        "word_skt" : "कुमारम्",
+        "word_tl" : "kumāram"
+      }, {
+        "meaning_en" : "ere it is born",
+        "word_skt" : "अग्रे जन्मनः अधि",
+        "word_tl" : "agre janmanaḥ adhi"
+      }, {
+        "meaning_en" : "whereas he cherisheth",
+        "word_skt" : "यत् सः भावयति",
+        "word_tl" : "yat saḥ bhāvayati"
+      }, {
+        "meaning_en" : "that",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "of these worlds and their peoples",
+        "word_skt" : "एषाम् लोकानाम्",
+        "word_tl" : "eṣām lokānām"
+      }, {
+        "meaning_en" : "for the continuance",
+        "word_skt" : "सन्तत्यै",
+        "word_tl" : "santatyai"
+      }, {
+        "meaning_en" : "'tis verily himself",
+        "word_skt" : "आत्मानाम् हि",
+        "word_tl" : "ātmānām hi"
+      }, {
+        "meaning_en" : "that he cherisheth",
+        "word_skt" : "भावयति",
+        "word_tl" : "bhāvayati"
+      }, {
+        "meaning_en" : "for 'tis even thus",
+        "word_skt" : "एवम् हि",
+        "word_tl" : "evam hi"
+      }, {
+        "meaning_en" : "the thread of these worlds spinneth on unbroken",
+        "word_skt" : "इमे लोकाः सन्तताः",
+        "word_tl" : "ime lokāḥ santatāḥ"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "of the Spirit",
+        "word_skt" : "अस्य",
+        "word_tl" : "asya"
+      }, {
+        "meaning_en" : "the second birth",
+        "word_skt" : "द्वितीयम् जन्म",
+        "word_tl" : "dvitīyam janma"
+      } ],
+      "hindi_explain" : "वह स्नेहपूर्वक पोषण करने वाली स्त्री स्वयं स्नेहपूर्वक पोषणयोग्य बन जाती है। इस प्रकार स्त्री उस अजात शिशु (गर्भ) को धारण करती तथा पुरुष आरम्भ से ही, उसके जन्म के पूर्व से ही, उस बालक का पालन-पोषण करता है। और यद्यपि वह बालक का उसके जन्म के पूर्व से ही लालन-पालन करता है, वस्तुतः वह इन लोकों तथा उनकी प्रजाओं (सन्ततियों) के सातत्य के लिए स्वयं का ही पोषण करता है, कारण, इसी प्रकार इन लोकों का अविच्छिन्न सूत्र निरन्तर बुनता जाता है। और, यह है 'परमात्म-चैतन्य' का द्वितीय जन्म।",
+      "meaning_en" : " She the cherisher must be cherished. So the woman beareth the unborn child and the man cherisheth the boy even from the beginning ere it is born. And whereas he cherisheth the boy ere it is born, 'tis verily himself that he cherisheth for the continuance of these worlds and their peoples; for 'tis even thus the thread of these worlds spinneth on unbroken. And this is the second birth of the Spirit.",
+      "n" : "8/4/4",
+      "p" : "8/4/2",
+      "u" : "3",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "सा भावयित्री भावयितव्या भवति।तं स्त्री गर्भ बिभर्ति। सोऽग्र एव कुमारं जन्मनोऽग्रेऽधिभावयति।\nस यत्कुमारं जन्मनोऽग्रेऽधिभावयत्यात्मानमेव तद्भावयत्येषं लोकानां सन्तत्या। एवं सन्तता हीमे लोकास्तदस्य द्वितीयं जन्म ॥",
+      "verse_tl" : "sā bhāvayitrī bhāvayitavyā bhavati | taṁ strī garbha bibharti | so'gra eva kumāraṁ janmano'gre'dhibhāvayati |\nsa yatkumāraṁ janmano'gre'dhibhāvayatyātmānameva tadbhāvayatyeṣaṁ lokānāṁ santatyā | evaṁ santatā hīme lokāstadasya dvitīyaṁ janma ||"
+    }, {
+      "anvaya_skt" : "अस्य अयम् आत्मा पुण्येभ्यः कर्मभ्यः प्रतिधीयते। अथ अस्य इतरः अयम् आत्मा कृतकृत्यः वयोगतः प्रैति। सः इतः प्रयन् एव पुनः जायते। अस्य तत् तृतीयम् जन्म ॥",
+      "anvaya_tl" : "asya ayam ātmā puṇyebhyaḥ karmabhyaḥ pratidhīyate| atha asya itaraḥ ayam ātmā kṛtakṛtyaḥ vayogataḥ praiti| saḥ itaḥ prayan eva punaḥ jāyate| asya tat tṛtīyam janma ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.4.mp3",
+      "auro_md" : "Lo, this is the spirit and self of him and he makes it his vice-regent for the works of righteousness. Now this his other self when it has done the works it came to do and has reached its age, lo! it goes hence, and even as it departs, it is born again. And this is the third birth of the Spirit.",
+      "cname_skt" : "चतुर्थोऽध्यायः",
+      "cname_tl" : "caturtho'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "of him",
+        "word_skt" : "अस्य",
+        "word_tl" : "asya"
+      }, {
+        "meaning_en" : "this is the spirit and self",
+        "word_skt" : "अयम् आत्मा",
+        "word_tl" : "ayam ātmā"
+      }, {
+        "meaning_en" : "for the works of righteousness",
+        "word_skt" : "पुण्येभ्यः कर्मभ्यः",
+        "word_tl" : "puṇyebhyaḥ karmabhyaḥ"
+      }, {
+        "meaning_en" : "he maketh it his vicegerent",
+        "word_skt" : "प्रतिधीयते",
+        "word_tl" : "pratidhīyate"
+      }, {
+        "meaning_en" : "now",
+        "word_skt" : "अथ",
+        "word_tl" : "atha"
+      }, {
+        "meaning_en" : "his",
+        "word_skt" : "अस्य",
+        "word_tl" : "asya"
+      }, {
+        "meaning_en" : "this other self",
+        "word_skt" : "अयम् इतरः आत्मा",
+        "word_tl" : "ayam itaraḥ ātmā"
+      }, {
+        "meaning_en" : "when it hath done the works it came to do",
+        "word_skt" : "कृतकृत्यः",
+        "word_tl" : "kṛtakṛtyaḥ"
+      }, {
+        "meaning_en" : "when it hath reached its age",
+        "word_skt" : "वयोगतः",
+        "word_tl" : "vayogataḥ"
+      }, {
+        "meaning_en" : "it departeth",
+        "word_skt" : "प्रैति",
+        "word_tl" : "praiti"
+      }, {
+        "meaning_en" : "it",
+        "word_skt" : "सः",
+        "word_tl" : "saḥ"
+      }, {
+        "meaning_en" : "from here",
+        "word_skt" : "इतः",
+        "word_tl" : "itaḥ"
+      }, {
+        "meaning_en" : "departing",
+        "word_skt" : "प्रयन् एव",
+        "word_tl" : "prayan eva"
+      }, {
+        "meaning_en" : "it is born again",
+        "word_skt" : "पुनः जायते",
+        "word_tl" : "punaḥ jāyate"
+      }, {
+        "meaning_en" : "of the Spirit",
+        "word_skt" : "अस्य",
+        "word_tl" : "asya"
+      }, {
+        "meaning_en" : "this",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "is the third birth",
+        "word_skt" : "तृतीयम् जन्म",
+        "word_tl" : "tṛtīyam janma"
+      } ],
+      "hindi_explain" : "और, उसका ही यह आत्मरूप है और वह उसे पुण्य कर्मों के लिए अपना प्रतिनिधि बना देता है। अब उसका यह इतर आत्मरूप जब उन समस्त कर्मों को सम्पादित कर लेता है जिन्हें करने को वह आया था, तथा अपनी आयु पूर्ण कर चुकता है, तो वह यहाँ से चला जाता है, और यहाँ से प्रयाण करके भी वह पुनर्जन्म ग्रहण कर लेता है। और यह है 'परमात्म-चैतन्य' का तृतीय जन्म।",
+      "meaning_en" : " Lo this is the spirit and self of him and he maketh it his vicegerent for the works of righteousness. Now this his other self when it hath done the works it came to do and hath reached its age, lo! it goeth hence, and even as it departeth, it is born again. And this is the third birth of the Spirit.",
+      "n" : "8/4/5",
+      "p" : "8/4/3",
+      "u" : "4",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "सोऽस्यायमात्मा पुण्येभ्यः कर्मभ्यः प्रतिधीयते।\nअथास्यायामितर आत्मा कृतकृत्यो वयोगतः प्रैति।\nस इतः प्रयन्नेव पुनर्जायते तदस्य तृतीयं जन्म ॥",
+      "verse_tl" : "so'syāyamātmā puṇyebhyaḥ karmabhyaḥ pratidhīyate |\nathāsyāyāmitara ātmā kṛtakṛtyo vayogataḥ praiti |\nsa itaḥ prayanneva punarjāyate tadasya tṛtīyaṁ janma ||"
+    }, {
+      "anvaya_skt" : "तत् ऋषिणा उक्तं  अहं गर्भे नु सन् एषाम् देवानां विश्वा जनिमानि अनु अवेदम्। शतम् आयसीः पुरः  मा अधः अरक्षन्। अथ  श्येनः  इव  जवसा निरदीयम् इति। एवम् इति एतत् वामदेवः गर्भे एव शयानः उवाच ॥",
+      "anvaya_tl" : "tat ṛṣiṇā uktaṁ  ahaṁ garbhe nu san eṣām devānāṁ viśvā janimāni anu avedam| śatam āyasīḥ puraḥ  mā adhaḥ arakṣan| (atha ) śyenaḥ ( iva ) javasā niradīyam iti| evam iti etat vāmadevaḥ garbhe eva śayānaḥ uvāca ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.5.mp3",
+      "auro_md" : "Therefore it was said by the sage Vamadeva, \"I, Vamadeva, being yet in the womb, knew all the births of these gods and their causes. In a hundred cities of iron they held me down and kept me; I broke through them all with speed and violence, like a hawk I soared up into my heavens.\" While yet he lay in the womb, thus said Vamadeva.",
+      "cname_skt" : "चतुर्थोऽध्यायः",
+      "cname_tl" : "caturtho'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "therefore",
+        "word_skt" : "तत्",
+        "word_tl" : "tat"
+      }, {
+        "meaning_en" : "by the sage Vamadeva",
+        "word_skt" : "ऋषिणा",
+        "word_tl" : "ṛṣiṇā"
+      }, {
+        "meaning_en" : "it was said",
+        "word_skt" : "उक्तम्",
+        "word_tl" : "uktam"
+      }, {
+        "meaning_en" : "I, Vamadeva",
+        "word_skt" : "अहम्",
+        "word_tl" : "aham"
+      }, {
+        "meaning_en" : "being yet in the womb",
+        "word_skt" : "गर्भे नु सन्",
+        "word_tl" : "garbhe nu san"
+      }, {
+        "meaning_en" : "of these gods",
+        "word_skt" : "एषाम् देवानाम्",
+        "word_tl" : "eṣām devānām"
+      }, {
+        "meaning_en" : "all the births and their causes",
+        "word_skt" : "विश्वा जनिमानि",
+        "word_tl" : "viśvā janimāni"
+      }, {
+        "meaning_en" : "knew",
+        "word_skt" : "अनु अवेदम्",
+        "word_tl" : "anu avedam"
+      }, {
+        "meaning_en" : "in a hundred cities of iron",
+        "word_skt" : "शतम् आयसीः पुरः",
+        "word_tl" : "śatam āyasīḥ puraḥ"
+      }, {
+        "meaning_en" : "they held me down and kept me",
+        "word_skt" : "मा अधः अरक्षन्",
+        "word_tl" : "mā adhaḥ arakṣan"
+      }, {
+        "meaning_en" : "like a hawk (I soared up into my heavens)",
+        "word_skt" : "श्येनः इव",
+        "word_tl" : "śyenaḥ iva"
+      }, {
+        "meaning_en" : "with might & violence",
+        "word_skt" : "जवसा",
+        "word_tl" : "javasā"
+      }, {
+        "meaning_en" : "I broke through them all",
+        "word_skt" : "निरदीयम् इति",
+        "word_tl" : "niradīyam iti"
+      }, {
+        "meaning_en" : "",
+        "word_skt" : "एवम् इति एतत् ",
+        "word_tl" : "evam iti etat "
+      }, {
+        "meaning_en" : "Vamadeva",
+        "word_skt" : "वामदेवः",
+        "word_tl" : "vāmadevaḥ"
+      }, {
+        "meaning_en" : "while yet he lay in the womb",
+        "word_skt" : "गर्भे एव शयानः",
+        "word_tl" : "garbhe eva śayānaḥ"
+      }, {
+        "meaning_en" : "thus said",
+        "word_skt" : "उवाच",
+        "word_tl" : "uvāca"
+      } ],
+      "hindi_explain" : "इसलिए ऋषि वामदेव के द्वारा यह कहा गया थाː ''मैं, वामदेव, गर्भ में होते हुए भी, इन समस्त देवगणों के जन्म तथा उनके कारणों को जान गया। उन्होंने मुझे सौ लोहपुरियों में नीचे बन्दी बना कर रखा; मैंने शक्ति एवं प्रचण्डता से उन सबको भेद डाला, श्येन के समान अपने द्युलोकों में ऊँचा उड़ गया।'' गर्भ में लेटे-लेटे ही वामदेव ने ऐसा कहा।",
+      "meaning_en" : " Therefore it was said by the sage Vamadeva: “I, Vamadeva, being yet in the womb, knew all the births of these gods and their causes. In a hundred cities of iron they held me down and kept me; I broke through them all with might & violence, like a hawk I soared up into my heavens.” While yet he lay in the womb, thus said Vamadeva.",
+      "n" : "8/4/6",
+      "p" : "8/4/4",
+      "u" : "5",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "तदुक्तमृषिणा गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा शतं मा पुर आयसीररक्शन्नधः श्येनो जवसा निरदीयमिति।\nगर्भ एवैतच्छयानो वामदेव एवमुवाच ॥",
+      "verse_tl" : "taduktamṛṣiṇā garbhe nu sannanveṣāmavedamahaṁ devānāṁ janimāni viśvā śataṁ mā pura āyasīrarakśannadhaḥ śyeno javasā niradīyamiti |\ngarbha evaitacchayāno vāmadeva evamuvāca ||"
+    }, {
+      "anvaya_skt" : "एवं विद्वान् सः अस्मात् शरीरभेदात् ऊर्ध्वः उत्क्रम्य सर्वान् कामान् आप्त्वा अमुष्मिन् स्वर्गे लोके अमृतः समभवत् ॥",
+      "anvaya_tl" : "evaṁ vidvān saḥ asmāt śarīrabhedāt ūrdhvaḥ utkramya sarvān kāmān āptvā amuṣmin svarge loke amṛtaḥ samabhavat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.6.mp3",
+      "auro_md" : "And because he knew this, therefore when the strings of the body were snapped asunder lo, he soared forth into yonder world of Paradise and there having possessed all desires, put death behind him, yea, he put death behind him.",
+      "cname_skt" : "चतुर्थोऽध्यायः",
+      "cname_tl" : "caturtho'dhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "because he knew this",
+        "word_skt" : "एवम् विद्वान् सः",
+        "word_tl" : "evam vidvān saḥ"
+      }, {
+        "meaning_en" : "when the strings of the body were snapped asunder",
+        "word_skt" : "अस्मात् शरीरभेदात्",
+        "word_tl" : "asmāt śarīrabhedāt"
+      }, {
+        "meaning_en" : "having soared forth high",
+        "word_skt" : "ऊर्ध्वः उत्क्रम्य",
+        "word_tl" : "ūrdhvaḥ utkramya"
+      }, {
+        "meaning_en" : "having possessed all desires",
+        "word_skt" : "सर्वान् कामान् आप्त्वा",
+        "word_tl" : "sarvān kāmān āptvā"
+      }, {
+        "meaning_en" : "there in that yonder world of Paradise",
+        "word_skt" : "अमुष्मिन् स्वर्गे लोके",
+        "word_tl" : "amuṣmin svarge loke"
+      }, {
+        "meaning_en" : "put death behind him or became immortal",
+        "word_skt" : "अमृतः समभवत्",
+        "word_tl" : "amṛtaḥ samabhavat"
+      } ],
+      "hindi_explain" : "और क्योंकि वे यह जानते थे, इसलिए जब शरीर के सूत्र छिन्न-भिन्न हो गये, तो वे उस स्वर्ग लोक में उत्क्रमण कर गये तथा वहाँ समस्त कामनाओं को प्राप्त करके, मृत्यु का अतिक्रमण कर लिया, हाँ, उन्होंने मृत्यु का पराभव कर दिया।",
+      "meaning_en" : " And because he knew this, therefore when the strings of the body were snapped asunder, lo he soared forth into yonder world of Paradise & there having possessed all desires, put death behind him, yea, he put death behind him.",
+      "n" : "8/5/1",
+      "p" : "8/4/5",
+      "u" : "6",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स एवं विद्वानस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन्‌ स्वर्गे लोके सर्वान्‌ कामानाप्त्वाऽमृतः समभवत्‌ समभवत्‌ ॥",
+      "verse_tl" : "sa evaṁ vidvānasmāccharīrabhedādūrdhva utkramyāmuṣmin svarge loke sarvān kāmānāptvā'mṛtaḥ samabhavat samabhavat ||"
+    } ]
+  }, {
+    "n" : "",
+    "name_skt" : "पञ्चमोध्यायः",
+    "name_tl" : "pañcamodhyāyaḥ",
+    "p" : "8/4",
+    "u" : "5",
+    "verses" : [ {
+      "anvaya_skt" : "वयम् अयम् आत्मा इति  यम्  उपास्महे  सः  कः सः आत्मा कतरः  येन वा  रूपं पश्यति  येन वा शव्दं शृणोति  येन वा गन्धान् आजिघ्रति  येन वा वाचं व्याकरोति  येन वा स्वादु च अस्वादु च विजानाति ॥",
+      "anvaya_tl" : "vayam ayam ātmā iti ( yam ) upāsmahe ( saḥ ) kaḥ saḥ ātmā kataraḥ  yena vā  rūpaṁ paśyati  yena vā śavdaṁ śṛṇoti  yena vā gandhān ājighrati  yena vā vācaṁ vyākaroti  yena vā svādu ca asvādu ca vijānāti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.1.mp3",
+      "auro_md" : "Who is this Spirit that we may adore Him? and which of all these is the Spirit? By whom one sees or by whom one hears or by whom one smells all kinds of perfume or by whom one utters clearness of speech or by whom one knows the sweet and bitter.",
+      "cname_skt" : "पञ्चमोध्यायः",
+      "cname_tl" : "pañcamodhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "who is this",
+        "word_skt" : "कः अयम्",
+        "word_tl" : "kaḥ ayam"
+      }, {
+        "meaning_en" : "Spirit",
+        "word_skt" : "आत्मा इति",
+        "word_tl" : "ātmā iti"
+      }, {
+        "meaning_en" : "that we may adore Him",
+        "word_skt" : "वयम् उपास्महे",
+        "word_tl" : "vayam upāsmahe"
+      }, {
+        "meaning_en" : "that Spirit",
+        "word_skt" : "सः आत्मा",
+        "word_tl" : "saḥ ātmā"
+      }, {
+        "meaning_en" : "which of all these",
+        "word_skt" : "कतरः",
+        "word_tl" : "kataraḥ"
+      }, {
+        "meaning_en" : "by whom",
+        "word_skt" : "येन वा",
+        "word_tl" : "yena vā"
+      }, {
+        "meaning_en" : "one seeth the forms",
+        "word_skt" : "रूपम् पश्यति",
+        "word_tl" : "rūpam paśyati"
+      }, {
+        "meaning_en" : "or by whom",
+        "word_skt" : "येन वा",
+        "word_tl" : "yena vā"
+      }, {
+        "meaning_en" : "one heareth the sounds",
+        "word_skt" : "शव्दम् शृणोति",
+        "word_tl" : "śavdam śṛṇoti"
+      }, {
+        "meaning_en" : "or by whom",
+        "word_skt" : "येन वा",
+        "word_tl" : "yena vā"
+      }, {
+        "meaning_en" : "one smelleth all kinds of perfume",
+        "word_skt" : "गन्धान् आजिघ्रति",
+        "word_tl" : "gandhān ājighrati"
+      }, {
+        "meaning_en" : "or by whom",
+        "word_skt" : "येन वा",
+        "word_tl" : "yena vā"
+      }, {
+        "meaning_en" : "one uttereth clearness of speech",
+        "word_skt" : "वाचम् व्याकरोति",
+        "word_tl" : "vācam vyākaroti"
+      }, {
+        "meaning_en" : "or by whom",
+        "word_skt" : "येन वा",
+        "word_tl" : "yena vā"
+      }, {
+        "meaning_en" : "the sweet and bitter",
+        "word_skt" : "स्वादु च अस्वादु च",
+        "word_tl" : "svādu ca asvādu ca"
+      }, {
+        "meaning_en" : "one knoweth",
+        "word_skt" : "विजानाति",
+        "word_tl" : "vijānāti"
+      } ],
+      "hindi_explain" : "कौन है यह 'परमात्म-चैतन्य' जिसकी हम उपासना करें? तथा इन सब में कौन-सा है 'परमात्म-चैतन्य'? जिसके द्वारा मनुष्य देखता है, जिसके द्वारा वह सुनता है, जिसके द्वारा वह हर प्रकार की गन्ध को सूँघता है अथवा जिसके द्वारा वह वाणी को स्पष्टतया उच्चारित करता है अथवा जिसके द्वारा वह मधुर अथवा कटु स्वादों को जानता है।",
+      "meaning_en" : " Who is this Spirit that we may adore Him? and which of all these is the Spirit? by whom one seeth or by whom one heareth or by whom one smelleth all kinds of perfume or by whom one uttereth clearness of speech or by whom one knoweth the sweet and bitter.",
+      "n" : "8/5/2",
+      "p" : "8/4/5",
+      "u" : "1",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "ॐ कोऽयमात्मेति वयमुपास्महे कतरः स आत्मा।\nयेन वा पश्यति येन वा शृणोति येन वा गंधानाजिघ्रति येन वा वाचं व्याकरोति येन वा स्वादु चास्वादु च विजानाति ॥",
+      "verse_tl" : "om ko'yamātmeti vayamupāsmahe kataraḥ sa ātmā |\nyena vā paśyati yena vā śṛṇoti yena vā gaṁdhānājighrati yena vā vācaṁ vyākaroti yena vā svādu cāsvādu ca vijānāti ||"
+    }, {
+      "anvaya_skt" : "यत् हृदयम् मनः च  तत्  एतत्। सज्ञानम् आज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिः धृतिः  मतिः  मनीषा जूतिः स्मृतिः सङ्कल्पः  क्रतुः असुः कामः वशः  इति एतानि सर्वाणि प्रज्ञानस्व  एव नामधेयानि भवन्ति ॥",
+      "anvaya_tl" : "yat hṛdayam manaḥ ca ( tat ) etat| sajñānam ājñānaṁ vijñānaṁ prajñānaṁ medhā dṛṣṭiḥ dhṛtiḥ  matiḥ  manīṣā jūtiḥ smṛtiḥ saṅkalpaḥ  kratuḥ asuḥ kāmaḥ vaśaḥ  iti etāni sarvāṇi prajñānasva  eva nāmadheyāni bhavanti ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.2.mp3",
+      "auro_md" : "This which is the heart, is mind also. Concept and will and analysis and wisdom and intellect and vision and continuity of purpose and feeling and understanding, pain and memory and volition and application of thought and vitality and desire and passion, all these, yea all, are but names of the Eternal Wisdom.",
+      "cname_skt" : "पञ्चमोध्यायः",
+      "cname_tl" : "pañcamodhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "this which is the heart",
+        "word_skt" : "यत् एतत् हृदयम्",
+        "word_tl" : "yat etat hṛdayam"
+      }, {
+        "meaning_en" : "is mind also",
+        "word_skt" : "तत् मनः च",
+        "word_tl" : "tat manaḥ ca"
+      }, {
+        "meaning_en" : "concept",
+        "word_skt" : "सज्ञानम्",
+        "word_tl" : "sajñānam"
+      }, {
+        "meaning_en" : "will",
+        "word_skt" : "आज्ञानम्",
+        "word_tl" : "ājñānam"
+      }, {
+        "meaning_en" : "analysis",
+        "word_skt" : "विज्ञानम्",
+        "word_tl" : "vijñānam"
+      }, {
+        "meaning_en" : "wisdom",
+        "word_skt" : "प्रज्ञानम्",
+        "word_tl" : "prajñānam"
+      }, {
+        "meaning_en" : "intellect",
+        "word_skt" : "मेधा",
+        "word_tl" : "medhā"
+      }, {
+        "meaning_en" : "vision",
+        "word_skt" : "दृष्टिः",
+        "word_tl" : "dṛṣṭiḥ"
+      }, {
+        "meaning_en" : "continuity of purpose",
+        "word_skt" : "धृतिः",
+        "word_tl" : "dhṛtiḥ"
+      }, {
+        "meaning_en" : "feeling",
+        "word_skt" : "मतिः",
+        "word_tl" : "matiḥ"
+      }, {
+        "meaning_en" : "understanding",
+        "word_skt" : "मनीषा",
+        "word_tl" : "manīṣā"
+      }, {
+        "meaning_en" : "pain",
+        "word_skt" : "जूतिः",
+        "word_tl" : "jūtiḥ"
+      }, {
+        "meaning_en" : "memory",
+        "word_skt" : "स्मृतिः",
+        "word_tl" : "smṛtiḥ"
+      }, {
+        "meaning_en" : "volition",
+        "word_skt" : "सङ्कल्पः",
+        "word_tl" : "saṅkalpaḥ"
+      }, {
+        "meaning_en" : "operation of thought",
+        "word_skt" : "क्रतुः",
+        "word_tl" : "kratuḥ"
+      }, {
+        "meaning_en" : "vitality",
+        "word_skt" : "असुः",
+        "word_tl" : "asuḥ"
+      }, {
+        "meaning_en" : "desire",
+        "word_skt" : "कामः",
+        "word_tl" : "kāmaḥ"
+      }, {
+        "meaning_en" : "passion",
+        "word_skt" : "वशः",
+        "word_tl" : "vaśaḥ"
+      }, {
+        "meaning_en" : "all these",
+        "word_skt" : "इति एतानि सर्वाणि",
+        "word_tl" : "iti etāni sarvāṇi"
+      }, {
+        "meaning_en" : "of the Eternal Wisdom",
+        "word_skt" : "प्रज्ञानस्व एव",
+        "word_tl" : "prajñānasva eva"
+      }, {
+        "meaning_en" : "are but names",
+        "word_skt" : "नामधेयानि भवन्ति",
+        "word_tl" : "nāmadheyāni bhavanti"
+      } ],
+      "hindi_explain" : "यह जो हृदय है, वह मन भी है। अवधारणा (संज्ञान) इच्छाशक्ति (अज्ञान) विश्लेषण (विज्ञान) प्रज्ञा (प्रज्ञान) मेधा, दृष्टि, उद्देश्य तथा भावों की निरन्तरता (धृति), मति, मनीषा, पीडा, स्मृति, संकल्प, विचारशक्ति (क्रतु), प्राण-शक्ति (असु), कामना एवं वासना, ये सभी, 'शाश्वत-प्रज्ञान' के ही विभिन्न नाम (अभिधेय) हैं।",
+      "meaning_en" : " This which is the heart, is mind also. Concept and will and analysis and wisdom and intellect and vision and continuity of purpose and feeling and understanding, pain and memory and volition and operation of thought and vitality and desire and passion, all these, yea all, are but names of the Eternal Wisdom.",
+      "n" : "8/5/3",
+      "p" : "8/5/1",
+      "u" : "2",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "यदेतद्धृदयं मनश्चैतत्‌।\nसंज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिधृ।\nर्तिमतिर्मनीषा जूतिः स्मृतिः संकल्पः क्रतुरसुः कामो वश इति।\nसर्वाण्येवैतानि प्रज्ञानस्य नामधेयानि भवंति ॥",
+      "verse_tl" : "yadetaddhṛdayaṁ manaścaitat |\nsaṁjñānamājñānaṁ vijñānaṁ prajñānaṁ medhā dṛṣṭidhṛ|\nrtimatirmanīṣā jūtiḥ smṛtiḥ saṁkalpaḥ kraturasuḥ kāmo vaśa iti |\nsarvāṇyevaitāni prajñānasya nāmadheyāni bhavaṁti ||"
+    }, {
+      "anvaya_skt" : "एषः ब्रह्मा एषः इन्द्रः  एषः प्रजापतिः एषः प्रजापतिः एते सर्वे देवाः। इमानि च पृथिवी वायुः आकाशः आपः ज्योतिंषि इति  - एतानि पञ्च महाभूतानि इमानि क्षुद्रमिश्राणि इव च वीजानि इतराणि च इतराणि च अण्डजानि च जारुजानि च स्वेदजानि च उद्भिज्जानि च अश्वाः गावः पुरुषाः हस्तिनः यत् किं च  इदं प्राणि जङ्गमं पतत्रि च यत् च स्थावरं तत् सर्वं प्रज्ञानेत्रं  प्रज्ञाने प्रतिष्ठितम्। लोकः प्रज्ञानेत्रः प्रज्ञा प्रतिष्ठा   अत  प्रज्ञानं ब्रह्म ॥",
+      "anvaya_tl" : "eṣaḥ brahmā eṣaḥ indraḥ  eṣaḥ prajāpatiḥ eṣaḥ prajāpatiḥ ete sarve devāḥ| imāni ca pṛthivī vāyuḥ ākāśaḥ āpaḥ jyotiṁṣi iti  - etāni pañca mahābhūtāni imāni kṣudramiśrāṇi iva ca vījāni itarāṇi ca itarāṇi ca aṇḍajāni ca jārujāni ca svedajāni ca udbhijjāni ca aśvāḥ gāvaḥ puruṣāḥ hastinaḥ yat kiṁ ca  idaṁ prāṇi jaṅgamaṁ patatri ca yat ca sthāvaraṁ tat sarvaṁ prajñānetraṁ  prajñāne pratiṣṭhitam| lokaḥ prajñānetraḥ prajñā pratiṣṭhā  ( ata ) prajñānaṁ brahma ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.3.mp3",
+      "auro_md" : "This creating Brahman; this ruling Indra; this Prajapati, Father of his peoples; all these Gods and these five elemental substances, even earth, air, ether, water and the shining principles; and these great creatures and those small; and seeds of either sort; and things egg-born and things sweat-born and things born of the womb and plants that sprout; and horses and cattle and men and elephants; yea, whatsoever thing here breathes and all that moves and everything that has wings and whatso moves not; by Wisdom all these are guided and have their firm abiding in Wisdom. For Wisdom is the eye of the world. Wisdom is the sure foundation. Wisdom is Brahman Eternal.",
+      "cname_skt" : "पञ्चमोध्यायः",
+      "cname_tl" : "pañcamodhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "this creating Brahma",
+        "word_skt" : "एषः ब्रह्मा",
+        "word_tl" : "eṣaḥ brahmā"
+      }, {
+        "meaning_en" : "this ruling Indra",
+        "word_skt" : "एषः इन्द्रः",
+        "word_tl" : "eṣaḥ indraḥ"
+      }, {
+        "meaning_en" : "this Prajapati Father of his peoples",
+        "word_skt" : "एषः प्रजापतिः",
+        "word_tl" : "eṣaḥ prajāpatiḥ"
+      }, {
+        "meaning_en" : "all these Gods",
+        "word_skt" : "एते सर्वे देवाः",
+        "word_tl" : "ete sarve devāḥ"
+      }, {
+        "meaning_en" : "these",
+        "word_skt" : "इमानि च",
+        "word_tl" : "imāni ca"
+      }, {
+        "meaning_en" : "earth",
+        "word_skt" : "पृथिवी",
+        "word_tl" : "pṛthivī"
+      }, {
+        "meaning_en" : "air",
+        "word_skt" : "वायुः",
+        "word_tl" : "vāyuḥ"
+      }, {
+        "meaning_en" : "ether",
+        "word_skt" : "आकाशः",
+        "word_tl" : "ākāśaḥ"
+      }, {
+        "meaning_en" : "water",
+        "word_skt" : "आपः",
+        "word_tl" : "āpaḥ"
+      }, {
+        "meaning_en" : "the shining principles",
+        "word_skt" : "ज्योतिंषि",
+        "word_tl" : "jyotiṁṣi"
+      }, {
+        "meaning_en" : "these",
+        "word_skt" : "इति एतानि",
+        "word_tl" : "iti etāni"
+      }, {
+        "meaning_en" : "five elemental substances",
+        "word_skt" : "पञ्च महाभूतानि",
+        "word_tl" : "pañca mahābhūtāni"
+      }, {
+        "meaning_en" : "and these great creatures and those small",
+        "word_skt" : "इमानि क्षुद्रमिश्राणि इव",
+        "word_tl" : "imāni kṣudramiśrāṇi iva"
+      }, {
+        "meaning_en" : "and seeds of either sort",
+        "word_skt" : "इतराणि च वीजानि",
+        "word_tl" : "itarāṇi ca vījāni"
+      }, {
+        "meaning_en" : "",
+        "word_skt" : "इतराणि च",
+        "word_tl" : "itarāṇi ca"
+      }, {
+        "meaning_en" : "and things egg-born",
+        "word_skt" : "अण्डजानि च",
+        "word_tl" : "aṇḍajāni ca"
+      }, {
+        "meaning_en" : "and things born of the womb",
+        "word_skt" : "जारुजानि च",
+        "word_tl" : "jārujāni ca"
+      }, {
+        "meaning_en" : "and things sweat-born",
+        "word_skt" : "स्वेदजानि च",
+        "word_tl" : "svedajāni ca"
+      }, {
+        "meaning_en" : "and plants that sprout",
+        "word_skt" : "उद्भिज्जानि च",
+        "word_tl" : "udbhijjāni ca"
+      }, {
+        "meaning_en" : "and horses",
+        "word_skt" : "अश्वाः",
+        "word_tl" : "aśvāḥ"
+      }, {
+        "meaning_en" : "and cattle",
+        "word_skt" : "गावः",
+        "word_tl" : "gāvaḥ"
+      }, {
+        "meaning_en" : "and men",
+        "word_skt" : "पुरुषाः",
+        "word_tl" : "puruṣāḥ"
+      }, {
+        "meaning_en" : "and elephants",
+        "word_skt" : "हस्तिनः",
+        "word_tl" : "hastinaḥ"
+      }, {
+        "meaning_en" : "whatsoever thing here breatheth",
+        "word_skt" : "यत् किम् च इदम् प्राणि",
+        "word_tl" : "yat kim ca idam prāṇi"
+      }, {
+        "meaning_en" : "and all that moveth",
+        "word_skt" : "जङ्गमम्",
+        "word_tl" : "jaṅgamam"
+      }, {
+        "meaning_en" : "and everything that hath wings",
+        "word_skt" : "पतत्रि च",
+        "word_tl" : "patatri ca"
+      }, {
+        "meaning_en" : "and whatso moveth not",
+        "word_skt" : "यत् च स्थावरम् ",
+        "word_tl" : "yat ca sthāvaram"
+      }, {
+        "meaning_en" : "all these",
+        "word_skt" : "तत् सर्वम्",
+        "word_tl" : "tat sarvam"
+      }, {
+        "meaning_en" : "by Wisdom are guided",
+        "word_skt" : "प्रज्ञानेत्रम्",
+        "word_tl" : "prajñānetram"
+      }, {
+        "meaning_en" : "having firm abiding in Wisdom",
+        "word_skt" : "प्रज्ञाने प्रतिष्ठितम्",
+        "word_tl" : "prajñāne pratiṣṭhitam"
+      }, {
+        "meaning_en" : "Wisdom is the eye of the world",
+        "word_skt" : "लोकः प्रज्ञानेत्रः",
+        "word_tl" : "lokaḥ prajñānetraḥ"
+      }, {
+        "meaning_en" : "Wisdom is the sure foundation",
+        "word_skt" : "प्रज्ञा प्रतिष्ठा",
+        "word_tl" : "prajñā pratiṣṭhā"
+      }, {
+        "meaning_en" : "Wisdom is Brahman Eternal",
+        "word_skt" : "प्रज्ञानम् ब्रह्म",
+        "word_tl" : "prajñānam brahma"
+      } ],
+      "hindi_explain" : "ये सृष्टिकर्ता ब्रह्मा, ये शासनकर्ता इन्द्र, ये समस्त प्रजा के पिता, प्रजापति; ये सब देवगण तथा ये पञ्चमहाभूत, पृथ्वी, वायु, आकाश, जल तथा ज्योतितत्त्व तक; और ये महाकाय, विशाल प्राणी तथा वे क्षुद्र, छोटे-छोटे प्राणी; और हर प्रकार के बीज, और अण्डज जीव, स्वेदजं जीव, गर्भज (जारुज) जीव, तथा सभी वनस्पतियाँ, उद्भिज (अंकुरित होने वाले पौधे), घोड़े गायें, मनुष्य, हाथी, जो कुछ भी प्राणमय है, तथा जो कुछ भी जंगम (गतिमय) है, जो कुछ भी पखोंवाला है तथा जो कुछ स्थावर (गतिहीन) है; ये सभी 'प्रज्ञान' के द्वारा संचालित हैं तथा 'प्रज्ञान' में हो सुदृढ़ रूप से प्रतिष्ठित हैं। कारण, 'प्रज्ञा' ही है लोकों का नेत्र, 'प्रज्ञा' ही है सुदृढ़ आधार (प्रतिष्ठा), 'प्रज्ञान' ही 'शाश्वत ब्रह्म' है।",
+      "meaning_en" : " This creating Brahma; this ruling Indra; this Prajapati Father of his peoples; all these Gods and these five elemental substances, even earth, air, ether, water and the shining principles; and these great creatures and those small; and seeds of either sort; and things egg-born and things sweat-born and things born of the womb and plants that sprout; and horses and cattle and men and elephants; yea, whatsoever thing here breatheth and all that moveth and everything that hath wings and whatso moveth not; by Wisdom all these are guided and have their firm abiding in Wisdom. For Wisdom is the eye of the world, Wisdom is the sure foundation, Wisdom is Brahman Eternal.",
+      "n" : "8/5/4",
+      "p" : "8/5/2",
+      "u" : "3",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "एष ब्रह्मैष इन्द्र एष प्रजापतिरेते सर्वे देवा इमानि च पञ्चमहाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्शुद्रमिश्राणीव।\nबीजानीतराणि चेतराणि चाण्डजानि च जारुजानि च स्वेदजानि चोद्भिज्जानि चाश्वा गावः पुरुषा हस्तिनो यत्किञ्चेदं प्राणि जङ्गमं च पतत्रि च यच्च स्थावरं सर्वं तत्प्रज्ञानेत्रं प्रज्ञाने प्रतिष्ठितं प्रज्ञानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म ॥",
+      "verse_tl" : "eṣa brahmaiṣa indra eṣa prajāpatirete sarve devā imāni ca pañcamahābhūtāni pṛthivī vāyurākāśa āpo jyotīṁṣītyetānīmāni ca kśudramiśrāṇīva |\nbījānītarāṇi cetarāṇi cāṇḍajāni ca jārujāni ca svedajāni codbhijjāni cāśvā gāvaḥ puruṣā hastino yatkiñcedaṁ prāṇi jaṅgamaṁ ca patatri ca yacca sthāvaraṁ sarvaṁ tatprajñānetraṁ prajñāne pratiṣṭhitaṁ prajñānetro lokaḥ prajñā pratiṣṭhā prajñānaṁ brahma ||"
+    }, {
+      "anvaya_skt" : "एतेन प्रज्ञेन आत्मना अस्मात् लोकात् उत्क्रम्य सर्वान् कामान् आप्त्वा स्वर्गे लोके सः अमृतः समभवत् ॥",
+      "anvaya_tl" : "etena prajñena ātmanā asmāt lokāt utkramya sarvān kāmān āptvā svarge loke saḥ amṛtaḥ samabhavat ||",
+      "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.4.mp3",
+      "auro_md" : "By the strength of the wise and seeing Self the sage having soared up from this world ascended into his other world of Paradise; and there having possessed desire, put death behind him, yea, he put death behind him.",
+      "cname_skt" : "पञ्चमोध्यायः",
+      "cname_tl" : "pañcamodhyāyaḥ",
+      "glossary" : [ {
+        "meaning_en" : "by the strength of the wise and seeing Self",
+        "word_skt" : "एतेन प्रज्ञेन आत्मना",
+        "word_tl" : "etena prajñena ātmanā"
+      }, {
+        "meaning_en" : "from this world",
+        "word_skt" : "अस्मात् लोकात्",
+        "word_tl" : "asmāt lokāt"
+      }, {
+        "meaning_en" : "having soared up",
+        "word_skt" : "उत्क्रम्य",
+        "word_tl" : "utkramya"
+      }, {
+        "meaning_en" : "all desire",
+        "word_skt" : "सर्वान् कामान्",
+        "word_tl" : "sarvān kāmān"
+      }, {
+        "meaning_en" : "having possessed",
+        "word_skt" : "आप्त्वा",
+        "word_tl" : "āptvā"
+      }, {
+        "meaning_en" : "ascended into the other world of Paradise",
+        "word_skt" : "स्वर्गे लोके",
+        "word_tl" : "svarge loke"
+      }, {
+        "meaning_en" : "he put death behind him",
+        "word_skt" : "सः अमृतः समभवत्",
+        "word_tl" : "saḥ amṛtaḥ samabhavat"
+      } ],
+      "hindi_explain" : "ऋषि ने इसी प्रज्ञानस्वरूप एवं द्रष्टारूप 'आत्मा' की शक्ति से इस लोक से उत्क्रमण किया और अपने उस अन्य स्वर्ग लोक में ऊपर उठकर, वहाँ समस्त कामनाओं को प्राप्त करके मृत्यु का अतिक्रमण किया, सचमुच, उन्होंने मृत्यु का अतिक्रमण किया।",
+      "meaning_en" : " By the strength of the wise and seeing Self the sage having soared up from this world ascended into his other world of Paradise; and there having possessed desire, put death behind him, yea, he put death behind him.",
+      "n" : "",
+      "p" : "8/5/3",
+      "u" : "4",
+      "uname_skt" : "ऐतरेयोपनिषद्",
+      "uname_tl" : "aitareyopaniṣad",
+      "verse_skt" : "स एतेन प्राज्ञेनाऽऽत्मनाऽस्माल्लोकादुत्क्रम्यामुष्मिन्स्वर्गे लोके सर्वान्‌ कामानाप्त्वाऽमृतः समभवत्‌ समभवत्‌ ॥",
+      "verse_tl" : "sa etena prājñenā''tmanā'smāllokādutkramyāmuṣminsvarge loke sarvān kāmānāptvā'mṛtaḥ samabhavat samabhavat ||"
+    } ]
+  } ],
+  "title_skt" : "ऐतरेयोपनिषद्",
+  "title_tl" : "aitareyopaniṣad",
+  "u" : "8"
+}

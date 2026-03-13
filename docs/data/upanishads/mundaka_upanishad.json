@@ -1,0 +1,652 @@
+[
+  {
+    "reference": "1.1.1",
+    "sanskrit_iast": "brahmā devānāṁ prathamaḥ sambabhūva viśvasya kartā bhuvanasya goptā | sa brahmavidyāṁ sarvavidyāpratiṣṭhāmatharvāya jyeṣṭhaputrāya prāha ||",
+    "meaning": "ब्रह्मा देवानां प्रथमः सम्बभूव विश्वस्य कर्ता भुवनस्य गोप्ता। स ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय ज्येष्ठपुत्राय प्राह ॥",
+    "text": "Brahma first of the Gods was born, the creator of all, the world's protector; he to Atharvan, his eldest son, declared the Godknowledge in which all sciences have their foundation.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.2",
+    "sanskrit_iast": "atharvaṇe yāṁ pravadeta brahmātharvā taṁ purovācāṅgire brahmavidyām | sa bhāradvājāya satyavāhāya prāha bhāradvājo'ṅgirase parāvarām ||",
+    "meaning": "अथर्वणे यां प्रवदेत ब्रह्माथर्वा तं पुरोवाचाङ्गिरे ब्रह्मविद्याम्‌। स भारद्वाजाय सत्यवाहाय प्राह भारद्वाजोऽङ्गिरसे परावराम्‌ ॥",
+    "text": "The Godknowledge by Brahma declared to Atharvan, Atharvan of old declared to Angir; he to Satyavaha the Bharadwaja told it, the Bharadwaja to Angiras, both the higher and the lower knowledge.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 2,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.3",
+    "sanskrit_iast": "śaunako ha vai mahāśālo'ṅgirasaṁ vidhivadupasannaḥ papraccha | kasmin nu bhagavo vijñāte sarvamidaṁ vijñātaṁ bhavatīti ||",
+    "meaning": "शौनको ह वै महाशालोऽङ्गिरसं विधिवदुपसन्नः पप्रच्छ। कस्मिन् नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ॥",
+    "text": "Shaunaka, the great house-lord, came to Angiras in the due way of the disciple and asked of him, “Lord, by knowing what does all this that is become known?”",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 3,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.4",
+    "sanskrit_iast": "tasmai sa hovāca - - dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca ||",
+    "meaning": "तस्मै स होवाच - - द्वे विद्ये वेदितव्ये इति ह स्म यद् ब्रह्मविदो वदन्ति परा चैवापरा च ॥",
+    "text": "To him thus spoke Angiras: Twofold is the knowledge that must be known of which the knowers of the Brahman tell, the higher and the lower knowledge.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 4,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.5",
+    "sanskrit_iast": "tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikśā kalpo vyākaraṇaṁ niruktaṁ chando jyotiṣamiti | atha parā yayā tadakṣaramadhigamyate ||",
+    "meaning": "तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्शा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति। अथ परा यया तदक्षरमधिगम्यते ॥",
+    "text": "Of which the lower, the Rig Veda and the Yajur Veda and the Sama Veda and the Atharva Veda, chanting, ritual, grammar, etymological interpretation, and prosody and astronomy. And then the higher by which is known the Immutable.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 5,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.6",
+    "sanskrit_iast": "yat tadadreśyamagrāhyamagotramavarṇamacakṣuḥśrotraṁ tadapāṇipādam | nityaṁ vibhuṁ sarvagataṁ susūkṣmaṁ tadavyayaṁ yad bhūtayoniṁ paripaśyanti dhīrāḥ ||",
+    "meaning": "यत् तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादम्‌। नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद् भूतयोनिं परिपश्यन्ति धीराः ॥",
+    "text": "That the invisible, that the unseizable, without connections, without hue, without eye or ear, that which is without hands or feet, eternal, pervading, which is in all things and impalpable, that which is Imperishable, that which is the womb of creatures sages behold everywhere.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 6,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.7",
+    "sanskrit_iast": "yathorṇanābhiḥ sṛjate gṛhṇate ca yathā pṛthivyāmoṣadhayaḥ saṁbhavanti | yathā sataḥ puruṣāt keśalomāni tathā'kṣarāt saṁbhavatīha viśvam ||",
+    "meaning": "यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्यामोषधयः संभवन्ति। यथा सतः पुरुषात्‌ केशलोमानि तथाऽक्षरात्‌ संभवतीह विश्वम्‌ ॥",
+    "text": "As the spider puts out and gathers in, as herbs spring up upon the earth, as hair of head and body grow from a living man, so here all is born from the Immutable.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 7,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.8",
+    "sanskrit_iast": "tapasā cīyate brahma tato'nnamabhijāyate | annāt prāṇo manaḥ satyaṁ lokāḥ karmasu cāmṛtam ||",
+    "meaning": "तपसा चीयते ब्रह्म ततोऽन्नमभिजायते। अन्नात्‌ प्राणो मनः सत्यं लोकाः कर्मसु चामृतम्‌ ॥",
+    "text": "Brahman grows by his energy at work, and then from Him is Matter born, and out of Matter life, and mind and truth and the worlds, and in works immortality.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 8,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.1.9",
+    "sanskrit_iast": "yaḥ sarvajñaḥ sarvavid yasya jñānamayaṁ tapaḥ | tasmādetad brahma nāma rūpamannaṁ ca jāyāte ||",
+    "meaning": "यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयं तपः। तस्मादेतद् ब्रह्म नाम रूपमन्नं च जायाते ॥",
+    "text": "He who is the Omniscient, the allwise, He whose energy is all made of knowledge, from Him is born this that is Brahman here, this Name and Form and Matter.",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 9,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.1",
+    "sanskrit_iast": "tadetat satyaṁ mantreṣu karmāṇi kavayo yānyapaśyaṁstāni tretāyāṁ bahudhā saṁtatāni | tānyācaratha niyataṁ satyakāmā eṣa vaḥ panthāḥ sukṛtasya loke ||",
+    "meaning": "तदेतत्‌ सत्यं मन्त्रेषु कर्माणि कवयो यान्यपश्यंस्तानि त्रेतायां बहुधा संततानि। तान्याचरथ नियतं सत्यकामा एष वः पन्थाः सुकृतस्य लोके ॥",
+    "text": "This is That, the Truth of things: works which the sages beheld in the Mantras were in the Treta manifoldly extended. Works do ye perform religiously with one passion for the Truth; this is your road to the heaven of good deeds.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 1,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.2",
+    "sanskrit_iast": "yadā lelāyate hyarciḥ samiddhe havyavāhane | tadājyabhāgāvantareṇāhutīḥ pratipādayet ||",
+    "meaning": "यदा लेलायते ह्यर्चिः समिद्धे हव्यवाहने। तदाज्यभागावन्तरेणाहुतीः प्रतिपादयेत्‌ ॥",
+    "text": "When the fire of the sacrifice is kindled and the flame sways and quivers, then between the double pourings of butter cast therein with faith thy offerings.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.3",
+    "sanskrit_iast": "yasyāgnihotramadarśamapaurṇamāsa-macāturmāsyamanāgrayaṇamatithivarjitaṁ ca | ahutamavaiśvadevamavidhinā huta-māsaptamāṁstasya lokān hinasti ||",
+    "meaning": "यस्याग्निहोत्रमदर्शमपौर्णमास-मचातुर्मास्यमनाग्रयणमतिथिवर्जितं च। अहुतमवैश्वदेवमविधिना हुत-मासप्तमांस्तस्य लोकान्‌ हिनस्ति ॥",
+    "text": "For he whose altarfires are empty of the newmoon offering and the fullmoon offering and the offering of the rains and the offering of the first fruits, or unfed, or fed without right ritual, or without guests or without the dues to the VishwaDevas, destroys his hope of all the seven worlds.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 3,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.4",
+    "sanskrit_iast": "kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā | sphuliṅginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ||",
+    "meaning": "काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा। स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥",
+    "text": "kälé karälé manojavä sulohitä sudhümravarëä sphuliìginé viçvarücé devé ca iti leläyamänäù sapta jihväù ||",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 4,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.5",
+    "sanskrit_iast": "eteṣu yaścarate bhrājamāneṣu yathākālaṁ cāhutayo hyādadāyan | taṁ nayantyetāḥ sūryasya raśmayo yatra devānāṁ patireko'dhivāsaḥ ||",
+    "meaning": "एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन्‌। तं नयन्त्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः ॥",
+    "text": "He who in these when they are blazing bright performs the rites, in their due season, him his fires of sacrifice take and they lead him, these rays of the Sun, there where the Overlord of the gods is the Inhabitant on high.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 5,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.6",
+    "sanskrit_iast": "ehyehīti tamāhutayaḥ suvarcasaḥ sūryasya raśmibhiryajamānaṁ vahanti | priyāṁ vācamabhivadantyo'rcayantya eṣa vaḥ puṇyaḥ sukṛto brahmalokaḥ ||",
+    "meaning": "एह्येहीति तमाहुतयः सुवर्चसः सूर्यस्य रश्मिभिर्यजमानं वहन्ति। प्रियां वाचमभिवदन्त्योऽर्चयन्त्य एष वः पुण्यः सुकृतो ब्रह्मलोकः ॥",
+    "text": "“Come with us”, “Come with us”, they cry to him, these luminous fires of sacrifice, and they bear him by the rays of the Sun speaking to him pleasant words of sweetness, doing him homage, “This is your holy world of Brahman and the heaven of your righteousness.”",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 6,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.7",
+    "sanskrit_iast": "plavā hyete adṛḍhā yajñarūpā aṣṭādaśoktamavaraṁ yeṣu karma | etacchreyo ye'bhinandanti mūḍhā jarāmṛtyuṁ te punarevāpi yanti ||",
+    "meaning": "प्लवा ह्येते अदृढा यज्ञरूपा अष्टादशोक्तमवरं येषु कर्म। एतच्छ्रेयो येऽभिनन्दन्ति मूढा जरामृत्युं ते पुनरेवापि यन्ति ॥",
+    "text": "But frail are the ships of sacrifice, frail these forms of sacrifice, all the eighteen of them, in which are declared the lower works; fools are they who hail them as the highest good and they come yet again to this world of age and death.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 7,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.8",
+    "sanskrit_iast": "avidyāyāmantare vartamānāḥ svayaṁ dhīrāḥ paṇḍitaṁ manya7mānāḥ | jaṅghanyamānāḥ pariyanti mūḍhā andhenaiva nīyamānā yathāndhāḥ ||",
+    "meaning": "अविद्यायामन्तरे वर्तमानाः स्वयं धीराः पण्डितं मन्य७मानाः। जङ्घन्यमानाः परियन्ति मूढा अन्धेनैव नीयमाना यथान्धाः ॥",
+    "text": "They who dwell shut within the Ignorance and they hold themselves for learned men thinking “We, even we are the wise and the sages”-fools are they and they wander around beaten and stumbling like blind men led by the blind.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 8,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.9",
+    "sanskrit_iast": "avidyāyāṁ bahudhā vartamānā vayaṁ kṛtārthā ityabhimanyanti bālāḥ | yat karmiṇo na pravedayanti rāgāt tenāturāḥ kṣīṇalokāścyavante ||",
+    "meaning": "अविद्यायां बहुधा वर्तमाना वयं कृतार्था इत्यभिमन्यन्ति बालाः। यत्‌ कर्मिणो न प्रवेदयन्ति रागात्‌ तेनातुराः क्षीणलोकाश्च्यवन्ते ॥",
+    "text": "They dwell in many bonds of the Ignorance, children thinking, “We have achieved our aim of Paradise”; for when the men of works are held by their affections, and arrive not at the Knowledge, then they are overtaken by anguish, then their Paradise wastes by enjoying and they fall from their heavens.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 9,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.10",
+    "sanskrit_iast": "iṣṭāpūrtaṁ manyamānā variṣṭhaṁ nānyacchreyo vedayante pramūḍhāḥ | nākasya pṛṣṭhe te sukṛte'nubhūtvemaṁ lokaṁ hīnataraṁ vā viśanti ||",
+    "meaning": "इष्टापूर्तं मन्यमाना वरिष्ठं नान्यच्छ्रेयो वेदयन्ते प्रमूढाः। नाकस्य पृष्ठे ते सुकृतेऽनुभूत्वेमं लोकं हीनतरं वा विशन्ति ॥",
+    "text": "Minds bewildered who hold the oblation offered and the well dug for the greatest righteousness and know not any other highest good, on the back of heaven they enjoy the world won by their righteousness and enter again this or even a lower world.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 10,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.11",
+    "sanskrit_iast": "tapaḥśraddhe ye hyupavasantyaraṇye śāntā vidvāṁso bhaikṣyacaryāṁ carantaḥ | sūryadvāreṇa te virajāḥ prayānti yatrāmṛtaḥ sa puruṣo hyavyayātmā ||",
+    "meaning": "तपःश्रद्धे ये ह्युपवसन्त्यरण्ये शान्ता विद्वांसो भैक्ष्यचर्यां चरन्तः। सूर्यद्वारेण ते विरजाः प्रयान्ति यत्रामृतः स पुरुषो ह्यव्ययात्मा ॥",
+    "text": "But they who in the forest follow after faith and self-discipline, calm and full of knowledge, living upon alms, cast from them the dust of their passions, and through the gate of the Sun they pass on there where is the Immortal, the Spirit, the Self undecaying and imperishable.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 11,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.12",
+    "sanskrit_iast": "parīkṣya lokān karmacitān brāhmaṇo nirvedamāyānnāstyakṛtaḥ kṛtena | tadvijñānārthaṁ sa gurumevābhigacchet samitpāṇiḥ śrotriyaṁ brahmaniṣṭham ||",
+    "meaning": "परीक्ष्य लोकान्‌ कर्मचितान्‌ ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन। तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत्‌ समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम्‌ ॥",
+    "text": "The seeker of the Brahman, having put to the test the worlds piled up by works, arrives at world-distaste, for not by work done is reached He who is Uncreated. For the knowledge of That, let him approach, fuel in hand, a Guru, one who is learned in the Veda and is devoted to contemplation of the Brahman.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 12,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "1.2.13",
+    "sanskrit_iast": "tasmai sa vidvānupasannāya samyak praśāntacittāya śamānvitāya | yenākṣaraṁ puruṣaṁ veda satyaṁ provāca tāṁ tattvato brahmavidyām ||",
+    "meaning": "तस्मै स विद्वानुपसन्नाय सम्यक्‌ प्रशान्तचित्ताय शमान्विताय। येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम्‌ ॥",
+    "text": "To him because he has taken entire refuge with him, with a heart tranquillised and a spirit at peace, that man of knowledge declares in its principles the science of the Brahman by which one comes to know the Immutable Spirit, the True and Real.",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 13,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.1",
+    "sanskrit_iast": "tadetat satyaṁ yathā sudīptāt pāvakād visphuliṅgāḥ sahasraśaḥ prabhavante sarūpāḥ | tathākṣarād vividhāḥ somya bhāvāḥ prajāyante tatra caivāpi yanti ||",
+    "meaning": "तदेतत्‌ सत्यं यथा सुदीप्तात्‌ पावकाद् विस्फुलिङ्गाः सहस्रशः प्रभवन्ते सरूपाः। तथाक्षराद् विविधाः सोम्य भावाः प्रजायन्ते तत्र चैवापि यन्ति ॥",
+    "text": "This is That, the Truth of things: as from one highkindled fire thousands of different sparks are born and all have the same form of fire, so, O fair son, from the immutable manifold becomings are born and even into that they depart.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.2",
+    "sanskrit_iast": "divyo hyamūrtaḥ puruṣaḥ sa bāhyābhyantaro hyajaḥ | aprāṇo hyamanāḥ śubhro hyakṣarāt parataḥ paraḥ ||",
+    "meaning": "दिव्यो ह्यमूर्तः पुरुषः स बाह्याभ्यन्तरो ह्यजः। अप्राणो ह्यमनाः शुभ्रो ह्यक्षरात्‌ परतः परः ॥",
+    "text": "He, the divine, the formless Spirit, even he is the outward and the inward and he the Unborn; he is beyond life, beyond mind, luminous, Supreme beyond the immutable.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 2,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.3",
+    "sanskrit_iast": "etasmājjāyate prāṇo manaḥ sarvendriyāṇi ca | khaṁ vāyurjyotirāpaḥ pṛthivī viśvasya dhāriṇī ||",
+    "meaning": "एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च। खं वायुर्ज्योतिरापः पृथिवी विश्वस्य धारिणी ॥",
+    "text": "Life and mind and the senses are born from Him and the sky, and the wind, and light, and the waters and earth upholding all that is.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 3,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.4",
+    "sanskrit_iast": "agnīrmūrdhā cakṣuṣī candrasūryau diśaḥ śrotre vāg vivṛtāśca vedāḥ | vāyuḥ prāṇo hṛdayaṁ viśvamasya padbhyāṁ pṛthivī hyeṣa sarvabhūtāntarātmā ||",
+    "meaning": "अग्नीर्मूर्धा चक्षुषी चन्द्रसूर्यौ दिशः श्रोत्रे वाग्‌ विवृताश्च वेदाः। वायुः प्राणो हृदयं विश्वमस्य पद्‌भ्यां पृथिवी ह्येष सर्वभूतान्तरात्मा ॥",
+    "text": "Fire is the head of Him and his eyes are the Sun and Moon, the quarters his organs of hearing and the revealed Vedas are his voice, air is his breath, the universe is his heart, Earth lies at his feet. He is the inner Self in all beings.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 4,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.5",
+    "sanskrit_iast": "tasmādagniḥ samidho yasya sūryaḥ somāt parjanya oṣadhayaḥ pṛthivyām | pumān retaḥ siñcati yoṣitāyāṁ bahvīḥ prajāḥ puruṣāt saṁprasūtāḥ ||",
+    "meaning": "तस्मादग्निः समिधो यस्य सूर्यः सोमात्‌ पर्जन्य ओषधयः पृथिव्याम्‌। पुमान्‌ रेतः सिञ्चति योषितायां बह्वीः प्रजाः पुरुषात्‌ संप्रसूताः ॥",
+    "text": "From Him is fire, of which the Sun is the fuel, then rain from the Soma, herbs upon the earth, and the male casts his seed into woman: thus are these many peoples born from the Spirit.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 5,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.6",
+    "sanskrit_iast": "tasmādṛcaḥ sāma yajūṁṣi dīkṣā yajñāśca sarve kratavo dakṣiṇāśca | saṁvatsaraśca yajamānaśca lokāḥ somo yatra pavate yatra sūryaḥ ||",
+    "meaning": "तस्मादृचः साम यजूंषि दीक्षा यज्ञाश्च सर्वे क्रतवो दक्षिणाश्च। संवत्सरश्च यजमानश्च लोकाः सोमो यत्र पवते यत्र सूर्यः ॥",
+    "text": "From Him are the hymns of the Rig Veda, the Sama and the Yajur, initiation, and all sacrifices and works of sacrifice, and dues given, the year and the giver of the sacrifice and the worlds, on which the moon shines and the sun.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 6,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.7",
+    "sanskrit_iast": "tasmācca devā bahudhā saṁprasūtāḥ sādhyā manuṣyāḥ paśavo vayāṁsi | prāṇāpānau vrīhiyavau tapaśca śraddha satyaṁ brahmacaryaṁ vidhiśca ||",
+    "meaning": "तस्माच्च देवा बहुधा संप्रसूताः साध्या मनुष्याः पशवो वयांसि। प्राणापानौ व्रीहियवौ तपश्च श्रद्ध सत्यं ब्रह्मचर्यं विधिश्च ॥",
+    "text": "And from Him have issued many gods, and demigods and men and beasts and birds, the main breath and downward breath, and rice and barley, and askesis and faith and Truth, and chastity and rule of right practice.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 7,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.8",
+    "sanskrit_iast": "sapta prāṇāḥ prabhavanti tasmāt saptārciṣaḥ samidhaḥ sapta homāḥ | sapta ime lokā yeṣu caranti prāṇā guhāśayā nihitāḥ sapta sapta ||",
+    "meaning": "सप्त प्राणाः प्रभवन्ति तस्मात्‌ सप्तार्चिषः समिधः सप्त होमाः। सप्त इमे लोका येषु चरन्ति प्राणा गुहाशया निहिताः सप्त सप्त ॥",
+    "text": "The seven breaths are born from Him and the seven lights and kinds of fuel and the seven oblations and these seven worlds in which move the lifebreaths set within with the secret heart for their dwellingplace, seven and seven.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 8,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.9",
+    "sanskrit_iast": "ataḥ samudrā girayaśca sarve'smāt syandante sindhavaḥ sarvarūpāḥ | ataśca sarvā oṣadhayo rasāśca yenaiṣa bhūtaistiṣṭhate hyantarātmā ||",
+    "meaning": "अतः समुद्रा गिरयश्च सर्वेऽस्मात्‌ स्यन्दन्ते सिन्धवः सर्वरूपाः। अतश्च सर्वा ओषधयो रसाश्च येनैष भूतैस्तिष्ठते ह्यन्तरात्मा ॥",
+    "text": "From Him are the oceans and all these mountains and from Him flow rivers of all forms, and from Him are all plants, and sensible delight which makes the soul to abide with the material elements.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 9,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.1.10",
+    "sanskrit_iast": "puruṣa evedaṁ viśvaṁ karma tapo brahma parāmṛtam | etadyo veda nihitaṁ guhāyāṁ so'vidyāgranthiṁ vikiratīha somya ||",
+    "meaning": "पुरुष एवेदं विश्वं कर्म तपो ब्रह्म परामृतम्‌। एतद्यो वेद निहितं गुहायां सोऽविद्याग्रन्थिं विकिरतीह सोम्य ॥",
+    "text": "The Spirit is all this universe; He is works and askesis and the Brahman, supreme and immortal. O fair son, he who knows this hidden in the secret heart, scatters even here in this world the knot of the Ignorance.",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 10,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.1",
+    "sanskrit_iast": "āviḥ sannihitaṁ guhācaraṁ nāma mahat padamatraitat samarpitam | ejat prāṇannimiṣacca yadetajjānatha sadasa-dvareṇyaṁ paraṁ vijñānādyadvariṣṭhaṁ prajānām ||",
+    "meaning": "आविः सन्निहितं गुहाचरं नाम महत् पदमत्रैतत्‌ समर्पितम्‌। एजत् प्राणन्निमिषच्च यदेतज्जानथ सदस-द्वरेण्यं परं विज्ञानाद्यद्वरिष्ठं प्रजानाम्‌ ॥",
+    "text": "Manifested, it is here set close within, moving in the secret heart, this is the mighty foundation and into it is consigned all that moves and breathes and sees. This that is that great foundation here, know, as the Is and Is not, the supremely desirable, greatest and the Most High, beyond the knowledge of creatures.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 1,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.2",
+    "sanskrit_iast": "yadarcimadyadaṇubhyo'ṇu ca yasmiṁllokā nihitā lokinaśca | tadetadakṣaraṁ brahma sa prāṇastadu vāṅ manaḥ tadetat satyaṁ tadamṛtaṁ tad veddhavyaṁ somya viddhi ||",
+    "meaning": "यदर्चिमद्यदणुभ्योऽणु च यस्मिंल्लोका निहिता लोकिनश्च। तदेतदक्षरं ब्रह्म स प्राणस्तदु वाङ् मनः तदेतत् सत्यं तदमृतं तद् वेद्धव्यं सोम्य विद्धि ॥",
+    "text": "That which is the Luminous, that which is smaller than the atoms, that in which are set the worlds and their peoples, That is This,-it is Brahman immutable: life is That, it is speech and mind. That is This, the True and Real, it is That which is immortal: it is into That that thou must pierce, O fair son, into That penetrate.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.3",
+    "sanskrit_iast": "dhanurgṛhītvaupaniṣadaṁ mahāstraṁ śaraṁ hyupāsāniśitaṁ sandhayīta | āyamya tad bhāvagatena cetasā lakśyaṁ tadevākṣaraṁ somya viddhi ||",
+    "meaning": "धनुर्गृहीत्वौपनिषदं महास्त्रं शरं ह्युपासानिशितं सन्धयीत। आयम्य तद् भावगतेन चेतसा लक्श्यं तदेवाक्षरं सोम्य विद्धि ॥",
+    "text": "Take up the bow of the Upanishad, that mighty weapon, set to it an arrow sharpened by adoration, draw the bow with a heart wholly devoted to the contemplation of That, and O fair son, penetrate into That as thy target, even into the Immutable.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 3,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.4",
+    "sanskrit_iast": "praṇavo dhanuḥ śaro hyātmā brahma tallakṣyamucyate | apramattena veddhavyaṁ śaravat tanmayo bhavet ||",
+    "meaning": "प्रणवो धनुः शरो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते। अप्रमत्तेन वेद्धव्यं शरवत्‌ तन्मयो भवेत्‌ ॥",
+    "text": "OM is the bow and the soul is the arrow, and That, even the Brahman, is spoken of as the target. That must be pierced with an unfaltering aim; one must be absorbed into That as an arrow is lost in its target.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 4,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.5",
+    "sanskrit_iast": "yasmin dyauḥ pṛthivī cāntarikṣamotaṁ manaḥ saha prāṇaiśca sarvaiḥ | tamevaikaṁ jānatha ātmānamanyā vāco vimuñcathāmṛtasyaiṣa setuḥ ||",
+    "meaning": "यस्मिन्‌ द्यौः पृथिवी चान्तरिक्षमोतं मनः सह प्राणैश्च सर्वैः। तमेवैकं जानथ आत्मानमन्या वाचो विमुञ्चथामृतस्यैष सेतुः ॥",
+    "text": "He in whom are inwoven heaven and earth and the midregion, and mind with all the life currents, Him know to be the one Self; other words put away from you: this is the bridge to immortality.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 5,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.6",
+    "sanskrit_iast": "arā iva rathanābhau saṁhatā yatra nāḍyaḥ sa eṣo'ntaścarate bahudhā jāyamānaḥ | omityevaṁ dhyāyatha ātmānaṁ svasti vaḥ pārāya tamasaḥ parastāt ||",
+    "meaning": "अरा इव रथनाभौ संहता यत्र नाड्यः स एषोऽन्तश्चरते बहुधा जायमानः। ओमित्येवं ध्यायथ आत्मानं स्वस्ति वः पाराय तमसः परस्तात्‌ ॥",
+    "text": "Where the nerves are brought close together like the spokes in the nave of a chariot-wheel, this is He that moves within, -there is He manifoldly born. Meditate on the Self as OM and happy be your passage to the other shore beyond the darkness.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 6,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.7",
+    "sanskrit_iast": "yaḥ sarvajñaḥ sarvavid yasyaiṣa mahimā bhuvi | divye brahmapure hyeṣa vyomnyātmā pratiṣṭhitaḥ ||",
+    "meaning": "यः सर्वज्ञः सर्वविद्‌ यस्यैष महिमा भुवि। दिव्ये ब्रह्मपुरे ह्येष व्योम्न्यात्मा प्रतिष्ठितः ॥",
+    "text": "The Omniscient, the All-wise, whose is this might and majesty upon the earth, is this self enthroned in the divine city of the Brahman, in his ethereal heaven.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 7,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.8",
+    "sanskrit_iast": "manomayaḥ prāṇaśarīranetā pratiṣṭhito'nne hṛdayaṁ sannidhāya | tad vijñānena paripaśyanti dhīrā ānandarūpamamṛtaṁ yad vibhāti ||",
+    "meaning": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय। तद्‌ विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद्‌ विभाति ॥",
+    "text": "A mental being, leader of the life and the body, has set a heart in matter, in matter he has taken his firm foundation. By its knowing the wise see everywhere around them That which shines in its effulgence, a shape of Bliss and immortal.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 8,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.9",
+    "sanskrit_iast": "bhidyate hṛdayagranthiśchidyante sarvasaṁśayāḥ | kśīyante cāsya karmāṇi tasmin dṛṣṭe parāvare ||",
+    "meaning": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्शीयन्ते चास्य कर्माणि तस्मिन्‌ दृष्टे परावरे ॥",
+    "text": "The knot of the heartstrings is rent, cut away are all doubts, and a man's works are spent and perish, when is seen That which is at once the being below and the Supreme.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 9,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.10",
+    "sanskrit_iast": "hiraṇmaye pare kośe virajaṁ brahma niṣkalam | tacchubhraṁ jyotiṣāṁ jyotistad yadātmavido viduḥ ||",
+    "meaning": "हिरण्मये परे कोशे विरजं ब्रह्म निष्कलम्‌। तच्छुभ्रं ज्योतिषां ज्योतिस्तद्‌ यदात्मविदो विदुः ॥",
+    "text": "In a supreme golden sheath the Brahman lies, stainless, without parts. A Splendour is That, It is the Light of Lights, It is That which the self-knowers know.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 10,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.11",
+    "sanskrit_iast": "na tatra sūryo bhāti na candratārakaṁ nemā vidyuto bhānti kuto'yamagniḥ | tameva bhāntamanubhāti sarvaṁ tasya bhāsā sarvamidaṁ vibhāti ||",
+    "meaning": "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः। तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति ॥",
+    "text": "There the sun shines not and the moon has no splendour and the stars are blind; there these lightnings flash not, how then shall burn this earthly fire? All that shines is but the shadow of his shining; all this universe is effulgent with his light.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 11,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "2.2.12",
+    "sanskrit_iast": "brahmaivedamamṛtaṁ purastād brahma paścād brahma dakśiṇataścottareṇa | adhaścordhvaṁ ca prasṛtaṁ brahmaivedaṁ viśvamidaṁ variṣṭham ||",
+    "meaning": "ब्रह्मैवेदममृतं पुरस्ताद्‌ ब्रह्म पश्चाद्‌ ब्रह्म दक्शिणतश्चोत्तरेण। अधश्चोर्ध्वं च प्रसृतं ब्रह्मैवेदं विश्वमिदं वरिष्ठम्‌ ॥",
+    "text": "All this is Brahman immortal, naught else; Brahman is in front of us, Brahman behind us, and to the south of us and to the north of us4 and below us and above us; it stretches everywhere. All this is Brahman alone, all this magnificent universe.",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 12,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.1",
+    "sanskrit_iast": "dvā suparṇā sayujā sakhāyā samānaṁ vṛkṣaṁ pariṣasvajāte | tayoranyaḥ pippalaṁ svādvattyanaśnannanyo abhicākaśīti ||",
+    "meaning": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते। तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥",
+    "text": "Two birds, beautiful of wing, close companions, cling to one common tree: of the two one eats the sweet fruit of the tree, the other eats not but watches his fellow.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.2",
+    "sanskrit_iast": "samāne vṛkṣe puruṣo nimagno'niśayā śocati muhyamānaḥ | juṣṭaṁ yadā paśyatyanyamīśamasya mahimānamiti vītaśokaḥ ||",
+    "meaning": "समाने वृक्षे पुरुषो निमग्नोऽनिशया शोचति मुह्यमानः। जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः ॥",
+    "text": "The soul is the bird that sits immersed on the one common tree; but because he is not lord he is bewildered and has sorrow. But when he sees that other who is the Lord and beloved, he knows that all is His greatness and his sorrow passes away from him.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 2,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.3",
+    "sanskrit_iast": "yadā paśyaḥ paśyate rukmavarṇaṁ kartāramīśaṁ puruṣaṁ brahmayonim | tadā vidvān puṇyapāpe vidhūya nirañjanaḥ paramaṁ sāmyamupaiti ||",
+    "meaning": "यदा पश्यः पश्यते रुक्मवर्णं कर्तारमीशं पुरुषं ब्रह्मयोनिम्‌। तदा विद्वान्‌ पुण्यपापे विधूय निरञ्जनः परमं साम्यमुपैति ॥",
+    "text": "When, a seer, he sees the Golden-hued, the maker, the Lord, the Spirit who is the source of Brahman, then he becomes the knower and shakes from his wings sin and virtue; pure of all stain he reaches the supreme identity.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 3,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.4",
+    "sanskrit_iast": "prāṇo hyeṣa yaḥ sarvabhūtairvibhāti vijānan vidvān bhavate nātivādī | ātmakrīḍa ātmaratiḥ kriyāvāneṣa brahmavidāṁ variṣṭhaḥ ||",
+    "meaning": "प्राणो ह्येष यः सर्वभूतैर्विभाति विजानन्‌ विद्वान्‌ भवते नातिवादी। आत्मक्रीड आत्मरतिः क्रियावानेष ब्रह्मविदां वरिष्ठः ॥",
+    "text": "This is the life in things that shines manifested by all these beings; a man of knowledge coming wholly to know this, draws back from creeds and too much disputings. In the Self his delight, at play in the Self, doing works,-the best is he among the knowers of the Eternal.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 4,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.5",
+    "sanskrit_iast": "satyena labhyastapasā hyeṣa ātmā samyagjñānena brahmacaryeṇa nityam | antaḥśarīre jyotirmayo hi śubhro yaṁ paśyanti yatayaḥ kṣīṇadoṣāḥ ||",
+    "meaning": "सत्येन लभ्यस्तपसा ह्येष आत्मा सम्यग्ज्ञानेन ब्रह्मचर्येण नित्यम्‌। अन्तःशरीरे ज्योतिर्मयो हि शुभ्रो यं पश्यन्ति यतयः क्षीणदोषाः ॥",
+    "text": "The Self can always be won by truth, by self-discipline, by integral knowledge, by a life of purity,-this Self that is in the inner body, radiant, made all of light whom by the perishing of their blemishes the doers of askesis behold.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 5,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.6",
+    "sanskrit_iast": "satyameva jayate nānṛtaṁ satyena panthā vitato devayānaḥ | yenākramantyṛṣayo hyāptakāmā yatra tat satyasya paramaṁ nidhānam ||",
+    "meaning": "सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः। येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत्‌ सत्यस्य परमं निधानम्‌ ॥",
+    "text": "It is Truth that conquers and not falsehood; by Truth was stretched out the path of the journey of the gods, by which the sages winning their desire ascend there where Truth has its supreme abode.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 6,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.7",
+    "sanskrit_iast": "bṛhacca tad divyamacintyarūpaṁ sūkṣmācca tat sūkṣmataraṁ vibhāti | dūrāt sudūre tadihāntike ca paśyantvihaiva nihitaṁ guhāyām ||",
+    "meaning": "बृहच्च तद्‌ दिव्यमचिन्त्यरूपं सूक्ष्माच्च तत्‌ सूक्ष्मतरं विभाति। दूरात्‌ सुदूरे तदिहान्तिके च पश्यन्त्विहैव निहितं गुहायाम्‌ ॥",
+    "text": "Vast is That, divine, its form unthinkable; it shines out subtler than the subtle: very far and farther than farness, it is here close to us, for those who have vision it is even here in this world; it is here, hidden in the secret heart.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 7,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.8",
+    "sanskrit_iast": "na cakṣuṣā gṛhyate nāpi vācā nānyairdevaistapasā karmaṇa vā | jñānaprasādena viśuddhasattvastatastu taṁ paśyate niṣkalaṁ dhyāyamānaḥ ||",
+    "meaning": "न चक्षुषा गृह्यते नापि वाचा नान्यैर्देवैस्तपसा कर्मण वा। ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु तं पश्यते निष्कलं ध्यायमानः ॥",
+    "text": "Eye cannot seize, speech cannot grasp Him, nor these other godheads; not by austerity can he be held nor by works: only when the inner being is purified by a glad serenity of knowledge, then indeed, meditating, one beholds the Spirit indivisible.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 8,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.9",
+    "sanskrit_iast": "eṣo'ṇurātmā cetasā veditavyo yasmin prāṇaḥ pañcadhā saṁviveśa | prāṇaiścittaṁ sarvamotaṁ prajānāṁ yasmin viśuddhe vibhavatyeṣa ātmā ||",
+    "meaning": "एषोऽणुरात्मा चेतसा वेदितव्यो यस्मिन्‌ प्राणः पञ्चधा संविवेश। प्राणैश्चित्तं सर्वमोतं प्रजानां यस्मिन्‌ विशुद्धे विभवत्येष आत्मा ॥",
+    "text": "This Self is subtle and has to be known by a thought-mind into which the life-force has made its fivefold entry: all the conscious heart of creatures is shot through and inwoven with the currents of the life-force and only when it is purified can this Self manifest its power.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 9,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.1.10",
+    "sanskrit_iast": "yaṁ yaṁ lokaṁ manasā saṁvibhāti viśuddhasattvaḥ kāmayate yāṁśca kāmān | taṁ taṁ lokaṁ jayate tāṁśca kāmāṁ-stasmādātmajñaṁ hyarcayet bhūtikāmaḥ ||",
+    "meaning": "यं यं लोकं मनसा संविभाति विशुद्धसत्त्वः कामयते यांश्च कामान्‌। तं तं लोकं जयते तांश्च कामां-स्तस्मादात्मज्ञं ह्यर्चयेत्‌ भूतिकामः ॥",
+    "text": "Whatever world the man whose inner being is purified sheds the light of his mind upon, and whatsoever desires he cherishes, that world he takes by conquest, and those desires. Then, let whosoever seeks for success and wellbeing approach with homage a self-knower.",
+    "mandala": 3,
+    "hymn": 1,
+    "verse": 10,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.1",
+    "sanskrit_iast": "sa vedaitat paramaṁ brahma dhāma yatra viśvaṁ nihitaṁ bhāti śubhram | upāsate puruṣaṁ ye hyakāmāste śukrametadativartanti dhīrāḥ ||",
+    "meaning": "स वेदैतत्‌ परमं ब्रह्म धाम यत्र विश्वं निहितं भाति शुभ्रम्‌। उपासते पुरुषं ये ह्यकामास्ते शुक्रमेतदतिवर्तन्ति धीराः ॥",
+    "text": "He knows this supreme Brahman as the highest abiding place in which shines out, inset, the radiant world. The wise who are without desire and worship the Spirit pass beyond this sperm.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 1,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.2",
+    "sanskrit_iast": "kāmān yaḥ kāmayate manyamānaḥ sa kāmabhirjāyate tatra tatra | paryāptakāmasya kṛtātmanastu ihaiva sarve pravilīyanti kāmāḥ ||",
+    "meaning": "कामान्‌ यः कामयते मन्यमानः स कामभिर्जायते तत्र तत्र। पर्याप्तकामस्य कृतात्मनस्तु इहैव सर्वे प्रविलीयन्ति कामाः ॥",
+    "text": "He who cherishes desires and his mind dwells with his longings, is by his desires born again wherever they lead him, but the man who has won all his desire and has found his soul, for him even here in this world vanish away all desires.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.3",
+    "sanskrit_iast": "nāyamātmā pravacanena labhyo na medhayā na bahunā śrutena | yamevaiṣa vṛṇute tena labhyastasyaiṣa ātmā vivṛṇute tanūṁ svām ||",
+    "meaning": "नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन। यमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम्‌ ॥",
+    "text": "This Self is not won by exegesis, nor by brainpower, nor by much learning of Scripture. Only by him whom It chooses can It be won; to him this Self unveils its own body.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 3,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.4",
+    "sanskrit_iast": "nāyamātmā balahīnena labhyo na ca pramādāt tapaso vāpyaliṅgāt | etairupāyairyatate yastu vidvāṁstasyaiṣa ātmā viśate brahmadhāma ||",
+    "meaning": "नायमात्मा बलहीनेन लभ्यो न च प्रमादात्‌ तपसो वाप्यलिङ्गात्‌। एतैरुपायैर्यतते यस्तु विद्वांस्तस्यैष आत्मा विशते ब्रह्मधाम ॥",
+    "text": "This Self cannot be won by any who is without strength, nor with error in the seeking, nor by an askesis without the true mark: but when a man of knowledge strives by these means his self enters into Brahman, his abiding place.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 4,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.5",
+    "sanskrit_iast": "saṁprāpyainamṛṣayo jñānatṛptāḥ kṛtātmāno vītarāgāḥ praśāntāḥ te sarvagaṁ sarvataḥ prāpya dhīrā yuktātmānaḥ sarvamevāviśanti ||",
+    "meaning": "संप्राप्यैनमृषयो ज्ञानतृप्ताः कृतात्मानो वीतरागाः प्रशान्ताः ते सर्वगं सर्वतः प्राप्य धीरा युक्तात्मानः सर्वमेवाविशन्ति ॥",
+    "text": "Attaining to him, seers glad with fullness of knowledge, perfected in the Self, all passions cast from them, tranquillised, -these, the wise, come to the all-pervading from every side, and, uniting themselves with him, enter utterly the All.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 5,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.6",
+    "sanskrit_iast": "vedāntavijñānasuniścitārthāḥ saṁnyāsayogād yatayaḥ śuddhasattvāḥ | te brahmalokeṣu parāntakāle parāmṛtāḥ parimucyanti sarve ||",
+    "meaning": "वेदान्तविज्ञानसुनिश्चितार्थाः संन्यासयोगाद्‌ यतयः शुद्धसत्त्वाः। ते ब्रह्मलोकेषु परान्तकाले परामृताः परिमुच्यन्ति सर्वे ॥",
+    "text": "Doers of askesis who have made sure of the aim of the whole knowledge of Vedanta, the inner being purified by the Yoga of renunciation, all in the hour of their last end passing beyond death are released into the worlds of the Brahman.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 6,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.7",
+    "sanskrit_iast": "gatāḥ kalāḥ pañcadaśa pratiṣṭhā devāśca sarve pratidevatāsu | karmāṇi vijñānamayaśca ātmā pare'vyaye sarve ekībhavanti ||",
+    "meaning": "गताः कलाः पञ्चदश प्रतिष्ठा देवाश्च सर्वे प्रतिदेवतासु। कर्माणि विज्ञानमयश्च आत्मा परेऽव्यये सर्वे एकीभवन्ति ॥",
+    "text": "The fifteen parts return into their foundations, and all the gods pass into their proper godheads, works and the Self of Knowledge,-all become one in the Supreme and Imperishable.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 7,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.8",
+    "sanskrit_iast": "yathā nadyaḥ syandamānāḥ samudre'staṁ gacchanti nāmarūpe vihāya | tathā vidvān nāmarūpād vimuktaḥ parātparaṁ puruṣamupaiti divyam ||",
+    "meaning": "यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय। तथा विद्वान्‌ नामरूपाद् विमुक्तः परात्परं पुरुषमुपैति दिव्यम्‌ ॥",
+    "text": "As rivers in their flowing reach their home in the ocean and cast off their names and forms, even so one who knows is delivered from name and form and reaches the Supreme beyond the Most High, even the Divine Person.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 8,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.9",
+    "sanskrit_iast": "sa yo ha vai tat paramaṁ brahma veda brahmaiva bhavati nāsyābrahmavit kule bhavati | tarati śokaṁ tarati pāpmānaṁ guhāgranthibhyo vimukto'mṛto bhavati ||",
+    "meaning": "स यो ह वै तत्‌ परमं ब्रह्म वेद ब्रह्मैव भवति नास्याब्रह्मवित् कुले भवति। तरति शोकं तरति पाप्मानं गुहाग्रन्थिभ्यो विमुक्तोऽमृतो भवति ॥",
+    "text": "He, verily, who knows that Supreme Brahman becomes himself Brahman; in his lineage none is born who knows not the Brahman. He crosses beyond sorrow, he crosses beyond sin, he is delivered from the knotted cord of the secret heart and becomes immortal.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 9,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.10",
+    "sanskrit_iast": "tadetadṛcā'bhyuktam - -kriyāvantaḥ śrotriyā brahmaniṣṭhāḥ svayaṁ juhvata ekarṣiṁ śraddhayantaḥ | teṣāmevaitāṁ brahmavidyāṁ vadeta śirovrataṁ vidhivad yaistu cīrṇam ||",
+    "meaning": "तदेतदृचाऽभ्युक्तम्‌ - -क्रियावन्तः श्रोत्रिया ब्रह्मनिष्ठाः स्वयं जुह्वत एकर्षिं श्रद्धयन्तः। तेषामेवैतां ब्रह्मविद्यां वदेत शिरोव्रतं विधिवद्‌ यैस्तु चीर्णम्‌ ॥",
+    "text": "This is That declared by the Rig Veda. Doers of works, versed in the Veda, men absorbed in the Brahman, who putting their faith in the sole seer offer themselves to him sacrifice,-to them one should speak this Brahman-knowledge, men by whom the Vow of the Head has been done according to the rite.",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 10,
+    "vedaId": "mundaka_upanishad"
+  },
+  {
+    "reference": "3.2.11",
+    "sanskrit_iast": "tadetat satyamṛṣiraṅgirāḥ purovāca naitadacīrṇavrato'dhīte | namaḥ paramaṛṣibhyo namaḥ paramaṛṣibhyaḥ ||",
+    "meaning": "तदेतत्‌ सत्यमृषिरङ्गिराः पुरोवाच नैतदचीर्णव्रतोऽधीते। नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥",
+    "text": "This is That, the Truth of things, which the seer Angiras spoke of old. This none learns who has not performed the Vow of the Head. Salutation to the seers supreme! Salutation to the seers supreme!",
+    "mandala": 3,
+    "hymn": 2,
+    "verse": 11,
+    "vedaId": "mundaka_upanishad"
+  }
+]

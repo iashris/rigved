@@ -1,0 +1,1343 @@
+{
+  "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/audioall/ISHOPANISHAD+++WITH++RAVINDRA+JI+VOX.wav",
+  "n" : "",
+  "p" : "",
+  "title_skt" : "ईशोपनिषद्",
+  "title_tl" : "īśopaniṣad",
+  "u" : "1",
+  "verses" : [ {
+    "anvaya_skt" : "जगत्यां यत् किं च जगत्  अस्ति  इदं सर्वम् ईशा वास्यम्। तेन त्यक्तेन भूञ्जीथाः। कस्यस्वित् धनं मा गृधः ॥",
+    "anvaya_tl" : "jagatyāṁ yat kiṁ ca jagat ( asti ) idaṁ sarvam īśā vāsyam| tena tyaktena bhūJñīthāḥ| kasyasvit dhanaṁ mā gṛdhaḥ ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.1.mp3",
+    "auro_md" : "All this is for habitation[^1] by the Lord, whatsoever is individual universe of movement in the universal motion. By that renounced thou shouldst enjoy; lust not after any man's possession.\n\n[^1]: There are three possible senses of *vāsyam*, \"to be clothed\", \"to be worn as a garment\" and \"to be inhabited\". The first is the ordinarily accepted meaning. Shankara explains it in this significance, that we must lose the sense of this unreal objective universe in the sole perception of the pure Brahman. So explained the first line becomes a contradiction of the whole thought of the Upanishad which teaches the reconciliation, by the perception of essential Unity, of the apparently incompatible opposites, God and the World, Renunciation and Enjoyment, Action and internal Freedom, the One and the Many, Being and its Becomings, the passive divine Impersonality and the active divine Personality, the Knowledge and the Ignorance, the Becoming and the Not-Becoming, Life on earth and beyond and the supreme Immortality. The image is of the world either as a garment or as a dwelling-place for the informing and governing Spirit. The latter significance agrees better with the thought of the Upanishad.",
+    "glossary" : [ {
+      "meaning_en" : "in the universal motion",
+      "word_skt" : "जगत्याम्",
+      "word_tl" : "jagatyām"
+    }, {
+      "meaning_en" : "whatsoever",
+      "word_skt" : "यत् किम् च",
+      "word_tl" : "yat kim ca "
+    }, {
+      "meaning_en" : "individual universe of movement",
+      "word_skt" : "जगत्",
+      "word_tl" : "jagat"
+    }, {
+      "meaning_en" : "is",
+      "word_skt" : "अस्ति",
+      "word_tl" : "( asti )"
+    }, {
+      "meaning_en" : "this",
+      "word_skt" : "इदम्",
+      "word_tl" : "idam"
+    }, {
+      "meaning_en" : "all",
+      "word_skt" : "सर्वम्",
+      "word_tl" : "sarvam"
+    }, {
+      "meaning_en" : "by the Lord",
+      "word_skt" : "ईशा",
+      "word_tl" : "īśā"
+    }, {
+      "meaning_en" : "for habitation",
+      "word_skt" : "वास्यम्",
+      "word_tl" : "vāsyam"
+    }, {
+      "meaning_en" : "by that",
+      "word_skt" : "तेन",
+      "word_tl" : "tena"
+    }, {
+      "meaning_en" : "renounced",
+      "word_skt" : "त्यक्तेन",
+      "word_tl" : "tyaktena"
+    }, {
+      "meaning_en" : "thou shouldst enjoy",
+      "word_skt" : "भूञ्जीथाः",
+      "word_tl" : "bhūJñīthāḥ"
+    }, {
+      "meaning_en" : "any man's",
+      "word_skt" : "कस्यस्वित्",
+      "word_tl" : "kasyasvit"
+    }, {
+      "meaning_en" : "possession",
+      "word_skt" : "धनम्",
+      "word_tl" : "dhana"
+    }, {
+      "meaning_en" : "lust not after",
+      "word_skt" : "मा गृधः",
+      "word_tl" : "mā gṛdhaḥ"
+    } ],
+    "hindi_explain" : "इस वैश्व गति में, इस अत्यन्त गतिशील समष्टि-जगत् में जो भी यह दृश्यमान गतिशील, वैयक्तिक जगत् है-यह सबका सब ईश्वर के आवास के लिए है। इस सबके त्याग द्वारा तुझे इसका उपभोग करना चाहिये; किसी भी दूसरे की धन-सम्पत्ति पर ललचाई दृष्टि मत डाल।",
+    "meaning_en" : "All this is for habitation by the Lord, whatsoever is individual universe of movement in the universal motion. By that renounced thou shouldst enjoy; lust not after any man's possession.",
+    "n" : "1/2",
+    "p" : "",
+    "u" : "1",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "ईशा वास्यमिदं सर्वं यत्किञ्च जगत्यां जगत्‌।\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्‌ ॥",
+    "verse_tl" : "īśā vāsyamidaṁ sarvaṁ yatkiñca jagatyāṁ jagat |\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasyasviddhanam ||"
+  }, {
+    "anvaya_skt" : "इह कर्माणि कुर्वन् एव शतं समाः जिजीविषेत्। एवं त्वयि नरे इतः न अन्यथा अस्ति  येन  कर्म न लिप्यते ॥",
+    "anvaya_tl" : "iha karmāṇi kurvan eva śataṁ samāḥ jijīviṣet| evaṁ tvayi nare itaḥ na anyathā asti ( yena ) karma na lipyate ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.2.mp3",
+    "auro_md" : "Doing verily[^2] works in this world one should wish to live a hundred years. Thus it is in thee and not otherwise than this; action cleaves not to a man.[^3]\n\n[^2]: *Kurvanneva*. The stress of the word *eva* gives the force, \"doing works indeed, and not refraining from them\".\n\n[^3]: Shankara reads the line, \"Thus in thee—it is not otherwise than thus—action cleaves not, a man.\" He interprets *karmāṇi* in the first line in the sense of Vedic sacrifices which are permitted to the ignorant as a means of escaping from evil actions and their results and attaining to heaven, but the second *karma* in exactly the opposite sense, \"evil action\". The verse, he tells us, represents a concession to the ignorant; the enlightened soul abandons works and the world and goes to the forest. The whole expression and construction in this rendering become forced and unnatural. The rendering I give seems to me the simple and straightforward sense of the Upanishad.",
+    "glossary" : [ {
+      "meaning_en" : "in this world",
+      "word_skt" : "इह",
+      "word_tl" : "iha"
+    }, {
+      "meaning_en" : "works",
+      "word_skt" : "कर्माणि",
+      "word_tl" : "karmāṇi"
+    }, {
+      "meaning_en" : "doing",
+      "word_skt" : "कुर्वन्",
+      "word_tl" : "kurvan"
+    }, {
+      "meaning_en" : "verily",
+      "word_skt" : "एव",
+      "word_tl" : "eva"
+    }, {
+      "meaning_en" : "hundred",
+      "word_skt" : "शतम्",
+      "word_tl" : "śatam"
+    }, {
+      "meaning_en" : "years",
+      "word_skt" : "समाः",
+      "word_tl" : "samāḥ"
+    }, {
+      "meaning_en" : "one should wish to live",
+      "word_skt" : "जिजीविषेत्",
+      "word_tl" : "jijīviṣet"
+    }, {
+      "meaning_en" : "thus",
+      "word_skt" : "एवम्",
+      "word_tl" : "evam"
+    }, {
+      "meaning_en" : "in thee",
+      "word_skt" : "त्वयि",
+      "word_tl" : "tvayi"
+    }, {
+      "meaning_en" : "to a man",
+      "word_skt" : "नरे",
+      "word_tl" : "nare"
+    }, {
+      "meaning_en" : "than this",
+      "word_skt" : "इतः",
+      "word_tl" : "itaḥ"
+    }, {
+      "meaning_en" : "not",
+      "word_skt" : "न",
+      "word_tl" : "na"
+    }, {
+      "meaning_en" : "otherwise",
+      "word_skt" : "अन्यथा",
+      "word_tl" : "anyathā"
+    }, {
+      "meaning_en" : "it is",
+      "word_skt" : "अस्ति",
+      "word_tl" : "asti"
+    }, {
+      "meaning_en" : "action",
+      "word_skt" : "कर्म",
+      "word_tl" : "karma"
+    }, {
+      "meaning_en" : "cleaves not",
+      "word_skt" : "न लिप्यते",
+      "word_tl" : "na lipyate"
+    } ],
+    "hindi_explain" : "इस संसार में कर्म करते हुए ही मनुष्य को सौ वर्ष जीने की इच्छा करनी चाहिये। हे मानव! तेरे लिए इस प्रकार का ही विधान है, इससे भिन्न किसी और प्रकार का नहीं है, इस प्रकार कर्म करते हुए ही जीने की इच्छा करने से मनुष्य में कर्म का लेप नहीं होता।",
+    "meaning_en" : "Doing verily works in this world one should wish to live a hundred years. Thus it is in thee and not otherwise than this; action cleaves not to a man.",
+    "n" : "1/3",
+    "p" : "1/1",
+    "u" : "2",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "कुर्वन्नेवेह कर्माणि जिजीविषेत् शतं समाः।\nएवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥",
+    "verse_tl" : "kurvanneveha karmāṇi jijīviṣet śataṁ samāḥ |\nevaṁ tvayi nānyatheto'sti na karma lipyate nare ||"
+  }, {
+    "anvaya_skt" : "असूर्याः अन्धेन तमसा आवृताः नाम ते लोकाः  सन्ति । ये के च जनाः आत्महनः  सन्ति  ते प्रेत्य तान् अभिगछति ॥",
+    "anvaya_tl" : "asuryāḥ andhena tamasā āvṛtāḥ nāma te lokāḥ ( santi )| ye ke ca janāḥ ātmahanaḥ ( santi ) te pretya tān abhigachati ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.3.mp3",
+    "auro_md" : "Sunless[^4] are those worlds and enveloped in blind gloom whereto all they in their passing hence resort who are slayers of their souls.\n\n[^4]: We have two readings, *asūrya*, sunless, and *asurya*, Titanic or undivine. The third verse is, in the thought structure of the Upanishad, the starting-point for the final movement in the last four verses. Its suggestions are there taken up and worked out. The prayer to the Sun refers back in thought to the sunless worlds and their blind gloom, which are recalled in the ninth and twelfth verses. The sun and his rays are intimately connected in other Upanishads also with the worlds of Light and their natural opposite is the dark and sunless, not the Titanic worlds.",
+    "glossary" : [ {
+      "meaning_en" : "sunless",
+      "word_skt" : "असूर्याः",
+      "word_tl" : "asuryāḥ"
+    }, {
+      "meaning_en" : "blind",
+      "word_skt" : "अन्धेन",
+      "word_tl" : "andhena"
+    }, {
+      "meaning_en" : "gloom",
+      "word_skt" : "तमसा",
+      "word_tl" : "tamasā"
+    }, {
+      "meaning_en" : "enveloped in",
+      "word_skt" : "आवृताः",
+      "word_tl" : "āvṛtāḥ"
+    }, {
+      "meaning_en" : "indeed",
+      "word_skt" : "नाम",
+      "word_tl" : "nāma"
+    }, {
+      "meaning_en" : "those",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "worlds",
+      "word_skt" : "लोकाः",
+      "word_tl" : "lokāḥ"
+    }, {
+      "meaning_en" : "they who",
+      "word_skt" : "ये के",
+      "word_tl" : "ye ke"
+    }, {
+      "meaning_en" : "and",
+      "word_skt" : "च",
+      "word_tl" : "ca"
+    }, {
+      "meaning_en" : "people",
+      "word_skt" : "जनाः",
+      "word_tl" : "janāḥ"
+    }, {
+      "meaning_en" : "slayers of their souls",
+      "word_skt" : "आत्महनः",
+      "word_tl" : "ātmahanaḥ"
+    }, {
+      "meaning_en" : "they",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "having passed / in their passing",
+      "word_skt" : "प्रेत्य",
+      "word_tl" : "pretya"
+    }, {
+      "meaning_en" : "those worlds",
+      "word_skt" : "तान्",
+      "word_tl" : "tān"
+    }, {
+      "meaning_en" : "resort to",
+      "word_skt" : "अभिगछति",
+      "word_tl" : "abhigachati"
+    } ],
+    "hindi_explain" : "वे लोक सूर्य से रहित हैं और गाढ़े अन्धकार से आच्छादित हैं। उन लोकों को वे सभी लोग यहां से प्रयाण करने पर पहुंचते हैं जो कोई भी अपनी आत्मा का हनन करते हैं।",
+    "meaning_en" : " Sunless are those worlds and enveloped in blind gloom whereto all they in their passing hence resort who are slayers of their souls.",
+    "n" : "1/4",
+    "p" : "1/2",
+    "u" : "3",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "असूर्या नाम ते लोका अन्धेन तमसावृताः।तांस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥",
+    "verse_tl" : "asuryā nāma te lokā andhena tamasāvṛtāḥ |\ntāṁste pretyābhigacchanti ye ke cātmahano janāḥ ||"
+  }, {
+    "anvaya_skt" : "तत्  एकम् अनेजत् मनसः जवीयः देवाः एनत् न आप्नुवन्  यस्मात्  पूर्वं अर्षत्। तत् तिष्ठत् धावतः अन्यान् अत्येति। तस्मिन्  सति  मातरिश्वा अपः दधाति ॥",
+    "anvaya_tl" : "(tat) ekam anejat manasaḥ javīyaḥ deevāḥ enat na āpnuvan (yasmāt) pūrvaṁ arṣat| tat tiṣṭhat dhāvataḥ anyān atyeti| tasmin (sati) mātariśvā apaḥ dadhāti ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.4.mp3",
+    "auro_md" : "One unmoving that is swifter than Mind, That the Gods reach not, for It progresses ever in front. That, standing, passes beyond others as they run. In That the Master of Life[^5] establishes the Waters.[^6]\n\n[^5]: *Mātariśvan* seems to mean \"he who extends himself in the Mother or the container\" whether that be the containing mother element, Ether, or the material energy called Earth in the Veda and spoken of there as the Mother. It is a Vedic epithet of the God Vayu, who, representing the divine principle in the Life-energy, Prana, extends himself in Matter and vivifies its forms. Here, it signifies the divine Life-power that presides in all forms of cosmic activity.\n\n[^6]: *Apas*, as it is accentuated in the version of the White Yajurveda, can mean only \"waters\". If this accentuation is disregarded, we may take it as the singular *apas*, work, action. Shankara, however, renders it by the plural, works. The difficulty only arises because the true Vedic sense of the word had been forgotten and it came to be taken as referring to the fourth of the five elemental states of Matter, the liquid. Such a reference would be entirely irrelevant to the context. But the Waters, otherwise called the seven streams or the seven fostering Cows, are the Vedic symbol for the seven cosmic principles and their activities, three inferior, the physical, vital and mental, four superior, the divine Truth, the divine Bliss, the divine Will and Consciousness, and the divine Being. On this conception also is founded the ancient idea of the seven worlds in each of which the seven principles are separately active by their various harmonies. This is, obviously, the right significance of the word in the Upanishad.",
+    "glossary" : [ {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "(tat)"
+    }, {
+      "meaning_en" : "one",
+      "word_skt" : "एकम्",
+      "word_tl" : "ekam"
+    }, {
+      "meaning_en" : "unmoving",
+      "word_skt" : "अनेजत्",
+      "word_tl" : "anejat"
+    }, {
+      "meaning_en" : "than Mind",
+      "word_skt" : "मनसः",
+      "word_tl" : "manasaḥ"
+    }, {
+      "meaning_en" : "swifter",
+      "word_skt" : "जवीयः",
+      "word_tl" : "javīyaḥ"
+    }, {
+      "meaning_en" : "for",
+      "word_skt" : "यस्मात्",
+      "word_tl" : "yasmāt"
+    }, {
+      "meaning_en" : "ever in front",
+      "word_skt" : "पूर्वम्",
+      "word_tl" : "pūrvam"
+    }, {
+      "meaning_en" : "progresses",
+      "word_skt" : "अर्षत्",
+      "word_tl" : "arṣat"
+    }, {
+      "meaning_en" : "Gods",
+      "word_skt" : "देवाः",
+      "word_tl" : "devāḥ"
+    }, {
+      "meaning_en" : "It",
+      "word_skt" : "एनत्",
+      "word_tl" : "enat"
+    }, {
+      "meaning_en" : "not",
+      "word_skt" : "न",
+      "word_tl" : "na"
+    }, {
+      "meaning_en" : "reach",
+      "word_skt" : "आप्नुवन्",
+      "word_tl" : "āpnuvan"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "standing",
+      "word_skt" : "तिष्ठत्",
+      "word_tl" : "tiṣṭhat"
+    }, {
+      "meaning_en" : "as they run",
+      "word_skt" : "धावतः",
+      "word_tl" : "dhāvataḥ"
+    }, {
+      "meaning_en" : "others",
+      "word_skt" : "अन्यान्",
+      "word_tl" : "anyān"
+    }, {
+      "meaning_en" : "passes beyond",
+      "word_skt" : "अत्येति",
+      "word_tl" : "atyeti"
+    }, {
+      "meaning_en" : "in That",
+      "word_skt" : "तस्मिन्",
+      "word_tl" : "tasmin"
+    }, {
+      "meaning_en" : "the Master of Life",
+      "word_skt" : "मातरिश्वा",
+      "word_tl" : "mātariśvā"
+    }, {
+      "meaning_en" : "the Waters",
+      "word_skt" : "अपः",
+      "word_tl" : "apaḥ"
+    }, {
+      "meaning_en" : "establishes",
+      "word_skt" : "दधाति",
+      "word_tl" : "dadhāti"
+    } ],
+    "hindi_explain" : "वह अचल, अचलायमान एकमेव ब्रह्म मन से वेगवत्तर, अत्यधिक वेगवाला है। उस एकमेव तक देवता नहीं पहुँच पाते, क्योंकि वह सदैव उनसे आगे-आगे पहुँच जाता है पहुँचा होता है। वह ठहरा हुआ भी दौड़ते हुए दूसरों को पार कर आगे निकल जाता है। उस तत् में जीवन-शक्ति का स्वामी वायु जलधाराओं को स्थापित करता है।",
+    "meaning_en" : " One unmoving that is swifter than Mind, That the Gods reach not, for It progresses ever in front. That, standing, passes beyond others as they run. In That the Master of Life establishes the Waters.",
+    "n" : "1/5",
+    "p" : "1/3",
+    "u" : "4",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन् पूर्वमर्षत्‌।\nतद्धावतोऽन्यानत्येति तिष्ठत् तस्मिन्नपो मातरिश्वा दधाति ॥",
+    "verse_tl" : "anejadekaṁ manaso javīyo nainaddevā āpnuvan pūrvamarṣat |\ntaddhāvato'nyānatyeti tiṣṭhat tasminnapo mātariśvā dadhāti ||"
+  }, {
+    "anvaya_skt" : "तत् एजति। तत् न एजति। तत् दूरे। तत् उ अन्तिके। एतत् अस्य सर्वस्य अन्तः। तत् उ सर्वस्य अस्य वाह्यतः ॥",
+    "anvaya_tl" : "tat ejati | tat na ejati| tat dūre| tat u antike| etat asya sarvasya antaḥ| tat u sarvasya asya vāhyataḥ ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.5.mp3",
+    "auro_md" : "That moves and That moves not; That is far and the same is near; That is within all this and That also is outside all this.",
+    "glossary" : [ {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "moves",
+      "word_skt" : "एजति",
+      "word_tl" : "ejati"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "moves not",
+      "word_skt" : "न एजति ",
+      "word_tl" : "na ejati"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "is far",
+      "word_skt" : "दूरे",
+      "word_tl" : "dūre"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "also",
+      "word_skt" : "उ",
+      "word_tl" : "u"
+    }, {
+      "meaning_en" : "is near",
+      "word_skt" : "अन्तिके",
+      "word_tl" : "antike"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "एतत्",
+      "word_tl" : "etat"
+    }, {
+      "meaning_en" : "all this",
+      "word_skt" : "अस्य सर्वस्य",
+      "word_tl" : "asya sarvasya"
+    }, {
+      "meaning_en" : "within",
+      "word_skt" : "अन्तः",
+      "word_tl" : "antaḥ"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "also",
+      "word_skt" : "उ",
+      "word_tl" : "u"
+    }, {
+      "meaning_en" : "all this",
+      "word_skt" : "सर्वस्य अस्य ",
+      "word_tl" : "sarvasya asya"
+    }, {
+      "meaning_en" : "outside",
+      "word_skt" : "वाह्यतः",
+      "word_tl" : "vāhyataḥ"
+    } ],
+    "hindi_explain" : "वह गति करता है और गति नहीं भी करता; वह दूर है और पास भी है; इस सबके भीतर है और इस सबके बाहर भी है।",
+    "meaning_en" : "That moves and That moves not; That is far and the same is near; That is within all this and That also is outside all this.",
+    "n" : "1/6",
+    "p" : "1/4",
+    "u" : "5",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "तदेजति तन्नैजति तद् दूरे तद्वन्तिके।\nतदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥",
+    "verse_tl" : "tadejati tannaijati tad dūre tadvantike |\ntadantarasya sarvasya tadu sarvasyāsya bāhyataḥ ||"
+  }, {
+    "anvaya_skt" : "यः तु सर्वाणि भूतानि आत्मनि एव अनुपश्यति च सर्वभूतेषु आत्मानम्। ततः न विजुगुप्सते ॥",
+    "anvaya_tl" : "yaḥ tu sarvāṇi bhūtāni ātmani eva anupaśyati ca sarvabhūteṣu ātmānam| tataḥ na vijugupsate ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.6.mp3",
+    "auro_md" : "But he who sees everywhere the Self in all existences and all existences in the Self, shrinks not thereafter from aught.",
+    "glossary" : [ {
+      "meaning_en" : "he who",
+      "word_skt" : "यः",
+      "word_tl" : "yaḥ"
+    }, {
+      "meaning_en" : "indeed",
+      "word_skt" : "तु",
+      "word_tl" : "tu"
+    }, {
+      "meaning_en" : "all existences",
+      "word_skt" : "सर्वाणि भूतानि ",
+      "word_tl" : "sarvāṇi bhūtāni"
+    }, {
+      "meaning_en" : "in the Self",
+      "word_skt" : "आत्मनि",
+      "word_tl" : "ātmani"
+    }, {
+      "meaning_en" : "surely",
+      "word_skt" : "एव",
+      "word_tl" : "eva"
+    }, {
+      "meaning_en" : "sees",
+      "word_skt" : "अनुपश्यति",
+      "word_tl" : "anupaśyati"
+    }, {
+      "meaning_en" : "in all existences",
+      "word_skt" : "सर्वभूतेषु",
+      "word_tl" : "sarvabhūteṣu"
+    }, {
+      "meaning_en" : "and",
+      "word_skt" : "च",
+      "word_tl" : "ca"
+    }, {
+      "meaning_en" : "the Self",
+      "word_skt" : "आत्मानम्",
+      "word_tl" : "ātmāna"
+    }, {
+      "meaning_en" : "thereafter from aught",
+      "word_skt" : "ततः",
+      "word_tl" : "tataḥ"
+    }, {
+      "meaning_en" : "shrinks not",
+      "word_skt" : "न  विजुगुप्सते",
+      "word_tl" : "na  vijugupsate"
+    } ],
+    "hindi_explain" : "परन्तु जो सभी भूतों या सत्ताओं को परम आत्मा में ही देखता है और सभी भूतों या सत्ताओं में परम आत्मा को, वह फिर सर्वत्र एक ही आत्मा के प्रत्यक्ष दर्शन के पश्चात्, किसी से कतराता नहीं, घृणा नहीं करता।",
+    "meaning_en" : "But he who sees everywhere the Self in all existences and all existences in the Self, shrinks not thereafter from aught.",
+    "n" : "1/7",
+    "p" : "1/5",
+    "u" : "6",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "यस्तु सर्वाणि भूतानि आत्मन्येवानुपश्यति।\nसर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥",
+    "verse_tl" : "yastu sarvāṇi bhūtāni ātmanyevānupaśyati |\nsarvabhūteṣu cātmānaṁ tato na vijugupsate ||"
+  }, {
+    "anvaya_skt" : "यस्मिन् विजानतः आत्मा एव सर्वाणि भूतानि अभूत्। तत्र एकत्वम् अनुपश्यतः कः मोहः कः शोकः ॥",
+    "anvaya_tl" : "yasmin vijānataḥ ātmā eva sarvāṇi bhūtāni abhūt| tatra ekatvam anupaśyataḥ kaḥ mohaḥ kaḥ śokaḥ ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.7.mp3",
+    "auro_md" : "He in whom it is the Self-Being that has become all existences that are Becomings,[^7] for he has the perfect knowledge, how shall he be deluded, whence shall he have grief who sees everywhere oneness?\n\n[^7]: The words *sarvāṇi bhūtāni*, literally, \"all things that have become\", are opposed to Atman, self-existent and immutable being. The phrase means ordinarily \"all creatures\", but its literal sense is evidently insisted on in the expression *bhūtāni abhūt* \"became the Becomings\". The idea is the acquisition in man of the supreme consciousness by which the one Self in him extends itself to embrace all creatures and realises the eternal act by which that One manifests itself in the multiple forms of the universal motion.",
+    "glossary" : [ {
+      "meaning_en" : "in whom",
+      "word_skt" : "यस्मिन्",
+      "word_tl" : "yasmin"
+    }, {
+      "meaning_en" : "the Self - Being",
+      "word_skt" : "आत्मा",
+      "word_tl" : "ātmā"
+    }, {
+      "meaning_en" : "indeed",
+      "word_skt" : "एव",
+      "word_tl" : "eva"
+    }, {
+      "meaning_en" : "all existences that are Becomings",
+      "word_skt" : "सर्वाणि भूतानि",
+      "word_tl" : "sarvāṇi bhūtāni"
+    }, {
+      "meaning_en" : "has become",
+      "word_skt" : "अभूत्",
+      "word_tl" : "abhūt"
+    }, {
+      "meaning_en" : "of him who has the perfect knowledge",
+      "word_skt" : "विजानतः",
+      "word_tl" : "vijānataḥ"
+    }, {
+      "meaning_en" : "of him who sees everywhere oneness",
+      "word_skt" : "एकत्वम् अनुपश्यतः",
+      "word_tl" : "ekatvam anupaśyataḥ"
+    }, {
+      "meaning_en" : "there",
+      "word_skt" : "तत्र",
+      "word_tl" : "tatra"
+    }, {
+      "meaning_en" : "how shall be delusion",
+      "word_skt" : "कः मोहः ",
+      "word_tl" : "kaḥ mohaḥ"
+    }, {
+      "meaning_en" : "shall be grief",
+      "word_skt" : "कः शोकः",
+      "word_tl" : "kaḥ śokaḥ"
+    } ],
+    "hindi_explain" : "पूर्ण ज्ञान, विज्ञान से सम्पन्न होने के कारण जिस मनुष्य के अन्दर यह परमोच्च चेतना जाग गयी है कि स्वयम्भू आत्मसत्ता ही, परम आत्मा ही स्वयं सभी भूत, सभी सत्ताएं या सम्भूतियां बना है, उस मनुष्य में फिर मोह कैसे होगा, शोक कहां से होगा जो सर्वत्र आत्मा की एकता ही देखता है।",
+    "meaning_en" : "He in whom it is the Self - Being that has become all existences that are Becomings, for he has the perfect knowledge, how shall he be deluded, whence shall he have grief who sees everywhere oneness ?",
+    "n" : "1/8",
+    "p" : "1/6",
+    "u" : "7",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "यस्मिन् सर्वाणि भूतानि आत्मैवाभूद् विजानतः।\nतत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥",
+    "verse_tl" : "yasmin sarvāṇi bhūtāni ātmaivābhūd vijānataḥ |\ntatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ ||"
+  }, {
+    "anvaya_skt" : "सः स्वयम्भुः पर्यगात् अकायम् अस्नाविरम् अपापविद्धं शुक्रम् अव्रणं शुद्धं कविः मनीषी परिभुः। सः  याथातथ्यतः शाश्वतीभ्यः समाभ्यः अर्थान् व्यदधात् ॥",
+    "anvaya_tl" : "saḥ svayambhuḥ paryagāt akāyam asnāviram apāpaviddhaṁ śukram avraṇaṁ śuddhaṁ kaviḥ manīṣī paribhuḥ| (saḥ) yāthātathyataḥ śāśvatībhyaḥ samābhyaḥ arthān vyadadhāt ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.8.mp3",
+    "auro_md" : "It is He that has gone abroad—That which is bright, bodiless, without scar of imperfection, without sinews, pure, unpierced by evil. The Seer, the Thinker,[^8] the One who becomes everywhere, the Self-existent has ordered objects perfectly according to their nature from years sempiternal.\n\n[^8]: There is a clear distinction in Vedic thought between *kavi*, the seer, and *manīṣī*, the thinker. The former indicates the divine supra-intellectual Knowledge which by direct vision and illumination sees the reality, the principles and the forms of things in their true relations, the latter the labouring mentality which works from the divided consciousness through the possibilities of things downward to the actual manifestation in form and upward to their reality in the self-existent Brahman.",
+    "glossary" : [ {
+      "meaning_en" : "It is He",
+      "word_skt" : "सः",
+      "word_tl" : "saḥ"
+    }, {
+      "meaning_en" : "has gone abroad",
+      "word_skt" : "पर्यगात्",
+      "word_tl" : "paryagāt"
+    }, {
+      "meaning_en" : "bright",
+      "word_skt" : "शुक्रम्",
+      "word_tl" : "śukram"
+    }, {
+      "meaning_en" : "bodiless",
+      "word_skt" : "अकायम्",
+      "word_tl" : "akāyam"
+    }, {
+      "meaning_en" : "without scar of imperfection",
+      "word_skt" : "अव्रणम्",
+      "word_tl" : "avraṇam"
+    }, {
+      "meaning_en" : "without sinews",
+      "word_skt" : "अस्नाविरम्",
+      "word_tl" : "asnāviram"
+    }, {
+      "meaning_en" : "pure",
+      "word_skt" : "शुद्धम्",
+      "word_tl" : "śuddham"
+    }, {
+      "meaning_en" : "unpierced by evil",
+      "word_skt" : "अपापविद्धम्",
+      "word_tl" : "apāpaviddham"
+    }, {
+      "meaning_en" : "the Seer",
+      "word_skt" : "कविः",
+      "word_tl" : "kaviḥ"
+    }, {
+      "meaning_en" : "the Thinker",
+      "word_skt" : "मनीषी",
+      "word_tl" : "manīṣī"
+    }, {
+      "meaning_en" : "the One who becomes everywhere",
+      "word_skt" : "परिभूः",
+      "word_tl" : "paribhuḥ"
+    }, {
+      "meaning_en" : "the Self - existent",
+      "word_skt" : "स्वयम्भुः",
+      "word_tl" : "svayambhuḥ"
+    }, {
+      "meaning_en" : "from years sempiternal.",
+      "word_skt" : "शाश्वतीभ्यः समाभ्यः",
+      "word_tl" : "śāśvatībhyaḥ samābhyaḥ"
+    }, {
+      "meaning_en" : "He",
+      "word_skt" : "सः",
+      "word_tl" : "saḥ"
+    }, {
+      "meaning_en" : "perfectly according to nature or truth",
+      "word_skt" : "याथातथ्यतः",
+      "word_tl" : "yāthātathyataḥ"
+    }, {
+      "meaning_en" : "objects",
+      "word_skt" : "अर्थान्",
+      "word_tl" : "arthān"
+    }, {
+      "meaning_en" : "has ordered",
+      "word_skt" : "व्यदधात्",
+      "word_tl" : "vyadadhāt"
+    } ],
+    "hindi_explain" : "वह पुरुष ही सर्वत्र व्याप्त है-वह तत् जो ज्योतिर्मय, शरीर-रहित, अपूर्णता के चिह्न या दाग से शून्य, स्नायु एवं नस-नाड़ी से रहित और शुद्ध है एवं पाप से बिधा नहीं है। सर्वदर्शी, मनीषवान् वह एकमेव जो सर्वत्र सब कुछ हो जाता या बन जाता है, उस स्वयंसत् पुरुष ने ही सनातन वर्षों से, अनादि काल से सभी पदार्थों को उनके स्वभाव के अनुरूप पूर्णतया ठीक-ठीक, यथातथ रूप में व्यवस्थित कर रखा है।",
+    "meaning_en" : " It is He that has gone abroad-That which is bright, bodiless, without scar of imperfection, without sinews, pure, unpierced by evil. The Seer, the Thinker, the One who becomes everywhere, the Self - existent has ordered objects perfectly according to their nature from years sempiternal.",
+    "n" : "1/9",
+    "p" : "1/7",
+    "u" : "8",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम्‌।\nकविर्मनीषी परिभूः स्वयम्भूर्याथातथ्यतोऽर्थान्‌ व्यदधात् शाश्वतीभ्यः समाभ्यः ॥",
+    "verse_tl" : "sa paryagācchukramakāyamavraṇamasnāviraṁ śuddhamapāpaviddham |\nkavirmanīṣī paribhūḥ svayambhūryāthātathyato'rthān vyadadhāt śāśvatībhyaḥ samābhyaḥ ||"
+  }, {
+    "anvaya_skt" : "ये अविद्याम् उपासते ते अन्धं तमः प्रविशन्ति। ये उ विद्यायां रताः ते तमः भूयः तमः इव प्रविशन्ति ॥",
+    "anvaya_tl" : "ye avidyām upāsate te andhaṁ tamaḥ praviśanti| ye u vidyāyāṁ ratāḥ te tamaḥ bhūyaḥ tamaḥ iva praviśanti ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.9.mp3",
+    "auro_md" : "Into a blind darkness they enter who follow after the Ignorance, they as if into a greater darkness who devote themselves to the Knowledge alone.",
+    "glossary" : [ {
+      "meaning_en" : "they who",
+      "word_skt" : "ये",
+      "word_tl" : "ye"
+    }, {
+      "meaning_en" : "the Ignorance",
+      "word_skt" : "अविद्याम्",
+      "word_tl" : "avidyām"
+    }, {
+      "meaning_en" : "follow after",
+      "word_skt" : "उपासते",
+      "word_tl" : "upāsate"
+    }, {
+      "meaning_en" : "they",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "blind",
+      "word_skt" : "अन्धम्",
+      "word_tl" : "andham"
+    }, {
+      "meaning_en" : "darkness",
+      "word_skt" : "तमः",
+      "word_tl" : "tamaḥ"
+    }, {
+      "meaning_en" : "enter",
+      "word_skt" : "प्रविशन्ति",
+      "word_tl" : "praviśanti"
+    }, {
+      "meaning_en" : "they who",
+      "word_skt" : "ये",
+      "word_tl" : "ye"
+    }, {
+      "meaning_en" : "on the other hand",
+      "word_skt" : "उ",
+      "word_tl" : "u"
+    }, {
+      "meaning_en" : "in the Knowledge",
+      "word_skt" : "विद्यायाम्",
+      "word_tl" : "vidyāyām"
+    }, {
+      "meaning_en" : "have attachment / devotion",
+      "word_skt" : "रताः",
+      "word_tl" : "ratāḥ"
+    }, {
+      "meaning_en" : "they",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "into a greater",
+      "word_skt" : "भूयः",
+      "word_tl" : "bhūyaḥ"
+    }, {
+      "meaning_en" : "darkness",
+      "word_skt" : "तमः",
+      "word_tl" : "tamaḥ"
+    }, {
+      "meaning_en" : "enter",
+      "word_skt" : "प्रविशन्ति",
+      "word_tl" : "praviśanti"
+    } ],
+    "hindi_explain" : "जो अविद्या का अनुसरण करते हैं वे घोर अन्धकार में प्रवेश करते हैं। और जो केवल विद्या में ही रत रहते हैं वे मानों उससे भी अधिक घोर अन्धकार में प्रवेश करते हैं।",
+    "meaning_en" : " Into a blind darkness they enter who follow after the Ignorance, they as if into a greater darkness who devote themselves to the Knowledge alone.",
+    "n" : "1/10",
+    "p" : "1/8",
+    "u" : "9",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते।\nततो भूय इव ते तमो य उ विद्यायां रताः ॥",
+    "verse_tl" : "andhaṁ tamaḥ praviśanti ye'vidyāmupāsate |\ntato bhūya iva te tamo ya u vidyāyāṁ ratāḥ ||"
+  }, {
+    "anvaya_skt" : " विद्यया अन्यत् आहुः। अविद्यया अन्यत् एव आहुः। इति धीराणां शुश्रुम ये नः तत् विचचक्षिरे ॥",
+    "anvaya_tl" : "vidyayā anyat āhuḥ| avidyayā anyat eva āhuḥ| iti dhīrāṇāṁ śuśruma ye naḥ tat vicacakṣire ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.10.mp3",
+    "auro_md" : "Other, verily,[^9] it is said, is that which comes by the Knowledge, other that which comes by the Ignorance; this is the lore we have received from the wise who revealed That to our understanding.\n\n[^9]: *Anyadeva—eva* here gives to *anyad* the force, \"Quite other than the result described in the preceding verse is that to which lead the Knowledge and the Ignorance.\" We have the explanation of *anyad* in the verse that follows. The ordinary rendering, \"Knowledge has one result, Ignorance another\", would be an obvious commonplace announced with an exaggerated pompousness, adding nothing to the thought and without any place in the sequence of the ideas.",
+    "glossary" : [ {
+      "meaning_en" : "by the Knowledge",
+      "word_skt" : "विद्यया",
+      "word_tl" : "vidyayā"
+    }, {
+      "meaning_en" : "other",
+      "word_skt" : "अन्यत्",
+      "word_tl" : "anyat"
+    }, {
+      "meaning_en" : "it is said",
+      "word_skt" : "आहुः",
+      "word_tl" : "āhuḥ"
+    }, {
+      "meaning_en" : "by the Ignorance",
+      "word_skt" : "अविद्यया",
+      "word_tl" : "avidyayā"
+    }, {
+      "meaning_en" : "other",
+      "word_skt" : "अन्यत्",
+      "word_tl" : "anyat"
+    }, {
+      "meaning_en" : "verily",
+      "word_skt" : "एव",
+      "word_tl" : "eva"
+    }, {
+      "meaning_en" : "it is said",
+      "word_skt" : "आहुः",
+      "word_tl" : "āhuḥ"
+    }, {
+      "meaning_en" : "thus",
+      "word_skt" : "इति",
+      "word_tl" : "iti"
+    }, {
+      "meaning_en" : "(from mouth of) the wise ones",
+      "word_skt" : "धीराणाम्",
+      "word_tl" : "dhīrāṇām"
+    }, {
+      "meaning_en" : "we have been hearing",
+      "word_skt" : "शुश्रुम",
+      "word_tl" : "śuśruma"
+    }, {
+      "meaning_en" : "those who",
+      "word_skt" : "ये",
+      "word_tl" : "ye"
+    }, {
+      "meaning_en" : "to us",
+      "word_skt" : "नः",
+      "word_tl" : "naḥ"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "revealed to understanding",
+      "word_skt" : "विचचक्षिरे",
+      "word_tl" : "vicacakṣire"
+    } ],
+    "hindi_explain" : "विद्या से जो प्राप्त होता है वह दूसरा ही है, ऐसा ज्ञानी कहते हैं। अविद्या से जो प्राप्त होता है वह और ही है, ऐसा ज्ञानी कहते हैं। यह श्रुतिज्ञान हमने ज्ञानियों से प्राप्त किया है जिन्होंने हमारी बुद्धि के समक्ष उसको प्रकाशित किया।",
+    "meaning_en" : " Other, verily, it is said, is that which comes by the Knowledge, other that which comes by the Ignorance; this is the lore we have received from the wise who revealed That to our understanding.",
+    "n" : "1/11",
+    "p" : "1/9",
+    "u" : "10",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥",
+    "verse_tl" : "anyadevāhurvidyayā'nyadāhuravidyayā |\niti śuśruma dhīrāṇāṁ ye nastadvicacakṣire ||"
+  }, {
+    "anvaya_skt" : "यः विद्यां च अविद्यां च तत् उभयं सह वेद  अविद्यया मृर्युं तीर्त्वा विद्यया अमृतम् अश्नुते ॥",
+    "anvaya_tl" : "yaḥ vidyāṁ ca avidyāṁ ca tat ubhayaṁ saha veda  avidyayā mṛryuṁ tīrtvā vidyayā amṛtam aśnute ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.11.mp3",
+    "auro_md" : "He who knows That as both in one, the Knowledge and the Ignorance, by the Ignorance crosses beyond death and by the Knowledge enjoys Immortality.",
+    "glossary" : [ {
+      "meaning_en" : "he who",
+      "word_skt" : "यः",
+      "word_tl" : "yaḥ"
+    }, {
+      "meaning_en" : "the Knowledge",
+      "word_skt" : "विद्याम्",
+      "word_tl" : "vidyām"
+    }, {
+      "meaning_en" : "and",
+      "word_skt" : "च",
+      "word_tl" : "ca"
+    }, {
+      "meaning_en" : "the Ignorance",
+      "word_skt" : "अविद्याम्",
+      "word_tl" : "avidyām"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "as both",
+      "word_skt" : "उभयम्",
+      "word_tl" : "ubhayam"
+    }, {
+      "meaning_en" : "in one / together",
+      "word_skt" : "सह",
+      "word_tl" : "saha"
+    }, {
+      "meaning_en" : "knows",
+      "word_skt" : "वेद",
+      "word_tl" : "veda"
+    }, {
+      "meaning_en" : "by the Ignorance",
+      "word_skt" : "अविद्यया",
+      "word_tl" : "avidyayā"
+    }, {
+      "meaning_en" : "death",
+      "word_skt" : "मृत्युं",
+      "word_tl" : "mṛryum"
+    }, {
+      "meaning_en" : "crosses beyond",
+      "word_skt" : "तीर्त्वा",
+      "word_tl" : "tīrtvā"
+    }, {
+      "meaning_en" : "by the Knowledge",
+      "word_skt" : "विद्यया",
+      "word_tl" : "vidyayā"
+    }, {
+      "meaning_en" : "Immortality",
+      "word_skt" : "अमृतम्",
+      "word_tl" : "amṛtam"
+    }, {
+      "meaning_en" : "enjoys",
+      "word_skt" : "अश्नुते",
+      "word_tl" : "aśnute"
+    } ],
+    "hindi_explain" : "जो तत् को इस रूप में जानता है कि वह एक साथ विद्या और अविद्या दोनों है, वह अविद्या से मृत्यु को पार कर विद्या से अमरता का आस्वादन करता है।",
+    "meaning_en" : " He who knows That as both in one, the Knowledge and the Ignorance, by the Ignorance crosses beyond death and by the Knowledge enjoys Immortality.",
+    "n" : "1/12",
+    "p" : "1/10",
+    "u" : "11",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "विद्याञ्चाविद्याञ्च यस्तद्वेदोभयं सह।\nअविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते ॥",
+    "verse_tl" : "vidyāñcāvidyāñca yastadvedobhayaṁ saha |\navidyayā mṛtyuṁ tīrtvā vidyayā'mṛtamaśnute ||"
+  }, {
+    "anvaya_skt" : " ये असम्भूतिम् उपासते ते अन्धं तमः प्रविशन्ति। ये उ सम्भूत्या रताः ते ततः भूयः इव तमः  प्रविशन्ति ॥",
+    "anvaya_tl" : "ye asambhūtim upāsate te andhaṁ tamaḥ praviśanti| ye u sambhūtyā ratāḥ te tataḥ bhūyaḥ iva tamaḥ ( praviśanti ) ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.12.mp3",
+    "auro_md" : "Into a blind darkness they enter who follow after the Non-Birth, they as if into a greater darkness who devote themselves to the Birth alone.",
+    "glossary" : [ {
+      "meaning_en" : "they who",
+      "word_skt" : "ये",
+      "word_tl" : "ye"
+    }, {
+      "meaning_en" : "the Non - Birth",
+      "word_skt" : "असम्भूतिम्",
+      "word_tl" : "asambhūtim"
+    }, {
+      "meaning_en" : "follow after",
+      "word_skt" : "उपासते",
+      "word_tl" : "upāsate"
+    }, {
+      "meaning_en" : "they",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "blind",
+      "word_skt" : "अन्धम्",
+      "word_tl" : "andham"
+    }, {
+      "meaning_en" : "darkness",
+      "word_skt" : "तमः",
+      "word_tl" : "tamaḥ"
+    }, {
+      "meaning_en" : "enter",
+      "word_skt" : "प्रविशन्ति",
+      "word_tl" : "praviśanti"
+    }, {
+      "meaning_en" : "they who",
+      "word_skt" : "ये",
+      "word_tl" : "ye"
+    }, {
+      "meaning_en" : "on the other hand",
+      "word_skt" : "उ",
+      "word_tl" : "u"
+    }, {
+      "meaning_en" : "in the Birth alone",
+      "word_skt" : "सम्भूत्या",
+      "word_tl" : "sambhūtyā"
+    }, {
+      "meaning_en" : "are engrossed",
+      "word_skt" : "रताः",
+      "word_tl" : "ratāḥ"
+    }, {
+      "meaning_en" : "they",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "than that",
+      "word_skt" : "ततः",
+      "word_tl" : "tataḥ"
+    }, {
+      "meaning_en" : "than that",
+      "word_skt" : "भूयः",
+      "word_tl" : "bhūyaḥ"
+    }, {
+      "meaning_en" : "as if",
+      "word_skt" : "इव",
+      "word_tl" : "iva"
+    }, {
+      "meaning_en" : "darkness",
+      "word_skt" : "तमः",
+      "word_tl" : "tamaḥ"
+    }, {
+      "meaning_en" : "enter",
+      "word_skt" : "प्रविशन्ति",
+      "word_tl" : "praviśanti"
+    } ],
+    "hindi_explain" : "जो अजन्म, जन्माभाव की अवस्था का अनुसरण करते हैं वे घोर अन्धकार में प्रवेश करते हैं। और जो केवल जन्म, प्रकृति के अन्दर जन्म में ही रत रहते हैं वे मानो उससे भी अधिक घोर अन्धकार में प्रवेश करते हैं।",
+    "meaning_en" : " Into a blind darkness they enter who follow after the Non - Birth, they as if into a greater darkness who devote themselves to the Birth alone.",
+    "n" : "1/13",
+    "p" : "1/11",
+    "u" : "12",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते।\nततो भूय इव ते तमो य उ सम्भूत्यां रताः ॥",
+    "verse_tl" : "andhaṁ tamaḥ praviśanti ye'sambhūtimupāsate |\ntato bhūya iva te tamo ya u sambhūtyāṁ ratāḥ ||"
+  }, {
+    "anvaya_skt" : "सम्भवात् अन्यत् एव आहुः। असम्भवात् अन्यत् आहुः। इति धीराणां शुश्रूम ये नः तत् विचचक्षिरे ॥",
+    "anvaya_tl" : "sambhavāt anyat eva āhuḥ| asambhavāt anyat āhuḥ| iti dhīrāṇāṁ śuśrūma ye naḥ tat vicacakṣire ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.13.mp3",
+    "auro_md" : "Other, verily, it is said, is that which comes by the Birth, other that which comes by the Non-Birth; this is the lore we have received from the wise who revealed That to our understanding.",
+    "glossary" : [ {
+      "meaning_en" : "comes by the Birth",
+      "word_skt" : "सम्भवात्",
+      "word_tl" : "sambhavāt"
+    }, {
+      "meaning_en" : "other",
+      "word_skt" : "अन्यत्",
+      "word_tl" : "anyat"
+    }, {
+      "meaning_en" : "it is said",
+      "word_skt" : "आहुः",
+      "word_tl" : "āhuḥ"
+    }, {
+      "meaning_en" : "comes by the Non - Birth",
+      "word_skt" : "असम्भवात्",
+      "word_tl" : "asambhavāt"
+    }, {
+      "meaning_en" : "other",
+      "word_skt" : "अन्यत्",
+      "word_tl" : "anyat"
+    }, {
+      "meaning_en" : "verily",
+      "word_skt" : "एव",
+      "word_tl" : "eva"
+    }, {
+      "meaning_en" : "it is said",
+      "word_skt" : "आहुः",
+      "word_tl" : "āhuḥ"
+    }, {
+      "meaning_en" : "thus",
+      "word_skt" : "इति",
+      "word_tl" : "iti"
+    }, {
+      "meaning_en" : "(from mouth of) the wise ones",
+      "word_skt" : "धीराणाम्",
+      "word_tl" : "dhīrāṇām"
+    }, {
+      "meaning_en" : "we have been hearing",
+      "word_skt" : "शुश्रूम",
+      "word_tl" : "śuśrūma"
+    }, {
+      "meaning_en" : "those who",
+      "word_skt" : "ये",
+      "word_tl" : "ye"
+    }, {
+      "meaning_en" : "to us",
+      "word_skt" : "नः",
+      "word_tl" : "naḥ"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "revealed to understanding",
+      "word_skt" : "विचचक्षिरे",
+      "word_tl" : "vicacakṣire"
+    } ],
+    "hindi_explain" : "जन्म से जो प्राप्त होता है वह अन्य ही है, ऐसा ज्ञानी कहते हैं; अजन्म से जो प्राप्त होता है वह और ही है, ऐसा ज्ञानी कहते हैं; यह श्रुतिज्ञान हमने ज्ञानियों से प्राप्त किया है जिन्होंने हमारी बुद्धि के समक्ष तत् को प्रकाशित किया।",
+    "meaning_en" : " Other, verily, it is said, is that which comes by the Birth, other that which comes by the Non - Birth; this is the lore we have received from the wise who revealed That to our understanding.",
+    "n" : "1/14",
+    "p" : "1/12",
+    "u" : "13",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात्‌।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥",
+    "verse_tl" : "anyadevāhuḥ sambhavādanyadāhurasambhavāt |\niti śuśruma dhīrāṇāṁ ye nastadvicacakṣire ||"
+  }, {
+    "anvaya_skt" : "सम्भूतिं च विनाशं च यः तत् उभयं सह वेद विनाशेन मृत्युम् तीर्त्वा  सम्भूत्या अमृतम् अश्नुते ॥",
+    "anvaya_tl" : "sambhūtiṁ ca vināśaṁ ca yaḥ tat ubhayaṁ saha veda vināśena mṛtyum tīrtvā asambhutyā amṛtam aśnute ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.14.mp3",
+    "auro_md" : "He who knows That as both in one, the Birth and the dissolution of Birth, by the dissolution crosses beyond death and by the Birth enjoys Immortality.",
+    "glossary" : [ {
+      "meaning_en" : "the Birth",
+      "word_skt" : "सम्भूतिम्",
+      "word_tl" : "sambhūtim"
+    }, {
+      "meaning_en" : "and",
+      "word_skt" : "च",
+      "word_tl" : "ca"
+    }, {
+      "meaning_en" : "the dissolution of Birth",
+      "word_skt" : "विनाशम्",
+      "word_tl" : "vināśam"
+    }, {
+      "meaning_en" : "and",
+      "word_skt" : "च",
+      "word_tl" : "ca"
+    }, {
+      "meaning_en" : "he who",
+      "word_skt" : "यः",
+      "word_tl" : "yaḥ"
+    }, {
+      "meaning_en" : "That",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "both",
+      "word_skt" : "उभयम्",
+      "word_tl" : "ubhayam"
+    }, {
+      "meaning_en" : "in one",
+      "word_skt" : "सह",
+      "word_tl" : "saha"
+    }, {
+      "meaning_en" : "knows",
+      "word_skt" : "वेद",
+      "word_tl" : "veda"
+    }, {
+      "meaning_en" : "by the dissolution",
+      "word_skt" : "विनाशेन",
+      "word_tl" : "vināśena"
+    }, {
+      "meaning_en" : "death",
+      "word_skt" : "मृत्युम्",
+      "word_tl" : "mṛtyum"
+    }, {
+      "meaning_en" : "having crossed beyond",
+      "word_skt" : "तीर्त्वा",
+      "word_tl" : "tīrtvā"
+    }, {
+      "meaning_en" : "by the Birth",
+      "word_skt" : " सम्भूत्या",
+      "word_tl" : "sambhutyā"
+    }, {
+      "meaning_en" : "Immortality",
+      "word_skt" : "अमृतम्",
+      "word_tl" : "amṛtam"
+    }, {
+      "meaning_en" : "enjoys",
+      "word_skt" : "अश्नुते",
+      "word_tl" : "aśnute"
+    } ],
+    "hindi_explain" : "जो तत् को इस रूप में जानता है कि वह एक साथ जन्म और जन्म का उच्छेद या अन्त दोनों है, वह जन्म के उच्छेद या अन्त से मृत्यु को पार कर जन्म से अमरता का आस्वादन करता है।",
+    "meaning_en" : " He who knows That as both in one, the Birth and the dissolution of Birth, by the dissolution crosses beyond death and by the Birth enjoys Immortality.",
+    "n" : "1/15",
+    "p" : "1/13",
+    "u" : "14",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "सम्भूतिञ्च विनाशञ्च यस्तद्वेदोभयं सह।\nविनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते ॥",
+    "verse_tl" : "sambhūtiñca vināśañca yastadvedobhayaṁ saha |\nvināśena mṛtyuṁ tīrtvā sambhūtyā'mṛtamaśnute ||"
+  }, {
+    "anvaya_skt" : " हिरण्मयेन पात्रेण सत्यस्य मुखम् अपिहितम् अस्ति। पूषन् तत् सत्यधर्माय दृष्टये त्वम् अपावृणु ॥",
+    "anvaya_tl" : "hiraṇmayena pātreṇa satyasya mukham apihitam asti| pūṣan tat satyadharmāya dṛṣṭaye tvam apāvṛṇu ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.15.mp3",
+    "auro_md" : "The face of Truth is covered with a brilliant golden lid; that do thou remove, O Fosterer,[^10] for the law of the Truth, for sight.\n\n[^10]: In the inner sense of the Veda Surya, the Sun-God, represents the divine Illumination of the Kavi which exceeds mind and forms the pure self-luminous Truth of things. His principal power is self-revelatory knowledge, termed in the Veda \"Sight\". His realm is described as the Truth, the Law, the Vast. He is the Fosterer or Increaser, for he enlarges and opens man's dark and limited being into a luminous and infinite consciousness. He is the sole Seer, Seer of Oneness and Knower of the Self, and leads him to the highest Sight. He is Yama, Controller or Ordainer, for he governs man's action and manifested being by the direct Law of the Truth, *satyadharma*, and therefore by the right principle of our nature, *yāthātathyataḥ*. A luminous power proceeding from the Father of all existence, he reveals in himself the divine Purusha of whom all beings are the manifestations. His rays are the thoughts that proceed luminously from the Truth, the Vast, but become deflected and distorted, broken up and disordered in the reflecting and dividing principle, Mind. They form there the golden lid which covers the face of the Truth. The Seer prays to Surya to cast them into right order and relation and then draw them together into the unity of revealed truth. The result of this inner process is the perception of the oneness of all beings in the divine Soul of the Universe.",
+    "glossary" : [ {
+      "meaning_en" : "a brilliant golden lid",
+      "word_skt" : "हिरण्मयेन पात्रेण",
+      "word_tl" : "hiraṇmayena pātreṇa"
+    }, {
+      "meaning_en" : "of Truth",
+      "word_skt" : "सत्यस्य",
+      "word_tl" : "satyasya"
+    }, {
+      "meaning_en" : "the face",
+      "word_skt" : "मुखम्",
+      "word_tl" : "mukham"
+    }, {
+      "meaning_en" : "is covered",
+      "word_skt" : "अपिहितम्",
+      "word_tl" : "apihitam"
+    }, {
+      "meaning_en" : "O Fosterer!",
+      "word_skt" : "पूषन्",
+      "word_tl" : "pūṣan"
+    }, {
+      "meaning_en" : "that",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "for the law of the Truth",
+      "word_skt" : "सत्यधर्माय",
+      "word_tl" : "satyadharmāya"
+    }, {
+      "meaning_en" : "for sight",
+      "word_skt" : "दृष्टये",
+      "word_tl" : "dṛṣṭaye"
+    }, {
+      "meaning_en" : "do thou",
+      "word_skt" : "त्वम्",
+      "word_tl" : "tvam"
+    }, {
+      "meaning_en" : "remove",
+      "word_skt" : "अपावृणु",
+      "word_tl" : "apāvṛṇu"
+    } ],
+    "hindi_explain" : "सत्य का मुख चमकीले सुनहरे ढक्कन से ढका है; हे पोषक सूर्यदेव! सत्य के विधान की उपलब्धि के लिए, साक्षात् दर्शन के लिए तू वह ढक्कन अवश्य हटा दे।",
+    "meaning_en" : " The face of Truth is covered with a brilliant golden lid; that do thou remove, O Fosterer, for the law of the Truth, for sight.",
+    "n" : "1/16",
+    "p" : "1/14",
+    "u" : "15",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्‌।\nतत् त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥",
+    "verse_tl" : "hiraṇmayena pātreṇa satyasyāpihitaṁ mukham |\ntat tvaṁ pūṣannapāvṛṇu satyadharmāya dṛṣṭaye ||"
+  }, {
+    "anvaya_skt" : "पूषन् एकर्षे यम प्राजापत्य सूर्यरश्मीन् व्युह तेजः। यत् ते कल्याणतमं रूपं तत् ते  पश्यामि। यः असौ पुरुषः सः अहम् अस्मि ॥",
+    "anvaya_tl" : "pūṣan ekarṣe yama prājāpatya sūryaraśmīn vyuha tejaḥ | yat te kalyāṇatamaṁ rūpaṁ tat te  paśyāmi| yaḥ asau puruṣaḥ saḥ aham asmi ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.16.mp3",
+    "auro_md" : "O Fosterer, O sole Seer, O Ordainer, O illumining Sun, O power of the Father of creatures, marshal thy rays, draw together thy light; the Lustre which is thy most blessed form of all, that in Thee I behold. The Purusha there and there, He am I.",
+    "glossary" : [ {
+      "meaning_en" : "O Fosterer!",
+      "word_skt" : "पूषन्",
+      "word_tl" : "pūṣan"
+    }, {
+      "meaning_en" : "O sole Seer!",
+      "word_skt" : "एकर्षे",
+      "word_tl" : "ekarṣe"
+    }, {
+      "meaning_en" : "O Ordainer!",
+      "word_skt" : "यम",
+      "word_tl" : "yama"
+    }, {
+      "meaning_en" : "O illumining Sun",
+      "word_skt" : "सूर्य",
+      "word_tl" : "sūrya"
+    }, {
+      "meaning_en" : "O power of the Father of creatures",
+      "word_skt" : "प्राजापत्य",
+      "word_tl" : "prājāpatya"
+    }, {
+      "meaning_en" : "thy rays",
+      "word_skt" : "रश्मीन्",
+      "word_tl" : "raśmīn"
+    }, {
+      "meaning_en" : "marshal",
+      "word_skt" : "व्यूह",
+      "word_tl" : "vyuha"
+    }, {
+      "meaning_en" : "draw together",
+      "word_skt" : "समूह",
+      "word_tl" : "samūha"
+    }, {
+      "meaning_en" : "the Lustre which",
+      "word_skt" : "यत् तेजः",
+      "word_tl" : "yat tejaḥ"
+    }, {
+      "meaning_en" : "thy",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "most blessed",
+      "word_skt" : "कल्याणतमम्",
+      "word_tl" : "kalyāṇatamam"
+    }, {
+      "meaning_en" : "form",
+      "word_skt" : "रूपम्",
+      "word_tl" : "rūpam"
+    }, {
+      "meaning_en" : "that",
+      "word_skt" : "तत्",
+      "word_tl" : "tat"
+    }, {
+      "meaning_en" : "in Thee",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "I behold",
+      "word_skt" : "पश्यामि",
+      "word_tl" : "paśyāmi"
+    }, {
+      "meaning_en" : "there and there",
+      "word_skt" : "यः असौ",
+      "word_tl" : "yaḥ asau"
+    }, {
+      "meaning_en" : "The Purusha",
+      "word_skt" : "पुरुषः",
+      "word_tl" : "puruṣaḥ"
+    }, {
+      "meaning_en" : "He",
+      "word_skt" : "सः",
+      "word_tl" : "saḥ"
+    }, {
+      "meaning_en" : "am I",
+      "word_skt" : "अहम् अस्मि",
+      "word_tl" : "aham asmi"
+    } ],
+    "hindi_explain" : "हे पोषक, हे एकमात्र द्रष्टा, हे विधाता एवं नियन्ता, हे प्रकाशदाता सूर्य, हे प्रजापति की (प्राणियों एवं प्रजाओं के पिता की) शक्ति! अपनी किरणों को व्यूहबद्ध एवं व्यवस्थित कर, अपने प्रकाश को एकत्र एवं पुञ्जीभूत कर ले जो तेज तेरा सबसे अधिक कल्याणकारी रूप है, तेरा वही रूप मैं देखता हूं। वहां, वहां जो पुरुष है वही हूँ मैं।",
+    "meaning_en" : "16. O Fosterer, O sole Seer, O Ordainer, O illumining Sun, O power of the Father of creatures, marshal thy rays, draw together thy light; the Lustre which is thy most blessed form of all, that in Thee I behold. The Purusha there and there, He am I.",
+    "n" : "1/17",
+    "p" : "1/15",
+    "u" : "16",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन्‌ समूह।\nतेजो यत् ते रूपं कल्याणतमं तत्ते पश्यामि\nयोऽसावसौ पुरुषः सोऽहमस्मि ॥",
+    "verse_tl" : "pūṣannekarṣe yama sūrya prājāpatya vyūha raśmīn samūha |\ntejo yat te rūpaṁ kalyāṇatamaṁ tatte paśyāmi\nyo'sāvasau puruṣaḥ so'hamasmi ||"
+  }, {
+    "anvaya_skt" : "अथ वायुः अमृतम् अनिलम्। इदम् शरीरं भस्मान्तं  भूयात् । ओं क्रतो कृतं स्मर ॥",
+    "anvaya_tl" : "atha vāyuḥ amṛtam anilam| idam śarīraṁ bhasmāntaṁ ( bhūyāt )| oṁ krato kṛtaṁ smara ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.17.mp3",
+    "auro_md" : "The Breath of things[^11] is an immortal Life, but of this body ashes are the end. OM! O Will,[^12] remember, that which was done remember! O Will, remember, that which was done remember.\n\n[^11]: Vayu, called elsewhere Matarishwan, the Life-Energy in the universe. In the light of Surya he reveals himself as an immortal principle of existence of which birth and death and life in the body are only particular and external processes.\n\n[^12]: The Vedic term *kratu* means sometimes the action itself, sometimes the effective power behind action represented in mental consciousness by the will. Agni is this power. He is divine force which manifests first in matter as heat and light and material energy and then, taking different forms in the other principles of man's consciousness, leads him by a progressive manifestation upwards to the Truth and the Bliss.",
+    "glossary" : [ {
+      "meaning_en" : "the Breath of things",
+      "word_skt" : "वायुः",
+      "word_tl" : "vāyuḥ"
+    }, {
+      "meaning_en" : "an immortal",
+      "word_skt" : "अमृतम्",
+      "word_tl" : "amṛtam"
+    }, {
+      "meaning_en" : "Life",
+      "word_skt" : "अनिलम्",
+      "word_tl" : "anilam"
+    }, {
+      "meaning_en" : "but",
+      "word_skt" : "अथ",
+      "word_tl" : "atha"
+    }, {
+      "meaning_en" : "this body",
+      "word_skt" : "इदम् शरीरम्",
+      "word_tl" : "idam śarīram"
+    }, {
+      "meaning_en" : "ending in ashes",
+      "word_skt" : "भस्मान्तम्",
+      "word_tl" : "bhasmāntam"
+    }, {
+      "meaning_en" : "OM!",
+      "word_skt" : "ओम्",
+      "word_tl" : "om"
+    }, {
+      "meaning_en" : "O Will",
+      "word_skt" : "क्रतो",
+      "word_tl" : "krato"
+    }, {
+      "meaning_en" : "that which was done",
+      "word_skt" : "कृतम्",
+      "word_tl" : "kṛtam"
+    }, {
+      "meaning_en" : "remember",
+      "word_skt" : "स्मर",
+      "word_tl" : "smara"
+    }, {
+      "meaning_en" : "OM!",
+      "word_skt" : "ओम्",
+      "word_tl" : "om"
+    }, {
+      "meaning_en" : "O Will",
+      "word_skt" : "क्रतो",
+      "word_tl" : "krato"
+    }, {
+      "meaning_en" : "that which was done",
+      "word_skt" : "कृतम्",
+      "word_tl" : "kṛtam"
+    }, {
+      "meaning_en" : "remember",
+      "word_skt" : "स्मर",
+      "word_tl" : "smara"
+    } ],
+    "hindi_explain" : "वस्तुओं का प्राण, वायु, अमर जीवनतत्त्व है, परन्तु इस का अन्त है भस्म। ओ३म। हे दिव्य संकल्पशक्ति! स्मरण कर, जो किया था उसे स्मरण कर! हे दिव्य संकल्पशक्ति, स्मरण कर, किये हुए कर्म का स्मरण कर।",
+    "meaning_en" : " The Breath of things is an immortal Life, but of this body ashes are the end. OM! OWill, remember, that which was done remember! O Will, remember, that which was done remember.",
+    "n" : "1/18",
+    "p" : "1/16",
+    "u" : "17",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "वायुरनिलममृतमथेदं भस्मांतं शरीरम्‌।\nॐ क्रतो स्मर कृतं स्मर क्रतो स्मर कृतं स्मर ॥",
+    "verse_tl" : "vāyuranilamamṛtamathedaṁ bhasmāṁtaṁ śarīram |\nom krato smara kṛtaṁ smara krato smara kṛtaṁ smara ||"
+  }, {
+    "anvaya_skt" : "अग्ने अस्मान् राये सुपथा नय। देव विश्वानि वयुनानि विद्वान् अस्मत् जुहुराणाम् एनः युयोधि ते भूयिष्ठां नम विधेम ॥",
+    "anvaya_tl" : "agne asmān rāye supathā naya| deva viśvāni vayunāni vidvān asmat juhurāṇām enaḥ yuyodhi te bhūyiṣṭhāṁ nama vidhema ||",
+    "audiourl" : "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.18.mp3",
+    "auro_md" : "O god Agni, knowing all things that are manifested, lead us by the good path to the felicity; remove from us the devious attraction of sin.[^13] To thee completest speech of submission we would dispose.[^14]\n\n[^13]: Sin, in the conception of the Veda, from which this verse is taken bodily, is that which excites and hurries the faculties into deviation from the good path. There is a straight road or road of naturally increasing light and truth, *ṛjuḥ panthāḥ, ṛtasya panthāḥ*, leading over infinite levels and towards infinite vistas, *vītāni pṛṣṭhāni*, by which the law of our nature should normally take us towards our fulfilment. Sin compels it instead to travel with stumblings amid uneven and limited tracts and along crooked windings (*duritāni, vṛjināni*).\n\n[^14]: The word *vidhema* is used of the ordering of the sacrifice, the disposal of the offerings to the God and, generally, of the sacrifice or worship itself. The Vedic *namas*, internal and external obeisance, is the symbol of submission to the divine Being in ourselves and in the world. Here the offering is that of completest submission and the self-surrender of all the faculties of the lower egoistic human nature to the divine Will-force, Agni, so that, free from internal opposition, it may lead the soul of man through the truth towards a felicity full of the spiritual riches, *rāye*. That state of beatitude is intended, self-content in the principle of pure Love and Joy, which the Vedic initiates regarded as the source of the divine existence in the universe and the foundation of the divine life in the human being. It is the deformation of this principle by egoism which appears as desire and the lust of possession in the lower worlds.",
+    "glossary" : [ {
+      "meaning_en" : "O god Agni!",
+      "word_skt" : "देव अग्ने",
+      "word_tl" : "deva agne"
+    }, {
+      "meaning_en" : "all things that are manifested",
+      "word_skt" : "विश्वानि वयुनानि",
+      "word_tl" : "viśvāni vayunāni"
+    }, {
+      "meaning_en" : "knowing",
+      "word_skt" : "विद्वान्",
+      "word_tl" : "vidvān"
+    }, {
+      "meaning_en" : "us",
+      "word_skt" : "अस्मान्",
+      "word_tl" : "asmān"
+    }, {
+      "meaning_en" : "to the felicity",
+      "word_skt" : "राये",
+      "word_tl" : "rāye"
+    }, {
+      "meaning_en" : "by the good path",
+      "word_skt" : "सुपथा",
+      "word_tl" : "supathā"
+    }, {
+      "meaning_en" : "lead",
+      "word_skt" : "नय",
+      "word_tl" : "naya"
+    }, {
+      "meaning_en" : "from us",
+      "word_skt" : "अस्मत्",
+      "word_tl" : "asmat"
+    }, {
+      "meaning_en" : "the devious attraction of sin",
+      "word_skt" : "जुहुराणाम् एनः",
+      "word_tl" : "juhurāṇām enaḥ"
+    }, {
+      "meaning_en" : "remove",
+      "word_skt" : "युयोधि",
+      "word_tl" : "yuyodhi"
+    }, {
+      "meaning_en" : "to thee",
+      "word_skt" : "ते",
+      "word_tl" : "te"
+    }, {
+      "meaning_en" : "completest ",
+      "word_skt" : "भूयिष्ठाम्",
+      "word_tl" : "bhūyiṣṭhām"
+    }, {
+      "meaning_en" : "speech of submission",
+      "word_skt" : "नम उक्तिम्",
+      "word_tl" : "nama uktim"
+    }, {
+      "meaning_en" : "we would dispose",
+      "word_skt" : "विधेम",
+      "word_tl" : "vidhema"
+    } ],
+    "hindi_explain" : "सब व्यक्त वस्तुओं के जानने वाले हे अग्निदेव! हमे सुपथ से, उत्तम मार्ग से आनन्द की ओर ले चल; पाप का कुटिलतापूर्ण आकर्षण हमसे हटा दे, दूर कर दे। तेरे प्रति अन्तर्नमन (समर्पण) की सर्वाङ्गपूर्ण वाणी (स्तोत्र) हम निवेदित करें।",
+    "meaning_en" : " O god Agni, knowing all things that are manifested, lead us by the good path to the felicity; remove from us the devious attraction of sin. To thee completest speech of submission we would dispose.",
+    "n" : "",
+    "p" : "1/17",
+    "u" : "18",
+    "uname_skt" : "ईशोपनिषद्",
+    "uname_tl" : "īśopaniṣad",
+    "verse_skt" : "अग्ने नय सुपथा राये अस्मान्‌ विश्वानि देव वयुनानि विद्वान्‌।\nयुयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम‍उक्तिं विधेम ॥",
+    "verse_tl" : "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān |\nyuyodhyasmajjuhurāṇameno bhūyiṣṭhāṁ te namauktiṁ vidhema ||"
+  } ]
+}

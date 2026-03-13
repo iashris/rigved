@@ -1,0 +1,2398 @@
+
+--- Page 001 ---
+
+TITUS 
+Level 1 Book: Bd. 
+The Indian BundahiÅ¡n 
+
+On the basis of the edition 
+BundahiÅ¡n hindÄ« , 
+[ed .] RaqÄ« BehzÄdÄ« 
+Tehran 1368 
+entered by P . Olivier , 
+Frankfurt , December 1997; 
+corrections and improvements by Carlo Cereti , 
+Vienna , January 1998 / September 1998; 
+TITUS version by Jost Gippert , 
+Frankfurt a/M , 28.2.1998 / 22.6.1998 / 26.9.1999 / 1.6.2000 / 23.11.2002 / 30.1.2006 
+
+[The numbering of sentences is provisional . J .G .] 
+
+Level 2 Chapter: I I 
+XLevel 4 Page: 1 
+XLevel 6 IBd Location: 1,1 IBd _1,1 
+XLevel 7 TD1 Location: 3,7 TD1 _3,7 
+XLevel 8 TD2 Location: 2,7 TD2 _2,7 
+XLevel 9 DH Location: 1,14 DH _1,14 
+
+XLevel 5 Line: 1 pad nÄm Ä« dÄdÄr ohrmazd 
+
+XLevel 5 Line: 2 Level 3 Sentence: 1 az zand-ÄgÄhÄ«h nazdist abar bun-dahiÅ¡nÄ«h Ä« o\hrmazd 
+XLevel 5 Line: 3 ud petyÄrag<Ä«h> Ä« gannÄg mÄnÅg , pas abar Äiy\ÅnÄ«h 
+XLevel 5 Line: 4 dÄm , az bun-dahiÅ¡nÄ«h tÄ frazÄm Ä« tan Ä« pasÄn . 
+
+XLevel 5 Line: 5 Level 3 Sentence: 2 ÄiyÅn az dÄn Ä« mÄzdÄsnÄn [ÅwÅn] paydÄg kÅ« ohrmazd b\Älist<Ä«g> 
+XLevel 5 Line: 6 pad harwisp-ÄgÄhÄ«h ud wehÄ«h andar rÅÅ¡nÄ«h 
+XLevel 5 Line: 7 hamÄ bÅ«d . Level 3 Sentence: 3 Än rÅÅ¡nÄ«h gÄh ud gyÄg Ä« ohrmazd ast kÄ a\sar-rÅÅ¡n<Ä«h> 
+XLevel 5 Line: 8 gÅwÄnd . Level 3 Sentence: 4 ud harwisp-ÄgÄhÄ«h , wehÄ«h xÄm o\hrmazd 
+XLevel 5 Line: 9 ast kÄ gÅwÄnd dÄn . Level 3 Sentence: 5 im har dÅ wizÄriÅ¡n Äk . Level 3 Sentence: 6 Än 
+XLevel 5 Line: 10 [Ä«] hamÄg zamÄn [Ä«] a-kanÄragÅmand , ÄiyÅn ohrmazd 
+XLevel 5 Line: 11 ud gÄh ud dÄn ud zamÄn <Ä«> ohrmazd bÅ«d ud ast ud ha\mÄ 
+XLevel 5 Line: 12 bawÄd . Level 3 Sentence: 7 ahreman andar tÄrÄ«gÄ«h pad pas-dÄnÄ«h ud za\dÄr-kÄmagÄ«h 
+XLevel 5 Line: 13 [ud] zofÄy<Ä«g> bÅ«d ud ast kÄ nÄ bawÄd . Level 3 Sentence: 8 ud 
+XLevel 5 Line: 14 Än zadÄrÄ«h [ud] xÄm , Än tÄrÄ«gÄ«h gyÄg ast kÄ a-sar-t\ÄrÄ«g<Ä«h> 
+XLevel 5 Line: 15 gÅwÄnd . Level 3 Sentence: 9 u-Å¡Än mayÄn tuhÄ«gÄ«h bÅ«d . Level 3 Sentence: 10 ast kÄ wÄy 
+XLevel 5 Line: 16 gÅwÄnd kÄ nÅ«n gumÄziÅ¡nÄ«h pad-iÅ¡ . Level 3 Sentence: 11 har dÅ mÄnÅg kanÄra\gÅmand 
+XLevel 5 Line: 17 ud a-kanÄragÅmand . Level 3 Sentence: 12 bÄlist<Ä«g> Än Ä« a-sar-rÅÅ¡\nÄ«h 
+XLevel 5 Line: 18 gÅwÄnd ud zofÄy<Ä«g> Än a-sar-tÄrÄ«g<Ä«h> Level 3 Sentence: 13 kÅ«-Å¡Än 
+XLevel 5 Line: 19 mayÄn tuhÄ«g ud Äk abÄg did nÄ paywast ÄstÄd . Level 3 Sentence: 14 ud did 
+XLevel 5 Line: 20 har dÅ mÄnÅg pad xwÄÅ¡-tan kanÄragÅmand hÄnd ud did 
+XLevel 5 Line: 21 harwisp-ÄgÄhÄ«h <Ä«> ohrmazd rÄy , har [dÅ] ÄiÅ¡ andar 
+XLevel 4 Page: 2 XLevel 5 Line: 1 dÄniÅ¡n Ä« ohrmazd , kanÄragÅmand [ud a-kanÄragÅmand] 
+XLevel 5 Line: 2 ÄÄ [Än] Än Ä« andar har dÅwÄn mÄnÅg paymÄn dÄnÄd . Level 3 Sentence: 15 ud 
+XLevel 5 Line: 3 did bowandag [ud] pÄdixÅ¡ÄyÄ«h <Ä«> [ud] dÄm Ä« ohrmazd 
+XLevel 5 Line: 4 pad tan <Ä«> pasÄn bawÄd , Än-iz ast [Ä«] tÄ hamÄ-hamÄ-\rawiÅ¡nÄ«h 
+XLevel 5 Line: 5 a-kanÄragÅmand . Level 3 Sentence: 16 ud dÄm Ä« ahreman pad Än za\mÄn 
+XLevel 5 Line: 6 be abesÄ«hÄd , ka tan <Ä«> pasÄn bawÄd . Level 3 Sentence: 17 Än-iz ast 
+XLevel 5 Line: 7 [a-]kanÄragÄ«h . Level 3 Sentence: 18 ohrmazd pad harwisp-ÄgÄhÄ«h dÄnist kÅ« 
+XLevel 5 Line: 8 ahreman hast , ÄÄ handÄzÄd pad areÅ¡k-kÄmag<Ä«h> andar 
+XLevel 5 Line: 9 gumÄzÄd tÄ frazÄm ÄÄ frazÄm pad Äand abzÄr hanjÄmÄ\nÄd . 
+
+XLevel 5 Line: 10 Level 3 Sentence: 19 u-Å¡ mÄnÅgÄ«hÄ , Än dÄm Ä« pad Än abzÄr andar abÄ\yist 
+XLevel 5 Line: 11 frÄz brÄhÄnÄ«d . Level 3 Sentence: 20 sÄ hazÄr sÄl andar mÄnÅg<Ä«h> Äs\tÄ«d 
+XLevel 5 Line: 12 hÄnd , kÅ« bÅ«d hÄnd a-menÄ«dÄr ud a-rawÄ<g> tan a\griftÄr . 
+
+XLevel 5 Line: 13 Level 3 Sentence: 21 gannÄg mÄnÅg paÅ¡dÄniÅ¡nÄ«h rÄy az hastÄ«h <Ä«> 
+XLevel 5 Line: 14 ohrmazd nÄ ÄgÄh bÅ«d , ud pas az Än zofÄy ÄxÄzÄ«d ud Å 
+XLevel 5 Line: 15 wimand <Ä«> rÅÅ¡n<Än> mad . Level 3 Sentence: 22 ud ka-Å¡ dÄ«d Än Ä« ohrmazd rÅ\Å¡nÄ«h 
+XLevel 5 Line: 16 a-griftÄr , pad druz zadÄr-kÄmag<Ä«h> ud areÅ¡k-\gÅhrÄ«h 
+XLevel 5 Line: 17 rÄy pad murnjÄnÄ«dan andar dwÄrist . Level 3 Sentence: 23 u-Å¡ dÄ«d Ä\ÄrÄ«h 
+XLevel 5 Line: 18 abarwÄzÄ«h freh az Än Ä« xwÄÅ¡ , abÄz Å tÄr ud tom 
+XLevel 5 Line: 19 dwÄrist ud kirrÄnÄ«d was dÄw ud druz , dÄm Ä« murnjÄn\Ä«dÄr . 
+
+XLevel 5 Line: 20 Level 3 Sentence: 24 xast Åy arÎ³and . Level 3 Sentence: 25 ohrmazd ka-Å¡ dÄm Ä« gannÄg mÄn\Åg 
+XLevel 5 Line: 21 dÄ«d , dÄm Ä« sahmgen , pÅ«dag wad<ag> u-Å¡ nÄ burziÅ¡\nÄ«g 
+XLevel 5 Line: 22 sahist . Level 3 Sentence: 26 pas gannÄg mÄnÅg dÄm Ä« ohrmazd dÄ«d , sah\ist 
+XLevel 5 Line: 23 was dÄm Ä« weh , dÄm Ä« pursiÅ¡nÄ«g , u-Å¡ burziÅ¡nÄ«g s\ahist , 
+XLevel 4 Page: 3 XLevel 5 Line: 1 ud burzÄ«d Än Ä« ohrmazd dÄm ud dahiÅ¡n . Level 3 Sentence: 27 Äg ohrm\azd 
+XLevel 5 Line: 2 abÄg ÄÄ ÄwÄnag dÄnist<an> Ä« frazÄm Ä« kÄr , [ud] Å 
+XLevel 5 Line: 3 padÄ«rag Ä« gannÄg mÄnÅg Å¡ud . Level 3 Sentence: 28 u-Å¡ ÄÅ¡tÄ«h abar dÄÅ¡t , guft 
+XLevel 5 Line: 4 kÅ« : "gannÄg mÄnÅg abar Å dÄm Ä« man ayÄrÄ«h bar , stÄyiÅ¡n 
+XLevel 5 Line: 5 kun , tÄ pad Än pÄdÄÅ¡n a-marg ud a-zarmÄn a-sÅhiÅ¡n a\pÅhiÅ¡n 
+XLevel 5 Line: 6 bawÄ[d] . Level 3 Sentence: 29 u-Å¡ drÄyÄ«d gannÄg mÄnÅg kÅ« : "be nÄ Å¡aw 
+XLevel 5 Line: 7 Äm , wÄÅ¡ ayÄrÄ«h Å dÄm Ä« tÅ nÄ kunÄm , ud stÄyiÅ¡n-Ä pad 
+XLevel 5 Line: 8 dÄm Ä« tÅ nÄ kunÄm , ud pad ÄiÅ¡ <Ä«> nÄk abÄg tÅ ham-dÄd\estÄn 
+XLevel 5 Line: 9 nÄ bawÄm , ud dam Ä« tÅ murnjÄnÄm tÄ hamÄ-hamÄ-r\awiÅ¡nÄ«h , 
+XLevel 5 Line: 10 bÄ harwisp dÄm Ä« tÅ Å a-dÅstÄ«h <Ä«> tÅ ud dÅ\stÄ«h 
+XLevel 5 Line: 11 <Ä«> xwÄÅ¡ kunÄm ". Level 3 Sentence: 30 u-Å¡ wizÄriÅ¡n Än kÅ« gannÄg mÄnÅg pad 
+XLevel 5 Line: 12 *Äd dÄÅ¡t kÅ« ohrmazd andar Åy a-ÄÄrag ast , Äd rÄy Ä\Å¡tÄ«h 
+XLevel 5 Line: 13 barÄd ud nÄ padÄ«rift , u-Å¡ padist-iz abar burd . 
+
+XLevel 5 Line: 14 Level 3 Sentence: 31 u-Å¡ guft ohrmazd kÅ« nÄ harwisp-ÄgÄh hÄ[d] ud harwisp-\kardÄr 
+XLevel 5 Line: 15 gannÄg mÄnÅg ! Level 3 Sentence: 32 kÅ«-t man nÄ tuwÄn murnjÄnÄ«dan u\d 
+XLevel 5 Line: 16 dÄm Ä« man ÄdÅn nÄ tuwÄn kardan kÅ« abÄz Å xwÄsÄ«h <Ä«> 
+XLevel 5 Line: 17 man nÄ rasÄnd . Level 3 Sentence: 33 pas ohrmazd pad harwisp-ÄgÄhÄ«h dÄnist , 
+XLevel 5 Line: 18 kÅ« agar zamÄn Ä« kÄrezÄr nÄ dahÄm , Äg-iÅ¡ [tuwÄn kardan 
+XLevel 5 Line: 19 Ä«] dÄm Ä« man wiyÄbÄnÄ«dan , Å xwÄÅ¡ kardan tuwÄn . Level 3 Sentence: 34 ÄiyÅn 
+XLevel 5 Line: 20 nÅ«n-iz mardÅm andar gumÄziÅ¡nÄ«h , was hÄnd kÄ abÄrÅnÄ«h 
+XLevel 5 Line: 21 wÄÅ¡ warzÄnd kÅ« frÄrÅnÄ«h . Level 3 Sentence: 35 u-Å¡ guft ohrmazd Å gannÄg 
+XLevel 5 Line: 22 mÄnÅg kÅ« zamÄn kun tÄ kÄrezÄr pad gumÄziÅ¡nÄ«h Å nÅ h\azÄr 
+XLevel 5 Line: 23 sÄl <frÄz abganÄm> . Level 3 Sentence: 36 kÅ«-Å¡ dÄnist kÅ« pad Än zamÄn 
+XLevel 4 Page: 4 XLevel 5 Line: 1 kardan a-gÄr ast gannÄg mÄnÅg . Level 3 Sentence: 37 Äg gannÄg mÄnÅg a-wÄn\Äg<Ä«h> 
+XLevel 5 Line: 2 ud a-frazÄnagÄ«<h> rÄy pad Än paymÄnag ham-dÄd\estÄn 
+XLevel 5 Line: 3 bÅ«d . Level 3 Sentence: 38 ÄdÅn ÄiyÅn dÅ mard Ä« ham-kÅxÅ¡iÅ¡n kÄ zamÄn 
+XLevel 5 Line: 4 frÄz kunÄnd , kÅ« wahmÄn rÅz tÄ <Å¡ab> kÄrezÄr kunÄm . Level 3 Sentence: 39 ohr\mazd 
+XLevel 5 Line: 5 Än-iz pad harwisp-ÄgÄhÄ«h dÄnist kÅ« : Än nÅ hazÄr 
+XLevel 5 Line: 6 sÄl , sÄ hazÄr sÄl hamÄg kÄmag Ä« ohrmazd rawÄd . Level 3 Sentence: 40 sÄ ha\zÄr 
+XLevel 5 Line: 7 sÄl , andar gumÄzagÄ«<h> , kÄmag Ä« ohrmazd ud ahre\man 
+XLevel 5 Line: 8 ud sÄ hazÄr sÄl <Ä«> abdom gannÄg mÄnÅg a-gÄr bawÄd 
+XLevel 5 Line: 9 <ud> az dÄm [Ä«] petyÄrag<Ä«h> abÄz dÄrÄnd . Level 3 Sentence: 41 pas ohrmazd 
+XLevel 5 Line: 10 ahunawar frÄz srÅ«d yaÏÄ ahÅ« vairiiÅ -Ä wiÅ¡t ud Äk mÄrÄ«g 
+XLevel 5 Line: 11 be guft . Level 3 Sentence: 42 u-Å¡ frazÄm pÄrÅzÄ«h <Ä«> xwÄÅ¡ , a-gÄrÄ«h Ä« gann\Äg 
+XLevel 5 Line: 12 mÄnÅg , abesÄ«hÄ«dan Ä« dÄwÄn , rist-ÄxÄz , tan Ä« pasÄn , 
+XLevel 5 Line: 13 a-petyÄrag<Ä«h> Ä« dÄmÄn tÄ hamÄ-hamÄ-rawiÅ¡nÄ«h , be Å g\annÄg 
+XLevel 5 Line: 14 mÄnÅg nimÅ«d . Level 3 Sentence: 43 ud gannÄg mÄnÅg ka-Å¡ a-gÄrÄ«h Ä« xw\ÄÅ¡ 
+XLevel 5 Line: 15 ud abesÄ«hÄ«dan Ä« dÄwÄn be dÄ«d , stard bÅ«d , abÄz Å tÄ\rtom 
+XLevel 5 Line: 16 Åbast . Level 3 Sentence: 44 ÅwÅn ÄiyÅn pad dÄn paydÄg kÅ« : ka-Å¡ sÄ Äk-Ä 
+XLevel 5 Line: 17 guft bÅ«d , gannÄg mÄnÅg az bÄ«m tan andar hanjÄd . Level 3 Sentence: 45 ka-Å¡ 
+XLevel 5 Line: 18 dÅ bahr guft bÅ«d , pad zÄnÅ«g andar Åbast . Level 3 Sentence: 46 ud ka-Å¡ ham\Äg 
+XLevel 5 Line: 19 guft bÅ«d , stard ud a-gÄr bÅ«d pad dÄmÄn Ä« ohrmazd a\nÄgÄ«h 
+XLevel 5 Line: 20 kard<an> . Level 3 Sentence: 47 sÄ hazÄr sÄl pad stardÄ«h ÄstÄ«d Level 3 Sentence: 48 ohrm\azd 
+XLevel 5 Line: 21 pad stardÄ«h Ä« ahreman dÄm dÄd : nazdist wahman fr\Äz 
+XLevel 5 Line: 22 brÄhÄnÄ«d kÄ-Å¡ rawÄgÄ«h Ä« dÄm Ä« ohrmazd <aziÅ¡> frÄz 
+XLevel 5 Line: 23 bÅ«d . Level 3 Sentence: 49 gannÄg mÄnÅg nazdist mihÅxt ud pas akÅman dÄd . Level 3 Sentence: 50 ohrm\azd 
+XLevel 4 Page: 5 XLevel 5 Line: 1 az dÄm Ä« gÄtÄ«g[Ä«h] fradom asmÄn . Level 3 Sentence: 51 u-Å¡ wahman az nÄk-\rawiÅ¡nÄ«h , 
+XLevel 5 Line: 2 gÄtÄ«g rÅÅ¡nÄ«h frÄz brÄhÄnÄ«d kÄ-Å¡ dÄn Ä« weh 
+XLevel 5 Line: 3 <Ä«> mÄzdÄsnÄn abÄg bÅ«d Än kÅ« Än Ä« Å dÄm rasÄd , <tÄ> f\raÅ¡agird , 
+XLevel 5 Line: 4 Ä-Å¡ dÄnist . Level 3 Sentence: 52 pas aÅ¡wahiÅ¡t ud pas Å¡ahrewar ud 
+XLevel 5 Line: 5 pas spandarmad ud pas hordÄd ud pas amurdÄd . Level 3 Sentence: 53 ud ahr\eman 
+XLevel 5 Line: 6 az gÄtÄ«g tÄrÄ«g<Ä«h> akÅman ud andar ud pas sÄwÅ«l 
+XLevel 5 Line: 7 ud pas nÄghais Ì· nÄ Ì ÅhaiÏ- ?!} ud pas tariz ud zariz . Level 3 Sentence: 54 ohrmazd az dÄm 
+XLevel 5 Line: 8 Ä« gÄtÄ«g[Ä«h] fradom asmÄn , dudÄ«gar Äb ud sidÄ«gar zamÄ«g , 
+XLevel 5 Line: 9 ÄahÄrom urwar , panjom gÅspand , Å¡aÅ¡om mardÅm . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 002 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 2 
+
+Level 2 Chapter: II II 
+
+XLevel 6 IBd Location: 6,3 IBd _6,3 
+XLevel 7 TD1 Location: 22,14 TD1 _22,14 
+XLevel 8 TD2 Location: 25,6 TD2 _25,6 
+XLevel 9 DH Location: 12,15 DH _12,15 
+
+XLevel 5 Line: 10 abar frÄz brÄhÄnÄ«dan Ä« rÅÅ¡nÄn 
+
+XLevel 5 Line: 11 Level 3 Sentence: 1 ohrmazd andarag asmÄn ud zamÄ«g rÅÅ¡nÄ«h brÄhÄnÄ«d , 
+XLevel 5 Line: 12 starÄn axtarÄ«g ud Än-iz nÄ axtarÄ«g . Level 3 Sentence: 2 pas mÄh pas xwa\rÅ¡Äd . 
+
+XLevel 5 Line: 13 Level 3 Sentence: 3 ÄiyÅn gÅwÄd : fradom spihr brÄhÄnÄ«d u-Å¡ starÄn Ä« 
+XLevel 5 Line: 14 axtarÄ«g padiÅ¡ gumÄrd hÄnd . Level 3 Sentence: 4 mÄdagwar Än dwÄzdah kÄ nÄm 
+XLevel 5 Line: 15 warrag ud gÄw ud dÅ-pahikar ud karzang ud Å¡agr ud h\ÅÅ¡ag 
+XLevel 5 Line: 16 ud tarÄzÅ«g ud gazdum ud nÄm-asp ud wahÄ«g ud dÅl 
+XLevel 5 Line: 17 ud mÄhÄ«g kÄ-Å¡Än az bun-dahiÅ¡n[Ä«h] pad wÄ«st ud haÅ¡t xwu\rdag 
+XLevel 5 Line: 18 ÄmÄriÅ¡nÄ«h kÄ-Å¡Än nÄm padÄwar , pÄÅ¡-parwÄz , parwÄz , 
+XLevel 5 Line: 19 pahÄ , abesar , baÅ¡n , raxwat , taraha , azara , naxw , may\Än , 
+XLevel 5 Line: 20 abdom , mÄÅ¡Äha , spur , husraw , srÅ« , nÅ«r , gil , graf\Å¡a , 
+XLevel 4 Page: 6 XLevel 5 Line: 1 wanand , gÄ , gÅy , muri , bunza , kahtsar , kahtmayÄn , 
+XLevel 5 Line: 2 kaht . Level 3 Sentence: 5 u-Å¡ harwisp bun-dahiÅ¡nÄn Ä« gÄtÄ«g mÄniÅ¡n awiÅ¡ 
+XLevel 5 Line: 3 kard hÄnd tÄ ka Äbgat rasÄd , padÄ«rag hamÄmÄl Ä« xwÄÅ¡ 
+XLevel 5 Line: 4 kÅÅ¡Änd ud dÄmÄn az awÄÅ¡Än petyÄragÄn bÅzÄnd , handÄz\ag 
+XLevel 5 Line: 5 spÄh-Ä Äand kÄ Å kÄrezÄr baxt ÄstÄnd . Level 3 Sentence: 6 har axtar-Ä 
+XLevel 5 Line: 6 az awÄÅ¡Än Å¡aÅ¡ hazÄr <ud> ÄahÄr sad <ud> haÅ¡tÄd [haz\Är] 
+XLevel 5 Line: 7 xwurdag stÄrag pad ayÄrÄ«h frÄz brÄhÄnÄ«d hÄnd , ud 
+XLevel 5 Line: 8 pad awÄÅ¡Än axtarÄn ÄahÄr spÄhbed pad ÄahÄr kustag g\umÄrd . 
+
+XLevel 5 Line: 9 Level 3 Sentence: 7 spÄhbed-<Ä> abar awÄÅ¡Än spÄhbedÄn gumÄrd ud 
+XLevel 5 Line: 10 was ÅÅ¡mÄr stÄrag nÄmÄistÄ«g pad kustag kustag ud gyÄg 
+XLevel 5 Line: 11 gyÄg gumÄrd pad ham-zÅrÄ«h nÄrÅg-dÄdÄr<Ä«h> awÄÅ¡Än ax\tarÄn . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 8 ÄiyÅn gÅwÄd kÅ« tiÅ¡tar xwarÄsÄn spÄhbed , sadwÄs 
+XLevel 5 Line: 13 xwarwarÄn spÄhbed , wanand nÄm-rÅz spÄhbed , haftÅring 
+XLevel 5 Line: 14 abÄxtar spÄhbed , mÄx Ä« gÄh , [xwÄnÄnd] kÄ mÄx Ä« mayÄn 
+XLevel 5 Line: 15 Ä« asmÄn gÅwÄnd , <spÄhbedÄn spÄhbed> . Level 3 Sentence: 9 tÄ pÄÅ¡ kÄ Äbgat 
+XLevel 5 Line: 16 mad hamÄÅ¡ag nÄm-rÅz bÅ«d ast Ä« rapihwin Level 3 Sentence: 10 ohrmazd abÄg 
+XLevel 5 Line: 17 amahraspandÄn pad rapihwin gÄh mÄnÅg yaziÅ¡n frÄz s\axt . 
+
+XLevel 5 Line: 18 Level 3 Sentence: 11 u-Å¡ andar yaziÅ¡n har abzÄr-Ä pad zadan Ä« petyÄ\rag 
+XLevel 5 Line: 19 andar abÄyist be dÄd . Level 3 Sentence: 12 abÄg bÅy , frawahr Ä« mardÅ\mÄn 
+XLevel 5 Line: 20 uskÄrd , ud xrad Ä« harwisp-ÄgÄh pad mardÅmÄn frÄz 
+XLevel 5 Line: 21 burd . Level 3 Sentence: 13 guft kÅ« kadÄr Ä«-tÄn sÅ«dÅmandtar sahÄd , kÅ«-tÄn 
+XLevel 5 Line: 22 bÄ Å gÄtÄ«g dahÄm , tan-kardagÄ«hÄ abÄg druz be kÅÅ¡Äd 
+XLevel 5 Line: 23 ud druz be abesÄ«hÄnÄd , u-tÄn pad frazÄm drust ud an\ÅÅ¡ag 
+XLevel 4 Page: 7 XLevel 5 Line: 1 abÄz wirÄyÄm , u-tÄn pad frazÄm abÄz Å gÄtÄ«g da\hÄm , 
+XLevel 5 Line: 2 hamÄÄ«hÄ a-marg , a-zarmÄn , abÄ-petyÄrag bawÄd ; 
+XLevel 5 Line: 3 ayÄb-tÄn hamÄÅ¡ag pÄnagÄ«h az Äbgat abÄyÄd kardan . Level 3 Sentence: 14 <u\Å¡Än 
+XLevel 5 Line: 4 dÄ«d> [tan] frawahr* Ä« mardÅmÄn , pad Än xrad Ä« har\wisp-ÄgÄh , 
+XLevel 5 Line: 5 anÄgÄ«h az druz Ä« ahreman andar gÄtÄ«g pad\iÅ¡ 
+XLevel 5 Line: 6 rasÄd ud abdom abÄ-hamÄmal az petyÄrag , drust anÅ\Å¡ag 
+XLevel 5 Line: 7 abÄz bÅ«dan pad tan Ä« pasÄn tÄ hamÄ-hamÄ-rawiÅ¡nÄ«h 
+XLevel 5 Line: 8 rÄy ; pad Å¡udan Å gÄtÄ«g ham-dÄdestÄn bÅ«d hÄnd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 003 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 3 
+
+Level 2 Chapter: III III 
+
+XLevel 6 IBd Location: 8,6 IBd _8,6 
+XLevel 7 TD1 Location: 33,14 TD1 _33,14 
+XLevel 8 TD2 Location: 39,8 TD2 _39,8 
+XLevel 9 DH Location: 20,6 DH _20,6 
+
+XLevel 5 Line: 9 abar dwÄristan <Ä«> Äbgat Å dÄm 
+
+XLevel 5 Line: 10 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« : gannÄg mÄnÅg ka-Å¡ a-gÄrÄ«h Ä« 
+XLevel 5 Line: 11 xwÄÅ¡ ud hÄmist dÄwÄn az mard Ä« ahlaw dÄ«d , stard bÅ«d . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 2 sÄ hazÄr sÄl pad stardÄ«h nibast . Level 3 Sentence: 3 andar Än stardÄ«h , k\amÄlÄ«gÄn 
+XLevel 5 Line: 13 dÄwÄn jud jud drÄyÄ«d hÄnd kÅ« : "abar axÄz pid 
+XLevel 5 Line: 14 Ä« amÄ , ÄÄ amÄ andar Än gÄtÄ«g kÄrezÄr kunÄm Än Ä«-Å¡ 
+XLevel 5 Line: 15 ohrmazd ud amahraspandÄn tangÄ«h ud anÄgÄ«h aziÅ¡ bawÄd . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 4 jud jud , duÅ¡-kuniÅ¡nÄ«h Ä« xwÄÅ¡ gÅkÄnÄ«g ÅÅ¡murd , u-Å¡ nÄ r\ÄmÄ«hast 
+XLevel 5 Line: 17 Åy druwand gannÄg mÄnÅg bÄ«m Ä« mard Ä« ahlaw 
+XLevel 5 Line: 18 rÄy . Level 3 Sentence: 5 sar abar kardan nÄ tuwÄnist . Level 3 Sentence: 6 tÄ ka jeh Ä« druwa\nd 
+XLevel 5 Line: 19 mad pad bowandagÄ«h <Ä«> sÄ hazÄr sÄl . Level 3 Sentence: 7 u-Å¡ drÄyÄ«d Å 
+XLevel 5 Line: 20 gannÄg mÄnÅg kÅ« abar ÄxÄz pid Ä« amÄ , ÄÄ man andar Än 
+XLevel 4 Page: 8 XLevel 5 Line: 1 kÄrezÄr kunÄm u-Å¡ ohrmazd ud amahraspandÄn ta\ngÄ«h 
+XLevel 5 Line: 2 ud anÄgÄ«h aziÅ¡ bawÄd . Level 3 Sentence: 8 u-Å¡ jud jud , duÅ¡-kuniÅ¡nÄ«h 
+XLevel 5 Line: 3 Ä« xwÄÅ¡ gÅkÄnÄ«g ÅÅ¡murd . Level 3 Sentence: 9 u-Å¡ nÄ rÄmÄnÄ«d Åy druwand ga\nnÄg 
+XLevel 5 Line: 4 mÄnÅg , nÄ Äxist az Än stardÄ«h , bÄ«m Ä« mard Ä« ahl\aw 
+XLevel 5 Line: 5 rÄy . Level 3 Sentence: 10 ud did jeh Ä« druwand drÄyÄ«d kÅ« abar ÄxÄz pid 
+XLevel 5 Line: 6 Ä« amÄ , ÄÄ man andar Än kÄrezÄr , Än Äand bÄÅ¡ abar ma\rd 
+XLevel 5 Line: 7 Ä« ahlaw ud gÄw Ä« warzÄg hilÄm , kÅ« kuniÅ¡n Ä« man r\Äy 
+XLevel 5 Line: 8 zÄ«ndagÄ«h nÄ abÄyÄd . Level 3 Sentence: 11 u-Å¡Än xwarrah be murnjÄnÄm , 
+XLevel 5 Line: 9 bÄÅ¡om Äb , bÄÅ¡om urwar , bÄÅ¡om ÄtaxÅ¡ Ä« ohrmazd , bÄÅ¡om 
+XLevel 5 Line: 10 harwisp dahiÅ¡n Ä« ohrmazd . Level 3 Sentence: 12 u-Å¡ Än duÅ¡-kuniÅ¡nÄ«h ÅwÅn 
+XLevel 5 Line: 11 pad gÅkÄnÄ«g ÅÅ¡murd kÅ« gannÄg mÄnÅg be rÄmÄnÄ«d ud az 
+XLevel 5 Line: 12 Än stardÄ«h frÄz jast ud sar Ä« jeh abar bÅsÄ«d ud Än 
+XLevel 5 Line: 13 rÄmanÄ«h Ä« daÅ¡tÄn xwÄnÄnd pad jeh paydÄg bÅ«d . Level 3 Sentence: 13 drÄyÄ«d 
+XLevel 5 Line: 14 Å jeh kÅ«-t ÄÄ kÄmag tÄ-t dahÄm . Level 3 Sentence: 14 u-Å¡ drÄyÄ«d jeh Å ga\nnÄg 
+XLevel 5 Line: 15 mÄnÅg kÅ« mard kÄmagÄ«h tÄ Å man dah . Level 3 Sentence: 15 <ohrmazd> g\annÄg 
+XLevel 5 Line: 16 mÄnÅg kirb <Ä«> gast dÄsag Ä« wazaÎ³-kirb aziÅ¡ 
+XLevel 5 Line: 17 mard Ä« juwÄn Ä« pÄnzdah sÄlag Å jeh nimÅ«d . Level 3 Sentence: 16 Än jeh me\niÅ¡n 
+XLevel 5 Line: 18 awiÅ¡ burd . Level 3 Sentence: 17 pas gannÄg mÄnÅg abÄg hÄmist dÄwÄn 
+XLevel 5 Line: 19 Å padÄ«rag Ä« rÅÅ¡nÄn Å¡ud hÄnd . Level 3 Sentence: 18 u-Å¡ did asmÄn , u-Å¡Än a\reÅ¡k-kÄmagÄ«hÄ 
+XLevel 5 Line: 20 tag abar burd . Level 3 Sentence: 19 <tÄrÄ«kÄ«h> az andarÅn Ä« 
+XLevel 5 Line: 21 asmÄn sÄ Äk be ÄstÄ«d Level 3 Sentence: 20 u-Å¡ <mÄr> homÄnÄg asmÄn azÄr Ä« 
+XLevel 5 Line: 22 zamÄ«g be jast . Level 3 Sentence: 21 mÄh Ä« frawardÄ«n rÅz Ä« ohrmazd andar d\wÄrist 
+XLevel 5 Line: 23 nÄm-rÅz . Level 3 Sentence: 22 u-Å¡ asmÄn ÄdÅn aziÅ¡ Å¡kast , be tarsÄ«d 
+XLevel 4 Page: 9 XLevel 5 Line: 1 ÄiyÅn mÄÅ¡ az gurg . Level 3 Sentence: 23 be Å Äb mad . Level 3 Sentence: 24 <Ä«> [ud] azÄr Ä« Än zamÄ«g 
+XLevel 5 Line: 2 winÄrd ÄstÄd . Level 3 Sentence: 25 u-Å¡ pasmayÄn <Ä«> Än zamÄ«g suft , andar mad . 
+
+XLevel 5 Line: 3 Level 3 Sentence: 26 pas Å urwar mad , ud pas Å gÄw ud pas Å gayÅmart !}, pas o Ä\taxÅ¡ 
+XLevel 5 Line: 4 mad . Level 3 Sentence: 27 ÄdÅn ÄiyÅn magas homÄnÄg pad harwisp dahiÅ¡n be 
+XLevel 5 Line: 5 dwÄrist . Level 3 Sentence: 28 u-Å¡ gÄhÄn pad nÄm-rÅz ÅwÅn Åst tom be kard Äi\yÅn 
+XLevel 5 Line: 6 pad Å¡abÄ«tÄr homÄnÄg . Level 3 Sentence: 29 u-Å¡ zamÄ«g xrafstar abar hiÅ¡t , 
+XLevel 5 Line: 7 gazÄg zahrÅmand ÄiyÅn mÄr homÄnÄg , gazdum , karwÄg ud 
+XLevel 5 Line: 8 wazaÎ³ kÅ« sÅzan-Ä . Level 3 Sentence: 30 tÄx az xrafstar nÄ mÄnd . Level 3 Sentence: 31 u-Å¡ urwar wiÅ¡ 
+XLevel 5 Line: 9 abar hiÅ¡t ud ham-zamÄn be huÅ¡ÄnÄ«d . Level 3 Sentence: 32 u-Å¡ Äz ud niyÄz , dard , 
+XLevel 5 Line: 10 sÅg yask ud waran bÅ«Å¡Äsp pad tan <Ä«> gÄw ud gayÅmart !} frÄz 
+XLevel 5 Line: 11 hiÅ¡t . Level 3 Sentence: 33 pÄÅ¡ az madan Ä« Å gÄw ohrmazd mang Ä« bÄÅ¡Äz - kÄ ast 
+XLevel 5 Line: 12 bang xwÄnÄnd Å mÄÅ¡ pad xwardan <dÄd> . Level 3 Sentence: 34 frÄz pÄÅ¡ Ä« ÄaÅ¡m 
+XLevel 5 Line: 13 be Å¡ud , kÅ« tÄ az zaniÅ¡n , wizend duÅ¡-rÄmÄ«h kem bawÄd . Level 3 Sentence: 35 ud 
+XLevel 5 Line: 14 ka im zamÄn nizÄr ud wÄmÄr bÅ«d , pad dÄm be Å¡ud frÄz wi\dard . 
+
+XLevel 5 Line: 15 Level 3 Sentence: 36 u-Å¡ guft gÄw kÅ« Än Ä« gÅspandÄn dahiÅ¡n awÄÅ¡Än kuniÅ¡n 
+XLevel 5 Line: 16 kÄr . Level 3 Sentence: 37 pahrÄz framÄyiÅ¡n pÄÅ¡ az madan Å gayÅmart !}, ohrmazd 
+XLevel 5 Line: 17 xwÄb abar gayÅmart !} frÄz burd . Level 3 Sentence: 38 Äand drahnÄy waÄast-Ä 
+XLevel 5 Line: 18 wÄz be gÅwÄd . Level 3 Sentence: 39 ÄÄ brÄhÄnÄ«d ohrmazd Än xwÄb pad kirb Ä« ju\wÄn 
+XLevel 5 Line: 19 pÄnzdah sÄlag rÅÅ¡n buland . Level 3 Sentence: 40 ka gayÅmart !} az xwÄb frÄz 
+XLevel 5 Line: 20 bÅ«d axw dÄ«d tÄrÄ«k !} ÄiyÅn Å¡ab . Level 3 Sentence: 41 ud zamÄ«g <az dwariÅ¡n Ä«> 
+XLevel 5 Line: 21 [ÄiyÅn] xrafstarÄn sÅzan tÄx nÄ mÄnd . Level 3 Sentence: 42 spihr Å gard\iÅ¡n , 
+XLevel 5 Line: 22 xwarÅ¡Äd ud mÄh Å rawiÅ¡n ÄstÄd . Level 3 Sentence: 43 gÄhÄn <pattÄnÅ\mand> 
+XLevel 5 Line: 23 az drÄyiÅ¡n Ä« mazanÄ«gÄn dÄwÄn <ud> kÅxÅ¡iÅ¡n abÄg 
+XLevel 4 Page: 10 XLevel 5 Line: 1 axtarÄn . Level 3 Sentence: 44 u-Å¡ menÄ«d gannÄg mÄnÅg kÅ«<-m> dÄmÄn <Ä«> ohr\mazd 
+XLevel 5 Line: 2 hamÄg ÄgÄrÄnÄ«d jud az gayÅmart !}. Level 3 Sentence: 45 u-Å¡ astwÄ«hÄd 
+XLevel 5 Line: 3 abÄg hazÄr dÄw Ä« marg-kardÄrÄn pad gayÅmart !} frÄz hiÅ¡t . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 46 u-Å¡ zamÄn Ä« brÄ«n nÄ mad ÄstÄd , Åzadan , ÄÄrag nÄ yÄft . 
+
+XLevel 5 Line: 5 Level 3 Sentence: 47 ÄiyÅn gÅwÄd kÅ« ka gannÄg menÅg petyÄrag mad , zamÄn Än 
+XLevel 5 Line: 6 Ä« gayÅmart !} zÄ«ndagÄ«h ud xwadÄyÄ«h Å sÄ«h sÄl brÄhÄnÄ«d . Level 3 Sentence: 48 pas 
+XLevel 5 Line: 7 az madan Ä« petyÄrag sÄ«h sÄl zÄ«st . Level 3 Sentence: 49 u-Å¡ guft gayÅmart !} kÅ« 
+XLevel 5 Line: 8 ka Äbgat mad , mardÅm hamÄg az tÅhmag Ä« man bawÄnd ud ÄiÅ¡-\Ä 
+XLevel 5 Line: 9 Än weh ka kÄr ud kirbag kunÄnd . Level 3 Sentence: 50 ud pas Å ÄtaxÅ¡ mad . Level 3 Sentence: 51 u-Å¡ 
+XLevel 5 Line: 10 dÅ«d ud tÄrÄ«gÄ«h abar gumÄxt . Level 3 Sentence: 52 abÄxtarÄn abÄg was dÄw Å spi\hr 
+XLevel 5 Line: 11 pahikÅft ud axtarÄn gumÄxt hÄnd ud harwisp dahiÅ¡n Åw\Ån 
+XLevel 5 Line: 12 ÄhÅgÄnÄ«d ÄiyÅn ka ÄtaxÅ¡ hamÄg gyÄg sÅzÄnÄd ud dÅ«d a\bar 
+XLevel 5 Line: 13 ÄxÄzÄd . Level 3 Sentence: 53 ud nawad rÅz Å¡abÄn mÄnÅgÄn yazadÄn abÄg 
+XLevel 5 Line: 14 gannÄg mÄnÅg hÄmist dÄwÄn Å gÄtÄ«g ham-kÅxÅ¡iÅ¡n bÅ«d 
+XLevel 5 Line: 15 hÄnd , <tÄ-Å¡Än> stÅwÄnÄ«d , Å duÅ¡ox abgand . Level 3 Sentence: 54 ud drubuÅ¡\tÄ«h 
+XLevel 5 Line: 16 asmÄn kard kÅ« tÄ petyÄrag awiÅ¡ gumÄxtan nÄ tuwÄn . 
+
+XLevel 5 Line: 17 Level 3 Sentence: 55 duÅ¡ox andar mayÄnag Ä« zamÄ«g Än ÄnÅh kÅ« gannÄg mÄnÅg za\mÄ«g 
+XLevel 5 Line: 18 suft padiÅ¡ andar dwÄrist . Level 3 Sentence: 56 ÄiyÅn hamÄg xÄ«r Ä« gÄ\tÄ«g 
+XLevel 5 Line: 19 pad dÅwÄ«h wardiÅ¡nÄ«g , hamÄmÄl ud ham-kÅxÅ¡iÅ¡n , ul 
+XLevel 5 Line: 20 ud frÅd gumÄzagÄ«h paydÄg bÅ«d . 
+
+XLevel 5 Line: 21 Level 3 Sentence: 57 Än-iz gÅwÄd kÅ« ka gÄw Ä« Äk-dÄd frÄz* widard 
+XLevel 5 Line: 22 pad daÅ¡n dast Åbast . Level 3 Sentence: 58 gayÅmart !} pas ka widard pad hÅy 
+XLevel 5 Line: 23 dast . Level 3 Sentence: 59 gÅÅ¡urwan ÄiyÅn ruwÄn Ä« gÄw Ä« Äk-dÄd az tan Ä« 
+XLevel 4 Page: 11 XLevel 5 Line: 1 gÄw bÄrÅn mad , pÄÅ¡ gÄw be ÄstÄ«d Level 3 Sentence: 60 Äand hazÄr mard ka 
+XLevel 5 Line: 2 pad Äk bÄr wÄng dÄrÄnd Å ohrmazd garzÄ«d kÅ«-t sÄlÄrÄ«h 
+XLevel 5 Line: 3 Ä« dÄmÄn pad kÄ be hiÅ¡t . Level 3 Sentence: 61 ka zamÄ«g wizand<ag> andar Å¡\kast , 
+XLevel 5 Line: 4 ud urwar huÅ¡k ud Äb Å¡ud . Level 3 Sentence: 62 kÅ« ast Än mard kÄ-t 
+XLevel 5 Line: 5 guft kÅ« dahÄm tÄ pahrÄz be gÅwÄd . Level 3 Sentence: 63 u-Å¡ guft ohrmazd 
+XLevel 5 Line: 6 kÅ« wÄmÄr hÄ gÅÅ¡urwan , az Än gannÄg mÄnÅg wÄmÄrÄ«h ab\ar 
+XLevel 5 Line: 7 burd hÄ . Level 3 Sentence: 64 agar Än Ä« mard andar Än zamÄ«g , andar Än 
+XLevel 5 Line: 8 zamÄnag frÄz Å¡ÄyÄ«d dÄdan , gannÄg menÅg pad Än stamb\agÄ«h 
+XLevel 5 Line: 9 nÄ bÅ«d hÄd . Level 3 Sentence: 65 frÄz gÅÅ¡urwan raft tÄ star-pÄyag , g\arzÄ«d 
+XLevel 5 Line: 10 pad ham ÄwÄnag ; ud frÄz tÄ mÄh-pÄyag , garzÄ«d 
+XLevel 5 Line: 11 pad ham ÄwÄnag ; frÄz tÄ xwarÅ¡Äd-pÄyag <garzÄ«d pad 
+XLevel 5 Line: 12 ham ÄwÄnag> . Level 3 Sentence: 66 u-Å¡ pas frawahr Ä« zarduxÅ¡t be nimÅ«d kÅ« 
+XLevel 5 Line: 13 be dahÄm Å gÄtÄ«g kÄ pahrÄz be gÅwÄd . Level 3 Sentence: 67 hunsand bÅ«d mÄ\nÅg 
+XLevel 5 Line: 14 gÅÅ¡urwan ; padÄ«rift kÅ« dÄm be parwarom , kÅ« pad g\Åspand 
+XLevel 5 Line: 15 abÄz Å gÄtÄ«g dahiÅ¡nÄ«h ham-dÄdestÄn bÅ«d . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 68 haft abÄxtarÄn spÄhbedÄn Å haft spÄhbedÄn ax\tarÄ«g ; 
+XLevel 5 Line: 17 ÄiyÅn tÄ«r abÄxtar Å tiÅ¡tar , wahrÄm abÄxtar Å 
+XLevel 5 Line: 18 haftÅring , ohrmazd abÄxtar Å wanand , anÄhÄ«d abÄxtar 
+XLevel 5 Line: 19 Å sadwÄs , kewÄn abÄxtar Å mÄx Ä« mayÄn Ä« asmÄn , gÅzi\hr 
+XLevel 5 Line: 20 ud duzdu mÅ«Å¡par Ä« dumbÅmand Å xwarÅ¡Äd ud mÄh 
+XLevel 5 Line: 21 ud stÄragÄn mad ÄstÄ«d Level 3 Sentence: 69 xwarÅ¡Äd mÅ«Å¡par Å rah xwÄÅ¡ bast 
+XLevel 5 Line: 22 ÄstÄ«d pad ham-paymÄnag<Ä«h> , kÅ« tÄ winÄh kam tuwÄn 
+XLevel 5 Line: 23 kardan . 
+
+XLevel 4 Page: 12 
+XLevel 5 Line: 1 Level 3 Sentence: 70 kÅf Ä« harborz paydÄg kÅ« pÄrÄmÅn Ä« gÄhÄn , kÅf Ä« tÄrag 
+XLevel 5 Line: 2 [Ä«] Ä« mayÄn Ä« gÄhÄn . Level 3 Sentence: 71 xwarÅ¡Äd gardiÅ¡n ÄiyÅn abesar pÄr\ÄmÅn 
+XLevel 5 Line: 3 Ä« gÄhÄn , andar abÄzagÄ«h az war Ä« kÅf Ä« harborz 
+XLevel 5 Line: 4 pÄrÄmÅn Ä« tÄrag abaz gardÄd . Level 3 Sentence: 72 ÄiyÅn gÅwÄd kÅ« : tÄrag Ä« 
+XLevel 5 Line: 5 harborz kÄ Än Ä« man xwarÅ¡Äd ud mÄh stÄragÄn az pas 
+XLevel 5 Line: 6 abÄz wardÄnd . Level 3 Sentence: 73 "ÄÄ sad ud haÅ¡tÄd rÅzÄn ast pad xwarÄs\Än 
+XLevel 5 Line: 7 ud sad ud haÅ¡tÄd pad xwarwarÄn pad harborz . Level 3 Sentence: 74 xwar\Å¡Äd 
+XLevel 5 Line: 8 har rÅz pad rÅzÄn-Ä andar ÄyÄd ud pad rÅzÄn-Ä be 
+XLevel 5 Line: 9 Å¡awÄd . Level 3 Sentence: 75 mÄh ud axtarÄn ud abÄxtarÄn hamÄg band ud ra\wiÅ¡n 
+XLevel 5 Line: 10 Å Åy . Level 3 Sentence: 76 har rÅz sÄ kiÅ¡war <ud> nÄm hamÄ tÄbÄd . Level 3 Sentence: 77 Äi\yÅn 
+XLevel 5 Line: 11 pad ÄaÅ¡m-dÄ«d paydÄg . Level 3 Sentence: 78 ud pad har sÄl dÅ bÄr rÅz 
+XLevel 5 Line: 12 ud , Å¡ab rÄst . Level 3 Sentence: 79 ÄÄ pad bun-ardÄ«g ka az nazdist xwurdag 
+XLevel 5 Line: 13 warrag frÄz raft , rÅz ud Å¡ab rÄst bÅ«d ; hangÄm Ä« wah\Är 
+XLevel 5 Line: 14 bÅ«d . Level 3 Sentence: 80 ka Å nazdist xwurdag Ä« karzang rasÄ«d , rÅzÄn 
+XLevel 5 Line: 15 [Ä«] mahist , bunÄ«h hÄmÄ«n . Level 3 Sentence: 81 ka Å xwurdag Ä« tarÄzÅ«g ras\Ä«d , 
+XLevel 5 Line: 16 rÅz ud Å¡ab rÄst , bun Ä« pÄdÄz . Level 3 Sentence: 82 ud ka Å xwurdag Ä« 
+XLevel 5 Line: 17 wahÄ«g rasÄ«d , Å¡ab meh , bun Ä« zamestÄn . Level 3 Sentence: 83 ka Å warrag r\asÄ«d , 
+XLevel 5 Line: 18 Å¡ab <ud> rÅz rÄst abÄz bÅ«d . Level 3 Sentence: 84 ÄiyÅn ka az warrag 
+XLevel 5 Line: 19 frÄz raft tÄ ka abÄz Å warrag ÄyÄd pad sÄsad ud Å¡ast 
+XLevel 5 Line: 20 rÅz ud Än Ä« panj rÅz Ä« gÄhÄnÄ«g pad ham rÅzÄn andar 
+XLevel 5 Line: 21 ayÄd be Å¡awÄd . Level 3 Sentence: 85 rÅzÄn nÄ guft ÄstÄ«d ÄÄ agar be guft 
+XLevel 5 Line: 22 hÄd , dÄwÄn rÄz be dÄnist hÄd ud wizend handÄxtan tu\wÄnist . 
+
+XLevel 5 Line: 23 Level 3 Sentence: 86 az ÄnÅh kÅ« xwarÅ¡Äd pad rÅz Ä« mahist abar ÄyÄd 
+XLevel 4 Page: 13 XLevel 5 Line: 1 tÄ pad rÅz Ä« kahist abar ÄyÄd , xwarÄsÄn , kiÅ¡war saw\ah . 
+
+XLevel 5 Line: 2 Level 3 Sentence: 87 az ÄnÅh kÅ« pad rÅz Ä« kahist abar ÄyÄd , tÄ pad rÅz 
+XLevel 5 Line: 3 Ä« keh be Å¡awÄd , kust Ä« nÄm-rÅz , kiÅ¡war fradadafÅ¡ ud 
+XLevel 5 Line: 4 widadafÅ¡ . Level 3 Sentence: 88 az ÄnÅh kÅ« pad [kÄÄ] rÅz Ä« keh andar Å¡awÄd , 
+XLevel 5 Line: 5 tÄ pad rÅz Ä« meh andar Å¡awÄd , xwarwarÄn , kiÅ¡war arz\ah . 
+
+XLevel 5 Line: 6 Level 3 Sentence: 89 az ÄnÅh kÅ« pad rÅz Ä« meh andar ÄyÄd , tÄ ÄnÅh kÅ« 
+XLevel 5 Line: 7 pad rÅz Ä« meh andar Å¡awÄd , abÄxtar , kiÅ¡war 
+XLevel 5 Line: 8 wÅrÅ«barÅ¡t ud wÅrÅ«jarÅ¡t . Level 3 Sentence: 90 ka xwarÅ¡Äd abar ÄyÄd , kiÅ¡war 
+XLevel 5 Line: 9 sawah ud fradadafÅ¡ ud widadafÅ¡ <ud> nÄm az xwanirah 
+XLevel 5 Line: 10 tÄbÄd . Level 3 Sentence: 91 ka pad Än kustag Ä« tÄrag andar Å¡awÄd , kiÅ¡war 
+XLevel 5 Line: 11 arzah wÅrÅ«barÅ¡t <ud> wÅrÅ«jarÅ¡t , nÄm-Ä az xwanirah t\ÄbÄd . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 92 ka Ädar rÅz , ÄnÅh Å¡ab . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 004 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 4 
+
+Level 2 Chapter: IV IV 
+
+XLevel 6 IBd Location: 14,18 IBd _14,18 
+XLevel 7 TD1 Location: 49,13 TD1 _49,13 
+XLevel 8 TD2 Location: 60,7 TD2 _60,7 
+
+XLevel 5 Line: 13 abar ardÄ«g <Ä«> dahiÅ¡nÄn Ä« gÄtÄ«g abÄg 
+XLevel 5 Line: 14 petyÄrag Ä« gannÄg mÄnÅg 
+
+XLevel 5 Line: 15 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« gannÄg mÄnÅg ÄiyÅn andar 
+XLevel 5 Line: 16 dwÄrist , ÄÄ [Ä«] abar-ÄÄrÄ«h abÄzag Ä« yazadÄn <ud> nizÄr\Ä«h 
+XLevel 5 Line: 17 <Ä«> xwÄs dÄ«d , abÄz dwÄristan kÄmist . Level 3 Sentence: 2 mÄnÅg asmÄn ÄiyÅn 
+XLevel 5 Line: 18 Än Ä« artÄÅ¡tÄr kÄ zrÄh paymÅxt ÄstÄd , xwad ast asmÄn , 
+XLevel 5 Line: 19 padÄ«rag Ä« gannÄg mÄnÅg be winÄrd , padist-iz abar bu\rd ; 
+XLevel 5 Line: 20 tÄ ka ohrmazd drubuÅ¡tÄ«h saxttar az asmÄn [ud] p\adÄ«rag 
+XLevel 5 Line: 21 Ä« <gannÄg mÄnÅg> asmÄn pÄrÄmÅn be kard . Level 3 Sentence: 3 u-Å¡ 
+XLevel 4 Page: 14 XLevel 5 Line: 1 frawahr <Ä«> artÄÅ¡tÄrÄn ud ahlawÄn gurd asp<-bÄrag> ud 
+XLevel 5 Line: 2 nÄzag-dast pÄrÄmÅn Ä« asmÄn ÅwÅn <be gumÄrd> homÄnÄg 
+XLevel 5 Line: 3 mÅy andar sar , hangÅÅ¡Ä«dag awÄÅ¡Än kÄ drubuÅ¡tÄ«h pÄs p\ÄyÄnd . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 4 u-Å¡ nÄ ayÄft gannÄg mÄnÅg widarag kÄ abÄz dwÄ\rÄd . 
+
+XLevel 5 Line: 5 Level 3 Sentence: 5 u-Å¡ be dÄ«d abesÄ«hÄ«dan Ä« dÄwÄn ud agÄrÄ«h Ä« xwÄÅ¡ , 
+XLevel 5 Line: 6 ÄiyÅn ohrmazd frazÄm pÄrÅzÄ«h <Ä«> xwÄÅ¡ fraÅ¡agird-kard\Är<Ä«h> 
+XLevel 5 Line: 7 <dÄm> tÄ hamÄ-hamÄ-rawiÅ¡nÄ«h . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 005 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 5 
+
+Level 2 Chapter: V V 
+
+XLevel 6 IBd Location: 15,12 IBd _15,12 
+XLevel 7 TD1 Location: 50,11 TD1 _50,11 
+XLevel 8 TD2 Location: 61,10 TD2 _61,10 
+
+XLevel 5 Line: 8 dudÄ«gar ardÄ«h abÄg Äb kard 
+
+XLevel 5 Line: 9 Level 3 Sentence: 1 az Än ÄiyÅn tiÅ¡tar star pad karzang ÄbÄ«g - pad 
+XLevel 5 Line: 10 xwurdag azarag - xwÄnÄnd jÄnÄn , bÅ«d , andar ham 
+XLevel 5 Line: 11 rÅz ka Äbgat andar dwÄrist , abÄz ÄbÄrag , pad kust Ä« 
+XLevel 5 Line: 12 xwarwarÄn abr Å paydÄgÄ«h mad . Level 3 Sentence: 2 ÄÄ har mÄh-Ä xwÄÅ¡ Ä« a\xtar-Ä , 
+XLevel 5 Line: 13 mÄh tÄ«r ÄahÄrom mÄh az sÄl , karzang ÄahÄrom 
+XLevel 5 Line: 14 axtar az warrag . Level 3 Sentence: 3 ÄiyÅn xwÄÅ¡ Ä« karzang , kÄ-Å¡ tiÅ¡tar , 
+XLevel 5 Line: 15 andar jast , [ud] daxÅ¡ag Ä« wÄrÄn-kardÄr<Ä«h> nimÅ«d . Level 3 Sentence: 4 u-\Å¡ 
+XLevel 5 Line: 16 Äb ul abar burd pad nÄrÅg Ä« wÄd ; ham-kÄrÄn abÄg t\iÅ¡tar 
+XLevel 5 Line: 17 ÄstÄ«d hÄnd , wahman ud hÅm yazad pad parwÄnagÄ«h , 
+XLevel 5 Line: 18 burz yazad ud ardÄy frawahr pad paymÄn winÄriÅ¡nÄ«h . Level 3 Sentence: 5 t\iÅ¡tar 
+XLevel 5 Line: 19 pad sÄ kirb be waÅ¡t : mard-kirb ud asp-kirb ud 
+XLevel 5 Line: 20 gÄw-kirb . Level 3 Sentence: 6 sÄ«h rÅz-Å¡abÄn andar rÅÅ¡nÄ«h wazÄ«d ud pad h\ar 
+XLevel 5 Line: 21 kirb-Ä dah rÅz-Å¡abÄn waran kard . Level 3 Sentence: 7 ÄiyÅn axtarmÄr\Än 
+XLevel 4 Page: 15 XLevel 5 Line: 1 gÅwÄnd kÅ« har star-Ä sÄ kirb dÄrÄd . Level 3 Sentence: 8 Än wÄrÄn har 
+XLevel 5 Line: 2 sreÅ¡k-Ä Äand taÅ¡t-Ä wuzurg waÅ¡t , ud hamÄg dÄn zamÄ«g 
+XLevel 5 Line: 3 mard bÄlÄy Äb be ÄstÄ«d Level 3 Sentence: 9 Än Ä« xrafstarÄn Ä« pad zamÄ«g 
+XLevel 5 Line: 4 hamÄg pad Än wÄrÄn be Åzad , pad sÅ«rÄx Ä« zamÄ«g andar 
+XLevel 5 Line: 5 Å¡ud hÄnd . Level 3 Sentence: 10 ud pas mÄnÅg wad ÄiyÅn nÄ gumÄxt ÄstÄd , Ä\iyÅn 
+XLevel 5 Line: 6 gyÄn andar tan jumbÄd , wad <Ä«> andarwÄy<Ä«g> frÄz 
+XLevel 5 Line: 7 jumbÄnÄ«d . Level 3 Sentence: 11 u-Å¡ Än Äb hamÄg be must , be Å kanÄr Ä« zam\Ä«g 
+XLevel 5 Line: 8 Äwurd ud zrÄh Ä« frÄxwkard aziÅ¡ bÅ«d . Level 3 Sentence: 12 Än xrafstar 
+XLevel 5 Line: 9 Än murdag , pad zamÄ«g andar mÄnd , u-Å¡ zahr ud gandag\Ä«h 
+XLevel 5 Line: 10 pad zamÄ«g andar gumÄxt ; ud Än wiÅ¡ az zamÄ«g be b\urdan 
+XLevel 5 Line: 11 rÄy , tiÅ¡tar pad asp-kirb Ä« spÄd Ä« drÄz-dumb a\ndar 
+XLevel 5 Line: 12 zrÄh frÅd Å¡ud Level 3 Sentence: 13 u-Å¡ apÅÅ¡ dÄw pad homÄnÄg<Ä«h> Ä« asp-\Ä 
+XLevel 5 Line: 13 Ä« syÄ kÅ«k-dumb padÄ«rag mad , be tazÄ«d . Level 3 Sentence: 14 u-Å¡ Äk fras\ang 
+XLevel 5 Line: 14 tiÅ¡tar pad stÅwÄ«h be tÄzÄnÄ«d . Level 3 Sentence: 15 ud tiÅ¡tar az ohrm\azd 
+XLevel 5 Line: 15 pÄrÅzÄ«h xwÄst , ud ohrmazd Åz ud zÅr dÄd . Level 3 Sentence: 16 ÄiyÅn gÅ\wÄd 
+XLevel 5 Line: 16 kÅ« tiÅ¡tar pad ham-zamÄn , dah asp Ä« guÅ¡n , dah uÅ¡\tar 
+XLevel 5 Line: 17 Ä« guÅ¡n , dah gÄw Ä« guÅ¡n , dah kÅf ud dah rÅd Åz a\bar 
+XLevel 5 Line: 18 burd . Level 3 Sentence: 17 u-Å¡ Ä frasang apÅÅ¡ dÄw pad stÅwÄ«h nÄrÅg be 
+XLevel 5 Line: 19 tazÄnÄ«d . Level 3 Sentence: 18 Äd rÄy , pad Än Äim , tÄ«r abag tiÅ¡tar <hÄwand> 
+XLevel 5 Line: 20 nÄrÅg gÅwÄnd . Level 3 Sentence: 19 pas pad abr-Å xumb-Ä paymÄnÄ«g-abzÄr 
+XLevel 5 Line: 21 Än kar ÄdÅn gÅwÄnd Äb abar stad , Äand Å¡kefttar w\ÄrÄnÄ«d , 
+XLevel 5 Line: 22 pad sreÅ¡k Ä« gÄw-sar ud mard-sar must-zahÄ , 
+XLevel 5 Line: 23 dast-zahÄ , meh-iz ud keh-iz . Level 3 Sentence: 20 andar Än wÄrÄn-kardÄrÄ«h 
+XLevel 4 Page: 16 XLevel 5 Line: 1 aspanjaruÅ¡ ud apÅÅ¡ dÄw kÅxÅ¡Ä«d hÄnd , ud ÄtaxÅ¡ wÄzi\Å¡t 
+XLevel 5 Line: 2 gad abar waÅ¡t , ud aspanjaruÅ¡ az Än gad zÄniÅ¡nÄ«h 
+XLevel 5 Line: 3 garÄntom wÄng kard , ÄiyÅn nÅ«n-iz pad Än ardÄ«g pad w\aran-kardÄrÄ«h 
+XLevel 5 Line: 4 Î³arrÄnÄg ud rÅzÄg paydÄg . Level 3 Sentence: 21 u-Å¡ dah Å¡ab 
+XLevel 5 Line: 5 ud rÅz , pad Än ÄwÄnag , wÄrÄn kard ud Än wiÅ¡ ud zahr 
+XLevel 5 Line: 6 xrafstarÄn andar zamÄ«g bÅ«d , hamÄg andar Än Äb be gu\mÄxt 
+XLevel 5 Line: 7 ud Än Äb sÅr be bÅ«d . Level 3 Sentence: 22 Äe , andar zamÄ«g be mÄnd az 
+XLevel 5 Line: 8 Än tÅhmag Ä« xrafstarÄn hamÄ hambÅ«sÄ«d . Level 3 Sentence: 23 pas wÄd Än Äb 
+XLevel 5 Line: 9 pad ham ÄwÄnag , tÄ bowandagÄ«h sÄ rÅz , pad kustag ku\stag 
+XLevel 5 Line: 10 Ä« zamÄ«g abÄz niÅ¡Äst , ud sÄ zrÄh Ä« meh wÄ«st ud 
+XLevel 5 Line: 11 sÄ zrÄh Ä« keh aziÅ¡ bÅ«d . Level 3 Sentence: 24 dÅ ÄaÅ¡mag zrÄh aziÅ¡ payd\Äg 
+XLevel 5 Line: 12 bÅ«d hÄnd . Level 3 Sentence: 25 Äk ÄÄÄast war ud Äk sÅ«bar kÄ-Å¡Än xÄnÄn 
+XLevel 5 Line: 13 Å ÄaÅ¡mag Ä« zrÄh paywast ÄstÄd . Level 3 Sentence: 26 u-Å¡ Å kust Ä« abÄxtar 
+XLevel 5 Line: 14 dÅ rÅd be tÄzÄ«d , Äk Å xwarÄsÄn , Äk Å xwarwarÄn Å¡ud h\Änd , 
+XLevel 5 Line: 15 ast arang rÅd ud weh rÅd . Level 3 Sentence: 27 ÄiyÅn gÅwÄd kÅ« pad Än 
+XLevel 5 Line: 16 angust-zahÄ[Än] Ä« ohrmazd dÅ Äb tazÄ«d frÄz , kÄ-Å¡ Än 
+XLevel 5 Line: 17 har dÅ rÅd pad <dÅ> sar Ä« zamÄ«g be gardÄnd ud <pad> 
+XLevel 5 Line: 18 zrÄh frÄxwkard abÄz Å ham andar gumÄzÄnd . Level 3 Sentence: 28 ka Än dÅ 
+XLevel 5 Line: 19 rÅd be tazÄ«d , az ham bun-xÄnÄn Ä« awÄÅ¡Än haÅ¡tdah rÅd 
+XLevel 5 Line: 20 Ä« nÄydÄg be tazÄ«d ud pas abÄrÄ«g ÄbÄ«hÄ az Än nÄydÄg 
+XLevel 5 Line: 21 be tazÄ«d hÄnd . Level 3 Sentence: 29 awÄÅ¡Än hamÄg abÄz Å arang rÅd ud weh 
+XLevel 5 Line: 22 rÅd rÄzÄnd , kÄ-Å¡Än xwÄbargarÄ«h gÄhÄn aziÅ¡ . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 006 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 6 
+
+Level 2 Chapter: VI VI 
+XLevel 4 Page: 17 
+XLevel 6 IBd Location: 18,11 IBd _18,11 
+XLevel 7 TD1 Location: 53,14 TD1 _53,14 
+XLevel 8 TD2 Location: 65,1 TD2 _65,1 
+XLevel 9 DH Location: 34,3 DH _34,3 
+
+XLevel 5 Line: 1 abar ardÄ«g Ä« gannÄg mÄnÅg abÄg zamÄ«g kard 
+XLevel 5 Line: 2 abar dwÄristan <Ä«> Äbgat Å dÄm 
+
+XLevel 5 Line: 3 Level 3 Sentence: 1 ÄiyÅn gannÄg mÄnÅg andar dwÄrist , zamÄ«g be Ä\andÄ«d . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 2 <az> Än gÅhr Ä« kÅf Ä« andar zamÄ«g bÅ«d ÄstÄ«d 
+XLevel 5 Line: 5 fradom harborz kÅf <baÎ³Å>baxt , pas abarÄ«g kÅfÄ«hÄ Ä« 
+XLevel 5 Line: 6 mayÄn Ä« zamÄ«g . Level 3 Sentence: 3 ÄÄ ÄiyÅn harborz frÄz waxÅ¡Ä«d , harwisp 
+XLevel 5 Line: 7 kÅf Å rawiÅ¡n ÄstÄd hÄnd . Level 3 Sentence: 4 ÄÄ hamÄg az rÄÅ¡ag Ä« harborz 
+XLevel 5 Line: 8 frÄz waxÅ¡Ä«d hÄnd . Level 3 Sentence: 5 pad Än zamÄn az zamÄ«g abar mad hÄ\nd 
+XLevel 5 Line: 9 draxt homÄnÄg , kÄ tÄg Å abar , rÄÅ¡ag Å azÄr rÅyÄd . 
+
+XLevel 5 Line: 10 Level 3 Sentence: 6 u-Å¡Än rÄÅ¡ag , Äk andar did ÅwÅn be widard pad ham-b\andiÅ¡nÄ«h 
+XLevel 5 Line: 11 be winÄrd hÄnd , <kÅ«> pas az Än zamÄ«g pad Än 
+XLevel 5 Line: 12 Å¡keft ÄandÄnÄ«dan <nÄ Å¡Äyist> gÅwÄd kÅ« kÅf meh band 
+XLevel 5 Line: 13 Ä« zamÄ«gÄn . Level 3 Sentence: 7 widarag *ÄbÄn andar kÅfÄ«hÄ . Level 3 Sentence: 8 rÄÅ¡ag Ä« kÅfÄ«hÄ 
+XLevel 5 Line: 14 azÄr azabar be hiÅ¡t , kÅ« padiÅ¡ andar tÄzÄnd ÅwÅn Äi\yÅn 
+XLevel 5 Line: 15 rÄÅ¡ag Ä« draxtÄn andar zamÄ«g widerÄnd , hangÅÅ¡Ä«dag 
+XLevel 5 Line: 16 Ä« xÅn andar rag Ä« mardÅmÄn kÄ zÅr Å hamÄg tan dahÄnd . 
+
+XLevel 5 Line: 17 Level 3 Sentence: 9 pad ÄmÄr , jud az harborz , pad haÅ¡t dah sÄl , hamÄg 
+XLevel 5 Line: 18 [be] kÅf az zamÄ«g abar rust hÄnd , kÄ frayÄdiÅ¡n [Ä«] <ud> 
+XLevel 5 Line: 19 sÅ«d Ä« mardÅmÄn aziÅ¡ 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 007 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 7 
+
+Level 2 Chapter: VII VII 
+
+XLevel 6 IBd Location: 19,7 IBd _19,7 
+XLevel 7 TD1 Location: 54,13 TD1 _54,13 
+XLevel 8 TD2 Location: 67,1 TD2 _67,1 
+XLevel 9 DH Location: 34,18 DH _34,18 
+
+XLevel 5 Line: 20 <ÄahÄrom> ardÄ«g abÄg urwar kard 
+
+XLevel 4 Page: 18 
+XLevel 5 Line: 1 Level 3 Sentence: 1 Än ka huÅ¡k be bÅ«d , amurdÄd amahraspand , ÄiyÅn-\iÅ¡ 
+XLevel 5 Line: 2 urwar xwÄÅ¡ , Än urwar xÅrd kÅst , abÄg Äb <Ä«> tiÅ¡tar 
+XLevel 5 Line: 3 stad be gumÄxt ud tiÅ¡tar Än Äb pad hamÄg zamÄ«g be w\ÄrÄnÄ«d . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 2 pad hamÄg zamÄ«g urwar be rust , ÄiyÅn mÅy an\dar 
+XLevel 5 Line: 5 sar Ä« mardÅmÄn . Level 3 Sentence: 3 dah hazÄr aziÅ¡ Äk sardag mÄdag\war 
+XLevel 5 Line: 6 frÄz waxÅ¡Ä«d hÄnd , pad abÄz dÄriÅ¡nÄ«h dah hazÄr s\ardag 
+XLevel 5 Line: 7 wÄmÄrÄ«h <Ä«> gannÄg mÄnÅg Å dÄmÄn frÄz kirrÄnÄ«d . 
+
+XLevel 5 Line: 8 Level 3 Sentence: 4 az Än dah hazÄr , sad ud wÄ«st hazÄr sardag urwarÄn f\rÄz 
+XLevel 5 Line: 9 waxÅ¡Ä«d hÄnd . Level 3 Sentence: 5 az an hamÄg tÅhmag Ä« urwarÄn , wan Ä« 
+XLevel 5 Line: 10 harwisp-tÅhmag frÄz dÄd andar zrÄh frÄxwkard abar 
+XLevel 5 Line: 11 rust kÄ hamÄg sardag Ä« urwarÄn tÅhmag aziÅ¡ hamÄ wa\xÅ¡Ä«d . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 6 ud nazdÄ«k Å Än wan Ä« harwisp-tÅhmag , gÅkirin 
+XLevel 5 Line: 13 draxt be dÄd pad abÄz dÄriÅ¡nÄ«h Ä« zarmÄn Ä« dujdaft , 
+XLevel 5 Line: 14 purr-frayÄdiÅ¡nÄ«h gÄhÄn aziÅ¡ bÅ«d . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 008 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 8 
+
+Level 2 Chapter: VIII VIII 
+
+XLevel 6 IBd Location: 19,20 IBd _19,20 
+XLevel 7 TD1 Location: 55,8 TD1 _55,8 
+XLevel 8 TD2 Location: 68,1 TD2 _68,1 
+XLevel 9 DH Location: 35,8 DH _35,8 
+
+XLevel 5 Line: 15 abar <panjom> ardÄ«g abÄg 
+XLevel 5 Line: 16 gÄw Äk-dÄd kard 
+
+XLevel 5 Line: 17 Level 3 Sentence: 1 ÄiyÅn frÄz widard , urwar-ÄihrÄ«h rÄy , az ham 
+XLevel 5 Line: 18 handÄm Ä« gÄw panjÄh ud panj sardag jÅrdÄ , dwÄzdah s\ardag 
+XLevel 5 Line: 19 urwar Ä« beÅ¡Äz , az zamÄ«g fraz waxÅ¡Ä«d . Level 3 Sentence: 2 u-Å¡Än rÅ\Å¡nÄ«h 
+XLevel 5 Line: 20 ud zÅr <andar> Än tÅhm<Ä«h> Ä« gÄw bÅ«d Å mÄh-pÄyag 
+XLevel 4 Page: 19 XLevel 5 Line: 1 abespÄrd <ud> Än tÅhm , pad rÅÅ¡nÄ«h mÄh be pÄlÅ«d , pad 
+XLevel 5 Line: 2 hamÄg gÅnag be wirÄst , ud gyÄn andar tan kard . Level 3 Sentence: 3 az Ä\nÅh 
+XLevel 5 Line: 3 dÅ gÄw Äk nar ud Äk mÄdag , ud pas az har sardag-\Ä 
+XLevel 5 Line: 4 dÅ sad <ud> haftÄd ud dÅ sardag pad zamÄ«g frÄz pa\ydÄg 
+XLevel 5 Line: 5 bÅ«d hÄnd ? Level 3 Sentence: 4 murwÄn mÄnist pad andarwÄy ud mÄhÄ«g 
+XLevel 5 Line: 6 pad Äb zÄ«yiÅ¡nÄ«h . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 009 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 9 
+
+Level 2 Chapter: IX IX 
+
+XLevel 6 IBd Location: 20,10 IBd _20,10 
+XLevel 7 TD1 Location: 61,6 TD1 _61,6 
+XLevel 8 TD2 Location: 74,9 TD2 _74,9 
+XLevel 9 DH Location: 39,2 DH _39,2 
+
+XLevel 5 Line: 7 abar ÄiyÅnÄ«h zamÄ«g 
+
+XLevel 5 Line: 8 Level 3 Sentence: 1 pad dÄn gÅwÄd kÅ« zamÄ«g sÄ«h <ud> sÄ sardag . Level 3 Sentence: 2 Än 
+XLevel 5 Line: 9 rÅz ka tiÅ¡tar wÄrÄn kard kÄ-Å¡ zrÄh<Ä«hÄ> aziÅ¡ bÅ«d hÄnd , 
+XLevel 5 Line: 10 hamÄg gyÄg nam Äb grift pad haft pÄrag be bÅ«d , pÄrag-\Ä 
+XLevel 5 Line: 11 Äand nÄm-Ä mayÄn <ud> Å¡aÅ¡ pÄrag pÄrÄmÅn ; Än Å¡aÅ¡ pÄ\rag 
+XLevel 5 Line: 12 Äand xwanirah . Level 3 Sentence: 3 u-Å¡ kiÅ¡war nÄm nihÄd [ud] <kÅ«> kiÅ¡ 
+XLevel 5 Line: 13 kiÅ¡ be bÅ«d ÄiyÅn pÄrag-Ä pad kust Ä« xwarÄsÄn sawah k\iÅ¡war , 
+XLevel 5 Line: 14 <pÄrag-Ä pad kust Ä«> xwarwarÄn arzah kiÅ¡war , 
+XLevel 5 Line: 15 dÅ pÄrag pad kust Ä« nÄm-rÅz fradadafÅ¡ ud widadafÅ¡ 
+XLevel 5 Line: 16 kiÅ¡war , dÅ pÄrag pad kust Ä« abaxtar wÅrÅ«barÅ¡t wÅrÅ«j\arÅ¡t 
+XLevel 5 Line: 17 kiÅ¡war . Level 3 Sentence: 4 dÅ pÄrag Än Ä« mayÄn xwanirah . Level 3 Sentence: 5 ud xwan\irah 
+XLevel 5 Line: 18 zrÄh dÄrÄd ; ÄÄ bahr-Ä az Än zrÄh frÄxwkard pÄr\ÄmÅn 
+XLevel 5 Line: 19 [Ä«] be gaÅ¡t . Level 3 Sentence: 6 <mayÄn> wÅrÅ«barÅ¡t ud wÅrÅ«jarÅ¡t kÅf 
+XLevel 5 Line: 20 Ä« buland be rust ; kÅ«-Å¡ tÄ az kiÅ¡war Å kiÅ¡war nÄ tuw\Än 
+XLevel 5 Line: 21 Å¡ud . Level 3 Sentence: 7 ud az Än haft kiÅ¡war hamÄg nÄkÄ«h andar xwan\irah 
+XLevel 4 Page: 20 XLevel 5 Line: 1 wÄÅ¡ dÄd , ud gannÄg mÄnÅg-iz <anÄgÄ«h> Å xwanirah 
+XLevel 5 Line: 2 wÄÅ¡ kirrÄnÄd zadÄrÄ«h rÄy Ä«-Å¡ aziÅ¡ dÄ«d . Level 3 Sentence: 8 ÄÄ kayÄn ud 
+XLevel 5 Line: 3 wÄ«rÄn andar xwanirah dÄd ud dÄn Ä« weh mÄzdÄsnÄn pad 
+XLevel 5 Line: 4 xwanirah dÄd , ud pas Å abÄrÄ«g kiÅ¡war burd . Level 3 Sentence: 9 sÅÅ¡yans !} 
+XLevel 5 Line: 5 andar xwanirah zÄyÄd , kÄ gannÄg mÄnÅg a-gÄr kunÄd ud 
+XLevel 5 Line: 6 rist-ÄxÄz , tan Ä« pasÄn kunÄd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 010 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 10 
+
+Level 2 Chapter: X X 
+
+XLevel 6 IBd Location: 21,3 IBd _21,3 
+XLevel 7 TD1 Location: 62,16 TD1 _62,16 
+XLevel 8 TD2 Location: 76,6 TD2 _76,6 
+XLevel 9 DH Location: 40,2 DH _40,2 
+
+XLevel 5 Line: 7 abar ÄiyÅnÄ«h kÅfÄn 
+
+XLevel 5 Line: 8 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« fradom , <harborz . Level 3 Sentence: 2 pas hamÄg 
+XLevel 5 Line: 9 kÅf> frÄz rust hÄnd pad haÅ¡tdah sÄl , harborz tÄ bow\andagÄ«h 
+XLevel 5 Line: 10 haÅ¡t sad sÄl hamÄ rust . Level 3 Sentence: 3 dÅ sad sÄl Å star-\pÄyag 
+XLevel 5 Line: 11 ud dÅ sad sÄl Å mÄh-pÄyag ud dÅ sad sÄl Å xwa\rÅ¡Äd 
+XLevel 5 Line: 12 pÄyag ud dÅ sad sÄl Å a-sar-rÅÅ¡n . Level 3 Sentence: 4 ÄiyÅn abÄrÄ«g 
+XLevel 5 Line: 13 kÅfÄn az harborz rust hÄnd , pad marag dÅ hazÄr ud dÅ 
+XLevel 5 Line: 14 sad ud Äehel ud ÄahÄr kÅf , <Ä«> ast hugar Ä« buland , 
+XLevel 5 Line: 15 tÄrag Ä« harborz , ÄagÄd Ä« dÄiti , ud arzÅ«r puÅ¡t , usin\dÄm 
+XLevel 5 Line: 16 kÅf , kÅf Ä« abarsÄn kÄ kÅf <Ä«> pÄrs gÅwÄnd . Level 3 Sentence: 5 kÅf Ä« 
+XLevel 5 Line: 17 zÉrÉza kÄ hast kÅf Ä« manuÅ¡ , kÅf Ä« iriz , kÅf Ä« kÄf , 
+XLevel 5 Line: 18 kÅf Ä« wadges , kÅf Ä« uÅ¡dÄÅ¡tÄr , kÅf Ä« arzÅ«r-bÅ«m , kÅf Ä« 
+XLevel 5 Line: 19 rÅyiÅ¡nÅmand , kÅf Ä« padiÅ¡xwÄrgar , kÄ mahist andar xw\ÄrÄ«h , 
+XLevel 5 Line: 20 kÅf Ä« ÄÄ«n xwÄnÄnd , kÅf Ä« rÄwand , kÅf Ä« dÄr-spÄd , 
+XLevel 5 Line: 21 bagÄ«r <kÅf> , kÅf Ä« was-Å¡keft , kÅf Ä« syÄÅmand kÅf Ä« 
+XLevel 4 Page: 21 XLevel 5 Line: 1 wafrÅmand , kÅf Ä« spandyÄd , kÅf Ä« kadrwasp , kÅf Ä« 
+XLevel 5 Line: 2 asnÄwand , kÅigrÄs kÅf , [Ä«] sÄzdah kÅf andar Än Ä« Kang 
+XLevel 5 Line: 3 -diz kÄ gÅwÄnd kÅ« ÄsÄnÄ«hÅmand ud rÄmiÅ¡n-dÄdÄr , weh , 
+XLevel 5 Line: 4 ud xwurdag kÅf ; u-Å¡Än gÅkÄn gÅwÄm . Level 3 Sentence: 6 harborz kÅf pÄrÄ\mÅn 
+XLevel 5 Line: 5 Ä« Än zamÄ«g Å asmÄn paywast ÄstÄd . Level 3 Sentence: 7 tÄrag Ä« harbo\rz 
+XLevel 5 Line: 6 Än kÄ<-Å¡> star , mÄh , xwarÅ¡Äd padiÅ¡ andar Å¡awÄnd , 
+XLevel 5 Line: 7 ud padiÅ¡ abÄz ÄyÄnd . Level 3 Sentence: 8 hugar Ä« buland , Än kÄ Äb Ä« ard\wisÅ«r 
+XLevel 5 Line: 8 aziÅ¡ frÅd jahÄd hazÄr mard bÄlÄy . Level 3 Sentence: 9 usindÄm kÅf , 
+XLevel 5 Line: 9 Än kÄ az xwÄn-Ähan , az gÅhr Ä« asmÄn , mayÄn Ä« zrÄh f\rÄxwkard , 
+XLevel 5 Line: 10 kÄ-Å¡ Äb [Ä«] az hugar padiÅ¡ frÅd rÄzÄd . Level 3 Sentence: 10 Äag\Äd 
+XLevel 5 Line: 11 Ä« dÄitÄ« , Än Ä« mayÄn Ä« gÄhÄn , sad mard bÄlÄy , kÄ-Å¡ 
+XLevel 5 Line: 12 Äinwad puhl padiÅ¡ ÄstÄd , ruwÄn pad Än gyÄg ÄmÄrÄnd . 
+
+XLevel 5 Line: 13 Level 3 Sentence: 11 [harborz kÅf] arzur grÄ«wag ÄagÄd-Ä pad dar Ä« duÅ¡ox , 
+XLevel 5 Line: 14 kÄ-Å¡ hamwÄr dÄwÄn dwÄriÅ¡nÄ«h ÄnÅh kunÄnd . Level 3 Sentence: 12 Än-iz gÅwÄd 
+XLevel 5 Line: 15 kÅ« jud az harborz abarsÄn kÅf meh ast ; abarsÄn kÅf 
+XLevel 5 Line: 16 kÅf Ä« pÄrs xwÄnÄnd . Level 3 Sentence: 13 u-Å¡ bun pad sagestÄn , u-Å¡ sar pad 
+XLevel 5 Line: 17 ÄÄ«nestÄn . Level 3 Sentence: 14 kÅf Ä« manuÅ¡ [meh] Än kÅf kÄ-Å¡ manuÅ¡Äihr pa\diÅ¡ 
+XLevel 5 Line: 18 zÄd . Level 3 Sentence: 15 abÄrÄ«g kÅf<Ä«hÄ> frahist az awÄÅ¡Än rust hÄnd . 
+
+XLevel 5 Line: 19 Level 3 Sentence: 16 ÄiyÅn gÅwÄd kÅ« <frÅdÄbÄ«g> ÄbsÄrÄ«g deh pÄrÄmÅn awÄÅ¡Än 
+XLevel 5 Line: 20 sÄ kÅf wÄÅ¡ jast ÄstÄd . Level 3 Sentence: 17 kÅf Ä« iriz pad mÄy ?} hama\dÄn 
+XLevel 5 Line: 21 tÄ xwÄrazm ud az kÅf Ä« abarsÄn rust ÄstÄd . Level 3 Sentence: 18 kÅf Ä« 
+XLevel 5 Line: 22 manuÅ¡ pad xwarÄsÄn , pad wimand turkestÄn , Åy-iz aba\rsÄn 
+XLevel 5 Line: 23 paywast ÄstÄd . Level 3 Sentence: 19 kÅf Ä« kÄf az ham kÅf Ä« abarsÄn 
+XLevel 4 Page: 22 XLevel 5 Line: 1 rust ÄstÄd . Level 3 Sentence: 20 kÅf Ä« uÅ¡dÄÅ¡tÄr pad sagestÄn Level 3 Sentence: 21 kÅf Ä« arzÅ«r 
+XLevel 5 Line: 2 Än Ä« pad kust Ä« hrÅm . Level 3 Sentence: 22 ud padiÅ¡xwÄrgar kÅf Än Ä« pad 
+XLevel 5 Line: 3 tabarestÄn ud gÄ«lÄn , Än kustag . Level 3 Sentence: 23 rÄwand kÅf pad xwar\ÄsÄn , 
+XLevel 5 Line: 4 kÄ-Å¡ Ädur Ä« burzÄn padiÅ¡ niÅ¡ast ; u-Å¡ rÄwand Äd 
+XLevel 5 Line: 5 kÅ« rÄyÅmand . Level 3 Sentence: 24 wÄdgÄs kÅf Än Ä« pad wÄdgÄsÄn wimand , Än 
+XLevel 5 Line: 6 kust purr-dÄr , purr-draxt . Level 3 Sentence: 25 bagÄ«r kÅf Än Ä« frÄsiyÄb Ä« 
+XLevel 5 Line: 7 tur pad drubuÅ¡tÄ«h kard ; u-Å¡ Än mÄn andarÅn kard ; u-Å¡ 
+XLevel 5 Line: 8 im rÅz Å¡ahr rÄmiÅ¡n-pÄrÅz , bÄwar deh ud Å¡ahrestÄn ab\ar 
+XLevel 5 Line: 9 abgand . Level 3 Sentence: 26 kÅf Ä« was-Å¡keft Än pad pÄrs az ham kÅf Ä« 
+XLevel 5 Line: 10 abarsÄn ; kÅf Ä« syÄÅmand kÅf Ä« wafrÅmand tÄ Ä«-Å¡Än 
+XLevel 5 Line: 11 kÄwul Än kustagÄ«hÄ aziÅ¡ rust ÄstÄd tÄ kust ÄÄ«n . Level 3 Sentence: 27 spa\ndyÄd 
+XLevel 5 Line: 12 kÅf pad war rÄwand . Level 3 Sentence: 28 kadrwasp kÅf pad tÅ«s Å¡ahr , 
+XLevel 5 Line: 13 kÄ-Å¡ war Ä« sÅ«bar pad sar . Level 3 Sentence: 29 kÅigrÄs kÅf pad ÄrÄn-wÄz . 
+
+XLevel 5 Line: 14 Level 3 Sentence: 30 asnÄwand kÅf pad ÄdurbÄdagÄn . Level 3 Sentence: 31 rÅyiÅ¡nÅmand kÅf , Än kÄ 
+XLevel 5 Line: 15 urwar padiÅ¡ rust ÄstÄd . Level 3 Sentence: 32 bÅ«m kÅf Än Ä« pad hamÄg gyÄg , 
+XLevel 5 Line: 16 Å¡ahr , Å¡ahr , bÅ«m , bÅ«m . Level 3 Sentence: 33 u-Å¡ warz ÄbÄdÄnÄ«h padiÅ¡ kunÄnd , 
+XLevel 5 Line: 17 was nÄm ud was marag , az ham Än kÅfÄ«hÄ rust ÄstÄd . Level 3 Sentence: 34 k\Åf 
+XLevel 5 Line: 18 Ä« winÄwad , kÅf Ä« asparÅz , kÅf Ä« pahrgar , kÅf Ä« d\amÄwand , 
+XLevel 5 Line: 19 kÅf Ä« rÄwag , kÅf Ä« zarrÄn , kÅf Ä« gÄsbaxt , 
+XLevel 5 Line: 20 kÅf Ä« dÄwÄd , kÅf Ä« mizÄn , kÅf Ä« marag , kÄ hamÄg az 
+XLevel 5 Line: 21 kÅf Ä« abarsÄn rust ÄstÄd , kÄ-Å¡ abÄrÄ«g kÅfÄ«hÄ ÅÅ¡murd 
+XLevel 5 Line: 22 ÄstÄd . Level 3 Sentence: 35 ÄÄ dÄwÄd kÅf Å ÄÄ«nestÄn rust ÄstÄd , ham az a\barsÄn 
+XLevel 5 Line: 23 kÅf . Level 3 Sentence: 36 damÄwand kÅf Än Ä«-Å¡ bÄwarasp padiÅ¡ bast 
+XLevel 4 Page: 23 XLevel 5 Line: 1 ÄstÄd , az ham padiÅ¡xwÄrgar kÅf . Level 3 Sentence: 37 [Å] kÅf Ä« kÅmÄÅ¡ kÅf 
+XLevel 5 Line: 2 Ä« madÅfrayÄd xwÄnÄnd , Än kÄ-Å¡ wiÅ¡tÄsp arjÄsp padiÅ¡ 
+XLevel 5 Line: 3 stÅwÄnÄ«d . Level 3 Sentence: 38 kÅf Ä« mayÄn Ä« daÅ¡t az Än kÅf Ä« ÄnÅh wisist 
+XLevel 5 Line: 4 ÄstÄd . Level 3 Sentence: 39 gÅwÄnd pad kÄrezÄr Ä« dÄn kÄ stÅwÄ«h pad ÄrÄna\gÄn 
+XLevel 5 Line: 5 bÅ«d , az Än kÅf be wisist , mayÄn Ä« daÅ¡t frÅd mad , 
+XLevel 5 Line: 6 ÄrÄnagÄn padiÅ¡ bÅxt hÄnd ; u-Å¡Än madÅfrayÄd xwÄnÄnd . 
+
+XLevel 5 Line: 7 Level 3 Sentence: 40 winÄwad kÅf , pad ham ÄnÅh pad puÅ¡t Ä« wiÅ¡tÄspÄn , Å m\Än 
+XLevel 5 Line: 8 Ä« ÄdurburzÄnmihr nÅ frasang Å xwarwarÄn . Level 3 Sentence: 41 rÄwag b\aÅ¡n 
+XLevel 5 Line: 9 pad zarÄbad , Än gyÄg ast kÄ ÄdÅn gÅwÄnd zrawat , 
+XLevel 5 Line: 10 ast kÄ baÅ¡n , ast kÄ kalÄd xwÄnÄnd . Level 3 Sentence: 42 az har dÅ kust Ä« 
+XLevel 5 Line: 11 kÅf , rÄh mayÄn [Ä«] diz Ä« frÅd ; Äd rÄy kÅ« <diz> ÄnÅh 
+XLevel 5 Line: 12 kard ÄstÄd , [rÄy] kalÄd diz-Ä xwÄnÄnd , Än gyÄg gar 
+XLevel 5 Line: 13 sarakz bÅ«m xwÄnÄnd . Level 3 Sentence: 43 kÅf Ä« asparÅz azabar Ä« ÄÄÄast . 
+
+XLevel 5 Line: 14 Level 3 Sentence: 44 gÄs-baxt pad pÄrs . Level 3 Sentence: 45 pahrgar pad xwarÄsÄn . Level 3 Sentence: 46 kÅf Ä« marag 
+XLevel 5 Line: 15 pad lÄrÄn . Level 3 Sentence: 47 kÅf Ä« zarrÄn pad turkestÄn . Level 3 Sentence: 48 kÅf Ä« bÄstun pad 
+XLevel 5 Line: 16 spÄhÄn <Ä« garminÅ¡Än> . Level 3 Sentence: 49 abÄrÄ«g az Än marag kÄ pad rawiÅ¡n hÄnd 
+XLevel 5 Line: 17 kÅf Ä« bÅ«m be hangÄrÄnd . Level 3 Sentence: 50 andar dÄn Ä« mÄzdÄsnÄn xwurdag 
+XLevel 5 Line: 18 kÅf [Ä«] Än Ä« pÄrag pÄrag pad gyÄg <gyÄg> rust ÄstÄd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 011 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 11 
+
+Level 2 Chapter: XI XI 
+
+XLevel 6 IBd Location: 25,12 IBd _25,12 
+XLevel 7 TD1 Location: 67,9 TD1 _67,9 
+XLevel 8 TD2 Location: 81,9 TD2 _81,9 
+XLevel 9 DH Location: 43,1 DH _43,1 
+
+XLevel 5 Line: 19 abar ÄiyÅnÄ«h <Ä«> zrÄhÄ«hÄ 
+
+XLevel 5 Line: 20 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« zrÄh frÄxwkard pad kust Ä« 
+XLevel 4 Page: 24 XLevel 5 Line: 1 nÄm-rÅz , kanÄrag Ä« harborz , sÄ Äk Än zamÄ«g dÄrÄd . Level 3 Sentence: 2 Ä\dÅn 
+XLevel 5 Line: 2 zrÄh frÄxwkard kÅ«-Å¡ hazÄr war Äb-dÄÅ¡t ÄstÄd , Äd\Ån 
+XLevel 5 Line: 3 ÄiyÅn ÄaÅ¡mag Ä« ardwÄ«sÅ«r , ast kÄ xÄnÄ«g war gÅwÄnd . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 3 har war-Ä rÄy ÄwÄnag-<Ä> , ast kÄ meh , ud ast kÄ keh , 
+XLevel 5 Line: 5 ast-iz kÄ band ka mard-Ä abÄg asp-Ä pad Äehel rÅz p\ÄrÄmÅn 
+XLevel 5 Line: 6 be gardÄd , kÄ bawÄd hazÄr ud haft sad frasang 
+XLevel 5 Line: 7 meh . Level 3 Sentence: 4 az Än Äb pad garmÄ«h ud xwÄdÄ«h yÅjdahr<Ä«h> freh 
+XLevel 5 Line: 8 az abÄrÄ«g ÄbÄ«hÄ , <Ä«> har rÅz az ÄaÅ¡mag Ä« ardwÄ«sur ha\mÄ 
+XLevel 5 Line: 9 tazÄd Å nÄm-rÅz , kÅf Ä« harborz ÄnÅh sad hazÄr n\ÄyÄ«zag 
+XLevel 5 Line: 10 Ä« zarrÄn kard ÄstÄd . Level 3 Sentence: 5 Än Äb , pad garmÄ«h ud Äi\hrÄ«g , 
+XLevel 5 Line: 11 pad nÄyÄ«zag abar Å Än hugar Ä« buland Å¡awÄd ; p\ad 
+XLevel 5 Line: 12 bÄlist Ä« Än kÅf , war-Ä ast , andar Än war rÄzÄd , 
+XLevel 5 Line: 13 yÅjdahr be bawÄd , pad jud nÄyÄ«zag Ä« zarrÄn abÄz ÄyÄd . 
+
+XLevel 5 Line: 14 Level 3 Sentence: 6 pad hazÄr mard bÄlÄy az Än nÄyÄ«zag tÄg-Ä guÅ¡Ädag Ä« 
+XLevel 5 Line: 15 zarrÄn frÄz Å kÅf Ä« usindÄm jahÄd . Level 3 Sentence: 7 mayÄn Ä« zrÄh frÄ\xwkard , 
+XLevel 5 Line: 16 az ÄnÅh , bahr-Ä yÅjdahrÄ«h Ä« zrÄh rÄy , frÄz Å 
+XLevel 5 Line: 17 zrÄh rÄzÄd . Level 3 Sentence: 8 bahr-Ä pad hamÄg Än zamÄ«g pad nam paÅ¡Å¡i\njÄd , 
+XLevel 5 Line: 18 ud hamÄg dahiÅ¡nÄ«h Ä« ohrmazd beÅ¡ÄzÄ«h aziÅ¡ ayÄb\Änd 
+XLevel 5 Line: 19 ud huÅ¡kÄ«h andarwÄy be ÅzanÄd . Level 3 Sentence: 9 zrÄh<Ä«hÄ> sÅr sÄ hÄnd mÄ\dagwar 
+XLevel 5 Line: 20 wÄ«st <ud> sÄ ast keh . Level 3 Sentence: 10 Än sÄ mÄdagwar Äk pÅ«idÄ«g , ud Äk 
+XLevel 5 Line: 21 kem-rÅd , ud Äk siyÄ-bun . Level 3 Sentence: 11 az har sÄ pÅ«idÄ«g meh , kÄ purr <ud> 
+XLevel 5 Line: 22 ÅgÄr pad-iÅ¡ ; ham-kustag Ä« zrÄh frÄxwkard , Å zrÄh Ä« frÄxwkard 
+XLevel 5 Line: 23 paywast ÄstÄd . Level 3 Sentence: 12 mayÄn Ä« Än zrÄh frÄxwkard <ud> Än Ä« pÅ«idÄ«g 
+XLevel 4 Page: 25 XLevel 5 Line: 1 zrÄh dÄrÄd kÄ war Ä« sadwÄs xwÄnÄnd . Level 3 Sentence: 13 stabrÄ«h 
+XLevel 5 Line: 2 <ud> sÅrÄ«<h> !}w <ud> gandagÄ«h az zrÄh pÅ«idÄ«g Å zrÄh Ä« frÄ\xwkard 
+XLevel 5 Line: 3 kÄmÄd Å¡udan , [pad] wÄd wuzurg ud buland az Än 
+XLevel 5 Line: 4 war Ä« sadwÄs abÄz zanÄd gandag<Ä«h> be <Å¡awÄd har> ÄÄ 
+XLevel 5 Line: 5 pÄk ud rÅÅ¡n andar Å frÄxwkard ÄaÅ¡mag Ä« ardwÄ«sÅ«r Å¡aw\Äd , 
+XLevel 5 Line: 6 Än dudÄ«gar abÄz Å pÅ«idÄ«g rÄzÄd . Level 3 Sentence: 14 band Ä« Än zrÄh Å 
+XLevel 5 Line: 7 mÄh <ud> wÄd paywast ÄstÄd ; pad abzÄyiÅ¡n ud kÄhiÅ¡n , 
+XLevel 5 Line: 8 ul ÄyÄd <ud> frÅd Å¡awÄd , ÄÄ-Å¡ gardiÅ¡nÄ«h <Å nÄm-rÅz> . 
+
+XLevel 5 Line: 9 Level 3 Sentence: 15 band-iz Ä« war sadwÄs Å sadwÄs stÄrag bast ÄstÄd , kÄ\Å¡ 
+XLevel 5 Line: 10 zrÄh kust Ä« nÄm-rÅz andar panÄhÄ«h ; ÅwÅn ÄiyÅn haf\tÅring 
+XLevel 5 Line: 11 [Å] kustag Ä« abÄxtar andar panÄhÄ«h . Level 3 Sentence: 16 purr <ud> 
+XLevel 5 Line: 12 ÅgÄr rÄy gÅwÄd kÅ« az pÄÅ¡ Ä« mÄh har gÄh-Ä dÅ wÄd hamÄ 
+XLevel 5 Line: 13 wazÄd , kÄ-Å¡ mÄniÅ¡t andar war <Ä«> sadwÄs : Äk frÅd Äha\nj 
+XLevel 5 Line: 14 ud Äk ul Ähanj xwÄnÄnd ; ka Än Ä« ul Ähanj wazÄd p\urr , 
+XLevel 5 Line: 15 ud ka Än Ä« frÅd Ähanj wazÄd ÅgÄr bawÄd . Level 3 Sentence: 17 pad a\bÄrÄ«g 
+XLevel 5 Line: 16 zrÄhÄ«hÄ , az Än ÄiyÅn-iÅ¡ [ud] gardiÅ¡nÄ«h mÄh pa\diÅ¡ 
+XLevel 5 Line: 17 nÄst , purr <ud> ÅgÄr nÄ bawÄd . Level 3 Sentence: 18 zrÄh Ä« kem-rÅd Än Ä« pad 
+XLevel 5 Line: 18 abÄxtar , pad tabarestÄn widÄrÄd . Level 3 Sentence: 19 Än Ä« syÄ-bun pad hrÅm . 
+
+XLevel 5 Line: 19 Level 3 Sentence: 20 az zrÄhÄ«hÄ <Ä«> keh Än Ä« wÄ«stom zrÄh <Ä«> kayÄnsÄ ÄiyÅn pad 
+XLevel 5 Line: 20 sagestÄn . Level 3 Sentence: 21 fradom xrafstar mÄr ud wazaÎ³ andar nÄ bÅ«d , Äb 
+XLevel 5 Line: 21 Å¡Ä«rÄn . Level 3 Sentence: 22 abÄrÄ«g-iz zrÄhÄ«hÄ dudÄ«gar sÅr , pad nazdist , ganda\gÄ«h 
+XLevel 5 Line: 22 rÄy tÄ Äk frasang Å nazdÄ«k nÄ tuwÄn Å¡udan . Level 3 Sentence: 23 and and 
+XLevel 5 Line: 23 pad zaniÅ¡n wÄd Ä« garm Än gandagÄ«h ud sÅrÄ«h <anÄbÄd> . Level 3 Sentence: 24 ka 
+XLevel 5 Line: 24 fraÅ¡agird bawÄd Å¡Ä«rÄn* abÄz bawÄd . 
+
+XLevel 4 Page: 26 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 012 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 12 
+
+Level 2 Chapter: XII XII 
+
+XLevel 6 IBd Location: 28,1 IBd _28,1 
+XLevel 7 TD1 Location: 70,1 TD1 _70,1 
+XLevel 8 TD2 Location: 84,10 TD2 _84,10 
+XLevel 9 DH Location: 44,18 DH _44,18 
+
+XLevel 5 Line: 1 abar ÄiyÅnÄ«h Ä« rÅdÄ«hÄ 
+
+XLevel 5 Line: 2 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« : Än dÅ rÅd az abÄxtar nÄmag , 
+XLevel 5 Line: 3 az harborz , ohrmazd frÄz tazÄnÄ«d ; Äk Å xwarwarÄn Å¡a\wÄd 
+XLevel 5 Line: 4 kÅ« arang , Äak Å xwarÄsÄn Å¡awÄd kÅ« weh rÅd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 013 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 13 
+
+Level 2 Chapter: XIII XIII 
+
+XLevel 6 IBd Location: 28,5 IBd _28,5 
+XLevel 7 TD1 Location: 77,1 TD1 _77,1 
+XLevel 8 TD2 Location: 93,8 TD2 _93,8 
+XLevel 9 DH Location: 50,2 DH _50,2 
+
+XLevel 5 Line: 5 abar ÄiyÅnÄ«h gÅspandÄn panj ÄwÄnag 
+
+XLevel 5 Line: 6 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« ka gÄw Ä« Äk-dÄd be widard Ä\nÅh 
+XLevel 5 Line: 7 kÅ«-Å¡ mazg bÄ mad jÅrdÄ abÄz rust panjÄh ud panj 
+XLevel 5 Line: 8 sardag , dwÄzdah sardag urwar Ä« bÄÅ¡Äz rust . Level 3 Sentence: 2 ÄiyÅn gÅ\wÄd 
+XLevel 5 Line: 9 kÅ« az mazg kunjid ud jud jud har ÄiÅ¡-Ä kÄ pad m\azg 
+XLevel 5 Line: 10 mehmÄn . Level 3 Sentence: 3 az srÅ« mÄ«zÅ«g , az wÄnÄ«g gandanÄ az xÅn k\Ådak 
+XLevel 5 Line: 11 Ä« raz kÄ may aziÅ¡ kunÄnd ; Äd rÄy may pad xÅn 
+XLevel 5 Line: 12 abzÄyÄd . Level 3 Sentence: 4 az suÅ¡ spandan , az mayÄn Ä« jagar ÄwÄ«Å¡Än ab\Äz 
+XLevel 5 Line: 13 dÄriÅ¡nÄ«h <Ä«> gandagÄ«h <rÄy> . Level 3 Sentence: 5 abÄrÄ«g Äk Äk , ÄiyÅn 
+XLevel 5 Line: 14 pad abestÄg paydÄg . Level 3 Sentence: 6 Å¡uhr Ä« gÄw abar Å mÄh-pÄyag burd , 
+XLevel 5 Line: 15 ÄnÅh be pÄlÅ«d <ud> gÅspand purr-sardag frÄz brÄhÄnÄ«d . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 7 fradom dÅ gÄw , Äk nar ud Äk mÄdag ud pas az har sar\dag-Ä 
+XLevel 5 Line: 17 juxt-Ä andar zamÄ«g hiÅ¡t . Level 3 Sentence: 8 hÄsar-Ä kÄ dwÄzdah f\rasang 
+XLevel 5 Line: 18 homÄnÄg pad ÄrÄn-wÄz paydÄg bÅ«d . Level 3 Sentence: 9 ÄiyÅn gÅwÄd 
+XLevel 4 Page: 27 XLevel 5 Line: 1 kÅ« mÄdag gÄw rÄy dÅ bÄr dÄd , Äk bÄr pad gÄw , ud Äk 
+XLevel 5 Line: 2 bÄr pad gÅspand <Ä«> purr-sardag . Level 3 Sentence: 10 hazÄr rÅz-Å¡abÄn awÄ\Å¡Än 
+XLevel 5 Line: 3 a-xwardÄr bÅ«d hÄnd ; u-Å¡Än nazdist Äb ud pas urw\ar 
+XLevel 5 Line: 4 xward . Level 3 Sentence: 11 u-Å¡ pas sÄ kardag gÅspand frÄz brÄhÄnÄ«d . Level 3 Sentence: 12 Ä\iyÅn 
+XLevel 5 Line: 5 gÅwÄd kÅ« nazdist buz ud mÄÅ¡ ud pas uÅ¡tar ud xÅ«g 
+XLevel 5 Line: 6 ud pas asp ud xar . Level 3 Sentence: 13 ÄÄ-Å¡ fradom dÄd ÄarÄg-arzÄnÄ«g , Än 
+XLevel 5 Line: 7 nÅ«n pad rÄÎ³ dÄÅ¡t ÄstÄd ; dudÄ«gar dÄd Än Ä« geriÅ¡ag , ast 
+XLevel 5 Line: 8 frÄx-raftÄr ud wÄyendag Level 3 Sentence: 14 [Å] awÄÅ¡Än nÄ dast-hammÅxt ; 
+XLevel 5 Line: 9 sidÄ«gar dÄd ÄbÄ«g <ud> unÄ«g , ÄiyÅn <ast andar awÄÅ¡Än 
+XLevel 5 Line: 10 sÄ sardag panj> ÄwÄnag , fradom ÄwÄnag Än Ä« dÅkÄft-pÄy 
+XLevel 5 Line: 11 ÄarÄg-arzÄnÄ«g , kÄ az awÄÅ¡Än uÅ¡tar meh buz gÄ«pÄn keh 
+XLevel 5 Line: 12 nÅg-zÄdag ; dudÄ«gar ÄwÄnag xar-pay , kÄ az awÄÅ¡Än asp 
+XLevel 5 Line: 13 <Ä«> zabÄl meh <wargÄnÄ«g xar nidom ; sidÄ«gar ÄwÄnag Än 
+XLevel 5 Line: 14 Ä« panj-angurÄg panj<ag> , kÄ az awÄÅ¡Än sag meh , muÅ¡k 
+XLevel 5 Line: 15 farxaw nidom ; ÄahÄrom ÄwÄnag wÄyendag , kÄ az awÄÅ¡Än 
+XLevel 5 Line: 16 sÄn Ä« sÄ angurÄg meh , ud tarw nidom ; panjom ÄwÄnag Än 
+XLevel 5 Line: 17 Ä« ÄbÄ«g , kÄ az awÄÅ¡Än karr-mÄhÄ«g meh mtÅ«k nidom 
+XLevel 5 Line: 18 Än panj ÄwÄnag , pad dÅ sad <ud> haÅ¡tÄd <ud> dÅ sardag 
+XLevel 5 Line: 19 be brÄhÄnÄ«d ÄstÄd . Level 3 Sentence: 15 fradom buz panj sardag : xarbuz , 
+XLevel 5 Line: 20 gÅspand , arrÄn , pÄzan , narÄ«g buz . Level 3 Sentence: 16 dudÄ«gar mÄÅ¡ panj s\ardag : 
+XLevel 5 Line: 21 Än Ä« pad-dum Än Ä« kÄ dum nÄ dÄrÄd sag-mÄÅ¡ mÄÅ¡ 
+XLevel 5 Line: 22 Ä« tagil , koriÅ¡g mÄÅ¡ , mÄÅ¡ kÄ srÅ« wuzurg , Å asp homÄn\Äg 
+XLevel 5 Line: 23 kÅf dÄrÄd , u-Å¡ Å bÄrag gÄ«rÄnd . Level 3 Sentence: 17 ÄiyÅn gÅwÄd kÅ« 
+XLevel 4 Page: 28 XLevel 5 Line: 1 manuÅ¡Äihr koriÅ¡g-Ä pad bÄrag dÄÅ¡t . Level 3 Sentence: 18 seyom uÅ¡tar dÅ 
+XLevel 5 Line: 2 sardag : kÅf<Ä«g> ud ÄarÄg-arzÄnÄ«g ; ÄÄ Äk pad kÅf Å¡Äy\Äd 
+XLevel 5 Line: 3 dÄÅ¡tan , Äk pad daÅ¡t ; ast Äk kÅf , dÅ kÅf . Level 3 Sentence: 19 ÄahÄrom 
+XLevel 5 Line: 4 gÄw pÄnzdah sardag ; spÄd , xaÅ¡Än , suxr zard , syÄ , 
+XLevel 5 Line: 5 pÄsag , gawazn , gÄw-mÄÅ¡ , uÅ¡tar-gÄw-palang , gÄw-mÄhÄ«g , 
+XLevel 5 Line: 6 xÅ«g ud Å¡an (?) gÄw Ä« farÅ¡ , kaÅ¾Äw abÄrÄ«g gÄw sardag . 
+
+XLevel 5 Line: 7 Level 3 Sentence: 20 panjom asp haÅ¡t sardag : spÄd , syÄ , zard , bÅr komayt 
+XLevel 5 Line: 8 tÄzÄ«g pÄrsÄ«g astar , xar Ä« gÅr , asp Ä« ÄbÄ«g , abÄrÄ«g asp 
+XLevel 5 Line: 9 sardagÄn . Level 3 Sentence: 21 Å¡aÅ¡om sag dah sardag : pasuÅ¡hÅrw , wiÅ¡hÅrw 
+XLevel 5 Line: 10 apÄyÄd [Ä«] mÄnÄn , wohunazg , tarÅ«g , babrag Ä« ÄbÄ«g kÄ 
+XLevel 5 Line: 11 sag Ä« ÄbÄ«g xwÄnÄnd , rÅbÄh , rasÅ«g , zÅ«zag kÄ xÄr-puÅ¡t 
+XLevel 5 Line: 12 xwÄnÄnd , udrag muÅ¡k , farxaw kÄ awÄÅ¡Än dÅ sardag ; sÅ«\rÄg-hammÅxtiÅ¡n , 
+XLevel 5 Line: 13 Äk rÅbÄh Äk rasÅ«g , wÄÅ¡ag-hammÅxtiÅ¡n , 
+XLevel 5 Line: 14 ÄiyÅn xÅ«karag kÄ xÄr pad puÅ¡t dÄrÄd <ud> zÅ«zag-iz 
+XLevel 5 Line: 15 ham . Level 3 Sentence: 22 haftom sahÅg Ä« xar-gÅÅ¡ , panj sardag : dÅ wyÄwÄnÄ« 
+XLevel 5 Line: 16 sardag Äk unÄ«g-mÄnist , Äk wÄÅ¡ag-mÄnist . Level 3 Sentence: 23 haÅ¡tom 
+XLevel 5 Line: 17 rasÅ«g haÅ¡t sardag . Level 3 Sentence: 24 Äk sarnÅr , Äk syÄ-sarnÅr , sanjÄb , 
+XLevel 5 Line: 18 bÉz kÄkom , kÄkom Ä« spÄd abÄrÄ«g rasÅ«g sardag<Än> 
+XLevel 5 Line: 19 nohom muÅ¡k hast sardag ; Äk Än Ä« pad muÅ¡kÄ« ÄÅ¡nÄg , Äk 
+XLevel 5 Line: 20 muÅ¡k nÄfag , kÄ-Å¡ [Ä] bÅy xwaÅ¡ , any bÄÅ¡ musk kÄ bÄÅ¡ 
+XLevel 5 Line: 21 xwarÄd , muÅ¡k Ä« syÄ kÄ hamÄstÄr Ä« garzag pad drayÄ wÄÅ¡ 
+XLevel 5 Line: 22 bawÄ , abÄrÄ«g muÅ¡k sardag . Level 3 Sentence: 25 dahom murwÄn sad <ud> dwÄ\zdah 
+XLevel 5 Line: 23 sardag : way ÄiyÅn sÄnmurw karÅ¡ift , Äluh , kar\gÄs 
+XLevel 4 Page: 29 XLevel 5 Line: 1 - kÄ kargaz xwÄnÄnd - warÄÎ³ , xrÅs , kulang . Level 3 Sentence: 26 dahom 
+XLevel 5 Line: 2 Å¡awÄg . Level 3 Sentence: 27 az awÄÅ¡Än dÅ hÄnd kÄ Å¡Ä«r dÄrÄnd , pad pestÄn 
+XLevel 5 Line: 3 waÄag parwÄrÄnd : sÄnmurw ud Å¡awÄg kÄ pad Å¡ab parÄnd . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 28 ÄiyÅn gÅwÄd kÅ« Å¡awÄg pad sÄ sardag dÄd ÄstÄd : sag , 
+XLevel 5 Line: 5 murw , muÅ¡k ÄwÄnag . Level 3 Sentence: 29 ÄÄ wazÄd ÄiyÅn murw , u-Å¡ dandÄn 
+XLevel 5 Line: 6 dÄrÄd ÄiyÅn sag , sÅ«rÄg mÄnist ÄiyÅn muÅ¡k . Level 3 Sentence: 30 Än sad <ud> 
+XLevel 5 Line: 7 dwÄzdah sardag murwÄn pad haÅ¡t ÄwÄnag be dÄd . Level 3 Sentence: 31 u-Å¡ Ä\dÅn 
+XLevel 5 Line: 8 be pargand *ÄiyÅn mard-Ä ka tÅhm parganÄd , Än tÅ\hm 
+XLevel 5 Line: 9 andar angust be Å zamÄ«g hilÄd meh , mayÄnag , keh . 
+
+XLevel 5 Line: 10 Level 3 Sentence: 32 dwÄzdahom mÄhÄ«g dÄd dah sardag : nazdist mÄhÄ«g araz , 
+XLevel 5 Line: 11 arzuva , arzuka , marzukÄ , abÄrÄ«g nÄm Ä« abestÄg . Level 3 Sentence: 33 pas , 
+XLevel 5 Line: 12 andar har sardag-Ä , sardag andar sardag dÄd hÄnd . Level 3 Sentence: 34 Ä\dÅn 
+XLevel 5 Line: 13 bowandagÄ«h dÅsad <ud> haftÄd <ud> dÅ sardag . Level 3 Sentence: 35 sag 
+XLevel 5 Line: 14 rÄy gÅwÄnd kÅ« az star-pÄyag , kÅ« az Än kust star haft\Åring , 
+XLevel 5 Line: 15 Ä-Å¡ az mardÅmÄn pad yujiyast [nÄrÅg] frÄz dÄd p\anÄh 
+XLevel 5 Line: 16 Ä« gÅspandÄn rÄy , ÄiyÅn gumÄzagÄ«h az gÅspandÄn <ud> 
+XLevel 5 Line: 17 mardÅmÄn . Level 3 Sentence: 36 Äd rÄy sag xwÄnd hÄnd ÄÄ-Å¡ sÄ Äk az mardÅm . 
+
+XLevel 5 Line: 18 Level 3 Sentence: 37 u-Å¡ dÄd arwand <ud> xwÄÅ¡-mÅg <ud> xwÄÅ¡-wistarag <ud> 
+XLevel 5 Line: 19 xwÄÅ¡-tuxÅ¡Äg <ud> wigrÄd <ud> ÄahÄrdah[om] dandÄn <ud> 
+XLevel 5 Line: 20 tÄz-dandÄn <ud> ramag-sÄlÄr ; ÄÄ ramag Ä« gÅspandÄn 
+XLevel 5 Line: 21 <pad> Än dilÄrtar pattÄyÄ«hÄd kÄ sag abÄg nÄst <ud> 
+XLevel 5 Line: 22 pad Än meh bÄ«m ast . Level 3 Sentence: 38 guft-iÅ¡ ohrmazd , ka-Å¡ murw Ä« wa\rÄ«Å¡ag 
+XLevel 5 Line: 23 dÄd , ast murw Ä« Å¡karag . Level 3 Sentence: 39 kÅ«-m dÄd hÄ tÅ murw Ä« 
+XLevel 4 Page: 30 XLevel 5 Line: 1 warÄ«Å¡ag ! Level 3 Sentence: 40 kÅ«-m az tÅ bÄÅ¡iÅ¡n wÄÅ¡ bÅ«d hÄ kÅ« Å¡nÄyÄniÅ¡n , 
+XLevel 5 Line: 2 ÄÄ kÄm Ä« gannÄg mÄnÅg wÄÅ¡ kunÄ kÅ« Än Ä« man . Level 3 Sentence: 41 ÄiyÅn m\ardÅm 
+XLevel 5 Line: 3 Ä« druwand ÄÄ az xwÄstag sagr nÄ bÅ«d , tÅ-iz az 
+XLevel 5 Line: 4 murw Åzadan sagr nÄ bawÄ ; be , agar-im nÄ dÄd hÄ tÅ 
+XLevel 5 Line: 5 murw Ä« warÄ«Å¡ag , Ä-Å¡ dÄd hÄ gannÄg mÄnÅg gurg parrwar 
+XLevel 5 Line: 6 hilÄ kirb , Ä-Å¡ dÄm zÄ«stan nÄ hiÅ¡t hÄ . Level 3 Sentence: 42 u-Å¡ gÅspand p\ad 
+XLevel 5 Line: 7 e hamÄg sardag , Äd rÄy dÄd kÅ« , ka gannÄg mÄnÅg Äk 
+XLevel 5 Line: 8 be abesÄ«hÄnÄd , Äk be mÄnÄd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 014 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 14 
+
+Level 2 Chapter: XIV XIV 
+
+XLevel 6 IBd Location: 33,5 IBd _33,5 
+XLevel 7 TD1 Location: 82,13 TD1 _82,13 
+XLevel 8 TD2 Location: 100,3 TD2 _100,3 
+XLevel 9 DH Location: 54,4 DH _54,4 
+
+XLevel 5 Line: 9 abar ÄiyÅnÄ«h mardÅmÄn 
+
+XLevel 5 Line: 10 Level 3 Sentence: 1 pad dÄn gÅwÄd kÅ« gayÅmart !} andar wideriÅ¡nÄ«h , 
+XLevel 5 Line: 11 tÅhm bÄ dÄd , Än tÅhm pad [rawiÅ¡n] rÅÅ¡nÄ«h xwarÅ¡Äd be 
+XLevel 5 Line: 12 pÄlÅ«d ; ud dÅ bahr nÄryÅsang nigÄh dÄÅ¡t , ud bahr-Ä s\pandarmad 
+XLevel 5 Line: 13 padÄ«rift . Level 3 Sentence: 2 <pad> Äehel sÄl rÄbÄs-kirbÄ«hÄ , 
+XLevel 5 Line: 14 Äk-stÅn pÄnzdah sÄlag , pÄnzdah warg , mihrÄ mihryÄnÄ , 
+XLevel 5 Line: 15 az zamÄ«g abar rust hÄnd . Level 3 Sentence: 3 ÅwÅn homÄnÄg kÅ«-Å¡Än dast p\ad 
+XLevel 5 Line: 16 gÅÅ¡ abÄz ÄstÄd . Level 3 Sentence: 4 ud Äk Å did paywast , ham-baÅ¡n ud 
+XLevel 5 Line: 17 ham-dÄsag bÅ«d hÄnd . Level 3 Sentence: 5 u-Å¡Än mayÄn Ä« har dÅ ruwÄn abar 
+XLevel 5 Line: 18 Äwurd . Level 3 Sentence: 6 ÅwÅn ham-baÅ¡n bÅ«d hÄnd kÅ« nÄ paydÄg kÅ« kadÄm 
+XLevel 5 Line: 19 nar ud kadÄm mÄdag ud kadÄm Än Ä« ruwÄn Ä« ohrmazd<\dÄd> 
+XLevel 5 Line: 20 abÄg ast . Level 3 Sentence: 7 ÄiyÅn gÅwÄd kÅ« kadÄm pÄÅ¡ dÄd ruwÄn a\yÄb 
+XLevel 5 Line: 21 tan . Level 3 Sentence: 8 u-Å¡ guft ohrmazd kÅ« ruwÄn pÄÅ¡ dÄd tan pas , 
+XLevel 4 Page: 31 XLevel 5 Line: 1 Å Än Ä« dÄd ÄstÄd andar tan dÄd . Level 3 Sentence: 9 kÅ« xwÄÅ¡-kÄrÄ«h be brÄ\hÄnÄ«d 
+XLevel 5 Line: 2 ud tan be Å xwÄÅ¡-kÄrÄ«h dÄd . Level 3 Sentence: 10 u-Å¡ wizÄriÅ¡n Än 
+XLevel 5 Line: 3 kÅ« ruwÄn pÄÅ¡ dÄd , ud tan pas ; u-Å¡ har dÅ az urwar\kirbÄ«h 
+XLevel 5 Line: 4 bÄ Å mardÅm-kirbÄ«h waÅ¡t hÄnd , Än ruwÄn , mÄnÅ\gÄ«hÄ , 
+XLevel 5 Line: 5 andar awÄÅ¡Än Å¡ud . Level 3 Sentence: 11 Ä« hast Ä« ruwÄn . Level 3 Sentence: 12 nÅ«n-iz pad Än 
+XLevel 5 Line: 6 hangÅÅ¡Ä«dag draxt ul rust ÄstÄd kÄ-Å¡ bar dah ÄwÄnag mar\dÅm . 
+
+XLevel 5 Line: 7 Level 3 Sentence: 13 guft-iÅ¡ ohrmazd Å maÅ¡Ä« maÅ¡yÄnÄ , kÅ« mardÅm 
+XLevel 5 Line: 8 hÄd , pidar <Ä«> gÄhÄn hÄd ; u-m bowandag-meniÅ¡nÄ«hÄ pÄhlom 
+XLevel 5 Line: 9 dÄd hÄd ; kÄr dÄdestÄn bowandag meniÅ¡nÄ«hÄ kunÄd : hu\mat 
+XLevel 5 Line: 10 menÄd , hÅ«xt gÅwÄd , huwarÅ¡t warzÄd , ud dÄwÄn ma ya\zÄd 
+XLevel 5 Line: 11 awÄÅ¡Än har dÅ fradom Än menÄ«d kÅ«-Å¡Än Äk Å did 
+XLevel 5 Line: 12 rÄy menÄ«d kÅ«-Å¡ mardÅm ast . Level 3 Sentence: 14 u-Å¡Än nazdist kuniÅ¡n Än 
+XLevel 5 Line: 13 kard kÅ« be raft hÄnd , u-Å¡Än be mÄzÄ«d hÄnd . Level 3 Sentence: 15 u-Å¡Än fra\dom 
+XLevel 5 Line: 14 gÅwiÅ¡n Än guft kÅ« ohrmazd dÄd Äb ud zamÄ«g ud urwar 
+XLevel 5 Line: 15 ud gÅspand ud star ud mÄh ud xwarÅ¡Äd ud harwisp ÄbÄdÄ«h , 
+XLevel 5 Line: 16 kÄ az ahlÄyÄ«h padyÄgÄ«h padyÄbÄ«h ??} <gÅwÄd> bun ud bar . Level 3 Sentence: 16 u-Å¡Än pas 
+XLevel 5 Line: 17 petyÄrag pad meniÅ¡n abar dwÄrist , u-Å¡Än meniÅ¡n be 
+XLevel 5 Line: 18 ÄhÅgÄnÄ«d u-Å¡Än drÄyÄ«d hÄnd kÅ« gannÄg mÄnÅg dÄd Äb ud 
+XLevel 5 Line: 19 zamÄ«g ud urwar ud gÅspand abÄrÄ«g ÄiÅ¡ . Level 3 Sentence: 17 ÄiyÅn guft - Än drÅ\gÅwiÅ¡nÄ«h 
+XLevel 5 Line: 20 pad abÄyist Ä« dÄwÄn guft gannÄg mÄnÅg nazdist 
+XLevel 5 Line: 21 urwÄhmanÄ«h az awÄÅ¡Än az Än xwÄÅ¡ÄnÄ«d . Level 3 Sentence: 18 pad Än drÅ-gÅw\iÅ¡nÄ«h 
+XLevel 5 Line: 22 har dÅ druwand bÅ«d hÄnd . Level 3 Sentence: 19 u-Å¡Än ruwÄn tÄ tan Ä« 
+XLevel 5 Line: 23 pasÄn pad duÅ¡ox . Level 3 Sentence: 20 u-Å¡Än sÄ«h rÅz xwariÅ¡n Å¡ud bÅ«d , wis\tarag 
+XLevel 4 Page: 32 XLevel 5 Line: 1 giyÄh nihuft , pas az sÄ«h rÅz pad wiÅ¡kar frÄz 
+XLevel 5 Line: 2 raft hÄnd , Å buz-Ä spÄd mÅy mad hÄnd . Level 3 Sentence: 21 u-Å¡Än pad dah\Än 
+XLevel 5 Line: 3 pÄm az pestÄn dÅxt . Level 3 Sentence: 22 ka-Å¡Än pÄm xward bÅ«d hÄnd , m\aÅ¡Ä« 
+XLevel 5 Line: 4 Å maÅ¡yÄnÄ <guft> kÅ« , Å¡ÄdÄ«h Ä« man az Än kÅ«-m nÄ 
+XLevel 5 Line: 5 xward bÅ«d Än Ä« Å¡Ä«r , u-m Å¡ÄdÄ«h Å¡Ädtar nÅ«n ast ka-m x\ward , 
+XLevel 5 Line: 6 Ä-m pad tan sagrÄ«h ". Level 3 Sentence: 23 Än dudÄ«gar drÅ-gÅwiÅ¡nÄ«h 
+XLevel 5 Line: 7 dÄwÄn Åz abar mad ; u-Å¡Än mizag Ä« xwariÅ¡n be appurd , 
+XLevel 5 Line: 8 ÅwÅn kÅ« az sad bahr Äk bahr be mÄnd . Level 3 Sentence: 24 pas pad sÄ«h rÅz\Å¡abÄn 
+XLevel 5 Line: 9 dudÄ«gar Å gÅspand-Ä mad hÄnd dabr , spÄd-ÄrwÄrag 
+XLevel 5 Line: 10 u-Å¡Än be kuÅ¡t . Level 3 Sentence: 25 u-Å¡Än az dÄr Ä« kunÄr ud Å¡amÅ¡Är pad n\imÅ«dÄrÄ«h 
+XLevel 5 Line: 11 yazadÄn mÄnÅgÄn ÄtaxÅ¡ abgand . Level 3 Sentence: 26 ÄÄ [Å] awÄÅ¡Än , 
+XLevel 5 Line: 12 har dÅ dar ÄtaxÅ¡ dÄdÄrtar hÄnd . Level 3 Sentence: 27 u-Å¡Än pad dahÄn ÄtaxÅ¡ 
+XLevel 5 Line: 13 abrÅxt . Level 3 Sentence: 28 u-Å¡Än nazdist Äzm kuhunz , kundur , kunÄr , pÄÅ¡ 
+XLevel 5 Line: 14 Ä« xormÄ , mÅrd , sÅzÄnÄ«d . Level 3 Sentence: 29 u-Å¡Än Än gÅspand gardÄnÄg k\ard . 
+
+XLevel 5 Line: 15 Level 3 Sentence: 30 u-Å¡Än sÄ must-masÄy gÅÅ¡t andar ÄtaxÅ¡ hiÅ¡t , guft 
+XLevel 5 Line: 16 kÅ« Än bahr Ä« ÄtaxÅ¡ . Level 3 Sentence: 31 az Än Ä« did , pÄrag-Ä Å asmÄn ra\wÄnÄ«d , 
+XLevel 5 Line: 17 guft kÅ« Än bahr Ä« yazadÄn . Level 3 Sentence: 32 az pÄÅ¡ murw Ä« kar\gÄs 
+XLevel 5 Line: 18 abar raft az awÄÅ¡Än be burd , ÄiyÅn fradom gÅÅ¡t 
+XLevel 5 Line: 19 Ä sag xward . Level 3 Sentence: 33 u-Å¡Än az Än nazdist wistarag pÅstÄn ni\huft . 
+
+XLevel 5 Line: 20 Level 3 Sentence: 34 pas pad wiÅ¡kar a-Å¡Än <sarmag> be tad Än Ä« tad\ag 
+XLevel 5 Line: 21 jÄmag be kard . Level 3 Sentence: 35 [guft hÄnd] u-Å¡Än pad zamÄ«g gÄr-Ä 
+XLevel 5 Line: 22 be kand . Level 3 Sentence: 36 u-Å¡Än Ähen be widÄxt . Level 3 Sentence: 37 u-Å¡Än pad sang be zad 
+XLevel 5 Line: 23 u-Å¡Än [tÄbag-Ä bÄ] tÄx aziÅ¡ <be kard> [be zad] . Level 3 Sentence: 38 u-Å¡Än 
+XLevel 4 Page: 33 XLevel 5 Line: 1 dÄr padiÅ¡ brÄ«d Än Ä« dÄrÄn padiÅ¡xwÄr ÄrÄst . Level 3 Sentence: 39 az Än an\espÄs<Ä«h> 
+XLevel 5 Line: 2 Ä«-Å¡Än kard , dÄwÄn stambagtar bÅ«d hÄnd . Level 3 Sentence: 40 u\Å¡Än 
+XLevel 5 Line: 3 xwad pad xwad Än Ä« abÄrÅn areÅ¡k abar burd , Äk p\ad 
+XLevel 5 Line: 4 did frÄz raft hÄnd , zad ud darrÄ«d hÄnd ; wars rÅ«d . 
+
+XLevel 5 Line: 5 Level 3 Sentence: 41 pas dÄwÄn az tom wÄng kard kÅ« mardÅm hÄd , dÄw yazÄd 
+XLevel 5 Line: 6 tÄ-tÄn areÅ¡k dÄw niÅ¡Ä«nÄd . Level 3 Sentence: 42 maÅ¡Ä« frÄz raft ud Å¡Ä«r Ä« g\Äw 
+XLevel 5 Line: 7 dÅÅ¡Ä«d , Å abÄxtar rÅn abar rÄxt , pad Än dÄwÄn ÅzÅ\mandtar 
+XLevel 5 Line: 8 bÅ«d hÄnd . Level 3 Sentence: 43 u-Å¡Än awÄÅ¡Än har dÅ ÄdÅn huÅ¡k-kÅ«n 
+XLevel 5 Line: 9 bÅ«d hÄnd , kÅ«-Å¡Än pad panjÄh zamestÄn kÄmagÄ«h pad ham 
+XLevel 5 Line: 10 gumÄziÅ¡nÄ«h nÄ bÅ«d , ka-Å¡Än ham-gumÄziÅ¡nÄ«h kard , Äg\iÅ¡Än 
+XLevel 5 Line: 11 frazand zÄyiÅ¡nÄ«h nÄ bÅ«d ; ud pad bowandagÄ«h pan\jÄh 
+XLevel 5 Line: 12 sÄl pus-xwÄhiÅ¡nÄ«h frÄz mad . Level 3 Sentence: 44 nazdist maÅ¡Ä« ud pas 
+XLevel 5 Line: 13 maÅ¡yÄnÄ . Level 3 Sentence: 45 ÄÄ guft maÅ¡Ä« Å maÅ¡yÄnÄ kÅ« ka Än tÅ karm w\ÄnÄm 
+XLevel 5 Line: 14 Än Ä« man meh ul ÄxÄzÄd . Level 3 Sentence: 46 pas maÅ¡yÄnÄ guft kÅ« br\Äd 
+XLevel 5 Line: 15 maÅ¡Ä« , ka Än Ä« tÅ karm meh wÄnÄm , Än Ä« man karm 
+XLevel 5 Line: 16 drafÅ¡Äd . Level 3 Sentence: 47 pas awÄÅ¡Än kÄmag Å ham mad . Level 3 Sentence: 48 ka-Å¡Än kÄmag w\izÄriÅ¡nÄ«h 
+XLevel 5 Line: 17 kard [Ä«-Å¡Än kard] ÄdÅn abar menÄ«d kÅ« amÄ 
+XLevel 5 Line: 18 Än-iz panjÄh sÄl kÄr Än <abÄyist> bÅ«d<an> . Level 3 Sentence: 49 az awÄ\Å¡Än 
+XLevel 5 Line: 19 zÄd pad nÅ mÄh juxt-Ä mard <ud> zan . Level 3 Sentence: 50 az Å¡Ä«rÄnÄ«h 
+XLevel 5 Line: 20 Ä« frazand , Äk mÄd ud Äk pid be jÅ«d . Level 3 Sentence: 51 ud pas ohrmazd 
+XLevel 5 Line: 21 Å¡Ä«rÄnÄ«h Ä« frazand az awÄÅ¡Än abÄz stad ; tÄ frazand p\arwarÄnd 
+XLevel 5 Line: 22 ud frazand be mÄnÄd . Level 3 Sentence: 52 u-Å¡Än haft juxt aziÅ¡ b\Å«d 
+XLevel 5 Line: 23 hÄnd nar <ud> mÄdag . Level 3 Sentence: 53 hamÄg brÄd ud xwah nar <ud> 
+XLevel 4 Page: 34 XLevel 5 Line: 1 zan bÅ«d hÄnd . Level 3 Sentence: 54 u-Å¡Än har Ä pad panjÄh sÄl frazand az\ist 
+XLevel 5 Line: 2 zÄd hÄnd , ud xwad pad sad sÄlag be murd hÄnd . Level 3 Sentence: 55 az 
+XLevel 5 Line: 3 Än haft juxt ek siyÄmak nÄm <Ä«> mard ud zan waÅ¡Äg . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 56 u-Å¡Än juxt-Ä aziÅ¡ zÄd , kÄ mard frawÄg ud zan frawa\gÄn 
+XLevel 5 Line: 5 nÄm bÅ«d hÄnd . Level 3 Sentence: 57 az awÄÅ¡Än panzdah juxt zÄd hÄnd kÄ 
+XLevel 5 Line: 6 har juxt-Ä sardag-Ä bÅ«d hÄnd . Level 3 Sentence: 58 u-Å¡Än purr-rawiÅ¡nÄ«h p\aywand 
+XLevel 5 Line: 7 <Ä«> gÄhÄn aziÅ¡ bÅ«d . Level 3 Sentence: 59 az har pÄnzdah sardag Ä«\Å¡Än 
+XLevel 5 Line: 8 nÅ sardag pad puÅ¡t Ä« gÄw Ä« srisÅg , pad Än Ä« frÄ\xwkard 
+XLevel 5 Line: 9 zrÄh , Å Än Å¡aÅ¡ kiÅ¡war dudÄ«gar widÄrd , ud Ä\nÅh 
+XLevel 5 Line: 10 bÅ«d hÄnd . Level 3 Sentence: 60 ud Å¡aÅ¡ sardag mardÅm pad xwanirah mÄnd 
+XLevel 5 Line: 11 hÄnd . Level 3 Sentence: 61 az Än Å¡aÅ¡ sardag juxt-Ä mard tÄz ud zan tÄzag 
+XLevel 5 Line: 12 nÄm bÅ«d hÄnd , ud <pad> dast Ä« tÄzÄ«gÄn Å¡ud hÄnd . Level 3 Sentence: 62 ud 
+XLevel 5 Line: 13 juxt-Ä hÅÅ¡ang mard ud zan gÅ«zag nÄm , u-Å¡Än ÄrÄnagÄn 
+XLevel 5 Line: 14 az awÄÅ¡Än bÅ«d hÄnd . Level 3 Sentence: 63 ud juxt-Ä mÄzandarÄn aziÅ¡ bÅ«d 
+XLevel 5 Line: 15 hÄnd , pad ÄmÄr , Än Ä« pad ÄrÄn dÄhÄn . Level 3 Sentence: 64 Än Ä« pad anÄr 
+XLevel 5 Line: 16 deh : Än Ä« pad tÅ«r dÄhÄn , Än Ä« pad salm deh , ast Ä« h\rÅm . 
+
+XLevel 5 Line: 17 Level 3 Sentence: 65 Än Ä« pad sind deh , Än Ä« pad ÄÄ«nestÄn , Än Ä« pad 
+XLevel 5 Line: 18 gÄy deh , Än-iz pad Å¡aÅ¡ kiÅ¡war , hamÄg az paywand fra\wÄg 
+XLevel 5 Line: 19 ud siyÄmak ud maÅ¡Ä« hÄnd . Level 3 Sentence: 66 ÄiyÅn dah sardag mardÅm 
+XLevel 5 Line: 20 <az bun guft> pÄnzdah sardag az frawÄg bÅ«d , ud wÄ«st 
+XLevel 5 Line: 21 ud panj sardag hamÄg az tÅhm Ä« gayÅmart !} bÅ«d hÄnd , Äi\yÅn 
+XLevel 5 Line: 22 zamÄ«gÄ«g ÄbÄ«g war-gÅÅ¡ , war-ÄaÅ¡m ud Äk-pÄy Än-iz 
+XLevel 5 Line: 23 kÄ parr dÄrÄnd ÄiyÅn Å¡awÄg ud xwÄÅ¡agÄ«g dumbÅmand kÄ 
+XLevel 4 Page: 35 XLevel 5 Line: 1 mÅy pad tan dÄrÄnd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 015 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 15 
+
+Level 2 Chapter: XV XV 
+
+XLevel 6 IBd Location: 38,14 IBd _38,14 
+XLevel 7 TD1 Location: 90,8 TD1 _90,8 
+XLevel 8 TD2 Location: 109,3 TD2 _109,3 
+XLevel 9 DH Location: 59,18 DH _59,18 
+
+XLevel 5 Line: 2 abar ÄiyÅnÄ«h zÄyiÅ¡nÄ«h 
+
+XLevel 5 Line: 3 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« zan ka az daÅ¡tÄn be ÄyÄd , tÄ 
+XLevel 5 Line: 4 dah rÅz <ud> Å¡ab ka-Å¡ <nazdÄ«kÄ«h> Å¡awÄnd pÄÅ¡ Äbus\tan 
+XLevel 5 Line: 5 bawÄd . Level 3 Sentence: 2 ka-Å¡ az daÅ¡tÄn Å¡ust ÄstÄd , ka Äbustan<Ä«h> 
+XLevel 5 Line: 6 zamÄn mad ÄstÄd , hamÄ ka tÅhm Ä« mard nÄrÅgÅmandtar , 
+XLevel 5 Line: 7 pus , ka Än Ä« zan nÄrÅgÅmandtar duxt , ka har dÅ rÄst , 
+XLevel 5 Line: 8 tÅhm dÅgÄnag ud sÄgÄnag aziÅ¡ bawÄd . Level 3 Sentence: 3 agar tÅhm Ä« nar 
+XLevel 5 Line: 9 pÄÅ¡ ÄyÄd , Å mÄdag abzÄyÄd , u-Å¡ frabÄ«h bawÄd . Level 3 Sentence: 4 agar t\Åhm 
+XLevel 5 Line: 10 Ä« mÄdag pÄÅ¡ ÄyÄd xÅn bawÄd , mÄdag aziÅ¡ nizÄrÄ«h\Äd . 
+
+XLevel 5 Line: 11 Level 3 Sentence: 5 tÅhm Ä« mÄdag sard ud xwÄd taziÅ¡n [ud] az pahlÅ«g 
+XLevel 5 Line: 12 ud gÅnag spÄd , suxr ud zard . Level 3 Sentence: 6 ud tÅhm Ä« narÄn garm ud 
+XLevel 5 Line: 13 huÅ¡k , taziÅ¡n [ud] az mazg Ä« sar , gÅnag spÄd ud xaÅ¡Än . 
+
+XLevel 5 Line: 14 Level 3 Sentence: 7 hamÄ <ka> tÅhm Ä« mÄdagÄn pÄÅ¡ be ÄyÄd andar kadag gÄh 
+XLevel 5 Line: 15 gÄ«rÄd , ud tÅhm Ä« narÄn azabar Än be ÄstÄd , Än kadag\gÄh 
+XLevel 5 Line: 16 purr be kunÄd , har ÄÄ aziÅ¡ be parrÄzÄd , abÄz Å 
+XLevel 5 Line: 17 xÅn bawÄd , pad Än Ä« <ragÄn Ä«> mÄdagÄn andar Å¡awÄd , 
+XLevel 5 Line: 18 pad hangÄm kÄ be zÄyÄd , Å¡Ä«r bawÄd , u-Å¡ <padiÅ¡ fraza\nd> 
+XLevel 5 Line: 19 parwarÄd . Level 3 Sentence: 8 ÄiyÅn hamÄg Å¡Ä«r az tÅhm Ä« narÄn bawÄd 
+XLevel 5 Line: 20 Å Än Ä« mÄdagÄn Level 3 Sentence: 9 Än ÄahÄr ÄiÅ¡ nar <ÄahÄr> mÄdag gÅwÄd : 
+XLevel 5 Line: 21 asmÄn , ayÅxÅ¡ust , wÄd , ÄtaxÅ¡ , nar , hagriz juttar nÄ 
+XLevel 4 Page: 36 XLevel 5 Line: 1 bawÄd Än Äb ud zamÄ«g ud urwar ud mÄhÄ«g mÄdag , hagr\iz 
+XLevel 5 Line: 2 juttar nÄ bawÄd . Level 3 Sentence: 10 abÄrÄ«g dahiÅ¡n nar mÄdag [nar] b\awÄd . 
+
+XLevel 5 Line: 3 Level 3 Sentence: 11 ÄiyÅn Än Ä« [nar] mÄhÄ«g rÄy gÅwÄd kÅ« pad hangÄm 
+XLevel 5 Line: 4 Ä« pus-xwÄhiÅ¡nÄ«h , pad Än tazÄg Äb , Äk hÄsar drahnÄy 
+XLevel 5 Line: 5 kÄ hast ÄahÄr Äk Ä« frasang , dÅ dÅ pad Äb frÅd Å¡awÄnd 
+XLevel 5 Line: 6 ud abÄz ÄyÄnd . Level 3 Sentence: 12 andar Än madan ud Å¡udan ÄgenÄn kirb 
+XLevel 5 Line: 7 frÄz sÄyÄnd , u-Å¡Än xÄyag ÄwÄnag mayÄn be ÅftÄd , har 
+XLevel 5 Line: 8 dÅ Äbustan bawÄnd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 016 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 16 
+
+Level 2 Chapter: XVI XVI 
+
+XLevel 6 IBd Location: 39,20 IBd _39,20 
+XLevel 7 TD1 Location: 101,7 TD1 _101,7 
+XLevel 8 TD2 Location: 122,15 TD2 _122,15 
+
+XLevel 5 Line: 9 abar ÄiyÅnÄ«h ÄtaxÅ¡ 
+
+XLevel 5 Line: 10 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« panj ÄwÄnag ÄtaxÅ¡ brÄhÄnÄ«d 
+XLevel 5 Line: 11 ÄstÄd , ÄiyÅn ÄtaxÅ¡ Ä« bÉrÉzisavang , ÄtaxÅ¡ Ä« pÄÅ¡ Ä« oh\rmazd 
+XLevel 5 Line: 12 [ud] xwadÄy waxÅ¡Äd , ÄtaxÅ¡ Ä« vohufrÉyÄn , ÄtaxÅ¡ 
+XLevel 5 Line: 13 Än Ä« andar tan Ä« mardÅmÄn ud gÅspandÄn . Level 3 Sentence: 2 ÄtaxÅ¡ Ä« urw\ÄziÅ¡t , 
+XLevel 5 Line: 14 ÄtaxÅ¡ Än Ä« andar urwarÄn . Level 3 Sentence: 3 ÄtaxÅ¡ Ä« wÄziÅ¡t , Ät\axÅ¡ 
+XLevel 5 Line: 15 Än Ä« pad abr , padÄ«rag spinjaÎ³r pad kÅxÅ¡iÅ¡n ÄstÄd . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 4 ÄtaxÅ¡ Ä« spÄniÅ¡t ÄtaxÅ¡ Än Ä« pad gÄhÄn pad kÄr dÄrÄnd . 
+
+XLevel 5 Line: 17 Level 3 Sentence: 5 ÄtaxÅ¡-iz wahrÄm . Level 3 Sentence: 6 az awÄÅ¡Än panj ÄtaxÅ¡ Äk Äb <ud> xw\ariÅ¡n 
+XLevel 5 Line: 18 har dÅ xwarÄd , ÄiyÅn Än andar tan Ä« mardÅmÄn . 
+
+XLevel 5 Line: 19 Level 3 Sentence: 7 Äk Äb xwarÄd xwariÅ¡n nÄ xwarÄd ÄiyÅn Än andar urwa\rÄn 
+XLevel 5 Line: 20 kÄ pad Äb zÄ«yÄd <ud> waxÅ¡Äd ; Äk xwariÅ¡n xwarÄd , 
+XLevel 5 Line: 21 Äb nÄ xwarÄd , ÄiyÅn Än Ä« pad gÄtÄ«g pad kÄr dÄrÄnd , 
+XLevel 4 Page: 37 XLevel 5 Line: 1 ataxÅ¡-iz wahrÄm . Level 3 Sentence: 8 Äk nÄ Äb xwarÄd ud nÄ xwariÅ¡n x\warÄd 
+XLevel 5 Line: 2 ÄiyÅn ÄtaxÅ¡ Ä« wÄziÅ¡t Än Ä« bÉrÉzisavang Än an\dar 
+XLevel 5 Line: 3 zamÄ«g ud kÅf abÄrÄ«g ÄiÅ¡ . Level 3 Sentence: 9 <Än sÄ ÄtaxÅ¡ ast Ädur 
+XLevel 5 Line: 4 farrÅbay , guÅ¡nasp ud burzÄnmihr> az bun-dahiÅ¡n ohrm\azd 
+XLevel 5 Line: 5 ÄiyÅn sÄ xwarrah dÄd . Level 3 Sentence: 10 [Å] awÄÅ¡Än pad pÄsbÄnÄ«h ud 
+XLevel 5 Line: 6 panÄhÄ«h gÄhÄn hamÄ [hamÄg] waxÅ¡Ä«d ud andar xwadÄyÄ«h 
+XLevel 5 Line: 7 tahmurab kÅ« mardÅm kÄ pad puÅ¡t Ä« gÄw <Ä«> srisÅg az xwa\nirah 
+XLevel 5 Line: 8 Å abÄrÄ«g kiÅ¡war hamÄ widÄrd hÄnd ; [ud] Å¡ab-Ä 
+XLevel 5 Line: 9 mayÄnag Ä« zrÄh [Ädur-gÄh] <pad> wÄd staft Ädur-gÄh 
+XLevel 5 Line: 10 kÄ-Å¡ ÄtaxÅ¡ andar bÅ«d , ÄiyÅn pad puÅ¡t Ä« gÄw , pad Ä g\yÄg 
+XLevel 5 Line: 11 kard ÄstÄd , az wÄd , abÄg ÄtaxÅ¡ be Å drayÄ Åbast . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 11 awÄÅ¡Än har sÄ ÄtaxÅ¡ ÄiyÅn sÄ xwarrah pad gyÄg-[ud] 
+XLevel 5 Line: 13 gÄh Ä« ÄtaxÅ¡ pad puÅ¡t Ä« gÄw hamÄ waxÅ¡Ä«d hÄnd tÄ rÅÅ¡n 
+XLevel 5 Line: 14 be bawÄd , Än mardÅmÄn pad zrÄh abÄz widÄrÄnd Level 3 Sentence: 12 ud jam 
+XLevel 5 Line: 15 andar xwadÄyÄ«h hamÄg kÄr pad ayÄrÄ«h awÄÅ¡Än har sÄ Ä\taxÅ¡ 
+XLevel 5 Line: 16 abÄrtar kard . Level 3 Sentence: 13 u-Å¡ Ädur farrÅbay Å dÄd-gÄh pad 
+XLevel 5 Line: 17 xwarrahÅmand kÅf Ä« pad xwÄrazm niÅ¡Äst ÄstÄd ka-Å¡Än 
+XLevel 5 Line: 18 jam be kirrÄnÄ«d [ud] xwarrah Ä« kam az dast Ä« dahÄg 
+XLevel 5 Line: 19 Ädur Ä« farrÅbay bÅzÄnÄ«d andar xwadÄyÄ«h wiÅ¡tÄsp Å¡Äh , 
+XLevel 5 Line: 20 pad paydÄgÄ«h az dÄn , az xwÄrazm Å rÅÅ¡n kÅf pad kÄwa\lestÄn 
+XLevel 5 Line: 21 <Ä«> kÄwal [Ä«] deh niÅ¡ast . Level 3 Sentence: 14 ÄiyÅn nÅ«n-iz ÄnÅh 
+XLevel 5 Line: 22 mÄnÄd . Level 3 Sentence: 15 Ädur guÅ¡nasp tÄ xwadÄyÄ«h kay husraw pad Än ÄwÄ\nag , 
+XLevel 5 Line: 23 panÄhÄ«h gÄhÄn hamÄ kard . Level 3 Sentence: 16 ka kay husraw uzdÄszÄr Ä« 
+XLevel 4 Page: 38 XLevel 5 Line: 1 war Ä« ÄÄÄast hamÄ kand , abar Å buÅ¡ Ä« asp niÅ¡ast ud 
+XLevel 5 Line: 2 tÄr ud tom be zad , ud rÅÅ¡n be kard tÄ uzdÄszÄr kand ; 
+XLevel 5 Line: 3 pad ham ÄnÅh pad asnÄwand kÅf , Ädur guÅ¡nasp be Å dÄd\gÄh 
+XLevel 5 Line: 4 niÅ¡Äst Level 3 Sentence: 17 Ädur burzÄnmihr tÄ xwadÄyÄ«h wiÅ¡tÄsp Å¡Äh 
+XLevel 5 Line: 5 ham ÄwÄnag andar gÄhÄn hamÄ wazÄ«d <ud> panÄhÄ«h hamÄ 
+XLevel 5 Line: 6 kard . Level 3 Sentence: 18 ka anÅÅ¡ag-ruwÄn zarduxÅ¡t , dÄn Äwurd <ud> pad 
+XLevel 5 Line: 7 rawÄgÄ«h dÄn , <ud> abÄ-gumÄn[Ä«h] kardan , wiÅ¡tÄsp Å¡Äh 
+XLevel 5 Line: 8 ud frazandÄn pad dÄn Ä« yazadÄn ÄstÄd hÄnd , wiÅ¡tÄsp p\ad 
+XLevel 5 Line: 9 kÅf Ä« rÄwand kÅ« puÅ¡t Ä« wiÅ¡tÄspÄn gÅwÄnd , Å dÄd\gÄh 
+XLevel 5 Line: 10 niÅ¡Äst . Level 3 Sentence: 19 awÄÅ¡Än har sÄ ÄdurÄn ÄtaxÅ¡ Ä« wahrÄm , ha\mÄg 
+XLevel 5 Line: 11 tan im ÄtaxÅ¡ Ä« gÄtÄ«g . Level 3 Sentence: 20 u-Å¡Än Än xwarrah padiÅ¡ me\hmÄn , 
+XLevel 5 Line: 12 hangÅÅ¡Ä«dag Ä« tan Ä« mardÅmÄn ka andar aÅ¡komb m\Ädar 
+XLevel 5 Line: 13 frÄz bawÄd , ruwÄn-Ä az mÄnÅg andar niÅ¡Ä«nÄd , kÄ 
+XLevel 5 Line: 14 Än tan tÄ zÄ«ndag Åh rÄyÄnÄd ; ka Än tan frÅd mÄ«rÄd 
+XLevel 5 Line: 15 tan-Ä Å zamÄ«g gumÄzÄd , ruwÄn-Ä abÄz Å mÄnÅg Å¡awÄd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 017 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 17 
+
+Level 2 Chapter: XVII XVII 
+
+XLevel 6 IBd Location: 42,11 IBd _42,11 
+XLevel 7 TD1 Location: 124,8 TD1 _124,8 
+XLevel 8 TD2 Location: 149,10 TD2 _149,10 
+XLevel 9 DH Location: 68,10 DH _68,10 
+
+XLevel 5 Line: 16 abar ÄiyÅnÄ«h gÅkirin draxt xwÄnÄnd 
+
+XLevel 5 Line: 17 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« hÅm Ä« spÄd kÄ gÅkirin dra\xt 
+XLevel 5 Line: 18 xwÄnÄnd , andar zrÄh frÄxwkard pad Än Ä« zofr war 
+XLevel 5 Line: 19 rust ÄstÄd . Level 3 Sentence: 2 pad fraÅ¡agird-kardÄr<Ä«h> andar abÄyÄd ; 
+XLevel 5 Line: 20 ÄÄ-Å¡ anÅÅ¡agÄ«h aziÅ¡ wirÄyÄnd . Level 3 Sentence: 3 gannÄg mÄnÅg pad Än Ä« Åy 
+XLevel 5 Line: 21 hamÄstÄr<Ä«h> andar [pad] Än zofr Äb wazaÎ³-Ä [Å hamÄ\stÄr] 
+XLevel 4 Page: 39 XLevel 5 Line: 1 [andar] kirrÄnÄ«d ÄstÄd kÅ« Än hÅm be winÄhÄ[n]d , 
+XLevel 5 Line: 2 ud abÄz dÄriÅ¡nÄ«h Än wazaÎ³ rÄy ohrmazd dah mÄhÄ«g Ä« 
+XLevel 5 Line: 3 karr ÄnÅh dÄd ÄstÄd , kÄ pÄrÄmÅn Ä« Än hÅm hamwÄr hamÄ 
+XLevel 5 Line: 4 gardÄnd , tÄ hamÄ Äk-Ä az Än mÄhÄ«g<Än> sar Å wazaÎ³ . 
+
+XLevel 5 Line: 5 Level 3 Sentence: 4 [Än ud] im wazaÎ³ , awÄÅ¡Än mÄhÄ«gÄn mÄnÅg xwariÅ¡n hÄnd . 
+
+XLevel 5 Line: 6 Level 3 Sentence: 5 kÅ«-Å¡Än xwariÅ¡n nÄ abÄyÄd , tÄ fraÅ¡agird pad kÅxÅ¡iÅ¡n 
+XLevel 5 Line: 7 ÄstÄnd . Level 3 Sentence: 6 ast gyÄg Än mÄhÄ«g araz Äb<Ä«g> nibiÅ¡t ÄstÄd . 
+
+XLevel 5 Line: 8 Level 3 Sentence: 7 ÄiyÅn gÅwÄd kÅ« mahist Än Ä« ohrmazd dÄmÄn Än [Ä«] mÄ\hÄ«g , 
+XLevel 5 Line: 9 ud mahist Än Ä« az gannÄg mÄnÅg Än [Ä«] wazaÎ³ pad 
+XLevel 5 Line: 10 tan <ud> zÅr . Level 3 Sentence: 8 [Äb] kÄ mayÄn Ä« awÄÅ¡Än andar bÅ«d az har 
+XLevel 5 Line: 11 dÅ dÄmÄn , pad dÅ be wisinÄnd , jud Än Äk mÄhÄ«g kÄ ast 
+XLevel 5 Line: 12 was Ä« panjÄsadwarÄn . Level 3 Sentence: 9 Än-iz gÅwÄd kÅ« Än mÄhÄ«g ÅwÅn 
+XLevel 5 Line: 13 marag kÅ« andar Än Ä« zofr Äb sÅzan tÄx mÄriÅ¡nÄ«<g> Äb 
+XLevel 5 Line: 14 padiÅ¡ be abzÄyÄnd ayÄb ka kÄhiÅ¡n hÄnd danÄd . Level 3 Sentence: 10 was Ä« 
+XLevel 5 Line: 15 panjÄsadwarÄn rÄy paydÄg kÅ« andar zrÄh frÄxwkard ra\wÄd . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 11 u-Å¡ drahnÄy and Äand ast kÄ tÄ mard-Ä pad tag Ä« 
+XLevel 5 Line: 17 tÄz be rawÄd bÄmdÄd tÄ ka xwarsÄd frÅd Å¡awÄd , and\Äand 
+XLevel 5 Line: 18 kÅ«-Å¡ drahnÄy xwÄÅ¡ nÄ rawÄd az Än meh kirb hu\rust . 
+
+XLevel 5 Line: 19 Level 3 Sentence: 12 Än-iz gÅwÄd kÅ« Än sÄlÄrÄ«h Ä« dÄmÄn Ä« ÄbÄ«gÄn 
+XLevel 5 Line: 20 frahist-iz zÄ«yÄnd . Level 3 Sentence: 13 wan Ä« was-tÅhmag mayÄn Ä« zrÄh 
+XLevel 5 Line: 21 frÄxwkard rust ÄstÄd , u-Å¡ tÅhm Ä« harwisp urwarÄn pa\diÅ¡ . 
+
+XLevel 5 Line: 22 Level 3 Sentence: 14 ast kÄ frÄrÅn bizeÅ¡k , ast kÄ tuxÅ¡ag bizeÅ¡k , ast 
+XLevel 5 Line: 23 kÄ hamÄg bizeÅ¡k gÅwÄd . Level 3 Sentence: 15 andar Äwan Ä« Åy nÅ <gar> brÄ\hÄnÄ«d 
+XLevel 4 Page: 40 XLevel 5 Line: 1 ÄstÄd Än gar sÅ«rÄgÅmand nÅ hazÄr nÅ sad nawad 
+XLevel 5 Line: 2 nÅ bÄwar <jÅy> har bÄwar-Ä dah hazÄr bawÄd . Level 3 Sentence: 16 andar 
+XLevel 5 Line: 3 Än gar pand ÄbÄn dÄd ÄstÄd , kÅ« Äb az ÄnÅh pad Än jÅy 
+XLevel 5 Line: 4 widarag frÄz rawÄd pad haft kiÅ¡war zamÄ«g . Level 3 Sentence: 17 ÄiyÅn ha\mÄg 
+XLevel 5 Line: 5 Äb Ä« zrÄh pad haft kiÅ¡war zamÄ«g ÄaÅ¡mag az ÄnÅh . 
+
+XLevel 5 Line: 6 Level 3 Sentence: 18 xar Ä« sÄ pÄy rÄy gÅwÄnd kÅ« mayÄn Ä« zrÄh frÄxwkard 
+XLevel 5 Line: 7 ÄstÄd . Level 3 Sentence: 19 u-Å¡ pÄy sÄ , ÄaÅ¡m Å¡aÅ¡ . Level 3 Sentence: 20 ud gund nÅ , gÅÅ¡ dÅ ud 
+XLevel 5 Line: 8 srÅ« Äk , tan spÄd , mÄnÅg-xwariÅ¡n ast ud ahlaw . Level 3 Sentence: 21 u-Å¡ Än 
+XLevel 5 Line: 9 Å¡aÅ¡ ÄaÅ¡m dÅ pad ÄaÅ¡m-gÄh ud dÅ pad bÄlist Ä« sar , dÅ 
+XLevel 5 Line: 10 pad kÅfÄn-gÄh . Level 3 Sentence: 22 pad Än Å¡aÅ¡ ÄaÅ¡m sÄjÅmandÄ«h tarwÄnÄd 
+XLevel 5 Line: 11 <ud> zanÄd . Level 3 Sentence: 23 Än nÅ gund sÄ pad sar , sÄ pad kÅfÄn , sÄ 
+XLevel 5 Line: 12 pad andarÅn Ä« nÄmag Ä« pahlÅ«g ; ud har gund-Ä Äand 
+XLevel 5 Line: 13 kadag-masÄy . Level 3 Sentence: 24 u-Å¡ and-Äand kÅf Ä« xwanwand . Level 3 Sentence: 25 Än sÄ pÄy 
+XLevel 5 Line: 14 har Äk ka nihÄd ÄstÄd pad zamÄ«g , Äand hazÄr mÄÅ¡ ka 
+XLevel 5 Line: 15 pad ham niÅ¡Ä«nÄnd , gird frÅd ÄyÄnd . Level 3 Sentence: 26 xwurdag Ä« pÄy-Ä 
+XLevel 5 Line: 16 and-Äand hazÄr mard abÄg asp hazÄr wardyÅ«n padiÅ¡ 
+XLevel 5 Line: 17 andar widerÄnd . Level 3 Sentence: 27 pad Än dÅ gÅÅ¡ mÄzandarÄn dehÄn be 
+XLevel 5 Line: 18 wardÄnÄd . Level 3 Sentence: 28 Än Äk srÅ« zarrÄn homÄnÄg sÅ«rÄgÅmand u-Å¡ 
+XLevel 5 Line: 19 hazÄr srÅ padiÅ¡ rust ÄstÄd . Level 3 Sentence: 29 ast uÅ¡tar-zahÄ , ast asp\zahÄ , 
+XLevel 5 Line: 20 ast gÄw-zahÄ , ast xar-zahÄ , meh-iz keh-iz . Level 3 Sentence: 30 pad 
+XLevel 5 Line: 21 Än srÅ« harwisp Än Ä« kÅxÅ¡iÅ¡nÄ«g xrafstar wattar sÄj be 
+XLevel 5 Line: 22 zanÄd , be Å¡kennÄd Level 3 Sentence: 31 ka Än xar andar zrÄh gardan be dÄ\rÄd , 
+XLevel 5 Line: 23 gÅÅ¡ be xamÄd , hamÄg Äb Ä« zrÄh <Ä«> frÄxwkard pad 
+XLevel 4 Page: 41 XLevel 5 Line: 1 ÄandiÅ¡n be ÄandÄnÄd , be Å¡ÄbÄd kust <ud> nÄfag . Level 3 Sentence: 32 ka 
+XLevel 5 Line: 2 wÄng kunÄd hamÄg dÄm Ä« ÄbÄ«g mÄdag , ohrmazd dÄmÄn Äbus\tan 
+XLevel 5 Line: 3 be bawÄnd ud hamÄg xrafstar Ä« abÄ«g Äbus ka Än 
+XLevel 5 Line: 4 wÄng aÅ¡nawÄnd rÄdag be abganÄnd . Level 3 Sentence: 33 ka andar zrÄh mÄzÄd 
+XLevel 5 Line: 5 hamÄg Äb zrÄh yÅjdahr be bawÄd , kÄ pad haft kiÅ¡war 
+XLevel 5 Line: 6 zamÄ«g . Level 3 Sentence: 34 pad-iz Än Äim ka bar hamÄg pad Äb rasÄnd , an\dar 
+XLevel 5 Line: 7 Äb mÄzÄnd . Level 3 Sentence: 35 ÄiyÅn gÅwÄd kÅ« agar xar Ä« sÄ pÄy be Å 
+XLevel 5 Line: 8 Äb <yojdahrÄ«h> nÄ dÄd hÄd harwisp Äb Ä« pad zrÄh abe\sÄ«hÄnÄd 
+XLevel 5 Line: 9 hÄd az ÄhÅgÄniÅ¡nÄ«h Ä«-Å¡ zahr Ä« gannÄg mÄnÅg 
+XLevel 5 Line: 10 abar Äb burd ÄstÄd pad marg Ä« dÄmÄn Ä« ohrmazd . Level 3 Sentence: 36 tiÅ¡\tar 
+XLevel 5 Line: 11 Äb az zrÄh pad ayÄrÄ«h Ä« xar Ä« sÄ pÄy rÄy abÄrtar 
+XLevel 5 Line: 12 stÄnÄd . Level 3 Sentence: 37 ambar-iz paydÄg kÅ« sargÄn Ä« xar Ä« sÄ pÄy ast . 
+
+XLevel 5 Line: 13 Level 3 Sentence: 38 ÄÄ agar was mÄnÅg xwariÅ¡n ast , pas-iz Än nÄm [Ä«] fra\wahr 
+XLevel 5 Line: 14 Ä« ÄbÄ«g <pad> ragÄn Å tan Å¡awÄd , pad gÅmÄz , sar\gÄn 
+XLevel 5 Line: 15 abÄz abganÄd . Level 3 Sentence: 39 gÄw hadayÅÅ¡ kÄ srisÅg xwÄnÄnd , 
+XLevel 5 Line: 16 <rÄy> gÅwÄd kÅ« pad bun-dahiÅ¡n mardÅm az kiÅ¡war Å kiÅ¡\war 
+XLevel 5 Line: 17 widÄrd hÄnd . Level 3 Sentence: 40 pad fraÅ¡agird anÅÅ¡ aziÅ¡ ÄrÄyÄnd . 
+
+XLevel 5 Line: 18 Level 3 Sentence: 41 gÅwÄd kÅ« zÄ«ndag pad xwarrah Ä« Än Ä« aÎ³rÄ mard pad 
+XLevel 5 Line: 19 sriÅ¡wadag Än zamÄ«g wÄÅ¡ drubuÅ¡tÄ«h pÄrÄmÅn kard ÄstÄd , 
+XLevel 5 Line: 20 tÄ fraÅ¡agird andar abÄyÄd . Level 3 Sentence: 42 ÄamruÅ¡ murw rÄy gÅwÄd kÅ« 
+XLevel 5 Line: 21 pad sar Ä« kÅf harborz , har sÄ sÄl was anÄrÄn dehÄn Å 
+XLevel 5 Line: 22 gird ÄyÄnd pad Å¡udan Å ÄrÄn dehÄn , zyÄn ÄwariÅ¡n ud 
+XLevel 5 Line: 23 winÄhiÅ¡nÄ«h gÄhÄn kardan . Level 3 Sentence: 43 Äg burz yazad az Än zofr 
+XLevel 4 Page: 42 XLevel 5 Line: 1 [rÅstÄg] war Ä« arang abar ÄyÄd , Än-iz ÄamruÅ¡ murw ul 
+XLevel 5 Line: 2 ÄstÄnÄd , pad bÄlist Ä« hamÄg Än Ä« buland kÅf wazÄd , Än 
+XLevel 5 Line: 3 hamÄg anÄrÄn dehÄn ÄÄ«nÄd , ÄiyÅn murw dÄnag . Level 3 Sentence: 44 karÅ¡ift 
+XLevel 5 Line: 4 rÄy gÅwÄnd kÅ« saxwan dÄnist guftan <dÄn> andar Å war 
+XLevel 5 Line: 5 Ä« jam-kard burd , rawÄgÄnÄ«d . Level 3 Sentence: 45 ÄnÅh abestÄg pad uzwÄn Ä« 
+XLevel 5 Line: 6 murwÄn gÅwÄnd . Level 3 Sentence: 46 gÄw-mÄhÄ«g rÄy gÅwÄnd kÅ« andar hamÄg 
+XLevel 5 Line: 7 zrÄh bawÄd . Level 3 Sentence: 47 ka wÄng kunÄd hamÄg mÄhÄ«gÄn Äbustan ba\wÄnd 
+XLevel 5 Line: 8 ud hamÄg xrafstarÄn Ä« ÄbÄ«g rÄdak be abganÄnd sÄn 
+XLevel 5 Line: 9 murw [Ä«] <ud> sawÄg pad any dar gÅkÄn kard ÄstÄd . 
+
+XLevel 5 Line: 10 Level 3 Sentence: 48 murw Ä« aÅ¡ÅzuÅ¡t kÄ murw Ä« zÅrbarag wahman . Level 3 Sentence: 49 murw Å¡uÎ³d 
+XLevel 5 Line: 11 rÄy gÅwÄnd kÅ« abestÄg pad uzwÄn dÄd ÄstÄd ; ka gÅwÄd 
+XLevel 5 Line: 12 dÄwÄn aziÅ¡ wirÄzÄnd ÄnÅh bun nÄ kunÄnd . Level 3 Sentence: 50 nÄxun ka 
+XLevel 5 Line: 13 nÄ afsÅ«d ÄstÄd dÄwÄn <ud> jÄdÅ«gÄn stÄnÄnd tigr homÄn\Äg 
+XLevel 5 Line: 14 Å Än murw wihÄ<n>d ÅzanÄ<n>d . Level 3 Sentence: 51 Äd rÄy Än murw nÄ\xun 
+XLevel 5 Line: 15 ka <kÄ> afsÅ«d ÄstÄd stÄnÄd xwarÄd kÅ« tÄ dÄwÄn kÄr 
+XLevel 5 Line: 16 nÄ framÄyÄnd . Level 3 Sentence: 52 ka [nÄ] afsÅ«d ÄstÄd nÄ xwarÄd , dÄwÄn 
+XLevel 5 Line: 17 winÄh padiÅ¡ kardan <nÄ> tuwÄn . Level 3 Sentence: 53 abÄrÄ«g-iz dadÄn ud 
+XLevel 5 Line: 18 murwÄn hamÄg pad hamÄstÄrÄ«h xrafstarÄn dÄd ÄstÄd . Level 3 Sentence: 54 Äi\yÅn 
+XLevel 5 Line: 19 gÅwÄd kÅ« [ka] murwÄn dadÄn hamÄg pad hamÄstÄrÄ«h 
+XLevel 5 Line: 20 xrafstarÄn , jÄdÅ«gÄn . Level 3 Sentence: 55 Än-iz gÅwÄd kÅ« murw hamÄg zÄ«r , 
+XLevel 5 Line: 21 warÄÎ³ zÄ«rtar bawÄd . Level 3 Sentence: 56 bÄz Ä« spÄd rÄy gÅwÄd kÅ« mar Ä« pad 
+XLevel 5 Line: 22 parr ÅzanÄd . Level 3 Sentence: 57 kÄskÄnag murw malak ÅzanÄd pad Än hamÄ\stÄrÄ«h 
+XLevel 5 Line: 23 dÄd ÄstÄd . Level 3 Sentence: 58 kargÄs Ä« zarmÄn-meniÅ¡n ast kargÄs 
+XLevel 4 Page: 43 XLevel 5 Line: 1 nasÄ xwardan rÄy dÄd ÄstÄd . Level 3 Sentence: 59 ÄdÅn-iz warÄÎ³ [Ä«]<ud> sÄr 
+XLevel 5 Line: 2 Ä« gar <ud> gÄw Ä« kÅfÄ«g , <ud> pÄzan ud ÄhÅ«g <ud> gÅr 
+XLevel 5 Line: 3 <ud> abÄrÄ«g dadÄn hamÄg mÄr xwarÄnd , ÄdÅn-iz abÄrÄ«g 
+XLevel 5 Line: 4 <xrafstarÄn> . Level 3 Sentence: 60 sagÄn pad hamÄstÄrÄ«h [dÄd ÄstÄd] gurg 
+XLevel 5 Line: 5 sardagÄn <ud> pÄnagÄ«h gÅspandÄn kardan rÄy dÄd ÄstÄd . 
+
+XLevel 5 Line: 6 Level 3 Sentence: 61 rÅbÄh pad hamÄstÄrÄ«h xabag dÄw dÄd ÄstÄd . Level 3 Sentence: 62 rasÅ«g pad 
+XLevel 5 Line: 7 hamÄstÄrÄ«h garzag , abÄrÄ«g xrafstarÄn Ä« sÅ«rÄxÄ«g dÄd 
+XLevel 5 Line: 8 ÄstÄd . Level 3 Sentence: 63 ÄdÅn-iz muÅ¡k wuzurg pad hamÄstÄrÄ«h kadÅ«g dÄ\nag 
+XLevel 5 Line: 9 <ud> garzag dÄd ÄstÄd . Level 3 Sentence: 64 zÅ«zag pad hamÄstÄrÄ«h 
+XLevel 5 Line: 10 mÅr Ä« dÄnag-keÅ¡ dÄd ÄstÄd . Level 3 Sentence: 65 ÄiyÅn gÅwÄd kÅ« zÅ«zag har 
+XLevel 5 Line: 11 jÄr kÄ andar mÅr xÄnag-Ä mÄzÄd , hazÄr mÅr be ÅzanÄd . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 66 zamÄ«g ka-Å¡ dÄnag-keÅ¡ abar rawÄd , sÅ«rÄg be kunÄd , ka\Å¡ 
+XLevel 5 Line: 13 zÅ«zag abar rawÄd sÅ«rÄg aziÅ¡ be Å¡awÄd ud rÄst abÄz 
+XLevel 5 Line: 14 bawÄd . Level 3 Sentence: 67 babrag Ä« ÄbÄ«g pad hamÄstÄrÄ«h dÄw Ä« andar Äb 
+XLevel 5 Line: 15 bawÄd dÄd ÄstÄd . Level 3 Sentence: 68 hangird Än kÅ« hamÄg dadÄn , murwÄn , 
+XLevel 5 Line: 16 mÄhÄ«gÄn har Äk pad hamÄstÄrÄ«h xrafstar-Ä dÄd ÄstÄd . 
+
+XLevel 5 Line: 17 Level 3 Sentence: 69 kargÄs rÄy gÅwÄd kÅ« az Än Ä« bulandtar-iz parwÄz ka 
+XLevel 5 Line: 18 must-masÄy gÅÅ¡t pad zamÄ«g <bawÄd> , wÄnÄd ; u-Å¡ bÅy 
+XLevel 5 Line: 19 muÅ¡k azÄr Ä« parr dÄd ÄstÄd , kÅ« agar pad nasÄ xwardan 
+XLevel 5 Line: 20 gandagÄ«h nasÄ aziÅ¡ ÄyÄd , sar azÄr Ä« parr abÄz kunÄd , 
+XLevel 5 Line: 21 abÄz ÄsÄyÄd . Level 3 Sentence: 70 asp Ä« tÄzÄ«g rÄy gÅwÄd kÅ« agar pad Å¡ab Ä« 
+XLevel 5 Line: 22 tÄrÄ«k mÅy-Ä tÄg pad zamÄ«g sahÄd wÄnÄd . Level 3 Sentence: 71 xrÅs pad hamÄ\stÄrÄ«h 
+XLevel 5 Line: 23 dÄwÄn jÄdÅ«gÄn dÄd ÄstÄd , abÄg sag ham-kÄr hÄnd 
+XLevel 4 Page: 44 XLevel 5 Line: 1 ÄiyÅn gÅwÄd pad dÄn kÅ« az gÄtÄ«g dÄmÄn Än Ä« pad druz 
+XLevel 5 Line: 2 zadÄrÄ«h abÄg srÅÅ¡ ham-kÄr hÄnd xrÅs , ud sag . Level 3 Sentence: 72 Än-iz 
+XLevel 5 Line: 3 gÅwÄd kÅ« nÄ winÄrd hÄd <mÄn> ka-m nÄ dÄd hÄ sag Ä« Å¡u\bÄn , 
+XLevel 5 Line: 4 pasuÅ¡hÅrw , sag mÄnbÄn , Än Ä« wiÅ¡hÅrw . Level 3 Sentence: 73 ÄÄ gÅwÄd 
+XLevel 5 Line: 5 pad dÄn kÅ« sag pad Än Ä« pad hastÄ«h Ä« mardÅm ud Än Ä« 
+XLevel 5 Line: 6 gÅspand ÄdÅn druz zadÄr ÄiyÅn xÅ«g . Level 3 Sentence: 74 ÄÄ gÅwÄd kÅ« pad 
+XLevel 5 Line: 7 ÄaÅ¡m be ÅzanÄd hamÄg nasruÅ¡t . Level 3 Sentence: 75 ka wÄng kunÄd dard be 
+XLevel 5 Line: 8 ÅzanÄd . Level 3 Sentence: 76 u-Å¡ gÅÅ¡t ud pÄ«h pad sÄj ud dard az mardÅmÄn 
+XLevel 5 Line: 9 be zadan bÄÅ¡Äz . Level 3 Sentence: 77 ohrmazd tis-iz abÄ-sÅ«d nÄ afrÄ«d . Level 3 Sentence: 78 ÄÄ 
+XLevel 5 Line: 10 har ÄiÅ¡-Ä pad sÅ«dagÄ«h dÄd ÄstÄd . Level 3 Sentence: 79 ka-Å¡ Äim nÄ dÄnÄd 
+XLevel 5 Line: 11 az dastwaran abÄyÄd pursÄ«dan . Level 3 Sentence: 80 ÄÄ-Å¡ panja xÅ«g pad Än 
+XLevel 5 Line: 12 ÄwÄnag afrÄ«d kÅ« druz hamÄ ÅzanÄd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 018 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 18 
+
+Level 2 Chapter: XVIII XVIII 
+
+XLevel 6 IBd Location: 49,9 IBd _49,9 
+XLevel 7 TD1 Location: 70,2 TD1 _70,2 
+XLevel 8 TD2 Location: 84,10 TD2 _84,10 
+XLevel 9 DH Location: 44,18 DH _44,18 
+
+XLevel 5 Line: 13 abar ÄiyonÄ«h rÅdÄ«hÄ 
+
+XLevel 5 Line: 14 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« Än dÅ rÅd az abÄxtar [nÄmag 
+XLevel 5 Line: 15 harborz] nÄmag az harborz [Ä«] ohrmazd frÄz tazÄnÄ«d . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 2 Äk Å xwarwarÄn kÅ« arang , Äk Å xwarÄsÄn kÅ« weh rÅd . 
+
+XLevel 5 Line: 17 Level 3 Sentence: 3 az pas Ä« awÄÅ¡Än haÅ¡tdah rÅd az ham bun - [Ä«] xÄn frÄz 
+XLevel 5 Line: 18 tazÄ«d hÄnd . Level 3 Sentence: 4 ÄiyÅn abÄrÄ«g Äb az awÄÅ¡Än pad was maragÄ«h 
+XLevel 5 Line: 19 frÄz tazÄ«d ÄstÄd . Level 3 Sentence: 5 ÄiyÅn gÅwÄd kÅ« ÄdÅn zÅ«d zÅ«d Äk az 
+XLevel 5 Line: 20 did ne tazÄ«d hÄnd , ÄiyÅn mard-Ä kÄ aÅ¡imwohÅ«-Ä wohÅ«-Ä} az pad\isÄr 
+XLevel 5 Line: 21 be gÅwÄd . Level 3 Sentence: 6 awÄÅ¡Än hamÄg rÅd az ham Äb abÄz Å Än 
+XLevel 4 Page: 45 XLevel 5 Line: 1 <dÅ> rÅd gumÄxt hÄnd , ast arang rÅd <ud> weh rÅd awÄ\Å¡Än 
+XLevel 5 Line: 2 har dÅ pad dÅ kanÄrag[Ä«h] Ä« zamÄ«g hamÄ gardÄnd , 
+XLevel 5 Line: 3 pad-iz zrÄh widarÄnd , ud hamÄg kiÅ¡war xwÄrÄnd , az Än 
+XLevel 5 Line: 4 har dÅ zahÄg ; [Ä«] pas har dÅ be Å zrÄh Ä« frÄxwkard Å 
+XLevel 5 Line: 5 ham rasÄnd , abÄz Å bun-[Ä«] xÄnÄn rasÄnd kÅ« aziÅ¡ be 
+XLevel 5 Line: 6 tazÄ«d hÄnd . Level 3 Sentence: 7 ÄiyÅn gÅwÄd pad dÄn kÅ« ÅwÅn ÄiyÅn rÅÅ¡nÄ«h 
+XLevel 5 Line: 7 pad harborz andar ÄyÄd , pad harborz be Å¡awÄd , Äb-iz 
+XLevel 5 Line: 8 pad harborz be ÄyÄd ud pad harborz be Å¡awÄd . Level 3 Sentence: 8 Än-iz 
+XLevel 5 Line: 9 gÅwÄd kÅ« mÄnÅg Ä« arang az ohrmazd xwÄst kÅ« fradom 
+XLevel 5 Line: 10 harwispÄ«n Å¡nÄyÄnÄ«dÄrÄ«h kÄ weh rÅd nÄkÄ«h aziÅ¡ [be 
+XLevel 5 Line: 11 xwÄst kÅ«] be dah , pas pad man a-margÄ«h be dah . Level 3 Sentence: 9 mÄ\nÅg 
+XLevel 5 Line: 12 Ä« weh rÅd az ohrmazd arang rÅd rÄy ÄdÅn xwÄst 
+XLevel 5 Line: 13 dÅÅ¡Äram . Level 3 Sentence: 10 ayÄrÄ«h Äk andar did rÄy pad ham-zÅrÄ«h frÄz 
+XLevel 5 Line: 14 tazÄ«d hÄnd , ÄiyÅn pÄÅ¡ az madan Ä« Äbgat a-taziÅ¡n frÄz 
+XLevel 5 Line: 15 bÅ«d hÄnd , ud ka druz be ÅzanÄnd a-taziÅ¡n abÄz bawÄnd . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 11 Än haÅ¡tdah rÅd mÄdagwar , ud az arang rÅd <ud> weh rÅd 
+XLevel 5 Line: 17 abÄrÄ«g-iz rÅdÄ«hÄ az awÄÅ¡Än be tazÄ«d hÄnd . Level 3 Sentence: 12 Än Ä« nÄmÄi/Å¡tÄ«gtar 
+XLevel 5 Line: 18 gÅwÄm : arang rÅd , weh rÅd , diglit rÅd [weh 
+XLevel 5 Line: 19 rÅd] - <kÄ> digtal-iz xwÄnÄnd - frÄt rÅd , dÄitÄ« rÅd , 
+XLevel 5 Line: 20 darÎ³Äm rÅd , zÄ«ndag rÅd , harÄw rÅd , marw rÅd , hÄdmand 
+XLevel 5 Line: 21 rÅd , xÄnÅ¡Är rÅd , wÄtaini rÅd , ziÅ¡mand rÅd , xujand 
+XLevel 5 Line: 22 rÅd , balx rÅd , mihrÄn rÅd - kÄ hindÅ«gÄn rÅd xwÄnÄnd - spÄd 
+XLevel 5 Line: 23 rÅd , turd rÅd - kÄ kur-iz xwÄnÄnd - xÅrÄ«g rÅd - 
+XLevel 4 Page: 46 XLevel 5 Line: 1 kÄ masragÄn-iz xwÄnÄnd - harÄz rÅd , turmad rÅd , na\inaidiÅ¡ 
+XLevel 5 Line: 2 rÅd , dÄrÄja rÅd , kÄsag rÅd , Å¡Äd rÅd , paydÄg\mayÄn 
+XLevel 5 Line: 3 <rÅd> , ÄihrÅmÄhanÄb rÅd , <ud> mukrestÄn rÅd . Level 3 Sentence: 13 u\man 
+XLevel 5 Line: 4 gÅkÄnÄ«g gÅwÄm : arang rÅd Än Ä« guft kÅ« az harborz 
+XLevel 5 Line: 5 be ÄyÄd pad sÅ«rÄ«g bÅ«m - kÄ-Å¡ Å¡Äm-iz xwÄnÄnd - pad 
+XLevel 5 Line: 6 agiptus bÅ«m - kÄ misr-iz xwÄnÄnd - be widerÄd u-Å¡ Än\Åh 
+XLevel 5 Line: 7 rÅd Ä« nÄ«w xwÄnÄnd . Level 3 Sentence: 14 weh rÅd pad xwarÄsÄn be wide\rÄd , 
+XLevel 5 Line: 8 pad sÄnd bÅ«m Å¡awÄd , pad hindÅ«stan Å zrÄh rÄzÄd 
+XLevel 5 Line: 9 u-Å¡ ÄnÅh mihrÄn rÅd xwÄnÄnd . Level 3 Sentence: 15 frÄt rÅd bun - [Ä«] xÄnÄn 
+XLevel 5 Line: 10 az wimand hrÅm , pad sÅ«restÄn xwÄrÄnd , Å diglit rÅd 
+XLevel 5 Line: 11 rÄzÄd u-Å¡ frÄt<Ä«h> Äd kÅ« abar zamÄ«g xwariÅ¡n kunÄnd . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 16 paydÄg kÅ« Än bun - [Ä«] xÄnÄn manuÅ¡Äihr , kand , Äb hamÄg 
+XLevel 5 Line: 13 abÄz Å Äk gyÄg abgand . Level 3 Sentence: 17 ÄiyÅn gÅwÄd kÅ« yazÄm frÄt Ä« 
+XLevel 5 Line: 14 purr mÄhÄ«g kÄ xwad ruwÄn rÄy kand manuÅ¡Äihr , Äb 
+XLevel 5 Line: 15 stad , xwarÄnÄ«d . Level 3 Sentence: 18 diglit rÅd az arman be ÄyÄd , pad xu\zestan 
+XLevel 5 Line: 16 Å zrÄh rÄzÄd . Level 3 Sentence: 19 dÄitÄ«g rÅd az ÄrÄn-wÄz be ÄyÄd 
+XLevel 5 Line: 17 pad kÅf Ä« gurjestÄn be Å¡awÄd , az hamÄg rÅd xrafstar 
+XLevel 5 Line: 18 andar Än wÄÅ¡ . Level 3 Sentence: 20 ÄiyÅn gÅwÄd kÅ« dÄitÄ«<g> rÅd purr xra\fstar . 
+
+XLevel 5 Line: 19 Level 3 Sentence: 21 darÎ³Äm rÅd pad sugud . Level 3 Sentence: 22 zand rÅd pad kÅf Ä« pan\jestÄn 
+XLevel 5 Line: 20 widerÄd abÄz Å harÄw rÅd rÄzÄd harÄw rÅd az 
+XLevel 5 Line: 21 abarsÄn gar be tazÄd . Level 3 Sentence: 23 hÄdmand rÅd pad sagestÄn , u-Å¡ 
+XLevel 5 Line: 22 bun-[Ä«] xÄnÄn az abarsÄn gar . Level 3 Sentence: 24 Än jud az Än Ä« frÄs\iyÄb 
+XLevel 5 Line: 23 spurd , rÅd Ä« xÄnÅ¡Är pad kÅmiÅ¡ Level 3 Sentence: 25 ziÅ¡mand rÅd pad 
+XLevel 4 Page: 47 XLevel 5 Line: 1 kust Ä« sugud abÄz Å xujand rÅd rÄzÄd . Level 3 Sentence: 26 xujand rÅd pad 
+XLevel 5 Line: 2 mayÄn Ä« samarkand <ud> fragÄna be Å¡awÄd , u-Å¡ rÅd-iz 
+XLevel 5 Line: 3 aÅ¡Ärad xwÄnÄnd . Level 3 Sentence: 27 marw rÅd , rÅd Ä« xwarrahÅmand , pad 
+XLevel 5 Line: 4 xwarÄsÄn az abarsÄn gar be tazÄd balx rÅd <az> abar\sÄn 
+XLevel 5 Line: 5 kÅf Ä« bÄmÄ«gÄn be ÄyÄd , be Å weh rÅd rÄzÄd . Level 3 Sentence: 28 spÄd 
+XLevel 5 Line: 6 rÅd pad ÄdurbÄdagÄn , gÅwÄnd kÅ« : dahÄg Äyaft az ahre\man 
+XLevel 5 Line: 7 <ud> dÄwÄn Ädar xwÄst . Level 3 Sentence: 29 turd rÅd - kÄ kur-iz xwÄ\nÄnd 
+XLevel 5 Line: 8 - az zrÄh Ä« kÄ«glÄn be ÄyÄd Å zrÄh Ä« gurgÄn rÄzÄd . 
+
+XLevel 5 Line: 9 Level 3 Sentence: 30 zÄb Än rÅd <Ä«> az adurbÄdagÄn be ÄyÄd pad pÄrs Å zrÄh 
+XLevel 5 Line: 10 rÄzÄd . Level 3 Sentence: 31 bun [Ä«] xÄnÄn az spÄhÄn pad xÅ«zestÄn 
+XLevel 5 Line: 11 be widerÄd , frÄz Å diglit rÅd rÄzÄd . Level 3 Sentence: 32 u-Å¡ pad spÄhÄn 
+XLevel 5 Line: 12 masragÄn rÅd xwÄnÄnd . Level 3 Sentence: 33 harÄz rÅd pad tabarestÄn u-Å¡ 
+XLevel 5 Line: 13 bun - [Ä«] xÄnÄn az kÅf Ä« damÄwand . Level 3 Sentence: 34 turmad rÅd abÄz Å 
+XLevel 5 Line: 14 weh rÅd rÄzÄd . Level 3 Sentence: 35 wandiÅ¡ rÅd pad pÄrt kÄ sagestÄn xwÄ\nÄnd . 
+
+XLevel 5 Line: 15 Level 3 Sentence: 36 kÄsag rÅd pad kÄf pad tÅ«s Å¡ahr be ÄyÄd , u-Å¡ 
+XLevel 5 Line: 16 ÄnÅh kaÅ¡af rÅd xwÄnÄnd . Level 3 Sentence: 37 Än ham rÅd Ä« weh , ÄnÅh kÄsag 
+XLevel 5 Line: 17 xwÄnÄnd ; pad-iz sind kÄsag xwÄnÄnd . Level 3 Sentence: 38 paydÄg mayÄn [Ä«] 
+XLevel 5 Line: 18 rÅd ÄihrÅmÄhan Än Ä« pad kang-diz . Level 3 Sentence: 39 dÄrÄja rÅd pad ÄrÄn\wÄz , 
+XLevel 5 Line: 19 kÄ-Å¡ mÄn Ä« pÅrÅ¡asp pidar Ä« zarduxÅ¡t pad bÄr bÅ«d . 
+
+XLevel 5 Line: 20 Level 3 Sentence: 40 abÄrÄ«g a-mar Äb ud rÅd ud xÄnÄ«g , kahas<Ä«hÄ> ast kÄ 
+XLevel 5 Line: 21 awÄÅ¡Än bun Äk ÄdÅn pad Å¡ahr Å¡ahr gyÄg gyÄg pad nÄm 
+XLevel 5 Line: 22 nÄm xwÄnÄnd . Level 3 Sentence: 41 frÄsiyÄb rÄy gÅwÄd kÅ«-Å¡ andar zrÄh kay\ÄnsÄ 
+XLevel 5 Line: 23 hazÄr xÄnÄ«g be spurd Ä« asp-zahÄ , uÅ¡tar-zahÄ , 
+XLevel 4 Page: 48 XLevel 5 Line: 1 gÄw-zahÄ , xar-zahÄ , meh-iz , keh-iz . Level 3 Sentence: 42 u-Å¡ spurd andar 
+XLevel 5 Line: 2 ham zrÄh man Ä« zarrÄnÅmand kÄ hÄdmand rÅd gÅwÄnd , u-Å¡ 
+XLevel 5 Line: 3 xÄn Ä« wÄtaini rÅd haft Äb Ä« nÄydÄg andar ham zrÄh 
+XLevel 5 Line: 4 spurd , mardÅm niÅ¡astag kard . Level 3 Sentence: 43 pad dÄn haftdah sardag 
+XLevel 5 Line: 5 Äb gÅwÄnd : ÄiyÅn Äb Äk abar urwarÄn niÅ¡Ä«nÄd , dudÄ«gar 
+XLevel 5 Line: 6 Än Ä« garÄn taziÅ¡n ast Ä« rÅdÄ«hÄ , sidÄ«gar Än Ä« wÄrÄnÄ«g 
+XLevel 5 Line: 7 Äb , ÄahÄrom Än Ä« <ÄÄhÄ«g Än Ä«> armÄÅ¡t , abarÄ«g a-namÄi\Å¡tÄ«g : 
+XLevel 5 Line: 8 panjom Å¡uhr Ä« gÅspandÄn <ud> mardÅmÄn Å¡aÅ¡om gÅ\mÄz 
+XLevel 5 Line: 9 Ä« gÅspandÄn <ud> mardÅmÄn , haftom xayÅ«g gÅspandÄn <ud> 
+XLevel 5 Line: 10 mardÅmÄn , haÅ¡tom Äb [Ä«] Än Ä« andar pÅst Ä« gÅspandÄn 
+XLevel 5 Line: 11 <ud> mardÅmÄn , nohom ars Ä« gÅspandÄn <ud> mardÅmÄn da\hom 
+XLevel 5 Line: 12 xÅn Ä« gÅspandÄn <ud> mardÅmÄn , yazdahom rÅÎ³n Ä« 
+XLevel 5 Line: 13 andar gÅspandÄn <ud> mardÅmÄn andar har dÅ axwÄn kÄ\mag , 
+XLevel 5 Line: 14 dwÄzdahom xwÄy gÅspandÄn <ud> mardÅmÄn , <sÄzdahom 
+XLevel 5 Line: 15 Än Ä« andar pestÄn Ä« gÅspandÄn ud mardÅmÄn> kÄ pus pad\-iÅ¡ 
+XLevel 5 Line: 16 parwarÄnd . Level 3 Sentence: 44 ÄahÄrdahom Än Ä« azÄr Ä« Äwan Ä« urwarÄn . Level 3 Sentence: 45 Äi\yÅn 
+XLevel 5 Line: 17 guft kÅ« har Äwan-Ä Äb-Ä sreÅ¡k pad tah , ÄtaxÅ¡ ÄahÄr 
+XLevel 5 Line: 18 angust pÄÅ¡ pad-iÅ¡ . Level 3 Sentence: 46 pÄnzdahom Å¡Ä«r Ä« gÅspandÄn <ud> mardÅ\mÄn . 
+
+XLevel 5 Line: 19 Level 3 Sentence: 47 Än harwisp pad waxÅ¡Ä«h ayÄb tanÄ«gardÄ«g abÄz Å Än 
+XLevel 5 Line: 20 ÄbÄ«hÄ gumÄzÄd . Level 3 Sentence: 48 ÄÄ <Äb> Än Ä« tanÄ«gardÄ«g <ud> waxÅ¡Ä«h har 
+XLevel 5 Line: 21 dÅ Äk ast . Level 3 Sentence: 49 Än-iz gÅwÄd kÅ« Än sÄ rÅd ast arang rÅd ud marw 
+XLevel 5 Line: 22 rÅd <ud> weh rÅd a-hunsand bÅ«d hÄnd mÄnÅg Ä« awÄÅ¡Än kÅ« an\dar 
+XLevel 5 Line: 23 gÄtÄ«g nÄ tazÄnd az ÄhÅgÄniÅ¡n [Ä«]<ud> a-rÄmiÅ¡t Ä«-Å¡Än dÄ«d 
+XLevel 4 Page: 49 XLevel 5 Line: 1 kÅ«-Å¡Än andar ÄbgatÄ«h padiÅ¡ bÅ«d , tÄ-Å¡Än <ohrmazd> zarduxÅ¡t 
+XLevel 5 Line: 2 be nimÅ«d kÅ« be dahÄm kÄ-t hÅm zÅhr aw-iÅ¡ rÄzÄd , drust 
+XLevel 5 Line: 3 abÄz kunÄd , pahrÄz be gÅwÄd . Level 3 Sentence: 50 Än-iz gÅwÄd kÅ« Äb kÄ 
+XLevel 5 Line: 4 zÅhr wÄÅ¡ ud hixr kam [zÅhr wÄÅ¡] mad ÄstÄd , pad sÄ 
+XLevel 5 Line: 5 sÄl abÄz Å bun - [Ä«] xÄn Å¡awÄd ; ka hixr [wÄÅ¡] ud zÅhr 
+XLevel 5 Line: 6 har dÅ rÄst abar mad ÄstÄd , pad Å¡aÅ¡ sÄl abÄz rasÄd ; 
+XLevel 5 Line: 7 ka hixr wÄÅ¡ ud zÅhr kam pad nÅ sÄl abÄz rasÄd . Level 3 Sentence: 51 ÅwÅn\iz 
+XLevel 5 Line: 8 urwarÄn rÅyiÅ¡n pad Än ÄwÄnag nÄrÅg Å bun bawÄnd . 
+
+XLevel 5 Line: 9 Level 3 Sentence: 52 ÄdÅn-iz ÄfrÄ«n Ä« ahlawÄn kunÄnd pad Än paymÄnag abÄz 
+XLevel 5 Line: 10 Å xwad rasÄnd . Level 3 Sentence: 53 rÅd Ä« wÄtaini rÄy gÅwÄd kÅ« frÄsiyÄb Ä« 
+XLevel 5 Line: 11 tÅ«r be Å <wazr> spurd , ka huÅ¡Ädar !} rasÄd , asp-zahÄ 
+XLevel 5 Line: 12 abÄz tazÄd . Level 3 Sentence: 54 ÄdÅn-iz ÄaÅ¡magÄ«hÄ zrÄh kayÄnsÄ . Level 3 Sentence: 55 kayÄnsÄ 
+XLevel 5 Line: 13 Äd kÅ« tÅhmag Ä« kayÄn Än gyÄg ast . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 019 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 19 
+
+Level 2 Chapter: XIX XIX 
+
+XLevel 6 IBd Location: 55,5 IBd _55,5 
+XLevel 7 TD1 Location: 75,12 TD1 _75,12 
+XLevel 8 TD2 Location: 91,12 TD2 _91,12 
+XLevel 9 DH Location: 49,2 DH _49,2 
+
+XLevel 5 Line: 14 abar ÄiyÅnÄ«h warÄ«hÄ 
+
+XLevel 5 Line: 15 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« Än and ÄaÅ¡mag Ä« ÄbÄn Å pay\dÄgÄ«h 
+XLevel 5 Line: 16 mad hÄnd kÄ war xwÄnÄnd , handÄzag Ä« ÄaÅ¡m Ä« mar\dÅmÄn , 
+XLevel 5 Line: 17 awÄÅ¡Än ÄaÅ¡mag Ä« ÄbÄn hÄnd ; ÄiyÅn war Ä« ÄÄÄast , 
+XLevel 5 Line: 18 war Ä« sÅ«bar , war Ä« xwÄrazm , war Ä« frazdÄn , war Ä« za\rrÅmand , 
+XLevel 5 Line: 19 war Ä« aswÄst , war Ä« husraw , war Ä« sadwÄs , 
+XLevel 5 Line: 20 war Ä« urwÄÅ¡ u-Å¡Än gÅkÄn gÅwÄm : war Ä« ÄÄÄast andar Äd\urbÄdagÄn , 
+XLevel 5 Line: 21 garm-Äb , jud-bÄÅ¡ kÅ« tis-iz gyÄnwar andar 
+XLevel 4 Page: 50 XLevel 5 Line: 1 nÄ bawÄd , u-Å¡ bun Å zrÄh frÄxwkard paywast ÄstÄd . 
+
+XLevel 5 Line: 2 Level 3 Sentence: 2 war Ä« sÅ«bar pad abar-Å¡ahr [ud] bÅ«m , pad sar Ä« kÅf Ä« 
+XLevel 5 Line: 3 tÅ«s , ÄiyÅn gÅwÄd kÅ« sÅ«d-bahr<Ä«h> , hu-ÄaÅ¡mÄ«<h> , weh\Ä«<h> , 
+XLevel 5 Line: 4 abzÄyiÅ¡nÄ«g<Ä«h> , radÄ«h aziÅ¡ be dÄd ÄstÄd . Level 3 Sentence: 3 war 
+XLevel 5 Line: 5 Ä« xwÄrazm rÄy gÅwÄd kÅ« <Än> sÅ«d <ud> nÄkÄ«h aziÅ¡ be 
+XLevel 5 Line: 6 dÄd ÄstÄd arÅ¡iÅ¡wang Ä« xwÄstag tuwÄngar<Ä«h> [Ä«] hÅ«\bahr<Ä«h> 
+XLevel 5 Line: 7 abzÄyiÅ¡nÄ«g<Ä«h> urwÄhmanÄ«h . Level 3 Sentence: 4 war Ä« frazdÄn 
+XLevel 5 Line: 8 pad sagestÄn . Level 3 Sentence: 5 gÅwÄnd kÅ« ÄzÄd mard-Ä ahlaw ÄiÅ¡-Ä aw\iÅ¡ 
+XLevel 5 Line: 9 abganÄd , padÄ«rÄd , ka nÄ ahlaw , abÄz Å bÄrÅn Äb ab\ganÄd ; 
+XLevel 5 Line: 10 Än-iz bun ÄaÅ¡mag Å zrÄh frÄxwkard paywast Äs\tÄd . 
+
+XLevel 5 Line: 11 Level 3 Sentence: 6 war Ä« zarrÅmand pad hamadÄn gÅwÄnd . Level 3 Sentence: 7 war Ä« asw\Äst 
+XLevel 5 Line: 12 rÄy paydÄg kÅ« Än Ä« a-winast-Ä [Ä«] ast hamwÄr an\dar 
+XLevel 5 Line: 13 zrÄh hamÄ tazÄd . Level 3 Sentence: 8 ÅwÅn rÅÅ¡n xwarrahÅmand ÄiyÅn 
+XLevel 5 Line: 14 gÅwÄd kÅ« xwarÅ¡Äd payrÅg mad <ayÄb> war Ä« aswÄst rÄy 
+XLevel 5 Line: 15 dÄ«d . Level 3 Sentence: 9 andar Än Äb [Ä«] pad fraÅ¡agird [abÄyÄd] rist wirÄ\stan 
+XLevel 5 Line: 16 rÄy andar abÄyÄd . Level 3 Sentence: 10 war Ä« husraw pad panjÄh fras\ang 
+XLevel 5 Line: 17 <Ä«> war Ä« ÄÄÄast war Ä« sadwÄs Än Ä« nibiÅ¡t pad 
+XLevel 5 Line: 18 mayÄn Ä« zrÄh frÄxwkard Än Ä« pÅ«idÄ«g . Level 3 Sentence: 11 gÅwÄd kÅ« pad da\mandÄn 
+XLevel 5 Line: 19 zofr-Ä ast kÄ hamwÄr <dÅ«d> aziÅ¡ ÄyÄd ; har 
+XLevel 5 Line: 20 ÄiÅ¡ andar abganÄnd jud az gyÄnwar , u-Å¡ nÄ padÄ«rÄd , 
+XLevel 5 Line: 21 ka-Å¡ gyÄnwar awiÅ¡ andar abganÄnd frÅd barÄd . Level 3 Sentence: 12 mardÅ\mÄn 
+XLevel 5 Line: 22 gÅwÄnd kÅ« az duÅ¡ox ÄaÅ¡mag-Ä padiÅ¡ ast . Level 3 Sentence: 13 war Ä« 
+XLevel 5 Line: 23 urwÄÅ¡ pad puÅ¡t <Ä«> hugar Ä« buland . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 020 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 20 
+
+Level 2 Chapter: XX XX 
+XLevel 4 Page: 51 
+XLevel 6 IBd Location: 56,14 IBd _56,14 
+XLevel 7 TD1 Location: 89,16 TD1 _89,16 
+XLevel 8 TD2 Location: 108,8 TD2 _108,8 
+XLevel 9 DH Location: 59,8 DH _59,8 
+
+XLevel 5 Line: 1 abar ÄiyÅnÄ«h kabÄ«g ud xirs 
+
+XLevel 5 Line: 2 Level 3 Sentence: 1 gÅwÄd kÅ« jam ka xwarrah aziÅ¡ be Å¡ud , bÄ«m Ä« 
+XLevel 5 Line: 3 dÄw rÄy dÄw-Ä pad zanÄ«h kard , ud jamag kÄ xwahar bÅ«d , 
+XLevel 5 Line: 4 pad zanÄ«h Å dÄw-Ä dÄd . Level 3 Sentence: 2 u-Å¡Än kabÄ«g ud xirs dumb<Å>\mand 
+XLevel 5 Line: 5 abÄrÄ«g winÄhiÅ¡nÄ«g sardag aziÅ¡ bÅ«d hÄnd . Level 3 Sentence: 3 Än-iz 
+XLevel 5 Line: 6 gÅwÄd kÅ« azdahÄg , andar xwadÄyÄ«h , juwÄn zan<-Ä> dÄw 
+XLevel 5 Line: 7 abar hiÅ¡t , ud juwÄn mard<-Ä> abar parÄ«g hiÅ¡t ; u-Å¡Än 
+XLevel 5 Line: 8 pad dÄ«dar Ä« Åy marziÅ¡n kard , kÄ Än Äk guÅ¡nÄ«h zangÄ«g , 
+XLevel 5 Line: 9 syÄ-pÅst aziÅ¡ bÅ«d . Level 3 Sentence: 4 ka frÄdÅn mad , [Å] awÄÅ¡Än az 
+XLevel 5 Line: 10 ÄrÄn-Å¡ahr dwÄrist pad kanÄrag Ä« zrÄh niÅ¡astag kard . 
+
+XLevel 5 Line: 11 Level 3 Sentence: 5 nÅ«n <pad> dwÄristan Ä« tÄzÄ«gÄn abÄz Å ÄrÄn-Å¡ahr gum\Äxt 
+XLevel 5 Line: 12 hÄnd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 021 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 21 
+
+Level 2 Chapter: XXI XXI 
+
+XLevel 6 IBd Location: 57,5 IBd _57,5 
+XLevel 7 TD1 Location: 99,3. TD1 _99,3 
+XLevel 8 TD2 Location: 120,3 TD2 _120,3 
+
+XLevel 5 Line: 13 Level 3 Sentence: 1 abar radÄ«h Ä« mardÅmÄn <ud> gÅspandÄn har ÄiÅ¡-Ä 
+XLevel 5 Line: 14 pad dÄn gÅwÄd kÅ«<-m> fradom mardÅm sardag , 
+XLevel 5 Line: 15 gayÅmart !} brÄhÄnÄ«d rÅÅ¡n Ä« spÄd-[Ä«] dÅysar . Level 3 Sentence: 2 kÄ Åy meh 
+XLevel 5 Line: 16 be dÄ«d , Åy <nÄ> rad ; ÄÄ zarduxÅ¡t rad [tom] hamÄg ÄiÅ¡ 
+XLevel 5 Line: 17 radÄ«h az zarduxÅ¡t bÅ«d . Level 3 Sentence: 3 xarbuz Ä« spÄd kÄ sar frÅd dÄ\rÄd , 
+XLevel 5 Line: 18 buzÄn rad , fradom <az> awÄÅ¡Än sardagÄn <Åy> dÄd 
+XLevel 5 Line: 19 mÄÅ¡ Ä« syÄ Ä« dabr Ä« spÄd-ÄrwÄr mÄÅ¡Än rad , fradom az 
+XLevel 4 Page: 52 XLevel 5 Line: 1 awÄÅ¡Än sardagÄn Åy dÄd . Level 3 Sentence: 4 uÅ¡tar Ä« spÄd-mÅy uÅ¡nÅ«g Ä« dÅ 
+XLevel 5 Line: 2 kÅfÄn uÅ¡tarÄn rad . Level 3 Sentence: 5 fradom gÄw Ä« syÄ-mÅy zard-uÅ¡nÅ«g 
+XLevel 5 Line: 3 dÄd Än ast gÄwÄn rad . Level 3 Sentence: 6 fradom asp Ä« arus Ä« zard-gÅÅ¡ 
+XLevel 5 Line: 4 Å¡Äd-wars , spÄd ÄaÅ¡m-pÅst , frÄz brÄhÄnÄ«d , Än ast asp\Än 
+XLevel 5 Line: 5 rad . Level 3 Sentence: 7 xar Ä« spÄd , gurbag-pÄy xarÄn rad . Level 3 Sentence: 8 fradom az 
+XLevel 5 Line: 6 sag , sag Ä« arus Ä« zard mÅy brÄhÄnÄ«d , Åy ast sagÄn 
+XLevel 5 Line: 7 rad . Level 3 Sentence: 9 xar-gÅÅ¡ Ä« hÅr frÄz brÄhÄnÄ«d , Åy ast frÄx-raftÄ\rÄn 
+XLevel 5 Line: 8 rad ; awÄÅ¡Än dadÄn nÄ dast-hammÅg hÄnd , ÄÄ geriÅ¡ 
+XLevel 5 Line: 9 ag hÄnd . Level 3 Sentence: 10 fradom az murwÄn sÄn Ä« sÄ angurÄg dÄd , nÄ 
+XLevel 5 Line: 10 Åy rad ÄÄ [ÄÄ] karÅ¡ift rad , - kÄ Äarg xwÄnÄnd -, Än 
+XLevel 5 Line: 11 kÄ dÄn Å war <Ä«> jam-kard burd . Level 3 Sentence: 11 fradom az rasÅ«gÄn kÄ\kom 
+XLevel 5 Line: 12 Ä« spÄd brÄhÄnÄ«d , Åy ast rasÅ«gÄn rad . Level 3 Sentence: 12 ÄiyÅn gÅwÄd 
+XLevel 5 Line: 13 kÅ« kÄkom Ä« spÄd kÄ <Å> awÄÅ¡Än hanjaman Ä« amahraspan\dÄn 
+XLevel 5 Line: 14 be mad . Level 3 Sentence: 13 karr-mÄhÄ«g araz dÄmÄn Ä« abÄ«gÄn rad . Level 3 Sentence: 14 dÄi\tÄ« 
+XLevel 5 Line: 15 rÅd tazÄgÄn <ÄbÄn> rad . Level 3 Sentence: 15 dÄrÄja rÅd rÅd-bÄrÄn rad , 
+XLevel 5 Line: 16 ÄÄ-Å¡ man Ä« pidar zarduxÅ¡t pad bÄlÄy , zarduxÅ¡t ÄnÅh 
+XLevel 5 Line: 17 zÄd . Level 3 Sentence: 16 arus Ä« razÅ«r , razÅ«rÄn rad . Level 3 Sentence: 17 hugar Ä« buland kÄ Äb 
+XLevel 5 Line: 18 ardwÄ«sÅ«r padiÅ¡ tazÄd <ud> jahÄd bÄlistÄn rad . Level 3 Sentence: 18 ÄnÅh 
+XLevel 5 Line: 19 kÄ star Ä« sad gardiÅ¡n , azabar dubarÄn rad . Level 3 Sentence: 19 hÅm Ä« 
+XLevel 5 Line: 20 hÅ«d bajagÄn urwarÄn rad . Level 3 Sentence: 20 gandum stabr-dÄnag jÅrdÄgÄn 
+XLevel 5 Line: 21 rad . Level 3 Sentence: 21 dramna ?} Ä« daÅ¡tÄ«g a-bajagÄn rad . Level 3 Sentence: 22 alum Ä« hÄmÄ«nÄ«g 
+XLevel 5 Line: 22 kÄ gÄwars-iz xwÄnÄnd - kÅdak dÄnag jÅrdÄgÄn rad . 
+
+XLevel 5 Line: 23 Level 3 Sentence: 23 kustÄ«g wistaragÄn rad . Level 3 Sentence: 24 bÄzÄbÄn zrÄhÄ«hÄ rad . Level 3 Sentence: 25 dÅ mard 
+XLevel 4 Page: 53 XLevel 5 Line: 1 ka ÄgenÄn frÄz rasÄnd , Än Ä« dÄnÄgtar rÄst-gÅwiÅ¡ntar 
+XLevel 5 Line: 2 rad . Level 3 Sentence: 26 Än-iz gÅwÄd pad dÄn kÅ«-m Än-Ä harwisp axw Ä« ast\ÅmÄnd 
+XLevel 5 Line: 3 <man> ohrmazd dÄd kÅ« hamÄg Äk hÄnd ÄÄ rÄy [ud] 
+XLevel 5 Line: 4 xwarrah [Ä«] <ud> xwÄÅ¡-kÄrÄ«h pad gÄhÄn was ast , har [ÄÄ] 
+XLevel 5 Line: 5 kÄ Än Ä« weh warzÄd <ud> kunÄd Ä-Å¡ Äb , arz <wÄÅ¡> . Level 3 Sentence: 27 ÄÄ 
+XLevel 5 Line: 6 Äb rÄy hamÄg hamÄl dÄd , bÄ ardwÄ«sÅ«r Äb [Ä«] kÄ mahist 
+XLevel 5 Line: 7 Äb Ä« xwanirah , <harwisp Äb andar> asmÄn zamÄ«g arzÄd 
+XLevel 5 Line: 8 jud az arang rÅd weh rÅd . Level 3 Sentence: 28 az urwarÄn mÅrd xormÄ kÄ 
+XLevel 5 Line: 9 urwar abar-kirrÄnÄ«dag gÅwÄd , harwisp urwar Ä« xwani\rah 
+XLevel 5 Line: 10 arzÄd , jud az Än gÅkirin draxt Ä«-Å¡ rist padiÅ¡ 
+XLevel 5 Line: 11 wigrÄs<Ä>nd . Level 3 Sentence: 29 az kÅfÄ«hÄ kÅf Ä« abarsÄn bun dÄrÄd pad 
+XLevel 5 Line: 12 sagestÄn sar pad ÄÄ«nestÄn , ast Ä« hamÄg kÅf Ä« pÄrt 
+XLevel 5 Line: 13 gÅwÄ<n>d harwisp kÅfÄ«hÄ rad ; jud az harborz . Level 3 Sentence: 30 az mur\wÄn 
+XLevel 5 Line: 14 ÄamruÅ¡ rad , kÄ Å harwisp murw Ä« pad xwanirah ar\zÄd 
+XLevel 5 Line: 15 jud az sÄn Ä« sÄ angurÄg . Level 3 Sentence: 31 hangird Än kÅ« har kÄ 
+XLevel 5 Line: 16 kÄr Ä« meh kunÄd Äg-iÅ¡ arz wÄÅ¡ . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 022 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 22 
+
+Level 2 Chapter: XXII XXII 
+
+XLevel 6 IBd Location: 59,12 IBd _59,12 
+XLevel 7 TD1 Location: 132,3 TD1 _132,3 
+XLevel 8 TD2 Location: 157,12 TD2 _157,12 
+
+XLevel 5 Line: 17 abar kÄr Ä« dÄn 
+
+XLevel 5 Line: 18 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ«-m dÄm Ä« gÄtÄ«g pad sÄsad <ud> 
+XLevel 5 Line: 19 Å¡ast <ud> panj rÅz hangÄrd <ud> dÄd , ast Å¡aÅ¡ gÄh Ä« 
+XLevel 5 Line: 20 gÄhÄnbÄr Ä« , pad sÄl-Ä hangÄrd ÄstÄd . Level 3 Sentence: 2 hamÄ nazdist rÅz 
+XLevel 5 Line: 21 abÄyÄd ÅÅ¡mÄrÄnÄ«dan [pad] pas Å¡ab , ÄÄ nazdist rÅz be 
+XLevel 4 Page: 54 XLevel 5 Line: 1 Å¡awÄd pas Å¡ab be ÄyÄd . Level 3 Sentence: 3 ud az mÄdÅÅ¡im gÄh Ä« ast mÄh 
+XLevel 5 Line: 2 Ä« tÄ«r wihÄzagÄ«g rÅz xwar tÄ mÄdyÄrim gÄh , Ä« ast mÄh 
+XLevel 5 Line: 3 Ä« day wihÄzagÄ«g rÅz wahrÄm rÅz keh Å¡ab abzÄyÄd ; ud 
+XLevel 5 Line: 4 az mÄdyÄrim gÄh tÄ mÄdÅÅ¡im gÄh Å¡ab be kÄhÄd , rÅz ab\zÄyÄd . 
+
+XLevel 5 Line: 5 Level 3 Sentence: 4 rÅz Ä« hÄmÄ«nÄ«g Äand dÅ rÅz Ä« zamestÄnÄ«g kahist . 
+
+XLevel 5 Line: 6 Level 3 Sentence: 5 Å¡ab Ä« zamestÄnÄ«g Äand dÅ Å¡ab Ä« hÄmÄ«nÄ«g kahist . Level 3 Sentence: 6 rÅz Ä« 
+XLevel 5 Line: 7 hÄmÄ«nÄ«g dwÄzdah hÄsar , Å¡ab Å¡aÅ¡ hÄsar , Å¡ab Ä« zamestÄ\nÄ«g 
+XLevel 5 Line: 8 dwÄzdah hÄsar , rÅz Å¡aÅ¡ hÄsar . Level 3 Sentence: 7 <hÄsar>-Ä zamÄnÄ«g , 
+XLevel 5 Line: 9 <hÄsar-Ä> pad zamÄ«g . Level 3 Sentence: 8 ham ÄwÄnag , pad hamespadmaedÄm 
+XLevel 5 Line: 10 gÄh ast panjag pad mÄh Ä« spandarmad sar , rÅz <ud> Å¡ab 
+XLevel 5 Line: 11 rast abÄz bawÄd . Level 3 Sentence: 9 ÄiyÅn az mÄh Ä« frawardÄ«n rÅz Ä« ohr\mazd 
+XLevel 5 Line: 12 wihÄzagÄ«g tÄ mÄh Ä« mihr rÅz Ä« anagrÄn , wihÄza\gÄ«g 
+XLevel 5 Line: 13 bawÄd haft mÄh hÄmÄ«n ; ud az mÄh Ä« ÄbÄn rÅz ohr\mazd 
+XLevel 5 Line: 14 wihÄzagÄ«g tÄ mÄh Ä« spandarmad [Ä«] wihÄzagÄ«g <ud> 
+XLevel 5 Line: 15 panjag be Åy sar , bawÄd panj mÄh zamestÄn . Level 3 Sentence: 10 hÄrbed 
+XLevel 5 Line: 16 wizÄ«r <Ä«> nasÄ abÄrÄ«g ÄiÅ¡ pad hÄmÄ«n , zamestÄn az Än 
+XLevel 5 Line: 17 oÅ¡mÄr kunÄ<n>d . Level 3 Sentence: 11 pad Än panj mÄh Ä« hÄmÄ«n gÄh Ä« rÅzÄn 
+XLevel 5 Line: 18 Å¡abÄn panj - ÄÄ rapihwin Åh yazÄ<n>d - ÄÄ«yÅn bÄmdÄd 
+XLevel 5 Line: 19 gÄh hÄwan , nÄm-rÅz gÄh rapihwin ÄbÄrag gÄh uzÄrin . 
+
+XLevel 5 Line: 20 Level 3 Sentence: 12 ka stÄrag Å asman <Å> paydÄgÄ«h mad tÄ nÄm-Å¡ab gÄh Ä« 
+XLevel 5 Line: 21 ÄbsrÅ«srim , az nÄm-Å¡ab tÄ stÄrag a-baydÄg bawÄd gÄh 
+XLevel 5 Line: 22 uÅ¡ahin . Level 3 Sentence: 13 pad zamestÄn ÄahÄr gÄh , ÄÄ bÄmdÄd tÄ <gÄh Ä«> 
+XLevel 5 Line: 23 uzÄrin hamÄg <gah Ä«> hÄwan abÄrÄ«g<-iz> Äiyon-im guft 
+XLevel 4 Page: 55 XLevel 5 Line: 1 u-Å¡ Äim Än kÅ« zamestÄn ÄÅ¡ÄriÅ¡ pad kust Ä« abÄxtar kÅ« 
+XLevel 5 Line: 2 [abaxtar] kiÅ¡war wÅrÅ«barÅ¡t <ud> wÅrÅ«jarÅ¡t , hÄmÄ«n-iz 
+XLevel 5 Line: 3 bun - [Ä«] kadag pad nÄm-rÅz kÅ« kiÅ¡war fradadafÅ¡ widad\afÅ¡ . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 14 pad gÄh Ä« ÄbÄn wihÄzagÄ«g rÅz Ä« ohrmazd zames\tÄn 
+XLevel 5 Line: 5 zÅr gÄ«rÄd <ud> pad gÄhÄn andar ÄyÄd . Level 3 Sentence: 15 mÄnÅg Ä« ra\bihwin 
+XLevel 5 Line: 6 az azabar Ä« zamÄ«g Å azÄr Ä« zamÄ«g Å¡awÄd kÅ« xÄn 
+XLevel 5 Line: 7 Ä« ÄbÄn garmÄ«h ud xwÄdÄ«h pad Äb andar ÄyÄd , tÄ rÄÅ¡ag 
+XLevel 5 Line: 8 Ä« draxtÄn pad sardÄ«h huÅ¡k nÄ bawÄd . Level 3 Sentence: 16 ud mÄh Ä« day wi\hÄzagÄ«g 
+XLevel 5 Line: 9 rÅz Ä« Ädur Än Ä« zamestÄn pad wÄÅ¡ sardÄ«h Å 
+XLevel 5 Line: 10 ÄrÄn-wÄz rasÄd ; pad mÄh Ä« spandarmad wihÄzagÄ«g , tÄ 
+XLevel 5 Line: 11 sar zamestÄn , pad hamÄg gÄhÄn be rasÄd . Level 3 Sentence: 17 Äd rÄy mÄh Ä« 
+XLevel 5 Line: 12 day rÅz Ä« Ädur hamÄg gyÄg ÄtaxÅ¡ abrÅzÄnd , niÅ¡Än kun\Änd 
+XLevel 5 Line: 13 kÅ« zamestÄn mad . Level 3 Sentence: 18 pad Än panj mÄh Äb Ä« xÄnÄ«g ka\has 
+XLevel 5 Line: 14 hamÄg garm , ÄÄ rapihwin ÄnÅh garmÄ«h xwÄdÄ«h dÄrÄd , 
+XLevel 5 Line: 15 gÄh Ä« rapihwin nÄ yazÄnd . Level 3 Sentence: 19 ÄiyÅn mÄh Ä« frawardÄ«n rÅz 
+XLevel 5 Line: 16 Ä« ohrmazd bawÄd , zamestÄn nÄrÅg dÄrÄd Ä-Å¡ kÄhÄd , hÄ\mÄ«n 
+XLevel 5 Line: 17 az bun-kadag Ä« xwÄÅ¡ andar ÄyÄd , nÄrÅg pÄdixÅ¡ÄyÄ«h 
+XLevel 5 Line: 18 padÄ«rÄd , rapihwin az azÄr Ä« zamÄ«g abar ÄyÄd , bar Ä« 
+XLevel 5 Line: 19 draxtÄn pazzÄmÄnÄd . Level 3 Sentence: 20 Äd rÄy pad hÄmÄ«n Äb Ä« xÄnÄ«g sard , 
+XLevel 5 Line: 20 ÄÄ rapihwin ÄnÅh nÄst . Level 3 Sentence: 21 Än haft mÄh rapihwin Åh yazÄnd , 
+XLevel 5 Line: 21 hÄmÄ«n pad hamÄg zamÄ«g be rasÄd . Level 3 Sentence: 22 ud pad-iz kust Ä« hin\dÅ«stÄn 
+XLevel 5 Line: 22 ÄnÅh bun [Ä«] -kadag Ä« hÄmÄ«n nazdÄ«ktar , hamwÄr nÄ 
+XLevel 5 Line: 23 sard nÄ garm [hÄmÄ«n] ; ÄÄ pad Än hangÄm kÄ pÄdixÅ¡ÄyÄ«h 
+XLevel 4 Page: 56 XLevel 5 Line: 1 hÄmÄ«n , hamwÄr wÄrÄn garmÄ«h wÄÅ¡ be ÅzanÄd paydÄg nÄ bawÄd . 
+
+XLevel 5 Line: 2 Level 3 Sentence: 23 pad zamestÄn wÄrÄn nÄ wÄrÄd sardÄ«h wÄÅ¡ paydÄg nÄ ba\wÄd . 
+
+XLevel 5 Line: 3 Level 3 Sentence: 24 pad kust Ä« abÄxtar kÅ« ÄsÄliÅ¡n Ä« zamestÄn , hamwÄr 
+XLevel 5 Line: 4 sard , ÄÄ pad hÄmÄ«n wÄÅ¡ stambagtar zamestÄn ÄnÅh rÄy sardÄ«h 
+XLevel 5 Line: 5 ÄdÅn nÄ tuwÄn zadan kÅ« garm be kunÄd . Level 3 Sentence: 25 pad mayÄnag gyÄg 
+XLevel 5 Line: 6 sarmÄg Ä« zamestÄn garmÄg Ä« hÄmÄ«n zÅrÅmandÄ«hÄ be rasÄd . 
+
+XLevel 5 Line: 7 Level 3 Sentence: 26 did sÄl-Ä pad wardiÅ¡nÄ«g mÄh abÄg sÄl ÅÅ¡murdÄ«g nÄ rÄst . 
+
+XLevel 5 Line: 8 Level 3 Sentence: 27 Äd rÄy ÄÄ mÄh jÄr-Ä pad wÄ«st <ud> nÅ abÄz bawÄd , jÄr-\Ä 
+XLevel 5 Line: 9 pad sÄ«h , u-Å¡ Än Äk ÄahÄr zamÄn was . Level 3 Sentence: 28 ÄiyÅn gÅwÄd kÅ« 
+XLevel 5 Line: 10 harwisp drÅzÄnd kÅ« pad mÄh gÅwÄnd , bÄ kÄ gÅwÄnd kÅ« 
+XLevel 5 Line: 11 pad Å¡ast rÅz dÅ bÄr . Level 3 Sentence: 29 kÅ« sÄl az wardiÅ¡n Ä« mÄh hangÄrÄd , 
+XLevel 5 Line: 12 hÄmÄ«n pad zamestÄn , zamestÄn pad hÄmÄ«n ÄmÄzÄd . Level 3 Sentence: 30 Än kÅ« 
+XLevel 5 Line: 13 mÄh Ä« frawardÄ«n wihÄzagÄ«g mÄh Ä« ardwahiÅ¡t ud mÄh Ä« 
+XLevel 5 Line: 14 hordÄd wahÄr , mÄh tÄ«r mÄh amurdÄd mÄh Å¡ahrewar hÄmÄ«n , 
+XLevel 5 Line: 15 mÄh mihr , mÄh ÄbÄn , mÄh Ädur pÄdÄz , mÄh day , mÄh wah\man , 
+XLevel 5 Line: 16 mÄh spandarmad zamestÄn . Level 3 Sentence: 31 ud xwarÅ¡Äd az Än xwur\dag 
+XLevel 5 Line: 17 Ä« warrag tÄ pad bunÄ«h be raft pad sÄ sad ud Å¡ast 
+XLevel 5 Line: 18 <ud> panj rÅz ud Å¡aÅ¡ zamÄn xwurdag - ast sÄl-Ä -abÄz 
+XLevel 5 Line: 19 Å Än gyÄg rasÄd ; ÄiyÅn har sÄ mÄh pad sÄ axtar wÄÅ¡ 
+XLevel 5 Line: 20 ud kam be rasÄd . Level 3 Sentence: 32 mÄh pad Ä-sad <ud> haÅ¡tÄd rÅz abÄz 
+XLevel 5 Line: 21 Å Än gyÄg rasÄd kÄ az bunÄ«h be raft . Level 3 Sentence: 33 hÄsar-Ä pad za\mÄ«g 
+XLevel 5 Line: 22 frasang-Ä hazÄr gÄm Ä« dÅ pÄy . Level 3 Sentence: 34 frasang-Ä paymÄnÄ«g 
+XLevel 5 Line: 23 and Äand mard-Ä dÅ«r-wÄniÅ¡n frÄz nigerÄd stÅr-Ä be wÄ\nÄd 
+XLevel 4 Page: 57 XLevel 5 Line: 1 kÅ« syÄ ayÄb spÄd Å¡nÄsÄd . Level 3 Sentence: 35 ud mard-Ä paymÄn<Ä«g> 
+XLevel 5 Line: 2 haÅ¡t widest [zamÄnag] . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 023 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 23 
+
+Level 2 Chapter: XXIII XXIII 
+
+XLevel 6 IBd Location: 63,7 IBd _63,7 
+XLevel 7 TD1 Location: 95,9 TD1 _95,9 
+XLevel 8 TD2 Location: 115,2 TD2 _115,2 
+XLevel 9 DH Location: 63,11 DH _63,11 
+
+XLevel 5 Line: 3 abar ÄiyÅnÄ«h urwarÄn 
+
+XLevel 5 Line: 4 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« pÄÅ¡ az madan Äbgat urwar xÄr ud 
+XLevel 5 Line: 5 pÅst padiÅ¡ nÄ bÅ«d , ud pas ka Äbgat mad pÅstÅmand xÄrÅ\mand 
+XLevel 5 Line: 6 bÅ«d ; ÄÄ petyÄrag be Å har ÄiÅ¡-Ä gumÄxt , <bÄ Å urwar 
+XLevel 5 Line: 7 wÄÅ¡ gumÄxt> . Level 3 Sentence: 2 az Än Äim urwar-iz ast wÄÅ¡ gumÄxttar ÄiyÅn 
+XLevel 5 Line: 8 bÄÅ¡ balÄdur kÅ« zahrÅmand , har mardÅm ka xwÄrÄd mÄ«rÄd , 
+XLevel 5 Line: 9 gÅspandÄn-iz ham gÅnag . Level 3 Sentence: 3 abÄg panjÄh <ud> panj sardag jÅr\dÄ , 
+XLevel 5 Line: 10 dwÄzdah sardag urwar Ä« beÅ¡Äz az gÄw Ä« Äk-dÄd bÅ«d estÄ«d ?} 
+XLevel 5 Line: 11 <az> dah hazÄr sardag andar sardag urwar mÄdagwar sad 
+XLevel 5 Line: 12 hazÄr sardag andar <sardag> urwar waxÅ¡Ä«d hÄnd . Level 3 Sentence: 4 az Än hamÄg 
+XLevel 5 Line: 13 tÅhmag [Ä«] wan Ä« jud-bÄÅ¡ Ä« was-tÅhmag andar zrÄh frÄxwkard 
+XLevel 5 Line: 14 rust ÄstÄd , kÄ-Å¡ Än hamÄg urwar tÅhm padiÅ¡ , abÄg Än az 
+XLevel 5 Line: 15 gÄw Ä« Äk-dÄd bÅ«d ÄstÄ«d ?}; har sÄl sÄn murw Än wan ÅsÄ\nÄd 
+XLevel 5 Line: 16 Än ham<Äg> tÅhmÄ«hÄ , andar Äb gumÄzÄd , tiÅ¡tar ab\Äg 
+XLevel 5 Line: 17 Äb wÄrÄnÄ«g stÄnÄd , Än Äb <Å> kiÅ¡warÄ«hÄ wÄrÄd . Level 3 Sentence: 5 naz\dÄ«k 
+XLevel 5 Line: 18 Å Än wan hÅm Ä« spÄd Ä« bÄÅ¡Äz a-winast rust ÄstÄd , 
+XLevel 5 Line: 19 andar ÄaÅ¡mag Ä« Äb Ä« ardwÄ«sÅ«r Level 3 Sentence: 6 har kÄ xwarÄd , ahÅÅ¡ ba\wÄd ; 
+XLevel 5 Line: 20 u-Å¡ gÅkirin draxt xwÄnÄnd . Level 3 Sentence: 7 ÄiyÅn gÅwÄd kÅ« hÅm 
+XLevel 5 Line: 21 dÅ«r-ÅÅ¡ , u-Å¡ pad fraÅ¡Ägird anÅÅ¡agÄ«h aziÅ¡ wirÄyÄnd ud 
+XLevel 4 Page: 58 XLevel 5 Line: 1 urwarÄn rad ast . Level 3 Sentence: 8 urwar Än and ÄwÄnag Åh bawÄd : dÄr ud 
+XLevel 5 Line: 2 draxt ud mÄwag ud jÅrdÄ ud gul , sparÎ³am , tarrag , ud 
+XLevel 5 Line: 3 abzÄrag , giyÄh , nihÄl , dÄrÅ«<g> , zadÅ«g , Äzm , bÅy [Å] 
+XLevel 5 Line: 4 <ud> rÅÎ³n , rang , jÄmag , u-Å¡ gÅkÄnÄ«g gÅwÄm : har ÄÄ-Å¡ 
+XLevel 5 Line: 5 bÄr pad xwÄr-bÄr Ä« mardÅmÄn nÄ mehmÄn sÄlwÄr ast , Äi\yÅn 
+XLevel 5 Line: 6 sarw ud ÄinÄr ud spÄd-dÄr ud Å¡amÅ¡Är ud abÄrÄ«g az 
+XLevel 5 Line: 7 Än ÄwÄnag dÄr ud draxt xwÄnÄnd . Level 3 Sentence: 9 har ÄiÅ¡ bÄr pad xwÄr\bÄr 
+XLevel 5 Line: 8 Ä« mardÅmÄn mehmÄn sÄlwÄr ast , ÄiyÅn xormÄ ud mÅrd , 
+XLevel 5 Line: 9 konÄr ud raz ud bÄh ud sÄb ud wÄdrang , anÄr , Å¡aftÄlÅ«\<g> 
+XLevel 5 Line: 10 ud anjÄ«r , ud gÅz ud wÄdÄm abÄrÄ«g pad Än ÄwÄnag 
+XLevel 5 Line: 11 mÄwag xwÄnÄnd . Level 3 Sentence: 10 har ÄÄ pad pih rÅzgÄr Å¡ÄyÄd <Än Ä« nÄ 
+XLevel 5 Line: 12 Å¡ÄyÄd> sÄlwÄr ast , draxt xwÄnÄnd . Level 3 Sentence: 11 har ÄÄ pad rÅzgÄr 
+XLevel 5 Line: 13 Å¡ÄyÄd Ä«-Å¡ bar stÄnÄnd , bun be hÅÅ¡Äd ast ÄiyÅn gandum 
+XLevel 5 Line: 14 <ud> jaw ud brinj girgir mÄ«Å¡Å«g winÅ«g naxÅd abÄrÄ«g az 
+XLevel 5 Line: 15 Än ÄwÄnag jÅrdÄ xwÄnÄnd . Level 3 Sentence: 12 har warg Ä« bÅyÄg pad dast\warz 
+XLevel 5 Line: 16 mardÅmÄn kiÅ¡t ÄstÄd hamwÄr ast sparÎ³am xwÄnÄnd . 
+
+XLevel 5 Line: 17 Level 3 Sentence: 13 har ÄÄ wiÅ¡kÅfag hu-bÅy pad dast-warz mardÅmÄn hangÄm 
+XLevel 5 Line: 18 hangÄm bawÄd ayÄb bun hamwÄr ast pad hangÄm Å¡kÅfÄd 
+XLevel 5 Line: 19 nÅg Å¡Äg Å¡kÅfag hu-bÅy ÄiyÅn gul ud nargis ud yÄsaman 
+XLevel 5 Line: 20 ud nastaran , ÄlÄlag , kawastÄ«<g> , kÄdag , Äambag , xÄrÄ«g , 
+XLevel 5 Line: 21 kurkum , zardag , wanafÅ¡ag , kÄrdag , abÄrÄ«g az Än ÄwÄnag 
+XLevel 5 Line: 22 gul xwÄnÄnd . Level 3 Sentence: 14 har ÄiÅ¡[Ä«h] bar hu-bÅy ayÄb Å¡kÅfag hu\bÅy , 
+XLevel 5 Line: 23 nÄ dast-warz Ä« mardÅmÄn pad hangÄm bawÄd , wahÄr 
+XLevel 4 Page: 59 XLevel 5 Line: 1 xwÄnÄnd . Level 3 Sentence: 15 har ÄÄ pad xwÄr-bÄr Ä« gÅspandÄn ud stÅrÄn 
+XLevel 5 Line: 2 mehmÄn giyÄh xwÄnÄnd . Level 3 Sentence: 16 har ÄÄ pad pÄÅ¡-pÄragÄ«hÄ andar 
+XLevel 5 Line: 3 Å¡awÄd abzÄrÄ«hÄ xwÄnÄnd . Level 3 Sentence: 17 har ÄÄ pad nÄn <ud xwardÄ«g> 
+XLevel 5 Line: 4 xwardan mehmÄn ÄiyÅn spenÄg , karafs , giÅ¡nÄ«z (!), kÄkÄ«zag , 
+XLevel 5 Line: 5 gandanÄg , abarÄ«g az Än ÄwÄnag tarrag xwÄnÄnd . Level 3 Sentence: 18 har ÄÄ 
+XLevel 5 Line: 6 [kÄ] ÄiyÅn [ud] nay ud Å¡Än , pambag abÄrÄ«g az Än ÄwÄ\nag 
+XLevel 5 Line: 7 jÄmag xwÄnÄnd . Level 3 Sentence: 19 har ÄÄ mazg ÄarbiÅ¡nÅmand ÄiyÅn 
+XLevel 5 Line: 8 kunjid , gÅÅ¡-dÄnag , Å¡Ä-dÄnag , zayt , abÄrÄ«g az Än ÄwÄ\nag 
+XLevel 5 Line: 9 rÅÎ³n xwÄnÄnd . Level 3 Sentence: 20 har ÄÄ jÄmag padiÅ¡ Å¡ÄyÄd raÅ¡tan 
+XLevel 5 Line: 10 ÄiyÅn kurkum dÄrparnagÄn zard-ÄÅbag waha abÄrÄ«g az Än 
+XLevel 5 Line: 11 ÄwÄnag rang xwÄnÄnd . Level 3 Sentence: 21 har ÄÄ rÄÅ¡ag ayÄb tÅf ayÄb dÄr 
+XLevel 5 Line: 12 bÅy<Äg> ÄiyÅn kundur , warÎ³aÅ¡t , kawast , Äandal kÄkÅ«\lag , 
+XLevel 5 Line: 13 kÄfÅ«r , wÄdrang-bÅy abÄrÄ«g az Än ÄwÄnag bÅy-<dÄr> 
+XLevel 5 Line: 14 xwÄnÄnd . Level 3 Sentence: 22 har ÄÄ dÅsÄn az urwarÄn be ÄyÄd zadag xwÄn\Änd . 
+
+XLevel 5 Line: 15 Level 3 Sentence: 23 dÄr Ä« awÄÅ¡Än urwarÄn be brÄ«d ka-Å¡ , ayÄb huÅ¡k ay\Äb 
+XLevel 5 Line: 16 tarr , Äzm xwÄnÄnd . Level 3 Sentence: 24 Än hamÄg urwarÄ«hÄ pad Äk Äk kÄ\Å¡ 
+XLevel 5 Line: 17 dÄrÅ«g xwÄnÄnd . Level 3 Sentence: 25 mÄwag mÄdagwar sÄ«h ÄwÄnag , aziÅ¡ dah 
+XLevel 5 Line: 18 sardag andarÅn ud berÅn Å¡ÄyÄd xwardan , ÄiyÅn anjÄ«r 
+XLevel 5 Line: 19 ud sÄb , bÄh , wÄdrang , angÅ«r , tÅ«t , urmÅd , abÄrÄ«g az 
+XLevel 5 Line: 20 Än ÄwÄnag ; dah bÄrÅn Å¡ÄyÄd xwardan andarÅn nÄ Å¡ÄyÄd 
+XLevel 5 Line: 21 xwardan ÄiyÅn xormÄ , Å¡aftÄlÅ«<g> ; zardÄlÅ«<g> sernjid , 
+XLevel 5 Line: 22 abÄrÄ«g az Än ÄwÄnag ; Än <Ä«> andarÅn Å¡ÄyÄd xwardan bÄ\rÅn 
+XLevel 5 Line: 23 nÄ Å¡ayÄd xwardan <ÄiyÅn> gÅz , wÄdÄm , anÄr , anÄr\gÄl , 
+XLevel 4 Page: 60 XLevel 5 Line: 1 pondik , Å¡Äh-balÅ«t , wan Ä« gurgÄnÄ«g <- kÄ pistag\-iz 
+XLevel 5 Line: 2 xwÄnÄnd kÄ-iz wÄÅ¡ az Än <ast> , be was mÄdagwar 
+XLevel 5 Line: 3 mÄwag hÄnd ; Än-iz gÅwÄd kÅ« har gul-Ä amahraspand-Ä 
+XLevel 5 Line: 4 xwÄÅ¡ , ÄiyÅn yÄsaman spÄd wahman rÄy , mÅrd <ud> yÄsa\man 
+XLevel 5 Line: 5 ohrmazd xwÄÅ¡ , marzangÅÅ¡ aÅ¡wahiÅ¡t xwÄÅ¡ , sÄh-espr\ahm 
+XLevel 5 Line: 6 Å¡ahrewar xwÄÅ¡ , palang-muÅ¡k spandarmad , sÅsan hor\dÄd , 
+XLevel 5 Line: 7 Äambag amurdÄd , day <pad adur> wÄdrang , [bÅy] 
+XLevel 5 Line: 8 Ädur ÄdurgÅnag , nÄ«lÅpal ÄbÄn , marw-spÄd xwarÅ¡Äd , nar\gis 
+XLevel 5 Line: 9 mÄh , wanafÅ¡a<g> tÄ«r , mÄ«zwars gÅÅ¡ , <ud> kÄrdag day 
+XLevel 5 Line: 10 pad mihr , hamÄg-wiÅ¡kÅfag mihr , xÄrÄ«g <Ä«> suxr srÅÅ¡ , nas\taran 
+XLevel 5 Line: 11 raÅ¡n bÅyestÄn-abrÅz frawardÄ«n , sÄ«sÄ«mbar wahrÄm , 
+XLevel 5 Line: 12 xÄrÄ«<g Ä«> zard rÄm , wÄdrang bÅy wÄd , Å¡ambalÄ«d<ag> day 
+XLevel 5 Line: 13 pad dÄn , gul Ä« sad warg dÄn , [hamÄg] hamÄg wahÄr ard , 
+XLevel 5 Line: 14 [hamÄg] hÅm spÄd aÅ¡tÄd nÄnÅ«g <ud> nÄnÅ«g-esprahm asm\Än , 
+XLevel 5 Line: 15 kurkum zÄmyÄd , <marw> ardaÅ¡ÄrÄn mÄnsarspand hÅm\yazad[Än] 
+XLevel 5 Line: 16 hÅm [anagrÄn] az Ä ÄwÄnag ast <xwÄÅ¡> . Level 3 Sentence: 26 Äwan 
+XLevel 5 Line: 17 Ä« Åy urwarÄn rÄy <gÅwÄd> kÅ« har <Äwan Äb-Ä sreÅ¡k pad 
+XLevel 5 Line: 18 tah> , pad sar dÄrÄnd ÄtaxÅ¡ ÄahÄr angust pÄÅ¡ . Level 3 Sentence: 27 az ham\Äg 
+XLevel 5 Line: 19 abzÅn kunar [aziÅ¡ kÅ« gÅyÄnd] . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 024 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 24 
+
+Level 2 Chapter: XXIV XXIV 
+
+XLevel 6 IBd Location: 67,1 IBd _67,1 
+XLevel 7 TD1 Location: 155,5 TD1 _155,5 
+XLevel 8 TD2 Location: 183,7 TD2 _183,7 
+XLevel 9 DH Location: 73,5 DH _73,5 
+
+XLevel 5 Line: 20 <abar duÅ¡-kunisnÄ«h Ä« ahreman ud dÄwÄn> 
+
+XLevel 5 Line: 21 Level 3 Sentence: 1 <Än-iz gÅwÄd kÅ« kÄ ÄiÅ¡ Å> mard dahÄd kÄ gÅwÄd 
+XLevel 4 Page: 61 XLevel 5 Line: 1 [pÄk] Ä-mÅg rawiÅ¡nÄ«h pad gÄhÄn <abÄyÄd dÄÅ¡tan , Äg-iÅ¡> 
+XLevel 5 Line: 2 druz Å¡nÄyÄnÄ«d bawÄd . Level 3 Sentence: 2 tarÅmad dÄw <Än> kÄ tar-meniÅ¡nÄ«h 
+XLevel 5 Line: 3 dahÄd . Level 3 Sentence: 3 mihÅxt dÄw druz <Ä«> gand gumÄnÄ«gÄ«h . Level 3 Sentence: 4 areÅ¡k dÄw 
+XLevel 5 Line: 4 druz kÄnwarÄ«h duÅ¡-ÄaÅ¡mÄ«h . Level 3 Sentence: 5 awÄÅ¡Än ham-abzÄr Ä« xÄÅ¡m dÄw 
+XLevel 5 Line: 5 hÄnd . Level 3 Sentence: 6 ÄiyÅn gÅwÄd kÅ« haft zÅr xÄÅ¡m dÄd kÅ« dÄmÄn pad\iÅ¡ 
+XLevel 5 Line: 6 be abesÄ«hÄnÄd . Level 3 Sentence: 7 kayÄn <ud> wÄ«rÄn andar zamÄnag Ä« 
+XLevel 5 Line: 7 xwÄÅ¡ az Än haft zÅr Å¡aÅ¡ be zanÄ<n>d Äk be mÄnÄd ; Än\Åh 
+XLevel 5 Line: 8 kÅ« mihÅxt rasÄd , areÅ¡k mehmÄn bawÄd ; xÄÅ¡m bun frÅd 
+XLevel 5 Line: 9 gÄ«rÄd ; ÄnÅh kÅ« xÄÅ¡m bun dÄrÄd , was dÄm abesÄ«hÄnÄd , 
+XLevel 5 Line: 10 was awÄrÄnÄ«h kunÄd . Level 3 Sentence: 8 hamÄg anÄgÄ«h Å dÄm Ä« ohrmazd xÄÅ¡m 
+XLevel 5 Line: 11 wÄÅ¡ kirrÄnÄ«d ; Åy kayÄn , wÄ«rÄn duÅ¡-kuniÅ¡nÄ«h xÄÅ¡m rÄy 
+XLevel 5 Line: 12 abÄrtar <wany> bÅ«d hÄnd . Level 3 Sentence: 9 ÄiyÅn gÅwÄd kÅ« xÄÅ¡m xrwidrÅÅ¡ , 
+XLevel 5 Line: 13 <ÄÄ hamÄg drÅÅ¡> Åy kunÄd . Level 3 Sentence: 10 wizarÅ¡ dÄw Än kÄ ruwÄn mar\dÅmÄn 
+XLevel 5 Line: 14 Ä« widardagÄn Än rÅz ud Å¡ab ka pad gÄtÄ«g , abÄg 
+XLevel 5 Line: 15 <kÅxÅ¡Äd> , har Å¡ab tars zaniÅ¡nÄ« abar barÄd , pad dar Ä« 
+XLevel 5 Line: 16 duÅ¡ox niÅ¡Ä«nÄd . Level 3 Sentence: 11 Å«dag dÄw Än kÄ ka mardÅmÄn pad xwÄÅ¡ 
+XLevel 5 Line: 17 [dÄnÄ«h] gÄh niÅ¡Ä«nÄnd , ayÄb ka pad xwariÅ¡n xwarÄnd , 
+XLevel 5 Line: 18 mÄnÅgÄ«hÄ zÄnÅ«g abar puÅ¡t zanÄd , kÅ« be drÄyÄd , rÄst 
+XLevel 5 Line: 19 drÄyÄn mÄzÄd , kÅ« pÄhlom axwÄn nÄ rasÄd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 025 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 25 
+
+Level 2 Chapter: XXV XXV 
+
+XLevel 6 IBd Location: 68,3 IBd _68,3 
+XLevel 7 TD1 Location: 167,7 TD1 _167,7 
+XLevel 8 TD2 Location: 196,5 TD2 _196,5 
+XLevel 9 DH Location: 81,8 DH _81,8 
+
+XLevel 5 Line: 20 abar ÄiyÅnÄ«h kiÅ¡warÄ«hÄ 
+
+XLevel 5 Line: 21 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« Än Ä« Å¡aÅ¡ radÄ«h <kiÅ¡warÄn> har 
+XLevel 4 Page: 62 XLevel 5 Line: 1 Äk-Ä rad-Ä ast . Level 3 Sentence: 2 ÄiyÅn arzah rad aÅ¡ÄÅ¡agahtÄ nÄvandÄn 
+XLevel 5 Line: 2 ud sawah rad hÅazarodÄxhr xwaparÄÅ¡taro fradadafÅ¡ wida\dafÅ¡ 
+XLevel 5 Line: 3 rad spitoid uspÅsÄnÄn <aÄrÄÄrasp usposÄnÄ> , wÅ\rÅ«barÅ¡t 
+XLevel 5 Line: 4 rad hwÄsp , wÅrÅ«jarÅ¡t rad ÄaxrÄvÄi . Level 3 Sentence: 3 zarduxÅ¡t 
+XLevel 5 Line: 5 kiÅ¡war xwanirah ud harwisp-iz kiÅ¡warÄ«hÄ rad , ahlawÄn 
+XLevel 5 Line: 6 <Ä«> gÄtÄ«g rad , [guft] kÅ«-Å¡Än hamÄg dÄn az zarduxÅ¡t 
+XLevel 5 Line: 7 padÄ«rift . Level 3 Sentence: 4 andar kiÅ¡war Ä« xwanirah was gyÄg ast kÄ-Å¡ 
+XLevel 5 Line: 8 andar Än wad-zamÄnagÄ«h stahmag [Ä«] kÅxÅ¡iÅ¡n Ä« petyÄr\ag 
+XLevel 5 Line: 9 pad mÄnÅgÄ«hÄ nÄrÅg widarag aziÅ¡ bast ÄstÄd , Äwa\han 
+XLevel 5 Line: 10 Ä« xwanirah xwÄnÄ«hÄd , hangÅÅ¡Ä«dag Än kiÅ¡warÄ«hÄ Ä« 
+XLevel 5 Line: 11 dudÄ«gar , ÄiyÅn kang-diz , zamÄ«g sÅkawestÄn ud daÅ¡t <Ä«> 
+XLevel 5 Line: 12 tÄzÄ«gÄn ud dast <Ä«> pÄÅ¡ÄnsÄ , rÅd nÄydÄg , ÄrÄn-wÄz , 
+XLevel 5 Line: 13 war <Ä«> jam-kard , kaÅ¡mir Ä« andarÅnÄ« ?}. Level 3 Sentence: 5 u-Å¡Än rad-Ä ahÅÅ¡ 
+XLevel 5 Line: 14 andar pÄdixÅ¡ÄyÄ«h nihÄd . Level 3 Sentence: 6 ÄiyÅn gÅwÄd kÅ« paÅ¡Åtan wiÅ¡t\ÄspÄn 
+XLevel 5 Line: 15 kÄ ÄihrÅmÄnÅg xwÄnÄnd pad kang-diz bÅ«m aÎ³riraÏ 
+XLevel 5 Line: 16 Ä« paÅ¡angÄn pad zamÄ«g sÅkawestÄn u-Å¡ gÅbadÅ¡Äh xwÄnÄnd , 
+XLevel 5 Line: 17 fradaxÅ¡t xumbÄ«gÄn pad dast Ä« pÄÅ¡ÄnsÄ . Level 3 Sentence: 7 Ä rÄy xumbÄ«gÄn 
+XLevel 5 Line: 18 kÄ-Å¡Än bÄ«m Ä« xÄÅ¡m rÄy andar xumb-Ä parward , <aÅ¡Ém ya\hmÄi 
+XLevel 5 Line: 19 uÅ¡ta pad gyÄg-Ä kÄ rÅd Ä« nÄydÄg xwÄnÄnd> . Level 3 Sentence: 8 wan Ä« 
+XLevel 5 Line: 20 jud-bÄÅ¡ pad ÄrÄn-wÄz , urwatadnar Ä« zarduxÅ¡tÄn pad 
+XLevel 5 Line: 21 jam-kard war . Level 3 Sentence: 9 awÄÅ¡Än-iz rÄy gÅwÄd kÄ ahÅÅ¡ hÄnd , ÄiyÅn 
+XLevel 5 Line: 22 narsÄ Ä« wiwanghÄnÄn , tÅs <Ä«> nÅdarÄn , gÄ«w <Ä«> gÅdarzÄn , 
+XLevel 5 Line: 23 bairaz Ä« kÅxÅ¡iÅ¡n-kardÄr , aÅ¡awazdah pus Ä« pourudÄxÅ¡tÄn 
+XLevel 4 Page: 63 XLevel 5 Line: 1 ud awÄÅ¡Än hamÄg pad fraÅ¡agird-kardÄrÄ«h be Å ayÄrÄ«h 
+XLevel 5 Line: 2 sÅÅ¡yans !} be rasÄnd . Level 3 Sentence: 10 sÄm rÄy gÅwÄd kÅ« ahÅÅ¡ bÅ«d , pad Än 
+XLevel 5 Line: 3 ka-Å¡ tar-menÄ«d dÄn <Ä«> mÄzdÄsnÄn , turk-Ä kÄ nÅhÄ«n 
+XLevel 5 Line: 4 xwÄnÄnd ka xuft ÄstÄd , pad tigr be winÄhÄ«d , ÄnÅh pad 
+XLevel 5 Line: 5 daÅ¡t Ä« pÄÅ¡ÄnsÄ , u-Å¡ Än Ä« abÄrÅn bÅ«Å¡Äsp abar burd Äs\tÄd , 
+XLevel 5 Line: 6 mayÄn Ä« darmag nibast , u-Å¡ wafr azabar niÅ¡ast 
+XLevel 5 Line: 7 ÄstÄd , pad Än kÄr kÅ« ka azdahÄg harzag bawÄd , Åy ÄxÄ\zÄd 
+XLevel 5 Line: 8 u-Å¡ mard ÅzanÄd . Level 3 Sentence: 11 u-Å¡ bÄwar frawahr Ä« ahlawÄn pad 
+XLevel 5 Line: 9 pÄnÄgÄ«h hÄnd . Level 3 Sentence: 12 dahÄg kÄ bÄwarasp xwÄnÄnd , Än-iz gÅwÄd 
+XLevel 5 Line: 10 kÅ« frÄdÅn ka-Å¡ dahÄg be grift pad kuÅ¡tan nÄ Å¡Äyist , 
+XLevel 5 Line: 11 u-Å¡ pas <pad> kÅf Ä« damÄwand be bast , ka harzag ba\wÄd 
+XLevel 5 Line: 12 sÄm axÄzÄd u-Å¡ zanÄd ud ÅzanÄd . Level 3 Sentence: 13 Kang-diz [rÄy] pad 
+XLevel 5 Line: 13 kust Ä« xwarÄsÄn , azabar Ä« zrÄh frÄxwkard Å Än kustag 
+XLevel 5 Line: 14 pad was frasang . Level 3 Sentence: 14 daÅ¡t Ä« pÄÅ¡ÄnsÄ pad kÄwalestÄn ÄiyÅn 
+XLevel 5 Line: 15 gÅwÄd kÅ« bÄlist paydÄgtom pad kÄwalestÄn kÅ« pÄÅ¡ÄnsÄ 
+XLevel 5 Line: 16 <az> ÄnÅh darmtar pad bÄlÄy bulandtar nÄst . Level 3 Sentence: 15 [garmÅg] 
+XLevel 5 Line: 17 ÄrÄn-wÄz pad kust Ä« ÄdurbÄdagÄn . Level 3 Sentence: 16 zamÄ«g sÅkawestÄn pad 
+XLevel 5 Line: 18 rÄh turkestÄn Å ÄÄ«nestÄn pad kust Ä« abÄxtar . Level 3 Sentence: 17 war <Ä«> 
+XLevel 5 Line: 19 jam-kard mayÄn Ä« pÄrs pad sarwÄg ÄdÅn gÅwÄnd kÅ« war 
+XLevel 5 Line: 20 <Ä«> jam-kard azÄr <Ä«> kÅf Ä« damagÄn . Level 3 Sentence: 18 kaÅ¡mir andar hin\dÅ«stÄn . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 026 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 26 
+
+Level 2 Chapter: XXVI XXVI 
+XLevel 4 Page: 64 
+XLevel 6 IBd Location: 70,13 IBd _70,13 
+XLevel 7 TD1 Location: 189,11 TD1 _189,11 
+XLevel 8 TD2 Location: 220,15 TD2 _220,15 
+XLevel 9 DH Location: 97,2 DH _97,2 
+
+XLevel 5 Line: 21 abar ÄiyÅnÄ«h rist-ÄxÄz ud tan <Ä«> pasÄn 
+
+XLevel 5 Line: 1 Level 3 Sentence: 1 pad dÄn gÅwÄd kÅ« az Än ÄiyÅn maÅ¡Ä« ud maÅ¡yÄnÄ 
+XLevel 5 Line: 2 ka az zamÄ«g abar rust hÄnd , nazdist Äb ud pas urwar , 
+XLevel 5 Line: 3 pas Å¡Ä«r ud pas gÅÅ¡t xwariÅ¡n xward hÄnd ; mardÅmÄn-iz 
+XLevel 5 Line: 4 ka-Å¡Än zamÄn Ä« murdan mad , nazdist gÅÅ¡t ud pas Å¡Ä«r , 
+XLevel 5 Line: 5 pas az nÄn xwardan be ÄstÄnd tÄ ka be mÄ«rÄnd Äb hamÄ 
+XLevel 5 Line: 6 xwarÄnd . Level 3 Sentence: 2 ÄdÅn-iz pad hazÄrag Ä« huÅ¡ÄdarmÄh !} nÄrÅg Äz 
+XLevel 5 Line: 7 ÄdÅn be kÄhÄd , ka mardÅm pad Äk pih-xwariÅ¡nÄ«h sÄ rÅz\Å¡abÄn 
+XLevel 5 Line: 8 pad sagrÄ«h ÄstÄnd . Level 3 Sentence: 3 pas az gÅÅ¡t-xwariÅ¡n<Ä«h> be 
+XLevel 5 Line: 9 ÄstÄnd , urwar <ud> pÄm xwarÄnd , pas az pÄm-xwariÅ¡nÄ«h 
+XLevel 5 Line: 10 abÄz ÄstÄnd , az urwar-xwariÅ¡nÄ«h abÄz ÄstÄnd Äb xwar\iÅ¡n[Ä«h] 
+XLevel 5 Line: 11 bawÄnd , pÄÅ¡ pad dah sÄl ka sÅÅ¡yans !} ÄyÄd Å a\xwariÅ¡nÄ«h 
+XLevel 5 Line: 12 ÄstÄnd , nÄ mÄ«rÄnd . Level 3 Sentence: 4 pas sÅÅ¡yans !} rist ul wig\rÄsÄ[n]d 
+XLevel 5 Line: 13 ÄiyÅn gÅwÄd kÅ« zarduxÅ¡t az ohrmazd pursÄ«d kÅ« 
+XLevel 5 Line: 14 tan Ä« wÄd burd , Äb wÄzÄ«d , az kÅ« abÄz kunÄd , rist-ÄxÄz 
+XLevel 5 Line: 15 ÄiyÅn bawÄd . Level 3 Sentence: 5 ohrmazd pÄsox kard kÅ« ka-m asmÄn abÄ\stÅ«n , 
+XLevel 5 Line: 16 pad mÄnÅg-ÄstiÅ¡nÄ«h , dÅ«r-kanÄrag , rÅÅ¡n , az gÅhr 
+XLevel 5 Line: 17 Ä« xwÄn-Ähan ka-m zamÄ«g dÄd kÄ axw Ä« astÅmand barÄd , 
+XLevel 5 Line: 18 u-Å¡ dÄÅ¡tÄrÄ«h Ä« gÄtÄ«g nÄst , ka-m xwarÅ¡Äd ud mÄh ud 
+XLevel 5 Line: 19 stÄragÄn andar andarwÄy , rÅÅ¡n-kirbÄ«hÄ wazÄ«d hÄnd , ka\m 
+XLevel 5 Line: 20 jÅrdÄ dÄd kÅ« andar zamÄ«g be parganÄnd <ud> abÄz rÅ\yÄd 
+XLevel 5 Line: 21 pad abzÅn abÄz bawÄd ka-m andar urwar rang dÄd 
+XLevel 5 Line: 22 gÅnag gÅnag , ka-m andar urwar abarÄ«g ÄiÅ¡ ÄtaxÅ¡ dÄd 
+XLevel 4 Page: 65 XLevel 5 Line: 1 a-sÅziÅ¡nÄ«h , ka<-m> andar burdÄr <Ä«> mÄd pus dÄd srÄ\yÄnÄ«d ; 
+XLevel 5 Line: 2 jud jud pÅst , nÄxun , xÅn , pay , ÄaÅ¡m ud gÅÅ¡ a\bÄrÄ«g 
+XLevel 5 Line: 3 ÄiÅ¡ pÄÅ¡ag be dÄd , ka-m Å Äb pÄy dÄd kÅ« be ta\zÄd , 
+XLevel 5 Line: 4 abr dÄd kÄ Än gÄtÄ«g Äb barÄd ÄnÅh kÅ«-Å¡ kÄmag 
+XLevel 5 Line: 5 wÄrÄd , ka-m way dÄd kÄ ÄaÅ¡m-dÄ«d pad wÄd nÄrÅg Är Å 
+XLevel 5 Line: 6 azabar ÄiyÅn kÄmag wazÄd , pad dast frÄz nÄ tuwÄn gri\ftan ; 
+XLevel 5 Line: 7 Äk Äk az awÄÅ¡Än ka-m dÄd padiÅ¡ duÅ¡-xwÄrtar bÅ«d 
+XLevel 5 Line: 8 kÅ« rist-ÄxÄz kardan ; ÄÄ-m andar rist-ÄxÄz ayÄrÄ«h Äi\yÅn 
+XLevel 5 Line: 9 awÄÅ¡Än ast . Level 3 Sentence: 6 ka<m> awÄÅ¡Än kard , [nÄ bÅ«d] bawÄd 
+XLevel 5 Line: 10 [az] <nÄ> bÅ«d , abar niger kÅ« ka<m> Än Ä« nÄ bÅ«d Äg be 
+XLevel 5 Line: 11 kard , [ud] Än Ä« bÅ«d Äim abÄz nÄ Å¡ÄyÄd kardan , ÄÄ pad 
+XLevel 5 Line: 12 Än hangÄm az mÄnÅg zamÄ«g ast , ud az Äb xÅn , az urwar 
+XLevel 5 Line: 13 mÅy , az ÄtaxÅ¡ gyÄn , ÄiyÅn-iÅ¡Än pad bun-dahiÅ¡nÄ«h padÄ«\rift , 
+XLevel 5 Line: 14 xwÄhÄm . Level 3 Sentence: 7 nazdist ast Än Ä« gayÅmart !} ul hangÄzÄd , 
+XLevel 5 Line: 15 pas Än <Ä«> maÅ¡Ä« maÅ¡yÄnÄ , pas Än <Ä«> abÄrÄ«g mardÅmÄn . 
+
+XLevel 5 Line: 16 Level 3 Sentence: 8 pad panjÄh <ud> haft sÄl sÅÅ¡yans !} hamÄg rist wigrÄsÄnd , 
+XLevel 5 Line: 17 hamÄg mardÅm abar ÄstÄnd , kÄ-iz ahlaw-iz kÄ-iz druwand . 
+
+XLevel 5 Line: 18 Level 3 Sentence: 9 mardÅm har kas az ÄnÅh ul hangÄzÄd kÅ«-Å¡Än gyÄn be 
+XLevel 5 Line: 19 Å¡ud . Level 3 Sentence: 10 <ayÄb nazdist Å zamÄ«g Åbast hÄnd> pas ka-Å¡Än 
+XLevel 5 Line: 20 harwisp axw Ä« astÅmand , tan kirb abÄz bawÄnd , Äg - {!} 
+XLevel 5 Line: 21 iÅ¡Än ÄwÄnag be dahÄnd . Level 3 Sentence: 11 Än Ä« rÅÅ¡n<Ä«h> abÄg xwarÅ¡Äd , 
+XLevel 5 Line: 22 nÄm-Ä be Å gayÅmart !} ud nÄm-Ä pad abÄrÄ«g mardÅmÄn be 
+XLevel 5 Line: 23 <dahÄnd . Level 3 Sentence: 12 pas mardÅm mardÅm be> Å¡nÄsÄnd , kÅ« ruwÄn tan 
+XLevel 4 Page: 66 XLevel 5 Line: 1 be Å¡nÄsÄd , kÅ« Än Än Ä« man ast pid , Än Än Ä« man ast 
+XLevel 5 Line: 2 mÄd , ud Än Än Ä« man ast brÄd , ud Än Än Ä« man 
+XLevel 5 Line: 3 nÄrÄ«g , Än Än Ä« man ast kadÄr-iz-Ä , Än Ä« nazdÄ«k pay\wandtar . 
+
+XLevel 5 Line: 4 Level 3 Sentence: 13 pas bawÄd hanjaman isatwÄstarÄn . 
+
+XLevel 5 Line: 5 Level 3 Sentence: 14 paydÄg kÅ« mardÅm pad Än zamÄ«g hamÄg bÄ ÄstÄnd . Level 3 Sentence: 15 andar 
+XLevel 5 Line: 6 Än hanjaman , har kas nÄk-kuniÅ¡nÄ«h Ä« xwÄÅ¡ ud 
+XLevel 5 Line: 7 wad-kuniÅ¡nÄ«h Ä« xwÄÅ¡ wÄnÄd ; pas andar Än hanjaman , 
+XLevel 5 Line: 8 druwand ÄdÅn paydÄg ÄiyÅn gÅspand Ä« spÄd andar Än 
+XLevel 5 Line: 9 syÄ bawÄd . Level 3 Sentence: 16 andar Än hanjaman ahlaw kÄ-Å¡ pad gÄtÄ«g 
+XLevel 5 Line: 10 druwand dÅst bÅ«d , druwand garzÄd az Än ahlaw kÅ« Äim 
+XLevel 5 Line: 11 [ka] andar gÄtÄ«g az kuniÅ¡n nÄkÄ«h <Ä«> xwad warzÄ«d , man 
+XLevel 5 Line: 12 ÄgÄh nÄ kard . Level 3 Sentence: 17 agar Än Ä« ahlaw Åy nÄ ÄgÄhÄ\nÄ«d 
+XLevel 5 Line: 13 Äg-iÅ¡ pad Än hanjaman Å¡arm ÄdÅn abÄyÄd widÄr\dan . 
+
+XLevel 5 Line: 14 Level 3 Sentence: 18 pas ahlaw az druwand judÄg kunÄnd ; pas ahlaw Å 
+XLevel 5 Line: 15 garÅdmÄn ud druwand abÄz Å duÅ¡ox abganÄnd ; sÄ rÅz\Å¡abÄn 
+XLevel 5 Line: 16 tanÅmandÄ«hÄ andar duÅ¡ox pÄdifrÄh kunÄnd ; pas 
+XLevel 5 Line: 17 andar garÅdmÄn tanÅmandÄ«hÄ Än sÄ rÅz urwÄhmanÄ«h wÄnÄd . 
+
+XLevel 5 Line: 18 Level 3 Sentence: 19 ÄiyÅn gÅwÄd kÅ« pad Än rÅz ka ahlaw az druwand judÄg ba\wÄd , 
+XLevel 5 Line: 19 har kas ars tÄ zang padiÅ¡ frÅd ÄyÄd , ka pus az 
+XLevel 5 Line: 20 hambÄzÄ«h pid , ud brÄd az Å brÄd , dÅst az dÅst , judÄg ku\nÄnd , 
+XLevel 5 Line: 21 har kas Än Ä« xwÄÅ¡ kuniÅ¡n widÄrÄnd ; griyÄd ahlaw 
+XLevel 5 Line: 22 andar druwand , ud druwand abar xwÄÅ¡ ; ÄÄ ast kÄ pid 
+XLevel 5 Line: 23 ahlaw , pus druwand , ast* kÄ brÄd-Ä ahlaw , Äk-Ä druwand . 
+
+XLevel 4 Page: 67 
+XLevel 5 Line: 1 Level 3 Sentence: 20 awÄÅ¡Än kÄ-Å¡Än xwad kuniÅ¡n rÄy kard ÄstÄd , ÄiyÅn dah\Äg 
+XLevel 5 Line: 2 ud frÄsiyÄb tÅ«r abÄrÄ«g az Än ÄwÄnag ÄiyÅn marg 
+XLevel 5 Line: 3 arzÄnÄn pÄdifrÄh widÄrÄnd ÄÄ mardÅm nÄ widÄrÄnd , pÄ\difrÄh 
+XLevel 5 Line: 4 Ä« tiÅ¡rÄm xsafnÄm xwÄnÄnd . Level 3 Sentence: 21 andar Än fraÅ¡agird 
+XLevel 5 Line: 5 kardÄrÄ«h <Ä«> Åy , awÄÅ¡Än mardÄn Ä« ahlawÄn Ä« nibiÅ¡t kÅ«\zÄ«ndag 
+XLevel 5 Line: 6 hÄnd pÄnzdah mard ud pÄnzdah kanÄ«g Å ayÄrÄ«h 
+XLevel 5 Line: 7 sÅÅ¡yans !} be rasÄnd . Level 3 Sentence: 22 gÅzihr <mÄr> ÄiyÅn andar spihr az 
+XLevel 5 Line: 8 tÄx <Ä«> mÄh be Å zamÄ«g ÅftÄd zamÄ«g ÅwÅn homÄnÄg dard 
+XLevel 5 Line: 9 bawÄd ÄiyÅn mÄÅ¡ kÄ gurg ÅftÄd . Level 3 Sentence: 23 pas ataxÅ¡ armÄÅ¡tÄn 
+XLevel 5 Line: 10 ayÅxÅ¡ust <Ä«> andar kÅfÄn garÄn [ud] widÄzÄnÄd , pad 
+XLevel 5 Line: 11 zamÄ«g rÅd homÄnÄg ÄstÄd . Level 3 Sentence: 24 pas harwisp mardÅm andar Än 
+XLevel 5 Line: 12 ayÅxÅ¡ust Ä« widÄxtag be widerÄnd , ud pÄk be bawÄnd , 
+XLevel 5 Line: 13 kÄ ahlaw Äg-iÅ¡ ÅwÅn sahÄd ÄiyÅn ka andar Å¡Ä«r Ä« garm 
+XLevel 5 Line: 14 hamÄ rawÄd ; kÄ druwand , Äg-iÅ¡ pad Än ÄwÄnag sahÄd kÅ« 
+XLevel 5 Line: 15 pad gÄtÄ«g andar ayÅxÅ¡ust Ä« widÄxtag hamÄ rawÄd . Level 3 Sentence: 25 pas 
+XLevel 5 Line: 16 pad Än Ä« mahist dÅÅ¡Äram harwisp mardÅm Å ham rasÄnd ; 
+XLevel 5 Line: 17 pid ud pus ud brÄd ud dÅst , Äk Å did pursÄnd kÅ« Än 
+XLevel 5 Line: 18 and sÄl kÅ« bÅ«d hÄ , u-t pad ruwÄn dÄdestÄn ÄÄ bÅ«d , ah\law 
+XLevel 5 Line: 19 bÅ«dÄ ayÄb druwand ? Level 3 Sentence: 26 nazdist ruwÄn tan wÄnÄd , aziÅ¡ 
+XLevel 5 Line: 20 pursÄd . Level 3 Sentence: 27 pad Än guft <pÄsox> , mardÅm hamÄg ham-wÄng 
+XLevel 5 Line: 21 bawÄnd , buland stÄyiÅ¡n Å ohrmazd ud amahraspandÄn ba\rÄnd . 
+
+XLevel 5 Line: 22 Level 3 Sentence: 28 ohrmazd pad Än gÄh hangirdÄnÄ«d-dÄm bawÄd , kÅ«-Å¡ 
+XLevel 5 Line: 23 kÄr-Ä abar nÄ abÄyÄd kardan . Level 3 Sentence: 29 andar Än ka-Å¡Än rist 
+XLevel 4 Page: 68 XLevel 5 Line: 1 wirÄst [kÄr-Ä abar nÄ abÄyÄd kard .] yaziÅ¡n Ä« pad rist 
+XLevel 5 Line: 2 wirÄyiÅ¡nÄ«h sÅÅ¡yans !} abÄg ayÄrÄn kunÄd ; gÄw hadayÅÅ¡ pad 
+XLevel 5 Line: 3 Än yaziÅ¡n kuÅ¡Änd ; az pÄ«h Än gÄw ud hÅm spÄd anÅÅ¡ wi\rÄyÄnd 
+XLevel 5 Line: 4 Å harwisp mardÅm dahÄnd ; ud harwisp mardÅm 
+XLevel 5 Line: 5 ahÅÅ¡ bawÄnd tÄ hamÄ-hamÄ-rawiÅ¡nÄ«h . Level 3 Sentence: 30 Än-iz gÅwÄd kÅ« kÄ 
+XLevel 5 Line: 6 mard paymÄn bÅ«d ÄstÄd , Äg-iÅ¡ pad dÄd Ä« Äehel sÄlag 
+XLevel 5 Line: 7 abÄz wirÄyÄnd ; Än kÄ xwurdag ristag bÅ«d hÄnd Äg-Å¡Än 
+XLevel 5 Line: 8 pad dÄd Ä« pÄnzdah sÄlag abÄz wirÄyÄnd ; ud har kas zan 
+XLevel 5 Line: 9 dahÄnd ud frazand abÄg zan nimÄyÄnd ÅwÅn kunÄnd ÄiyÅn 
+XLevel 5 Line: 10 nÅ«n andar gÄtÄ«g , bÄ frazand zÄyiÅ¡nÄ«h nÄ bawÄd . Level 3 Sentence: 31 pas 
+XLevel 5 Line: 11 sÅÅ¡yans !}, az dÄdÄr ohrmazd framÄn , hamÄg mardÅm mizd 
+XLevel 5 Line: 12 pÄdÄÅ¡n dahÄd pad kuniÅ¡n sazÄgÄ«hÄ . Level 3 Sentence: 32 Än-iz ast Ä« ahlaw 
+XLevel 5 Line: 13 kÅ« gÅwÄd kÅ« nayÄnd Å wahiÅ¡t garÅdmÄn Ä« ohrmazd ÄiyÅn 
+XLevel 5 Line: 14 xwad abÄyÄd , kirb* ul stÄnÄd tÄ hamÄ-hamÄ-rawiÅ¡nÄ«h pad 
+XLevel 5 Line: 15 an pÄkÄ«h hamÄ rawÄd . Level 3 Sentence: 33 Än gÅwÄd kÅ« <kÄ> yaÅ¡t nÄ kard 
+XLevel 5 Line: 16 ÄstÄd , ud gÄtÄ«g-xrÄ«d nÄ framÅ«d ÄstÄd , ud jÄmag ahlaw\dÄd 
+XLevel 5 Line: 17 nÄ dÄd ÄstÄd , ÄnÅh brahnag , u-Å¡ ohrmazd yaÅ¡t ku\nÄd , 
+XLevel 5 Line: 18 u-Å¡ mÄnÅg gÄhÄn kÄr wistarag-Ä Åh kunÄd . Level 3 Sentence: 34 pas 
+XLevel 5 Line: 19 ohrmazd gannÄg mÄnÅg , wahman akÅman , aÅ¡wahiÅ¡t andar , 
+XLevel 5 Line: 20 Å¡ahrewar sÄwÅ«l spandarmad tarÅmad ast nÄnghaiÏ , hordÄd 
+XLevel 5 Line: 21 <ud> amurdÄd tariz zariz , rÄst-gÅwiÅ¡nÄ«h Än Ä« drÅ\gÅwiÅ¡nÄ«h , 
+XLevel 5 Line: 22 srÅÅ¡ xÄÅ¡m gÄ«rÄnd . Level 3 Sentence: 35 pas dÅ druz frÄz mÄnÄnd 
+XLevel 5 Line: 23 ahreman ud Äz , ohrmazd Å gÄtÄ«g ÄyÄd , xwad zÅt ud srÅÅ¡ 
+XLevel 4 Page: 69 XLevel 5 Line: 1 rÄspÄ«g . Level 3 Sentence: 36 ÄbyÄnghan pad dast dÄrÄd . Level 3 Sentence: 37 gannÄg mÄnÅg ud Äz 
+XLevel 5 Line: 2 pad Än gÄhÄnÄ«g nÄrang zad-abzÄrÄ«hÄ agÄrÄ«hÄ [tar ku\nÄnd] 
+XLevel 5 Line: 3 Än widarag asmÄn pad-iÅ¡* andar dwÄrist abÄz Å 
+XLevel 5 Line: 4 tom , tÄr dwÄrÄnd . Level 3 Sentence: 38 gÅzihr mÄr pad Än ayÅxÅ¡ust widÄx\tag 
+XLevel 5 Line: 5 sÅzÄd , Än gandagÄ«h rÄmanÄ«h andar duÅ¡ox bÅ«d , pad 
+XLevel 5 Line: 6 Än ayÅxÅ¡ust sÅzÄd , pÄk be bawÄd ; Än duÅ¡ox Ä« gannÄg 
+XLevel 5 Line: 7 mÄnÅg pad-iÅ¡ be dwÄrist , pad Än ayÅxÅ¡ust gÄ«rÄd . Level 3 Sentence: 39 Än 
+XLevel 5 Line: 8 zamÄ«g duÅ¡ox abÄz Å frÄxÄ«h gÄhÄn ÄwarÄnd ud bawÄd fra\Å¡agird 
+XLevel 5 Line: 9 andar axwÄn , pad kÄmag gÄhÄn a-marg tÄ hamÄ\hamÄ-rawiÅ¡nÄ«h . 
+
+XLevel 5 Line: 10 Level 3 Sentence: 40 Än-iz gÅwÄd kÅ« Än zamÄ«g an-afsÄr a\niÅ¡Äb 
+XLevel 5 Line: 11 hÄmÅn be <bawÄd> , kÅf [Ä«] <ud> ÄagÄd-iz gawr , 
+XLevel 5 Line: 12 ul dÄriÅ¡n[Ä«h] frÅd dÄriÅ¡n nÄ bawÄd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 027 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 27 
+
+Level 2 Chapter: XXVII XXVII 
+
+XLevel 6 IBd Location: 77,4 IBd _77,4 
+XLevel 7 TD1 Location: 196,8 TD1 _196,8 
+XLevel 8 TD2 Location: 228,5 TD2 _228,5 
+XLevel 9 DH Location: 101,17 DH _101,17 
+
+XLevel 5 Line: 13 abar tÅhm ud paywand kayÄn 
+
+XLevel 5 Line: 14 Level 3 Sentence: 1 hÅÅ¡ang Ä« frawÄg <Ä«> syÄmak <Ä«> maÅ¡Ä« Ä« gayÅ\mart -!}. 
+XLevel 5 Line: 15 Level 3 Sentence: 2 tahmurab , spitÅ«r , narsÄ Ä«-kÄ raÅ¡n-ÄÄ«nag xwa\nÄnd-hamÄg 
+XLevel 5 Line: 16 brÄd bÅ«d hÄnd . Level 3 Sentence: 3 az jam ud jamag <Ä«-Å¡> xwa\har 
+XLevel 5 Line: 17 bÅ«d , zÄd juxt-Ä mard <ud> zan ÄgenÄn zan ud Å¡Åy 
+XLevel 5 Line: 18 bÅ«d hÄnd ; mÄ«rag aswÄ«yÄn <ud> ziyÄnag zariÅ¡Äm nÄm bÅ«d 
+XLevel 5 Line: 19 hÄnd , <ud> paywand be raft . Level 3 Sentence: 4 spitÅ«r Än bÅ«d abÄg [jam] 
+XLevel 5 Line: 20 dahÄg jam be kirrÄnÄ«d , narsÄ Äg-iz zÄ«st <Ä«> narsÄ 
+XLevel 5 Line: 21 <Ä«> wiyÄbÄnÄ«g xwÄnÄnd . Level 3 Sentence: 5 gÅwÄnd kÅ«-Å¡ Än xwarrah abar 
+XLevel 4 Page: 70 XLevel 5 Line: 1 dÄd ÄstÄd kÅ« har rÅz andar wÄzÄrÄ«hÄ be widerÄd , ha\mÄg 
+XLevel 5 Line: 2 xwariÅ¡n yÅjdahr <ud> pÄk be kunÄd . Level 3 Sentence: 6 dahÄg Ä« arwan\dasp 
+XLevel 5 Line: 3 Ä« zÄnÄ«gÄw Ä« birafÅ¡an Ä« tÄz Ä« frawÄg Ä« syÄmak ; 
+XLevel 5 Line: 4 az mÄdar dahÄg Ä« odag Ä« bayag Ä« tambayag Ä« owoxm Ä« 
+XLevel 5 Line: 5 paurwaÄsm Ä« gaÄÎ²uÏÎ² Ä« druwi Ä« Ä«aska Ä« gannÄg mÄnÅg 
+XLevel 5 Line: 6 frÄdÅn <Ä«> aswiyÄn , sÅg gÄw aswiyÄn , bÅr gÄw aswiyÄn , 
+XLevel 5 Line: 7 syÄ gÄw aswiyÄn , spÄd gÄw aswiyÄn , dabr gÄw aswiyÄn , 
+XLevel 5 Line: 8 ramag gÄw <Ä«> aswiyÄn , vanfrÎ³ÉÅ¡ni gayÅmart aswiyÄn , jam Ä« wi\wanghÄn . 
+
+XLevel 5 Line: 9 Level 3 Sentence: 7 ÄiyÅn awÄÅ¡Än jud az aswiyÄn Ä« purr*-gÄw , dah 
+XLevel 5 Line: 10 paywand bÅ«d hÄnd , har Äk sad sÄl be zÄ«st hÄnd Ä« ba\wÄd 
+XLevel 5 Line: 11 hazÄr sÄl . Level 3 Sentence: 8 Än hazÄr sÄl dahÄg duÅ¡-pÄdixÅ¡ÄyÄ«h bÅ«d . 
+
+XLevel 5 Line: 12 Level 3 Sentence: 9 az aswiyÄn <Ä«> purr-gÄw frÄdÅn zÄd , kÄ kÄn <Ä«> jam 
+XLevel 5 Line: 13 xwÄst ; any-iz frazand bÅ«d hÄnd : barmÄyÅn , katÄyÅn ; 
+XLevel 5 Line: 14 frÄdÅn kÄ awÄÅ¡Än purr-frayÄdtar bawÄd . Level 3 Sentence: 10 az frÄdÅn zÄd 
+XLevel 5 Line: 15 sÄ pus , salm ud tÅ«z <ud> Äraz ; az Äraz <dÅ> pus[-Ä] 
+XLevel 5 Line: 16 duxt-Ä zÄd , pus-Ä dÅgÄnag wÄnÄ«dÄr anastÅb nÄm bÅ«d , 
+XLevel 5 Line: 17 duxt gÅzag bÅ«d . Level 3 Sentence: 11 salm <ud> tÅ«z <ud> eraz frazandÄn 
+XLevel 5 Line: 18 <ud> ÄwÄdagÄn hamÄ Åzad <Än> duxt frÄdÅn pad nihÄn 
+XLevel 5 Line: 19 daÅ¡t ; az Än <duxt> duxt-Ä zÄd awÄÅ¡Än ÄgÄhÄ«h bÅ«d ; u\Å¡Än 
+XLevel 5 Line: 20 mÄdar Åzad Än duxt frÄdÅn pad nihÄn kard tÄ dah 
+XLevel 5 Line: 21 paywand , ka manuÅ¡ Ä« xwarÅ¡Äd pad wÄnÄ«g <az mÄd zÄd , ÄÄ 
+XLevel 5 Line: 22 ÄiyÅn be zÄd rÅÅ¡nÄ«h xwarÅ¡Äd pad wÄnÄ«g> Åbast ; az ma\nuÅ¡ 
+XLevel 5 Line: 23 <Ä«> xwarÅ¡Äd wÄnÄ«g <ud> xwahar , manuÅ¡xwarnar az 
+XLevel 4 Page: 71 XLevel 5 Line: 1 manuÅ¡xwarnar <ud xwahar> manuÅ¡Äihr zÄd kÄ-Å¡ salm ud 
+XLevel 5 Line: 2 tÅ«z Åzad pad kÄn Äraz , az manuÅ¡Äihr zÄd fraÅ¡ <ud> 
+XLevel 5 Line: 3 nÅdar ud dÅ«rÅsruw . Level 3 Sentence: 12 ÄiyÅn manuÅ¡Äihr <Ä«> manuÅ¡xwar\nar 
+XLevel 5 Line: 4 <Ä«> manuÅ¡xwarnag <Ä«> kÄ mÄn gÅzag bÅ«d Ärag 
+XLevel 5 Line: 5 Ïritag , bÄ«dag , frazÅÅ¡ag , zÅÅ¡ag Ä« fragÅzag gÅzag Ä« Är\az 
+XLevel 5 Line: 6 Ä« frÄdÅn . Level 3 Sentence: 13 frÄsiyÄb Ä« paÅ¡ang zaÄÅ¡im turk spaÄnyasp 
+XLevel 5 Line: 7 dÅ«rÅÅ¡asp Ä« tÅ«z frÄdÅn Än [Än] karsÄwaz - kÄ kÄdÄn xwÄ\nÄnd -, 
+XLevel 5 Line: 8 <ud> aÎ³riraÏ har sÄ brÄd bÅ«d hÄnd . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 028 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 28 
+
+Level 2 Chapter: XXVIII XXVIII 
+
+XLevel 6 IBd Location: 79,5 IBd _79,5 
+XLevel 7 TD1 Location: 202,1 TD1 _202,1 
+XLevel 8 TD2 Location: 234,19 TD2 _234,19 
+XLevel 9 DH Location: 105,19 DH _105,19 
+
+XLevel 5 Line: 9 abar paywand <Ä«> pÅrÅ¡asp 
+
+XLevel 5 Line: 10 Level 3 Sentence: 1 <pÅrÅ¡asp> Ä« pÄ«tarasp Ä« urwadasp Ä« haÄÄÄtasp Ä« 
+XLevel 5 Line: 11 ÄÄÅ¡nÅÅ¡ Ä« paitarasp Ä« harakÄ«tÄraÅ¡n harÄÄ«tÄr spitÄmÄn 
+XLevel 5 Line: 12 Ä« wÄdaÅ¡t Ä« ayazim Ä« rajan <Ä«> durÄsruw Ä« manuÅ¡Äihr . 
+
+XLevel 5 Line: 13 Level 3 Sentence: 2 ÄiyÅn pÄ«tarasp dÅ pus <bÅ«d> : Äk pÅruÅ¡asp , Äk ÄrÄspÄ , 
+XLevel 5 Line: 14 Ä« az pÅruÅ¡asp zarduxÅ¡t [Å] wÄtariga handainiÅ¡ zÄd 
+XLevel 5 Line: 15 hÄnd , az ÄrÄspÄ Ä« mÄdyÅmÄh zÄd . Level 3 Sentence: 3 zarduxÅ¡t ka-Å¡ dÄn aw\urd , 
+XLevel 5 Line: 16 fradom andar ÄrÄn-wÄz frÄz yaÅ¡t , farÅ¡ward mÄdyÅ\mÄh 
+XLevel 5 Line: 17 dÄn aziÅ¡ padÄ«rift . Level 3 Sentence: 4 mowbedÄn Ä« pÄrs hamÄg abÄz Å 
+XLevel 5 Line: 18 Än tÅhmag Ä« manuÅ¡Äihr hÄnd , gÅkÄn gÅwÄm : az zarduxÅ¡t 
+XLevel 5 Line: 19 zÄd sÄ pus sÄ duxt Äk isatwÄstar , Äk urwatadnar , Äk 
+XLevel 5 Line: 20 xwarÅ¡Äd-Äihr , ÄiyÅn isatwÄstar ÄsrÅnÄn rad mowbedÄn 
+XLevel 5 Line: 21 mowbed bÅ«d , sad sÄl pas <Ä«> dÄn be widard ; urwatadnar 
+XLevel 4 Page: 72 XLevel 5 Line: 1 wÄstaryÅÅ¡ rad Ä« war Ä« jam-kard Ä« azÄr zamÄ«g , xwarÅ¡Äd\-Äihr 
+XLevel 5 Line: 2 artÄÅ¡tar spÄhbed paÅ¡otan <Ä«> wiÅ¡tÄspÄn , pad 
+XLevel 5 Line: 3 kang-diz mÄnÄd ; <ud> sÄ duxt Äk frÄn , Äk srÄ«t ?}, Äk pour\uÄist 
+XLevel 5 Line: 4 nÄm bÅ«d hÄnd . Level 3 Sentence: 5 urwatadnar ud xwarÅ¡Äd-Äihr az zan 
+XLevel 5 Line: 5 Ä« Äagar bÅ«d hÄnd abÄrÄ«g az zan Ä« pÄdixÅ¡Äy[Ä«h] bÅ«d 
+XLevel 5 Line: 6 hÄnd . Level 3 Sentence: 6 az isatwÄstar zÄd pus-Ä urwarwizag nÄm bÅ«d . Level 3 Sentence: 7 u\Å¡Än 
+XLevel 5 Line: 7 arwij Ä« bÄ«rÄdÄn xwÄnÄnd ; Äd rÄy kÄ az zan Ä« Äa\gar 
+XLevel 5 Line: 8 bÅ«d , Äg-iÅ¡Än pad stÅ«rÄ«h isatwÄstar be gumÄrd . Level 3 Sentence: 8 Än\iz 
+XLevel 5 Line: 9 dÄnÄd kÅ« <sÄ> pus Ä« zarduxÅ¡t ÄiyÅn huÅ¡Ädar hu\Å¡ÄdarmÄh 
+XLevel 5 Line: 10 ud sÅÅ¡yans az hwow bÅ«d . Level 3 Sentence: 9 ÄiyÅn gÅwÄd kÅ« zar\duxÅ¡t 
+XLevel 5 Line: 11 sÄ jÄr Å nazdÄ«k <Ä«> hwow hamÄ Å¡ud ; har jÄr Än 
+XLevel 5 Line: 12 tÅhm Å zamÄ«g hamÄ Å¡ud ; nÄryÅsang yazad rÅÅ¡nÄ«h zÅr[Ä«h] 
+XLevel 5 Line: 13 Ä« Än tÅhm hamÄ padÄ«rift pad nigÄhdÄrÄ«h Å anÄhÄ«d yazad 
+XLevel 5 Line: 14 abespÄrd , pad hangÄm be Å mÄdar gumÄzÄd <nÅ> hazÄr <ud> 
+XLevel 5 Line: 15 nÅsad <ud> nawad <ud> nÅ bÄwar frawahr Ä« ahlawÄn pad 
+XLevel 5 Line: 16 pÄnagÄ«h gumÄrd ÄstÄnd , kÅ« dÄwÄn nÄ winÄhÄnd . Level 3 Sentence: 10 mÄdar Ä« 
+XLevel 5 Line: 17 zarduxÅ¡t duÎ³dÄ nÄm bÅ«d ; pidar <Ä«> mÄdar Ä« zarduxÅ¡t 
+XLevel 5 Line: 18 frahumruwÄnÄn nÄm bÅ«d . 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+--- Page 029 ---
+
+TITUS 
+Indian Bundahisn 
+Part No. 29 
+
+Level 2 Chapter: XXIX XXIX 
+
+XLevel 6 IBd Location: 80,16 IBd _80,16 
+XLevel 7 TD1 Location: 205,4 TD1 _205,4 
+XLevel 8 TD2 Location: 238,6 TD2 _238,6 
+XLevel 9 DH Location: 108,3 DH _108,3 
+
+XLevel 5 Line: 19 dwÄzdah hazÄr sÄl bÅ«d 
+XLevel 5 Line: 20 abar sÄl marag[Ä«h] <tÄzÄ«gÄn> zamÄn 
+
+XLevel 5 Line: 21 Level 3 Sentence: 1 gÅwÄd pad dÄn kÅ« sÄ hazÄr sÄl , mÄnÅg ÄstiÅ¡n 
+XLevel 4 Page: 73 XLevel 5 Line: 1 bÅ«d , kÅ« dÄm a-menÄ«dÄr a-rawÄg a-griftÄr bÅ«d . Level 3 Sentence: 2 <hazÄrag 
+XLevel 5 Line: 2 xwadÄyÄ«h warrag ud gÄw ud dÅ-pahikar bud> . Level 3 Sentence: 3 sÄ hazÄr 
+XLevel 5 Line: 3 sÄl gayÅmart abÄg gÄw pad gÄtÄ«g ÄstiÅ¡n bÅ«d hÄnd ÄÄ«\yÅn 
+XLevel 5 Line: 4 bÅ«d Å¡aÅ¡ hazÄr sÄl a-petyÄrag , hazÄrag xwadÄyÄ«h Ä« 
+XLevel 5 Line: 5 karzang ud Å¡agr ud hÅÅ¡ag bÅ«d hÄnd , ÄiyÅn bÅ«d Å¡aÅ¡ ha\zÄr 
+XLevel 5 Line: 6 sÄl . Level 3 Sentence: 4 ka hazÄrag xwadÄyÄ«h Å tarÄzÅ«g mad , petyÄrag 
+XLevel 5 Line: 7 andar dwÄrist ud gayÅmart andar ÄbgatÄ«h sÄ«h sÄl zÄ«st . 
+
+XLevel 5 Line: 8 Level 3 Sentence: 5 pas az Äehel sÄl maÅ¡Ä« <ud> maÅ¡yÄnÄ abar rust hÄnd , 
+XLevel 5 Line: 9 panjÄh sÄl Än bÅ«d ka-Å¡Än zanÄ«h Å¡ÅyÄ«h nÄ bÅ«d ; nawad 
+XLevel 5 Line: 10 <ud> sÄ sÄl <ud Å¡aÅ¡ mÄh> ÄgenÄn zan[Ä«h] ud Å¡Åy[Ä«h] 
+XLevel 5 Line: 11 bÅ«d hÄnd tÄ Än ka hÅÅ¡ang mad . Level 3 Sentence: 6 hoÅ¡ang Äehel sÄl , tah\murab 
+XLevel 5 Line: 12 sÄ«h sÄl , jam tÄ xwarrah <aziÅ¡ be Å¡ud Å¡aÅ¡ sad 
+XLevel 5 Line: 13 <ud> Å¡Äzdah sÄl ud Å¡aÅ¡ mÄh pas az Än sad sÄl andar 
+XLevel 5 Line: 14 nihÄnÄ«g bÅ«d . Level 3 Sentence: 7 pas hazÄrag xwadÄyÄ«h Å gazdum mad , ud 
+XLevel 5 Line: 15 dahÄg hazÄr sÄl <xwadÄyÄ«h> kard . Level 3 Sentence: 8 pas hazÄrag xwadÄyÄ«h 
+XLevel 5 Line: 16 Å nÄm-asp mad frÄdÅn panj sad sÄl <xwadÄyÄ«h kard> ; 
+XLevel 5 Line: 17 andar im panj sad sÄl frÄdÅn , Äraz dwÄzdah sÄl , manu\Å¡Äihr 
+XLevel 5 Line: 18 sÄl sad <ud> wÄ«st , andar im xwadÄyÄ«h manuÅ¡Äihr 
+XLevel 5 Line: 19 ka pad padiÅ¡xwÄrgar bÅ«d , frÄsiyÄb dwÄzdah sÄl uzaw 
+XLevel 5 Line: 20 tahmÄspÄn panj sÄl , kaykawÄd pÄnzdah sÄl , kay kÄyÅs 
+XLevel 5 Line: 21 tÄ Å¡ud<an> Å asmÄn haftÄd ud panj sÄl , pas az Än 
+XLevel 5 Line: 22 <haftad ud panj sÄl> ÄgenÄn sad ud panjÄh sÄl , kay\husraw 
+XLevel 5 Line: 23 Å¡ast sÄl , kayluhrÄsp sad ud wÄ«st sÄl kaygu\Å¡tÄsp 
+XLevel 4 Page: 74 XLevel 5 Line: 1 tÄ madan Ä« dÄn sÄ«h sÄl ; <mar sÄ hazÄr sÄl . 
+
+XLevel 5 Line: 2 Level 3 Sentence: 9 pas hazÄrag xwadÄyÄ«h Å wahÄ«g mad , zarduxÅ¡t spitÄmÄn 
+XLevel 5 Line: 3 pad paygÄmbarÄ«h az dÄdÄr ohrmazd Å wiÅ¡tÄsp Å¡Äh mad , 
+XLevel 5 Line: 4 wiÅ¡tasp Å¡Äh pas padÄ«riftan dÄn nawad sÄl> ÄgenÄn sad 
+XLevel 5 Line: 5 <ud> wÄ«st sÄl . Level 3 Sentence: 10 wahman Ä« spandyÄd sad <ud> dwÄzdah 
+XLevel 5 Line: 6 sÄl , hÅ«mÄy Ä« wahman duxt sÄ«h sÄl dÄrÄy Ä« Äihr-ÄzÄ\dÄn 
+XLevel 5 Line: 7 - ast wahman - dwÄzdah sÄl , dÄrÄy Ä« dÄrÄyÄn Äah\Ärdah 
+XLevel 5 Line: 8 sÄl , skandar hrÅmÄg ÄahÄr dah sÄl aÅ¡kÄnÄn pad 
+XLevel 5 Line: 9 ahlaw<Äg> xwadÄyÄ«h nÄm barÄnd , dÅsad ud haÅ¡tÄd <ud> 
+XLevel 5 Line: 10 ÄahÄr sÄl ; ardaÅ¡Är bÄbagÄn sÄsÄngÄn <pad> ÄmÄr ÄahÄr 
+XLevel 5 Line: 11 sad <ud> Å¡ast sÄl ; pas Å tÄzÄ«gÄn Å¡ud . Level 3 Sentence: 11 andar dÄn guft 
+XLevel 5 Line: 12 ÄstÄd kÅ« xÄÅ¡m dwÄrist Å ahreman pÄÅ¡ , u-Å¡ drÄyÄ«d kÅ« 
+XLevel 5 Line: 13 man andar gÄtÄ«g nÄ Å¡awÄm ÄÄ ohrmazd Ä« xwadÄy andar 
+XLevel 5 Line: 14 gÄtÄ«g sÄ ÄiÅ¡ dÄd ÄstÄd kÄ man gumÄz kardan nÄ tuwÄn . 
+
+XLevel 5 Line: 15 Level 3 Sentence: 12 ahreman drÄyÄ«d kÅ« gÅw kÅ« Än sÄ ÄiÅ¡ ÄÄ . Level 3 Sentence: 13 xÄÅ¡m drÄyÄ«d 
+XLevel 5 Line: 16 kÅ« gÄhÄnbÄr ud mÄzd ud xwÄdÅdah . Level 3 Sentence: 14 ahreman drÄyÄ«d kÅ« 
+XLevel 5 Line: 17 andar gÄhÄnbÄr be ras , agar az awÄÅ¡Än Äk ÄiÅ¡-Ä be du\zÄ«d 
+XLevel 5 Line: 18 gÄhÄnbÄr be Å¡kast , ud kÄr be kÄmag Ä« tÅ ; pad mÄzd 
+XLevel 5 Line: 19 be ras , agar az awÄÅ¡Än Äk-Ä be drÄyÄ«d mÄzd be Å¡kast , 
+XLevel 5 Line: 20 ud kÄr pad kÄmag Ä« tÅ ; xwÄdÅdah be hil , ÄÄ-Å¡ man ÄÄ\rag 
+XLevel 5 Line: 21 nÄ dÄnÄm , ÄÄ kÄ sÄ bÄr Å nazdÄ«k Å¡ud az xwÄÅ¡Ä«h Ä« 
+XLevel 5 Line: 22 ohrmazd ud amahraspandÄn judÄg nÄ bawÄd " 
+
+This text is part of the TITUS edition of Indian Bundahisn . 
+
+Copyright TITUS Project ,
+Frankfurt a/M, 12.12.2008.
+No parts of this document may be republished in any form
+without prior permission by the copyright holder.
