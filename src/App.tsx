@@ -5,11 +5,11 @@ import ChartVisualization from './components/ChartVisualization';
 import ResultsDisplay from './components/ResultsDisplay';
 import VedaSelector from './components/VedaSelector';
 import SuktaNavigator from './components/SuktaNavigator';
-import DeityCompass from './components/DeityCompass';
+import type { NavMode } from './components/SuktaNavigator';
 import { loadVedaData, searchWord } from './utils/dataProcessor';
 import type { Verse, SearchResult, OrderType, DisplayMode, VedaId } from './types';
 import { VEDA_CONFIGS } from './types';
-import { BookOpen, Share2, Compass } from 'lucide-react';
+import { BookOpen, Share2, Moon, Sun, Copy, Check } from 'lucide-react';
 import './App.css';
 
 function isVedaId(value: string | null): value is VedaId {
@@ -17,9 +17,6 @@ function isVedaId(value: string | null): value is VedaId {
 }
 
 function App() {
-  const [showCompass, setShowCompass] = useState(() => {
-    return new URLSearchParams(window.location.search).get('view') === 'compass';
-  });
   const [currentVeda, setCurrentVeda] = useState<VedaId>('rigveda');
   const [verses, setVerses] = useState<Verse[]>([]);
   const [loading, setLoading] = useState(true);
@@ -29,7 +26,20 @@ function App() {
   const [error, setError] = useState<string>('');
   const [searchTerms, setSearchTerms] = useState<string[]>([]);
   const [navigatedVerses, setNavigatedVerses] = useState<Verse[]>([]);
+  const [darkMode, setDarkMode] = useState(() => {
+    const saved = localStorage.getItem('theme');
+    if (saved) return saved === 'dark';
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  });
+  const [copyToast, setCopyToast] = useState<string | null>(null);
+  const [copiedVerseKey, setCopiedVerseKey] = useState<string | null>(null);
   const metadata = useMemo(() => VEDA_CONFIGS[currentVeda], [currentVeda]);
+
+  // Apply theme
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', darkMode ? 'dark' : 'light');
+    localStorage.setItem('theme', darkMode ? 'dark' : 'light');
+  }, [darkMode]);
 
   // Load search params from URL on mount
   useEffect(() => {
@@ -107,7 +117,6 @@ function App() {
     setError('');
     const results: SearchResult[] = [];
 
-    // Search for each term individually
     terms.forEach(term => {
       const result = searchWord(verses, [term], metadata, false);
       if (result) {
@@ -120,7 +129,6 @@ function App() {
       setSearchResults([]);
     } else {
       setSearchResults(results);
-      // Only update searchTerms if they're different to avoid infinite loop
       setSearchTerms(prevTerms => {
         const termsChanged = JSON.stringify(prevTerms) !== JSON.stringify(terms);
         return termsChanged ? terms : prevTerms;
@@ -129,7 +137,6 @@ function App() {
     }
   }, [verses, metadata, updateURL]);
 
-  // Perform search when verses are loaded and search terms exist
   useEffect(() => {
     if (verses.length > 0 && searchTerms.length > 0) {
       handleSearch(searchTerms);
@@ -139,13 +146,17 @@ function App() {
   const copyShareLink = () => {
     const url = window.location.href;
     navigator.clipboard.writeText(url).then(() => {
-      alert('Link copied to clipboard!');
+      showToast('Link copied to clipboard!');
     }).catch(err => {
       console.error('Failed to copy link:', err);
     });
   };
 
-  // Update URL when order or display mode changes
+  const showToast = (message: string) => {
+    setCopyToast(message);
+    setTimeout(() => setCopyToast(null), 2000);
+  };
+
   useEffect(() => {
     if (searchTerms.length > 0) {
       updateURL(searchTerms);
@@ -160,13 +171,12 @@ function App() {
     setNavigatedVerses([]);
   };
 
-  const handleNavigateToVerse = useCallback((verses: Verse[]) => {
-    setNavigatedVerses(verses);
+  const handleNavigateToVerse = useCallback((navVerses: Verse[], _navMode: NavMode) => {
+    setNavigatedVerses(navVerses);
     setSearchResults([]);
     setSearchTerms([]);
     setError('');
 
-    // Scroll to the navigated verse section
     setTimeout(() => {
       const element = document.querySelector('.navigated-verse-section');
       if (element) {
@@ -174,7 +184,54 @@ function App() {
       }
     }, 100);
   }, []);
-  
+
+  const copyVerseBlock = async (verse: Verse) => {
+    const vedaName = metadata.name;
+    const parts = [`${vedaName} ${verse.reference}`];
+    if (verse.iast) parts.push(verse.iast);
+    if (verse.meaning) parts.push(verse.meaning);
+    parts.push(verse.text);
+    const formatted = parts.join('\n\n');
+
+    try {
+      await navigator.clipboard.writeText(formatted);
+      setCopiedVerseKey(verse.reference);
+      showToast('Verse copied!');
+      setTimeout(() => setCopiedVerseKey(null), 2000);
+    } catch (err) {
+      console.error('Failed to copy:', err);
+    }
+  };
+
+  const copyAllNavigatedVerses = async () => {
+    if (navigatedVerses.length === 0) return;
+    const vedaName = metadata.name;
+
+    let header: string;
+    if (metadata.id === 'satapatha_brahmana') {
+      header = `${vedaName}, ${metadata.bookLabel} ${navigatedVerses[0].reference.split('.')[0]}, Adhyaya ${navigatedVerses[0].reference.split('.')[1]}, ${metadata.hymnLabel} ${navigatedVerses[0].reference.split('.')[2]}`;
+    } else {
+      header = `${vedaName}, ${metadata.bookLabel} ${navigatedVerses[0].mandala}, ${metadata.hymnLabel} ${navigatedVerses[0].hymn}`;
+    }
+
+    const verseTexts = navigatedVerses.map(v => {
+      const parts = [`[${v.reference}]`];
+      if (v.iast) parts.push(v.iast);
+      if (v.meaning) parts.push(v.meaning);
+      parts.push(v.text);
+      return parts.join('\n');
+    });
+
+    const fullText = `${header}\n\n${verseTexts.join('\n\n')}`;
+
+    try {
+      await navigator.clipboard.writeText(fullText);
+      showToast(`Copied ${navigatedVerses.length} verse${navigatedVerses.length > 1 ? 's' : ''}!`);
+    } catch (err) {
+      console.error('Failed to copy:', err);
+    }
+  };
+
   if (loading) {
     return (
       <div className="loading">
@@ -183,7 +240,7 @@ function App() {
       </div>
     );
   }
-  
+
   return (
     <div className="app">
       <header className="app-header">
@@ -191,41 +248,22 @@ function App() {
           <BookOpen size={32} />
           <h1>{metadata.name} Analysis Tool</h1>
           <p className="subtitle">
-            {showCompass ? 'Where gods live — and where they migrate' : `Search and visualize word distributions across the ${metadata.totalBooks} ${metadata.pluralBookLabel}`}
+            Search and visualize word distributions across the {metadata.totalBooks} {metadata.pluralBookLabel}
           </p>
-          <button
-            onClick={() => setShowCompass(v => !v)}
-            style={{
-              position: 'absolute',
-              right: 20,
-              top: '50%',
-              transform: 'translateY(-50%)',
-              background: showCompass ? '#f59e0b' : 'rgba(255,255,255,0.1)',
-              color: showCompass ? '#000' : '#aaa',
-              border: 'none',
-              borderRadius: 6,
-              padding: '6px 14px',
-              fontSize: 13,
-              cursor: 'pointer',
-              display: 'flex',
-              alignItems: 'center',
-              gap: 6,
-              fontWeight: showCompass ? 'bold' : 'normal',
-            }}
-          >
-            <Compass size={16} />
-            {showCompass ? 'Back to Search' : 'Deity Compass'}
-          </button>
+          <div className="header-buttons">
+            <button
+              className="theme-toggle-btn"
+              onClick={() => setDarkMode(d => !d)}
+              title={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+            >
+              {darkMode ? <Sun size={16} /> : <Moon size={16} />}
+              {darkMode ? 'Light' : 'Dark'}
+            </button>
+          </div>
         </div>
       </header>
-      
+
       <main className="app-main">
-        {showCompass ? (
-          <section style={{ padding: '20px 0' }}>
-            <DeityCompass />
-          </section>
-        ) : (
-        <>
         <section className="search-section">
           <VedaSelector currentVeda={currentVeda} onChange={handleVedaChange} />
           <div className="search-nav-row">
@@ -238,38 +276,61 @@ function App() {
           </div>
           {error && <div className="error-message">{error}</div>}
         </section>
-        
+
         {navigatedVerses.length > 0 && (
           <section className="navigated-verse-section">
             <div className="navigated-verse-content">
-              <h2>
-                {metadata.id === 'satapatha_brahmana' ? (
-                  <>
-                    {metadata.bookLabel} {navigatedVerses[0].reference.split('.')[0]},
-                    {' '}Adhyaya {navigatedVerses[0].reference.split('.')[1]},
-                    {' '}{metadata.hymnLabel} {navigatedVerses[0].reference.split('.')[2]}
-                    {navigatedVerses.length > 1 && ` (${navigatedVerses.length} verses)`}
-                  </>
-                ) : (
-                  <>
-                    {metadata.bookLabel} {navigatedVerses[0].mandala}, {metadata.hymnLabel} {navigatedVerses[0].hymn}
-                    {navigatedVerses.length > 1 && ` (${navigatedVerses.length} verses)`}
-                  </>
-                )}
-              </h2>
+              <div className="navigated-verse-header">
+                <h2>
+                  {metadata.id === 'satapatha_brahmana' ? (
+                    <>
+                      {metadata.bookLabel} {navigatedVerses[0].reference.split('.')[0]},
+                      {' '}Adhyaya {navigatedVerses[0].reference.split('.')[1]},
+                      {' '}{metadata.hymnLabel} {navigatedVerses[0].reference.split('.')[2]}
+                      {navigatedVerses.length > 1 && ` (${navigatedVerses.length} verses)`}
+                    </>
+                  ) : navigatedVerses.length > 1 && !metadata.hasThirdLevel && new Set(navigatedVerses.map(v => v.hymn)).size > 1 ? (
+                    <>
+                      {metadata.bookLabel} {navigatedVerses[0].mandala} ({navigatedVerses.length} verses)
+                    </>
+                  ) : (
+                    <>
+                      {metadata.bookLabel} {navigatedVerses[0].mandala}, {metadata.hymnLabel} {navigatedVerses[0].hymn}
+                      {navigatedVerses.length > 1 && ` (${navigatedVerses.length} verses)`}
+                    </>
+                  )}
+                </h2>
+                <button
+                  className="copy-chapter-btn"
+                  onClick={copyAllNavigatedVerses}
+                  title="Copy all displayed verses"
+                >
+                  <Copy size={16} />
+                  Copy All
+                </button>
+              </div>
               {navigatedVerses.map((verse) => (
                 <div className="verse-card" key={verse.reference}>
                   <div className="verse-header">
                     <span className="verse-reference">
                       {metadata.hasThirdLevel || navigatedVerses.length === 1
                         ? verse.reference
-                        : `${metadata.verseLabel} ${verse.verse}`}
+                        : `${metadata.hymnLabel} ${verse.hymn}`}
                     </span>
-                    {metadata.hasThirdLevel && (
-                      <span className="verse-location">
-                        {metadata.bookLabel} {verse.mandala}, {metadata.hymnLabel} {verse.hymn}, {metadata.verseLabel} {verse.verse}
-                      </span>
-                    )}
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                      {metadata.hasThirdLevel && (
+                        <span className="verse-location">
+                          {metadata.bookLabel} {verse.mandala}, {metadata.hymnLabel} {verse.hymn}, {metadata.verseLabel} {verse.verse}
+                        </span>
+                      )}
+                      <button
+                        className={`verse-copy-btn ${copiedVerseKey === verse.reference ? 'copied' : ''}`}
+                        onClick={() => copyVerseBlock(verse)}
+                        title="Copy this verse"
+                      >
+                        {copiedVerseKey === verse.reference ? <Check size={14} /> : <Copy size={14} />}
+                      </button>
+                    </div>
                   </div>
                   {verse.meaning && (
                     <div className="verse-sanskrit">
@@ -319,9 +380,7 @@ function App() {
             </section>
           </>
         )}
-        
-        </>
-        )}
+
         <footer className="app-footer">
           <div className="footer-content">
             <p>Data source: {metadata.dataSource}</p>
@@ -334,6 +393,8 @@ function App() {
           </div>
         </footer>
       </main>
+
+      {copyToast && <div className="copy-toast">{copyToast}</div>}
     </div>
   );
 }
