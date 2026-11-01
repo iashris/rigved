@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 cache
+
+# Local credentials (TITUS membership etc.)
+.env
+__pycache__/
+*.pyc

@@ -15,7 +15,7 @@ Some texts (e.g., Kausitaki Brahmana) are behind basic auth on a different subdo
 ```
 https://titus.fkidg1.uni-frankfurt.de/texte/etcc/...
 ```
-Credentials: `titusstud` / `R2gveda5`
+Credentials: a TITUS member login, set as `TITUS_USER` / `TITUS_PASS` in the repo-root `.env` (gitignored, never committed).
 
 ## Critical: Encoding
 

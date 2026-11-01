@@ -17,8 +17,15 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "public", "data")
 
 BASE = "https://titus.uni-frankfurt.de/texte"
 BASE_AUTH = "https://titus.fkidg1.uni-frankfurt.de/texte"
-TITUS_USER = "titusstud"
-TITUS_PASS = "R2gveda5"
+# TITUS login for the restricted subdomain: set TITUS_USER / TITUS_PASS in the environment or in the repo's .env (gitignored).
+_env = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".env")
+if os.path.exists(_env):
+    for _line in open(_env, encoding="utf-8"):
+        _k, _, _v = _line.strip().partition("=")
+        if _k and _v and _k not in os.environ:
+            os.environ[_k] = _v.strip().strip("\"'")
+TITUS_USER = os.environ.get("TITUS_USER", "")
+TITUS_PASS = os.environ.get("TITUS_PASS", "")
 HEADERS = {"User-Agent": "Mozilla/5.0 (academic research; vedic-texts-project)"}
 
 TEXTS = {
