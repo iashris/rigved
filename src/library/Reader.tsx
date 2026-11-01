@@ -133,7 +133,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   // A translation is shown by default when the text has one; ?with=none turns it off.
   const pair = withId === 'none' ? undefined : (pairs.find((p) => p.with === withId) ?? pairs[0]);
   const parent = t?.translationOf ? catalog.texts.find((x) => x.id === t.translationOf) : undefined;
-  const inlineEnglish = !!entries?.some((e) => e.e) && !!entries?.some((e) => e.s || e.d);
+  const inlineEnglish = !!entries?.some((e) => e.e || e.m) && !!entries?.some((e) => e.s || e.d);
 
   useEffect(() => setOffset(0), [key, pair?.with]);
 
@@ -294,6 +294,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
           <div className={`verses${twoCol ? ' two' : ''}`}>
             {entries.map((e) => {
               const en = pair?.mode === 'aligned' ? trByRef.get(e.r)?.e : e.e;
+              const machine = !en ? e.m : undefined;
               const lr = localRef(t, e.r);
               return (
                 <div key={e.r} id={`v-${e.r}`} className={`verse${verse === e.r ? ' hit' : ''}`}>
@@ -304,7 +305,17 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                     {e.t && <div className="v-title">{e.t}</div>}
                     <SanskritCell e={e} show={show} />
                   </div>
-                  {show.english && (en ? <div className="v-en"><Paragraphs text={en} /></div> : twoCol ? <div className="v-en v-missing">—</div> : null)}
+                  {show.english &&
+                    (en ? (
+                      <div className="v-en"><Paragraphs text={en} /></div>
+                    ) : machine ? (
+                      <div className="v-en v-mt">
+                        <span className="mt-label">Machine translation</span>
+                        <Paragraphs text={machine} />
+                      </div>
+                    ) : twoCol ? (
+                      <div className="v-en v-missing">—</div>
+                    ) : null)}
                 </div>
               );
             })}

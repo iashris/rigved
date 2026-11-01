@@ -788,3 +788,19 @@
     max-height: 70vh;
   }
 }
+
+/* Machine translation: visibly a different, lesser layer than a scholar's translation. */
+.v-mt {
+  color: var(--lib-ink-2);
+  font-style: italic;
+}
+
+.mt-label {
+  display: inline-block;
+  margin-bottom: 4px;
+  padding: 0 7px;
+  border: 1px dashed var(--lib-line);
+  border-radius: 99px;
+  font: normal 11px var(--lib-sans);
+  color: var(--lib-ink-3);
+}

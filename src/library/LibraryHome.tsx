@@ -29,7 +29,9 @@ function TextCard({ t }: { t: TextMeta }) {
             ? 'English throughout'
             : english > 0
               ? `English ${english}%`
-              : 'Sanskrit only'}
+              : t.stats.machine
+                ? 'Machine translation only'
+                : 'Sanskrit only'}
       </span>
     </a>
   );

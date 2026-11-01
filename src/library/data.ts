@@ -5,6 +5,7 @@ export interface Entry {
   s?: string; // IAST
   d?: string; // Devanagari
   e?: string; // English
+  m?: string; // machine translation (labelled as such wherever shown)
   t?: string; // heading (translation sections)
 }
 
@@ -30,7 +31,7 @@ export interface TextMeta {
   source?: string;
   pairs?: Pair[];
   blockDepth: number;
-  stats: { entries: number; blocks: number; english: number; sanskrit: number; chunks: number };
+  stats: { entries: number; blocks: number; english: number; machine?: number; sanskrit: number; chunks: number };
   toc: TocNode[];
 }
 
