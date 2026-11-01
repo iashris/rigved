@@ -199,6 +199,14 @@ def iast_to_devanagari(text):
     prev_was_consonant = False
 
     while i < len(text_lower):
+        # An apostrophe before a letter is the avagraha (so 'rjunaḥ → सो ऽर्जुनः)
+        if text_lower[i] in "'’" and i + 1 < len(text_lower) and text_lower[i + 1].isalpha():
+            if prev_was_consonant:
+                result.append(VIRAMA)
+                prev_was_consonant = False
+            result.append('ऽ')
+            i += 1
+            continue
         # Skip non-alphabetic characters
         if text_lower[i] in ' \t\n.,;:!?/\\|()[]{}0123456789\'"—–-_=+@#$%^&*~`<>':
             if prev_was_consonant:
