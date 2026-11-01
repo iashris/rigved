@@ -1,0 +1,282 @@
+[
+ {
+  "reference": "1",
+  "sanskrit_iast": "pañcasaṃvatsaramayaṃ yugādhyakṣaṃ prajāpatim | dinartvayanam āsāṅgaṃ praṇamya śirasā śuciḥ ||",
+  "meaning": "पञ्चसंवत्सरमयं युगाध्यक्षं प्रजापतिम् । दिनर्त्वयनम् आसाङ्गं प्रणम्य शिरसा शुचिः ॥",
+  "text": "",
+  "mandala": 1,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "2",
+  "sanskrit_iast": "praṇamya śirasā kālam abhivādya sarasvatīm | kālajñānaṃ pravakṣyāmi lagadhasya mahātmanaḥ ||",
+  "meaning": "प्रणम्य शिरसा कालम् अभिवाद्य सरस्वतीम् । कालज्ञानं प्रवक्ष्यामि लगधस्य महात्मनः ॥",
+  "text": "",
+  "mandala": 2,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "3",
+  "sanskrit_iast": "jyotiṣām ayanaṃ kṛtsnaṃ pravakṣyāmy anupūrvaśaḥ | viprāṇāṃ sammataṃ loke yajñakālārthasiddhaye ||",
+  "meaning": "ज्योतिषाम् अयनं कृत्स्नं प्रवक्ष्याम्य् अनुपूर्वशः । विप्राणां सम्मतं लोके यज्ञकालार्थसिद्धये ॥",
+  "text": "",
+  "mandala": 3,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "4",
+  "sanskrit_iast": "nirekaṃ dvādaśārdhābdaṃ dviguṇaṃ gatasaṃjñikam | ṣaṣṭyā ṣaṣṭyā yutaṃ dvābhyāṃ parvaṇāṃ rāśir ucyate ||",
+  "meaning": "निरेकं द्वादशार्धाब्दं द्विगुणं गतसंज्ञिकम् । षष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिर् उच्यते ॥",
+  "text": "",
+  "mandala": 4,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "5",
+  "sanskrit_iast": "svar ākramete somārkau yadā sākaṃ savāsavau | syāt tadādi yugaṃ māghastapaḥ śuklo 'yanaṃ hy udak ||",
+  "meaning": "स्वर् आक्रमेते सोमार्कौ यदा साकं सवासवौ । स्यात् तदादि युगं माघस्तपः शुक्लो ऽयनं ह्य् उदक् ॥",
+  "text": "",
+  "mandala": 5,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "6",
+  "sanskrit_iast": "prapadyete śraviṣṭhādau sūryācandramasāv udak | sārpārdhe dakṣiṇārkas tu māghaśrāvaṇayoḥ sadā ||",
+  "meaning": "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसाव् उदक् । सार्पार्धे दक्षिणार्कस् तु माघश्रावणयोः सदा ॥",
+  "text": "",
+  "mandala": 6,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "7",
+  "sanskrit_iast": "gharmavṛddhir apāṃ prasthaḥ kṣapāhrāsa udaggatau | dakṣiṇe tau viparyāsaḥ ṣaṇmuhūrtyayanena tu ||",
+  "meaning": "घर्मवृद्धिर् अपां प्रस्थः क्षपाह्रास उदग्गतौ । दक्षिणे तौ विपर्यासः षण्मुहूर्त्ययनेन तु ॥",
+  "text": "",
+  "mandala": 7,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "8",
+  "sanskrit_iast": "dviguṇaṃ saptamaṃ cāhur ayanādyaṃ trayodaśam | caturthaṃ daśamaṃ ca dviryugmādyaṃ bahule 'py ṛtau ||",
+  "meaning": "द्विगुणं सप्तमं चाहुर् अयनाद्यं त्रयोदशम् । चतुर्थं दशमं च द्विर्युग्माद्यं बहुले ऽप्य् ऋतौ ॥",
+  "text": "",
+  "mandala": 8,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "9",
+  "sanskrit_iast": "vasus tvaṣṭā bhavo 'jaś ca mitraḥ sarpāśvinau jalam | dhātā kaś cāyanādyāś cārthapañcamabhas tv ṛtuḥ ||",
+  "meaning": "वसुस् त्वष्टा भवो ऽजश् च मित्रः सर्पाश्विनौ जलम् । धाता कश् चायनाद्याश् चार्थपञ्चमभस् त्व् ऋतुः ॥",
+  "text": "",
+  "mandala": 9,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "10",
+  "sanskrit_iast": "bhāṃśāḥ syur aṣṭakāḥ kāryāḥ pakṣadvādaśakodgatāḥ | ekādaśaguṇaś conaḥ śukle 'rdhaṃ caindavā yadi ||",
+  "meaning": "भांशाः स्युर् अष्टकाः कार्याः पक्षद्वादशकोद्गताः । एकादशगुणश् चोनः शुक्ले ऽर्धं चैन्दवा यदि ॥",
+  "text": "",
+  "mandala": 10,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "11",
+  "sanskrit_iast": "kāryā bhāṃśāṣṭakasthāne kalā ekānnaviṃśatiḥ | ūnasthāne trisaptatim udvaped ūnasaṃmitāḥ ||",
+  "meaning": "कार्या भांशाष्टकस्थाने कला एकान्नविंशतिः । ऊनस्थाने त्रिसप्ततिम् उद्वपेद् ऊनसंमिताः ॥",
+  "text": "",
+  "mandala": 11,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "12",
+  "sanskrit_iast": "tryaṃśo bhaśeṣo divasāṃśabhāgaś caturdaśaś cāpy anīya bhinnam | bhārdhe 'dhike cāpi gate paro 'ṃśo dvāv uttamaikaṃ pnavakairavedyam ||",
+  "meaning": "त्र्यंशो भशेषो दिवसांशभागश् चतुर्दशश् चाप्य् अनीय भिन्नम् । भार्धे ऽधिके चापि गते परो ऽंशो द्वाव् उत्तमैकं प्नवकैरवेद्यम् ॥",
+  "text": "",
+  "mandala": 12,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "13",
+  "sanskrit_iast": "pakṣāt pañcadaśāc cordhvaṃ tadbhuktam iti nirdiśet | navabhis tūdgato 'ṃśaḥ syād ūnāṃśadvyadhikena tu ||",
+  "meaning": "पक्षात् पञ्चदशाच् चोर्ध्वं तद्भुक्तम् इति निर्दिशेत् । नवभिस् तूद्गतो ऽंशः स्याद् ऊनांशद्व्यधिकेन तु ॥",
+  "text": "",
+  "mandala": 13,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "14",
+  "sanskrit_iast": "jau drā ghaḥ khe śve 'hī ro ṣā cin mū ṣa ṇyaḥ sū mā dhā ṇaḥ | re mṛ ghrāḥ svā 'po 'jaḥ kṛ ṣyo ha jye ṣṭhā ittṛkṣā liṅgaiḥ ||",
+  "meaning": "जौ द्रा घः खे श्वे ऽही रो षा चिन् मू ष ण्यः सू मा धा णः । रे मृ घ्राः स्वा ऽपो ऽजः कृ ष्यो ह ज्ये ष्ठा इत्तृक्षा लिङ्गैः ॥",
+  "text": "",
+  "mandala": 14,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "15",
+  "sanskrit_iast": "jāvādyaṃśaiḥ samaṃ vidyāt pūrvārdhe parvasūttare | bhādānaṃ syāt caturdaśyāṃ kāṣṭhānāṃ devinā kalāḥ ||",
+  "meaning": "जावाद्यंशैः समं विद्यात् पूर्वार्धे पर्वसूत्तरे । भादानं स्यात् चतुर्दश्यां काष्ठानां देविना कलाः ॥",
+  "text": "",
+  "mandala": 15,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "16",
+  "sanskrit_iast": "kalā daśa saviṃśā syāt dve muhūrtasya nāḍike | dyutriṃśat tatkalānāṃ tu ṣaṭchatī tryadhikaṃ bhavet ||",
+  "meaning": "कला दश सविंशा स्यात् द्वे मुहूर्तस्य नाडिके । द्युत्रिंशत् तत्कलानां तु षट्छती त्र्यधिकं भवेत् ॥",
+  "text": "",
+  "mandala": 16,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "17",
+  "sanskrit_iast": "nāḍike dve muhūrtas tu pañcāśatpalam āḍhakam | āḍhakāt kumbhako droṇaḥ kuṭapair vardhate tribhiḥ ||",
+  "meaning": "नाडिके द्वे मुहूर्तस् तु पञ्चाशत्पलम् आढकम् । आढकात् कुम्भको द्रोणः कुटपैर् वर्धते त्रिभिः ॥",
+  "text": "",
+  "mandala": 17,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "18",
+  "sanskrit_iast": "sasaptakaṃ bhayuk somaḥ sūryo dyūni trayodaśa | navabhāni ca pañcāhnaḥ kāṣṭhāḥ pañcākṣarāḥ smṛtāḥ ||",
+  "meaning": "ससप्तकं भयुक् सोमः सूर्यो द्यूनि त्रयोदश । नवभानि च पञ्चाह्नः काष्ठाः पञ्चाक्षराः स्मृताः ॥",
+  "text": "",
+  "mandala": 18,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "19",
+  "sanskrit_iast": "śraviṣṭhāyāṃ gaṇābhyastān prāgvilagnān vinirdiśet | staryān māsān ṣaḍabhyastān vidyāc cāndramasān ṛtun ||",
+  "meaning": "श्रविष्ठायां गणाभ्यस्तान् प्राग्विलग्नान् विनिर्दिशेत् । स्तर्यान् मासान् षडभ्यस्तान् विद्याच् चान्द्रमसान् ऋतुन् ॥",
+  "text": "",
+  "mandala": 19,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "20",
+  "sanskrit_iast": "atītaparvabhāgebhyaḥ śodhayed dviguṇāṃ tithim | teṣu maṇḍalabhāgeṣu tithiniṣṭhāṃgato raviḥ ||",
+  "meaning": "अतीतपर्वभागेभ्यः शोधयेद् द्विगुणां तिथिम् । तेषु मण्डलभागेषु तिथिनिष्ठांगतो रविः ॥",
+  "text": "",
+  "mandala": 20,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "21",
+  "sanskrit_iast": "yāḥ parvabhādānakalās tāsu saptaguṇāṃ tithim | prakṣipet tatsamūhas tu vidyād ādānikīḥ kalāḥ ||",
+  "meaning": "याः पर्वभादानकलास् तासु सप्तगुणां तिथिम् । प्रक्षिपेत् तत्समूहस् तु विद्याद् आदानिकीः कलाः ॥",
+  "text": "",
+  "mandala": 21,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "22",
+  "sanskrit_iast": "yad uttarasyāyanato gataṃ syāc cheṣaṃ tu yad dakṣiṇato 'yanasya | tad ekaṣaṣṭyā dviguṇaṃ vibhaktaṃ sadvādaśaṃ syād divasapramāṇam ||",
+  "meaning": "यद् उत्तरस्यायनतो गतं स्याच् छेषं तु यद् दक्षिणतो ऽयनस्य । तद् एकषष्ट्या द्विगुणं विभक्तं सद्वादशं स्याद् दिवसप्रमाणम् ॥",
+  "text": "",
+  "mandala": 22,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "23",
+  "sanskrit_iast": "yad ardhaṃ dinabhāgānāṃ sadā parvaṇi parvaṇi | ṛtuśeṣaṃ tu tad vidyāt saṃkhyāya sahaparvaṇām ||",
+  "meaning": "यद् अर्धं दिनभागानां सदा पर्वणि पर्वणि । ऋतुशेषं तु तद् विद्यात् संख्याय सहपर्वणाम् ॥",
+  "text": "",
+  "mandala": 23,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "24",
+  "sanskrit_iast": "ity upāyasamuddeśo bhūyo 'py ahnaḥ prakalpayet | jñeyarāśigatābhyastaṃ vibhajet jñānarāśinā ||",
+  "meaning": "इत्य् उपायसमुद्देशो भूयो ऽप्य् अह्नः प्रकल्पयेत् । ज्ञेयराशिगताभ्यस्तं विभजेत् ज्ञानराशिना ॥",
+  "text": "",
+  "mandala": 24,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "25",
+  "sanskrit_iast": "agniḥ prajāpatiḥ somo rudro 'ditir bṛhaspatiḥ | sarpāś ca pitaraś caiva bhagaś caivāryamāpi ca ||",
+  "meaning": "अग्निः प्रजापतिः सोमो रुद्रो ऽदितिर् बृहस्पतिः । सर्पाश् च पितरश् चैव भगश् चैवार्यमापि च ॥",
+  "text": "",
+  "mandala": 25,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "26",
+  "sanskrit_iast": "savitā tvaṣṭātha vāyuś cendrāgnī mitra eva ca | indro niṛrtir āpo vai viśvedevās tathaiva ca ||",
+  "meaning": "सविता त्वष्टाथ वायुश् चेन्द्राग्नी मित्र एव च । इन्द्रो निऋर्तिर् आपो वै विश्वेदेवास् तथैव च ॥",
+  "text": "",
+  "mandala": 26,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "27",
+  "sanskrit_iast": "viṣnur vasavo varuṇo 'ja ekapāt tathaiva ca | ahirbudhnyas tathā pūṣā aśvinau yama eva ca ||",
+  "meaning": "विष्नुर् वसवो वरुणो ऽज एकपात् तथैव च । अहिर्बुध्न्यस् तथा पूषा अश्विनौ यम एव च ॥",
+  "text": "",
+  "mandala": 27,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "28",
+  "sanskrit_iast": "nakṣatradevatā etā etābhir yajñakarmaṇi | yajamānasya śāstrajñair nāma nakṣatrajaṃ smṛtam ||",
+  "meaning": "नक्षत्रदेवता एता एताभिर् यज्ञकर्मणि । यजमानस्य शास्त्रज्ञैर् नाम नक्षत्रजं स्मृतम् ॥",
+  "text": "",
+  "mandala": 28,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "29",
+  "sanskrit_iast": "ity evaṃ māsavarṣāṇāṃ muhūrtodayaparvaṇām | dinartvayanam āsāṅgaṃ vyākhyānaṃ lagadho 'bravīt ||",
+  "meaning": "इत्य् एवं मासवर्षाणां मुहूर्तोदयपर्वणाम् । दिनर्त्वयनम् आसाङ्गं व्याख्यानं लगधो ऽब्रवीत् ॥",
+  "text": "",
+  "mandala": 29,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "30",
+  "sanskrit_iast": "somasūryastṛcaritaṃ lokaṃ loke ca sammatim | somasūryastṛcaritaṃ vidvān vedavid aśnute ||",
+  "meaning": "सोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम् । सोमसूर्यस्तृचरितं विद्वान् वेदविद् अश्नुते ॥",
+  "text": "",
+  "mandala": 30,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "31",
+  "sanskrit_iast": "viṣuvaṃ tadguṇaṃ dvābhyāṃ rūpahīnaṃ tu ṣaḍguṇam | yal labdhaṃ tāni parvāṇi tathārdhaṃ sā tithir bhavet ||",
+  "meaning": "विषुवं तद्गुणं द्वाभ्यां रूपहीनं तु षड्गुणम् । यल् लब्धं तानि पर्वाणि तथार्धं सा तिथिर् भवेत् ॥",
+  "text": "",
+  "mandala": 31,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "32",
+  "sanskrit_iast": "māghaśuklapravṛttasya pauṣakṛṣnasamāpinaḥ | yugasya pañcavarṣasya kālajñānaṃ pracakṣate ||",
+  "meaning": "माघशुक्लप्रवृत्तस्य पौषकृष्नसमापिनः । युगस्य पञ्चवर्षस्य कालज्ञानं प्रचक्षते ॥",
+  "text": "",
+  "mandala": 32,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "33",
+  "sanskrit_iast": "tṛtīyāṃ navamīṃ caiva paurṇamāsīm athāsite | ṣaṣṭhīṃ ca viṣuvān prokto dvādaśīṃ ca samaṃ bhavet ||",
+  "meaning": "तृतीयां नवमीं चैव पौर्णमासीम् अथासिते । षष्ठीं च विषुवान् प्रोक्तो द्वादशीं च समं भवेत् ॥",
+  "text": "",
+  "mandala": 33,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "34",
+  "sanskrit_iast": "caturdaśīm upavasathas tathā bhaved yathodito dinam upaiti candramāḥ | māghaśuklāhniko yuṅkte śraviṣṭhāyāṃ ca vārṣikīm ||",
+  "meaning": "चतुर्दशीम् उपवसथस् तथा भवेद् यथोदितो दिनम् उपैति चन्द्रमाः । माघशुक्लाह्निको युङ्क्ते श्रविष्ठायां च वार्षिकीम् ॥",
+  "text": "",
+  "mandala": 34,
+  "vedaId": "jyotisa_rk"
+ },
+ {
+  "reference": "35",
+  "sanskrit_iast": "yathā śikhā mayūrāṇāṃ nāgānāṃ maṇayo yathā | tadvad vedāṅgaśāstrāṇāṃ jyotiṣaṃ mūrdhani sthitam ||",
+  "meaning": "यथा शिखा मयूराणां नागानां मणयो यथा । तद्वद् वेदाङ्गशास्त्राणां ज्योतिषं मूर्धनि स्थितम् ॥",
+  "text": "",
+  "mandala": 35,
+  "vedaId": "jyotisa_rk"
+ }
+]

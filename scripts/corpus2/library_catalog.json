@@ -72,9 +72,14 @@
     {"id": "apastamba_dharmasutra", "file": "sutras/apastamba_dharmasutra.json", "name": "Āpastamba Dharmasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Praśna", "Paṭala", "Khaṇḍa", "Sūtra"], "source": "GRETIL; English: Bühler (SBE 2)"},
     {"id": "apastamba_grhyasutra", "file": "sutras/apastamba_grhyasutra.json", "name": "Āpastamba Gṛhyasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Khaṇḍa", "Sūtra"], "source": "GRETIL; English: Oldenberg (SBE 30)"},
     {"id": "apastamba_sulbasutra", "file": "sutras/apastamba_sulbasutra.json", "name": "Āpastamba Śulbasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Khaṇḍa", "Sūtra"], "source": "GRETIL"},
+    {"id": "baudhayana_srautasutra", "file": "sutras/baudhayana_srautasutra.json", "name": "Baudhāyana Śrautasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Praśna", "Kaṇḍikā", "Page", "Line"], "source": "Pramāṇa (indike.org/pramana): TITUS e-text of W. Caland's edition (1904–24), cited praśna.kaṇḍikā:page.line"},
+    {"id": "baudhayana_sulbasutra", "file": "sutras/baudhayana_sulbasutra.json", "name": "Baudhāyana Śulbasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Khaṇḍa", "Sūtra"], "source": "Pramāṇa (indike.org/pramana): TITUS (Sen & Bag 1983)"},
     {"id": "baudhayana_dharmasutra", "file": "sutras/baudhayana_dharmasutra.json", "name": "Baudhāyana Dharmasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Praśna", "Adhyāya", "Khaṇḍa", "Sūtra"], "source": "GRETIL; English: Bühler (SBE 14)"},
     {"id": "hiranyakesin_grhyasutra", "file": "sutras/hiranyakesin_grhyasutra.json", "name": "Hiraṇyakeśi Gṛhyasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Praśna", "Paṭala", "Khaṇḍa", "Sūtra"], "source": "English only: Oldenberg (SBE 30)"},
+    {"id": "hiranyakesin_sulbasutra", "file": "sutras/hiranyakesin_sulbasutra.json", "name": "Hiraṇyakeśi Śulbasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Praśna", "Paṭala", "Sūtra"], "source": "Pramāṇa (indike.org/pramana): Vedic Reserve e-text (Ānandāśrama ed. 1907, praśna 25)"},
     {"id": "manava_grhyasutra", "file": "sutras/manava_grhyasutra.json", "name": "Mānava Gṛhyasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Puruṣa", "Khaṇḍa", "Sūtra"], "source": "GRETIL"},
+    {"id": "manava_sulbasutra", "file": "sutras/manava_sulbasutra.json", "name": "Mānava Śulbasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Khaṇḍa", "Sūtra"], "source": "Pramāṇa (indike.org/pramana): TITUS (Sen & Bag 1983)"},
+    {"id": "maitrayana_sulbasutra", "file": "sutras/maitrayana_sulbasutra.json", "name": "Maitrāyaṇīya Śulbasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Khaṇḍa", "Sūtra"], "source": "Pramāṇa (indike.org/pramana): Vedic Reserve e-text (ed. Damodar Jha)"},
     {"id": "varaha_grhyasutra", "file": "sutras/varaha_grhyasutra.json", "name": "Vārāha Gṛhyasūtra", "veda": "kyv", "layer": "sutra", "levels": ["Khaṇḍa", "Sūtra"], "source": "GRETIL"},
 
     {"id": "vajasaneyi_samhita", "file": "vedas/vajasaneyi_samhita.json", "name": "Vājasaneyi Saṃhitā", "veda": "syv", "layer": "samhita", "levels": ["Adhyāya", "Mantra"], "source": "TITUS (Weber 1849), Mādhyandina; English: Griffith (1899)",
@@ -85,6 +90,7 @@
     {"id": "isha_upanishad", "file": "upanishads/isha_upanishad.json", "name": "Īśa Upaniṣad", "veda": "syv", "layer": "upanishad", "levels": ["Mantra"]},
     {"id": "sivasamkalpa_upanishad", "file": "upanishads/sivasamkalpa_upanishad.json", "name": "Śivasaṃkalpa Upaniṣad", "veda": "syv", "layer": "upanishad", "later": true, "levels": ["Verse"], "source": "GRETIL"},
     {"id": "paraskara_grhyasutra", "file": "sutras/paraskara_grhyasutra.json", "name": "Pāraskara Gṛhyasūtra", "veda": "syv", "layer": "sutra", "levels": ["Kāṇḍa", "Kaṇḍikā", "Sūtra"], "source": "English only: Oldenberg (SBE 29)"},
+    {"id": "katyayana_sulbasutra", "file": "sutras/katyayana_sulbasutra.json", "name": "Kātyāyana Śulbasūtra", "veda": "syv", "layer": "sutra", "levels": ["Khaṇḍa", "Sūtra"], "source": "Pramāṇa (indike.org/pramana): TITUS (Sen & Bag 1983)"},
 
     {"id": "atharvaveda", "file": "vedas/atharvaveda.json", "name": "Atharvaveda Saṃhitā (Śaunaka)", "veda": "av", "layer": "samhita", "levels": ["Kāṇḍa", "Sūkta", "Mantra"], "source": "English: R. T. H. Griffith (1895)"},
     {"id": "paippalada_samhita", "file": "vedas/paippalada_samhita.json", "name": "Paippalāda Saṃhitā", "veda": "av", "layer": "samhita", "levels": ["Kāṇḍa", "Sūkta", "Mantra"], "source": "GRETIL (Griffiths, Zehnder, Lubotsky et al.)"},
@@ -106,6 +112,13 @@
      "pairs": [{"with": "ramayana_dutt", "mode": "concordance", "label": "M. N. Dutt (1891–94)"}]},
     {"id": "ramayana_dutt", "file": "epics/ramayana_dutt.json", "name": "Rāmāyaṇa — Dutt", "band": "itihasa", "translationOf": "ramayana", "levels": ["Kāṇḍa", "Sarga"], "source": "M. N. Dutt (1891–94), vulgate; Project Gutenberg"},
     {"id": "manu_smrti", "file": "epics/manu_smrti.json", "name": "Manusmṛti", "band": "smrti", "levels": ["Adhyāya", "Śloka"], "source": "English: G. Bühler (SBE 25)"},
-    {"id": "nirukta", "file": "other/nirukta.json", "name": "Nirukta of Yāska", "band": "vedanga", "levels": ["Adhyāya", "Khaṇḍa"], "source": "GRETIL (weak e-text: some letters lost)"}
+    {"id": "nirukta", "file": "other/nirukta.json", "name": "Nirukta of Yāska", "band": "vedanga", "levels": ["Adhyāya", "Khaṇḍa"], "source": "GRETIL (weak e-text: some letters lost)"},
+    {"id": "brhaddevata", "file": "other/brhaddevata.json", "name": "Bṛhaddevatā of Śaunaka", "band": "vedanga", "levels": ["Adhyāya", "Verse"], "source": "Sanskrit: Wikisource via Pramāṇa; English: A. A. Macdonell (HOS 5–6, 1904)"},
+    {"id": "sarvanukramani", "file": "other/sarvanukramani.json", "name": "Sarvānukramaṇī of Kātyāyana", "band": "vedanga", "levels": ["Part", "Section / Maṇḍala", "Sūtra / Sūkta"], "source": "Pramāṇa (indike.org/pramana): Sansknet e-text; part 1 paribhāṣā, part 2 index by Ṛgveda maṇḍala.sūkta"},
+    {"id": "jyotisa_rk", "file": "other/jyotisa_rk.json", "name": "Ārca Jyotiṣa (Ṛgveda Vedāṅga Jyotiṣa)", "band": "vedanga", "levels": ["Verse"], "source": "Pramāṇa (indike.org/pramana): GRETIL (K. V. Sarma ed., input O. Hellwig)"},
+    {"id": "jyotisa_yajus", "file": "other/jyotisa_yajus.json", "name": "Yājuṣa Jyotiṣa (Yajurveda Vedāṅga Jyotiṣa)", "band": "vedanga", "levels": ["Verse"], "source": "Pramāṇa (indike.org/pramana): sanskritdocuments.org"},
+    {"id": "jyotisa_atharva", "file": "other/jyotisa_atharva.json", "name": "Ātharvaṇa Jyotiṣa", "band": "vedanga", "levels": ["Prakaraṇa", "Verse"], "source": "Pramāṇa (indike.org/pramana): Wikisource (Bhagavad Datta ed. 1924), OCR; partial"},
+    {"id": "pingala_chandahsutra", "file": "other/pingala_chandahsutra.json", "name": "Chandaḥsūtra of Piṅgala", "band": "vedanga", "levels": ["Adhyāya", "Sūtra"], "source": "Pramāṇa (indike.org/pramana): Vedic Reserve e-text"},
+    {"id": "atharvaveda_parisista", "file": "other/atharvaveda_parisista.json", "name": "Atharvaveda Pariśiṣṭa", "band": "vedanga", "levels": ["Pariśiṣṭa", "Khaṇḍa", "Verse"], "source": "Pramāṇa (indike.org/pramana): GRETIL (Bolling & von Negelein 1909–10)"}
   ]
 }

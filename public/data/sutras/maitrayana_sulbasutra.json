@@ -1,0 +1,740 @@
+[
+ {
+  "reference": "1.1",
+  "sanskrit_iast": "āhavanīyaṃ yajamānamātradīrghacaturasraṃ vihṛtya tāvatīṃ rajjumabhyasya madhye lakṣaṇaṃ kṛtvā dakṣiṇayoḥ śroṇyaṃsayorantau niyamya lakṣaṇena dakṣiṇānāyamya nimittakārātinimitte rajjuṃ niyamyāntau samasya dakṣiṇāyāḥ śroṇerdakṣiṇamaṃsamanulikhedevamevottaratastiryaṅmānīṃ dviguṇāṃ tathā kṛtvā purastātpaścāccopalikhet",
+  "meaning": "आहवनीयं यजमानमात्रदीर्घचतुरस्रं विहृत्य तावतीं रज्जुमभ्यस्य मध्ये लक्षणं कृत्वा दक्षिणयोः श्रोण्यंसयोरन्तौ नियम्य लक्षणेन दक्षिणानायम्य निमित्तकारातिनिमित्ते रज्जुं नियम्यान्तौ समस्य दक्षिणायाः श्रोणेर्दक्षिणमंसमनुलिखेदेवमेवोत्तरतस्तिर्यङ्मानीं द्विगुणां तथा कृत्वा पुरस्तात्पश्चाच्चोपलिखेत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 1,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.2",
+  "sanskrit_iast": "aratniścaturasrastu pūrvasyāgneḥ kharaḥ smṛtaḥ rathacakrākṛtiḥ paścāccandrārddha iva dakṣiṇaḥ",
+  "meaning": "अरत्निश्चतुरस्रस्तु पूर्वस्याग्नेः खरः स्मृतः रथचक्राकृतिः पश्चाच्चन्द्रार्द्ध इव दक्षिणः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 2,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.3",
+  "sanskrit_iast": "maṇḍale parilekhaḥ syādyavonāni caturdaśa parilekhārddhacandre syātsārddhā hyekonaviṃśatiḥ",
+  "meaning": "मण्डले परिलेखः स्याद्यवोनानि चतुर्दश परिलेखार्द्धचन्द्रे स्यात्सार्द्धा ह्येकोनविंशतिः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 3,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.4",
+  "sanskrit_iast": "sikatānāṃ kharaṃ kuryādagnerāyatanaṃ hi tat uddhatāvokṣataṃ kṛtvā sphyena kurvīta lakṣaṇam",
+  "meaning": "सिकतानां खरं कुर्यादग्नेरायतनं हि तत् उद्धतावोक्षतं कृत्वा स्फ्येन कुर्वीत लक्षणम्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 4,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.5",
+  "sanskrit_iast": "kharapramāṇā rekhāḥ ṣaḍ udīcī prathamā bhavet pañca prācyastato rekhā dakṣiṇe cottare pṛthak",
+  "meaning": "खरप्रमाणा रेखाः षड् उदीची प्रथमा भवेत् पञ्च प्राच्यस्ततो रेखा दक्षिणे चोत्तरे पृथक्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 5,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.6",
+  "sanskrit_iast": "tayormadhye punaścānye tayormadhye tu pañcamī rekhāṇāmanupūrveṇa devatāḥ samprakīrtitāḥ",
+  "meaning": "तयोर्मध्ये पुनश्चान्ये तयोर्मध्ये तु पञ्चमी रेखाणामनुपूर्वेण देवताः सम्प्रकीर्तिताः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 6,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.7",
+  "sanskrit_iast": "pṛthivyagniśca vāyuśca somaścendraḥ prajāpatiḥ lakṣaṇe tu kṛte tasminnagneḥ praṇayanaṃ bhavet",
+  "meaning": "पृथिव्यग्निश्च वायुश्च सोमश्चेन्द्रः प्रजापतिः लक्षणे तु कृते तस्मिन्नग्नेः प्रणयनं भवेत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 7,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.8",
+  "sanskrit_iast": "aṇīyasyāścaturhastāṃ rajjuṃ mitvā tridhā bhajet madhyaṃ caturddhā saṃbhujya madhyamaṃ lakṣaṇaṃ bhavet pūrvāt tribhāgātpaścārddhe turye dadyācca lakṣaṇam",
+  "meaning": "अणीयस्याश्चतुर्हस्तां रज्जुं मित्वा त्रिधा भजेत् मध्यं चतुर्द्धा संभुज्य मध्यमं लक्षणं भवेत् पूर्वात् त्रिभागात्पश्चार्द्धे तुर्ये दद्याच्च लक्षणम्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 8,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.9",
+  "sanskrit_iast": "saurayyavihitā vediḥ śulbavijñānasaṃmitā",
+  "meaning": "सौरय्यविहिता वेदिः शुल्बविज्ञानसंमिता",
+  "text": "",
+  "mandala": 1,
+  "hymn": 9,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.10",
+  "sanskrit_iast": "dārśikī ṣaṭśayā turye sapta saptadaśaiva tat ekaṃ dvau pañca tairmitvā samaraiḥ parilekhayet",
+  "meaning": "दार्शिकी षट्शया तुर्ये सप्त सप्तदशैव तत् एकं द्वौ पञ्च तैर्मित्वा समरैः परिलेखयेत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 10,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.11",
+  "sanskrit_iast": "maitrāyaṇīya śulba sūtra pāśātpāśastu prācyarddhe madhye dadyācca lakṣaṇam madhyātturīye nirāyāmo vistārastvardhato bhavet",
+  "meaning": "मैत्रायणीय शुल्ब सूत्र पाशात्पाशस्तु प्राच्यर्द्धे मध्ये दद्याच्च लक्षणम् मध्यात्तुरीये निरायामो विस्तारस्त्वर्धतो भवेत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 11,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.12",
+  "sanskrit_iast": "prācyarddhe lakṣaṇaṃ dadyāccaturbhāge nirañcanam tato'parasmin śaṅkvarthe dadyātpañcakasaptake",
+  "meaning": "प्राच्यर्द्धे लक्षणं दद्याच्चतुर्भागे निरञ्चनम् ततोऽपरस्मिन् शङ्क्वर्थे दद्यात्पञ्चकसप्तके",
+  "text": "",
+  "mandala": 1,
+  "hymn": 12,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.13",
+  "sanskrit_iast": "tato'parasmin śaṅkvarthe rajjuśca dviguṇā bhavet navaśayā pāśābhyāmarddhatṛtīyayorlakṣaṇe dviśaye'parasmātpūrvasmādadhyarddhe ṣaṭsu pāśaṃ pratimucyāparasmādarddhatṛtīye gṛhītvā dakṣiṇā nirāyamya dvayoḥ śaṅkue",
+  "meaning": "ततोऽपरस्मिन् शङ्क्वर्थे रज्जुश्च द्विगुणा भवेत् नवशया पाशाभ्यामर्द्धतृतीययोर्लक्षणे द्विशयेऽपरस्मात्पूर्वस्मादध्यर्द्धे षट्सु पाशं प्रतिमुच्यापरस्मादर्द्धतृतीये गृहीत्वा दक्षिणा निरायम्य द्वयोः शङ्कुए",
+  "text": "",
+  "mandala": 1,
+  "hymn": 13,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.14",
+  "sanskrit_iast": "nihanyādevamevottarataḥ pūrvasmādarddhatṛtīye gṛhītvā dakṣiṇā nirāyamyādhyarddhe śaṅkue nihanyādevamevottarataḥ",
+  "meaning": "निहन्यादेवमेवोत्तरतः पूर्वस्मादर्द्धतृतीये गृहीत्वा दक्षिणा निरायम्याध्यर्द्धे शङ्कुए निहन्यादेवमेवोत्तरतः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 14,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.15",
+  "sanskrit_iast": "dviguṇe lakṣaṇaṃ dadyāddadyāccaiva caturguṇe mūlācca triguṇe dadyātpañcāṅgī procyate hi sā paritanoti śayaikā ca dvipāśottaravedikī",
+  "meaning": "द्विगुणे लक्षणं दद्याद्दद्याच्चैव चतुर्गुणे मूलाच्च त्रिगुणे दद्यात्पञ्चाङ्गी प्रोच्यते हि सा परितनोति शयैका च द्विपाशोत्तरवेदिकी",
+  "text": "",
+  "mandala": 1,
+  "hymn": 15,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.16",
+  "sanskrit_iast": "madhye tu lakṣaṇaṃ dadyādubhayoścāntamadhyayoḥ",
+  "meaning": "मध्ये तु लक्षणं दद्यादुभयोश्चान्तमध्ययोः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 16,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.17",
+  "sanskrit_iast": "dviśaye'rddhaśaye'rddhacaturthaśaye śayārddhe śaya eva ca adhyarddhaśayena pātitayā pāśukī vedirucyate",
+  "meaning": "द्विशयेऽर्द्धशयेऽर्द्धचतुर्थशये शयार्द्धे शय एव च अध्यर्द्धशयेन पातितया पाशुकी वेदिरुच्यते",
+  "text": "",
+  "mandala": 1,
+  "hymn": 17,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.18",
+  "sanskrit_iast": "pāśādarddhaśayebhyaḥ pañcanitodāḥ śayāśca ṣaṭ prācī triśaye ca bhavetpāśaḥ pāśukī vedirucyate",
+  "meaning": "पाशादर्द्धशयेभ्यः पञ्चनितोदाः शयाश्च षट् प्राची त्रिशये च भवेत्पाशः पाशुकी वेदिरुच्यते",
+  "text": "",
+  "mandala": 1,
+  "hymn": 18,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.19",
+  "sanskrit_iast": "triguṇāyā rajjoḥ pāśaṃ kṛtvā pāśādūrdhvaṃ navaśayaṃ mitvā pāśukyuttaravedirvyākhyātā",
+  "meaning": "त्रिगुणाया रज्जोः पाशं कृत्वा पाशादूर्ध्वं नवशयं मित्वा पाशुक्युत्तरवेदिर्व्याख्याता",
+  "text": "",
+  "mandala": 1,
+  "hymn": 19,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.20",
+  "sanskrit_iast": "varuṇapraghāseṣūttarāyā arddhaṃ pratiprasthātā karoti tiryaksamāṃ prācīm",
+  "meaning": "वरुणप्रघासेषूत्तराया अर्द्धं प्रतिप्रस्थाता करोति तिर्यक्समां प्राचीम्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 20,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.21",
+  "sanskrit_iast": "śayā rajjorvidhātavyāḥ ṣaṭbhāgonāstrayodaśa mārutīṃ vāruṇīṃ caiva saha vediṃ mimīṣatā",
+  "meaning": "शया रज्जोर्विधातव्याः षट्भागोनास्त्रयोदश मारुतीं वारुणीं चैव सह वेदिं मिमीषता",
+  "text": "",
+  "mandala": 1,
+  "hymn": 21,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.22",
+  "sanskrit_iast": "pāśād dvayoḥ śaye tasmāddvayoranyattataḥ śaye pūrvātpāśācchaye'dhyarddhe tato'nyatpādahīnayoḥ",
+  "meaning": "पाशाद् द्वयोः शये तस्माद्द्वयोरन्यत्ततः शये पूर्वात्पाशाच्छयेऽध्यर्द्धे ततोऽन्यत्पादहीनयोः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 22,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.23",
+  "sanskrit_iast": "tato'dhyarddhe tataḥ pāde kḷpte mārutī vāruṇī",
+  "meaning": "ततोऽध्यर्द्धे ततः पादे कॢप्ते मारुती वारुणी",
+  "text": "",
+  "mandala": 1,
+  "hymn": 23,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.24",
+  "sanskrit_iast": "puruṣe syānnirāyāmaḥ prācyarddhaṣaṣṭhavarjitaḥ tataḥ saṣaṣṭhārddhoṃ'saḥ syād dikkuṣṭhā paitṛkī smṛtā",
+  "meaning": "पुरुषे स्यान्निरायामः प्राच्यर्द्धषष्ठवर्जितः ततः सषष्ठार्द्धोंऽसः स्याद् दिक्कुष्ठा पैतृकी स्मृता",
+  "text": "",
+  "mandala": 1,
+  "hymn": 24,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.25",
+  "sanskrit_iast": "rajjuḥ śayārddhaṣaṣṭhā sā sāṅgulā tanuyājñikī caturṣu ṣaḍaṅguloneṣu sārddhe ca śaye sapāde'nyat",
+  "meaning": "रज्जुः शयार्द्धषष्ठा सा साङ्गुला तनुयाज्ञिकी चतुर्षु षडङ्गुलोनेषु सार्द्धे च शये सपादेऽन्यत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 25,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.26",
+  "sanskrit_iast": "ṣaḍaṅgulonāścatvāraḥ prācī paścāt śayatrayā pūrvārddhe'rddhatṛtīyā syātsā vediḥ pākayājñikī",
+  "meaning": "षडङ्गुलोनाश्चत्वारः प्राची पश्चात् शयत्रया पूर्वार्द्धेऽर्द्धतृतीया स्यात्सा वेदिः पाकयाज्ञिकी",
+  "text": "",
+  "mandala": 1,
+  "hymn": 26,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.27",
+  "sanskrit_iast": "dviguṇā śatasāhasre koṭyāṃ pañcaguṇā bhavet",
+  "meaning": "द्विगुणा शतसाहस्रे कोट्यां पञ्चगुणा भवेत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 27,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.28",
+  "sanskrit_iast": "khaṇḍamaṇḍalayoścaiva tribhāgamavaśeṣayan dhiṣṇyaṃ tatra prakurvīta yavonāni caturdaśa",
+  "meaning": "खण्डमण्डलयोश्चैव त्रिभागमवशेषयन् धिष्ण्यं तत्र प्रकुर्वीत यवोनानि चतुर्दश",
+  "text": "",
+  "mandala": 1,
+  "hymn": 28,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.29",
+  "sanskrit_iast": "api ca satryaṅgulaṃ śayaṃ mitvā sarvataḥ parilekhayet",
+  "meaning": "अपि च सत्र्यङ्गुलं शयं मित्वा सर्वतः परिलेखयेत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 29,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.30",
+  "sanskrit_iast": "dviguṇaṃ tu punarmadhye uttaraṃ ca caturguṇam kuryādaupāsanīyasya pākayajñavidhiṣu ca",
+  "meaning": "द्विगुणं तु पुनर्मध्ये उत्तरं च चतुर्गुणम् कुर्यादौपासनीयस्य पाकयज्ञविधिषु च",
+  "text": "",
+  "mandala": 1,
+  "hymn": 30,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.31",
+  "sanskrit_iast": "tvacobilaṃ dārumayaṃ mūlato'bhrimayūkhakam syāttiryagīṣāmātro mayūkhaḥ prādeśamātro vā",
+  "meaning": "त्वचोबिलं दारुमयं मूलतोऽभ्रिमयूखकम् स्यात्तिर्यगीषामात्रो मयूखः प्रादेशमात्रो वा",
+  "text": "",
+  "mandala": 1,
+  "hymn": 31,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.32",
+  "sanskrit_iast": "ṛjavaḥ śaṅkavaḥ kāryāḥ khādirā vaiṇavā api dvādaśāṅgulaparyantā dvyaṅulaṃ pariṇāhajāḥ",
+  "meaning": "ऋजवः शङ्कवः कार्याः खादिरा वैणवा अपि द्वादशाङ्गुलपर्यन्ता द्व्यङुलं परिणाहजाः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 32,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.33",
+  "sanskrit_iast": "yūpamūlaṃ rajjvā parigṛhya caturddhā saṃbhujya rarāṭe pratimucya sarvato'nulikhet",
+  "meaning": "यूपमूलं रज्ज्वा परिगृह्य चतुर्द्धा संभुज्य रराटे प्रतिमुच्य सर्वतोऽनुलिखेत्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 33,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.34",
+  "sanskrit_iast": "padaṃ pañcadaśāṅgulaṃ yāvatpadaṃ vā",
+  "meaning": "पदं पञ्चदशाङ्गुलं यावत्पदं वा",
+  "text": "",
+  "mandala": 1,
+  "hymn": 34,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.35",
+  "sanskrit_iast": "śayaścaturviṃśatyaṅgulaḥ proktaḥ pañcaviṃśasyaṅgulo vā | prādeśe dvādaśāṅgulaḥ",
+  "meaning": "शयश्चतुर्विंशत्यङ्गुलः प्रोक्तः पञ्चविंशस्यङ्गुलो वा । प्रादेशे द्वादशाङ्गुलः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 35,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.36",
+  "sanskrit_iast": "adhvaryoḥ parimāṇāni adhikārāt | dārukārasyaike | yajamānasya vā svāmitvāt",
+  "meaning": "अध्वर्योः परिमाणानि अधिकारात् । दारुकारस्यैके । यजमानस्य वा स्वामित्वात्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 36,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "1.37",
+  "sanskrit_iast": "dvipadaḥ prakramastripado'rddhatripado vā pañcapadastveva sāgnikaḥ",
+  "meaning": "द्विपदः प्रक्रमस्त्रिपदोऽर्द्धत्रिपदो वा पञ्चपदस्त्वेव साग्निकः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 37,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.1",
+  "sanskrit_iast": "pṛṣṭhyāśaṅkau pāśaṃ pratimucya prācīmāyamya pañcadaśasu lakṣaṇaṃ tatastvekaviṃśatyāṃ tatasdviṣu tatastriṣu tato dvādaśasu pāśaṃ karoti | tat ṣaṭtriṃśe pratimucyāparasmāttataḥ pañcadaśasu gṛhītvā dakṣiṇā nirāyamya pañcadaśasu śaṅkue nihanyādevamevottarataḥ | pūrvasmātpañcadaśasu gṛhītvā dakṣiṇā nirāyamya dvādaśasu śaṅkue nihanyādevamevottarataḥ | paritastanoti",
+  "meaning": "पृष्ठ्याशङ्कौ पाशं प्रतिमुच्य प्राचीमायम्य पञ्चदशसु लक्षणं ततस्त्वेकविंशत्यां ततस्द्विषु ततस्त्रिषु ततो द्वादशसु पाशं करोति । तत् षट्त्रिंशे प्रतिमुच्यापरस्मात्ततः पञ्चदशसु गृहीत्वा दक्षिणा निरायम्य पञ्चदशसु शङ्कुए निहन्यादेवमेवोत्तरतः । पूर्वस्मात्पञ्चदशसु गृहीत्वा दक्षिणा निरायम्य द्वादशसु शङ्कुए निहन्यादेवमेवोत्तरतः । परितस्तनोति",
+  "text": "",
+  "mandala": 2,
+  "hymn": 1,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.2",
+  "sanskrit_iast": "pramāya rajjuṃ daśabhīrathākṣairekādaśaiścoparabudhnamātraiḥ tasyāścaturviṃśatibhāgadheyamekādaśinīṃ prativedimāhuḥ",
+  "meaning": "प्रमाय रज्जुं दशभीरथाक्षैरेकादशैश्चोपरबुध्नमात्रैः तस्याश्चतुर्विंशतिभागधेयमेकादशिनीं प्रतिवेदिमाहुः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 2,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.3",
+  "sanskrit_iast": "catvāriṃśatiraṣṭau ca aṅgulāni samāsataḥ ekādaśinyā māne'smin prakramaṃ kavayo viduḥ",
+  "meaning": "चत्वारिंशतिरष्टौ च अङ्गुलानि समासतः एकादशिन्या मानेऽस्मिन् प्रक्रमं कवयो विदुः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 3,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.4",
+  "sanskrit_iast": "aṅgulāni pramāyāṣṭau vedyagrādarddhamullikhet",
+  "meaning": "अङ्गुलानि प्रमायाष्टौ वेद्यग्रादर्द्धमुल्लिखेत्",
+  "text": "",
+  "mandala": 2,
+  "hymn": 4,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.5",
+  "sanskrit_iast": "taṃ prāñcaṃ prasamīkṣeta etāṃ vidyācchikhaṇḍinīm",
+  "meaning": "तं प्राञ्चं प्रसमीक्षेत एतां विद्याच्छिखण्डिनीम्",
+  "text": "",
+  "mandala": 2,
+  "hymn": 5,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.6",
+  "sanskrit_iast": "etenaiva tulyena indravajraśikhaṇḍinīm",
+  "meaning": "एतेनैव तुल्येन इन्द्रवज्रशिखण्डिनीम्",
+  "text": "",
+  "mandala": 2,
+  "hymn": 6,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.7",
+  "sanskrit_iast": "ekādaśasu kartavyā budhnā vediprasiddhaye",
+  "meaning": "एकादशसु कर्तव्या बुध्ना वेदिप्रसिद्धये",
+  "text": "",
+  "mandala": 2,
+  "hymn": 7,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.8",
+  "sanskrit_iast": "saṃśayo yatra jāyeta arddhaṃ yūpāvaṭe yadi agniṣṭhena tu te sarve avaruddhā bhavanti te",
+  "meaning": "संशयो यत्र जायेत अर्द्धं यूपावटे यदि अग्निष्ठेन तु ते सर्वे अवरुद्धा भवन्ति ते",
+  "text": "",
+  "mandala": 2,
+  "hymn": 8,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.9",
+  "sanskrit_iast": "prakrameṇa samaṃ mitvā caturasraṃ tu maṇḍalam kuryātsakalenārddhena bhrāmayitvā'sya madhyataḥ",
+  "meaning": "प्रक्रमेण समं मित्वा चतुरस्रं तु मण्डलम् कुर्यात्सकलेनार्द्धेन भ्रामयित्वाऽस्य मध्यतः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 9,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.10",
+  "sanskrit_iast": "mitvā tadakṣṇayārajjvā tataḥ kuryāttu maṇḍalam punastadakṣṇayā-rajjvā hṛtvā'rddhamatirekataḥ",
+  "meaning": "मित्वा तदक्ष्णयारज्ज्वा ततः कुर्यात्तु मण्डलम् पुनस्तदक्ष्णया-रज्ज्वा हृत्वाऽर्द्धमतिरेकतः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 10,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.11",
+  "sanskrit_iast": "prakramārthaṃ tu tāṃ kuryādvedyāmaśvamakhasya ca",
+  "meaning": "प्रक्रमार्थं तु तां कुर्याद्वेद्यामश्वमखस्य च",
+  "text": "",
+  "mandala": 2,
+  "hymn": 11,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.12",
+  "sanskrit_iast": "anenaiva vidhānena pañcadhā daśadhā'kṣṇayā vedī krameṇa te syātāṃ pauruṣī sārvamedhinī",
+  "meaning": "अनेनैव विधानेन पञ्चधा दशधाऽक्ष्णया वेदी क्रमेण ते स्यातां पौरुषी सार्वमेधिनी",
+  "text": "",
+  "mandala": 2,
+  "hymn": 12,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "2.13",
+  "sanskrit_iast": "tripadā pārśvamānī syāttiryaṅmānī padaṃ bhavet tasyākṣṇayā tu yā rajjuḥ kuryāddaśapadā hi sā",
+  "meaning": "त्रिपदा पार्श्वमानी स्यात्तिर्यङ्मानी पदं भवेत् तस्याक्ष्णया तु या रज्जुः कुर्याद्दशपदा हि सा",
+  "text": "",
+  "mandala": 2,
+  "hymn": 13,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.1",
+  "sanskrit_iast": "aṣṭādaśāratnīmubhayataḥpāśāṃ kṛtvā madhye lakṣaṇam | tatastayorarddhayoraparamantaṃ yathāpraviṣṭaṃ pañcāṅgīkṛtvā prācīmāyamya yathāpradiṣṭaṃ lakṣaṇāsu śaṅkūn nihanyāt unmucyābhito madhyame pāśau pratimucya dakṣiṇā nirāyamya todaṃ karoti unmucyābhito madhye pāśaṃ pratimucya dakṣiṇā nirāyamya todasyādhyadhihṛtyārddhacaturdaśasu śaṅkue nihanyāt | madhyamātpāśamunmucya pūrvārddhaṃ pratimucya dakṣiṇārddhe tu dakṣiṇāṃ prācīṃ samāyamyārddhapañcameṣu śaṅkue nihanyāt | pūrvārddhātpāśamunmucya paścārddhe pratimucya dakṣiṇārddhe tu dakṣiṇāṃ prācīmāyamyārddhapañcameṣu śaṅkue nihanyāt | evamevottarataḥ | paritastanoti | sado vyākhyāsyāmaḥ",
+  "meaning": "अष्टादशारत्नीमुभयतःपाशां कृत्वा मध्ये लक्षणम् । ततस्तयोरर्द्धयोरपरमन्तं यथाप्रविष्टं पञ्चाङ्गीकृत्वा प्राचीमायम्य यथाप्रदिष्टं लक्षणासु शङ्कून् निहन्यात् उन्मुच्याभितो मध्यमे पाशौ प्रतिमुच्य दक्षिणा निरायम्य तोदं करोति उन्मुच्याभितो मध्ये पाशं प्रतिमुच्य दक्षिणा निरायम्य तोदस्याध्यधिहृत्यार्द्धचतुर्दशसु शङ्कुए निहन्यात् । मध्यमात्पाशमुन्मुच्य पूर्वार्द्धं प्रतिमुच्य दक्षिणार्द्धे तु दक्षिणां प्राचीं समायम्यार्द्धपञ्चमेषु शङ्कुए निहन्यात् । पूर्वार्द्धात्पाशमुन्मुच्य पश्चार्द्धे प्रतिमुच्य दक्षिणार्द्धे तु दक्षिणां प्राचीमायम्यार्द्धपञ्चमेषु शङ्कुए निहन्यात् । एवमेवोत्तरतः । परितस्तनोति । सदो व्याख्यास्यामः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 1,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.2",
+  "sanskrit_iast": "sado madhyamarekhā yā dakṣiṇodīcī nirāyattā tasyāḥ prācīṃ vasutriṃśattyaktvā dhiṣṇyāni kārayet",
+  "meaning": "सदो मध्यमरेखा या दक्षिणोदीची निरायत्ता तस्याः प्राचीं वसुत्रिंशत्त्यक्त्वा धिष्ण्यानि कारयेत्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 2,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.3",
+  "sanskrit_iast": "aṣṭāviṃśāṅgulā dhiṣṇyā dvācatvāriṃśāṅgulāntarāḥ",
+  "meaning": "अष्टाविंशाङ्गुला धिष्ण्या द्वाचत्वारिंशाङ्गुलान्तराः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 3,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.4",
+  "sanskrit_iast": "aṃsāduttarato'dhyarddhe śaṅkuḥ śroṇyāśca dakṣiṇe āgnīdhre sā bhavetprācī tayormadhye tu saṅgamam",
+  "meaning": "अंसादुत्तरतोऽध्यर्द्धे शङ्कुः श्रोण्याश्च दक्षिणे आग्नीध्रे सा भवेत्प्राची तयोर्मध्ये तु सङ्गमम्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 4,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.5",
+  "sanskrit_iast": "āgnīdhraṃ ṣaṭśayaṃ bhavet",
+  "meaning": "आग्नीध्रं षट्शयं भवेत्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 5,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.6",
+  "sanskrit_iast": "prāgvaṃśaṃ daśahastaṃ syāt",
+  "meaning": "प्राग्वंशं दशहस्तं स्यात्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 6,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.7",
+  "sanskrit_iast": "patnīśālaṃ catuḥśayam",
+  "meaning": "पत्नीशालं चतुःशयम्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 7,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.8",
+  "sanskrit_iast": "sarvā viṃśaśayā rajjuḥ śaye dadyācca lakṣaṇam pāśācca pañcake dadyātpāśādarddhāṣṭameṣu ca",
+  "meaning": "सर्वा विंशशया रज्जुः शये दद्याच्च लक्षणम् पाशाच्च पञ्चके दद्यात्पाशादर्द्धाष्टमेषु च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 8,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.9",
+  "sanskrit_iast": "śayapañcamayormadhye upastambhanalakṣaṇam tatastvekaviṃśatyāṃ maṇḍaleṣveva lakṣaṇaiḥ",
+  "meaning": "शयपञ्चमयोर्मध्ये उपस्तम्भनलक्षणम् ततस्त्वेकविंशत्यां मण्डलेष्वेव लक्षणैः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 9,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.10",
+  "sanskrit_iast": "aṅguliṣu punarmitvā dvādaśasveva śulbavit prajñāte lakṣaṇe dadyādupastambhanalakṣaṇāt",
+  "meaning": "अङ्गुलिषु पुनर्मित्वा द्वादशस्वेव शुल्बवित् प्रज्ञाते लक्षणे दद्यादुपस्तम्भनलक्षणात्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 10,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.11",
+  "sanskrit_iast": "pūrvātpāśādbāhau tato'nyaḥ pañcadaśasu tato'nyo'ṣṭāsvaṅgulīṣu pūrvavad dvādaśasu caturviṃśatisu cānyat",
+  "meaning": "पूर्वात्पाशाद्बाहौ ततोऽन्यः पञ्चदशसु ततोऽन्योऽष्टास्वङ्गुलीषु पूर्ववद् द्वादशसु चतुर्विंशतिसु चान्यत्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 11,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.12",
+  "sanskrit_iast": "eka eva śaye śaṅkuḥ śiṣṭāḥ pañcadaśādiṣu",
+  "meaning": "एक एव शये शङ्कुः शिष्टाः पञ्चदशादिषु",
+  "text": "",
+  "mandala": 3,
+  "hymn": 12,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.13",
+  "sanskrit_iast": "kharoparavopastambhanamethīṣṭhādvāryupadvāryāḥ prasiddhyartham",
+  "meaning": "खरोपरवोपस्तम्भनमेथीष्ठाद्वार्युपद्वार्याः प्रसिद्ध्यर्थम्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 13,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.14",
+  "sanskrit_iast": "dvāryā vistārayormadhye bāhurdeyastu lakṣaṇam",
+  "meaning": "द्वार्या विस्तारयोर्मध्ये बाहुर्देयस्तु लक्षणम्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 14,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.15",
+  "sanskrit_iast": "etenaiva tu kalpena pratīcīmeva hārayet",
+  "meaning": "एतेनैव तु कल्पेन प्रतीचीमेव हारयेत्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 15,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.16",
+  "sanskrit_iast": "prathamatrayapañcamasārddhasaptameṣu rajjumuttarato haret",
+  "meaning": "प्रथमत्रयपञ्चमसार्द्धसप्तमेषु रज्जुमुत्तरतो हरेत्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 16,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "3.17",
+  "sanskrit_iast": "etadeva viparyastaṃ kharaḥ syādvājapeyikaḥ",
+  "meaning": "एतदेव विपर्यस्तं खरः स्याद्वाजपेयिकः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 17,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.1",
+  "sanskrit_iast": "caturasraṃ mudgaraṃ kuryāt ṣoḍaśāṅgulamāyatam amadhyaviddhaṃ ramaṇīyaṃ sāradāruvinirmitam",
+  "meaning": "चतुरस्रं मुद्गरं कुर्यात् षोडशाङ्गुलमायतम् अमध्यविद्धं रमणीयं सारदारुविनिर्मितम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 1,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.2",
+  "sanskrit_iast": "mauñjaṃ śulbaṃ sadā kāryaṃ śāṇena parimiśritam manvādayo vadantyevaṃ miśritaṃ kuśabalvajaiḥ",
+  "meaning": "मौञ्जं शुल्बं सदा कार्यं शाणेन परिमिश्रितम् मन्वादयो वदन्त्येवं मिश्रितं कुशबल्वजैः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 2,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.3",
+  "sanskrit_iast": "ajīrṇā granthinī sūkṣmā samāślakṣṇā hyaromaśā rajjurmānādhikā kāryā adhvare yogamicchatā",
+  "meaning": "अजीर्णा ग्रन्थिनी सूक्ष्मा समाश्लक्ष्णा ह्यरोमशा रज्जुर्मानाधिका कार्या अध्वरे योगमिच्छता",
+  "text": "",
+  "mandala": 4,
+  "hymn": 3,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.4",
+  "sanskrit_iast": "yathā na kṣoyate mātrā yathā ca na vivarddhate yathā ca ramate dṛṣṭistathā yogaṃ samācaret",
+  "meaning": "यथा न क्षोयते मात्रा यथा च न विवर्द्धते यथा च रमते दृष्टिस्तथा योगं समाचरेत्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 4,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.5",
+  "sanskrit_iast": "tantū puṣkaranālasya triguṇaṃ yad dṛḍhaṃ bhavet trihāyanyā vatsataryā bālena samamucyate",
+  "meaning": "तन्तू पुष्करनालस्य त्रिगुणं यद् दृढं भवेत् त्रिहायन्या वत्सतर्या बालेन सममुच्यते",
+  "text": "",
+  "mandala": 4,
+  "hymn": 5,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.6",
+  "sanskrit_iast": "tribālaṃ sarṣapaṃ vidyādyavaṃ vidyāttrisarṣapam triyavaṃ kṛṣṇalaṃ vidyātmānaṃ vidyāttrikṛṣṇalam",
+  "meaning": "त्रिबालं सर्षपं विद्याद्यवं विद्यात्त्रिसर्षपम् त्रियवं कृष्णलं विद्यात्मानं विद्यात्त्रिकृष्णलम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 6,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.7",
+  "sanskrit_iast": "kṛṣṇalānāṃ catuḥṣaṣṭiḥ sauvarṇo māna ucyate mānastvekonapañcāśanniṣka ityabhidhīyate",
+  "meaning": "कृष्णलानां चतुःषष्टिः सौवर्णो मान उच्यते मानस्त्वेकोनपञ्चाशन्निष्क इत्यभिधीयते",
+  "text": "",
+  "mandala": 4,
+  "hymn": 7,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.8",
+  "sanskrit_iast": "harītakyākṛtirniṣko rukmastu parimaṇḍalaḥ",
+  "meaning": "हरीतक्याकृतिर्निष्को रुक्मस्तु परिमण्डलः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 8,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.9",
+  "sanskrit_iast": "trīṇi niṣkasahasrāṇi trīṇi niṣkaśatāni ca aṣṭāviṃśaṃ śataṃ caiva dadyād bahusuvarṇake",
+  "meaning": "त्रीणि निष्कसहस्राणि त्रीणि निष्कशतानि च अष्टाविंशं शतं चैव दद्याद् बहुसुवर्णके",
+  "text": "",
+  "mandala": 4,
+  "hymn": 9,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.10",
+  "sanskrit_iast": "puruṣo'ṅgulimānena bhaved viṃśaśatāṅgulaḥ ūrdhvabāhurūrdhvapāṇiḥ prapadābhyāṃ pratiṣṭhitaḥ",
+  "meaning": "पुरुषोऽङ्गुलिमानेन भवेद् विंशशताङ्गुलः ऊर्ध्वबाहुरूर्ध्वपाणिः प्रपदाभ्यां प्रतिष्ठितः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 10,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.11",
+  "sanskrit_iast": "atha cetprapadotthānaḥ pañcamoṃ'śaḥ śayo bhavet",
+  "meaning": "अथ चेत्प्रपदोत्थानः पञ्चमोंऽशः शयो भवेत्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 11,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.12",
+  "sanskrit_iast": "aṅgulyāstu pramāṇaṃ syāt ṣaḍyavāḥ pārśvasaṃhitāḥ",
+  "meaning": "अङ्गुल्यास्तु प्रमाणं स्यात् षड्यवाः पार्श्वसंहिताः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 12,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.13",
+  "sanskrit_iast": "arogaścāvipīvā ca hyambusiktastu yo yavaḥ",
+  "meaning": "अरोगश्चाविपीवा च ह्यम्बुसिक्तस्तु यो यवः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 13,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.14",
+  "sanskrit_iast": "tasmādaṅgulibhiḥ kāryaṃ pramāṇaṃ sarvakarmasu",
+  "meaning": "तस्मादङ्गुलिभिः कार्यं प्रमाणं सर्वकर्मसु",
+  "text": "",
+  "mandala": 4,
+  "hymn": 14,
+  "vedaId": "maitrayana_sulbasutra"
+ },
+ {
+  "reference": "4.15",
+  "sanskrit_iast": "maṇḍalena ca kīlena digādigrahaṇaṃ smṛtam",
+  "meaning": "मण्डलेन च कीलेन दिगादिग्रहणं स्मृतम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 15,
+  "vedaId": "maitrayana_sulbasutra"
+ }
+]

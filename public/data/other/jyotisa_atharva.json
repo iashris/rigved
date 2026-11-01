@@ -1,0 +1,1001 @@
+[
+ {
+  "reference": "1.1",
+  "sanskrit_iast": "atha asāṇaṃ svayambhaṃ gu lokapitāmaham | brahmaloke sukhāsīnaṃ kāśyapaḥ paripṛcchati ||",
+  "meaning": "अथ असाणं स्वयम्भं गु लोकपितामहम् । ब्रह्मलोके सुखासीनं काश्यपः परिपृच्छति ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 1,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.2",
+  "sanskrit_iast": "kiṃ pramāṇaṃ khādyānāṃ rātrau vā yadi vā divā | candrādityagataṃ sarvaḥ tanme prahi pṛcchataḥ ||",
+  "meaning": "किं प्रमाणं खाद्यानां रात्रौ वा यदि वा दिवा । चन्द्रादित्यगतं सर्वः तन्मे प्रहि पृच्छतः ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 2,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.3",
+  "sanskrit_iast": "tasya śuśrayamāṇasya kārayapasya mahātmanaḥ | provāca bhagavān sarve muhūrta jñānamuttamam ||",
+  "meaning": "तस्य शुश्रयमाणस्य कारयपस्य महात्मनः । प्रोवाच भगवान् सर्वे मुहूर्त ज्ञानमुत्तमम् ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 3,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.4",
+  "sanskrit_iast": "dvādaśācinimeṣastu lavo nāma vidhīyate | lavāḥ triṃśatkalā jñeyā kalāliśaṃkhaṭirbhavet ||",
+  "meaning": "द्वादशाचिनिमेषस्तु लवो नाम विधीयते । लवाः त्रिंशत्कला ज्ञेया कलालिशंखटिर्भवेत् ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 4,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.5",
+  "sanskrit_iast": "buṭīnāṃ tu bhavetriṃśanmuhūrtasya prayojanam | dvādaśāṅgalamucchetasya āyā pramāṇataḥ ||",
+  "meaning": "बुटीनां तु भवेत्रिंशन्मुहूर्तस्य प्रयोजनम् । द्वादशाङ्गलमुच्छेतस्य आया प्रमाणतः ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 5,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.6",
+  "sanskrit_iast": "navatī ghaḍāṅgalāracaiva pratīcīṃ tāṃ prakāśayet | purastātsandhivelāyāṃ varṇā raudra ucyate ||",
+  "meaning": "नवती घडाङ्गलारचैव प्रतीचीं तां प्रकाशयेत् । पुरस्तात्सन्धिवेलायां वर्णा रौद्र उच्यते ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 6,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.7",
+  "sanskrit_iast": "śvetaḥ ṣaṣṭiḥ samākhyāto maitro vai dvādaśāṅgulaḥ | ṣaṭsu sārabhaṭo yaḥ sāvitraḥ pañcasu smṛtaḥ ||",
+  "meaning": "श्वेतः षष्टिः समाख्यातो मैत्रो वै द्वादशाङ्गुलः । षट्सु सारभटो यः सावित्रः पञ्चसु स्मृतः ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 7,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.8",
+  "sanskrit_iast": "catuṃ taṃ vairājākhiṣu viśvavasustathā | madhyāhe abhijighrāma yāsmin āyā pratiṣṭhitā ||",
+  "meaning": "चतुं तं वैराजाखिषु विश्ववसुस्तथा । मध्याहे अभिजिघ्राम यास्मिन् आया प्रतिष्ठिता ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 8,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.9",
+  "sanskrit_iast": "prācīṃ vai gāminīṃ chāyāṃ rohiṇatriṣu vartate | balaścaturṣu vikhyāto vijayaḥ pañcasu smṛtaḥ ||",
+  "meaning": "प्राचीं वै गामिनीं छायां रोहिणत्रिषु वर्तते । बलश्चतुर्षु विख्यातो विजयः पञ्चसु स्मृतः ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 9,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.10",
+  "sanskrit_iast": "nairṛtastu paḍhagulyā vāruṇo dvādaśāṅgulaḥ | saumyaḥ ṣaṣṭiḥ samākhyāto bhagastu paramastathā ||",
+  "meaning": "नैरृतस्तु पढगुल्या वारुणो द्वादशाङ्गुलः । सौम्यः षष्टिः समाख्यातो भगस्तु परमस्तथा ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 10,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.11",
+  "sanskrit_iast": "ete muhūrcā vyākhyātā daśa dvau ca tathā vayaḥ | anyeva tu vijñeyā rātrāvapi na saṃśayaḥ ||",
+  "meaning": "एते मुहूर्चा व्याख्याता दश द्वौ च तथा वयः । अन्येव तु विज्ञेया रात्रावपि न संशयः ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 11,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "1.12",
+  "sanskrit_iast": "ata uddhvaṃ tu sarveṣāmānupūrvyā śubhāśubham | sarva vistaraśastāvattanme nigar̤hataḥ śṛṇu ||",
+  "meaning": "अत उद्ध्वं तु सर्वेषामानुपूर्व्या शुभाशुभम् । सर्व विस्तरशस्तावत्तन्मे निगर्̤हतः शृणु ॥",
+  "text": "",
+  "mandala": 1,
+  "hymn": 12,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.1",
+  "sanskrit_iast": "raudre raudrāṇi kurvīta rudrakāryāṇi nityaśaḥ | yaca raudraṃ mavetkiñcit sarvametena kārayet ||",
+  "meaning": "रौद्रे रौद्राणि कुर्वीत रुद्रकार्याणि नित्यशः । यच रौद्रं मवेत्किञ्चित् सर्वमेतेन कारयेत् ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 1,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.2",
+  "sanskrit_iast": "śvete vāsaya snānaṃ ca grāmodyānaṃ tathā kṛṣiḥ | ārammāścātra sidhyanti ye cārthāścintitāḥ kvacit ||",
+  "meaning": "श्वेते वासय स्नानं च ग्रामोद्यानं तथा कृषिः । आरम्माश्चात्र सिध्यन्ति ये चार्थाश्चिन्तिताः क्वचित् ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 2,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.3",
+  "sanskrit_iast": "maitre maivāṇi kurvīta mitrakāryāṇi nityaśaḥ | gaca maitaṃ bhavetkiñcit sarvametena kārayet ||",
+  "meaning": "मैत्रे मैवाणि कुर्वीत मित्रकार्याणि नित्यशः । गच मैतं भवेत्किञ्चित् सर्वमेतेन कारयेत् ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 3,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.4",
+  "sanskrit_iast": "abhicāraṃ tu śatraṇāṃ kuryātsārabhaṭena tu | ātmārthe suhṛdarthe vā naśyante tasya śatravaḥ ||",
+  "meaning": "अभिचारं तु शत्रणां कुर्यात्सारभटेन तु । आत्मार्थे सुहृदर्थे वा नश्यन्ते तस्य शत्रवः ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 4,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.5",
+  "sanskrit_iast": "vitreṇa muhūrcena devakāryāṇi kārayet | yajñān vivāhānavāhaṃścūḍopanayanāni ca ||",
+  "meaning": "वित्रेण मुहूर्चेन देवकार्याणि कारयेत् । यज्ञान् विवाहानवाहंश्चूडोपनयनानि च ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 5,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.6",
+  "sanskrit_iast": "vairājena muhūrttena rājapauruṣamārabhet | marmāṇi paradānāni śatrakarma ca kārayet ||",
+  "meaning": "वैराजेन मुहूर्त्तेन राजपौरुषमारभेत् । मर्माणि परदानानि शत्रकर्म च कारयेत् ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 6,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.7",
+  "sanskrit_iast": "viśvāvasau tu sarvārthānārambhāṃścāva kārayet | sarveṣāṃ ca dvijātīnāṃ svādhyāyastu praśasyate ||",
+  "meaning": "विश्वावसौ तु सर्वार्थानारम्भांश्चाव कारयेत् । सर्वेषां च द्विजातीनां स्वाध्यायस्तु प्रशस्यते ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 7,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.8",
+  "sanskrit_iast": "brahmacatriyavaiśyānāṃ śūdrāṇāṃ cāpi nityaśaḥ | sarveṣāmeva varṇānāṃ yogo madhyandine'bhijit ||",
+  "meaning": "ब्रह्मचत्रियवैश्यानां शूद्राणां चापि नित्यशः । सर्वेषामेव वर्णानां योगो मध्यन्दिनेऽभिजित् ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 8,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.9",
+  "sanskrit_iast": "abhijit sarvakāmāya sarvakāryārthasādhanaiḥ | artha sañcayamānānāmadhvānaṃ gantumicchatām ||",
+  "meaning": "अभिजित् सर्वकामाय सर्वकार्यार्थसाधनैः । अर्थ सञ्चयमानानामध्वानं गन्तुमिच्छताम् ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 9,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.10",
+  "sanskrit_iast": "rauhiṇe vāpitā vṛkṣā bimbagulmalatāstathā | arogāḥ puṣpavanta phalavantaśca nityaśaḥ ||",
+  "meaning": "रौहिणे वापिता वृक्षा बिम्बगुल्मलतास्तथा । अरोगाः पुष्पवन्त फलवन्तश्च नित्यशः ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 10,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "2.11",
+  "sanskrit_iast": "balena tu balaṃ rājā svayamāruya yojayet | yogaḥ sampattikaṃ kārya śatrūṃśca viṣame jayet ||",
+  "meaning": "बलेन तु बलं राजा स्वयमारुय योजयेत् । योगः सम्पत्तिकं कार्य शत्रूंश्च विषमे जयेत् ॥",
+  "text": "",
+  "mandala": 2,
+  "hymn": 11,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "3.1",
+  "sanskrit_iast": "vijayena prayātasya vijayo nātra saṃśayaḥ | maṃṅgalānyale kurvīta śāntiḥ svasthyayanāni ca ||",
+  "meaning": "विजयेन प्रयातस्य विजयो नात्र संशयः । मंङ्गलान्यले कुर्वीत शान्तिः स्वस्थ्ययनानि च ॥",
+  "text": "",
+  "mandala": 3,
+  "hymn": 1,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "3.2",
+  "sanskrit_iast": "naiṛte dyotayetsenāṃ pararāṣṭaṃ tu maīyet | karttaḥ sampatkaro śeṣa sarvaśatrunibarhaṇaḥ ||",
+  "meaning": "नैऋते द्योतयेत्सेनां परराष्टं तु मईयेत् । कर्त्तः सम्पत्करो शेष सर्वशत्रुनिबर्हणः ॥",
+  "text": "",
+  "mandala": 3,
+  "hymn": 2,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "3.3",
+  "sanskrit_iast": "vāruṇena muhūrtena vāruṇāni pravāpayet | godhūmān yavaśālīṃścai icava śrotpalāni ca ||",
+  "meaning": "वारुणेन मुहूर्तेन वारुणानि प्रवापयेत् । गोधूमान् यवशालींश्चै इचव श्रोत्पलानि च ॥",
+  "text": "",
+  "mandala": 3,
+  "hymn": 3,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "3.4",
+  "sanskrit_iast": "saumye saumyāni kurvīta somakāryāṇi nityaśaḥ | yaca saumyaṃ bhavetkiñcit sarvamevena kārayet ||",
+  "meaning": "सौम्ये सौम्यानि कुर्वीत सोमकार्याणि नित्यशः । यच सौम्यं भवेत्किञ्चित् सर्वमेवेन कारयेत् ॥",
+  "text": "",
+  "mandala": 3,
+  "hymn": 4,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "3.5",
+  "sanskrit_iast": "sarvāsāmeva nārīṇāṃ kanyānāṃ ca viśeṣataḥ | saubhāgyāni prayujīta bhage bhīmaparākrame ||",
+  "meaning": "सर्वासामेव नारीणां कन्यानां च विशेषतः । सौभाग्यानि प्रयुजीत भगे भीमपराक्रमे ॥",
+  "text": "",
+  "mandala": 3,
+  "hymn": 5,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "3.6",
+  "sanskrit_iast": "bhagena varaveda kanyāṃ brāhmaṇa kulavarddhanīm | bhagena baritā kanyā naiva sānyatra gacchati ||",
+  "meaning": "भगेन वरवेद कन्यां ब्राह्मण कुलवर्द्धनीम् । भगेन बरिता कन्या नैव सान्यत्र गच्छति ॥",
+  "text": "",
+  "mandala": 3,
+  "hymn": 6,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.1",
+  "sanskrit_iast": "śuklapratipadirātrau' divi pañcamyāṃ tathāṣṭamīṃ rātrau | dvādaśyāmapi ca divā prathamaṃ pratipadyate karaṇam ||",
+  "meaning": "शुक्लप्रतिपदिरात्रौ' दिवि पञ्चम्यां तथाष्टमीं रात्रौ । द्वादश्यामपि च दिवा प्रथमं प्रतिपद्यते करणम् ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 1,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.2",
+  "sanskrit_iast": "paurṇamāsyāṃ navaṃ rātrau tacaturthyā punardivā | taddhi tatsaptamīrātrau tacaivaikādaśī divā ||",
+  "meaning": "पौर्णमास्यां नवं रात्रौ तचतुर्थ्या पुनर्दिवा । तद्धि तत्सप्तमीरात्रौ तचैवैकादशी दिवा ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 2,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.3",
+  "sanskrit_iast": "śubhāśubhanibaddhāni karaṇāni nirvāodhata | tāni tatvena vijñāya nāpadaṃ prāpnuyānaraḥ ||",
+  "meaning": "शुभाशुभनिबद्धानि करणानि निर्वाओधत । तानि तत्वेन विज्ञाय नापदं प्राप्नुयानरः ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 3,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.4",
+  "sanskrit_iast": "ekādaśabhiḥ karaṇairmāsaḥ sampratipadyate | bhavāṇi tatra catvāri calānyanyāṃni sapta ca ||",
+  "meaning": "एकादशभिः करणैर्मासः सम्प्रतिपद्यते । भवाणि तत्र चत्वारि चलान्यन्यांनि सप्त च ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 4,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.5",
+  "sanskrit_iast": "navaṃ ca pālavaṃ caiva kaulavaṃ taitileti ca | garāja' vaṇijaṃ caiva viṣṭirbhavati saptamam ||",
+  "meaning": "नवं च पालवं चैव कौलवं तैतिलेति च । गराज' वणिजं चैव विष्टिर्भवति सप्तमम् ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 5,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.6",
+  "sanskrit_iast": "śakuniṃ catuṣpadaṃ nāgaṃ caturtha kaustumaṃ bhavet | ekakasya tu yatkarma tadvakṣyāmi pṛthak pṛthak ||",
+  "meaning": "शकुनिं चतुष्पदं नागं चतुर्थ कौस्तुमं भवेत् । एककस्य तु यत्कर्म तद्वक्ष्यामि पृथक् पृथक् ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 6,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.7",
+  "sanskrit_iast": "ādyaṃ tu śakuniṃ nāma rātrau kṛṣṇacaturdaśī | ādhā haraṇe caiva tathaiva ca palāyane ||",
+  "meaning": "आद्यं तु शकुनिं नाम रात्रौ कृष्णचतुर्दशी । आधा हरणे चैव तथैव च पलायने ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 7,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.8",
+  "sanskrit_iast": "bhṛtyānāmatha yodhānāṃ paciṇāṃ gṛhapoṣaṇe | cikitsāyāṃ tu yuddhe ca sarvatraitatpraśasyate ||",
+  "meaning": "भृत्यानामथ योधानां पचिणां गृहपोषणे । चिकित्सायां तु युद्धे च सर्वत्रैतत्प्रशस्यते ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 8,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.9",
+  "sanskrit_iast": "bhūtatantraṃ baliṃ dadyācchataṇāṃ paraghātakam | karaṇaṃ catuṣpadaṃ nāma kṛṣṇapañcadaśī divā ||",
+  "meaning": "भूततन्त्रं बलिं दद्याच्छतणां परघातकम् । करणं चतुष्पदं नाम कृष्णपञ्चदशी दिवा ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 9,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.10",
+  "sanskrit_iast": "catuṣpadānāṃ sarveṣāṃ hitaṃ sarveṣu karmasu | śrāddhamatra ca kurvīta prayataśca mavennaraḥ ||",
+  "meaning": "चतुष्पदानां सर्वेषां हितं सर्वेषु कर्मसु । श्राद्धमत्र च कुर्वीत प्रयतश्च मवेन्नरः ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 10,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.11",
+  "sanskrit_iast": "sodakāni ca kāryāṇi sarvāṇayetāni kārayet | kṛṣṇapañcadaśī rātrau nāgaṃ karaṇamucyate ||",
+  "meaning": "सोदकानि च कार्याणि सर्वाणयेतानि कारयेत् । कृष्णपञ्चदशी रात्रौ नागं करणमुच्यते ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 11,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.12",
+  "sanskrit_iast": "naṣṭaṃ naṣṭaṃ tathā baddhaṃ tadantamiti nirdiśet | yāni prasā kāryāṇi pramadhyaharaṇāni ca ||",
+  "meaning": "नष्टं नष्टं तथा बद्धं तदन्तमिति निर्दिशेत् । यानि प्रसा कार्याणि प्रमध्यहरणानि च ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 12,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "4.13",
+  "sanskrit_iast": "tāni nāge prayuktāni siddhaṃ yanti phala ganti ca ||",
+  "meaning": "तानि नागे प्रयुक्तानि सिद्धं यन्ति फल गन्ति च ॥",
+  "text": "",
+  "mandala": 4,
+  "hymn": 13,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.1",
+  "sanskrit_iast": "śukapratipadi divā kaustubhaṃ karaṇaṃ bhavet | vaiśvadevamiti khyātaṃ praśastaṃ sarvakarmasu ||",
+  "meaning": "शुकप्रतिपदि दिवा कौस्तुभं करणं भवेत् । वैश्वदेवमिति ख्यातं प्रशस्तं सर्वकर्मसु ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 1,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.2",
+  "sanskrit_iast": "bavena dhruvakarmāṇi kṣiprāṇyapi ca kārayet | prasthāne ca praveśe ca taddhi sarvārthasādhakam ||",
+  "meaning": "बवेन ध्रुवकर्माणि क्षिप्राण्यपि च कारयेत् । प्रस्थाने च प्रवेशे च तद्धि सर्वार्थसाधकम् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 2,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.3",
+  "sanskrit_iast": "bālavaṃ brāhmaṇānāṃ tu sarvārambheṣu śobhanam | cūḍopanayane yajñe vivāhe bhūtikarmasu ||",
+  "meaning": "बालवं ब्राह्मणानां तु सर्वारम्भेषु शोभनम् । चूडोपनयने यज्ञे विवाहे भूतिकर्मसु ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 3,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.4",
+  "sanskrit_iast": "vayāṇāmala varṇānāmanārammo vidhīyate | anyatraṃ śobhane rāje śāntikaṃ pauṣṭikaṃ prati ||",
+  "meaning": "वयाणामल वर्णानामनारम्मो विधीयते । अन्यत्रं शोभने राजे शान्तिकं पौष्टिकं प्रति ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 4,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.5",
+  "sanskrit_iast": "maitrayukaṃ tu yatkarma yacca syātsiddhikārakam | sthāvarāṇi ca kāryāṇi kaulave tāni kārayet ||",
+  "meaning": "मैत्रयुकं तु यत्कर्म यच्च स्यात्सिद्धिकारकम् । स्थावराणि च कार्याणि कौलवे तानि कारयेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 5,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.6",
+  "sanskrit_iast": "rājadvārikamārambhaṃ kārayetaitile dine | etāddha' karaṇaṃ śreṣṭhaṃ nityaṃ rājñopasevinām ||",
+  "meaning": "राजद्वारिकमारम्भं कारयेतैतिले दिने । एताद्ध' करणं श्रेष्ठं नित्यं राज्ञोपसेविनाम् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 6,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.7",
+  "sanskrit_iast": "alaṅkārāṃśa vividhān divyānyābharaṇāni ca | anyathāpi tathā yukraṃ yuktānāṃ tu pratikriyāḥ ||",
+  "meaning": "अलङ्कारांश विविधान् दिव्यान्याभरणानि च । अन्यथापि तथा युक्रं युक्तानां तु प्रतिक्रियाः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 7,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.8",
+  "sanskrit_iast": "garājinā tu kurvīta yatkarmma gṛhameghinām | paśūnāṃ poṣaṇaṃ caiva prayojyaṃ krayavikrayam ||",
+  "meaning": "गराजिना तु कुर्वीत यत्कर्म्म गृहमेघिनाम् । पशूनां पोषणं चैव प्रयोज्यं क्रयविक्रयम् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 8,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.9",
+  "sanskrit_iast": "gṛhapraveśaṃ vāstūnāṃ gṛhāṇāṃ ropaṇāni ca | viśeṣeṇa tu kāryāṇi karṣaṇādīni kārayet ||",
+  "meaning": "गृहप्रवेशं वास्तूनां गृहाणां रोपणानि च । विशेषेण तु कार्याणि कर्षणादीनि कारयेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 9,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.11",
+  "sanskrit_iast": "viṣṭinā karakhe karma na kuryātraiva kārayet | kṛcchreṇāpi kṛtaṃ karma mavedanpaphalodayam ||",
+  "meaning": "विष्टिना करखे कर्म न कुर्यात्रैव कारयेत् । कृच्छ्रेणापि कृतं कर्म मवेदन्पफलोदयम् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 11,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.12",
+  "sanskrit_iast": "yadi siddhayati tatkarma viṣṭinā tu kadācana | na taciramaśaṃkene śakyaṃ bho surairapi ||",
+  "meaning": "यदि सिद्धयति तत्कर्म विष्टिना तु कदाचन । न तचिरमशंकेने शक्यं भो सुरैरपि ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 12,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.13",
+  "sanskrit_iast": "āgataṃ dhananāśāya ādī kāryavināśanī | madhye prāṇaharā jñeyā viṣṭi pucche dhruvaṃ jayaḥ ||",
+  "meaning": "आगतं धननाशाय आदी कार्यविनाशनी । मध्ये प्राणहरा ज्ञेया विष्टि पुच्छे ध्रुवं जयः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 13,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.14",
+  "sanskrit_iast": "bhāgantu ghaṭikāḥ pañca varttamāne caturdaśa | madhye cāṣṭī vijānīyādviṣṭipucche vayaḥ smṛtāḥ ||",
+  "meaning": "भागन्तु घटिकाः पञ्च वर्त्तमाने चतुर्दश । मध्ये चाष्टी विजानीयाद्विष्टिपुच्छे वयः स्मृताः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 14,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.15",
+  "sanskrit_iast": "śakunasya garutmān vṛṣabho va catuṣpade | nāgasya devatā nāgāḥ kaustubhasya dhanādhipaḥ ||",
+  "meaning": "शकुनस्य गरुत्मान् वृषभो व चतुष्पदे । नागस्य देवता नागाः कौस्तुभस्य धनाधिपः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 15,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.16",
+  "sanskrit_iast": "navasya devatā viṣṇurbālavaspa prajāpatiḥ | kaulavasya bhavetsomastaitilasya śatakratuḥ ||",
+  "meaning": "नवस्य देवता विष्णुर्बालवस्प प्रजापतिः । कौलवस्य भवेत्सोमस्तैतिलस्य शतक्रतुः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 16,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.17",
+  "sanskrit_iast": "garājivasudevatyo maṇibhadroṃ 'tha vāṇije | viṣṭestu daivataṃ mṛtyurdevatāḥ parikīrtitāḥ ||",
+  "meaning": "गराजिवसुदेवत्यो मणिभद्रों ऽथ वाणिजे । विष्टेस्तु दैवतं मृत्युर्देवताः परिकीर्तिताः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 17,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.18",
+  "sanskrit_iast": "kavirāsadivādarabhūta' divā śuciraṣṭadivākarapūrṇadivā' ? iti viṣṭiraharbrahaṇa rāticarāna ca karmma bhavetkṛtamāśuśubham || tithiprakaraṇam",
+  "meaning": "कविरासदिवादरभूत' दिवा शुचिरष्टदिवाकरपूर्णदिवा' ? इति विष्टिरहर्ब्रहण रातिचरान च कर्म्म भवेत्कृतमाशुशुभम् ॥ तिथिप्रकरणम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 18,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.19",
+  "sanskrit_iast": "ādau varjayedvīraḥ prasthāne prabhamāṃ tithim | dvitīyā samprayātasya siddhimartha vinirdiśet ||",
+  "meaning": "आदौ वर्जयेद्वीरः प्रस्थाने प्रभमां तिथिम् । द्वितीया सम्प्रयातस्य सिद्धिमर्थ विनिर्दिशेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 19,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.20",
+  "sanskrit_iast": "tṛtīyā cemamārogyaṃ caturthī maraṇādbhayam | pañcamī vijayā śreṣṭhā sā vai sarvārthasādhakī ||",
+  "meaning": "तृतीया चेममारोग्यं चतुर्थी मरणाद्भयम् । पञ्चमी विजया श्रेष्ठा सा वै सर्वार्थसाधकी ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 20,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.21",
+  "sanskrit_iast": "ṣaṣṭhī tanayalābhārya saptamī tvannabhāgbhavet | aṣṭamī rogalābhāya navamyāṃ na nivarttate ||",
+  "meaning": "षष्ठी तनयलाभार्य सप्तमी त्वन्नभाग्भवेत् । अष्टमी रोगलाभाय नवम्यां न निवर्त्तते ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 21,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.22",
+  "sanskrit_iast": "daśamyāṃ prasthito rājā bhūmilābhāya kampate | ekādaśī tu sarvatra praśastā sarvakarmasu ||",
+  "meaning": "दशम्यां प्रस्थितो राजा भूमिलाभाय कम्पते । एकादशी तु सर्वत्र प्रशस्ता सर्वकर्मसु ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 22,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.23",
+  "sanskrit_iast": "dvādaśī tvarthanāśāya kuryāttrayodaśī ? | caturdaśī calatkarmma kautukānyata kārayet ||",
+  "meaning": "द्वादशी त्वर्थनाशाय कुर्यात्त्रयोदशी ? । चतुर्दशी चलत्कर्म्म कौतुकान्यत कारयेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 23,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.24",
+  "sanskrit_iast": "amāvāsyāṃ na yātrā syāt paurṇamāsyāṃ tathā divā | paurṇamāsyāṃ prayātasya na siddhistasya jāyate ||",
+  "meaning": "अमावास्यां न यात्रा स्यात् पौर्णमास्यां तथा दिवा । पौर्णमास्यां प्रयातस्य न सिद्धिस्तस्य जायते ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 24,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.25",
+  "sanskrit_iast": "ṣaḍaṣṭau nava catvāri pañcachidrāṇi varjayet | api nakṣatra sampanna varjayet caturdaśīm ||",
+  "meaning": "षडष्टौ नव चत्वारि पञ्चछिद्राणि वर्जयेत् । अपि नक्षत्र सम्पन्न वर्जयेत् चतुर्दशीम् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 25,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.26",
+  "sanskrit_iast": "nandā bhadrā jayā rikkā pūrṇā pavastu pañcamī | tithayaḥ pañca vijñeyāḥ pakṣayorubhayorapi ||",
+  "meaning": "नन्दा भद्रा जया रिक्का पूर्णा पवस्तु पञ्चमी । तिथयः पञ्च विज्ञेयाः पक्षयोरुभयोरपि ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 26,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.27",
+  "sanskrit_iast": "nandāṃ pratipadaṃ vidyāt ṣaṣṭhīmekādaśīmapi | dvitīyā saptamī bhadrā dvādaśī copapadyate ||",
+  "meaning": "नन्दां प्रतिपदं विद्यात् षष्ठीमेकादशीमपि । द्वितीया सप्तमी भद्रा द्वादशी चोपपद्यते ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 27,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.28",
+  "sanskrit_iast": "tṛtīyā cāṣṭamī caiva jayā ca syāntrayodaśī | caturthī navamī rikā tathaiva ca caturdaśī ||",
+  "meaning": "तृतीया चाष्टमी चैव जया च स्यान्त्रयोदशी । चतुर्थी नवमी रिका तथैव च चतुर्दशी ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 28,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.29",
+  "sanskrit_iast": "pañcamī daśamī pūrṇā tathā pañcadaśīti ca | tithayo dveṣu vāreṣu siddhārthāstava tacchṛṇu ||",
+  "meaning": "पञ्चमी दशमी पूर्णा तथा पञ्चदशीति च । तिथयो द्वेषु वारेषु सिद्धार्थास्तव तच्छृणु ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 29,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.30",
+  "sanskrit_iast": "nandāṃ bhṛgau somasute ca madrāṃ bhaume jayāṃ sūryasuteca riktām | pūrṇā gurau pañcasu pañca ete jayāvahāḥ sarvaphalapradāya ||",
+  "meaning": "नन्दां भृगौ सोमसुते च मद्रां भौमे जयां सूर्यसुतेच रिक्ताम् । पूर्णा गुरौ पञ्चसु पञ्च एते जयावहाः सर्वफलप्रदाय ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 30,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.31",
+  "sanskrit_iast": "nandāyāṃ bhakṣyabhojyāni bhūṣaṇāni varastriyaḥ | ānandaṃ caiva kurvīta manaḥ priyatamāni ca ||",
+  "meaning": "नन्दायां भक्ष्यभोज्यानि भूषणानि वरस्त्रियः । आनन्दं चैव कुर्वीत मनः प्रियतमानि च ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 31,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.32",
+  "sanskrit_iast": "bhadrāyāṃ bhadravāśāni' yāni yogāsanāni ca | svastivācanakarmāṇi kārayedārabheti ca ||",
+  "meaning": "भद्रायां भद्रवाशानि' यानि योगासनानि च । स्वस्तिवाचनकर्माणि कारयेदारभेति च ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 32,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.33",
+  "sanskrit_iast": "jayāyāṃ yojayet senāṃ vaṇijaḥ citrakāriṇaḥ | paṇyavikrayaṇaṃ kuryuḥ śastrakarma ca kārayet ||",
+  "meaning": "जयायां योजयेत् सेनां वणिजः चित्रकारिणः । पण्यविक्रयणं कुर्युः शस्त्रकर्म च कारयेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 33,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.34",
+  "sanskrit_iast": "rikvāyāṃ varjayenityaṃ tithau tithivicakṣaṇaḥ | bhavāṇi sarvakāryāṇi sthāvarāṇi calāni ca ||",
+  "meaning": "रिक्वायां वर्जयेनित्यं तिथौ तिथिविचक्षणः । भवाणि सर्वकार्याणि स्थावराणि चलानि च ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 34,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.35",
+  "sanskrit_iast": "pūrṇāyāṃ setubandhāṃdha koṣṭhān kośāṃtra kārayet | vāhanāni ca poṣe tu rathayānāni kārayet ||",
+  "meaning": "पूर्णायां सेतुबन्धांध कोष्ठान् कोशांत्र कारयेत् । वाहनानि च पोषे तु रथयानानि कारयेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 35,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.36",
+  "sanskrit_iast": "evameva trirabhyastaṃ pacekheṃ parivarjayet | jyotiḥ śāstraprayuktānāṃ karmaṇāṃ phaladaṃ bhavet ||",
+  "meaning": "एवमेव त्रिरभ्यस्तं पचेखें परिवर्जयेत् । ज्योतिः शास्त्रप्रयुक्तानां कर्मणां फलदं भवेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 36,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.37",
+  "sanskrit_iast": "ṛṛtucaye candramasaḥ dhaye ca pakṣacaye jyotiṣi sagrahe ca nakṣatra vargeṣu vigarhiteṣu yātrāvidhānaṃ na badanti tajjñāḥ ||",
+  "meaning": "ऋऋतुचये चन्द्रमसः धये च पक्षचये ज्योतिषि सग्रहे च नक्षत्र वर्गेषु विगर्हितेषु यात्राविधानं न बदन्ति तज्ज्ञाः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 37,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.38",
+  "sanskrit_iast": "pacacayastu yaḥ proktaḥ kiyantaṃ kālamādiśet | ekādaśyāṃ vyatītāyāṃ vijñeyaḥ pathasaṃcaryaḥ ||",
+  "meaning": "पचचयस्तु यः प्रोक्तः कियन्तं कालमादिशेत् । एकादश्यां व्यतीतायां विज्ञेयः पथसंचर्यः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 38,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.39",
+  "sanskrit_iast": "śukro dhanacayaṃ kuryād buddhimohaṃ bṛhaspatiḥ | lohitāṃgo mahāvyādhiṃ kurute nātra saṃśayaḥ ||",
+  "meaning": "शुक्रो धनचयं कुर्याद् बुद्धिमोहं बृहस्पतिः । लोहितांगो महाव्याधिं कुरुते नात्र संशयः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 39,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.40",
+  "sanskrit_iast": "budho bandhuparikreśaṃ vipravāsaṃ śanaiścaraḥ | bandhupadakṣayaṃ sūryo bhayaṃ somastathaiva ca ||",
+  "meaning": "बुधो बन्धुपरिक्रेशं विप्रवासं शनैश्चरः । बन्धुपदक्षयं सूर्यो भयं सोमस्तथैव च ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 40,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.41",
+  "sanskrit_iast": "ātmarakṣā tu nakṣatraṃ tithi syādarthasādhakī | karaṇe kāryaniṣpattirmuhurte lābhamādiśet ||",
+  "meaning": "आत्मरक्षा तु नक्षत्रं तिथि स्यादर्थसाधकी । करणे कार्यनिष्पत्तिर्मुहुर्ते लाभमादिशेत् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 41,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.42",
+  "sanskrit_iast": "caturbhiḥ kārayetkarma siddhihetorvicacaṇaḥ | tithi- nakṣatra -karaṇa- muhūrceneti nityaśaḥ ||",
+  "meaning": "चतुर्भिः कारयेत्कर्म सिद्धिहेतोर्विचचणः । तिथि- नक्षत्र -करण- मुहूर्चेनेति नित्यशः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 42,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.43",
+  "sanskrit_iast": "titherapi ca dūratvāttibhiḥ karma samārabhet | nakṣatreṇa karaṇena muhūrtteneti nityaśaḥ ||",
+  "meaning": "तिथेरपि च दूरत्वात्तिभिः कर्म समारभेत् । नक्षत्रेण करणेन मुहूर्त्तेनेति नित्यशः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 43,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.44",
+  "sanskrit_iast": "nakṣatrasya hi dūratvād dvābhyāṃ karma samārabhet | karaṇena muhūrttena tvaramāṇastu buddhimān ||",
+  "meaning": "नक्षत्रस्य हि दूरत्वाद् द्वाभ्यां कर्म समारभेत् । करणेन मुहूर्त्तेन त्वरमाणस्तु बुद्धिमान् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 44,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.45",
+  "sanskrit_iast": "karaṇasya hi dūratvān muhūrttenaiva kārayet | muhūrttena kṛtaṃ karma sidhyate nātra saṃśayaḥ ||",
+  "meaning": "करणस्य हि दूरत्वान् मुहूर्त्तेनैव कारयेत् । मुहूर्त्तेन कृतं कर्म सिध्यते नात्र संशयः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 45,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.46",
+  "sanskrit_iast": "dūrasthasya muhūrttasya kriyā ca tvaritā yadi | dvijapuṇyāhaghoṣeṇa kṛtaṃ syātsarvasāṃpadam ||",
+  "meaning": "दूरस्थस्य मुहूर्त्तस्य क्रिया च त्वरिता यदि । द्विजपुण्याहघोषेण कृतं स्यात्सर्वसांपदम् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 46,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.47",
+  "sanskrit_iast": "nacavasya muhūrttasya titheva karaṇasya ca | caturvidhasya jñānasya śakuno daṇḍanāyakaḥ ||",
+  "meaning": "नचवस्य मुहूर्त्तस्य तिथेव करणस्य च । चतुर्विधस्य ज्ञानस्य शकुनो दण्डनायकः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 47,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.48",
+  "sanskrit_iast": "śakuna: pavanaścaiva manaḥ parijanastathā | yasyaitānyanukūlāni siddhireva na saṃśayaḥ ||",
+  "meaning": "शकुन: पवनश्चैव मनः परिजनस्तथा । यस्यैतान्यनुकूलानि सिद्धिरेव न संशयः ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 48,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.49",
+  "sanskrit_iast": "na tatra balavatī tārā yatredurbalavattaraḥ | na hi marhasthitāṃ nārī kvacitsvātantryamarhati ||",
+  "meaning": "न तत्र बलवती तारा यत्रेदुर्बलवत्तरः । न हि मर्हस्थितां नारी क्वचित्स्वातन्त्र्यमर्हति ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 49,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.50",
+  "sanskrit_iast": "na kṛṣṇapace śaśinaṃḥ prabhāvastārābalaṃ tava vicārya deyam | videśayate vikale ca patyau sarvāṇi kāryāṇi karoti patnī ||",
+  "meaning": "न कृष्णपचे शशिनंः प्रभावस्ताराबलं तव विचार्य देयम् । विदेशयते विकले च पत्यौ सर्वाणि कार्याणि करोति पत्नी ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 50,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.51",
+  "sanskrit_iast": "dvātriṃśadguye yogastārāpaṣṭisamanvitaḥ | candraḥ śataguṇaḥ proknastasācandraṃ balābalam ||",
+  "meaning": "द्वात्रिंशद्गुये योगस्तारापष्टिसमन्वितः । चन्द्रः शतगुणः प्रोक्नस्तसाचन्द्रं बलाबलम् ॥",
+  "text": "",
+  "mandala": 5,
+  "hymn": 51,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "5.52",
+  "sanskrit_iast": "samīcya candrasya balābalāni grahāḥ prayachanti śubhāśubhāni | manaḥ sametāni yathendriyāṇi karmāṇayetāṃ yānti na kevalāni || vāraprakaraṇam",
+  "meaning": "समीच्य चन्द्रस्य बलाबलानि ग्रहाः प्रयछन्ति शुभाशुभानि । मनः समेतानि यथेन्द्रियाणि कर्माणयेतां यान्ति न केवलानि ॥ वारप्रकरणम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 52,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.1",
+  "sanskrit_iast": "ādityaḥ somo bhaumaśca tathā budhabṛhaspatī | bhārgavaḥ śanaiścaraścaicaite' saptadinādhiyāḥ ||",
+  "meaning": "आदित्यः सोमो भौमश्च तथा बुधबृहस्पती । भार्गवः शनैश्चरश्चैचैते' सप्तदिनाधियाः ॥",
+  "text": "",
+  "mandala": 8,
+  "hymn": 1,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.2",
+  "sanskrit_iast": "nṛpābhiṣekaṃ nṛpatiprayāṇaṃ nṛpasya kārya nṛpadarśanaṃ ca | yacādhikārya bhuvi kiścidukkaṃ tatsarvamādityadine praśastam ||",
+  "meaning": "नृपाभिषेकं नृपतिप्रयाणं नृपस्य कार्य नृपदर्शनं च । यचाधिकार्य भुवि किश्चिदुक्कं तत्सर्वमादित्यदिने प्रशस्तम् ॥",
+  "text": "",
+  "mandala": 8,
+  "hymn": 2,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.3",
+  "sanskrit_iast": "pānaṃ rasānāṃ madhusomapānaṃ saubhāgyakarmāṇyanulepanāni | kṣetre ca bījāni vapet vṛvān somasya kuryāddivase vidhijñaḥ ||",
+  "meaning": "पानं रसानां मधुसोमपानं सौभाग्यकर्माण्यनुलेपनानि । क्षेत्रे च बीजानि वपेत् वृवान् सोमस्य कुर्याद्दिवसे विधिज्ञः ॥",
+  "text": "",
+  "mandala": 8,
+  "hymn": 3,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.4",
+  "sanskrit_iast": "bhedābhighāto nagare pure vā senāpatitvaṃ ca tathaiva rājye | vyāyāmaśastrābhyasanaṃ ca caurya bhūmeḥ sutasyā hi sadā praśastam ||",
+  "meaning": "भेदाभिघातो नगरे पुरे वा सेनापतित्वं च तथैव राज्ये । व्यायामशस्त्राभ्यसनं च चौर्य भूमेः सुतस्या हि सदा प्रशस्तम् ॥",
+  "text": "",
+  "mandala": 8,
+  "hymn": 4,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.5",
+  "sanskrit_iast": "dūtapraveśo rakhakāraṇārtha kanyāprajārtha ripusandhikāryam | bhine cai mantra pratisandhanīyaṃ śimaṃ praśaṃsanti dine budhasyai ||",
+  "meaning": "दूतप्रवेशो रखकारणार्थ कन्याप्रजार्थ रिपुसन्धिकार्यम् । भिने चै मन्त्र प्रतिसन्धनीयं शिमं प्रशंसन्ति दिने बुधस्यै ॥",
+  "text": "",
+  "mandala": 8,
+  "hymn": 5,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.6",
+  "sanskrit_iast": "strābhyāyadevārcanaveśmakārya saṃskāradīcāśca tathā yatīnām | vastrāṇi dārā śriyabhūṣarṇāni kṛṣi kuryāddevagurodine ca ||",
+  "meaning": "स्त्राभ्यायदेवार्चनवेश्मकार्य संस्कारदीचाश्च तथा यतीनाम् । वस्त्राणि दारा श्रियभूषर्णानि कृषि कुर्याद्देवगुरोदिने च ॥",
+  "text": "",
+  "mandala": 8,
+  "hymn": 6,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.7",
+  "sanskrit_iast": "aśvapravāhyaṃ prathamaṃ praśastaṃ yogapraroho gajarohaṇaṃ ca | kanyāpradānaṃ krayavikrayau ca teṣāṃ sadā śukradine praśastam ||",
+  "meaning": "अश्वप्रवाह्यं प्रथमं प्रशस्तं योगप्ररोहो गजरोहणं च । कन्याप्रदानं क्रयविक्रयौ च तेषां सदा शुक्रदिने प्रशस्तम् ॥",
+  "text": "",
+  "mandala": 8,
+  "hymn": 7,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "8.8",
+  "sanskrit_iast": "sthāpyaṃ ca karmmakratubhiśca yūpo gṛhapraveśo gajabandhanaṃ ca | grāme'tha vāso nagare pure vā śanaiścare sarvamidaṃ praśastam || nakṣatraprakaraṇam",
+  "meaning": "स्थाप्यं च कर्म्मक्रतुभिश्च यूपो गृहप्रवेशो गजबन्धनं च । ग्रामेऽथ वासो नगरे पुरे वा शनैश्चरे सर्वमिदं प्रशस्तम् ॥ नक्षत्रप्रकरणम्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 8,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.1",
+  "sanskrit_iast": "ātmakarma gurṇa śreṣṭhaṃ puruṣaṃ puruṣaṃ prati | anpagranthaṃ mahāthe ca pravakṣyāmi bhūgormatam ||",
+  "meaning": "आत्मकर्म गुर्ण श्रेष्ठं पुरुषं पुरुषं प्रति । अन्पग्रन्थं महाथे च प्रवक्ष्यामि भूगोर्मतम् ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 1,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.2",
+  "sanskrit_iast": "pṛthak puruṣavijñeyaṃ nakṣatrāṇāṃ śubhāśubham | ātmasampatkaraṃ jñeyamātmana ṛddhimicchatām ||",
+  "meaning": "पृथक् पुरुषविज्ञेयं नक्षत्राणां शुभाशुभम् । आत्मसम्पत्करं ज्ञेयमात्मन ऋद्धिमिच्छताम् ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 2,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.3",
+  "sanskrit_iast": "navānāṃ vivargāṇāmādhāne janmakarmmaṇi | aghamottamavargeṣu sambadatīi bhāgaśaḥ ||",
+  "meaning": "नवानां विवर्गाणामाधाने जन्मकर्म्मणि । अघमोत्तमवर्गेषु सम्बदतीइ भागशः ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 3,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.4",
+  "sanskrit_iast": "janmasampadvipakṣebhyaḥ pratvaraḥ sādhakastathā | naidhano mitravargaśca paramo maila eva tu ||",
+  "meaning": "जन्मसम्पद्विपक्षेभ्यः प्रत्वरः साधकस्तथा । नैधनो मित्रवर्गश्च परमो मैल एव तु ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 4,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.5",
+  "sanskrit_iast": "daramaṃ janmanakṣatrāt karmmanacalamucyate | ekonaviṃśatiṃ caiva garbhādhānakamucyate ||",
+  "meaning": "दरमं जन्मनक्षत्रात् कर्म्मनचलमुच्यते । एकोनविंशतिं चैव गर्भाधानकमुच्यते ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 5,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.6",
+  "sanskrit_iast": "dvitīyamekādaśaṃ viṃśameṣa sampatkaro gaṇaḥ | tṛtīyamekaviṃśaṃ tu dvādaśaṃ tu vipatkaram ||",
+  "meaning": "द्वितीयमेकादशं विंशमेष सम्पत्करो गणः । तृतीयमेकविंशं तु द्वादशं तु विपत्करम् ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 6,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.7",
+  "sanskrit_iast": "cemyaṃ caturtha dvāviṃśaṃ bhavedyaca trayodaśam | pratvaraṃ pañcamaṃ vidyāttayoviṃśaṃ caturdaśam ||",
+  "meaning": "चेम्यं चतुर्थ द्वाविंशं भवेद्यच त्रयोदशम् । प्रत्वरं पञ्चमं विद्यात्तयोविंशं चतुर्दशम् ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 7,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.8",
+  "sanskrit_iast": "sādhakaṃ tu caturviṃśaṃ ṣaṣṭhaṃ pañcadaśaṃ tu yat | nairdhanaṃ pañcaviṃśaṃ tu ṣoḍaśaṃ saptamaṃ tathā ||",
+  "meaning": "साधकं तु चतुर्विंशं षष्ठं पञ्चदशं तु यत् । नैर्धनं पञ्चविंशं तु षोडशं सप्तमं तथा ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 8,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.9",
+  "sanskrit_iast": "maitre saptadaśaṃ vidyāt ṣaḍviṃśamiti cāṣṭamam | saptaviṃśa paraṃ maitraṃ navamaṣṭādaśaṃ ca yat ||",
+  "meaning": "मैत्रे सप्तदशं विद्यात् षड्विंशमिति चाष्टमम् । सप्तविंश परं मैत्रं नवमष्टादशं च यत् ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 9,
+  "vedaId": "jyotisa_atharva"
+ },
+ {
+  "reference": "9.10",
+  "sanskrit_iast": "navanacatrake varge prathamaṃ tṛtīyaṃ tu varjayet | pañcamaṃ saptamaṃ caiva śepaiḥ kāryāṇi kārayet ||",
+  "meaning": "नवनचत्रके वर्गे प्रथमं तृतीयं तु वर्जयेत् । पञ्चमं सप्तमं चैव शेपैः कार्याणि कारयेत् ॥",
+  "text": "",
+  "mandala": 9,
+  "hymn": 10,
+  "vedaId": "jyotisa_atharva"
+ }
+]

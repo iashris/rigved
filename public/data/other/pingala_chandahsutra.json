@@ -1,0 +1,2801 @@
+[
+ {
+  "reference": "1.1",
+  "sanskrit_iast": "dhīśrīstrīm",
+  "meaning": "धीश्रीस्त्रीम्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.2",
+  "sanskrit_iast": "varā sā y",
+  "meaning": "वरा सा य्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.3",
+  "sanskrit_iast": "kā guhā r",
+  "meaning": "का गुहा र्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.4",
+  "sanskrit_iast": "vasudhā s",
+  "meaning": "वसुधा स्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.5",
+  "sanskrit_iast": "sā te kva t",
+  "meaning": "सा ते क्व त्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 5,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.6",
+  "sanskrit_iast": "kadā sa j",
+  "meaning": "कदा स ज्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.7",
+  "sanskrit_iast": "kiṃ vada bh",
+  "meaning": "किं वद भ्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.8",
+  "sanskrit_iast": "na hasa n",
+  "meaning": "न हस न्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.9",
+  "sanskrit_iast": "gṛ l",
+  "meaning": "गृ ल्",
+  "text": "",
+  "mandala": 1,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.10",
+  "sanskrit_iast": "gante",
+  "meaning": "गन्ते",
+  "text": "",
+  "mandala": 1,
+  "hymn": 10,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.11",
+  "sanskrit_iast": "dhrādiparaḥ",
+  "meaning": "ध्रादिपरः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.12",
+  "sanskrit_iast": "he",
+  "meaning": "हे",
+  "text": "",
+  "mandala": 1,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.13",
+  "sanskrit_iast": "lau saḥ",
+  "meaning": "लौ सः",
+  "text": "",
+  "mandala": 1,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.14",
+  "sanskrit_iast": "glau",
+  "meaning": "ग्लौ",
+  "text": "",
+  "mandala": 1,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "1.15",
+  "sanskrit_iast": "aṣṭau vasava iti",
+  "meaning": "अष्टौ वसव इति",
+  "text": "",
+  "mandala": 1,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.1",
+  "sanskrit_iast": "chandaḥ",
+  "meaning": "छन्दः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.2",
+  "sanskrit_iast": "gāyatrī",
+  "meaning": "गायत्री",
+  "text": "",
+  "mandala": 2,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.3",
+  "sanskrit_iast": "daivyekam",
+  "meaning": "दैव्येकम्",
+  "text": "",
+  "mandala": 2,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.4",
+  "sanskrit_iast": "āsurī pañcadaśa",
+  "meaning": "आसुरी पञ्चदश",
+  "text": "",
+  "mandala": 2,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.5",
+  "sanskrit_iast": "prājāpatyāṣṭau",
+  "meaning": "प्राजापत्याष्टौ",
+  "text": "",
+  "mandala": 2,
+  "hymn": 5,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.6",
+  "sanskrit_iast": "yajuṣāṃ ṣaṭ",
+  "meaning": "यजुषां षट्",
+  "text": "",
+  "mandala": 2,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.7",
+  "sanskrit_iast": "sāmnāṃ dviḥ",
+  "meaning": "साम्नां द्विः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.8",
+  "sanskrit_iast": "ṛcāṃ triḥ",
+  "meaning": "ऋचां त्रिः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.9",
+  "sanskrit_iast": "dvau dvau sāmnāṃ vardheta",
+  "meaning": "द्वौ द्वौ साम्नां वर्धेत",
+  "text": "",
+  "mandala": 2,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.10",
+  "sanskrit_iast": "trīṃstrīnṛcām",
+  "meaning": "त्रींस्त्रीनृचाम्",
+  "text": "",
+  "mandala": 2,
+  "hymn": 10,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.11",
+  "sanskrit_iast": "caturaścaturaḥ prājāpatyāyāḥ",
+  "meaning": "चतुरश्चतुरः प्राजापत्यायाः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.12",
+  "sanskrit_iast": "ekaikaṃ śeṣe",
+  "meaning": "एकैकं शेषे",
+  "text": "",
+  "mandala": 2,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.13",
+  "sanskrit_iast": "jahyādāsurī",
+  "meaning": "जह्यादासुरी",
+  "text": "",
+  "mandala": 2,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.14",
+  "sanskrit_iast": "tānyuṣṇiganuṣṭubbṛhatīpaṅktitriṣṭubjagatyaḥ",
+  "meaning": "तान्युष्णिगनुष्टुब्बृहतीपङ्क्तित्रिष्टुब्जगत्यः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.15",
+  "sanskrit_iast": "tisrastisraḥ sanāmnya ekaikā brāhmyaḥ",
+  "meaning": "तिस्रस्तिस्रः सनाम्न्य एकैका ब्राह्म्यः",
+  "text": "",
+  "mandala": 2,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "2.16",
+  "sanskrit_iast": "pragyajuṣāmārṣya iti",
+  "meaning": "प्रग्यजुषामार्ष्य इति",
+  "text": "",
+  "mandala": 2,
+  "hymn": 16,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.1",
+  "sanskrit_iast": "pādaḥ",
+  "meaning": "पादः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.2",
+  "sanskrit_iast": "iyādipūraṇaḥ",
+  "meaning": "इयादिपूरणः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.3",
+  "sanskrit_iast": "gāyatryā vasavaḥ",
+  "meaning": "गायत्र्या वसवः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.4",
+  "sanskrit_iast": "jagatyā ādityāḥ",
+  "meaning": "जगत्या आदित्याः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.5",
+  "sanskrit_iast": "virājo diśaḥ",
+  "meaning": "विराजो दिशः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 5,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.6",
+  "sanskrit_iast": "triṣṭubho rudrāḥ",
+  "meaning": "त्रिष्टुभो रुद्राः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.7",
+  "sanskrit_iast": "ekadvitricatuṣpāduktapādam",
+  "meaning": "एकद्वित्रिचतुष्पादुक्तपादम्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.8",
+  "sanskrit_iast": "ādyaṃ catuṣpādṛtubhiḥ",
+  "meaning": "आद्यं चतुष्पादृतुभिः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.9",
+  "sanskrit_iast": "kvacittripādṛṣibhiḥ",
+  "meaning": "क्वचित्त्रिपादृषिभिः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.10",
+  "sanskrit_iast": "sā pādanicṛt",
+  "meaning": "सा पादनिचृत्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 10,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.11",
+  "sanskrit_iast": "ṣaṭkasaptakayormadhye'ṣṭāvatipādanicṛt",
+  "meaning": "षट्कसप्तकयोर्मध्येऽष्टावतिपादनिचृत्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.12",
+  "sanskrit_iast": "dvau navakau ṣaṭkaśca nāgī",
+  "meaning": "द्वौ नवकौ षट्कश्च नागी",
+  "text": "",
+  "mandala": 3,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.13",
+  "sanskrit_iast": "viparītā vārāhī",
+  "meaning": "विपरीता वाराही",
+  "text": "",
+  "mandala": 3,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.14",
+  "sanskrit_iast": "ṣaṭkasaptakāṣṭhakairvardhamānā",
+  "meaning": "षट्कसप्तकाष्ठकैर्वर्धमाना",
+  "text": "",
+  "mandala": 3,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.15",
+  "sanskrit_iast": "viparītā pratiṣṭhā",
+  "meaning": "विपरीता प्रतिष्ठा",
+  "text": "",
+  "mandala": 3,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.16",
+  "sanskrit_iast": "tṛtīyaṃ dvipājjāgatagāyatryābhyām",
+  "meaning": "तृतीयं द्विपाज्जागतगायत्र्याभ्याम्",
+  "text": "",
+  "mandala": 3,
+  "hymn": 16,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.17",
+  "sanskrit_iast": "tripāttraiṣṭubhaiḥ",
+  "meaning": "त्रिपात्त्रैष्टुभैः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 17,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.18",
+  "sanskrit_iast": "uṣṇiggāyatrau jāgataśca",
+  "meaning": "उष्णिग्गायत्रौ जागतश्च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 18,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.19",
+  "sanskrit_iast": "kakummadhye cedantyaḥ",
+  "meaning": "ककुम्मध्ये चेदन्त्यः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 19,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.20",
+  "sanskrit_iast": "pura uṣṇikpurataḥ",
+  "meaning": "पुर उष्णिक्पुरतः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 20,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.21",
+  "sanskrit_iast": "paroṣṇikparataḥ",
+  "meaning": "परोष्णिक्परतः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 21,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.22",
+  "sanskrit_iast": "catuṣpādṛṣibhiḥ",
+  "meaning": "चतुष्पादृषिभिः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 22,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.23",
+  "sanskrit_iast": "anu-ṣṭubgāyatraiḥ",
+  "meaning": "अनु-ष्टुब्गायत्रैः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 23,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.24",
+  "sanskrit_iast": "tripātkvacijjāgatābhyāṃ ca",
+  "meaning": "त्रिपात्क्वचिज्जागताभ्यां च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 24,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.25",
+  "sanskrit_iast": "madhye'nte ca",
+  "meaning": "मध्येऽन्ते च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 25,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.26",
+  "sanskrit_iast": "bṛhatī jāgatastrayaśca gāyatrāḥ",
+  "meaning": "बृहती जागतस्त्रयश्च गायत्राः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 26,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.27",
+  "sanskrit_iast": "pathyā pūrvaścettṛtīyaḥ",
+  "meaning": "पथ्या पूर्वश्चेत्तृतीयः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 27,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.28",
+  "sanskrit_iast": "nyaṅkusāriṇī dvitīyaḥ",
+  "meaning": "न्यङ्कुसारिणी द्वितीयः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 28,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.29",
+  "sanskrit_iast": "skandhogrīvī krauṣṭukeḥ",
+  "meaning": "स्कन्धोग्रीवी क्रौष्टुकेः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 29,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.30",
+  "sanskrit_iast": "urobṛhatī yāskasya",
+  "meaning": "उरोबृहती यास्कस्य",
+  "text": "",
+  "mandala": 3,
+  "hymn": 30,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.31",
+  "sanskrit_iast": "upariṣṭādbṛhatyante",
+  "meaning": "उपरिष्टाद्बृहत्यन्ते",
+  "text": "",
+  "mandala": 3,
+  "hymn": 31,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.32",
+  "sanskrit_iast": "purastādbṛhatī puraḥ",
+  "meaning": "पुरस्ताद्बृहती पुरः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 32,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.33",
+  "sanskrit_iast": "kvacinnavakāścatvāraḥ",
+  "meaning": "क्वचिन्नवकाश्चत्वारः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 33,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.34",
+  "sanskrit_iast": "vairājau gāyatrau ca",
+  "meaning": "वैराजौ गायत्रौ च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 34,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.35",
+  "sanskrit_iast": "tribhirjāgatairmahābṛhatī",
+  "meaning": "त्रिभिर्जागतैर्महाबृहती",
+  "text": "",
+  "mandala": 3,
+  "hymn": 35,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.36",
+  "sanskrit_iast": "satobṛhatī tāṇḍinaḥ",
+  "meaning": "सतोबृहती ताण्डिनः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 36,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.37",
+  "sanskrit_iast": "paṅktirjāgatau gāyatrau ca",
+  "meaning": "पङ्क्तिर्जागतौ गायत्रौ च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 37,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.38",
+  "sanskrit_iast": "pūrvau cedayujau sataḥ paṅktiḥ",
+  "meaning": "पूर्वौ चेदयुजौ सतः पङ्क्तिः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 38,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.39",
+  "sanskrit_iast": "viparītau ca",
+  "meaning": "विपरीतौ च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 39,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.40",
+  "sanskrit_iast": "prastārapaṅktiḥ purataḥ",
+  "meaning": "प्रस्तारपङ्क्तिः पुरतः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 40,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.41",
+  "sanskrit_iast": "āstārapaṅktiḥ parataḥ",
+  "meaning": "आस्तारपङ्क्तिः परतः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 41,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.42",
+  "sanskrit_iast": "viṣṭārapaṅktirantaḥ",
+  "meaning": "विष्टारपङ्क्तिरन्तः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 42,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.43",
+  "sanskrit_iast": "saṃstārapaṅktirbahiḥ",
+  "meaning": "संस्तारपङ्क्तिर्बहिः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 43,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.44",
+  "sanskrit_iast": "akṣarapaṅktiḥ pañcakāścatvāraḥ",
+  "meaning": "अक्षरपङ्क्तिः पञ्चकाश्चत्वारः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 44,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.45",
+  "sanskrit_iast": "dvāvapyalpaśaḥ",
+  "meaning": "द्वावप्यल्पशः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 45,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.46",
+  "sanskrit_iast": "padapaṅktiḥ pañca",
+  "meaning": "पदपङ्क्तिः पञ्च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 46,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.47",
+  "sanskrit_iast": "catuṣkaṣaṭkautrayaśca",
+  "meaning": "चतुष्कषट्कौत्रयश्च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 47,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.48",
+  "sanskrit_iast": "pathyā pañcabhirgāyatraiḥ",
+  "meaning": "पथ्या पञ्चभिर्गायत्रैः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 48,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.49",
+  "sanskrit_iast": "jagatī ṣaḍbhiḥ",
+  "meaning": "जगती षड्भिः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 49,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.50",
+  "sanskrit_iast": "ekena triṣṭubjyotiṣmatī",
+  "meaning": "एकेन त्रिष्टुब्ज्योतिष्मती",
+  "text": "",
+  "mandala": 3,
+  "hymn": 50,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.51",
+  "sanskrit_iast": "tathā jagatī",
+  "meaning": "तथा जगती",
+  "text": "",
+  "mandala": 3,
+  "hymn": 51,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.52",
+  "sanskrit_iast": "purastājjyotiḥ prathamena",
+  "meaning": "पुरस्ताज्ज्योतिः प्रथमेन",
+  "text": "",
+  "mandala": 3,
+  "hymn": 52,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.53",
+  "sanskrit_iast": "madhyejyotirmadhyamena",
+  "meaning": "मध्येज्योतिर्मध्यमेन",
+  "text": "",
+  "mandala": 3,
+  "hymn": 53,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.54",
+  "sanskrit_iast": "upariṣṭājjyotirantyena",
+  "meaning": "उपरिष्टाज्ज्योतिरन्त्येन",
+  "text": "",
+  "mandala": 3,
+  "hymn": 54,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.55",
+  "sanskrit_iast": "ekasminpañcake chandaḥ śaṅkumatī",
+  "meaning": "एकस्मिन्पञ्चके छन्दः शङ्कुमती",
+  "text": "",
+  "mandala": 3,
+  "hymn": 55,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.56",
+  "sanskrit_iast": "ṣaṭke kakudmatī",
+  "meaning": "षट्के ककुद्मती",
+  "text": "",
+  "mandala": 3,
+  "hymn": 56,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.57",
+  "sanskrit_iast": "tripādaṇiṣṭhamadhyā pipīlikamadhyā",
+  "meaning": "त्रिपादणिष्ठमध्या पिपीलिकमध्या",
+  "text": "",
+  "mandala": 3,
+  "hymn": 57,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.58",
+  "sanskrit_iast": "viparītā yavamadhyā",
+  "meaning": "विपरीता यवमध्या",
+  "text": "",
+  "mandala": 3,
+  "hymn": 58,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.59",
+  "sanskrit_iast": "ūnādhikenaikena nicṛdbhurijau",
+  "meaning": "ऊनाधिकेनैकेन निचृद्भुरिजौ",
+  "text": "",
+  "mandala": 3,
+  "hymn": 59,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.60",
+  "sanskrit_iast": "dvābhyāṃ virāṭsvarājau",
+  "meaning": "द्वाभ्यां विराट्स्वराजौ",
+  "text": "",
+  "mandala": 3,
+  "hymn": 60,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.61",
+  "sanskrit_iast": "āditaḥ saṃdigdhe",
+  "meaning": "आदितः संदिग्धे",
+  "text": "",
+  "mandala": 3,
+  "hymn": 61,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.62",
+  "sanskrit_iast": "devatāditaśca",
+  "meaning": "देवतादितश्च",
+  "text": "",
+  "mandala": 3,
+  "hymn": 62,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.63",
+  "sanskrit_iast": "agniḥ savitā somo bṛhaspatirmitrāvaruṇāvindro viśvedevā devatāḥ",
+  "meaning": "अग्निः सविता सोमो बृहस्पतिर्मित्रावरुणाविन्द्रो विश्वेदेवा देवताः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 63,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.64",
+  "sanskrit_iast": "svarāḥ ṣaḍjarṣabhagāndhāramadhyamapañcamadhaivataniṣādāḥ",
+  "meaning": "स्वराः षड्जर्षभगान्धारमध्यमपञ्चमधैवतनिषादाः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 64,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.65",
+  "sanskrit_iast": "sitasāraṅgapiśaṅgakṛṣṇanīlalohitagaurā varṇāḥ",
+  "meaning": "सितसारङ्गपिशङ्गकृष्णनीललोहितगौरा वर्णाः",
+  "text": "",
+  "mandala": 3,
+  "hymn": 65,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "3.66",
+  "sanskrit_iast": "āgniveśyakāśyapagautamāṅgirasabhārgavakauśikavāsiṣṭhāni gotraṇi",
+  "meaning": "आग्निवेश्यकाश्यपगौतमाङ्गिरसभार्गवकौशिकवासिष्ठानि गोत्रणि",
+  "text": "",
+  "mandala": 3,
+  "hymn": 66,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.1",
+  "sanskrit_iast": "catuḥśatamutkṛtiḥ",
+  "meaning": "चतुःशतमुत्कृतिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.2",
+  "sanskrit_iast": "caturaścaturastyacedutkṛteḥ",
+  "meaning": "चतुरश्चतुरस्त्यचेदुत्कृतेः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.3",
+  "sanskrit_iast": "tānyabhisaṃvyāprebhyaḥ kṛtiḥ",
+  "meaning": "तान्यभिसंव्याप्रेभ्यः कृतिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.4",
+  "sanskrit_iast": "prakṛtyā copasargavarjitaḥ",
+  "meaning": "प्रकृत्या चोपसर्गवर्जितः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.5",
+  "sanskrit_iast": "dhṛtyaṣṭiśakvarījagatyaḥ",
+  "meaning": "धृत्यष्टिशक्वरीजगत्यः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 5,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.6",
+  "sanskrit_iast": "pṛthakpiṛthakpūrvata etānyevaiṣām",
+  "meaning": "पृथक्पिऋथक्पूर्वत एतान्येवैषाम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.7",
+  "sanskrit_iast": "dvitīyaṃ dvitīyamatitaḥ",
+  "meaning": "द्वितीयं द्वितीयमतितः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.8",
+  "sanskrit_iast": "atha laukikam",
+  "meaning": "अथ लौकिकम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.9",
+  "sanskrit_iast": "ātraiṣṭubhācca yadārṣam supratiṣṭhāpratiṣṭhāmadhyātyuktoktāśca pādaścaturbhāgaḥ",
+  "meaning": "आत्रैष्टुभाच्च यदार्षम् सुप्रतिष्ठाप्रतिष्ठामध्यात्युक्तोक्ताश्च पादश्चतुर्भागः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.11",
+  "sanskrit_iast": "yathāvṛttasamāptirvā",
+  "meaning": "यथावृत्तसमाप्तिर्वा",
+  "text": "",
+  "mandala": 4,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.12",
+  "sanskrit_iast": "laḥ samudrā gaṇaḥ",
+  "meaning": "लः समुद्रा गणः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.13",
+  "sanskrit_iast": "gau gantamadhyādirlaśca",
+  "meaning": "गौ गन्तमध्यादिर्लश्च",
+  "text": "",
+  "mandala": 4,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.14",
+  "sanskrit_iast": "svarā ardhaṃ cāryārdham",
+  "meaning": "स्वरा अर्धं चार्यार्धम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.15",
+  "sanskrit_iast": "atrāyuṅ na c",
+  "meaning": "अत्रायुङ् न च्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.16",
+  "sanskrit_iast": "ṣaṣṭho c",
+  "meaning": "षष्ठो च्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 16,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.17",
+  "sanskrit_iast": "nlau vā",
+  "meaning": "न्लौ वा",
+  "text": "",
+  "mandala": 4,
+  "hymn": 17,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.18",
+  "sanskrit_iast": "nlau cetpadaṃ dvitīyādi",
+  "meaning": "न्लौ चेत्पदं द्वितीयादि",
+  "text": "",
+  "mandala": 4,
+  "hymn": 18,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.19",
+  "sanskrit_iast": "saptamaḥ prathamādi",
+  "meaning": "सप्तमः प्रथमादि",
+  "text": "",
+  "mandala": 4,
+  "hymn": 19,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.20",
+  "sanskrit_iast": "antye pañcamaḥ",
+  "meaning": "अन्त्ये पञ्चमः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 20,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.21",
+  "sanskrit_iast": "ṣaṣṭhaśca l",
+  "meaning": "षष्ठश्च ल्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 21,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.22",
+  "sanskrit_iast": "triṣu gaṇeṣu pādaḥ pathyādya ca",
+  "meaning": "त्रिषु गणेषु पादः पथ्याद्य च",
+  "text": "",
+  "mandala": 4,
+  "hymn": 22,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.23",
+  "sanskrit_iast": "vipulānyā",
+  "meaning": "विपुलान्या",
+  "text": "",
+  "mandala": 4,
+  "hymn": 23,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.24",
+  "sanskrit_iast": "capalā dvitīyacaturthau gmadhye cau",
+  "meaning": "चपला द्वितीयचतुर्थौ ग्मध्ये चौ",
+  "text": "",
+  "mandala": 4,
+  "hymn": 24,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.25",
+  "sanskrit_iast": "pūrve musvapūrvā",
+  "meaning": "पूर्वे मुस्वपूर्वा",
+  "text": "",
+  "mandala": 4,
+  "hymn": 25,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.26",
+  "sanskrit_iast": "jaghanapūrvetaratra",
+  "meaning": "जघनपूर्वेतरत्र",
+  "text": "",
+  "mandala": 4,
+  "hymn": 26,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.27",
+  "sanskrit_iast": "ubhayormahācapalā",
+  "meaning": "उभयोर्महाचपला",
+  "text": "",
+  "mandala": 4,
+  "hymn": 27,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.28",
+  "sanskrit_iast": "ādyārdhasamā gītiḥ",
+  "meaning": "आद्यार्धसमा गीतिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 28,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.29",
+  "sanskrit_iast": "antyenopagītiḥ",
+  "meaning": "अन्त्येनोपगीतिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 29,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.30",
+  "sanskrit_iast": "utkrameṇodgītiḥ",
+  "meaning": "उत्क्रमेणोद्गीतिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 30,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.31",
+  "sanskrit_iast": "ardhe vasugaṇa āryāgītiḥ",
+  "meaning": "अर्धे वसुगण आर्यागीतिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 31,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.32",
+  "sanskrit_iast": "vaitālīyaṃ dviḥsvarā ayukpāde yugvasavo'nte rlgaḥ",
+  "meaning": "वैतालीयं द्विःस्वरा अयुक्पादे युग्वसवोऽन्ते र्ल्गः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 32,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.33",
+  "sanskrit_iast": "gaupacchandasakam",
+  "meaning": "गौपच्छन्दसकम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 33,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.34",
+  "sanskrit_iast": "āpātalikā bhgau g",
+  "meaning": "आपातलिका भ्गौ ग्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 34,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.35",
+  "sanskrit_iast": "śeṣe pareṇa yuṅ na sākam",
+  "meaning": "शेषे परेण युङ् न साकम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 35,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.36",
+  "sanskrit_iast": "ṣaṭ cāmiśrā yuji",
+  "meaning": "षट् चामिश्रा युजि",
+  "text": "",
+  "mandala": 4,
+  "hymn": 36,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.37",
+  "sanskrit_iast": "pañcamena pūrvaḥ sākaṃ prācyavṛttiḥ",
+  "meaning": "पञ्चमेन पूर्वः साकं प्राच्यवृत्तिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 37,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.38",
+  "sanskrit_iast": "ayuktṛtīyenodīcyavṛttiḥ",
+  "meaning": "अयुक्तृतीयेनोदीच्यवृत्तिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 38,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.39",
+  "sanskrit_iast": "ābhyāṃ yugapatpravṛttakam",
+  "meaning": "आभ्यां युगपत्प्रवृत्तकम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 39,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.40",
+  "sanskrit_iast": "ayukcāruhāsinī",
+  "meaning": "अयुक्चारुहासिनी",
+  "text": "",
+  "mandala": 4,
+  "hymn": 40,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.41",
+  "sanskrit_iast": "yugaparāntikā",
+  "meaning": "युगपरान्तिका",
+  "text": "",
+  "mandala": 4,
+  "hymn": 41,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.42",
+  "sanskrit_iast": "gantā dvirvasavo mātrāsamakaṃ l navamaḥ",
+  "meaning": "गन्ता द्विर्वसवो मात्रासमकं ल् नवमः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 42,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.43",
+  "sanskrit_iast": "dvādaśaśca vānavāsikā",
+  "meaning": "द्वादशश्च वानवासिका",
+  "text": "",
+  "mandala": 4,
+  "hymn": 43,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.44",
+  "sanskrit_iast": "viślokaḥ pañcamāṣṭamau",
+  "meaning": "विश्लोकः पञ्चमाष्टमौ",
+  "text": "",
+  "mandala": 4,
+  "hymn": 44,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.45",
+  "sanskrit_iast": "citrā navamaśca",
+  "meaning": "चित्रा नवमश्च",
+  "text": "",
+  "mandala": 4,
+  "hymn": 45,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.46",
+  "sanskrit_iast": "parayuktenopacitrā",
+  "meaning": "परयुक्तेनोपचित्रा",
+  "text": "",
+  "mandala": 4,
+  "hymn": 46,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.47",
+  "sanskrit_iast": "ebhiḥ pādākulakam",
+  "meaning": "एभिः पादाकुलकम्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 47,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.48",
+  "sanskrit_iast": "gītyāryā laḥ",
+  "meaning": "गीत्यार्या लः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 48,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.49",
+  "sanskrit_iast": "śikhā vipayarstārdhā",
+  "meaning": "शिखा विपयर्स्तार्धा",
+  "text": "",
+  "mandala": 4,
+  "hymn": 49,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.50",
+  "sanskrit_iast": "laḥ pūrvaścejjyotiḥ",
+  "meaning": "लः पूर्वश्चेज्ज्योतिः",
+  "text": "",
+  "mandala": 4,
+  "hymn": 50,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.51",
+  "sanskrit_iast": "gaścetsaumyā",
+  "meaning": "गश्चेत्सौम्या",
+  "text": "",
+  "mandala": 4,
+  "hymn": 51,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.52",
+  "sanskrit_iast": "cūlikaikonatriṃśadekatriṃśadante g",
+  "meaning": "चूलिकैकोनत्रिंशदेकत्रिंशदन्ते ग्",
+  "text": "",
+  "mandala": 4,
+  "hymn": 52,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "4.53",
+  "sanskrit_iast": "sā g yena na samā lāṃ gla iti",
+  "meaning": "सा ग् येन न समा लां ग्ल इति",
+  "text": "",
+  "mandala": 4,
+  "hymn": 53,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.1",
+  "sanskrit_iast": "vṛttam",
+  "meaning": "वृत्तम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.2",
+  "sanskrit_iast": "samamardhasamaṃ viṣamaṃ ca",
+  "meaning": "सममर्धसमं विषमं च",
+  "text": "",
+  "mandala": 5,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.3",
+  "sanskrit_iast": "samaṃ tāvatkṛtvaḥ kṛtamardhasamam",
+  "meaning": "समं तावत्कृत्वः कृतमर्धसमम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.4",
+  "sanskrit_iast": "viṣamaṃ ca samasamārddhasamopacitam rāśyūnam",
+  "meaning": "विषमं च समसमार्द्धसमोपचितम् राश्यूनम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.6",
+  "sanskrit_iast": "gliti samānī",
+  "meaning": "ग्लिति समानी",
+  "text": "",
+  "mandala": 5,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.7",
+  "sanskrit_iast": "lgiti pramāṇī",
+  "meaning": "ल्गिति प्रमाणी",
+  "text": "",
+  "mandala": 5,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.8",
+  "sanskrit_iast": "vitānamanyat",
+  "meaning": "वितानमन्यत्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.9",
+  "sanskrit_iast": "pādasyānuṣṭubvaktram",
+  "meaning": "पादस्यानुष्टुब्वक्त्रम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.10",
+  "sanskrit_iast": "na prathamātsnau",
+  "meaning": "न प्रथमात्स्नौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 10,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.11",
+  "sanskrit_iast": "dvitīyacaturthayo raśca",
+  "meaning": "द्वितीयचतुर्थयो रश्च",
+  "text": "",
+  "mandala": 5,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.12",
+  "sanskrit_iast": "vānyat",
+  "meaning": "वान्यत्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.13",
+  "sanskrit_iast": "ya caturthāt",
+  "meaning": "य चतुर्थात्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.14",
+  "sanskrit_iast": "pathyā yujo j",
+  "meaning": "पथ्या युजो ज्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.15",
+  "sanskrit_iast": "viparītaikīyam",
+  "meaning": "विपरीतैकीयम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.16",
+  "sanskrit_iast": "capalāyujo n",
+  "meaning": "चपलायुजो न्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 16,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.17",
+  "sanskrit_iast": "vipulā yuglaḥ saptamaḥ",
+  "meaning": "विपुला युग्लः सप्तमः",
+  "text": "",
+  "mandala": 5,
+  "hymn": 17,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.18",
+  "sanskrit_iast": "sarvataḥ saitavasya",
+  "meaning": "सर्वतः सैतवस्य",
+  "text": "",
+  "mandala": 5,
+  "hymn": 18,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.19",
+  "sanskrit_iast": "bhrau ntau ca",
+  "meaning": "भ्रौ न्तौ च",
+  "text": "",
+  "mandala": 5,
+  "hymn": 19,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.20",
+  "sanskrit_iast": "pratipādaṃ caturvṛddhyā padacaturūrdhvam",
+  "meaning": "प्रतिपादं चतुर्वृद्ध्या पदचतुरूर्ध्वम्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 20,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.21",
+  "sanskrit_iast": "gāvanta āpīḍaḥ",
+  "meaning": "गावन्त आपीडः",
+  "text": "",
+  "mandala": 5,
+  "hymn": 21,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.22",
+  "sanskrit_iast": "gāvādau cetpratyāpīḍaḥ",
+  "meaning": "गावादौ चेत्प्रत्यापीडः",
+  "text": "",
+  "mandala": 5,
+  "hymn": 22,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.23",
+  "sanskrit_iast": "pratyāpīḍo gāvādau ca",
+  "meaning": "प्रत्यापीडो गावादौ च",
+  "text": "",
+  "mandala": 5,
+  "hymn": 23,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.24",
+  "sanskrit_iast": "prathamasya viparyāse mañjarīlavalyamṛtadhārāḥ",
+  "meaning": "प्रथमस्य विपर्यासे मञ्जरीलवल्यमृतधाराः",
+  "text": "",
+  "mandala": 5,
+  "hymn": 24,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.25",
+  "sanskrit_iast": "udgatāmekataḥ sjau slau nsau jgau bhgau jlau g sjau sjau g",
+  "meaning": "उद्गतामेकतः स्जौ स्लौ न्सौ ज्गौ भ्गौ ज्लौ ग् स्जौ स्जौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 25,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.26",
+  "sanskrit_iast": "tṛtīyasya saurabhakaṃ rnau bhgau",
+  "meaning": "तृतीयस्य सौरभकं र्नौ भ्गौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 26,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.27",
+  "sanskrit_iast": "lalitaṃ nau sau",
+  "meaning": "ललितं नौ सौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 27,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.28",
+  "sanskrit_iast": "upasthitapracuṣitaṃ pṛthagādyaṃ msau jbhau gau snau jrau g nau s nau n jyau",
+  "meaning": "उपस्थितप्रचुषितं पृथगाद्यं म्सौ ज्भौ गौ स्नौ ज्रौ ग् नौ स् नौ न् ज्यौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 28,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.29",
+  "sanskrit_iast": "varddhamānaṃ nau snau nsau",
+  "meaning": "वर्द्धमानं नौ स्नौ न्सौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 29,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.30",
+  "sanskrit_iast": "śuddhavirāḍṛṣabhaṃ tjrāḥ",
+  "meaning": "शुद्धविराडृषभं त्ज्राः",
+  "text": "",
+  "mandala": 5,
+  "hymn": 30,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.31",
+  "sanskrit_iast": "arddhe",
+  "meaning": "अर्द्धे",
+  "text": "",
+  "mandala": 5,
+  "hymn": 31,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.32",
+  "sanskrit_iast": "upacitrakaṃ sau slau g bhau bhgau g",
+  "meaning": "उपचित्रकं सौ स्लौ ग् भौ भ्गौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 32,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.33",
+  "sanskrit_iast": "drutamadhyā bhau bhgau g njau jyau",
+  "meaning": "द्रुतमध्या भौ भ्गौ ग् न्जौ ज्यौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 33,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.34",
+  "sanskrit_iast": "vedavatī sau sgau bhau bhgau g",
+  "meaning": "वेदवती सौ स्गौ भौ भ्गौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 34,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.35",
+  "sanskrit_iast": "bhadravirāṭ tjau rgau msau jgau g",
+  "meaning": "भद्रविराट् त्जौ र्गौ म्सौ ज्गौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 35,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.36",
+  "sanskrit_iast": "ketumatī sjau sgau bhrau ngau g",
+  "meaning": "केतुमती स्जौ स्गौ भ्रौ न्गौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 36,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.37",
+  "sanskrit_iast": "ākhyānakī tau jgau g jtau jgau g",
+  "meaning": "आख्यानकी तौ ज्गौ ग् ज्तौ ज्गौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 37,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.38",
+  "sanskrit_iast": "viparītākhyānakī jtau jgau g tau jgau g",
+  "meaning": "विपरीताख्यानकी ज्तौ ज्गौ ग् तौ ज्गौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 38,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.39",
+  "sanskrit_iast": "hariṇaplutā sau slau g nbhau bhrau",
+  "meaning": "हरिणप्लुता सौ स्लौ ग् न्भौ भ्रौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 39,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.40",
+  "sanskrit_iast": "aparavaktraṃ nau rlau g njau jrau",
+  "meaning": "अपरवक्त्रं नौ र्लौ ग् न्जौ ज्रौ",
+  "text": "",
+  "mandala": 5,
+  "hymn": 40,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.41",
+  "sanskrit_iast": "puṣpitāgrā nau ryau njau jrau g",
+  "meaning": "पुष्पिताग्रा नौ र्यौ न्जौ ज्रौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 41,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.42",
+  "sanskrit_iast": "yavamatī rjau rjau jrau jrau g",
+  "meaning": "यवमती र्जौ र्जौ ज्रौ ज्रौ ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 42,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.43",
+  "sanskrit_iast": "śikhaikonatriṃśadekatriṃśadante g",
+  "meaning": "शिखैकोनत्रिंशदेकत्रिंशदन्ते ग्",
+  "text": "",
+  "mandala": 5,
+  "hymn": 43,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "5.44",
+  "sanskrit_iast": "khañjā mahatyayujīti",
+  "meaning": "खञ्जा महत्ययुजीति",
+  "text": "",
+  "mandala": 5,
+  "hymn": 44,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.1",
+  "sanskrit_iast": "yatirvicchedaḥ",
+  "meaning": "यतिर्विच्छेदः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.2",
+  "sanskrit_iast": "gaḥ śrī",
+  "meaning": "गः श्री",
+  "text": "",
+  "mandala": 6,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.3",
+  "sanskrit_iast": "gaustrī",
+  "meaning": "गौस्त्री",
+  "text": "",
+  "mandala": 6,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.4",
+  "sanskrit_iast": "mo nārī",
+  "meaning": "मो नारी",
+  "text": "",
+  "mandala": 6,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.5",
+  "sanskrit_iast": "gmau cet kanyā",
+  "meaning": "ग्मौ चेत् कन्या",
+  "text": "",
+  "mandala": 6,
+  "hymn": 5,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.6",
+  "sanskrit_iast": "paṅktirbhagau g",
+  "meaning": "पङ्क्तिर्भगौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.7",
+  "sanskrit_iast": "tanumadhyā tyau",
+  "meaning": "तनुमध्या त्यौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.8",
+  "sanskrit_iast": "kumāralalitā jsau g",
+  "meaning": "कुमारललिता ज्सौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.9",
+  "sanskrit_iast": "māṇavakākrīḍitakaṃ bhtau lgau",
+  "meaning": "माणवकाक्रीडितकं भ्तौ ल्गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.10",
+  "sanskrit_iast": "citrapadā bhau gau",
+  "meaning": "चित्रपदा भौ गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 10,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.11",
+  "sanskrit_iast": "vidyunmālā mau gau",
+  "meaning": "विद्युन्माला मौ गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.12",
+  "sanskrit_iast": "bhujagaśiśusṛtā nau m",
+  "meaning": "भुजगशिशुसृता नौ म्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.13",
+  "sanskrit_iast": "halamukhī rnau s",
+  "meaning": "हलमुखी र्नौ स्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.14",
+  "sanskrit_iast": "śuddhavirāḍ msau jgau",
+  "meaning": "शुद्धविराड् म्सौ ज्गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.15",
+  "sanskrit_iast": "paṇavo mnau ygau",
+  "meaning": "पणवो म्नौ य्गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.16",
+  "sanskrit_iast": "rukmavatī bhmau sgau",
+  "meaning": "रुक्मवती भ्मौ स्गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 16,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.17",
+  "sanskrit_iast": "mayūrasāriṇī rjau rgau",
+  "meaning": "मयूरसारिणी र्जौ र्गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 17,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.18",
+  "sanskrit_iast": "mattā mbhau sgau",
+  "meaning": "मत्ता म्भौ स्गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 18,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.19",
+  "sanskrit_iast": "upasthitā tjau jgau",
+  "meaning": "उपस्थिता त्जौ ज्गौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 19,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.20",
+  "sanskrit_iast": "indravajrā tau jgau g",
+  "meaning": "इन्द्रवज्रा तौ ज्गौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 20,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.21",
+  "sanskrit_iast": "upendravajrā jtau jgau g",
+  "meaning": "उपेन्द्रवज्रा ज्तौ ज्गौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 21,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.22",
+  "sanskrit_iast": "ādyantāvupajātayaḥ",
+  "meaning": "आद्यन्तावुपजातयः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 22,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.23",
+  "sanskrit_iast": "dodhakaṃ bhau bhgau g",
+  "meaning": "दोधकं भौ भ्गौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 23,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.24",
+  "sanskrit_iast": "śālinī mtau tgau g samudraṛṣayaḥ",
+  "meaning": "शालिनी म्तौ त्गौ ग् समुद्रऋषयः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 24,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.25",
+  "sanskrit_iast": "vātormī mbhau tgau g ca",
+  "meaning": "वातोर्मी म्भौ त्गौ ग् च",
+  "text": "",
+  "mandala": 6,
+  "hymn": 25,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.26",
+  "sanskrit_iast": "bhramaravilasitaṃ mbhau nlau g",
+  "meaning": "भ्रमरविलसितं म्भौ न्लौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 26,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.27",
+  "sanskrit_iast": "rathoddhatā rnau rlau g",
+  "meaning": "रथोद्धता र्नौ र्लौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 27,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.28",
+  "sanskrit_iast": "svāgatā rnau bhgau g",
+  "meaning": "स्वागता र्नौ भ्गौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 28,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.29",
+  "sanskrit_iast": "vṛntā nau sgau g",
+  "meaning": "वृन्ता नौ स्गौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 29,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.30",
+  "sanskrit_iast": "śyenī rjau rlau g",
+  "meaning": "श्येनी र्जौ र्लौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 30,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.31",
+  "sanskrit_iast": "vilāsinī jrau jgau g",
+  "meaning": "विलासिनी ज्रौ ज्गौ ग्",
+  "text": "",
+  "mandala": 6,
+  "hymn": 31,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.32",
+  "sanskrit_iast": "jagatī",
+  "meaning": "जगती",
+  "text": "",
+  "mandala": 6,
+  "hymn": 32,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.33",
+  "sanskrit_iast": "vaṃśasthā jtau jrau",
+  "meaning": "वंशस्था ज्तौ ज्रौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 33,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.34",
+  "sanskrit_iast": "indravaṃśā tau jrau",
+  "meaning": "इन्द्रवंशा तौ ज्रौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 34,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.35",
+  "sanskrit_iast": "drutavilambitaṃ nbhau bhrau",
+  "meaning": "द्रुतविलम्बितं न्भौ भ्रौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 35,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.36",
+  "sanskrit_iast": "toṭakaṃ saḥ",
+  "meaning": "तोटकं सः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 36,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.37",
+  "sanskrit_iast": "puṭo nau myau vasusamudrāḥ",
+  "meaning": "पुटो नौ म्यौ वसुसमुद्राः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 37,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.38",
+  "sanskrit_iast": "jaloddhatagatirjsau jsau rasartavaḥ",
+  "meaning": "जलोद्धतगतिर्ज्सौ ज्सौ रसर्तवः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 38,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.39",
+  "sanskrit_iast": "tataṃ nau mrau",
+  "meaning": "ततं नौ म्रौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 39,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.40",
+  "sanskrit_iast": "kusumavicitrā nyau nyau",
+  "meaning": "कुसुमविचित्रा न्यौ न्यौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 40,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.41",
+  "sanskrit_iast": "cañcalākṣikā nau rau",
+  "meaning": "चञ्चलाक्षिका नौ रौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 41,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.42",
+  "sanskrit_iast": "bhujaṅgaprayātaṃ yaḥ",
+  "meaning": "भुजङ्गप्रयातं यः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 42,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.43",
+  "sanskrit_iast": "sragviṇī raḥ",
+  "meaning": "स्रग्विणी रः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 43,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.44",
+  "sanskrit_iast": "pramitākṣarā sjau sau",
+  "meaning": "प्रमिताक्षरा स्जौ सौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 44,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.45",
+  "sanskrit_iast": "kāntotpīḍā bhmau smau",
+  "meaning": "कान्तोत्पीडा भ्मौ स्मौ",
+  "text": "",
+  "mandala": 6,
+  "hymn": 45,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.46",
+  "sanskrit_iast": "vaiśvadevī mau yāvindriyaṛṣayaḥ",
+  "meaning": "वैश्वदेवी मौ याविन्द्रियऋषयः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 46,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.47",
+  "sanskrit_iast": "vāhinī tyau myāvṛṣikāmaśarāḥ",
+  "meaning": "वाहिनी त्यौ म्यावृषिकामशराः",
+  "text": "",
+  "mandala": 6,
+  "hymn": 47,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "6.48",
+  "sanskrit_iast": "navamālinī njau bhyāviti",
+  "meaning": "नवमालिनी न्जौ भ्याविति",
+  "text": "",
+  "mandala": 6,
+  "hymn": 48,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.1",
+  "sanskrit_iast": "praharṣiṇī mnau jrau g trikadaśakau",
+  "meaning": "प्रहर्षिणी म्नौ ज्रौ ग् त्रिकदशकौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.2",
+  "sanskrit_iast": "rucirā jbhau sjau g caturnavakau",
+  "meaning": "रुचिरा ज्भौ स्जौ ग् चतुर्नवकौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.3",
+  "sanskrit_iast": "mattamayūraṃ mtau ysau g samudranavakau",
+  "meaning": "मत्तमयूरं म्तौ य्सौ ग् समुद्रनवकौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.4",
+  "sanskrit_iast": "gaurī nau nsau g",
+  "meaning": "गौरी नौ न्सौ ग्",
+  "text": "",
+  "mandala": 7,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.5",
+  "sanskrit_iast": "asaṃbādhā mtau nsau gāvindriyanavakau",
+  "meaning": "असंबाधा म्तौ न्सौ गाविन्द्रियनवकौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 5,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.6",
+  "sanskrit_iast": "aparājitā nau rsau lgau svaraṛṣayaḥ",
+  "meaning": "अपराजिता नौ र्सौ ल्गौ स्वरऋषयः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.7",
+  "sanskrit_iast": "praharaṇakalitā nau bhnau lgau ca",
+  "meaning": "प्रहरणकलिता नौ भ्नौ ल्गौ च",
+  "text": "",
+  "mandala": 7,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.8",
+  "sanskrit_iast": "vasantatilakā tbhau jau gau",
+  "meaning": "वसन्ततिलका त्भौ जौ गौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.9",
+  "sanskrit_iast": "siṃhonnatā kāśyapasya",
+  "meaning": "सिंहोन्नता काश्यपस्य",
+  "text": "",
+  "mandala": 7,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.10",
+  "sanskrit_iast": "uddharṣiṇī saitavasya",
+  "meaning": "उद्धर्षिणी सैतवस्य",
+  "text": "",
+  "mandala": 7,
+  "hymn": 10,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.11",
+  "sanskrit_iast": "candrāvartā nau nau g",
+  "meaning": "चन्द्रावर्ता नौ नौ ग्",
+  "text": "",
+  "mandala": 7,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.12",
+  "sanskrit_iast": "mālartūnavakau cet",
+  "meaning": "मालर्तूनवकौ चेत्",
+  "text": "",
+  "mandala": 7,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.13",
+  "sanskrit_iast": "maṇiguṇanikaro vasvṛṣayaḥ",
+  "meaning": "मणिगुणनिकरो वस्वृषयः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.14",
+  "sanskrit_iast": "mālinī nau myau y",
+  "meaning": "मालिनी नौ म्यौ य्",
+  "text": "",
+  "mandala": 7,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.15",
+  "sanskrit_iast": "ṛṣabhagajavilasitaṃ bhrau nau ngau svaranavakau",
+  "meaning": "ऋषभगजविलसितं भ्रौ नौ न्गौ स्वरनवकौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.16",
+  "sanskrit_iast": "hariṇī nsau mrau slau gṛtusamudraṛṣayaḥ",
+  "meaning": "हरिणी न्सौ म्रौ स्लौ गृतुसमुद्रऋषयः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 16,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.17",
+  "sanskrit_iast": "pṛthvī jsau jsau yalau g vasunavakau",
+  "meaning": "पृथ्वी ज्सौ ज्सौ यलौ ग् वसुनवकौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 17,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.18",
+  "sanskrit_iast": "vaṃśapatrapatitaṃ bhrau nbhau nlau g digṛṣayaḥ",
+  "meaning": "वंशपत्रपतितं भ्रौ न्भौ न्लौ ग् दिगृषयः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 18,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.19",
+  "sanskrit_iast": "mandākrāntā mbhau ntau tgau g samudrartusvarāḥ",
+  "meaning": "मन्दाक्रान्ता म्भौ न्तौ त्गौ ग् समुद्रर्तुस्वराः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 19,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.20",
+  "sanskrit_iast": "śikhariṇī ymau nsau bhlau gṛturudrāḥ",
+  "meaning": "शिखरिणी य्मौ न्सौ भ्लौ गृतुरुद्राः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 20,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.21",
+  "sanskrit_iast": "kusumitalatāvellitā mtau nyau yāvindriyartusvarāḥ",
+  "meaning": "कुसुमितलतावेल्लिता म्तौ न्यौ याविन्द्रियर्तुस्वराः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 21,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.22",
+  "sanskrit_iast": "śārdūlavikrīḍitaṃ msau jsau tau gādityaṛṣayaḥ",
+  "meaning": "शार्दूलविक्रीडितं म्सौ ज्सौ तौ गादित्यऋषयः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 22,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.23",
+  "sanskrit_iast": "suvadanā mrau bhnau ybhau lgāvṛṣisvarartavaḥ",
+  "meaning": "सुवदना म्रौ भ्नौ य्भौ ल्गावृषिस्वरर्तवः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 23,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.24",
+  "sanskrit_iast": "gliti vṛttam",
+  "meaning": "ग्लिति वृत्तम्",
+  "text": "",
+  "mandala": 7,
+  "hymn": 24,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.25",
+  "sanskrit_iast": "sragdharā mrau bhnau yau y triḥsaptakāḥ",
+  "meaning": "स्रग्धरा म्रौ भ्नौ यौ य् त्रिःसप्तकाः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 25,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.26",
+  "sanskrit_iast": "bhadrakaṃ bhrau nrau nrau ngau digādityāḥ",
+  "meaning": "भद्रकं भ्रौ न्रौ न्रौ न्गौ दिगादित्याः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 26,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.27",
+  "sanskrit_iast": "aśvalalitaṃ njau bhjau bhjau bhlau g rudrādityāḥ",
+  "meaning": "अश्वललितं न्जौ भ्जौ भ्जौ भ्लौ ग् रुद्रादित्याः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 27,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.28",
+  "sanskrit_iast": "mattākrīḍā mau tnau nau nlau g vasupañcadaśakau",
+  "meaning": "मत्ताक्रीडा मौ त्नौ नौ न्लौ ग् वसुपञ्चदशकौ",
+  "text": "",
+  "mandala": 7,
+  "hymn": 28,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.29",
+  "sanskrit_iast": "tanvī bhtau nsau bhau nyāvindriyasvaramāsāḥ",
+  "meaning": "तन्वी भ्तौ न्सौ भौ न्याविन्द्रियस्वरमासाः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 29,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.30",
+  "sanskrit_iast": "krauñcapadā bhmau sbhau nau nau g bhūtendriyavasvṛṣayaḥ",
+  "meaning": "क्रौञ्चपदा भ्मौ स्भौ नौ नौ ग् भूतेन्द्रियवस्वृषयः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 30,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.31",
+  "sanskrit_iast": "bhucaṅgavijṛmbhitaṃ mau tnau nau rsau lgau vasurudraṛṣayaḥ",
+  "meaning": "भुचङ्गविजृम्भितं मौ त्नौ नौ र्सौ ल्गौ वसुरुद्रऋषयः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 31,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.32",
+  "sanskrit_iast": "apavāhako mnau nau nau nsau gau navarturasendriyāṇi",
+  "meaning": "अपवाहको म्नौ नौ नौ न्सौ गौ नवर्तुरसेन्द्रियाणि",
+  "text": "",
+  "mandala": 7,
+  "hymn": 32,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.33",
+  "sanskrit_iast": "daṇḍako nau raḥ",
+  "meaning": "दण्डको नौ रः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 33,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.34",
+  "sanskrit_iast": "prathamaścaṇḍavṛṣṭiprapātaḥ",
+  "meaning": "प्रथमश्चण्डवृष्टिप्रपातः",
+  "text": "",
+  "mandala": 7,
+  "hymn": 34,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.35",
+  "sanskrit_iast": "anyatra rātamāṇḍavyābhyām",
+  "meaning": "अन्यत्र रातमाण्डव्याभ्याम्",
+  "text": "",
+  "mandala": 7,
+  "hymn": 35,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "7.36",
+  "sanskrit_iast": "śeṣaḥ pracita iti",
+  "meaning": "शेषः प्रचित इति",
+  "text": "",
+  "mandala": 7,
+  "hymn": 36,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.1",
+  "sanskrit_iast": "atrānuktaṃ gāthā",
+  "meaning": "अत्रानुक्तं गाथा",
+  "text": "",
+  "mandala": 8,
+  "hymn": 1,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.2",
+  "sanskrit_iast": "kuḍmaladantī bhtau ngau gindriyarasāḥ",
+  "meaning": "कुड्मलदन्ती भ्तौ न्गौ गिन्द्रियरसाः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 2,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.3",
+  "sanskrit_iast": "varatanurnjau jrau ṣaḍrasāḥ",
+  "meaning": "वरतनुर्न्जौ ज्रौ षड्रसाः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 3,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.4",
+  "sanskrit_iast": "jaladharamālā mbhau smau samudravasavaḥ",
+  "meaning": "जलधरमाला म्भौ स्मौ समुद्रवसवः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 4,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.5",
+  "sanskrit_iast": "gaurī nau rau",
+  "meaning": "गौरी नौ रौ",
+  "text": "",
+  "mandala": 8,
+  "hymn": 5,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.6",
+  "sanskrit_iast": "lalanā bhtau nsāvindriyarṣayaḥ",
+  "meaning": "ललना भ्तौ न्साविन्द्रियर्षयः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 6,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.7",
+  "sanskrit_iast": "kanakaprabhā sjau sjau g",
+  "meaning": "कनकप्रभा स्जौ स्जौ ग्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 7,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.8",
+  "sanskrit_iast": "kuṭilagatirnau tau g svarartavaḥ",
+  "meaning": "कुटिलगतिर्नौ तौ ग् स्वरर्तवः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 8,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.9",
+  "sanskrit_iast": "varasundarī bhjau snau gau",
+  "meaning": "वरसुन्दरी भ्जौ स्नौ गौ",
+  "text": "",
+  "mandala": 8,
+  "hymn": 9,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.10",
+  "sanskrit_iast": "kuṭilā mbhau nyau gau vedarasasamudrāḥ",
+  "meaning": "कुटिला म्भौ न्यौ गौ वेदरससमुद्राः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 10,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.11",
+  "sanskrit_iast": "śailaśikhā bhrau nbhau bhgau bhūtarasendriyāṇi",
+  "meaning": "शैलशिखा भ्रौ न्भौ भ्गौ भूतरसेन्द्रियाणि",
+  "text": "",
+  "mandala": 8,
+  "hymn": 11,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.12",
+  "sanskrit_iast": "varayuvatī bhrau ynau ngau",
+  "meaning": "वरयुवती भ्रौ य्नौ न्गौ",
+  "text": "",
+  "mandala": 8,
+  "hymn": 12,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.13",
+  "sanskrit_iast": "atiśāyinī sau jbhau jgau g diksvarāḥ",
+  "meaning": "अतिशायिनी सौ ज्भौ ज्गौ ग् दिक्स्वराः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 13,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.14",
+  "sanskrit_iast": "avitathaṃ njau bhjau jlau g",
+  "meaning": "अवितथं न्जौ भ्जौ ज्लौ ग्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 14,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.15",
+  "sanskrit_iast": "vasvindriyasamudrāścetkokilakam",
+  "meaning": "वस्विन्द्रियसमुद्राश्चेत्कोकिलकम्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 15,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.16",
+  "sanskrit_iast": "vibudhapriyā rsau jau bhrau vasudiśaḥ",
+  "meaning": "विबुधप्रिया र्सौ जौ भ्रौ वसुदिशः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 16,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.17",
+  "sanskrit_iast": "nārācakaṃ nau rau rau",
+  "meaning": "नाराचकं नौ रौ रौ",
+  "text": "",
+  "mandala": 8,
+  "hymn": 17,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.18",
+  "sanskrit_iast": "vismitā ymau nsau rau g rasartusvarāḥ",
+  "meaning": "विस्मिता य्मौ न्सौ रौ ग् रसर्तुस्वराः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 18,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.19",
+  "sanskrit_iast": "śaśivadanā njau bhjau j jrau rudradiśaḥ",
+  "meaning": "शशिवदना न्जौ भ्जौ ज् ज्रौ रुद्रदिशः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 19,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.20",
+  "sanskrit_iast": "dvikau glau",
+  "meaning": "द्विकौ ग्लौ",
+  "text": "",
+  "mandala": 8,
+  "hymn": 20,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.21",
+  "sanskrit_iast": "miśrau ca",
+  "meaning": "मिश्रौ च",
+  "text": "",
+  "mandala": 8,
+  "hymn": 21,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.22",
+  "sanskrit_iast": "pṛthaglau miśrāḥ",
+  "meaning": "पृथग्लौ मिश्राः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 22,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.23",
+  "sanskrit_iast": "vasavastrikāḥ",
+  "meaning": "वसवस्त्रिकाः",
+  "text": "",
+  "mandala": 8,
+  "hymn": 23,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.24",
+  "sanskrit_iast": "larddhe",
+  "meaning": "लर्द्धे",
+  "text": "",
+  "mandala": 8,
+  "hymn": 24,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.25",
+  "sanskrit_iast": "saike g",
+  "meaning": "सैके ग्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 25,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.26",
+  "sanskrit_iast": "pratilomaguṇaṃ dvirlādyam",
+  "meaning": "प्रतिलोमगुणं द्विर्लाद्यम्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 26,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.27",
+  "sanskrit_iast": "tato'pyekaṃ jahyāt",
+  "meaning": "ततोऽप्येकं जह्यात्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 27,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.28",
+  "sanskrit_iast": "dvirarddhe",
+  "meaning": "द्विरर्द्धे",
+  "text": "",
+  "mandala": 8,
+  "hymn": 28,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.29",
+  "sanskrit_iast": "rūpe śūnyam",
+  "meaning": "रूपे शून्यम्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 29,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.30",
+  "sanskrit_iast": "dviḥ śūnye",
+  "meaning": "द्विः शून्ये",
+  "text": "",
+  "mandala": 8,
+  "hymn": 30,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.31",
+  "sanskrit_iast": "tāvadardhe tadguṇitam",
+  "meaning": "तावदर्धे तद्गुणितम्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 31,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.32",
+  "sanskrit_iast": "dvirdyūnaṃ tadantānām",
+  "meaning": "द्विर्द्यूनं तदन्तानाम्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 32,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.33",
+  "sanskrit_iast": "ekone'dhvā",
+  "meaning": "एकोनेऽध्वा",
+  "text": "",
+  "mandala": 8,
+  "hymn": 33,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.34",
+  "sanskrit_iast": "pare pūrṇam",
+  "meaning": "परे पूर्णम्",
+  "text": "",
+  "mandala": 8,
+  "hymn": 34,
+  "vedaId": "pingala_chandahsutra"
+ },
+ {
+  "reference": "8.35",
+  "sanskrit_iast": "pare pūrṇamiti",
+  "meaning": "परे पूर्णमिति",
+  "text": "",
+  "mandala": 8,
+  "hymn": 35,
+  "vedaId": "pingala_chandahsutra"
+ }
+]

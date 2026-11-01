@@ -28,7 +28,7 @@ def norm_ref(r):
 
 
 def compact(e):
-    """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, t heading."""
+    """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, m machine English, t heading."""
     out = {"r": norm_ref(e["reference"])}
     iast = e.get("sanskrit_iast") or e.get("iast") or ""
     deva = e.get("meaning") or ""
@@ -41,6 +41,8 @@ def compact(e):
         out["e"] = eng
     elif eng and not deva:
         out["d"] = eng  # a few legacy files keep the Devanagari in `text`
+    if e.get("text_mt"):
+        out["m"] = e["text_mt"]
     if e.get("title"):
         out["t"] = e["title"]
     return out
@@ -99,7 +101,7 @@ def build_text(meta):
 
     toc = tree(blocks, 1) if block_depth else [["", len(entries), 0, ""]]
     has = lambda k: sum(1 for e in entries if e.get(k))  # noqa: E731
-    stats = {"entries": len(entries), "blocks": len(blocks), "english": round(100 * has("e") / len(entries)),
+    stats = {"entries": len(entries), "blocks": len(blocks), "english": round(100 * has("e") / len(entries)), "machine": round(100 * has("m") / len(entries)),
              "sanskrit": round(100 * max(has("s"), has("d")) / len(entries)), "chunks": n + 1}
     return {**{k: v for k, v in meta.items() if k != "file"}, "blockDepth": block_depth, "stats": stats, "toc": toc}
 
