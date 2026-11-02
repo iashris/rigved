@@ -1,0 +1,222 @@
+[
+  {
+    "reference": "1",
+    "sanskrit_iast": "oṃ mano hi dvividhaṃ proktaṃ śuddhaṃ cāśuddham eva ca | aśuddhaṃ kāmasaṃkalpaṃ śuddhaṃ kāmavivarjitam ||",
+    "meaning": "ओं मनो हि द्विविधं प्रोक्तं शुद्धं चाशुद्धम् एव च | अशुद्धं कामसंकल्पं शुद्धं कामविवर्जितम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "2",
+    "sanskrit_iast": "mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ | bandhāya viṣayāsaktaṃ muktyai nirviṣayaṃ smṛtam ||",
+    "meaning": "मन एव मनुष्याणां कारणं बन्धमोक्षयोः | बन्धाय विषयासक्तं मुक्त्यै निर्विषयं स्मृतम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "3",
+    "sanskrit_iast": "yato nirviṣayasyāsya manaso muktir iṣyate | tasmān nirviṣayaṃ nityaṃ manaḥ kāryaṃ mumukṣuṇā ||",
+    "meaning": "यतो निर्विषयस्यास्य मनसो मुक्तिर् इष्यते | तस्मान् निर्विषयं नित्यं मनः कार्यं मुमुक्षुणा ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "4",
+    "sanskrit_iast": "nirastaviṣayāsaṅgaṃ saṃniruddhaṃ mano hṛdi | yadā yāty unmanībhāvaṃ tadā tat paramamadam ||",
+    "meaning": "निरस्तविषयासङ्गं संनिरुद्धं मनो हृदि | यदा यात्य् उन्मनीभावं तदा तत् परममदम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "5",
+    "sanskrit_iast": "tāvad eva niroddhavyaṃ yāvaddhṛdi gataṃ kṣayam | etaj jñānaṃ ca mokṣaṃ ca ato 'nyo granthavistaraḥ ||",
+    "meaning": "तावद् एव निरोद्धव्यं यावद्धृदि गतं क्षयम् | एतज् ज्ञानं च मोक्षं च अतो ऽन्यो ग्रन्थविस्तरः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "6",
+    "sanskrit_iast": "naiva cintyaṃ na cācintyam acintyaṃ cintyam eva ca | pakṣapātavinirmuktaṃ brahma sampadyate tadā ||",
+    "meaning": "नैव चिन्त्यं न चाचिन्त्यम् अचिन्त्यं चिन्त्यम् एव च | पक्षपातविनिर्मुक्तं ब्रह्म सम्पद्यते तदा ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "7",
+    "sanskrit_iast": "svareṇa saṃdhayed yogam asvaraṃ bhāvayet param | asvareṇa hi bhāvena bhāvo nābhāva iṣyate ||",
+    "meaning": "स्वरेण संधयेद् योगम् अस्वरं भावयेत् परम् | अस्वरेण हि भावेन भावो नाभाव इष्यते ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "8",
+    "sanskrit_iast": "tad eva niṣkalaṃ brahma nirvikalpaṃ nirañjanam | tad brahmāham iti jñātvā brahma sampadyate dhruvam ||",
+    "meaning": "तद् एव निष्कलं ब्रह्म निर्विकल्पं निरञ्जनम् | तद् ब्रह्माहम् इति ज्ञात्वा ब्रह्म सम्पद्यते ध्रुवम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "9",
+    "sanskrit_iast": "nirvikalpam anantaṃ ca hetudṛṣṭāntavarjitam | aprameyam anādyaṃ ca jñātvā ca paramaṃ śivam ||",
+    "meaning": "निर्विकल्पम् अनन्तं च हेतुदृष्टान्तवर्जितम् | अप्रमेयम् अनाद्यं च ज्ञात्वा च परमं शिवम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "10",
+    "sanskrit_iast": "na nirodho na cotpattir na vandyo na ca śāsanam | na mumukṣā na muktiś ca ity eṣā paramārthatā ||",
+    "meaning": "न निरोधो न चोत्पत्तिर् न वन्द्यो न च शासनम् | न मुमुक्षा न मुक्तिश् च इत्य् एषा परमार्थता ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "11",
+    "sanskrit_iast": "eka evātmā mantavyo jāgratsvapnasuṣuptiṣu | sthānatrayād vyatītasya punarjanma na vidyate ||",
+    "meaning": "एक एवात्मा मन्तव्यो जाग्रत्स्वप्नसुषुप्तिषु | स्थानत्रयाद् व्यतीतस्य पुनर्जन्म न विद्यते ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "12",
+    "sanskrit_iast": "eka eva hi bhūtātmā bhūte bhūte vyavasthitaḥ | ekadhā bahudhā caiva dṛśyate jalacandravat ||",
+    "meaning": "एक एव हि भूतात्मा भूते भूते व्यवस्थितः | एकधा बहुधा चैव दृश्यते जलचन्द्रवत् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "13",
+    "sanskrit_iast": "ghaṭasaṃbhṛtam ākāśaṃ līyamāne ghaṭe yathā | ghaṭo līyeta nākāśaṃ tadvaj jīvo ghaṭopamaḥ ||",
+    "meaning": "घटसंभृतम् आकाशं लीयमाने घटे यथा | घटो लीयेत नाकाशं तद्वज् जीवो घटोपमः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "14",
+    "sanskrit_iast": "ghaṭavad vividhākāraṃ bhidyamānaṃ punaḥ punaḥ | tadbhagnaṃ na ca jānāti sa jānāti ca nityaśaḥ ||",
+    "meaning": "घटवद् विविधाकारं भिद्यमानं पुनः पुनः | तद्भग्नं न च जानाति स जानाति च नित्यशः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "15",
+    "sanskrit_iast": "śabdamāyāvṛto yāvat tāvat tiṣṭhati puṣkare | bhinne tamasi caikatvam ekam evānupaśyati ||",
+    "meaning": "शब्दमायावृतो यावत् तावत् तिष्ठति पुष्करे | भिन्ने तमसि चैकत्वम् एकम् एवानुपश्यति ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "16",
+    "sanskrit_iast": "śabdākṣaraṃ paraṃ brahma yasmin kṣīṇe yad akṣaram | tad vidvān akṣaraṃ dhyāyed yadīcchecchāntim ātmanaḥ ||",
+    "meaning": "शब्दाक्षरं परं ब्रह्म यस्मिन् क्षीणे यद् अक्षरम् | तद् विद्वान् अक्षरं ध्यायेद् यदीच्छेच्छान्तिम् आत्मनः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 16,
+    "verse": 16,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "17",
+    "sanskrit_iast": "dve vidye veditavye tu śabdabrahma paraṃ ca yat | śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati ||",
+    "meaning": "द्वे विद्ये वेदितव्ये तु शब्दब्रह्म परं च यत् | शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 17,
+    "verse": 17,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "18",
+    "sanskrit_iast": "grantham abhyasya medhāvī jñānavijñānatattvataḥ | palālam iva dhānyārthī tyajed grantham aśeṣataḥ ||",
+    "meaning": "ग्रन्थम् अभ्यस्य मेधावी ज्ञानविज्ञानतत्त्वतः | पलालम् इव धान्यार्थी त्यजेद् ग्रन्थम् अशेषतः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 18,
+    "verse": 18,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "19",
+    "sanskrit_iast": "gavām anekavarṇānāṃ kṣīrasyāpy ekavarṇatā | kṣīravat paśyate jñānaṃ liṅginas tu gavāṃ yathā ||",
+    "meaning": "गवाम् अनेकवर्णानां क्षीरस्याप्य् एकवर्णता | क्षीरवत् पश्यते ज्ञानं लिङ्गिनस् तु गवां यथा ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 19,
+    "verse": 19,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "20",
+    "sanskrit_iast": "ghṛtam iva payasi nigūḍhaṃ bhūte bhūte ca vasati vijñānam | satataṃ manthayitavyaṃ manasā manthānabhūtena ||",
+    "meaning": "घृतम् इव पयसि निगूढं भूते भूते च वसति विज्ञानम् | सततं मन्थयितव्यं मनसा मन्थानभूतेन ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 20,
+    "verse": 20,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "21",
+    "sanskrit_iast": "jñānanetraṃ samādāya cared vahnim ataḥ param | niṣkalaṃ nirmalaṃ śāntaṃ tad brahmāham iti smṛtam ||",
+    "meaning": "ज्ञाननेत्रं समादाय चरेद् वह्निम् अतः परम् | निष्कलं निर्मलं शान्तं तद् ब्रह्माहम् इति स्मृतम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 21,
+    "verse": 21,
+    "vedaId": "brahmabindu_upanishad"
+  },
+  {
+    "reference": "22",
+    "sanskrit_iast": "sarvabhūtādhivāsaṃ ca yad bhūteṣu vasaty adhi | sarvānugrāhakatvena tad asmy ahaṃ vāsudeva ||",
+    "meaning": "सर्वभूताधिवासं च यद् भूतेषु वसत्य् अधि | सर्वानुग्राहकत्वेन तद् अस्म्य् अहं वासुदेव ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 22,
+    "verse": 22,
+    "vedaId": "brahmabindu_upanishad"
+  }
+]

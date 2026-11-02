@@ -720,13 +720,13 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "1.5.18",
+    "reference": "1.5.19",
     "sanskrit_iast": "divaścainamādityācca daivaṃ mana āviśati; tadvai daivaṃ mano yenānandyeva bhavati, atho na śocati || 19 || 19. The divine mind from heaven and the sun permeates him. That is the divine mind through which he only becomes happy and never mourns.",
     "meaning": "दिवश्चैनमादित्याच्च दैवं मन आविशति; तद्वै दैवं मनो येनानन्द्येव भवति, अथो न शोचति",
     "text": "Similarly the divine mind from heaven and the sun permeates him. And that is the divine mind,  being naturally pure, through which he only becomes happy and never mourns, not being connected with the causes of grief.",
     "mandala": 1,
     "hymn": 5,
-    "verse": 18,
+    "verse": 19,
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "reference": "2.3.5",
     "sanskrit_iast": "athāmūrtam—prāṇaśca yaścāyamantarātmannākāśaḥ; etadamṛtam, etadyat, etattyat, tasyaitasyāmūrtasya, etasyāmṛtasya, etasya yataḥ, etasya tyasyaiṣa raso yo'yaṃ dakṣiṇe'kṣanpuruṣaḥ, tyasya hyeṣa rasaḥ || 5 || 5. Now the subtle—it is (the corporeal) air and the ether that is in the body. It is immortal, it is unlimited, and it is undefined. The essence of that which is subtle, immortal, unlimited and undefined is this being that is in the right eye, for this is the essence of the undefined.",
-    "meaning": "अथामूर्तम्—प्राणश्च यश्चायमन्तरात्मन्नाकाशः; एतदमृतम्, एतद्यत्, एतत्त्यत्, तस्यैतस्यामूर्तस्य, एतस्यामृतस्य, एतस्य यतः, एतस्य त्यस्यैष रसो यो'यं दक्षिणे'क्षन्पुरुषः, त्यस्य ह्येष रसः",
+    "meaning": "अथामूर्तम्—प्राणश्च यश्चायमन्तरात्मन्नाकाशः; एतदमृतम्, एतद्यत्, एतत्त्यत्, तस्यैतस्यामूर्तस्य, एतस्यामृतस्य, एतस्य यतः, एतस्य त्यस्यैष रसो योऽयं दक्षिणेऽक्षन्पुरुषः, त्यस्य ह्येष रसः",
     "text": "Now the subtle form is being described. The two remaining elements, (the corporeal) and the ether that is in the body—are the subtle form. The rest is to be explained as before. The essence of that which is undefined is this being that is in the rīght eye (i.e. the subtle body). The specification about the right eye is based on the evidence of the scriptures. For they declare that the subtle body is specially manifest in the right eye; we see it mentioned in all the Śrutis.",
     "mandala": 2,
     "hymn": 3,
@@ -1222,7 +1222,7 @@
   {
     "reference": "2.4.13",
     "sanskrit_iast": "sa hovāca maitreyī, atraiva mā bhagavānamūmuhat, na pretya saṃjṇāstīti; sa hovāca na va are'ham mohaṃ bravīmi, alaṃ vā are idaṃ vijñānāya || 13 || 13. Maitreyī said, ‘Just here you have thrown me into confusion, sir—by saying that after attaining (oneness) the self has no more consciousness.’ Yājñavalkya said, ‘Certainly I am not saying anything confusing, my dear; this is quite sufficient for knowledge, O Maitreyī.’",
-    "meaning": "स होवाच मैत्रेयी, अत्रैव मा भगवानमूमुहत्, न प्रेत्य संज्णास्तीति; स होवाच न व अरे'हम् मोहं ब्रवीमि, अलं वा अरे इदं विज्ञानाय",
+    "meaning": "स होवाच मैत्रेयी, अत्रैव मा भगवानमूमुहत्, न प्रेत्य संज्णास्तीति; स होवाच न व अरेऽहम् मोहं ब्रवीमि, अलं वा अरे इदं विज्ञानाय",
     "text": "Thus enlightened, Maitreyī said, ‘By attributing contradictory qualities just here, to this identical entity, Brahman, you have thrown me into confusion, revered sir.’ So she says, ‘Just here,’ etc. How he attributed contradictory qualities is being explained: ‘Having first stated that the self is but Pure Intelligence, you now say that after attaining (oneness) it has no more consciousness.",
     "mandala": 2,
     "hymn": 4,
@@ -1242,7 +1242,7 @@
   {
     "reference": "2.5.1",
     "sanskrit_iast": "iyaṃ pṛthivī sarveṣāṃ bhūtānām madhu, asyai pṛthivyai sarvāṇi bhūtāni madhu; yaścāyamasyāṃ pṛthivyāṃ tejomayo'mṛtamayaḥ puruṣaḥ, yascāyamadhyātmaṃ śārīrastejomayo'mṛtamayaḥ puruṣaḥ, ayameva sa yo'yamātmā; idamamṛtam, idaṃ brahma, idaṃ sarvam || 1 || 1. This earth is (like) honey[2] to all beings, and all beings are (like) honey to this earth. (The same with) the shining immortal being who is in this earth, and the shining, immortal, corporeal being in the body. (These four) are but this Self. This (Self-knowledge) is (the means of) immortality; this (underlying unity) is Brahman; this (knowledge of Brahman) is (the means of becoming) all.",
-    "meaning": "इयं पृथिवी सर्वेषां भूतानाम् मधु, अस्यै पृथिव्यै सर्वाणि भूतानि मधु; यश्चायमस्यां पृथिव्यां तेजोमयोऽमृतमयः पुरुषः, यस्चायमध्यात्मं शारीरस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽ'यमात्मा; इदममृतम्, इदं ब्रह्म, इदं सर्वम्",
+    "meaning": "इयं पृथिवी सर्वेषां भूतानाम् मधु, अस्यै पृथिव्यै सर्वाणि भूतानि मधु; यश्चायमस्यां पृथिव्यां तेजोमयोऽमृतमयः पुरुषः, यस्चायमध्यात्मं शारीरस्तेजोमयोऽमृतमयः पुरुषः, अयमेव स योऽऽयमात्मा; इदममृतम्, इदं ब्रह्म, इदं सर्वम्",
     "text": "This well-known earth is the honey or effect—being like honey—of all beings from Hiraṇyagarbha down to a clump of grass. Just as a beehive is made by a great many bees, so is this earth made by all beings. Likewise all beings are the honey or effect of this earth.  Also, the shining, i.e. possessed of the light of intelligence, and immortal being who is in this earth, and the shining, immortal—as above—corporeal being in the body, i.e.",
     "mandala": 2,
     "hymn": 5,
@@ -1430,13 +1430,13 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "2.6.1",
+    "reference": "2.6.2",
     "sanskrit_iast": "āgniveśyāt, agniveśyaḥ śāṇḍilyāccānabhimlātācc, ānabhimlāta ānabhimlātāt, ānabhimlāt ānabhimlātāt, ānabhimlāta ānabhimlātāt, ānabhimlāta ānabhimlātāt, ānabhimlāto gautamāt, gautamaḥ saitavaprācīnayogyābhyām, saitavaprācīnayogyau pārāśaryāt,pārāśaryo bhāradvājāt, bhāradvājo bhāradvājācca gautamācca gautamo bhāradvājād bhāradvājāt, bhāradvājaḥ pārāśaryāt, pārāśaryo vaijavāpāyanāt, vaijavāpāyanaḥ kauśikāyaneḥ, kauśikāyaniḥ || 2 || 2. From Āgniveśya. Āgniveśya from Śāṇḍilya and Anabhimlāta. Ānabhimlāta from another of that name. He from a third Ānabhimlāta. This Ānabhimlāta from Gautama. Gautama from Saitava and Prācīnayogya. They from Pārāśarya. Pārāśarya from Bharadvāja. He from Bharadvāja and Gautama. Gautama from another Bhāradvāja. He from another Pārāśarya. Pārāśarya from Baijavāpāyana. He from Kauśikāyani. Kauśikāyani—",
     "meaning": "आग्निवेश्यात्, अग्निवेश्यः शाण्डिल्याच्चानभिम्लाताच्च्, आनभिम्लात आनभिम्लातात्, आनभिम्लात् आनभिम्लातात्, आनभिम्लात आनभिम्लातात्, आनभिम्लात आनभिम्लातात्, आनभिम्लातो गौतमात्, गौतमः सैतवप्राचीनयोग्याभ्याम्, सैतवप्राचीनयोग्यौ पाराशर्यात्,पाराशर्यो भारद्वाजात्, भारद्वाजो भारद्वाजाच्च गौतमाच्च गौतमो भारद्वाजाद् भारद्वाजात्, भारद्वाजः पाराशर्यात्, पाराशर्यो वैजवापायनात्, वैजवापायनः कौशिकायनेः, कौशिकायनिः",
     "text": "",
     "mandala": 2,
     "hymn": 6,
-    "verse": 1,
+    "verse": 2,
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
@@ -1462,7 +1462,7 @@
   {
     "reference": "3.1.2",
     "sanskrit_iast": "tānhovāca, brāhmaṇā bhagavanto, yo vo brahmiṣṭhaḥ sa etā gā udajatāmiti | te ha brāhmaṇā na dadhṛṣuḥ; atha ha yājñavalkyaḥ svameva brahmacāriṇamuvāca, etāḥ etās somyodaja sāmaśravā3 iti; tā hodācakāra; te ha brāhmaṇāścukrudhuḥ, kathaṃ no brahmiṣṭho bruvīteti; atha ha janakasya vaidehasya hotāśvalo babhūva; sa hainaṃ papraccha, tvaṃ nu khalu no yājñavalkya brahmiṣṭho'sī3 iti; sa hovāca, namo vayaṃ brahmiṣṭhāya kurmaḥ, gokāmā eva vayaṃ sma iti; taṃ ha tata eva praṣṭuṃ dadhre hotāśvalaḥ || 2 || 2. He said to them, ‘Revered Brāhmaṇas, let him who is the best Vedic scholar among you drive these cows (home).’ None of the Brāhmaṇas dared. Then Yājñavalkya said to a pupil of his, ‘Dear Sāmaśravas, please drive these cows (home).’ He drove them. The Brāhmaṇas were enraged. ‘How does he dare to call himself the best Vedic scholar among us?’ There was a Hotṛ[2] of Emperor Janaka of Videha named Aśvala. He now asked Yājñavalkya, ‘Yājñavalkya, are you indeed the best Vedic scholar among us?’ Yājñavalkya replied, ‘I bow to the best Vedic scholar, I just want the cows.’ Thereupon the Hotṛ Aśvala determined to interrogate him.",
-    "meaning": "तान्होवाच, ब्राह्मणा भगवन्तो, यो वो ब्रह्मिष्ठः स एता गा उदजतामिति । ते ह ब्राह्मणा न दधृषुः; अथ ह याज्ञवल्क्यः स्वमेव ब्रह्मचारिणमुवाच, एताः एतास् सोम्योदज सामश्रवा3 इति; ता होदाचकार; ते ह ब्राह्मणाश्चुक्रुधुः, कथं नो ब्रह्मिष्ठो ब्रुवीतेति; अथ ह जनकस्य वैदेहस्य होताश्वलो बभूव; स हैनं पप्रच्छ, त्वं नु खलु नो याज्ञवल्क्य ब्रह्मिष्ठो'सी3 इति; स होवाच, नमो वयं ब्रह्मिष्ठाय कुर्मः, गोकामा एव वयं स्म इति; तं ह तत एव प्रष्टुं दध्रे होताश्वलः",
+    "meaning": "तान्होवाच, ब्राह्मणा भगवन्तो, यो वो ब्रह्मिष्ठः स एता गा उदजतामिति । ते ह ब्राह्मणा न दधृषुः; अथ ह याज्ञवल्क्यः स्वमेव ब्रह्मचारिणमुवाच, एताः एतास् सोम्योदज सामश्रवा3 इति; ता होदाचकार; ते ह ब्राह्मणाश्चुक्रुधुः, कथं नो ब्रह्मिष्ठो ब्रुवीतेति; अथ ह जनकस्य वैदेहस्य होताश्वलो बभूव; स हैनं पप्रच्छ, त्वं नु खलु नो याज्ञवल्क्य ब्रह्मिष्ठोऽसी3 इति; स होवाच, नमो वयं ब्रह्मिष्ठाय कुर्मः, गोकामा एव वयं स्म इति; तं ह तत एव प्रष्टुं दध्रे होताश्वलः",
     "text": "Having the cows thus confined, he said addressing those Brāhmaṇas, ‘Revered Brāhmaṇas, you are all Vedic scholars; let him who is specially so among you drive these cows home.’ None of the Brāhmaṇas thus addressed dared to announce his surpassing Vedic scholarship. When they were thus silenced Yājña-valkya said to a pupil of his, ‘Dear Sāmaśravas, please drive these cows home.’ ‘Sāmaśravas’ means one who learns how to chant the Sāman.",
     "mandala": 3,
     "hymn": 1,
@@ -1922,7 +1922,7 @@
   {
     "reference": "3.7.20",
     "sanskrit_iast": "yo manasi tiṣṭhanmanaso'ntaraḥ, yaṃ mano na veda, yasya manaḥ śarīram, yo mano'ntaro yamayati, eṣa ta ātmāntaryāmyamṛtaḥ || 20 || 20. He who inhabits the mind (Manas) but is within it, whom the mind does not know, whose body is the mind, and who controls the mind from within, is the Internal Ruler, your own immortal self.",
-    "meaning": "यो मनसि तिष्ठन्मनसो'न्तरः, यं मनो न वेद, यस्य मनः शरीरम्, यो मनो'न्तरो यमयति, एष त आत्मान्तर्याम्यमृतः",
+    "meaning": "यो मनसि तिष्ठन्मनसोऽन्तरः, यं मनो न वेद, यस्य मनः शरीरम्, यो मनोऽन्तरो यमयति, एष त आत्मान्तर्याम्यमृतः",
     "text": "",
     "mandala": 3,
     "hymn": 7,
@@ -2152,7 +2152,7 @@
   {
     "reference": "3.9.8",
     "sanskrit_iast": "katame te trayo devā iti; ima eva trayo lokāḥ, eṣu hīme sarve devā iti; katamau tau dvau devāviti; annaṃ caiva prāṇaśceti; katamo'dhyardha iti; yo'yaṃ pavata iti || 8 || 8. ‘Which are the three gods?’ ‘These three worlds, because in these all those gods are comprised.’ ‘Which are the two gods?’ ‘Matter and the vital force.[1]’ ‘Which are the one and a half?’ ‘This (air) that blows.’",
-    "meaning": "कतमे ते त्रयो देवा इति; इम एव त्रयो लोकाः, एषु हीमे सर्वे देवा इति; कतमौ तौ द्वौ देवाविति; अन्नं चैव प्राणश्चेति; कतमो'ध्यर्ध इति; यो'यं पवत इति",
+    "meaning": "कतमे ते त्रयो देवा इति; इम एव त्रयो लोकाः, एषु हीमे सर्वे देवा इति; कतमौ तौ द्वौ देवाविति; अन्नं चैव प्राणश्चेति; कतमोऽध्यर्ध इति; योऽयं पवत इति",
     "text": "‘Which are the three gods?’ ‘These three worlds.’ The earth and ñre taken together make one god, the sky and air make another, and heaven and the sun make a third; these are the three gods. Because in these three gods all the gods are comprised, therefore these are the three gods; this is the view of a certain section of philologists. ‘Which are the two gods?’ ‘Matter and the vital force’—these are the two gods; that is to say, these include all the gods that have been enumerated.",
     "mandala": 3,
     "hymn": 9,
@@ -2302,7 +2302,7 @@
   {
     "reference": "3.9.24",
     "sanskrit_iast": "kiṃdevato'syāṃ dhruvāyāṃ diśyasīti; agnidevata iti; so'gniḥ kasminpratiṣṭhita iti; vācīti; kasminnu vāk pratiṣṭhiteti; hṛdaya iti; kasminnu hṛdayaṃ pratiṣṭhitamiti || 24 || 24. ‘What deity are you identified with in the fixed direction (above)?’ ‘With the deity, fire.’ ‘On what does fire rest?’ ‘On speech.’ ‘On what does speech rest?’ ‘On the heart.’ ‘On what does the heart rest?’",
-    "meaning": "किंदेवतो'स्यां ध्रुवायां दिश्यसीति; अग्निदेवत इति; सोऽग्निः कस्मिन्प्रतिष्ठित इति; वाचीति; कस्मिन्नु वाक् प्रतिष्ठितेति; हृदय इति; कस्मिन्नु हृदयं प्रतिष्ठितमिति",
+    "meaning": "किंदेवतोऽस्यां ध्रुवायां दिश्यसीति; अग्निदेवत इति; सोऽग्निः कस्मिन्प्रतिष्ठित इति; वाचीति; कस्मिन्नु वाक् प्रतिष्ठितेति; हृदय इति; कस्मिन्नु हृदयं प्रतिष्ठितमिति",
     "text": "‘What deity are you identified with in the fixed direction?’ Being the same to all who dwell round Mount Meru, the direction overhead is called the fixed direction. ‘With the deity, fire,’ for overhead there is more light, and fire is luminous. ‘On what does fire rest?’ ‘On speech.’ ‘On what does speech rest?’ ‘On the heart.",
     "mandala": 3,
     "hymn": 9,
@@ -2340,7 +2340,7 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "3.9.28",
+    "reference": "3.9.28.1",
     "sanskrit_iast": "tānhaitaiḥ ślokaiḥ papraccha— yathā vṛkśo vanaspatistathaiva puruṣo'mṛṣā || tasya lomāni parṇāni, tvagasyotpāṭikā bahiḥ || 1 || 28. He asked them through these verses: (1) As a large tree, so indeed is a man. (This is) true. His hair is its leaves, his skin its outer bark.",
     "meaning": "तान्हैतैः श्लोकैः पप्रच्छ— यथा वृक्शो वनस्पतिस्तथैव पुरुषोऽमृषा ॥ तस्य लोमानि पर्णानि, त्वगस्योत्पाटिका बहिः",
     "text": "When the Brāhmaṇas were silent, he asked them through the following verses: As in the world is a large tree —the word ‘Vanaspati’ qualifies the word ‘tree’— so indeed is a man. This is true. His hair is its leaves: A man’s hair corresponds to the leaves of a tree. His skin is its outer bark.",
@@ -2350,7 +2350,7 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "3.9.28",
+    "reference": "3.9.28.2",
     "sanskrit_iast": "tvaca evāsya rudhiraṃ prasyandi tvaca utpaṭaḥ || tasmāttadatṛṇṇātpraiti raso vṛkśādivāhatāt || 2 || (2) It is from his skin that blood flows, and from the bark sap. Therefore when a man is wounded, blood flows, as sap from a tree that is injured.",
     "meaning": "त्वच एवास्य रुधिरं प्रस्यन्दि त्वच उत्पटः ॥ तस्मात्तदतृण्णात्प्रैति रसो वृक्शादिवाहतात्",
     "text": "It is from a man’s skin that blood flows, and it is from the bark of a large tree that sap exudes. Since a man and a large tree thus resemble each other in all respects, therefore when a man is wounded, blood flows, as sap from a tree that is injured or cut.",
@@ -2360,7 +2360,7 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "3.9.28",
+    "reference": "3.9.28.3",
     "sanskrit_iast": "māṃsānyasya śakarāṇi, kināṭṃ snāva, tatsthiram || asthīnyantarato dārūṇi majjā majjopamā kṛtā || 3 || (3) His flesh is its inner bark, and his sinews its innermost layer of bark; it is tough. His bones lie under, as does its wood; his marrow is comparable to its pith.",
     "meaning": "मांसान्यस्य शकराणि, किनाट्ं स्नाव, तत्स्थिरम् ॥ अस्थीन्यन्तरतो दारूणि मज्जा मज्जोपमा कृता",
     "text": "Similarly a man’s flesh is the inner bark of a large tree. A man’s sinews are the innermost layer of bark in a tree, that layer which is under the inner bark and attached to the wood; it is tough, or strong, like the sinews. A man’s bones lie under the sinews; similarly under the innermost bark is the wood. A man’s marrow is comparable to the pith of a large tree. There is no difference between the two; they resemble each other.",
@@ -2370,7 +2370,7 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "3.9.28",
+    "reference": "3.9.28.4",
     "sanskrit_iast": "yadvṛkśo vṛkṇo rohati mūlānnavataraḥ punaḥ || martyaḥ svinmṛtyunā vṛkṇaḥ kasmānmūlātprarohati || 4 || (4) If a tree, after it is felled, springs again from its root in a newer form, from what root does man spring forth after he is cut off by death?",
     "meaning": "यद्वृक्शो वृक्णो रोहति मूलान्नवतरः पुनः ॥ मर्त्यः स्विन्मृत्युना वृक्णः कस्मान्मूलात्प्ररोहति",
     "text": "If a tree, after it is felled, springs again from its root in a newer form, etc. We have seen that previous to this feature there was complete similarity between a tree and a man. We notice, however, this peculiarity in a tree that it springs again after it is felled, while we do not see that a man cut off by death springs forth again. But there must be a renascence from some source.",
@@ -2380,7 +2380,7 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "3.9.28",
+    "reference": "3.9.28.5",
     "sanskrit_iast": "retasa iti mā vocata, jīvatastatprajāyate || dhānāruha iva vai vṛkśo'ñjasā pretya sambhavaḥ || 5 || (5) Do not say, ‘From the seed,’ (for) it is produced in a living man. A tree springs also from the seed; after it is dead it certainly springs again (from the seed as well).",
     "meaning": "रेतस इति मा वोचत, जीवतस्तत्प्रजायते ॥ धानारुह इव वै वृक्शोऽञ्जसा प्रेत्य सम्भवः",
     "text": "If you say that he springs from the seed, do not say (ṣo), you should not say so. Why? Because the seed is produced in a living man, not in a dead man. A tree springs also from the seed, not from the trunk only.—The particle ‘iva’ is expletive.—A large tree, after it is dead, certainly sprīngs again from the seed as well.",
@@ -2390,7 +2390,7 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "3.9.28",
+    "reference": "3.9.28.6",
     "sanskrit_iast": "yatsamūlamāvṛheyurvṛkśaṃ na punarābhavet || martyaḥ svinmṛtyunā vṛkṇaḥ kasmānmūlātprarohati || 6 || (6) If a tree is pulled out with its root, it no more sprouts, From what root does a mortal spring forth after he is cut off by death?",
     "meaning": "यत्समूलमावृहेयुर्वृक्शं न पुनराभवेत् ॥ मर्त्यः स्विन्मृत्युना वृक्णः कस्मान्मूलात्प्ररोहति",
     "text": "If a tree is pulled out with its root or its seed, it no more sprouts. Therefore I ask you about the root of the whole universe: From what root does a mortal spring forth after he is cut off by death?",
@@ -2400,9 +2400,9 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "3.9.28",
+    "reference": "3.9.28.7",
     "sanskrit_iast": "jāta eva; na, jāyate, ko nvenaṃ janayetpunaḥ || vijñānamānandaṃ brahma, rātirdātuḥ parāyaṇam, tiṣṭhamānasya tadvida iti || 7 || 28 || iti navamaṃ brāhmaṇam || iti tṛtīyo'dhyāyaḥ || (7) If you think he is ever born, I say, no, he is again born. Now who should again bring him forth?—Knowledge, Bliss, Brahman, the supreme goal of the distributor of wealth as well as of him who has realised Brahman and lives in It.",
-    "meaning": "जात एव; न, जायते, को न्वेनं जनयेत्पुनः ॥ विज्ञानमानन्दं ब्रह्म, रातिर्दातुः परायणम्, तिष्ठमानस्य तद्विद इति ॥ ७ ॥ २८ ॥ इति नवमं ब्राह्मणम् ॥ इति तृतीयो'ध्यायः ॥",
+    "meaning": "जात एव; न, जायते, को न्वेनं जनयेत्पुनः ॥ विज्ञानमानन्दं ब्रह्म, रातिर्दातुः परायणम्, तिष्ठमानस्य तद्विद इति ॥ ७ ॥ २८ ॥ इति नवमं ब्राह्मणम् ॥ इति तृतीयोऽध्यायः ॥",
     "text": "If you think he is ever born. and there is nothing more to ask about him—a question about birth is possible only of one who is yet to be born, andyhot of one who is already born; but a man is ever born, so no question about his birth is admissible —I say, no. What happens then? After death he is again born of a certainty, for otherwise you would be assuming that a man reaps the fruits of actions that he has never done, and fails to obtain those of actions he has actually done.",
     "mandala": 3,
     "hymn": 9,
@@ -3152,7 +3152,7 @@
   {
     "reference": "4.5.2",
     "sanskrit_iast": "maitreyīti hovāca yājñavalkyaḥ, pravrajiṣyanvā are'hamasmātsthānādasmi, hanta te'nayā katyāyānyāntaṃ karavāṇīti || 2 || 2. ‘Maitreyī, my dear,’ said Yājñavalkya, ‘I am going to renounce this life for monasticism. Allow me to finish between you and Kātyāyanī.’",
-    "meaning": "मैत्रेयीति होवाच याज्ञवल्क्यः, प्रव्रजिष्यन्वा अरे'हमस्मात्स्थानादस्मि, हन्त तेऽनया कत्यायान्यान्तं करवाणीति",
+    "meaning": "मैत्रेयीति होवाच याज्ञवल्क्यः, प्रव्रजिष्यन्वा अरेऽहमस्मात्स्थानादस्मि, हन्त तेऽनया कत्यायान्यान्तं करवाणीति",
     "text": "He addressed his older wife by name and said, ‘I am going to renounce this householder’s life for monasticism, O Maitreyī. Please permit me. Allow me, if you wish, to finish between you and Kātyāyanī.’ All this has been explained.",
     "mandala": 4,
     "hymn": 5,
@@ -3270,39 +3270,39 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "4.5.1",
+    "reference": "4.6.1",
     "sanskrit_iast": "atha vaṃśaḥ—pautimāṣyo gaupavanāt, gaupavanaḥ pautimāṣyāt, pautimāṣyo gaupavanāt, gaupavanaḥ kauśikāt, kauśikaḥ kauṇḍinyāt, kauṇḍinyaḥ śāṇḍilyāt, śāṇḍilyaḥ kauśikācca gautamācca, gautamaḥ || 1 || 1. Now the line of teachers: Pautimāṣya (received it) from Gaupavana. Gaupavana from another Pautimāṣya. This Pautimāṣya from another Gaupavana. This Gaupavana from Kauśika. Kauśika from Kauṇḍinya. Kauṇḍinya from Śāṇḍilya. Śāṇḍilya from Kauśika and Gautama. Gautama—",
     "meaning": "अथ वंशः—पौतिमाष्यो गौपवनात्, गौपवनः पौतिमाष्यात्, पौतिमाष्यो गौपवनात्, गौपवनः कौशिकात्, कौशिकः कौण्डिन्यात्, कौण्डिन्यः शाण्डिल्यात्, शाण्डिल्यः कौशिकाच्च गौतमाच्च, गौतमः",
     "text": "",
     "mandala": 4,
-    "hymn": 5,
+    "hymn": 6,
     "verse": 1,
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "4.5.2",
+    "reference": "4.6.2",
     "sanskrit_iast": "āgniveśyāt, agniveśyo gārgyāt, gārgyo gārgyāt, gārgyo gautamāt, gautamaḥ saitavāt, saitavaḥ pārāśaryāyaṇāt, pārāśāryāyaṇo gārgyāyaṇāt, gārgyāyaṇa uddālakāyanāt, uddālakāyano jābālāyanāt, jābālāyano mādhyandināyanāt, mādhyandināyanaḥ saukarāyaṇāt, saukarāyaṇaḥ kāṣāyaṇāt, kāṣāyaṇaḥ sāyakāyanāt, sāyakāyanaḥ kauśikāyaneḥ, kauśikāyaniḥ || 2 || 2. From Āgniveśya. Āgniveśya from Gārgya. Gārgya from another Gārgya. This Gārgya from another Gautama. This Gautama from Saitava. Saitava from Pārāśaryāyaṇa. Pārāśaryāyaṇa from Gārgyāyaṇa. Gārgyāyaṇa. from Uddālakāyana. Uddālakāyana from Jābālāyana. Jābālāyana from Mādhyandināyana. Mādhyandināyana from Saukarāyaṇa. Saukarāyaṇa from Kāṣāyaṇa. Kāṣāyaṇa from Sāyakāyana. Sāyakāyana from Kauśikāyani. Kauśikāyani—",
     "meaning": "आग्निवेश्यात्, अग्निवेश्यो गार्ग्यात्, गार्ग्यो गार्ग्यात्, गार्ग्यो गौतमात्, गौतमः सैतवात्, सैतवः पाराशर्यायणात्, पाराशार्यायणो गार्ग्यायणात्, गार्ग्यायण उद्दालकायनात्, उद्दालकायनो जाबालायनात्, जाबालायनो माध्यन्दिनायनात्, माध्यन्दिनायनः सौकरायणात्, सौकरायणः काषायणात्, काषायणः सायकायनात्, सायकायनः कौशिकायनेः, कौशिकायनिः",
     "text": "",
     "mandala": 4,
-    "hymn": 5,
+    "hymn": 6,
     "verse": 2,
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "4.5.3",
+    "reference": "4.6.3",
     "sanskrit_iast": "ghṛtakauśikāt, ghṛtakauśikaḥ pārāśaryāyaṇāt, pārāśaryāyaṇaḥ pārāśaryāt, pārāśaryo jātūkarṇyāt, jātūkarṇya āsurāyaṇācca yāskāccā, āsurāyaṇastraivaṇeḥ, traivaṇiraupajandhaneḥ, aupajandhanirāsureḥ, āsurirbhāradvājāt, bhāradvāja ātreyāt, ātreyo māṇṭeḥ, māṇṭirgautamāt, gautamo gautamāt, gautamo vātsyāt, vātsyaḥ śāṇḍilyāt, śāṇḍilyaḥ kaiśoryātkāpyāt, kaiśoryaḥ kāpyaḥ kumārahāritāt, kumārahārito gālavāt, gālavo vidarbhīkauṇḍinyāt, vidarbhīkauṇḍinyo vatsanapāto bābhravāt, vatsanapādbābhrava pathaḥ saubharāt, panthāḥ saubharo'yāsyādāṅgirasāt, ayāsya āṅgirasa ābhūtestvāṣṭrāt, ābhūtistvāṣṭro viśvarūpāttvāṣṭrāt, viśvarūpastvāṣṭro'vśvibhyām, aśvinau dadhīca ātharvaṇāt, dadhyaṅṅātharvaṇo'tharvaṇo daivāt, atharvā daivo mṛtyoḥ prādhvaṃsanāt, mṛtyuḥ prādhvaṃsanaḥ pradhvaṃsanāt, pradhvaṃsana ekarṣeḥ, ekarṣirvipracitteḥ, vipracittirvyaṣṭe, vyaṣṭiḥ sanāroḥ, sanāruḥ sanātanāt, sanātanaḥ sanagāt, sanagaḥ parameṣṭhinaḥ, parameṣṭhī brahmaṇo, brahma svayaṃbhu, brahmaṇe namaḥ || 3 || iti ṣaṣṭhaṃ brāhmaṇam || iti caturtho'dhyāyaḥ || 3. From Ghṛtakauśika. Ghṛtakauśika from Pārāśaryāyaṇa. Pārāśaryāyaṇa from Pārāśarya. Pārāśarya from Jātūkarṇya. Jātūkarṇya from Āsurāyaṇa and Yāska. Āsurāyaṇa from Traivaṇi. Traivaṇi from Aupajandhani. Aupajandhani from Āsuri. Āsuri from Bhāradvāja. Bhāradvāja from Ātreya. Ātreya from Māṇṭi. Māṇṭi from Gautama. Gautama from another Gautama. This Gautama from Vātsya. Vātsya from Śāṇḍilya. Śāṇḍilya from Kaiśorya Kāpya. Kaiśorya Kāpya from Kumārahārita. Kumārahārita from Gālava. Gālava from Vidarbhīkauṇḍinya. He from Vatsanapāt Bābhrava. He from Pathin Saubhara. He from Ayāsya Āṅgirasa. He from Ābhūti Tvāṣṭra. He from Viśvarūpa Tvāṣṭra. He from the two Aśvins. The Aśvins from Dadhyac Ātharvaṇa. He from Atharvan Daiva. He from Mṛtyu Prādhvaṃsana. He from Pradhvaṃsana. Pradhvaṃsana from Ekarṣi. Ekarṣi from Viprachitti. Viprachitti from Vyaṣṭi. Vyaṣṭi from Sanāru. Sanāru from Sanātana. Sanātana from Sanaga. Sanaga from Parameṣṭhin (Virāj). Parameṣṭhin from Brahman (Hiraṇyagarbha). Brahman is self-born. Salutation to Brahman.!",
     "meaning": "घृतकौशिकात्, घृतकौशिकः पाराशर्यायणात्, पाराशर्यायणः पाराशर्यात्, पाराशर्यो जातूकर्ण्यात्, जातूकर्ण्य आसुरायणाच्च यास्काच्चा, आसुरायणस्त्रैवणेः, त्रैवणिरौपजन्धनेः, अउपजन्धनिरासुरेः, आसुरिर्भारद्वाजात्, भारद्वाज आत्रेयात्, आत्रेयो माण्टेः, माण्टिर्गौतमात्, गौतमो गौतमात्, गौतमो वात्स्यात्, वात्स्यः शाण्डिल्यात्, शाण्डिल्यः कैशोर्यात्काप्यात्, कैशोर्यः काप्यः कुमारहारितात्, कुमारहारितो गालवात्, गालवो विदर्भीकौण्डिन्यात्, विदर्भीकौण्डिन्यो वत्सनपातो बाभ्रवात्, वत्सनपाद्बाभ्रव पथः सौभरात्, पन्थाः सौभरोऽयास्यादाङ्गिरसात्, अयास्य आङ्गिरस आभूतेस्त्वाष्ट्रात्, आभूतिस्त्वाष्ट्रो विश्वरूपात्त्वाष्ट्रात्, विश्वरूपस्त्वाष्ट्रोऽव्श्विभ्याम्, अश्विनौ दधीच आथर्वणात्, दध्यङ्ङाथर्वणोऽथर्वणो दैवात्, अथर्वा दैवो मृत्योः प्राध्वंसनात्, मृत्युः प्राध्वंसनः प्रध्वंसनात्, प्रध्वंसन एकर्षेः, एकर्षिर्विप्रचित्तेः, विप्रचित्तिर्व्यष्टे, व्यष्टिः सनारोः, सनारुः सनातनात्, सनातनः सनगात्, सनगः परमेष्ठिनः, परमेष्ठी ब्रह्मणो, ब्रह्म स्वयंभु, ब्रह्मणे नमः ॥ ३ ॥ इति षष्ठं ब्राह्मणम् ॥ इति चतुर्थोऽध्यायः ॥",
     "text": "Now the line of teachers for the two chapters relating to Yājñavalkya is being enumerated, like that of the Madhukāṇḍa. The explanation is the same as before. Brahman is self-born. Salutation to Brahman! Om.",
     "mandala": 4,
-    "hymn": 5,
+    "hymn": 6,
     "verse": 3,
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
     "reference": "5.1.1",
     "sanskrit_iast": "oṃ | pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate | pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate || oṃ khaṃ brahma | khaṃ purāṇam; vāyuraṃ kham iti ha smāha kauravyāyaṇīputraḥ; vedo'yaṃ brāhmaṇā viduḥ; vedainena yadveditavyam || 1 || iti prathamaṃ brāhmaṇam || 1. Om. That (Brahman) is infinite, and this (universe) is infinite. The infinite proceeds from the infinite. (Then) taking the infinitude of the infinite (universe), it remains as the infinite (Brahman) alone. Om is the ether-Brahman—the eternal ether. ‘The ether containing air,’ says the son of Kauravyāyaṇī. It is the Veda, (so) the Brāhmaṇas (knowers of Brahman) know; (for) through it one knows what is to be known.",
-    "meaning": "ॐ । पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ खं ब्रह्म । खं पुराणम्; वायुरं खम् इति ह स्माह कौरव्यायणीपुत्रः; वेदो'यं ब्राह्मणा विदुः; वेदैनेन यद्वेदितव्यम् ॥ १ ॥ इति प्रथमं ब्राह्मणम् ॥",
+    "meaning": "ॐ । पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ खं ब्रह्म । खं पुराणम्; वायुरं खम् इति ह स्माह कौरव्यायणीपुत्रः; वेदोऽयं ब्राह्मणा विदुः; वेदैनेन यद्वेदितव्यम् ॥ १ ॥ इति प्रथमं ब्राह्मणम् ॥",
     "text": "The supplement to the Upaniṣad is being introduced with the words, ‘That is infinite,’ etc. That Brahman which is immediate and direct, the Self that is within all, unconditioned, beyond hunger etc., and is described as ‘Not this, not this,’ and the realisation of which is the sole means of immortality, has been presented in the last four chapters.",
     "mandala": 5,
     "hymn": 1,
@@ -3860,13 +3860,13 @@
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
-    "reference": "6.2.15",
+    "reference": "6.2.16",
     "sanskrit_iast": "atha ye yajñena dānena tapasā lokāñjayanti, te dhūmamabhisaṃbhavanti, dhūmādrātriṃ, rātrerapakśīyamāṇapakśam, apakśīyamāṇapakśādyānṣaṇmāsāndakśiṇāditya eti, māsebhyaḥ pitṛlokam, pitṛlokāccandram; te candraṃ prāpyānnaṃ bhavanti, tāṃstatra devā yathā somaṃ rājānamāpyāyasvāpakśīyasveti, evamenāṃstatra bhakśayanti; teṣāṃ yadā tatparyavaityathemamevākāśamabhiniṣpadyante, ākāśādvāyum; vāyorvṛṣṭim, vṛṣṭeḥ pṛthivīm; te pṛthivīṃ prāpyānnaṃ bhavanti, te punaḥ puruṣāgnau hūyante, tato yoṣāgnau jāyante lokānpratyuthāyinaḥ; ta evamevānuparivartante; atha ya etau panthānau na viduste kīṭāḥ pataṅgā yadidaṃ dandaśūkam || 16 || iti dvitīyaṃ brāhmaṇam || 16. While those who conquer the worlds through sacrifices, charity and austerity, reach the deity of smoke, from him the deity of the night, from him the deity of the fortnight  in which the moon wanes, from him the deities of the six months in which the sun travels southward, from them the deity of the world of the Manes, and from him the moon. Reaching the moon they become food. There the gods enjoy them as the priests drink the- shining Soma juice (gradually, saying, as it were), ‘Flourish, dwindle.’ And when their past work is exhausted, they reach (become like) this ether, from the ether air, from air rain, and from rain the earth. Reaching the earth they become food. Then they are again offered in the fire of man, thence in.the fire of woman, whence they are born (and perform rites) with a view to going to other worlds. Thus do they rotate. While those others who do not know these two ways become insects and moths, and these frequently biting things (gnats and mosquitoes).",
     "meaning": "अथ ये यज्ञेन दानेन तपसा लोकाञ्जयन्ति, ते धूममभिसंभवन्ति, धूमाद्रात्रिं, रात्रेरपक्शीयमाणपक्शम्, अपक्शीयमाणपक्शाद्यान्षण्मासान्दक्शिणादित्य एति, मासेभ्यः पितृलोकम्, पितृलोकाच्चन्द्रम्; ते चन्द्रं प्राप्यान्नं भवन्ति, तांस्तत्र देवा यथा सोमं राजानमाप्यायस्वापक्शीयस्वेति, एवमेनांस्तत्र भक्शयन्ति; तेषां यदा तत्पर्यवैत्यथेममेवाकाशमभिनिष्पद्यन्ते, आकाशाद्वायुम्; वायोर्वृष्टिम्, वृष्टेः पृथिवीम्; ते पृथिवीं प्राप्यान्नं भवन्ति, ते पुनः पुरुषाग्नौ हूयन्ते, ततो योषाग्नौ जायन्ते लोकान्प्रत्युथायिनः; त एवमेवानुपरिवर्तन्ते; अथ य एतौ पन्थानौ न विदुस्ते कीटाः पतङ्गा यदिदं दन्दशूकम् ॥ १६ ॥ इति द्वितीयं ब्राह्मणम् ॥",
     "text": "While those who do not know as above, who, knowing only the six things such as the departure of the two oblations connected with the Agnihotra, are mere ritualists,. who conquer the worlds—the plural in ‘worlds’ suggests here also varieties of results—through sacrifices such as the Agnihotra, charity, the distribution of gifts among beggars outside the altar, and austerīty such as Kṛcchra and Cāndrāyaṇa without initiation etc.—also outside the altar—reach smoke.",
     "mandala": 6,
     "hymn": 2,
-    "verse": 15,
+    "verse": 16,
     "vedaId": "brhadaranyaka_upanishad"
   },
   {
@@ -4052,7 +4052,7 @@
   {
     "reference": "6.4.9",
     "sanskrit_iast": "sa yāmicchet kāmayeta meti, tasyāmarthaṃ niṣṭhāya, mukhena mukhaṃ saṃdhāya, upasthamasyā abhimṛśya japet— sa tvamaṅgakaṣāyo'si, digdhaviddhamiva mādayemāmamūṃ mayīti || 9 || atha yāmicchen na garbhaṃ dadhīteti, tasyāmarthaṃ niṣṭhāya, mukhena mukhaṃ saṃdhāya, abhiprāṇyāpānyāt, indriyeṇa te retasā reta ādada iti; aretā eva bhavati || 10 || atha yāmiccheddadhīteti, tasyāmarthaṃ niṣṭhāya, mukhena mukhaṃ saṃdhāya, apānyābhiprāṇyāt, indriyeṇa te retasā reta ādadhāmīti; garbhiṇyeva bhavati || 11 || atha yasya jāyāyai jāraḥ syāttaṃ ceddviṣyāt, āmapātre'gnimupasamādhāya, pratilomaṃ śarabarhistīrtvā, tasminnetāḥ śarabhṛṣṭīḥ pratilomāḥ sarpiṣāktā juhuyāt—mama samiddhe'hauṣīḥ, prāṇāpānau ta ādade—asāviti; mama samiddhe'hauṣīḥ, putrapaśūṃsta ādade—asāviti; mama samiddhe'hauṣīḥ, iṣṭāsukṛte ta ādade—asāviti; mama samiddhe'hauṣīḥ, āśāparākāśau ta ādade—asāviti; sa vā eṣa nirindriyo visukṛto'smāllokātpraiti, yamevaṃvidbrāhmaṇaḥ śapati; tasmādevaṃvitchrotriyasya dāreṇa nopahāsamiccheduta, hyevaṃvitparo bhavati || 12 || 12. If a man’s wife has a lover whom he wishes to inujre, he should put the fire in an unbaked earthen vessel, spread stalks of reed and Kuśa grass in an inverse way, and offer the reed tips, soaked in clarified butter, in the fire in an inverse way, saying, ‘Thou hast sacrificed in my kindled fire, I take away thy Prāṇa and Apāna—such and such. Thou hast sacrificed in my kindled fire, I take away thy sons and animals—such and such. Thou hast sacrificed in my kindled fire, I take away thy Vedic rites and those done according to the Smṛti—such and such. Thou hast sacrificed in my kindled fire, I take away thy hopes and expectations—such and such’. The man whom a Brāhmaṇa with knowledge of this ceremony curses, departs from this world emasculated and shorn of his merits. Therefore one should not wish even to cut jokes with the wife of a Vedic scholar who knows this ceremony, for he who has such knowledge becomes an enemy.",
-    "meaning": "स यामिच्छेत् कामयेत मेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, उपस्थमस्या अभिमृश्य जपेत्— अङ्गादङ्गात्संभवसि, हृदयादधिजायसे । स त्वमङ्गकषायो'सि, दिग्धविद्धमिव मादयेमाममूं मयीति ॥ ९ ॥ अथ यामिच्छेन् न गर्भं दधीतेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, अभिप्राण्यापान्यात्, इन्द्रियेण ते रेतसा रेत आदद इति; अरेता एव भवति ॥ १० ॥ अथ यामिच्छेद्दधीतेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, अपान्याभिप्राण्यात्, इन्द्रियेण ते रेतसा रेत आदधामीति; गर्भिण्येव भवति ॥ ११ ॥ अथ यस्य जायायै जारः स्यात्तं चेद्द्विष्यात्, आमपात्रेऽग्निमुपसमाधाय, प्रतिलोमं शरबर्हिस्तीर्त्वा, तस्मिन्नेताः शरभृष्टीः प्रतिलोमाः सर्पिषाक्ता जुहुयात्—मम समिद्धेऽहौषीः, प्राणापानौ त आददे—असाविति; मम समिद्धेऽहौषीः, पुत्रपशूंस्त आददे—असाविति; मम समिद्धेऽहौषीः, इष्टासुकृते त आददे—असाविति; मम समिद्धेऽहौषीः, आशापराकाशौ त आददे—असाविति; स वा एष निरिन्द्रियो विसुकृतोऽस्माल्लोकात्प्रैति, यमेवंविद्ब्राह्मणः शपति; तस्मादेवंवित्छ्रोत्रियस्य दारेण नोपहासमिच्छेदुत, ह्येवंवित्परो भवति ॥ १२ ॥ aṅgādaṅgātsaṃbhavasi, hṛdayādadhijāyase ।",
+    "meaning": "स यामिच्छेत् कामयेत मेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, उपस्थमस्या अभिमृश्य जपेत्— अङ्गादङ्गात्संभवसि, हृदयादधिजायसे । स त्वमङ्गकषायोऽसि, दिग्धविद्धमिव मादयेमाममूं मयीति ॥ ९ ॥ अथ यामिच्छेन् न गर्भं दधीतेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, अभिप्राण्यापान्यात्, इन्द्रियेण ते रेतसा रेत आदद इति; अरेता एव भवति ॥ १० ॥ अथ यामिच्छेद्दधीतेति, तस्यामर्थं निष्ठाय, मुखेन मुखं संधाय, अपान्याभिप्राण्यात्, इन्द्रियेण ते रेतसा रेत आदधामीति; गर्भिण्येव भवति ॥ ११ ॥ अथ यस्य जायायै जारः स्यात्तं चेद्द्विष्यात्, आमपात्रेऽग्निमुपसमाधाय, प्रतिलोमं शरबर्हिस्तीर्त्वा, तस्मिन्नेताः शरभृष्टीः प्रतिलोमाः सर्पिषाक्ता जुहुयात्—मम समिद्धेऽहौषीः, प्राणापानौ त आददे—असाविति; मम समिद्धेऽहौषीः, पुत्रपशूंस्त आददे—असाविति; मम समिद्धेऽहौषीः, इष्टासुकृते त आददे—असाविति; मम समिद्धेऽहौषीः, आशापराकाशौ त आददे—असाविति; स वा एष निरिन्द्रियो विसुकृतोऽस्माल्लोकात्प्रैति, यमेवंविद्ब्राह्मणः शपति; तस्मादेवंवित्छ्रोत्रियस्य दारेण नोपहासमिच्छेदुत, ह्येवंवित्परो भवति ॥ १२ ॥ aṅgādaṅgātsaṃbhavasi, hṛdayādadhijāyase ।",
     "text": "If a mans wife has a lover whom he wishes to injure, i.e. to cast an evil spell on him, he should perform the following rite: He should put the -fire in an unbaked earthen vessel—everything to be done in an inverse way—and offer the reed tips, soaked in clarified butter, in the fire in an inverse way, accompanied by the following Mantras, ‘Thou hast sacrificed,’ etc., and at the end of each mention his name, ‘such and such.",
     "mandala": 6,
     "hymn": 4,
@@ -4132,7 +4132,7 @@
   {
     "reference": "6.4.20",
     "sanskrit_iast": "athaināmabhipadyate—amo'hamasmi sā tvam, sā tvamasyamo'ham, sāmāhamasmi ṛktvam, dyaurahaṃ pṛthivī tvaṃ; tāvehi saṃrabhāvahai, saha reto dadhāvahai puṃse putrāya vittaya iti || 20 || 20. He embraces her saying, ‘I am the vital force, and you are speech; you are speech, and I am the vital force; I am Sāman, and you are Ṛc[2]; I am heaven,[3] and you are the earth; come, let us strive together so that we may have a male child.’",
-    "meaning": "अथैनामभिपद्यते—अमो'हमस्मि सा त्वम्, सा त्वमस्यमो'हम्, सामाहमस्मि ऋक्त्वम्, द्यौरहं पृथिवी त्वं; तावेहि संरभावहै, सह रेतो दधावहै पुंसे पुत्राय वित्तय इति",
+    "meaning": "अथैनामभिपद्यते—अमोऽहमस्मि सा त्वम्, सा त्वमस्यमोऽहम्, सामाहमस्मि ऋक्त्वम्, द्यौरहं पृथिवी त्वं; तावेहि संरभावहै, सह रेतो दधावहै पुंसे पुत्राय वित्तय इति",
     "text": "Then he purifies her with Mantras, and both eat the rice cooked in milk or other things according to the kind of child desired. This is the order to be followed. While retiring, he embraces her, saying the following Mantra: ‘I am the vital force,’ etc.",
     "mandala": 6,
     "hymn": 4,

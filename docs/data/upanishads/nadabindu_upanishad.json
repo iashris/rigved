@@ -1,0 +1,202 @@
+[
+  {
+    "reference": "1",
+    "sanskrit_iast": "oṃ akāro dakṣiṇaḥ pakṣa ukāras tūttaraḥ smṛtaḥ | makāras tasya pucchaṃ vā ardhamātrā śiras tathā ||",
+    "meaning": "ओं अकारो दक्षिणः पक्ष उकारस् तूत्तरः स्मृतः | मकारस् तस्य पुच्छं वा अर्धमात्रा शिरस् तथा ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "2",
+    "sanskrit_iast": "pādau rajas tamas tasya śarīraṃ sattvam ucyate | dharmaś ca dakṣiṇaṃ cakṣur adharmaś cottaraṃ smṛtam ||",
+    "meaning": "पादौ रजस् तमस् तस्य शरीरं सत्त्वम् उच्यते | धर्मश् च दक्षिणं चक्षुर् अधर्मश् चोत्तरं स्मृतम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "3",
+    "sanskrit_iast": "bhūr lokaḥ pādayos tasya bhuvar lokas tu jānunoḥ | svar lokaḥ kaṭideśe tu nābhideśe mahar jagat ||",
+    "meaning": "भूर् लोकः पादयोस् तस्य भुवर् लोकस् तु जानुनोः | स्वर् लोकः कटिदेशे तु नाभिदेशे महर् जगत् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "4",
+    "sanskrit_iast": "janalokas tu hṛdaye kaṇṭhadeśe tapas tataḥ | bhruvor lalāṭamadhye tu satyaloko vyavasthitaḥ ||",
+    "meaning": "जनलोकस् तु हृदये कण्ठदेशे तपस् ततः | भ्रुवोर् ललाटमध्ये तु सत्यलोको व्यवस्थितः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "5",
+    "sanskrit_iast": "sahasram iti cātra mantra eva pradarśitaḥ | evam enaṃ samārūḍho haṃsaṃ yogavicakṣaṇaḥ ||",
+    "meaning": "सहस्रम् इति चात्र मन्त्र एव प्रदर्शितः | एवम् एनं समारूढो हंसं योगविचक्षणः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "6",
+    "sanskrit_iast": "na badhyate karmacārī pāpakoṭiśatair api | āgneyī prathamā mātrā vāyavyaiṣā vaśānugā ||",
+    "meaning": "न बध्यते कर्मचारी पापकोटिशतैर् अपि | आग्नेयी प्रथमा मात्रा वायव्यैषा वशानुगा ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "7",
+    "sanskrit_iast": "bhānumaṇḍalasaṃkāśā bhaven mātrā tathottarā | paramā cārdhamātrā ca vāruṇīṃ tāṃ vidur budhāḥ ||",
+    "meaning": "भानुमण्डलसंकाशा भवेन् मात्रा तथोत्तरा | परमा चार्धमात्रा च वारुणीं तां विदुर् बुधाः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "8",
+    "sanskrit_iast": "kalātrayānanā vāpi tāsāṃ mātrāpratiṣṭhitā | eṣa oṃkāra ākhyāto dhāraṇābhir nibodhata ||",
+    "meaning": "कलात्रयानना वापि तासां मात्राप्रतिष्ठिता | एष ओंकार आख्यातो धारणाभिर् निबोधत ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "9",
+    "sanskrit_iast": "yoṣiṇī prathamā mātrā vidyunmālā tathāparā | pataṃgī ca tṛtīyā syāc caturthī vāyuveginī ||",
+    "meaning": "योषिणी प्रथमा मात्रा विद्युन्माला तथापरा | पतंगी च तृतीया स्याच् चतुर्थी वायुवेगिनी ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 9,
+    "verse": 9,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "10",
+    "sanskrit_iast": "pañcamīnām adheyā ca ṣaṣṭhī caindrī vidhīyate | saptamī vaiṣṇavī nāma śaṃkarī ca tathāṣṭamī ||",
+    "meaning": "पञ्चमीनाम् अधेया च षष्ठी चैन्द्री विधीयते | सप्तमी वैष्णवी नाम शंकरी च तथाष्टमी ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 10,
+    "verse": 10,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "11",
+    "sanskrit_iast": "navamī mahatī nāma dhruveti daśamī matā | ekādaśī bhaven maunī brāhmīti dvādaśī matā ||",
+    "meaning": "नवमी महती नाम ध्रुवेति दशमी मता | एकादशी भवेन् मौनी ब्राह्मीति द्वादशी मता ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 11,
+    "verse": 11,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "12",
+    "sanskrit_iast": "prathamāyāṃ tu mātrāyāṃ yadi prāṇair viyujyate | sa rājā bhārate varṣe sārvabhaumaḥ prajāyate ||",
+    "meaning": "प्रथमायां तु मात्रायां यदि प्राणैर् वियुज्यते | स राजा भारते वर्षे सार्वभौमः प्रजायते ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 12,
+    "verse": 12,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "13",
+    "sanskrit_iast": "dvitīyāyāṃ samutkrānto bhaved yakṣo mahātmavān | vidyādharas tṛtīyāyāṃ gandharvas tu caturthikām ||",
+    "meaning": "द्वितीयायां समुत्क्रान्तो भवेद् यक्षो महात्मवान् | विद्याधरस् तृतीयायां गन्धर्वस् तु चतुर्थिकाम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 13,
+    "verse": 13,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "14",
+    "sanskrit_iast": "pañcamyām atha mātrāyāṃ yadi prāṇair viyujyate | uṣitaḥ sahadevatvaṃ somaloke mahīyate ||",
+    "meaning": "पञ्चम्याम् अथ मात्रायां यदि प्राणैर् वियुज्यते | उषितः सहदेवत्वं सोमलोके महीयते ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 14,
+    "verse": 14,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "15",
+    "sanskrit_iast": "ṣaṣṭhyām indrasya sāyujyaṃ saptamyāṃ vaiṣṇavaṃ padam | aṣṭamyāṃ vrajate rudraṃ paśūnāṃ ca patiṃ tathā ||",
+    "meaning": "षष्ठ्याम् इन्द्रस्य सायुज्यं सप्तम्यां वैष्णवं पदम् | अष्टम्यां व्रजते रुद्रं पशूनां च पतिं तथा ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 15,
+    "verse": 15,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "16",
+    "sanskrit_iast": "navamyāṃ ca maharlokaṃ daśamyāṃ ca dhruvaṃ vrajet | ekādaśyāṃ tapolokaṃ dvādaśyāṃ brahma śāśvatam ||",
+    "meaning": "नवम्यां च महर्लोकं दशम्यां च ध्रुवं व्रजेत् | एकादश्यां तपोलोकं द्वादश्यां ब्रह्म शाश्वतम् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 16,
+    "verse": 16,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "17",
+    "sanskrit_iast": "tataḥ paraṃ śuddhaṃ vyāpakaṃ niṣkalaṃ śivam | sadoditaṃ paraṃ brahma jyotiṣām udayo yataḥ ||",
+    "meaning": "ततः परं शुद्धं व्यापकं निष्कलं शिवम् | सदोदितं परं ब्रह्म ज्योतिषाम् उदयो यतः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 17,
+    "verse": 17,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "18",
+    "sanskrit_iast": "atīndriyaṃ guṇātītaṃ mano līnaṃ yadā bhavet | anaupamyam abhāvaṃ ca yogayuktaṃ tadādiśet ||",
+    "meaning": "अतीन्द्रियं गुणातीतं मनो लीनं यदा भवेत् | अनौपम्यम् अभावं च योगयुक्तं तदादिशेत् ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 18,
+    "verse": 18,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "19",
+    "sanskrit_iast": "tadbhaktas tatsamāsaktaḥ śanair muñcet kalevaram | susthito yogacāreṇa sarvasaṅgavivarjitaḥ ||",
+    "meaning": "तद्भक्तस् तत्समासक्तः शनैर् मुञ्चेत् कलेवरम् | सुस्थितो योगचारेण सर्वसङ्गविवर्जितः ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 19,
+    "verse": 19,
+    "vedaId": "nadabindu_upanishad"
+  },
+  {
+    "reference": "20",
+    "sanskrit_iast": "tato vilīnapāśo 'sau vimalaḥ kevalaḥ prabhuḥ | tenaiva brahmabhāvena paramānandam aśnute ||",
+    "meaning": "ततो विलीनपाशो ऽसौ विमलः केवलः प्रभुः | तेनैव ब्रह्मभावेन परमानन्दम् अश्नुते ||",
+    "text": "",
+    "mandala": 1,
+    "hymn": 20,
+    "verse": 20,
+    "vedaId": "nadabindu_upanishad"
+  }
+]

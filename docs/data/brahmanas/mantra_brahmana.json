@@ -1,0 +1,2582 @@
+[
+  {
+    "reference": "1.1.1",
+    "sanskrit_iast": "deva savitaḥ prasuva yajñaṃ prasuva yajñapatiṃ bhagāya | divyo gandharvaḥ ketapūḥ ketaṃ naḥ punātu vācaspatir vācaṃ naḥ svadatu |",
+    "meaning": "देव सवितः प्रसुव यज्ञं प्रसुव यज्ञपतिं भगाय । दिव्यो गन्धर्वः केतपूः केतं नः पुनातु वाचस्पतिर् वाचं नः स्वदतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.2",
+    "sanskrit_iast": "kāma veda te nāma mado nāmāsi samānayāmuṃ surā te abhavat | param atra janmāgne tapaso nirmito 'si | svāhā |",
+    "meaning": "काम वेद ते नाम मदो नामासि समानयामुं सुरा ते अभवत् । परम् अत्र जन्माग्ने तपसो निर्मितो ऽसि । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.3",
+    "sanskrit_iast": "imaṃ ta upasthaṃ madhunā saṃsṛjāmi prajāpater mukham etad dvitīyam | tena puṃso 'bhibhavāsi sarvān avaśān vaśiny asi rājñī | svāhā |",
+    "meaning": "इमं त उपस्थं मधुना संसृजामि प्रजापतेर् मुखम् एतद् द्वितीयम् । तेन पुंसो ऽभिभवासि सर्वान् अवशान् वशिन्य् असि राज्ञी । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.4",
+    "sanskrit_iast": "agniṃ kravyādam akṛṇvan guhānāḥ strīṇām upastham ṛṣayaḥ purāṇāḥ | tenājyam akṛṇvaṃs traiśṛṇgaṃ tvāṣṭraṃ tvayi tad dadhātu | svāhā |",
+    "meaning": "अग्निं क्रव्यादम् अकृण्वन् गुहानाः स्त्रीणाम् उपस्थम् ऋषयः पुराणाः । तेनाज्यम् अकृण्वंस् त्रैशृण्गं त्वाष्ट्रं त्वयि तद् दधातु । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.5",
+    "sanskrit_iast": "yā akṛṇtann avayan yā atanvata yāś ca devyo antān abhito 'dadanta | tās tvā devyo jarasā saṃvyayantv āyuṣmatīdaṃ paridhatsva vāsaḥ |",
+    "meaning": "या अकृण्तन्न् अवयन् या अतन्वत याश् च देव्यो अन्तान् अभितो ऽददन्त । तास् त्वा देव्यो जरसा संव्ययन्त्व् आयुष्मतीदं परिधत्स्व वासः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.6",
+    "sanskrit_iast": "paridhatta dhatta vāsasaināṃ śatāyuṣīṃ kṛṇuta dīrgham āyuḥ | śataṃ ca jīva śaradaḥ suvarcā vasūni cārye vibhajāsi jīvan |",
+    "meaning": "परिधत्त धत्त वाससैनां शतायुषीं कृणुत दीर्घम् आयुः । शतं च जीव शरदः सुवर्चा वसूनि चार्ये विभजासि जीवन् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.7",
+    "sanskrit_iast": "somo 'dadad gandharvāya gandharvo 'dadad agnaye | rayiṃ ca putrāṃś cādād agnir mahyam atho imām |",
+    "meaning": "सोमो ऽददद् गन्धर्वाय गन्धर्वो ऽददद् अग्नये । रयिं च पुत्रांश् चादाद् अग्निर् मह्यम् अथो इमाम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.8",
+    "sanskrit_iast": "pra me patiyānaḥ panthāḥ kalpatāṃ śivā ariṣṭā patilokaṃ gameyam |",
+    "meaning": "प्र मे पतियानः पन्थाः कल्पतां शिवा अरिष्टा पतिलोकं गमेयम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.9",
+    "sanskrit_iast": "prāsyāḥ patiyānaḥ panthāḥ kalpatāṃ śivā ariṣṭā patilokaṃ gamyāḥ |",
+    "meaning": "प्रास्याः पतियानः पन्थाः कल्पतां शिवा अरिष्टा पतिलोकं गम्याः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.10",
+    "sanskrit_iast": "agnir etu prathamo devatābhyaḥ so 'syai prajāṃ muñcatu mṛtyupāśāt | tad ayaṃ rājā varuṇo 'numanyatāṃ yatheyaṃ strī pautram aghaṃ na rodāt | svāhā |",
+    "meaning": "अग्निर् एतु प्रथमो देवताभ्यः सो ऽस्यै प्रजां मुञ्चतु मृत्युपाशात् । तद् अयं राजा वरुणो ऽनुमन्यतां यथेयं स्त्री पौत्रम् अघं न रोदात् । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.11",
+    "sanskrit_iast": "imām agnis trāyatāṃ gārhapatyaḥ prajām asyai jaradaṣṭiṃ kṛṇotu | aśūnyopasthā jīvatām astu mātā pautram ānandam abhivibudhyatām iyaṃ | svāhā |",
+    "meaning": "इमाम् अग्निस् त्रायतां गार्हपत्यः प्रजाम् अस्यै जरदष्टिं कृणोतु । अशून्योपस्था जीवताम् अस्तु माता पौत्रम् आनन्दम् अभिविबुध्यताम् इयं । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.12",
+    "sanskrit_iast": "dyaus te pṛṣthaṃ rakṣatu vāyur ūrū aśvinau ca | stanaṃdhayān te putrānt savitābhirakṣatv ā vāsasaḥ paridhānād bṛhaspatir viśve devā abhirakṣantu paścāt | svāhā |",
+    "meaning": "द्यौस् ते पृष्थं रक्षतु वायुर् ऊरू अश्विनौ च । स्तनंधयान् ते पुत्रान्त् सविताभिरक्षत्व् आ वाससः परिधानाद् बृहस्पतिर् विश्वे देवा अभिरक्षन्तु पश्चात् । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.13",
+    "sanskrit_iast": "mā te gṛheṣu niśi ghoṣa utthād anyatra tvad rudatyaḥ saṃviśantu | mā tvaṃ rudaty ura ābādhiṣṭhā jīvapatnī patiloke virāja paśyantī prajāṃ sumanasyamānāṃ | svāhā |",
+    "meaning": "मा ते गृहेषु निशि घोष उत्थाद् अन्यत्र त्वद् रुदत्यः संविशन्तु । मा त्वं रुदत्य् उर आबाधिष्ठा जीवपत्नी पतिलोके विराज पश्यन्ती प्रजां सुमनस्यमानां । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.14",
+    "sanskrit_iast": "aprajasyaṃ pautramṛtyuṃ pāpmānam uta vāgham | śīrṣṇaḥ srajam ivonmucya dviṣadbhyaḥ pratimuñcāmi pāśaṃ | svāhā |",
+    "meaning": "अप्रजस्यं पौत्रमृत्युं पाप्मानम् उत वाघम् । शीर्ष्णः स्रजम् इवोन्मुच्य द्विषद्भ्यः प्रतिमुञ्चामि पाशं । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.1.15",
+    "sanskrit_iast": "paraitu mṛtyur amṛtaṃ ma āgād vaivasvato na abhayaṃ kṛṇotu | paraṃ mṛtyo anuparehi panthāṃ yatra no anya itaro devayānāt | cakṣuṣmate śṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrānt | svāhā |",
+    "meaning": "परैतु मृत्युर् अमृतं म आगाद् वैवस्वतो न अभयं कृणोतु । परं मृत्यो अनुपरेहि पन्थां यत्र नो अन्य इतरो देवयानात् । चक्षुष्मते शृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान्त् । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 1,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.1",
+    "sanskrit_iast": "imam aśmānam ārohā śmeva tvaṃ sthirā bhava | dviṣantam apabādhasva mā ca tvaṃ dviṣatām adhaḥ |",
+    "meaning": "इमम् अश्मानम् आरोहा श्मेव त्वं स्थिरा भव । द्विषन्तम् अपबाधस्व मा च त्वं द्विषताम् अधः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.2",
+    "sanskrit_iast": "iyaṃ nāry upabrūte 'gnau lājān āvapantī | dīrghāyur astu me patiḥ śataṃ varṣāṇi jīvatv edhantāṃ jñātayo mama | svāhā |",
+    "meaning": "इयं नार्य् उपब्रूते ऽग्नौ लाजान् आवपन्ती । दीर्घायुर् अस्तु मे पतिः शतं वर्षाणि जीवत्व् एधन्तां ज्ञातयो मम । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.3",
+    "sanskrit_iast": "aryamaṇaṃ nu devaṃ kanyā agnim ayakṣata | sa imāṃ devo aryamā preto muñcatu māmutaḥ | svāhā |",
+    "meaning": "अर्यमणं नु देवं कन्या अग्निम् अयक्षत । स इमां देवो अर्यमा प्रेतो मुञ्चतु मामुतः । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.4",
+    "sanskrit_iast": "pūṣaṇaṃ nu devaṃ kanyā agnim ayakṣata | sa imāṃ devo pūṣā preto muñcatu māmutaḥ | svāhā |",
+    "meaning": "पूषणं नु देवं कन्या अग्निम् अयक्षत । स इमां देवो पूषा प्रेतो मुञ्चतु मामुतः । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.5",
+    "sanskrit_iast": "kanyalā pitṛbhyaḥ patilokaṃ yatī yam apa dīkṣām ayaṣṭa | kanya uta tvayā vayaṃ dhārā udanyā ivā tigāhemahi dviṣaḥ |",
+    "meaning": "कन्यला पितृभ्यः पतिलोकं यती यम् अप दीक्षाम् अयष्ट । कन्य उत त्वया वयं धारा उदन्या इवा तिगाहेमहि द्विषः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.6",
+    "sanskrit_iast": "ekam iṣe viṣṇus tvā nayatu |",
+    "meaning": "एकम् इषे विष्णुस् त्वा नयतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.7",
+    "sanskrit_iast": "dve ūrje viṣṇus tvā nayatu |",
+    "meaning": "द्वे ऊर्जे विष्णुस् त्वा नयतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.8",
+    "sanskrit_iast": "trīṇi vratāya viṣṇus tvā nayatu |",
+    "meaning": "त्रीणि व्रताय विष्णुस् त्वा नयतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.9",
+    "sanskrit_iast": "catvāri māyobhavāya viṣṇus tvā nayatu |",
+    "meaning": "चत्वारि मायोभवाय विष्णुस् त्वा नयतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.10",
+    "sanskrit_iast": "pañca paśubhyo viṣṇus tvā nayatu |",
+    "meaning": "पञ्च पशुभ्यो विष्णुस् त्वा नयतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.11",
+    "sanskrit_iast": "ṣaḍ rāyas poṣāya viṣṇus tvā nayatu |",
+    "meaning": "षड् रायस् पोषाय विष्णुस् त्वा नयतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.12",
+    "sanskrit_iast": "sapta saptabhyo hotrābhyo viṣṇus tvā nayatu |",
+    "meaning": "सप्त सप्तभ्यो होत्राभ्यो विष्णुस् त्वा नयतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.13",
+    "sanskrit_iast": "sakhā saptapadī bhava sakhyaṃ te gameyaṃ sakhyāt te mā yoṣaṃ sakhyān me mā yoṣṭhāḥ |",
+    "meaning": "सखा सप्तपदी भव सख्यं ते गमेयं सख्यात् ते मा योषं सख्यान् मे मा योष्ठाः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.14",
+    "sanskrit_iast": "sumaṅgalīr iyaṃ vadhūr imāṃ sameta paśyata | saubhāgyam asyai dattvāyā thāstaṃ viparetana |",
+    "meaning": "सुमङ्गलीर् इयं वधूर् इमां समेत पश्यत । सौभाग्यम् अस्यै दत्त्वाया थास्तं विपरेतन ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.15",
+    "sanskrit_iast": "samañjantu viśve devāḥ sam āpo hṛdayāni nau | saṃ mātariśvā saṃ dhātā sam u deṣṭrī dadhātu nau |",
+    "meaning": "समञ्जन्तु विश्वे देवाः सम् आपो हृदयानि नौ । सं मातरिश्वा सं धाता सम् उ देष्ट्री दधातु नौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.16",
+    "sanskrit_iast": "gṛbhnāmi te saubhagatvāya hastaṃ mayā patyā jaradaṣṭir yathāsaḥ | bhago aryamā savitā puraṃdhir mahyam tvādur gārhapatyāya devāḥ |",
+    "meaning": "गृभ्नामि ते सौभगत्वाय हस्तं मया पत्या जरदष्टिर् यथासः । भगो अर्यमा सविता पुरंधिर् मह्यम् त्वादुर् गार्हपत्याय देवाः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.17",
+    "sanskrit_iast": "aghoracakṣur apatighny edhi śivā paśubhyaḥ sumanāḥ suvarcāḥ | vīrasūr jīvasūr devakāmā syonā śaṃ no bhava dvipade śaṃ catuṣpade |",
+    "meaning": "अघोरचक्षुर् अपतिघ्न्य् एधि शिवा पशुभ्यः सुमनाः सुवर्चाः । वीरसूर् जीवसूर् देवकामा स्योना शं नो भव द्विपदे शं चतुष्पदे ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 17,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.18",
+    "sanskrit_iast": "ā naḥ prajāṃ janayatu prajāpatir ā jarasāya samanaktv aryamā | adurmaṅgalīḥ patilokam āviśa śaṃ no bhava dvipade śaṃ catuṣpade |",
+    "meaning": "आ नः प्रजां जनयतु प्रजापतिर् आ जरसाय समनक्त्व् अर्यमा । अदुर्मङ्गलीः पतिलोकम् आविश शं नो भव द्विपदे शं चतुष्पदे ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 18,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.19",
+    "sanskrit_iast": "imāṃ tvaṃ indra mīḍhvaḥ suputrāṃ subhagāṃ kṛdhi | daśāsyāṃ putrān ādhehi patiṃ ekādaśaṃ kuru |",
+    "meaning": "इमां त्वं इन्द्र मीढ्वः सुपुत्रां सुभगां कृधि । दशास्यां पुत्रान् आधेहि पतिं एकादशं कुरु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 19,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.20",
+    "sanskrit_iast": "samrājñī śvaśure bhava samrājñī śvaśrvāṃ bhava | nanāndari samrājñī bhava samrājñī adhi devṛṣu |",
+    "meaning": "सम्राज्ञी श्वशुरे भव सम्राज्ञी श्वश्र्वां भव । ननान्दरि सम्राज्ञी भव सम्राज्ञी अधि देवृषु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 20,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.2.21",
+    "sanskrit_iast": "mama vrate te hṛdayaṃ dadhātu mama cittam anu cittaṃ te astu | mama vācam ekamanā juṣasva bṛhaspatis tvā niyunaktu mahyam |",
+    "meaning": "मम व्रते ते हृदयं दधातु मम चित्तम् अनु चित्तं ते अस्तु । मम वाचम् एकमना जुषस्व बृहस्पतिस् त्वा नियुनक्तु मह्यम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 2,
+    "verse": 21,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.1",
+    "sanskrit_iast": "lekhāsaṃdhiṣu pakṣmasv āvarteṣu ca yāni te | tāni te pūrṇāhutyā sarvāṇi śamayāmy aham |",
+    "meaning": "लेखासंधिषु पक्ष्मस्व् आवर्तेषु च यानि ते । तानि ते पूर्णाहुत्या सर्वाणि शमयाम्य् अहम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.2",
+    "sanskrit_iast": "keśeṣu yac ca pāpakam īkṣite rudite ca yat | tāni te pūrṇāhutyā sarvāṇi śamayāmy aham |",
+    "meaning": "केशेषु यच् च पापकम् ईक्षिते रुदिते च यत् । तानि ते पूर्णाहुत्या सर्वाणि शमयाम्य् अहम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.3",
+    "sanskrit_iast": "śīle ca yac ca pāpakaṃ bhāṣite hasite ca yat | tāni te pūrṇāhutyā sarvāṇi śamayāmy aham |",
+    "meaning": "शीले च यच् च पापकं भाषिते हसिते च यत् । तानि ते पूर्णाहुत्या सर्वाणि शमयाम्य् अहम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.4",
+    "sanskrit_iast": "ārokeṣu ca danteṣu hastayoḥ pādayoś ca yat | tāni te pūrṇāhutyā sarvāṇi śamayāmy aham |",
+    "meaning": "आरोकेषु च दन्तेषु हस्तयोः पादयोश् च यत् । तानि ते पूर्णाहुत्या सर्वाणि शमयाम्य् अहम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.5",
+    "sanskrit_iast": "ūrvor upasthe jaṅghayoḥ saṃdhāneṣu ca yāni te | tāni te pūrṇāhutyā sarvāṇi śamayāmy aham |",
+    "meaning": "ऊर्वोर् उपस्थे जङ्घयोः संधानेषु च यानि ते । तानि ते पूर्णाहुत्या सर्वाणि शमयाम्य् अहम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.6",
+    "sanskrit_iast": "yāni kāni ca ghorāṇi sarvāṅgeṣu tavābhavan | pūrṇāhutibhir ājyasya sarvāṇi tāny aśīśamam |",
+    "meaning": "यानि कानि च घोराणि सर्वाङ्गेषु तवाभवन् । पूर्णाहुतिभिर् आज्यस्य सर्वाणि तान्य् अशीशमम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.7",
+    "sanskrit_iast": "dhruvā dyaur dhruvā pṛthivī dhruvaṃ viśvam idaṃ jagat | dhruvāsaḥ parvatā ime dhruvā strī patikule ^ iyam |",
+    "meaning": "ध्रुवा द्यौर् ध्रुवा पृथिवी ध्रुवं विश्वम् इदं जगत् । ध्रुवासः पर्वता इमे ध्रुवा स्त्री पतिकुले ^ इयम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.8",
+    "sanskrit_iast": "annapāśena maṇinā prāṇasūtreṇa pṛśninā | badhnāmi satyagranthinā manaś ca hṛdayaṃ ca te |",
+    "meaning": "अन्नपाशेन मणिना प्राणसूत्रेण पृश्निना । बध्नामि सत्यग्रन्थिना मनश् च हृदयं च ते ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.9",
+    "sanskrit_iast": "yad etad dhṛdayaṃ tava tad astu hṛdayaṃ mama | yad idaṃ hṛdayaṃ mama tad astu hṛdayaṃ tava |",
+    "meaning": "यद् एतद् धृदयं तव तद् अस्तु हृदयं मम । यद् इदं हृदयं मम तद् अस्तु हृदयं तव ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.10",
+    "sanskrit_iast": "annaṃ prāṇasya paḍviṃśas tena badhnāmi tvāsau |",
+    "meaning": "अन्नं प्राणस्य पड्विंशस् तेन बध्नामि त्वासौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.11",
+    "sanskrit_iast": "sukiṃśukaṃ śalmaliṃ viśvarūpaṃ suvarṇavarṇaṃ sukṛtaṃ sucakram | āroha sūrye amṛtasya nābhiṃ syonaṃ patye vahatuṃ kṛṇuṣva |",
+    "meaning": "सुकिंशुकं शल्मलिं विश्वरूपं सुवर्णवर्णं सुकृतं सुचक्रम् । आरोह सूर्ये अमृतस्य नाभिं स्योनं पत्ये वहतुं कृणुष्व ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.12",
+    "sanskrit_iast": "mā vidan paripanthino ya āsīdanti dampatī | sugebhir durgam atītām apadrāntv arātayaḥ |",
+    "meaning": "मा विदन् परिपन्थिनो य आसीदन्ति दम्पती । सुगेभिर् दुर्गम् अतीताम् अपद्रान्त्व् अरातयः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.13",
+    "sanskrit_iast": "iha gāvaḥ prajāyadhvam ihāśvā iha pūruṣāḥ | iho sahasradakṣiṇo 'pi pūṣā niṣīdatu |",
+    "meaning": "इह गावः प्रजायध्वम् इहाश्वा इह पूरुषाः । इहो सहस्रदक्षिणो ऽपि पूषा निषीदतु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.3.14",
+    "sanskrit_iast": "iha dhṛtir iha svadhṛtir iha rantir iha ramasva | mayi dhṛtir mayi svadhṛtir mayi ramo mayi ramasva |",
+    "meaning": "इह धृतिर् इह स्वधृतिर् इह रन्तिर् इह रमस्व । मयि धृतिर् मयि स्वधृतिर् मयि रमो मयि रमस्व ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 3,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.1",
+    "sanskrit_iast": "agne prāyaścitte tvaṃ devānāṃ prāyaścittir asi | brāhmaṇas tvā nāthakāma upadhāvāmi | yāsyāḥ pāpī lakṣmīs tām asyā apajahi |",
+    "meaning": "अग्ने प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिर् असि । ब्राह्मणस् त्वा नाथकाम उपधावामि । यास्याः पापी लक्ष्मीस् ताम् अस्या अपजहि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.2",
+    "sanskrit_iast": "vāyo prāyaścitte tvaṃ devānāṃ prāyaścittir asi | brāhmaṇas tvā nāthakāma upadhāvāmi | yāsyāḥ patighnī tanūs tām asyā apajahi |",
+    "meaning": "वायो प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिर् असि । ब्राह्मणस् त्वा नाथकाम उपधावामि । यास्याः पतिघ्नी तनूस् ताम् अस्या अपजहि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.3",
+    "sanskrit_iast": "candra prāyaścitte tvaṃ devānāṃ prāyaścittir asi | brāhmaṇas tvā nāthakāma upadhāvāmi | yāsyā aputryā tanūs tām asyā apajahi |",
+    "meaning": "चन्द्र प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिर् असि । ब्राह्मणस् त्वा नाथकाम उपधावामि । यास्या अपुत्र्या तनूस् ताम् अस्या अपजहि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.4",
+    "sanskrit_iast": "sūrya prāyaścitte tvaṃ devānāṃ prāyaścittir asi | brāhmaṇas tvā nāthakāma upadhāvāmi | yāsyā apaśavyā tanūs tām asyā apajahi |",
+    "meaning": "सूर्य प्रायश्चित्ते त्वं देवानां प्रायश्चित्तिर् असि । ब्राह्मणस् त्वा नाथकाम उपधावामि । यास्या अपशव्या तनूस् ताम् अस्या अपजहि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.5",
+    "sanskrit_iast": "agnivāyucandrasūryāḥ prāyaścittayo yūyaṃ devānāṃ prāyaścittayaḥ stha | brāhmaṇo vo nāthakāma upadhāvāmi | yāsyāḥ pāpī lakṣmīr yā patighnī yāputryā yāpaśavyā tā asyā apahata |",
+    "meaning": "अग्निवायुचन्द्रसूर्याः प्रायश्चित्तयो यूयं देवानां प्रायश्चित्तयः स्थ । ब्राह्मणो वो नाथकाम उपधावामि । यास्याः पापी लक्ष्मीर् या पतिघ्नी यापुत्र्या यापशव्या ता अस्या अपहत ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.6",
+    "sanskrit_iast": "viṣṇur yoniṃ kalpayatu tvaṣṭā rūpāṇi piṃśatu | āsiñcatu prajāpatir dhātā garbhaṃ dadhātu te |",
+    "meaning": "विष्णुर् योनिं कल्पयतु त्वष्टा रूपाणि पिंशतु । आसिञ्चतु प्रजापतिर् धाता गर्भं दधातु ते ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.7",
+    "sanskrit_iast": "garbhaṃ dhehi sinīvāli garbhaṃ dhehi sarasvati | garbhaṃ te aśvinau devāv ādhattāṃ puṣkarasrajau |",
+    "meaning": "गर्भं धेहि सिनीवालि गर्भं धेहि सरस्वति । गर्भं ते अश्विनौ देवाव् आधत्तां पुष्करस्रजौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.8",
+    "sanskrit_iast": "pumāṃsau mitrāvaruṇau pumāṃsāv aśvināv ubhau | pumān agniś ca vāyuś ca pumān garbhas tavodare |",
+    "meaning": "पुमांसौ मित्रावरुणौ पुमांसाव् अश्विनाव् उभौ । पुमान् अग्निश् च वायुश् च पुमान् गर्भस् तवोदरे ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.4.9",
+    "sanskrit_iast": "pumān agniḥ pumān indraḥ pumān devo bṛhaspatiḥ | pumāṃsaṃ putraṃ vindasva taṃ pumān anu jāyatām |",
+    "meaning": "पुमान् अग्निः पुमान् इन्द्रः पुमान् देवो बृहस्पतिः । पुमांसं पुत्रं विन्दस्व तं पुमान् अनु जायताम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 4,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.1",
+    "sanskrit_iast": "ayam ūrjāvato vṛkṣa ūrjīva phalinī bhava | parṇaṃ vanaspate 'nu tvā nu tvā sūyatāṃ rayiḥ |",
+    "meaning": "अयम् ऊर्जावतो वृक्ष ऊर्जीव फलिनी भव । पर्णं वनस्पते ऽनु त्वा नु त्वा सूयतां रयिः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.2",
+    "sanskrit_iast": "yenāditeḥ sīmānaṃ nayati prajāpatir mahate saubhagāya | tenāham asyai sīmānaṃ nayāmi prajām asyai jaradaṣṭiṃ kṛṇomi |",
+    "meaning": "येनादितेः सीमानं नयति प्रजापतिर् महते सौभगाय । तेनाहम् अस्यै सीमानं नयामि प्रजाम् अस्यै जरदष्टिं कृणोमि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.3",
+    "sanskrit_iast": "rākām ahaṃ suhavāṃ suṣṭutī huve śṛṇotu naḥ subhagā bodhatu tmanā | sīvyatv apaḥ sūcyācchidyamānayā dadātu vīraṃ śatadāyumukhyam |",
+    "meaning": "राकाम् अहं सुहवां सुष्टुती हुवे शृणोतु नः सुभगा बोधतु त्मना । सीव्यत्व् अपः सूच्याच्छिद्यमानया ददातु वीरं शतदायुमुख्यम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.4",
+    "sanskrit_iast": "yās te rāke sumatayaḥ supeśaso yābhir dadāsi dāśuṣe vasūni | tābhir no adya sumanā upāgahi sahasrapoṣaṃ subhage rarāṇā |",
+    "meaning": "यास् ते राके सुमतयः सुपेशसो याभिर् ददासि दाशुषे वसूनि । ताभिर् नो अद्य सुमना उपागहि सहस्रपोषं सुभगे रराणा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.5",
+    "sanskrit_iast": "kiṃ paśyasi | prajāṃ paśūnt saubhāgyaṃ mahyaṃ dīrghāyuṣṭvaṃ patyuḥ |",
+    "meaning": "किं पश्यसि । प्रजां पशून्त् सौभाग्यं मह्यं दीर्घायुष्ट्वं पत्युः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.6",
+    "sanskrit_iast": "yā tiraścī nipadyate ahaṃ vidharaṇī iti | tāṃ tvā ghṛtasya dhārayā yaje saṃrādhanīm aham | saṃrādhanyai devyai deṣṭryai |",
+    "meaning": "या तिरश्ची निपद्यते अहं विधरणी इति । तां त्वा घृतस्य धारया यजे संराधनीम् अहम् । संराधन्यै देव्यै देष्ट्र्यै ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.7",
+    "sanskrit_iast": "vipaścit puccham abharat tad dhātā punar āharat | parehi tvaṃ vipaścit pumān ayaṃ janiṣyate 'sau nāma |",
+    "meaning": "विपश्चित् पुच्छम् अभरत् तद् धाता पुनर् आहरत् । परेहि त्वं विपश्चित् पुमान् अयं जनिष्यते ऽसौ नाम ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.8",
+    "sanskrit_iast": "iyam ājñedam annam idam āyur idam amṛtam |",
+    "meaning": "इयम् आज्ञेदम् अन्नम् इदम् आयुर् इदम् अमृतम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.9",
+    "sanskrit_iast": "medhāṃ te mitrāvaruṇau medhām agnir dadhātu te | medhāṃ te aśvinau devāv ādhattāṃ puṣkarasrajau |",
+    "meaning": "मेधां ते मित्रावरुणौ मेधाम् अग्निर् दधातु ते । मेधां ते अश्विनौ देवाव् आधत्तां पुष्करस्रजौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.10",
+    "sanskrit_iast": "yat te susīme hṛdayaṃ hitam antaḥ prajāpatau | vedāhaṃ manye tad brahma māhaṃ pautram aghaṃ nigām |",
+    "meaning": "यत् ते सुसीमे हृदयं हितम् अन्तः प्रजापतौ । वेदाहं मन्ये तद् ब्रह्म माहं पौत्रम् अघं निगाम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.11",
+    "sanskrit_iast": "yat pṛthivyā anāmṛtaṃ divi candramasi śritam | vedāmṛtasyāhaṃ nāma māhaṃ pautram aghaṃ riṣam |",
+    "meaning": "यत् पृथिव्या अनामृतं दिवि चन्द्रमसि श्रितम् । वेदामृतस्याहं नाम माहं पौत्रम् अघं रिषम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.12",
+    "sanskrit_iast": "indrāgnī śarma yacchataṃ prajāyai me prajāpatī | yathāyaṃ na pramīyeta putro janitryā adhi |",
+    "meaning": "इन्द्राग्नी शर्म यच्छतं प्रजायै मे प्रजापती । यथायं न प्रमीयेत पुत्रो जनित्र्या अधि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.13",
+    "sanskrit_iast": "yad adaś candramasi kṛṣṇaṃ pṛthivyā hṛdayaṃ śritam | tad ahaṃ vidvāṃs tat paśyan māhaṃ pautram aghaṃ rudam |",
+    "meaning": "यद् अदश् चन्द्रमसि कृष्णं पृथिव्या हृदयं श्रितम् । तद् अहं विद्वांस् तत् पश्यन् माहं पौत्रम् अघं रुदम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.14",
+    "sanskrit_iast": "ko 'si katamo 'sy eṣo 'sy amṛto 'si | āhaspatyaṃ māsaṃ praviśāsau |",
+    "meaning": "को ऽसि कतमो ऽस्य् एषो ऽस्य् अमृतो ऽसि । आहस्पत्यं मासं प्रविशासौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.15",
+    "sanskrit_iast": "sa tvāhne paridadātv ahas tvā rātryai paridadātu rātris tvāhorātrābhyāṃ paridadātv ahorātrau tvārdhamāsebhyaḥ paridattām ardhamāsās tvā māsebhyaḥ paridadatu māsās tva rtubhyaḥ paridadatv ṛtavas tvā saṃvatsarāya paridadatu saṃvatsaras tvāyuṣe jarāyai paridadātv asau |",
+    "meaning": "स त्वाह्ने परिददात्व् अहस् त्वा रात्र्यै परिददातु रात्रिस् त्वाहोरात्राभ्यां परिददात्व् अहोरात्रौ त्वार्धमासेभ्यः परिदत्ताम् अर्धमासास् त्वा मासेभ्यः परिददतु मासास् त्व र्तुभ्यः परिददत्व् ऋतवस् त्वा संवत्सराय परिददतु संवत्सरस् त्वायुषे जरायै परिददात्व् असौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.16",
+    "sanskrit_iast": "aṅgādaṅgāt saṃśravasi hṛdayād adhi jāyase | prāṇaṃ te prāṇena saṃdadhāmi jīva me yāvad āyuṣam |",
+    "meaning": "अङ्गादङ्गात् संश्रवसि हृदयाद् अधि जायसे । प्राणं ते प्राणेन संदधामि जीव मे यावद् आयुषम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.17",
+    "sanskrit_iast": "aṅgādaṅgāt saṃbhavasi hṛdayād adhi jāyase | vedo vai putranāmāsi sa jīva śaradaḥ śatam |",
+    "meaning": "अङ्गादङ्गात् संभवसि हृदयाद् अधि जायसे । वेदो वै पुत्रनामासि स जीव शरदः शतम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 17,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.18",
+    "sanskrit_iast": "aśmā bhava paraśur bhava hiraṇyam astṛtaṃ bhava | ātmāsi putra mā mṛthāḥ sa jīva śaradaḥ śatam |",
+    "meaning": "अश्मा भव परशुर् भव हिरण्यम् अस्तृतं भव । आत्मासि पुत्र मा मृथाः स जीव शरदः शतम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 18,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.5.19",
+    "sanskrit_iast": "paśūnāṃ tvā hiṅkāreṇābhijighrāmy asau |",
+    "meaning": "पशूनां त्वा हिङ्कारेणाभिजिघ्राम्य् असौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 5,
+    "verse": 19,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.1",
+    "sanskrit_iast": "āyam agāt savitā kṣureṇa |",
+    "meaning": "आयम् अगात् सविता क्षुरेण ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.2",
+    "sanskrit_iast": "uṣṇena vāya udakenaidhi |",
+    "meaning": "उष्णेन वाय उदकेनैधि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.3",
+    "sanskrit_iast": "āpa undantu jīvase |",
+    "meaning": "आप उन्दन्तु जीवसे ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.4",
+    "sanskrit_iast": "viṣṇor daṃṣṭro 'si |",
+    "meaning": "विष्णोर् दंष्ट्रो ऽसि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.5",
+    "sanskrit_iast": "oṣadhe trāyasvainam |",
+    "meaning": "ओषधे त्रायस्वैनम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.6",
+    "sanskrit_iast": "svadhite mainaṃ hiṃsīḥ |",
+    "meaning": "स्वधिते मैनं हिंसीः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.7",
+    "sanskrit_iast": "yena pūṣā bṛhaspater vāyor indrasya cāvapat | tena te vapāmi brahmaṇā jīvātave jīvanāya dīrghāyuṣṭvāya varcase |",
+    "meaning": "येन पूषा बृहस्पतेर् वायोर् इन्द्रस्य चावपत् । तेन ते वपामि ब्रह्मणा जीवातवे जीवनाय दीर्घायुष्ट्वाय वर्चसे ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.8",
+    "sanskrit_iast": "tryāyuṣaṃ jamadagneḥ kaśyapasya tryāyuṣam agastyasya tryāyuṣaṃ yad devānāṃ tryāyuṣaṃ tat te astu tryāyuṣam |",
+    "meaning": "त्र्यायुषं जमदग्नेः कश्यपस्य त्र्यायुषम् अगस्त्यस्य त्र्यायुषं यद् देवानां त्र्यायुषं तत् ते अस्तु त्र्यायुषम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.9",
+    "sanskrit_iast": "agne vratapate vrataṃ cariṣyāmi tat te prabravīmi tac chakeyaṃ tena rdhyāsam | idam aham anṛtāt satyam upaimi | svāhā |",
+    "meaning": "अग्ने व्रतपते व्रतं चरिष्यामि तत् ते प्रब्रवीमि तच् छकेयं तेन र्ध्यासम् । इदम् अहम् अनृतात् सत्यम् उपैमि । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.10",
+    "sanskrit_iast": "vāyo vratapate vrataṃ cariṣyāmi tat te prabravīmi tac chakeyaṃ tena rdhyāsam | idam aham anṛtāt satyam upaimi | svāhā |",
+    "meaning": "वायो व्रतपते व्रतं चरिष्यामि तत् ते प्रब्रवीमि तच् छकेयं तेन र्ध्यासम् । इदम् अहम् अनृतात् सत्यम् उपैमि । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.11",
+    "sanskrit_iast": "sūrya vratapate vrataṃ cariṣyāmi tat te prabravīmi tac chakeyaṃ tena rdhyāsam | idam aham anṛtāt satyam upaimi | svāhā |",
+    "meaning": "सूर्य व्रतपते व्रतं चरिष्यामि तत् ते प्रब्रवीमि तच् छकेयं तेन र्ध्यासम् । इदम् अहम् अनृतात् सत्यम् उपैमि । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.12",
+    "sanskrit_iast": "candra vratapate vrataṃ cariṣyāmi tat te prabravīmi tac chakeyaṃ tena rdhyāsam | idam aham anṛtāt satyam upaimi | svāhā |",
+    "meaning": "चन्द्र व्रतपते व्रतं चरिष्यामि तत् ते प्रब्रवीमि तच् छकेयं तेन र्ध्यासम् । इदम् अहम् अनृतात् सत्यम् उपैमि । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.13",
+    "sanskrit_iast": "vratānāṃ vratapate vrataṃ cariṣyāmi tat te prabravīmi tac chakeyaṃ tena rdhyāsam | idam aham anṛtāt satyam upaimi | svāhā |",
+    "meaning": "व्रतानां व्रतपते व्रतं चरिष्यामि तत् ते प्रब्रवीमि तच् छकेयं तेन र्ध्यासम् । इदम् अहम् अनृतात् सत्यम् उपैमि । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.14",
+    "sanskrit_iast": "āgantrā samaganmahi pra sumartyaṃ yuyotana | ariṣṭāḥ saṃcaremahi svasti caratād ayam |",
+    "meaning": "आगन्त्रा समगन्महि प्र सुमर्त्यं युयोतन । अरिष्टाः संचरेमहि स्वस्ति चरताद् अयम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.15",
+    "sanskrit_iast": "agniṣ ṭe hastam agrahīt savitā hastam agrahīd aryamā hastam agrahīn mitras tvam asi karmaṇā gnir ācāryas tava |",
+    "meaning": "अग्निष् टे हस्तम् अग्रहीत् सविता हस्तम् अग्रहीद् अर्यमा हस्तम् अग्रहीन् मित्रस् त्वम् असि कर्मणा ग्निर् आचार्यस् तव ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.16",
+    "sanskrit_iast": "brahmacaryam āgām upa mā nayasva |",
+    "meaning": "ब्रह्मचर्यम् आगाम् उप मा नयस्व ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.17",
+    "sanskrit_iast": "ko nāmāsy asau nāmāsmi |",
+    "meaning": "को नामास्य् असौ नामास्मि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 17,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.18",
+    "sanskrit_iast": "devasya te savituḥ prasave 'śvinor bāhubhyāṃ pūṣṇo hastābhyāṃ hastaṃ gṛhṇāmy asau |",
+    "meaning": "देवस्य ते सवितुः प्रसवे ऽश्विनोर् बाहुभ्यां पूष्णो हस्ताभ्यां हस्तं गृह्णाम्य् असौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 18,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.19",
+    "sanskrit_iast": "sūryasyāvṛtam anvāvartasvāsau |",
+    "meaning": "सूर्यस्यावृतम् अन्वावर्तस्वासौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 19,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.20",
+    "sanskrit_iast": "prāṇānāṃ granthir asi mā visraso 'ntaka ^ idaṃ te paridadāmy amum |",
+    "meaning": "प्राणानां ग्रन्थिर् असि मा विस्रसो ऽन्तक ^ इदं ते परिददाम्य् अमुम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 20,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.21",
+    "sanskrit_iast": "ahura ^ idaṃ te paridadāmy amum |",
+    "meaning": "अहुर ^ इदं ते परिददाम्य् अमुम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 21,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.22",
+    "sanskrit_iast": "kṛśana ^ idaṃ te paridadāmy amum |",
+    "meaning": "कृशन ^ इदं ते परिददाम्य् अमुम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 22,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.23",
+    "sanskrit_iast": "prajāpate tvā paridadāmy asau |",
+    "meaning": "प्रजापते त्वा परिददाम्य् असौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 23,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.24",
+    "sanskrit_iast": "devāya tvā savitre paridadāmy asau |",
+    "meaning": "देवाय त्वा सवित्रे परिददाम्य् असौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 24,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.25",
+    "sanskrit_iast": "brahmacāry asy asau |",
+    "meaning": "ब्रह्मचार्य् अस्य् असौ ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 25,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.26",
+    "sanskrit_iast": "samidham ādhehy apo 'śāna karma kuru mā divā svāpsīḥ |",
+    "meaning": "समिधम् आधेह्य् अपो ऽशान कर्म कुरु मा दिवा स्वाप्सीः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 26,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.27",
+    "sanskrit_iast": "iyaṃ duruktāt paribādhamānā varṇaṃ pavitraṃ punatī ma āgāt | prāṇāpānābhyāṃ balaṃ āharantī svasā devī subhagā mekhaleyam |",
+    "meaning": "इयं दुरुक्तात् परिबाधमाना वर्णं पवित्रं पुनती म आगात् । प्राणापानाभ्यां बलं आहरन्ती स्वसा देवी सुभगा मेखलेयम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 27,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.28",
+    "sanskrit_iast": "ṛtasya goptrī tapasaḥ paraspī ghnatī rakṣaḥ sahamānā arātīḥ | sā mā samantam abhiparyehi bhadre dhartāras te mekhale mā riṣāma |",
+    "meaning": "ऋतस्य गोप्त्री तपसः परस्पी घ्नती रक्षः सहमाना अरातीः । सा मा समन्तम् अभिपर्येहि भद्रे धर्तारस् ते मेखले मा रिषाम ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 28,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.29",
+    "sanskrit_iast": "tat savitur vareṇyaṃ bhargo devasya dhīmahi | dhiyo yo naḥ pracodayāt |",
+    "meaning": "तत् सवितुर् वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 29,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.30",
+    "sanskrit_iast": "bhūr bhuvaḥ svar oṃ |",
+    "meaning": "भूर् भुवः स्वर् ओं ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 30,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.31",
+    "sanskrit_iast": "suśravaḥ suśravasaṃ mā kuru yathā tvaṃ suśravaḥ suśravā deveṣv evam ahaṃ suśravaḥ suśravā brāhmaṇeṣu bhūyāsam |",
+    "meaning": "सुश्रवः सुश्रवसं मा कुरु यथा त्वं सुश्रवः सुश्रवा देवेष्व् एवम् अहं सुश्रवः सुश्रवा ब्राह्मणेषु भूयासम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 31,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.32",
+    "sanskrit_iast": "agnaye samidham āhārṣaṃ bṛhate jātavedase | yathā tvam agne samidhā samidhyasa evam aham āyuṣā medhayā varcasā prajayā paśubhir brahmavarcasena dhanenānnādyena samedhiṣīya | svāhā |",
+    "meaning": "अग्नये समिधम् आहार्षं बृहते जातवेदसे । यथा त्वम् अग्ने समिधा समिध्यस एवम् अहम् आयुषा मेधया वर्चसा प्रजया पशुभिर् ब्रह्मवर्चसेन धनेनान्नाद्येन समेधिषीय । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 32,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.33",
+    "sanskrit_iast": "punar mām aitv indriyaṃ punar āyuḥ punar bhagaḥ | punar draviṇam aitu mā punar brāhmaṇam aitu mā |",
+    "meaning": "पुनर् माम् ऐत्व् इन्द्रियं पुनर् आयुः पुनर् भगः । पुनर् द्रविणम् ऐतु मा पुनर् ब्राह्मणम् ऐतु मा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 33,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.6.34",
+    "sanskrit_iast": "punar manaḥ punar ātmā ma āgāt punaś cakṣuḥ punaḥ śrotraṃ ma āgāt | vaiśvānaro adabdhas tanūpā antas tiṣṭhatu me mano 'mṛtasya ketuḥ | svāhā |",
+    "meaning": "पुनर् मनः पुनर् आत्मा म आगात् पुनश् चक्षुः पुनः श्रोत्रं म आगात् । वैश्वानरो अदब्धस् तनूपा अन्तस् तिष्ठतु मे मनो ऽमृतस्य केतुः । स्वाहा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 6,
+    "verse": 34,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.1",
+    "sanskrit_iast": "ye apsv antar agnayaḥ praviṣṭā gohya upagohyo marūko manohāḥ khalo virujas tanūdūṣir indriyahā ati tānt sṛjāmi |",
+    "meaning": "ये अप्स्व् अन्तर् अग्नयः प्रविष्टा गोह्य उपगोह्यो मरूको मनोहाः खलो विरुजस् तनूदूषिर् इन्द्रियहा अति तान्त् सृजामि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.2",
+    "sanskrit_iast": "yad apāṃ ghoraṃ yad apāṃ krūraṃ yad apām aśāntam ati tat sṛjāmi |",
+    "meaning": "यद् अपां घोरं यद् अपां क्रूरं यद् अपाम् अशान्तम् अति तत् सृजामि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.3",
+    "sanskrit_iast": "yo rocanas tam iha gṛhṇāmi tenāhaṃ mām abhiṣiñcāmi |",
+    "meaning": "यो रोचनस् तम् इह गृह्णामि तेनाहं माम् अभिषिञ्चामि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.4",
+    "sanskrit_iast": "yaśase tejase brahmavarcasāya balāyendriyāya vīryāyānnādyāya rāyas poṣāya tviṣyā apacityai |",
+    "meaning": "यशसे तेजसे ब्रह्मवर्चसाय बलायेन्द्रियाय वीर्यायान्नाद्याय रायस् पोषाय त्विष्या अपचित्यै ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.5",
+    "sanskrit_iast": "yena striyam akṛṇutam yenāpāmṛśataṃ surām | yenākṣān abhyaṣiñcataṃ yenemāṃ pṛthivīṃ mahīm | yad vāṃ tad aśvinā yaśas tena mām abhiṣiñcatam |",
+    "meaning": "येन स्त्रियम् अकृणुतम् येनापामृशतं सुराम् । येनाक्षान् अभ्यषिञ्चतं येनेमां पृथिवीं महीम् । यद् वां तद् अश्विना यशस् तेन माम् अभिषिञ्चतम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.6",
+    "sanskrit_iast": "udyan bhrājabhṛṣṭibhir indro marudbhir asthāt prātaryāvabhir asthāt | daśasanir asi daśasaniṃ mā kurv ā tvā viśāmy ā mā viśa |",
+    "meaning": "उद्यन् भ्राजभृष्टिभिर् इन्द्रो मरुद्भिर् अस्थात् प्रातर्यावभिर् अस्थात् । दशसनिर् असि दशसनिं मा कुर्व् आ त्वा विशाम्य् आ मा विश ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.7",
+    "sanskrit_iast": "udyan bhrājabhṛṣṭibhir indro marudbhir asthāt sāṃtapanebhir asthāt | śatasanir asi śatasaniṃ mā kurv ā tvā viśāmy ā mā viśa |",
+    "meaning": "उद्यन् भ्राजभृष्टिभिर् इन्द्रो मरुद्भिर् अस्थात् सांतपनेभिर् अस्थात् । शतसनिर् असि शतसनिं मा कुर्व् आ त्वा विशाम्य् आ मा विश ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.8",
+    "sanskrit_iast": "udyan bhrājabhṛṣṭibhir indro marudbhir asthāt sāyaṃyāvabhir asthāt | sahasrasanir asi sahasrasaniṃ mā kurv ā tvā viśāmy ā mā viśa |",
+    "meaning": "उद्यन् भ्राजभृष्टिभिर् इन्द्रो मरुद्भिर् अस्थात् सायंयावभिर् अस्थात् । सहस्रसनिर् असि सहस्रसनिं मा कुर्व् आ त्वा विशाम्य् आ मा विश ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.9",
+    "sanskrit_iast": "cakṣur asi cakṣuṣ ṭvam asy ava me pāpmānaṃ jahi | somas tvā rājāvatu namas te 'stu mā mā hiṃsīḥ |",
+    "meaning": "चक्षुर् असि चक्षुष् ट्वम् अस्य् अव मे पाप्मानं जहि । सोमस् त्वा राजावतु नमस् ते ऽस्तु मा मा हिंसीः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.10",
+    "sanskrit_iast": "ud uttamaṃ varuṇa pāśam asmad avādhamaṃ vi madhyamaṃ śrathāya | athāditya vrate vayaṃ tavānāgaso aditaye syāma |",
+    "meaning": "उद् उत्तमं वरुण पाशम् अस्मद् अवाधमं वि मध्यमं श्रथाय । अथादित्य व्रते वयं तवानागसो अदितये स्याम ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.11",
+    "sanskrit_iast": "śrīr asi mayi ramasva |",
+    "meaning": "श्रीर् असि मयि रमस्व ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.12",
+    "sanskrit_iast": "netryau stho nayataṃ mām |",
+    "meaning": "नेत्र्यौ स्थो नयतं माम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.13",
+    "sanskrit_iast": "gandharvo 'sy upāva upa mām ava |",
+    "meaning": "गन्धर्वो ऽस्य् उपाव उप माम् अव ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.14",
+    "sanskrit_iast": "yakṣam iva cakṣuṣaḥ priyo vo bhūyāsam |",
+    "meaning": "यक्षम् इव चक्षुषः प्रियो वो भूयासम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.15",
+    "sanskrit_iast": "oṣṭhāpidhānā nakulī dantaparimitaḥ paviḥ | jihve mā jihvalo vācaṃ cāru mādyeha vādaya |",
+    "meaning": "ओष्ठापिधाना नकुली दन्तपरिमितः पविः । जिह्वे मा जिह्वलो वाचं चारु माद्येह वादय ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.7.16",
+    "sanskrit_iast": "vanaspate vīḍvaṅgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ | gobhiḥ saṃnaddho asi vīḍayasva ^ āsthātā te jayatu jetvāni |",
+    "meaning": "वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणः सुवीरः । गोभिः संनद्धो असि वीडयस्व ^ आस्थाता ते जयतु जेत्वानि ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 7,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.1",
+    "sanskrit_iast": "imā me viśvatovīryo bhava indraś ca rakṣatām | pūṣaṃs tvaṃ paryāvartayā naṣṭā āyantu no gṛhān |",
+    "meaning": "इमा मे विश्वतोवीर्यो भव इन्द्रश् च रक्षताम् । पूषंस् त्वं पर्यावर्तया नष्टा आयन्तु नो गृहान् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.2",
+    "sanskrit_iast": "imā madhumatīr mahyam anaṣṭāḥ payasā saha | gāva ājyasya mātara ihemāḥ santu bhūyasīḥ |",
+    "meaning": "इमा मधुमतीर् मह्यम् अनष्टाः पयसा सह । गाव आज्यस्य मातर इहेमाः सन्तु भूयसीः ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.3",
+    "sanskrit_iast": "gavāṃ śleṣmāsi gāvo mayi śliṣyantu |",
+    "meaning": "गवां श्लेष्मासि गावो मयि श्लिष्यन्तु ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.4",
+    "sanskrit_iast": "saṃgrahaṇa saṃgṛhāṇa ye jātāḥ paśavo mama | pūṣaiṣāṃ śarma yacchatu yathā jīvanto apyayān |",
+    "meaning": "संग्रहण संगृहाण ये जाताः पशवो मम । पूषैषां शर्म यच्छतु यथा जीवन्तो अप्ययान् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.5",
+    "sanskrit_iast": "bhuvanam asi sāhasram indrāya tvā sṛmo 'dadāt | akṣatam ariṣṭam ilāndam |",
+    "meaning": "भुवनम् असि साहस्रम् इन्द्राय त्वा सृमो ऽददात् । अक्षतम् अरिष्टम् इलान्दम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.6",
+    "sanskrit_iast": "gopoṣaṇam asi gopoṣasyeśiṣe gopoṣāya tvā | sahasrapoṣaṇam asi sahasrapoṣasyeśiṣe sahasrapoṣāya tvā |",
+    "meaning": "गोपोषणम् असि गोपोषस्येशिषे गोपोषाय त्वा । सहस्रपोषणम् असि सहस्रपोषस्येशिषे सहस्रपोषाय त्वा ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.7",
+    "sanskrit_iast": "lohitena svadhitinā mithunaṃ karṇayoḥ kṛtam | yāvatīnāṃyāvatīnāṃ va aiṣamo lakṣaṇam akāriṣam | bhūyasīnāṃbhūyasīnāṃ va uttarāmuttarāṃ samāṃ kriyāsam |",
+    "meaning": "लोहितेन स्वधितिना मिथुनं कर्णयोः कृतम् । यावतीनांयावतीनां व ऐषमो लक्षणम् अकारिषम् । भूयसीनांभूयसीनां व उत्तरामुत्तरां समां क्रियासम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "1.8.8",
+    "sanskrit_iast": "iyaṃ tantī gavāṃ mātā savatsānāṃ niveśanī | sā naḥ payasvatī duhā uttarāmuttarāṃ samām |",
+    "meaning": "इयं तन्ती गवां माता सवत्सानां निवेशनी । सा नः पयस्वती दुहा उत्तरामुत्तरां समाम् ।",
+    "text": "",
+    "mandala": 1,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.1",
+    "sanskrit_iast": "yaḥ prācyāṃ diśi sarparāja eṣa te baliḥ |",
+    "meaning": "यः प्राच्यां दिशि सर्पराज एष ते बलिः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.2",
+    "sanskrit_iast": "yo dakṣiṇasyāṃ diśi sarparāja eṣa te baliḥ |",
+    "meaning": "यो दक्षिणस्यां दिशि सर्पराज एष ते बलिः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.3",
+    "sanskrit_iast": "yaḥ prtīcyāṃ diśi sarparāja eṣa te baliḥ |",
+    "meaning": "यः प्र्तीच्यां दिशि सर्पराज एष ते बलिः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.4",
+    "sanskrit_iast": "ya udīcyāṃ diśi sarparāja eṣa te baliḥ |",
+    "meaning": "य उदीच्यां दिशि सर्पराज एष ते बलिः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.5",
+    "sanskrit_iast": "namaḥ pṛthivyai daṃṣṭrāya viśvabhṛn mā te 'nte riṣāma | saṃhataṃ mā vivadhīr vihataṃ mābhisaṃvadhīḥ |",
+    "meaning": "नमः पृथिव्यै दंष्ट्राय विश्वभृन् मा ते ऽन्ते रिषाम । संहतं मा विवधीर् विहतं माभिसंवधीः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.6",
+    "sanskrit_iast": "somo rājā somastambo rājā somo 'smākaṃ rājā somasya vayaṃ smaḥ | ahijambhanam asi saumastambaṃ saumastambam ahijambhanam asi |",
+    "meaning": "सोमो राजा सोमस्तम्बो राजा सोमो ऽस्माकं राजा सोमस्य वयं स्मः । अहिजम्भनम् असि सौमस्तम्बं सौमस्तम्बम् अहिजम्भनम् असि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.7",
+    "sanskrit_iast": "yāṃ sandhāṃ samadhatta yūyaṃ saptarṣibhiḥ saha | tāṃ sarpā mātyakrāmiṣṭa namo vo astu mā no hiṃsiṣṭa |",
+    "meaning": "यां सन्धां समधत्त यूयं सप्तर्षिभिः सह । तां सर्पा मात्यक्रामिष्ट नमो वो अस्तु मा नो हिंसिष्ट ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.8",
+    "sanskrit_iast": "mā nas toke tanaye mā na āyau mā no goṣu mā no aśveṣu rīriṣaḥ | vīrān mā no rudra bhāmito vadhīr haviṣmantaḥ sadam it tvā havāmahe |",
+    "meaning": "मा नस् तोके तनये मा न आयौ मा नो गोषु मा नो अश्वेषु रीरिषः । वीरान् मा नो रुद्र भामितो वधीर् हविष्मन्तः सदम् इत् त्वा हवामहे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.9",
+    "sanskrit_iast": "śatāyudhāya śatavīryāya śatotaye 'bhimātiṣāhe | śataṃ yo naḥ śarado ajīyād indro neṣad ati duritāni viśvā |",
+    "meaning": "शतायुधाय शतवीर्याय शतोतये ऽभिमातिषाहे । शतं यो नः शरदो अजीयाद् इन्द्रो नेषद् अति दुरितानि विश्वा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.10",
+    "sanskrit_iast": "ye catvāraḥ pathayo devayānā antarā dyāvāpṛthivī viyanti | teṣāṃ yo ajyānim ajītim āvahāt tasmai no devāḥ paridatteha sarve |",
+    "meaning": "ये चत्वारः पथयो देवयाना अन्तरा द्यावापृथिवी वियन्ति । तेषां यो अज्यानिम् अजीतिम् आवहात् तस्मै नो देवाः परिदत्तेह सर्वे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.11",
+    "sanskrit_iast": "grīṣmo hemanta uta no vasantaḥ śarad varṣāḥ suvitaṃ no astu | teṣām ṛtūnāṃ śataśāradānāṃ nivāta eṣām abhaye syāma |",
+    "meaning": "ग्रीष्मो हेमन्त उत नो वसन्तः शरद् वर्षाः सुवितं नो अस्तु । तेषाम् ऋतूनां शतशारदानां निवात एषाम् अभये स्याम ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.12",
+    "sanskrit_iast": "idvatsarāya parivatsarāya saṃvatsarāya kṛṇutā bṛhan namaḥ | teṣāṃ vayaṃ sumatau yajñiyānāṃ jyog ajītā ahatā syāma |",
+    "meaning": "इद्वत्सराय परिवत्सराय संवत्सराय कृणुता बृहन् नमः । तेषां वयं सुमतौ यज्ञियानां ज्योग् अजीता अहता स्याम ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.13",
+    "sanskrit_iast": "bhadrān naḥ śreyaḥ samanaiṣṭa devās tvayāvasena samaśīmahi tvā | sa no mayobhūḥ pitav āviśasva śaṃ tokāya tanvai syonaḥ | svāhā |",
+    "meaning": "भद्रान् नः श्रेयः समनैष्ट देवास् त्वयावसेन समशीमहि त्वा । स नो मयोभूः पितव् आविशस्व शं तोकाय तन्वै स्योनः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.14",
+    "sanskrit_iast": "amo 'si prāṇa tad ṛtaṃ bravīmy amā hy asi sarvam anu praviṣṭaḥ | sa me jarāṃ rogam apamṛjya śarīrād apāma edhi mā mṛthā na indra |",
+    "meaning": "अमो ऽसि प्राण तद् ऋतं ब्रवीम्य् अमा ह्य् असि सर्वम् अनु प्रविष्टः । स मे जरां रोगम् अपमृज्य शरीराद् अपाम एधि मा मृथा न इन्द्र ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.15",
+    "sanskrit_iast": "agniḥ prāśnātu prathamaḥ sa hi veda yathā haviḥ | śivā asmabhyam oṣadhīḥ kṛṇotu viśvacarṣaṇiḥ | svāhā |",
+    "meaning": "अग्निः प्राश्नातु प्रथमः स हि वेद यथा हविः । शिवा अस्मभ्यम् ओषधीः कृणोतु विश्वचर्षणिः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.1.16",
+    "sanskrit_iast": "etam u tyaṃ madhunā saṃyutaṃ yavaṃ sarasvatyā adhi manāv acakṛṣuḥ | indra āsīt sīrapatiḥ śatakratuḥ kīnāśā āsan marutaḥ sudānavaḥ | svāhā |",
+    "meaning": "एतम् उ त्यं मधुना संयुतं यवं सरस्वत्या अधि मनाव् अचकृषुः । इन्द्र आसीत् सीरपतिः शतक्रतुः कीनाशा आसन् मरुतः सुदानवः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 1,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.1",
+    "sanskrit_iast": "prathamā ha vyuvāsa sā dhenur abhavad yame | sā naḥ payasvatī duhām uttarāmuttarāṃ samām |",
+    "meaning": "प्रथमा ह व्युवास सा धेनुर् अभवद् यमे । सा नः पयस्वती दुहाम् उत्तरामुत्तरां समाम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.2",
+    "sanskrit_iast": "prati kṣatre pratitiṣṭhāmi rāṣtre praty aśveṣu pratitiṣṭhāmi goṣu | prati prāṇe pratitiṣṭhāmi puṣṭau praty aṅgeṣu pratitiṣṭhāmy ātmani |",
+    "meaning": "प्रति क्षत्रे प्रतितिष्ठामि राष्त्रे प्रत्य् अश्वेषु प्रतितिष्ठामि गोषु । प्रति प्राणे प्रतितिष्ठामि पुष्टौ प्रत्य् अङ्गेषु प्रतितिष्ठाम्य् आत्मनि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.3",
+    "sanskrit_iast": "prati dyāvāpṛthivyoḥ pratitiṣṭhāmi yajñe |",
+    "meaning": "प्रति द्यावापृथिव्योः प्रतितिष्ठामि यज्ञे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.4",
+    "sanskrit_iast": "syonā pṛthivi no bhavā nṛkṣarā niveśanī | yacchā naḥ śarma sapratho devān mā bhayād iti |",
+    "meaning": "स्योना पृथिवि नो भवा नृक्षरा निवेशनी । यच्छा नः शर्म सप्रथो देवान् मा भयाद् इति ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.5",
+    "sanskrit_iast": "yat paśavaḥ pradhyāyata manasā hṛdayena ca | vācā sahasrapāśayā pratibadhnāmi vo manaḥ |",
+    "meaning": "यत् पशवः प्रध्यायत मनसा हृदयेन च । वाचा सहस्रपाशया प्रतिबध्नामि वो मनः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.6",
+    "sanskrit_iast": "anu tvā mātā manyatām anu pitānu bhrātā | sagarbhyo 'nu sakhā sayūthyaḥ |",
+    "meaning": "अनु त्वा माता मन्यताम् अनु पितानु भ्राता । सगर्भ्यो ऽनु सखा सयूथ्यः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.7",
+    "sanskrit_iast": "āttaṃ devebhyo haviḥ |",
+    "meaning": "आत्तं देवेभ्यो हविः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.8",
+    "sanskrit_iast": "yat paśur māyum akṛto ro vā padbhir āhate | agnir mā tasmād enaso viśvān muñcatv aṃhasaḥ |",
+    "meaning": "यत् पशुर् मायुम् अकृतो रो वा पद्भिर् आहते । अग्निर् मा तस्माद् एनसो विश्वान् मुञ्चत्व् अंहसः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.9",
+    "sanskrit_iast": "agnāv agniś carati praviṣṭa ṛṣīṇāṃ putro adhirāja eṣaḥ | sa naḥ syonaḥ suyajā yajāti yathā devānāṃ janimāni veda |",
+    "meaning": "अग्नाव् अग्निश् चरति प्रविष्ट ऋषीणां पुत्रो अधिराज एषः । स नः स्योनः सुयजा यजाति यथा देवानां जनिमानि वेद ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.10",
+    "sanskrit_iast": "aulūkhalāḥ saṃpravadanti grāvāṇo haviṣ kṛṇvantaḥ parivatsarīṇām | ekāṣṭake suprajasaḥ suvīrā jyog jīvema balihṛto vayaṃ te |",
+    "meaning": "औलूखलाः संप्रवदन्ति ग्रावाणो हविष् कृण्वन्तः परिवत्सरीणाम् । एकाष्टके सुप्रजसः सुवीरा ज्योग् जीवेम बलिहृतो वयं ते ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.11",
+    "sanskrit_iast": "iḍāyās padaṃ ghṛtavat sarīsṛpaṃ jātavedaḥ prati havyā gṛbhāya | ye grāmyāḥ paśavo viśvarūpās teṣāṃ saptānāṃ mayi rantir astu |",
+    "meaning": "इडायास् पदं घृतवत् सरीसृपं जातवेदः प्रति हव्या गृभाय । ये ग्राम्याः पशवो विश्वरूपास् तेषां सप्तानां मयि रन्तिर् अस्तु ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.12",
+    "sanskrit_iast": "eṣaiva sā yā pūrvā vyaucchat seyam apsv antaś carati praviṣṭā | vadhūr jigāya prathamā janitrī viśve hy asyāṃ mahimāno antaḥ |",
+    "meaning": "एषैव सा या पूर्वा व्यौच्छत् सेयम् अप्स्व् अन्तश् चरति प्रविष्टा । वधूर् जिगाय प्रथमा जनित्री विश्वे ह्य् अस्यां महिमानो अन्तः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.13",
+    "sanskrit_iast": "eṣaiva sā yā prathamā vyaucchat sā dhenur abhavad viśvarūpā | saṃvatsarasya yā patnī sā no astu sumaṅgalī |",
+    "meaning": "एषैव सा या प्रथमा व्यौच्छत् सा धेनुर् अभवद् विश्वरूपा । संवत्सरस्य या पत्नी सा नो अस्तु सुमङ्गली ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.14",
+    "sanskrit_iast": "yāṃ devāḥ pratipaśyanti rātrīṃ dhenum ivāyatīm | sā naḥ payasvatī duhā uttarāmuttarāṃ samām |",
+    "meaning": "यां देवाः प्रतिपश्यन्ति रात्रीं धेनुम् इवायतीम् । सा नः पयस्वती दुहा उत्तरामुत्तरां समाम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.15",
+    "sanskrit_iast": "saṃvatsarasya pratimāṃ yāṃ tvā rātri yajāmahe | prajām ajaryāṃ naḥ kuru rāyas poṣeṇa saṃsṛja |",
+    "meaning": "संवत्सरस्य प्रतिमां यां त्वा रात्रि यजामहे । प्रजाम् अजर्यां नः कुरु रायस् पोषेण संसृज ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.2.16",
+    "sanskrit_iast": "anv imaṃ no anumatir yajñaṃ deveṣu manyatām | agniś ca havyavāhanaḥ sa no dād dāśuṣe mayaḥ |",
+    "meaning": "अन्व् इमं नो अनुमतिर् यज्ञं देवेषु मन्यताम् । अग्निश् च हव्यवाहनः स नो दाद् दाशुषे मयः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 2,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.1",
+    "sanskrit_iast": "svāhā somāya pitṛmate |",
+    "meaning": "स्वाहा सोमाय पितृमते ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.2",
+    "sanskrit_iast": "svāhāgnaye kavyavāhanāya |",
+    "meaning": "स्वाहाग्नये कव्यवाहनाय ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.3",
+    "sanskrit_iast": "apahatā asurā rakṣāṃsi vediṣadaḥ |",
+    "meaning": "अपहता असुरा रक्षांसि वेदिषदः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.4",
+    "sanskrit_iast": "ye rūpāṇi pratimuñcamānā asurāḥ santaḥ svadhayā caranti | parāpuro nipuro ye bharanty agniṣ ṭāṃl lokāt praṇudatv asmāt |",
+    "meaning": "ये रूपाणि प्रतिमुञ्चमाना असुराः सन्तः स्वधया चरन्ति । परापुरो निपुरो ये भरन्त्य् अग्निष् टांल् लोकात् प्रणुदत्व् अस्मात् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.5",
+    "sanskrit_iast": "eta pitaraḥ somyāso gambhīrebhiḥ pathibhiḥ pūrviṇebhiḥ | dattāsmabhyaṃ draviṇeha bhadraṃ rayiṃ ca naḥ sarvavīraṃ niyacchata |",
+    "meaning": "एत पितरः सोम्यासो गम्भीरेभिः पथिभिः पूर्विणेभिः । दत्तास्मभ्यं द्रविणेह भद्रं रयिं च नः सर्ववीरं नियच्छत ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.6",
+    "sanskrit_iast": "atra pitaro mādayadhvaṃ yathābhāgam āvṛṣāyadhvam |",
+    "meaning": "अत्र पितरो मादयध्वं यथाभागम् आवृषायध्वम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.7",
+    "sanskrit_iast": "amīmadanta pitaro yathābhāgam āvṛṣāyiṣata |",
+    "meaning": "अमीमदन्त पितरो यथाभागम् आवृषायिषत ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.8",
+    "sanskrit_iast": "namo vaḥ pitaro jīvāya namo vaḥ pitaraḥ śūṣāya |",
+    "meaning": "नमो वः पितरो जीवाय नमो वः पितरः शूषाय ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.9",
+    "sanskrit_iast": "namo vaḥ pitaro ghorāya namo vaḥ pitaro rasāya |",
+    "meaning": "नमो वः पितरो घोराय नमो वः पितरो रसाय ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.10",
+    "sanskrit_iast": "namo vaḥ pitaraḥ svadhāyai namo vaḥ pitaro manyave |",
+    "meaning": "नमो वः पितरः स्वधायै नमो वः पितरो मन्यवे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.11",
+    "sanskrit_iast": "namo vaḥ pitaraḥ pitaro namo vaḥ |",
+    "meaning": "नमो वः पितरः पितरो नमो वः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.12",
+    "sanskrit_iast": "gṛhān naḥ pitaro datta |",
+    "meaning": "गृहान् नः पितरो दत्त ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.13",
+    "sanskrit_iast": "sado vaḥ pitaro deṣma |",
+    "meaning": "सदो वः पितरो देष्म ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.14",
+    "sanskrit_iast": "etad vaḥ pitaro vāsaḥ |",
+    "meaning": "एतद् वः पितरो वासः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.15",
+    "sanskrit_iast": "ūrjaṃ vahantīr amṛtaṃ ghṛtaṃ payaḥ kīlālaṃ parisrutaṃ svadhā stha | tarpayata me pitîṛn |",
+    "meaning": "ऊर्जं वहन्तीर् अमृतं घृतं पयः कीलालं परिस्रुतं स्वधा स्थ । तर्पयत मे पित्îऋन् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.16",
+    "sanskrit_iast": "ādhatta pitaro garbhaṃ kumāraṃ puṣkarasrajam | yatheha puruṣaḥ syāt |",
+    "meaning": "आधत्त पितरो गर्भं कुमारं पुष्करस्रजम् । यथेह पुरुषः स्यात् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.17",
+    "sanskrit_iast": "abhūn no dūto haviṣo jātavedā avāḍ ḍhavyāni surabhīṇi kṛtvā | prādāt pitṛbhyaḥ svadhayā te akṣan prajānann agne punar ehi yonim |",
+    "meaning": "अभून् नो दूतो हविषो जातवेदा अवाड् ढव्यानि सुरभीणि कृत्वा । प्रादात् पितृभ्यः स्वधया ते अक्षन् प्रजानन्न् अग्ने पुनर् एहि योनिम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 17,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.18",
+    "sanskrit_iast": "vaha vapāṃ jātavedaḥ pitṛbhyo yatraitān vettha nihitān parācaḥ | medasaḥ kulyā abhi tān sravantu satyā eṣām āśiṣaḥ santu kāmāḥ | svāhā |",
+    "meaning": "वह वपां जातवेदः पितृभ्यो यत्रैतान् वेत्थ निहितान् पराचः । मेदसः कुल्या अभि तान् स्रवन्तु सत्या एषाम् आशिषः सन्तु कामाः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 18,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.19",
+    "sanskrit_iast": "jātavedo vapayā gaccha devāṃs tvaṃ hi hotā prathamo babhūva | satyā vapā pragṛhītā me astu samṛdhyatāṃ me yad idaṃ karomi |",
+    "meaning": "जातवेदो वपया गच्छ देवांस् त्वं हि होता प्रथमो बभूव । सत्या वपा प्रगृहीता मे अस्तु समृध्यतां मे यद् इदं करोमि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 19,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.20",
+    "sanskrit_iast": "yat kusīdam apradattaṃ mayeha yena yamasya nidhinā carāṇi | idaṃ tad agne anṛṇo bhavāmi jīvann eva prati tat te dadāmi |",
+    "meaning": "यत् कुसीदम् अप्रदत्तं मयेह येन यमस्य निधिना चराणि । इदं तद् अग्ने अनृणो भवामि जीवन्न् एव प्रति तत् ते ददामि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 20,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.3.21",
+    "sanskrit_iast": "ekāṣṭakā tapasā tapyamānā jajāna garbhaṃ mahimānam indram | tena devā asahanta śatrūn hantāsurāṇām abhavac chacībhiḥ |",
+    "meaning": "एकाष्टका तपसा तप्यमाना जजान गर्भं महिमानम् इन्द्रम् । तेन देवा असहन्त शत्रून् हन्तासुराणाम् अभवच् छचीभिः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 3,
+    "verse": 21,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.1",
+    "sanskrit_iast": "idaṃ bhūmer bhajāmaha idaṃ bhadraṃ sumaṅgalam | parā sapatnān bādhasvā nyeṣāṃ vindate dhanam anyeṣāṃ vindate vasu |",
+    "meaning": "इदं भूमेर् भजामह इदं भद्रं सुमङ्गलम् । परा सपत्नान् बाधस्वा न्येषां विन्दते धनम् अन्येषां विन्दते वसु ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.2",
+    "sanskrit_iast": "imaṃ stomam arhate jātavedase ratham iva saṃmahemā manīṣayā | bhadrā hi naḥ pramatir asya saṃsady agne sakhye mā riṣāmā vayaṃ tava |",
+    "meaning": "इमं स्तोमम् अर्हते जातवेदसे रथम् इव संमहेमा मनीषया । भद्रा हि नः प्रमतिर् अस्य संसद्य् अग्ने सख्ये मा रिषामा वयं तव ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.3",
+    "sanskrit_iast": "bharāmedhmaṃ kṛṇavāmā havīṃṣi te citayantaḥ parvaṇāparvaṇā vayam | jīvātave pratarāṃ sādhayā dhiyo 'gne sakhye mā riṣāmā vayaṃ tava |",
+    "meaning": "भरामेध्मं कृणवामा हवींषि ते चितयन्तः पर्वणापर्वणा वयम् । जीवातवे प्रतरां साधया धियो ऽग्ने सख्ये मा रिषामा वयं तव ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.4",
+    "sanskrit_iast": "śakema tvā samidhaṃ sādhayā dhiyas tve devā havir adanty āhutam | tvam ādityāṃ āvaha tāṃ hy uśmasy agne sakhye mā riṣāmā vayaṃ tava |",
+    "meaning": "शकेम त्वा समिधं साधया धियस् त्वे देवा हविर् अदन्त्य् आहुतम् । त्वम् आदित्यां आवह तां ह्य् उश्मस्य् अग्ने सख्ये मा रिषामा वयं तव ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.5",
+    "sanskrit_iast": "tapaś ca tejaś ca śraddhā ca hrīś ca satyaṃ cā krodhaś ca tyāgaś ca dhṛtiś ca dharmaś ca satvaṃ ca vāk ca manaś cātmā ca brahma ca tāni prapadye tani mām avantu | bhūr bhuvaḥ svar oṃ mahāntam ātmānaṃ prapadye |",
+    "meaning": "तपश् च तेजश् च श्रद्धा च ह्रीश् च सत्यं चा क्रोधश् च त्यागश् च धृतिश् च धर्मश् च सत्वं च वाक् च मनश् चात्मा च ब्रह्म च तानि प्रपद्ये तनि माम् अवन्तु । भूर् भुवः स्वर् ओं महान्तम् आत्मानं प्रपद्ये ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.6",
+    "sanskrit_iast": "virūpākṣo 'si dantāñjiḥ | tasya te śayyā parṇe gṛhā antarikṣe vimitaṃ hiraṇmayam | tad devānāṃ hṛdayāny ayasmaye kumbhe 'ntaḥ saṃnihitāni | tāni balabhṛc ca balasāc ca rakṣato 'pramaṇī animiṣataḥ satyam | yat te dvādaśa putrās te tvā saṃvatsaresaṃvatsare kāmapreṇa yajñena yājayitvā punar brahmacaryam upayanti | tvaṃ deveṣu brāhmaṇo 'sy ahaṃ manuṣyeṣu brāhmaṇo vai brāhmaṇam upadhāvaty upa tvā dhāvāmi | japantaṃ mā mā pratijāpīr juhvantaṃ mā mā pratihauṣīḥ kurvantaṃ mā mā pratikārṣīḥ | tvāṃ prapadye tvayā prasūta idaṃ karma kariṣyāmi tan me rādhyatāṃ tan me samṛdhyatāṃ tan ma upapadyatām | samudro mā viśvavyacā brahmānujānātu tutho mā viśvavedā brahmaṇaḥ putro 'nujānātu śvātro mā pracetā maitrāvaruṇo 'nujānātu | tasmai virūpākṣāya dantāñjaye samudrāya viśvavyacase tuthāya viśvavedase śvātrāya pracetase sahasrākṣāya brahmaṇaḥ putrāya namaḥ |",
+    "meaning": "विरूपाक्षो ऽसि दन्ताञ्जिः । तस्य ते शय्या पर्णे गृहा अन्तरिक्षे विमितं हिरण्मयम् । तद् देवानां हृदयान्य् अयस्मये कुम्भे ऽन्तः संनिहितानि । तानि बलभृच् च बलसाच् च रक्षतो ऽप्रमणी अनिमिषतः सत्यम् । यत् ते द्वादश पुत्रास् ते त्वा संवत्सरेसंवत्सरे कामप्रेण यज्ञेन याजयित्वा पुनर् ब्रह्मचर्यम् उपयन्ति । त्वं देवेषु ब्राह्मणो ऽस्य् अहं मनुष्येषु ब्राह्मणो वै ब्राह्मणम् उपधावत्य् उप त्वा धावामि । जपन्तं मा मा प्रतिजापीर् जुह्वन्तं मा मा प्रतिहौषीः कुर्वन्तं मा मा प्रतिकार्षीः । त्वां प्रपद्ये त्वया प्रसूत इदं कर्म करिष्यामि तन् मे राध्यतां तन् मे समृध्यतां तन् म उपपद्यताम् । समुद्रो मा विश्वव्यचा ब्रह्मानुजानातु तुथो मा विश्ववेदा ब्रह्मणः पुत्रो ऽनुजानातु श्वात्रो मा प्रचेता मैत्रावरुणो ऽनुजानातु । तस्मै विरूपाक्षाय दन्ताञ्जये समुद्राय विश्वव्यचसे तुथाय विश्ववेदसे श्वात्राय प्रचेतसे सहस्राक्षाय ब्रह्मणः पुत्राय नमः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.7",
+    "sanskrit_iast": "sahasrabāhur gaupatyaḥ sa paśūn abhirakṣatu | mayi puṣṭiṃ puṣṭipatir dadhātu mayi prajāṃ prajāpatiḥ | svāhā |",
+    "meaning": "सहस्रबाहुर् गौपत्यः स पशून् अभिरक्षतु । मयि पुष्टिं पुष्टिपतिर् दधातु मयि प्रजां प्रजापतिः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.8",
+    "sanskrit_iast": "kautomataṃ saṃvananaṃ subhāgaṃkaraṇaṃ mama | nākulī nāma te mātā thāhaṃ puruṣāmayaḥ | yan nau kāmasya vicchinnaṃ tan nau saṃdhehy oṣadhe |",
+    "meaning": "कौतोमतं संवननं सुभागंकरणं मम । नाकुली नाम ते माता थाहं पुरुषामयः । यन् नौ कामस्य विच्छिन्नं तन् नौ संधेह्य् ओषधे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.9",
+    "sanskrit_iast": "vṛkṣa iva pakvas tiṣṭhasi sarvān kāmān bhuvaspate | yas tvainaṃ veda tasmai me bhogān dhukṣvākṣatān bṛhan |",
+    "meaning": "वृक्ष इव पक्वस् तिष्ठसि सर्वान् कामान् भुवस्पते । यस् त्वैनं वेद तस्मै मे भोगान् धुक्ष्वाक्षतान् बृहन् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.10",
+    "sanskrit_iast": "ṛtaṃ satye pratiṣṭhitaṃ bhūtaṃ bhaviṣyatā saha | ākāśa upanirajjatu mahyam annam atho śriyam |",
+    "meaning": "ऋतं सत्ये प्रतिष्ठितं भूतं भविष्यता सह । आकाश उपनिरज्जतु मह्यम् अन्नम् अथो श्रियम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.11",
+    "sanskrit_iast": "abhibhāgo 'si sarvasmiṃs tad u sarvaṃ tvayi śritam | tena sarveṇa sarvo mā vivāsana vivāsaya |",
+    "meaning": "अभिभागो ऽसि सर्वस्मिंस् तद् उ सर्वं त्वयि श्रितम् । तेन सर्वेण सर्वो मा विवासन विवासय ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.12",
+    "sanskrit_iast": "kośa iva pūrṇo vasunā tvaṃ prīto dadase dhanam | adṛṣṭo dṛṣṭam ābhara sarvān kāmān prayaccha me |",
+    "meaning": "कोश इव पूर्णो वसुना त्वं प्रीतो ददसे धनम् । अदृष्टो दृष्टम् आभर सर्वान् कामान् प्रयच्छ मे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.13",
+    "sanskrit_iast": "ākāśasyaiṣa ākāśo yad etad bhāti maṇḍalam | evaṃ tvā deva yo vede śāneśāṃ prayaccha me |",
+    "meaning": "आकाशस्यैष आकाशो यद् एतद् भाति मण्डलम् । एवं त्वा देव यो वेदे शानेशां प्रयच्छ मे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.4.14",
+    "sanskrit_iast": "bhūr bhuvaḥ svar oṃ sūrya iva dṛśe bhūyāsam agnir iva tejasā vāyur iva prāṇena soma iva gandhena bṛhaspatir iva buddhyā śvināv iva rūpeṇendrāgnī iva balena brahmabhāga evāhaṃ bhūyāsaṃ pāpmabhāgā me dviṣantaḥ |",
+    "meaning": "भूर् भुवः स्वर् ओं सूर्य इव दृशे भूयासम् अग्निर् इव तेजसा वायुर् इव प्राणेन सोम इव गन्धेन बृहस्पतिर् इव बुद्ध्या श्विनाव् इव रूपेणेन्द्राग्नी इव बलेन ब्रह्मभाग एवाहं भूयासं पाप्मभागा मे द्विषन्तः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 4,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.1",
+    "sanskrit_iast": "mūrdhno 'dhi me vaiśravaṇāñ chiraso 'nupraveśinaḥ | lalāṭād ghasvarān ghorān vighanān vibṛhāmi vaḥ | svāhā |",
+    "meaning": "मूर्ध्नो ऽधि मे वैश्रवणाञ् छिरसो ऽनुप्रवेशिनः । ललाटाद् घस्वरान् घोरान् विघनान् विबृहामि वः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.2",
+    "sanskrit_iast": "grīvābhyo me skandhābhyāṃ me nasto me 'nupraveśinaḥ | mukhān me vadvadān ghorān vighanān vibṛhāmi vaḥ | svāhā |",
+    "meaning": "ग्रीवाभ्यो मे स्कन्धाभ्यां मे नस्तो मे ऽनुप्रवेशिनः । मुखान् मे वद्वदान् घोरान् विघनान् विबृहामि वः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.3",
+    "sanskrit_iast": "bāhubhyāṃ me yatoyataḥ pārśvayor udbhaṭān adhi | uraso vadvadān ghorān vighanān vibṛhāmi vaḥ | svāhā |",
+    "meaning": "बाहुभ्यां मे यतोयतः पार्श्वयोर् उद्भटान् अधि । उरसो वद्वदान् घोरान् विघनान् विबृहामि वः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.4",
+    "sanskrit_iast": "vaṅkṣṇābhyo me lohitādān yonihān pajrihān adhi | ūrubhyāṃ niśriṣo ghorān vighanān vibṛhāmi vaḥ | svāhā |",
+    "meaning": "वङ्क्ष्णाभ्यो मे लोहितादान् योनिहान् पज्रिहान् अधि । ऊरुभ्यां निश्रिषो घोरान् विघनान् विबृहामि वः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.5",
+    "sanskrit_iast": "jaṅgābhyāṃ me yatoyataḥ pārṣṇyor udbhaṭān adhi | pādayor vikirān ghorān vighanān vibṛhāmi vaḥ | svāhā |",
+    "meaning": "जङ्गाभ्यां मे यतोयतः पार्ष्ण्योर् उद्भटान् अधि । पादयोर् विकिरान् घोरान् विघनान् विबृहामि वः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.6",
+    "sanskrit_iast": "paribādhnaṃ yajāmahe 'ṇujaṅghaṃ śabalodaram | yo no 'yaṃ paribādhate dānāya ca bhagāya ca | svāhā |",
+    "meaning": "परिबाध्नं यजामहे ऽणुजङ्घं शबलोदरम् । यो नो ऽयं परिबाधते दानाय च भगाय च । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.7",
+    "sanskrit_iast": "apehi tvaṃ paribādha mā vibādha vibādhathāḥ | sugaṃ panthānaṃ me kuru yena mā dhanam eṣyati | svāhā |",
+    "meaning": "अपेहि त्वं परिबाध मा विबाध विबाधथाः । सुगं पन्थानं मे कुरु येन मा धनम् एष्यति । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.8",
+    "sanskrit_iast": "prajāpate na tvad etāny anyo viśvā jātāni pari tā babhūva | yatkāmās te juhumas tan no astu vayaṃ syāma patayo rayīṇām | svāhā |",
+    "meaning": "प्रजापते न त्वद् एतान्य् अन्यो विश्वा जातानि परि ता बभूव । यत्कामास् ते जुहुमस् तन् नो अस्तु वयं स्याम पतयो रयीणाम् । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.9",
+    "sanskrit_iast": "yaśo 'haṃ bhavāmi brāhmaṇānāṃ yaśo rājñāṃ yaśo viśāṃ yaśaḥ satyasya bhavāmi bhavāmi yaśaso yaśaḥ |",
+    "meaning": "यशो ऽहं भवामि ब्राह्मणानां यशो राज्ञां यशो विशां यशः सत्यस्य भवामि भवामि यशसो यशः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.10",
+    "sanskrit_iast": "punar mā yantu devatā yā mad apacakramur mahasvanto mahānto bhavāmy asmin pātre harite somapṛṣṭhe |",
+    "meaning": "पुनर् मा यन्तु देवता या मद् अपचक्रमुर् महस्वन्तो महान्तो भवाम्य् अस्मिन् पात्रे हरिते सोमपृष्ठे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.11",
+    "sanskrit_iast": "rūpa rūpaṃ me diśa prātarahnasya tejaso 'nnam ugrasya prāśiṣam astu vai mayi tvayīdam astu tvayi mayīdam |",
+    "meaning": "रूप रूपं मे दिश प्रातरह्नस्य तेजसो ऽन्नम् उग्रस्य प्राशिषम् अस्तु वै मयि त्वयीदम् अस्तु त्वयि मयीदम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.12",
+    "sanskrit_iast": "yad idaṃ paśyāmi cakṣuṣā tvayā dattaṃ prabhāsayā tena mā bhuñja tena bhukṣiṣīya tena mā viśa |",
+    "meaning": "यद् इदं पश्यामि चक्षुषा त्वया दत्तं प्रभासया तेन मा भुञ्ज तेन भुक्षिषीय तेन मा विश ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.13",
+    "sanskrit_iast": "ahar no atyapīparad rātrir no atipārayad rātrir no atyapīparad ahar no atipārayat |",
+    "meaning": "अहर् नो अत्यपीपरद् रात्रिर् नो अतिपारयद् रात्रिर् नो अत्यपीपरद् अहर् नो अतिपारयत् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.14",
+    "sanskrit_iast": "āditya nāvam ārokṣaṃ pūrṇām aparipādinīm | acchidrāṃ pārayiṣṇvīṃ śatāritrāṃ svastaye |",
+    "meaning": "आदित्य नावम् आरोक्षं पूर्णाम् अपरिपादिनीम् । अच्छिद्रां पारयिष्ण्वीं शतारित्रां स्वस्तये ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.15",
+    "sanskrit_iast": "bhalāya svāhā |",
+    "meaning": "भलाय स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.5.16",
+    "sanskrit_iast": "bhallāya svāhā |",
+    "meaning": "भल्लाय स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 5,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.1",
+    "sanskrit_iast": "vāstoṣpate pratijānīhy asmān svāveśo anamīvo bhavā naḥ | yat tvemahe prati tan no juṣasva śaṃ no bhava dvipade śaṃ catuṣpade |",
+    "meaning": "वास्तोष्पते प्रतिजानीह्य् अस्मान् स्वावेशो अनमीवो भवा नः । यत् त्वेमहे प्रति तन् नो जुषस्व शं नो भव द्विपदे शं चतुष्पदे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.2",
+    "sanskrit_iast": "haye rāke sinīvali sinīvali pṛthuṣṭuke | subhadre pathye revati pathā no yaśa āvaha | svāhā |",
+    "meaning": "हये राके सिनीवलि सिनीवलि पृथुष्टुके । सुभद्रे पथ्ये रेवति पथा नो यश आवह । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.3",
+    "sanskrit_iast": "ye yanti prāñcaḥ panthāno ya u cottarata āyayuḥ | ye ceme sarve panthānas tebhir no yaśa āvaha | svāhā |",
+    "meaning": "ये यन्ति प्राञ्चः पन्थानो य उ चोत्तरत आययुः । ये चेमे सर्वे पन्थानस् तेभिर् नो यश आवह । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.4",
+    "sanskrit_iast": "yathā yanti prapado yathā māsā aharjaram | evaṃ mā śrīdhātāraḥ samavayantu sarvataḥ | svāhā |",
+    "meaning": "यथा यन्ति प्रपदो यथा मासा अहर्जरम् । एवं मा श्रीधातारः समवयन्तु सर्वतः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.5",
+    "sanskrit_iast": "yathā samudraṃ sravantīḥ samavayanti diśodiśaḥ | evaṃ mā sakhāyo brahmacāriṇaḥ samavayantu diśodiśaḥ | svāhā |",
+    "meaning": "यथा समुद्रं स्रवन्तीः समवयन्ति दिशोदिशः । एवं मा सखायो ब्रह्मचारिणः समवयन्तु दिशोदिशः । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.6",
+    "sanskrit_iast": "vasuvana edhi vasuvana edhi vasuvana edhi |",
+    "meaning": "वसुवन एधि वसुवन एधि वसुवन एधि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.7",
+    "sanskrit_iast": "vaśaṃgamau devayānau yuvaṃ stho yathā yuvayoḥ sarvāṇi bhūtāni vaśam āyanty evaṃ mamāsau vaśam etu | svāhā |",
+    "meaning": "वशंगमौ देवयानौ युवं स्थो यथा युवयोः सर्वाणि भूतानि वशम् आयन्त्य् एवं ममासौ वशम् एतु । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.8",
+    "sanskrit_iast": "śaṅkhaś ca manaāyuś ca devayānau yuvaṃ stho yathā yuvayoḥ sarvāṇi bhūtāni vaśam āyanty evaṃ mamāsau vaśam etu | svāhā |",
+    "meaning": "शङ्खश् च मनआयुश् च देवयानौ युवं स्थो यथा युवयोः सर्वाणि भूतानि वशम् आयन्त्य् एवं ममासौ वशम् एतु । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.9",
+    "sanskrit_iast": "ākūtīṃ devīṃ manasā prapadye yajñasya mātaraṃ suhavā me astu | yasyās ta ekam akṣaraṃ paraṃ sahasrā ayutaṃ ca śākhās tasyai vāce nihave juhomy ā mā varo gacchatu śrīr yaśaś ca | svāhā |",
+    "meaning": "आकूतीं देवीं मनसा प्रपद्ये यज्ञस्य मातरं सुहवा मे अस्तु । यस्यास् त एकम् अक्षरं परं सहस्रा अयुतं च शाखास् तस्यै वाचे निहवे जुहोम्य् आ मा वरो गच्छतु श्रीर् यशश् च । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.10",
+    "sanskrit_iast": "idam aham imaṃ viśvakarmāṇaṃ śrīvatsam abhijuhomi | svāhā |",
+    "meaning": "इदम् अहम् इमं विश्वकर्माणं श्रीवत्सम् अभिजुहोमि । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.11",
+    "sanskrit_iast": "pūrṇahomaṃ yaśase juhomi yo 'smai juhoti varam asmai dadāti varaṃ vṛṇe yaśasā bhāmi loke | svāhā |",
+    "meaning": "पूर्णहोमं यशसे जुहोमि यो ऽस्मै जुहोति वरम् अस्मै ददाति वरं वृणे यशसा भामि लोके । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.12",
+    "sanskrit_iast": "indrāmavadāt tamo vaḥ purastād ahaṃ vo jyotir mām abhyeta sarve | svāhā |",
+    "meaning": "इन्द्रामवदात् तमो वः पुरस्ताद् अहं वो ज्योतिर् माम् अभ्येत सर्वे । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.13",
+    "sanskrit_iast": "annaṃ vā ekacchandasyam annaṃ hy ekaṃ bhūtebhyaś chandayati | svāhā |",
+    "meaning": "अन्नं वा एकच्छन्दस्यम् अन्नं ह्य् एकं भूतेभ्यश् छन्दयति । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.14",
+    "sanskrit_iast": "śrīr vā eṣā yat satvāno virocano mayi sattvam avadadhātu | svāhā |",
+    "meaning": "श्रीर् वा एषा यत् सत्वानो विरोचनो मयि सत्त्वम् अवदधातु । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.15",
+    "sanskrit_iast": "annasya ghṛtam eva rasas tejaḥsaṃpatkāmo juhomi | svāhā |",
+    "meaning": "अन्नस्य घृतम् एव रसस् तेजःसंपत्कामो जुहोमि । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 15,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.16",
+    "sanskrit_iast": "kṣudhe svāhā |",
+    "meaning": "क्षुधे स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 16,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.17",
+    "sanskrit_iast": "kṣutpipāsābhyāṃ svāhā |",
+    "meaning": "क्षुत्पिपासाभ्यां स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 17,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.18",
+    "sanskrit_iast": "mā bhaiṣīr na mariṣyasi jaradaṣṭir bhaviṣyasi | rasaṃ viṣasya nāvidam ugrasphenam ivāsyam |",
+    "meaning": "मा भैषीर् न मरिष्यसि जरदष्टिर् भविष्यसि । रसं विषस्य नाविदम् उग्रस्फेनम् इवास्यम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 18,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.6.19",
+    "sanskrit_iast": "tura gopāya mā nātha gopāya mā śastibhyo 'rātibhyaḥ svastyayanam asi |",
+    "meaning": "तुर गोपाय मा नाथ गोपाय मा शस्तिभ्यो ऽरातिभ्यः स्वस्त्ययनम् असि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 6,
+    "verse": 19,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.7.1",
+    "sanskrit_iast": "hatas te atriṇā kṛmir hatas te jamadagninā | gotamena tṛṇīkṛto 'traiva tvā kṛme brahmavadyam avadyam |",
+    "meaning": "हतस् ते अत्रिणा कृमिर् हतस् ते जमदग्निना । गोतमेन तृणीकृतो ऽत्रैव त्वा कृमे ब्रह्मवद्यम् अवद्यम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.7.2",
+    "sanskrit_iast": "bharadvājasya mantreṇa saṃtṛṇomi kṛme tvā |",
+    "meaning": "भरद्वाजस्य मन्त्रेण संतृणोमि कृमे त्वा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.7.3",
+    "sanskrit_iast": "kṛmiṃ ha vakratodinaṃ kṛmim āntrānucāriṇam | kṛmiṃ dviśīrṣam arjunaṃ dviśīrṣaṃ ha caturhanum |",
+    "meaning": "कृमिं ह वक्रतोदिनं कृमिम् आन्त्रानुचारिणम् । कृमिं द्विशीर्षम् अर्जुनं द्विशीर्षं ह चतुर्हनुम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.7.4",
+    "sanskrit_iast": "hataḥ kṛmīṇāṃ kṣudrako hatā mātā hataḥ pitā | athaiṣāṃ bhinnakaḥ kumbho ya eṣāṃ viṣadhānakaḥ |",
+    "meaning": "हतः कृमीणां क्षुद्रको हता माता हतः पिता । अथैषां भिन्नकः कुम्भो य एषां विषधानकः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.7.5",
+    "sanskrit_iast": "kṛmim indrasya bāhubhyām avāñcaṃ pātayāmasi |",
+    "meaning": "कृमिम् इन्द्रस्य बाहुभ्याम् अवाञ्चं पातयामसि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.7.6",
+    "sanskrit_iast": "hatāḥ kṛmayaḥ sāśātikāḥ sanīlamakṣikāḥ |",
+    "meaning": "हताः कृमयः साशातिकाः सनीलमक्षिकाः ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 7,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.1",
+    "sanskrit_iast": "arhaṇā putravāsa sā dhenur abhavad yame | sā naḥ payasvatī duhā uttarāmuttarāṃ samām |",
+    "meaning": "अर्हणा पुत्रवास सा धेनुर् अभवद् यमे । सा नः पयस्वती दुहा उत्तरामुत्तरां समाम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 1,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.2",
+    "sanskrit_iast": "idam aham imāṃ padyāṃ virājam annādyāyādhitiṣṭhāmi |",
+    "meaning": "इदम् अहम् इमां पद्यां विराजम् अन्नाद्यायाधितिष्ठामि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 2,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.3",
+    "sanskrit_iast": "yā oṣadhīḥ somarājñīr bahvīḥ śatavicakṣaṇāḥ | tā mahyam asminn āsane acchidrāḥ śarma yacchata |",
+    "meaning": "या ओषधीः सोमराज्ञीर् बह्वीः शतविचक्षणाः । ता मह्यम् अस्मिन्न् आसने अच्छिद्राः शर्म यच्छत ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 3,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.4",
+    "sanskrit_iast": "yā oṣadhīḥ somarājñīr viṣṭhitāḥ pṛthivīm anu | tā mahyam asminn āsane acchidrāḥ śarma yacchata |",
+    "meaning": "या ओषधीः सोमराज्ञीर् विष्ठिताः पृथिवीम् अनु । ता मह्यम् अस्मिन्न् आसने अच्छिद्राः शर्म यच्छत ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 4,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.5",
+    "sanskrit_iast": "yato devīḥ pratipaśyāmy āpas tato mā rāddhir āgacchatu |",
+    "meaning": "यतो देवीः प्रतिपश्याम्य् आपस् ततो मा राद्धिर् आगच्छतु ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 5,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.6",
+    "sanskrit_iast": "savyaṃ pādam avanenije 'smin rāṣṭre śriyaṃ dadhe |",
+    "meaning": "सव्यं पादम् अवनेनिजे ऽस्मिन् राष्ट्रे श्रियं दधे ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 6,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.7",
+    "sanskrit_iast": "dakṣiṇaṃ pādam avanenije 'smin rāṣṭre śriyam āveśayāmi |",
+    "meaning": "दक्षिणं पादम् अवनेनिजे ऽस्मिन् राष्ट्रे श्रियम् आवेशयामि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 7,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.8",
+    "sanskrit_iast": "pūrvam anyam aparam anyam ubhau pādāv avanenije rāṣṭrasya rddhyā abhayasyāvaruddhyai |",
+    "meaning": "पूर्वम् अन्यम् अपरम् अन्यम् उभौ पादाव् अवनेनिजे राष्ट्रस्य र्द्ध्या अभयस्यावरुद्ध्यै ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 8,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.9",
+    "sanskrit_iast": "annasya rāṣṭrir asi rāṣṭrir ahaṃ bhūyāsam |",
+    "meaning": "अन्नस्य राष्ट्रिर् असि राष्ट्रिर् अहं भूयासम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 9,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.10",
+    "sanskrit_iast": "yaśo 'si yaśo mayi dhehi |",
+    "meaning": "यशो ऽसि यशो मयि धेहि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 10,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.11",
+    "sanskrit_iast": "yaśaso yaśo 'si |",
+    "meaning": "यशसो यशो ऽसि ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 11,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.12",
+    "sanskrit_iast": "yaśaso bhakṣo 'si mahaso bhakṣo 'si śrībhakṣo 'si śriyaṃ mayi dhehi | svāhā |",
+    "meaning": "यशसो भक्षो ऽसि महसो भक्षो ऽसि श्रीभक्षो ऽसि श्रियं मयि धेहि । स्वाहा ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 12,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.13",
+    "sanskrit_iast": "muñca gāṃ varuṇa pāśād dviṣantaṃ me 'bhidhehi taṃ jahy amuṣya cobhayor utsṛja gām attu tṛṇāni pibatūdakam |",
+    "meaning": "मुञ्च गां वरुण पाशाद् द्विषन्तं मे ऽभिधेहि तं जह्य् अमुष्य चोभयोर् उत्सृज गाम् अत्तु तृणानि पिबतूदकम् ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 13,
+    "vedaId": "mantra_brahmana"
+  },
+  {
+    "reference": "2.8.14",
+    "sanskrit_iast": "mātā rudrānāṃ duhitā vasūnāṃ svasādityānām amṛtasya nābhiḥ | pra ṇu vocaṃ cikituṣe janāya mā gām anāgām aditiṃ vadhiṣṭa |",
+    "meaning": "माता रुद्रानां दुहिता वसूनां स्वसादित्यानाम् अमृतस्य नाभिः । प्र णु वोचं चिकितुषे जनाय मा गाम् अनागाम् अदितिं वधिष्ट ।",
+    "text": "",
+    "mandala": 2,
+    "hymn": 8,
+    "verse": 14,
+    "vedaId": "mantra_brahmana"
+  }
+]
