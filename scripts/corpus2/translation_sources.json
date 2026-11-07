@@ -1,0 +1,1635 @@
+{
+  "brahma_sutra": {
+    "english": {
+      "by": "G. Thibaut",
+      "work": "The Vedânta-Sûtras with the Commentary by Saṅkarâkârya, Parts I–II, Sacred Books of the East vols. 34, 38, Oxford: Clarendon Press, 1890–1896",
+      "year": "1890–96",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe34/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.vedanta.brahmasutra-works.brahmasutra!sankara~en-thibaut"
+      }
+    }
+  },
+  "yoga_sutra": {
+    "english": {
+      "by": "Swami Vivekananda",
+      "work": "Raja Yoga, or Conquering the Internal Nature, London: Longmans, Green & Co., 1896 (text of The Complete Works, vol. 1)",
+      "year": "1896",
+      "links": [
+        {
+          "label": "en.wikisource.org",
+          "url": "https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_1/Raja-Yoga"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.yoga.yogasutra~en-vivekananda"
+      }
+    }
+  },
+  "nyaya_sutra": {
+    "english": {
+      "by": "Ganganatha Jha",
+      "work": "The Nyāya-Sūtras of Gauṭama, with the Bhāṣya of Vātsyāyana and the Vārṭika of Uḍḍyoṭakara, Indian Thought, Allahabad, 1912–1919",
+      "year": "1912–19",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/nyaya-sutras-of-gautama-with-commentaries"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.nyaya.pracina.nyayasutra!vatsyayana~en-jha"
+      }
+    }
+  },
+  "vaisesika_sutra": {
+    "english": {
+      "by": "Nandalal Sinha",
+      "work": "The Vaiśeṣika Sūtras of Kaṇāda, Sacred Books of the Hindus 6, Allahabad: Pāṇini Office, 1911",
+      "year": "1911",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.vaisesika.vaisesikasutra~en-sinha"
+      }
+    }
+  },
+  "samkhya_sutra": {
+    "english": {
+      "by": "J. R. Ballantyne",
+      "work": "The Sánkhya Aphorisms of Kapila, with illustrative extracts from the commentaries, 3rd ed. by Fitzedward Hall, London: Trübner, 1885",
+      "year": "1885",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sak/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.samkhya.samkhyasutra~en-ballantyne"
+      }
+    }
+  },
+  "bhagavad_gita": {
+    "english": {
+      "by": "K. T. Telang",
+      "work": "The Bhagavadgîtâ with the Sanatsugâtîya and the Anugîtâ, Sacred Books of the East vol. 8, Oxford: Clarendon Press, 1882",
+      "year": "1882",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe08/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.all.gita~en-telang"
+      }
+    }
+  },
+  "adhyatma_ramayana": {
+    "english": {
+      "by": "Rai Bahadur Lala Baij Nath",
+      "work": "The Adhyatma Ramayana, Sacred Books of the Hindus extra vol. 1, Allahabad: Pāṇini Office, 1913",
+      "year": "1913",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/TheAdhyatmaRamayana"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.ramayana.upajivya.adhyatma~en-baijnath"
+      }
+    }
+  },
+  "yoga_vasistha": {
+    "english": {
+      "by": "Vihari-Lala Mitra",
+      "work": "The Yoga-Vásishtha-Mahárámáyana of Válmiki, 4 vols. in 7, Calcutta: Bonnerjee and Co., 1891–1899",
+      "year": "1891–99",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/yoga-vasistha-english"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.ramayana.upajivya.yogavasistha~en-mitra"
+      }
+    }
+  },
+  "devi_bhagavata_purana": {
+    "english": {
+      "by": "Swami Vijñānānanda (Hari Prasanna Chatterji)",
+      "work": "The Srimad Devi Bhagavatam, Sacred Books of the Hindus 26, Allahabad: Panini Office, 1921–1922",
+      "year": "1921–23",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/db/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.upa.sakta.devibhagavata~en-vijnanananda"
+      }
+    }
+  },
+  "brhaddharma_purana": {
+    "english": {
+      "by": "Syama Charan Banerji",
+      "work": "The Brihaddharma Purana, abridged translation, 1915",
+      "year": "1915",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/brihaddharma-purana-abridged"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.upa.sakta.brhaddharma~en-banerji"
+      }
+    }
+  },
+  "garuda_saroddhara": {
+    "english": {
+      "by": "Ernest Wood and S. V. Subrahmanyam",
+      "work": "The Garuda Purana (Sāroddhāra), Sacred Books of the Hindus 9, Allahabad: Panini Office, 1911",
+      "year": "1911",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/gpu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.garudasaroddhara~en-wood-subrahmanyam"
+      }
+    }
+  },
+  "narada_smrti": {
+    "english": {
+      "by": "J. Jolly",
+      "work": "The Minor Law-Books, Part I: Nârada, Brihaspati, Sacred Books of the East vol. 33, Oxford: Clarendon Press, 1889",
+      "year": "1889",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe33/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.niti.dharma.narada~en-jolly"
+      }
+    }
+  },
+  "visnu_smrti": {
+    "english": {
+      "by": "J. Jolly",
+      "work": "The Institutes of Vishnu, Sacred Books of the East vol. 7, Oxford: Clarendon Press, 1880",
+      "year": "1880",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe07/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.niti.dharma.visnu~en-jolly"
+      }
+    }
+  },
+  "brhaspati_smrti": {
+    "english": {
+      "by": "J. Jolly",
+      "work": "The Minor Law-Books, Part I: Nârada, Brihaspati, Sacred Books of the East vol. 33, Oxford: Clarendon Press, 1889",
+      "year": "1889",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe33/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.niti.dharma.uddhrta.brhaspati~en-jolly"
+      }
+    }
+  },
+  "hathapradipika": {
+    "english": {
+      "by": "Pancham Sinh",
+      "work": "The Hatha Yoga Pradipika, Allahabad: Panini Office (Sacred Books of the Hindus), 1915",
+      "year": "1915",
+      "links": [
+        {
+          "label": "en.wikisource.org",
+          "url": "https://en.wikisource.org/wiki/Hatha_Yoga_Pradipika"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.trika.natha.hathayoga.nibandha.hathapradipika~en-sinh"
+      }
+    }
+  },
+  "arthasastra": {
+    "english": {
+      "by": "R. Shamasastry",
+      "work": "Kautilya's Arthashastra, Bangalore: Government Press, 1915",
+      "year": "1915",
+      "links": [
+        {
+          "label": "en.wikisource.org",
+          "url": "https://en.wikisource.org/wiki/Arthashastra"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.niti.artha.kautilya~en-shamasastry"
+      }
+    }
+  },
+  "caraka_samhita": {
+    "english": {
+      "by": "Avinash Chandra Kaviratna",
+      "work": "Charaka-Samhita, translated into English, Calcutta, 1890–1925 (51 parts)",
+      "year": "1890–1925",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/BIUSante_47357"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.med.samhita.caraka~en-kaviratna"
+      }
+    }
+  },
+  "susruta_samhita": {
+    "english": {
+      "by": "K. K. Bhishagratna",
+      "work": "An English Translation of the Sushruta Samhita, based on original Sanskrit text, 3 vols., Calcutta, 1907–1916",
+      "year": "1907–16",
+      "links": [
+        {
+          "label": "Wikisource, vol. 1",
+          "url": "https://en.wikisource.org/wiki/Sushruta_Samhita,_Volume_1/Chapter_1"
+        },
+        {
+          "label": "Wikisource, vol. 3",
+          "url": "https://en.wikisource.org/wiki/Sushruta_Samhita,_Volume_3/Chapter_1"
+        },
+        {
+          "label": "Internet Archive scan, vol. 1",
+          "url": "https://archive.org/details/englishtranslati01susruoft"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.med.samhita.susruta-school.susruta~en-bhishagratna"
+      }
+    }
+  },
+  "suryasiddhanta": {
+    "english": {
+      "by": "E. Burgess",
+      "work": "with W. D. Whitney, Translation of the Sûrya-Siddhânta, Journal of the American Oriental Society 6, New Haven, 1860",
+      "year": "1860",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/in.ernet.dli.2015.96668"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.astro.siddhanta.early.suryasiddhanta~en-burgess"
+      }
+    }
+  },
+  "brhatsamhita": {
+    "english": {
+      "by": "N. Chidambaram Iyer",
+      "work": "The Brihat Samhita of Varaha Mihira, Madura: South Indian Press, 1884",
+      "year": "1884",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.astro.samhita.rsi.brhatsamhita~en-iyer"
+      }
+    }
+  },
+  "kausitaki_brahmana": {
+    "english": {
+      "by": "A. B. Keith",
+      "work": "Rigveda Brahmanas, Harvard Oriental Series 25, Cambridge, Mass., 1920",
+      "year": "1920",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/rigvedabrahmana00keitgoog"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.kausitaki~en-keith"
+      }
+    }
+  },
+  "kaivalya_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.saiva.kaivalya~en-aiyar"
+      }
+    }
+  },
+  "garbha_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.garbha~en-aiyar"
+      }
+    }
+  },
+  "nadabindu_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.nadabindu~en-aiyar"
+      }
+    }
+  },
+  "adhyatma_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.adhyatma~en-aiyar"
+      }
+    }
+  },
+  "atmabodha_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.atmabodha~en-aiyar"
+      }
+    }
+  },
+  "muktika_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.muktika~en-aiyar"
+      }
+    }
+  },
+  "niralamba_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.niralamba~en-aiyar"
+      }
+    }
+  },
+  "paingala_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.paingala~en-aiyar"
+      }
+    }
+  },
+  "sariraka_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.sariraka~en-aiyar"
+      }
+    }
+  },
+  "sarvasara_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.sarvasara~en-aiyar"
+      }
+    }
+  },
+  "skanda_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.skanda~en-aiyar"
+      }
+    }
+  },
+  "subala_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.subala~en-aiyar"
+      }
+    }
+  },
+  "vajrasuchi_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.samanya.vajrasuchi~en-aiyar"
+      }
+    }
+  },
+  "bhiksuka_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.sannyasa.bhiksuka~en-aiyar"
+      }
+    }
+  },
+  "brahma_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.sannyasa.brahma~en-aiyar"
+      }
+    }
+  },
+  "maitreya_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.sannyasa.maitreya~en-aiyar"
+      }
+    }
+  },
+  "naradaparivrajaka_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.sannyasa.naradaparivrajaka~en-aiyar"
+      }
+    }
+  },
+  "tejobindu_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.sannyasa.tejobindu~en-aiyar"
+      }
+    }
+  },
+  "kalisantarana_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.vaisnava.kalisantarana~en-aiyar"
+      }
+    }
+  },
+  "narayana_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.vaisnava.narayana~en-aiyar"
+      }
+    }
+  },
+  "tarasara_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.vaisnava.tarasara~en-aiyar"
+      }
+    }
+  },
+  "amrtabindu_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.amrtabindu~en-aiyar"
+      }
+    }
+  },
+  "amrtanada_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.amrtanada~en-aiyar"
+      }
+    }
+  },
+  "dhyanabindu_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.dhyanabindu~en-aiyar"
+      }
+    }
+  },
+  "hamsa_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.hamsa~en-aiyar"
+      }
+    }
+  },
+  "mandalabrahmana_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.mandalabrahmana~en-aiyar"
+      }
+    }
+  },
+  "sandilya_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.sandilya~en-aiyar"
+      }
+    }
+  },
+  "varaha_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.varaha~en-aiyar"
+      }
+    }
+  },
+  "yogakundalini_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.yogakundalini~en-aiyar"
+      }
+    }
+  },
+  "yogatattva_upanishad": {
+    "english": {
+      "by": "K. Narayanasvami Aiyar",
+      "work": "Thirty Minor Upanishads, Madras: Vasanta Press, 1914",
+      "year": "1914",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/tmu/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.yoga.yogatattva~en-aiyar"
+      }
+    }
+  },
+  "aitareya_aranyaka": {
+    "english": {
+      "by": "F. Max Müller; A. B. Keith",
+      "work": "Müller, The Upanishads Part I, Sacred Books of the East vol. 1, 1879 (Books 1–3); Keith, The Aitareya Āraṇyaka, Oxford: Clarendon Press, 1909 (Books 4–5 and 1.3.6)",
+      "year": "1879, 1909",
+      "links": [
+        {
+          "label": "Keith 1909, archive.org",
+          "url": "https://archive.org/details/in.ernet.dli.2015.195520"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa (Müller)",
+        "url": "https://indike.org/pramana/in.veda.aranyaka.aitareya~en-muller"
+      }
+    }
+  },
+  "sankhayana_aranyaka": {
+    "english": {
+      "by": "A. B. Keith",
+      "work": "The Śāṅkhāyana Āraṇyaka, with an Appendix on the Mahāvrata, Oriental Translation Fund n.s. 18, London: Royal Asiatic Society, 1908",
+      "year": "1908",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/sankhayanaaranya00keitrich"
+        }
+      ],
+      "note": "From OCR; spellings of names keep some OCR damage."
+    },
+    "machine": {
+      "by": "Gemini (machine translation)",
+      "note": "Machine output, unreviewed.",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.aranyaka.kausitaki~en-mt"
+      }
+    }
+  },
+  "jaiminiya_upanisad_brahmana": {
+    "english": {
+      "by": "Hanns Oertel",
+      "work": "The Jāiminīya or Talavakāra Upaniṣad Brāhmaṇa, Journal of the American Oriental Society 16 (1896), pp. 79–260",
+      "year": "1896",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/jstor-592488"
+        }
+      ],
+      "note": "From OCR. Where a sentence number was unreadable, that sentence's English stays with the sentence before."
+    },
+    "machine": {
+      "by": "Gemini (machine translation)",
+      "note": "Machine output, unreviewed.",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.jaiminiya_upanisad~en-mt"
+      }
+    }
+  },
+  "taittiriya_aranyaka": {
+    "english": {
+      "by": "Oppiliappan Koil V. Sadagopan",
+      "work": "Aruṇa Praśnam, 3 vols., and Mantra Puṣpam, e-books (Book 1 only)",
+      "links": [
+        {
+          "label": "Aruṇa Praśnam vol. 1, sadagopan.org",
+          "url": "https://www.sadagopan.org/ebook/pdf/Aruna%20Prasnam%20%20v1.pdf"
+        },
+        {
+          "label": "Aruṇa Praśnam vol. 2, sadagopan.org",
+          "url": "https://www.sadagopan.org/ebook/pdf/Aruna%20Prasnam%20%20v2.pdf"
+        },
+        {
+          "label": "Aruṇa Praśnam vol. 3, sadagopan.org",
+          "url": "https://www.sadagopan.org/ebook/pdf/Aruna%20Prasnam%20%20v3.pdf"
+        },
+        {
+          "label": "Mantra Puṣpam, sadagopan.org",
+          "url": "https://www.sadagopan.org/ebook/pdf/Manthra%20Pushpam.pdf"
+        }
+      ],
+      "note": "Book 1 only. A devotional commentary with word-by-word meanings after Sāyaṇa, not a literal translation."
+    }
+  },
+  "kathaka_aranyaka": {
+    "machine": {
+      "by": "Gemini (machine translation)",
+      "note": "Machine output, unreviewed.",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.aranyaka.katha~en-mt"
+      }
+    }
+  },
+  "rigveda": {
+    "english": {
+      "by": "R. T. H. Griffith",
+      "work": "The Hymns of the Rigveda",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/rigveda/index.htm"
+        }
+      ],
+      "year": "1896"
+    }
+  },
+  "samaveda": {
+    "english": {
+      "by": "R. T. H. Griffith",
+      "work": "The Hymns of the Samaveda",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sv.htm"
+        }
+      ],
+      "year": "1893"
+    }
+  },
+  "atharvaveda": {
+    "english": {
+      "by": "R. T. H. Griffith",
+      "work": "The Hymns of the Atharvaveda",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/av/index.htm"
+        }
+      ],
+      "year": "1895"
+    }
+  },
+  "yajurveda_white": {
+    "english": {
+      "by": "R. T. H. Griffith",
+      "work": "The Texts of the White Yajurveda",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/wyv/index.htm"
+        }
+      ],
+      "year": "1899"
+    }
+  },
+  "yajurveda_black": {
+    "english": {
+      "by": "A. B. Keith",
+      "work": "The Veda of the Black Yajus School, Harvard Oriental Series 18–19",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/yv/index.htm"
+        }
+      ],
+      "year": "1914"
+    }
+  },
+  "satapatha_brahmana": {
+    "english": {
+      "by": "Julius Eggeling",
+      "work": "The Śatapatha-Brāhmaṇa, Sacred Books of the East vols. 12, 26, 41, 43, 44",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbr/sbe12/index.htm"
+        }
+      ],
+      "year": "1882–1900",
+      "via": {
+        "label": "wisdomlib",
+        "url": "https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english"
+      }
+    }
+  },
+  "aitareya_brahmana": {
+    "english": {
+      "by": "A. B. Keith",
+      "work": "Rigveda Brahmanas, Harvard Oriental Series 25",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/rigvedabrahmana00keitgoog"
+        }
+      ],
+      "year": "1920",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.aitreya~en-keith"
+      }
+    }
+  },
+  "maitri_upanishad": {
+    "english": {
+      "by": "F. Max Müller",
+      "work": "The Upanishads, Part II, Sacred Books of the East vol. 15",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe15/index.htm"
+        }
+      ],
+      "year": "1884",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.mukhya.maitri~en-muller"
+      }
+    }
+  },
+  "brhaddevata": {
+    "english": {
+      "by": "A. A. Macdonell",
+      "work": "The Bṛhad-Devatā attributed to Śaunaka, Harvard Oriental Series 5–6",
+      "links": [
+        {
+          "label": "wisdomlib",
+          "url": "https://www.wisdomlib.org/hinduism/book/brihaddevata-attributed-to-shaunaka"
+        }
+      ],
+      "year": "1904",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.misc.anukramani.saunaka.brhaddevata~en-macdonell"
+      }
+    }
+  },
+  "manu_smrti": {
+    "english": {
+      "by": "Gaṅgānāth Jhā",
+      "work": "Manusmṛti with the Commentary of Medhātithi",
+      "links": [
+        {
+          "label": "wisdomlib",
+          "url": "https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi"
+        }
+      ],
+      "year": "from 1920"
+    }
+  },
+  "asvalayana_grhyasutra": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "The Grihya-Sûtras, Part I, Sacred Books of the East vol. 29",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe29/index.htm"
+        }
+      ],
+      "year": "1886"
+    }
+  },
+  "sankhayana_grhyasutra": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "The Grihya-Sûtras, Part I, Sacred Books of the East vol. 29",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe29/index.htm"
+        }
+      ],
+      "year": "1886"
+    }
+  },
+  "khadira_grhyasutra": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "The Grihya-Sûtras, Part I, Sacred Books of the East vol. 29",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe29/index.htm"
+        }
+      ],
+      "year": "1886"
+    }
+  },
+  "paraskara_grhyasutra": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "The Grihya-Sûtras, Part I, Sacred Books of the East vol. 29",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe29/index.htm"
+        }
+      ],
+      "year": "1886"
+    }
+  },
+  "gobhila_grhyasutra": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "The Grihya-Sûtras, Part II, Sacred Books of the East vol. 30",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe30/index.htm"
+        }
+      ],
+      "year": "1892"
+    }
+  },
+  "hiranyakesin_grhyasutra": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "The Grihya-Sûtras, Part II, Sacred Books of the East vol. 30",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe30/index.htm"
+        }
+      ],
+      "year": "1892"
+    }
+  },
+  "apastamba_grhyasutra": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "The Grihya-Sûtras, Part II, Sacred Books of the East vol. 30",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe30/index.htm"
+        }
+      ],
+      "year": "1892"
+    }
+  },
+  "apastamba_dharmasutra": {
+    "english": {
+      "by": "Georg Bühler",
+      "work": "The Sacred Laws of the Âryas, Part I, Sacred Books of the East vol. 2",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe02/index.htm"
+        }
+      ],
+      "year": "1879"
+    }
+  },
+  "gautama_dharmasutra": {
+    "english": {
+      "by": "Georg Bühler",
+      "work": "The Sacred Laws of the Âryas, Part I, Sacred Books of the East vol. 2",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe02/index.htm"
+        }
+      ],
+      "year": "1879"
+    }
+  },
+  "vasistha_dharmasutra": {
+    "english": {
+      "by": "Georg Bühler",
+      "work": "The Sacred Laws of the Âryas, Part II, Sacred Books of the East vol. 14",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe14/index.htm"
+        }
+      ],
+      "year": "1882"
+    }
+  },
+  "baudhayana_dharmasutra": {
+    "english": {
+      "by": "Georg Bühler",
+      "work": "The Sacred Laws of the Âryas, Part II, Sacred Books of the East vol. 14",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe14/index.htm"
+        }
+      ],
+      "year": "1882"
+    }
+  },
+  "mahabharata_ganguli": {
+    "english": {
+      "by": "Kisari Mohan Ganguli",
+      "work": "The Mahabharata of Krishna-Dwaipayana Vyasa",
+      "links": [
+        {
+          "label": "Project Gutenberg vol. 1",
+          "url": "https://www.gutenberg.org/ebooks/15474"
+        },
+        {
+          "label": "Project Gutenberg vol. 2",
+          "url": "https://www.gutenberg.org/ebooks/15475"
+        },
+        {
+          "label": "Project Gutenberg vol. 3",
+          "url": "https://www.gutenberg.org/ebooks/15476"
+        },
+        {
+          "label": "Project Gutenberg vol. 4",
+          "url": "https://www.gutenberg.org/ebooks/15477"
+        }
+      ],
+      "year": "1883–96"
+    }
+  },
+  "harivamsa_dutt": {
+    "english": {
+      "by": "Manmatha Nath Dutt",
+      "work": "A Prose English Translation of Harivamsha",
+      "links": [
+        {
+          "label": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/61937"
+        }
+      ],
+      "year": "1897"
+    }
+  },
+  "ramayana_dutt": {
+    "english": {
+      "by": "Manmatha Nath Dutt",
+      "work": "The Ramayana",
+      "links": [
+        {
+          "label": "Project Gutenberg vol. 1",
+          "url": "https://www.gutenberg.org/ebooks/57265"
+        },
+        {
+          "label": "Project Gutenberg vol. 2",
+          "url": "https://www.gutenberg.org/ebooks/57826"
+        },
+        {
+          "label": "Project Gutenberg vol. 3",
+          "url": "https://www.gutenberg.org/ebooks/60188"
+        },
+        {
+          "label": "Project Gutenberg vol. 4",
+          "url": "https://www.gutenberg.org/ebooks/62496"
+        }
+      ],
+      "year": "1891–94"
+    }
+  },
+  "isha_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Isha Upanishad, Complete Works of Sri Aurobindo vol. 17",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-17_Isha%20Upanishad/-01_Isha%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "kena_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-01_Kena%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "katha_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-17_Katha%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "mundaka_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-19_Mundaka%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "prasna_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-22_The%20Prusna%20Upanishad%20of%20the%20Athurvaveda.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "mandukya_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-23_The%20Mandoukya%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "aitareya_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-24_The%20Aitereya%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "taittiriya_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-25_Taittiriya%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      }
+    }
+  },
+  "svetasvatara_upanishad": {
+    "english": {
+      "by": "Sri Aurobindo",
+      "work": "Kena and Other Upanishads, Complete Works of Sri Aurobindo vol. 18",
+      "links": [
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-26_Svetasvatara%20Upanishad.htm"
+        }
+      ],
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      },
+      "note": "Sri Aurobindo's text matches 58 of 111 verses; the translator of the other 53 could not be identified."
+    }
+  },
+  "chandogya_upanishad": {
+    "english": {
+      "by": "Swami Nikhilananda; opening verses by Sri Aurobindo",
+      "work": "The Upanishads, Harper & Brothers / Ramakrishna-Vivekananda Center",
+      "links": [
+        {
+          "label": "Nikhilananda, archive.org",
+          "url": "https://archive.org/details/upanishads.thevolume4swaminikhilanandar.k.mutt_202003_240_Z"
+        },
+        {
+          "label": "Sri Aurobindo Ashram",
+          "url": "https://search.motherandsriaurobindo.in/_StaticContent/SriAurobindoAshram/-09%20E-Library/-01%20Works%20of%20Sri%20Aurobindo/-01%20English/-03_CWSA/-18_Kena%20And%20Other%20Upanishads/-27_Chhandogya%20Upanishad.htm"
+        }
+      ],
+      "year": "1949–59",
+      "via": {
+        "label": "upanishads.org.in",
+        "url": "https://upanishads.org.in/"
+      },
+      "note": "Matched verse by verse: 589 of 625 Nikhilananda, 31 Sri Aurobindo, 5 unmatched."
+    }
+  },
+  "brhadaranyaka_upanishad": {
+    "english": {
+      "by": "Swami Madhavananda",
+      "work": "The Bṛhadāraṇyaka Upaniṣad, with the Commentary of Śaṅkarācārya",
+      "links": [
+        {
+          "label": "wisdomlib",
+          "url": "https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad"
+        },
+        {
+          "label": "scan, archive.org",
+          "url": "https://archive.org/details/in.ernet.dli.2015.20823"
+        }
+      ],
+      "year": "1934"
+    }
+  },
+  "kausitaki_upanishad": {
+    "english": {
+      "by": "A. G. Krishna Warrier",
+      "work": "Kauṣītaki-Brāhmaṇa Upaniṣad, The Theosophical Publishing House",
+      "links": [
+        {
+          "label": "Upanishad Scripts",
+          "url": "https://sites.google.com/site/upanishadscripts/025-kaushitakibrahmana"
+        }
+      ]
+    }
+  },
+  "bhagavata_purana_subbarau": {
+    "english": {
+      "by": "S. Subba Rau",
+      "work": "The Srimad Bhagavatam, Tirupati: Sri Venkatesa Printing Works",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/in.ernet.dli.2015.272624"
+        }
+      ],
+      "year": "1928",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.bhagavata~en-subbarau"
+      }
+    }
+  },
+  "garuda_purana_dutt": {
+    "english": {
+      "by": "Manmatha Nath Dutt",
+      "work": "The Garuda Puranam, Calcutta",
+      "links": [
+        {
+          "label": "wisdomlib",
+          "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt"
+        }
+      ],
+      "year": "1908",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.garuda~en-dutt"
+      },
+      "note": "Dutt translated book 1 only."
+    }
+  },
+  "markandeya_purana_pargiter": {
+    "english": {
+      "by": "F. E. Pargiter",
+      "work": "The Mārkaṇḍeya Purāṇa, Bibliotheca Indica",
+      "links": [
+        {
+          "label": "wisdomlib",
+          "url": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana"
+        }
+      ],
+      "year": "1888–1904",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.markandeya~en-pargiter"
+      }
+    }
+  },
+  "matsya_purana_taluqdar": {
+    "english": {
+      "by": "A Taluqdar of Oudh",
+      "work": "The Matsya Puranam, Sacred Books of the Hindus 17",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/in.ernet.dli.2015.274264"
+        }
+      ],
+      "year": "1916–17",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.matsya~en-taluqdar"
+      }
+    }
+  },
+  "visnu_purana_wilson": {
+    "english": {
+      "by": "H. H. Wilson",
+      "work": "The Vishńu Puráńa, a System of Hindu Mythology and Tradition",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/vp/index.htm"
+        }
+      ],
+      "year": "1840",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.visnu~en-wilson"
+      }
+    }
+  },
+  "agni_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.agni~en-mt"
+      }
+    }
+  },
+  "skanda_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.skanda~en-mt"
+      }
+    }
+  },
+  "jaiminiya_brahmana": {
+    "machine": {
+      "by": "Engine not recorded",
+      "inText": true,
+      "noSource": true,
+      "note": "Added to this project in March 2026 with no record of how it was made, and it is not Pramāṇa's machine translation. No public source to check it against."
+    }
+  }
+}

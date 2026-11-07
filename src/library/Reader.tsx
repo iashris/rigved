@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { ChevronLeft, ChevronRight, ChevronDown, List, X } from 'lucide-react';
-import type { Catalog, Concordance, Entry, TextMeta, TocNode } from './data';
+import type { Catalog, Concordance, Entry, SourceLink, TextMeta, TocNode, TranslationCredit } from './data';
 import { blockLabel, blockList, isBlock, loadBlock, loadConcordance, localRef } from './data';
 import { readHref } from './route';
 
@@ -84,6 +84,39 @@ function SanskritCell({ e, show }: { e: Entry; show: Show }) {
       {show.iast && e.s && <div className="v-iast" lang="sa-Latn">{e.s}</div>}
       {!e.s && !e.d && <div className="v-missing">No Sanskrit in this edition</div>}
     </>
+  );
+}
+
+const OutLink = ({ link }: { link: SourceLink }) => (
+  <a href={link.url} target="_blank" rel="noopener noreferrer">
+    {link.label} ↗
+  </a>
+);
+
+function Credit({ kind, c }: { kind: string; c: TranslationCredit }) {
+  return (
+    <p className="tr-credit-line">
+      <strong>{kind}:</strong> {c.by}
+      {c.work && (
+        <>
+          , <cite>{c.work}</cite>
+        </>
+      )}
+      {c.year && ` (${c.year})`}
+      {c.links?.map((l) => (
+        <span key={l.url}>
+          {' · '}
+          <OutLink link={l} />
+        </span>
+      ))}
+      {c.via && (
+        <span>
+          {' · via '}
+          <OutLink link={c.via} />
+        </span>
+      )}
+      {c.note && <span className="tr-credit-note"> {c.note}</span>}
+    </p>
   );
 }
 
@@ -214,6 +247,8 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   ];
   const twoCol = show.english && (inlineEnglish || pair?.mode === 'aligned');
   const lowConfidence = tr && pair?.mode === 'concordance' && tr.refs.every((r) => r.score < 0.5);
+  const englishCredit = (pair ? catalog.texts.find((x) => x.id === pair.with) : t)?.translation?.english;
+  const machineCredit = blockMode ? undefined : t.translation?.machine;
 
   return (
     <div className="reader">
@@ -287,6 +322,13 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
           </button>
         </header>
 
+        {show.english && (englishCredit || machineCredit) && (
+          <div className="tr-credit">
+            {englishCredit && <Credit kind="English" c={englishCredit} />}
+            {machineCredit && <Credit kind="Machine translation" c={machineCredit} />}
+          </div>
+        )}
+
         {error && <div className="lib-empty">{error}</div>}
         {!entries && !error && <div className="reader-loading">Loading…</div>}
 
@@ -356,7 +398,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                 <p className="pane-note">
                   {lowConfidence
                     ? 'Weak match: this translation numbers sections differently, so the passage may sit one section earlier or later.'
-                    : 'Matched by shared names; the translation follows the vulgate, so sections may start or end at different verses.'}
+                    : (conc?.note ?? 'Matched by shared names; the translation follows the vulgate, so sections may start or end at different verses.')}
                 </p>
               )}
               {!tr && <div className="reader-loading">Loading translation…</div>}

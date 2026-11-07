@@ -19,16 +19,33 @@ export interface Pair {
   available?: boolean;
 }
 
+export interface SourceLink {
+  label: string;
+  url: string;
+}
+
+/** Who made a text's English and where to check it, from scripts/corpus2/translation_sources.json. */
+export interface TranslationCredit {
+  by: string;
+  work?: string;
+  year?: string;
+  links?: SourceLink[];
+  via?: SourceLink;
+  note?: string;
+}
+
 export interface TextMeta {
   id: string;
   name: string;
   veda?: string;
   layer?: string;
   band?: string;
+  group?: string;
   later?: boolean;
   translationOf?: string;
   levels: string[];
   source?: string;
+  translation?: { english?: TranslationCredit; machine?: TranslationCredit };
   pairs?: Pair[];
   blockDepth: number;
   stats: { entries: number; blocks: number; english: number; machine?: number; sanskrit: number; chunks: number };
@@ -40,6 +57,8 @@ export interface Group {
   name: string;
   deva?: string;
   blurb: string;
+  groups?: Group[];
+  absent?: Record<string, string>; // layer id -> why this Veda has no text there; written by hand, since an empty cell can also mean filed elsewhere
 }
 
 export interface Catalog {
@@ -55,6 +74,7 @@ export interface Concordance {
   map: Record<string, { ref: string; score: number }[]>;
   stats?: Record<string, number>;
   method?: string;
+  note?: string; // how this pair was matched, shown to the reader
 }
 
 const BASE = './library';

@@ -226,6 +226,15 @@
   min-height: 60px;
 }
 
+.lib-absent {
+  margin: 0;
+  padding: 10px 11px;
+  font-size: 13px;
+  font-style: italic;
+  line-height: 1.4;
+  color: var(--lib-ink-3);
+}
+
 .lib-card {
   display: grid;
   gap: 4px;
@@ -303,6 +312,36 @@
   gap: 8px;
   padding: 12px;
   background: var(--lib-panel);
+}
+
+.lib-band-groups {
+  display: grid;
+  gap: 1px;
+  background: var(--lib-line);
+}
+
+.lib-band-group {
+  background: var(--lib-panel);
+}
+
+.lib-grouphead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 2px 10px;
+  padding: 12px 12px 0;
+}
+
+.lib-grouphead strong {
+  font-family: var(--lib-serif);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.lib-grouphead span {
+  font-size: 12px;
+  color: var(--lib-ink-3);
+  line-height: 1.4;
 }
 
 .lib-empty,
@@ -548,6 +587,29 @@
 
 .block-sub a {
   color: var(--lib-accent);
+}
+
+.tr-credit {
+  margin: 0 auto 14px;
+  padding: 0 16px;
+  max-width: 760px;
+  text-align: center;
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--lib-ink-3);
+}
+
+.tr-credit-line {
+  margin: 0;
+}
+
+.tr-credit a {
+  color: var(--lib-accent);
+  overflow-wrap: anywhere;
+}
+
+.tr-credit-note {
+  font-style: italic;
 }
 
 .nav-btn {

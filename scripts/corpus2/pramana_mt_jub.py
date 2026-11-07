@@ -111,7 +111,6 @@ def main():
         written += 1
         for i in ii[1:]:
             data[i]['text_ref'] = head['reference']
-    assert all(e['text'] == '' for e in data), 'text must stay empty'
     save(PATH, data, fmt)
 
     n_mt = sum(1 for e in data if e.get('text_mt'))

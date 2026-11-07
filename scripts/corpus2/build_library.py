@@ -27,7 +27,7 @@ def norm_ref(r):
     return ".".join(str(int(p)) if p.isdigit() else p for p in str(r).split("."))
 
 
-def compact(e):
+def compact(e, machine_text=False):
     """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, m machine English, t heading."""
     out = {"r": norm_ref(e["reference"])}
     iast = e.get("sanskrit_iast") or e.get("iast") or ""
@@ -43,14 +43,16 @@ def compact(e):
         out["d"] = eng  # a few legacy files keep the Devanagari in `text`
     if e.get("text_mt"):
         out["m"] = e["text_mt"]
+    if machine_text and "e" in out:
+        out["m"] = out.pop("e")
     if e.get("title"):
         out["t"] = e["title"]
     return out
 
 
-def build_text(meta):
+def build_text(meta, machine_text=False):
     raw = json.load(open(os.path.join(DATA, meta["file"]), encoding="utf-8"))
-    entries = [compact(e) for e in raw]
+    entries = [compact(e, machine_text) for e in raw]
     depths = [len(e["r"].split(".")) for e in entries]
     block_depth = max(min(depths) - 1, 0)
     # Long entries (a Ganguli section, a Kāṭhaka anuvāka) are already a page each: read them one at a time.
@@ -108,6 +110,7 @@ def build_text(meta):
 
 def main():
     cat = json.load(open(os.path.join(os.path.dirname(__file__), "library_catalog.json"), encoding="utf-8"))
+    sources = json.load(open(os.path.join(os.path.dirname(__file__), "translation_sources.json"), encoding="utf-8"))
     if os.path.isdir(os.path.join(OUT, "texts")):
         shutil.rmtree(os.path.join(OUT, "texts"))
     texts = []
@@ -115,7 +118,10 @@ def main():
         if not os.path.exists(os.path.join(DATA, meta["file"])):
             print(f"skip {meta['id']}: {meta['file']} missing")
             continue
-        t = build_text(meta)
+        # A record may sit on the translation or on the Sanskrit text it translates.
+        credit = sources.get(meta["id"]) or sources.get(meta.get("translationOf")) or {}
+        t = build_text(meta, credit.get("machine", {}).get("inText", False))
+        t["translation"] = {k: credit[k] for k in ("english", "machine") if t["stats"][k] and k in credit}
         texts.append(t)
         print(f"{t['id']:30s} {t['stats']['entries']:6d} entries {t['stats']['blocks']:5d} blocks {t['stats']['chunks']:3d} chunks  en {t['stats']['english']:3d}%")
     ids = {t["id"] for t in texts}
@@ -126,6 +132,22 @@ def main():
             if p["mode"] == "concordance":
                 f = os.path.join(OUT, "concordance", f"{t['id']}__{p['with']}.json")
                 p["available"] = os.path.exists(f)
+    # The home page renders a grouped band by its groups alone, so a text with a missing or unknown group would vanish.
+    for band in cat["bands"]:
+        if "groups" in band:
+            known = {g["id"] for g in band["groups"]}
+            for t in texts:
+                if t.get("band") == band["id"] and not t.get("translationOf") and t.get("group") not in known:
+                    raise SystemExit(f"{t['id']}: group {t.get('group')!r} is not one of band {band['id']}'s groups")
+    # English nobody can check is what this catalogue exists to prevent, so it stops the build rather than ship unnamed.
+    uncredited = []
+    for t in texts:
+        for kind in ("english", "machine"):
+            c = t["translation"].get(kind)
+            if t["stats"][kind] and not (c and (c.get("links") or c.get("via") or c.get("noSource"))):
+                uncredited.append(f"{t['id']} ({kind})")
+    if uncredited:
+        raise SystemExit("no source in translation_sources.json for: " + ", ".join(uncredited))
     catalog = {k: cat[k] for k in ("vedas", "layers", "bands")} | {"texts": texts}
     json.dump(catalog, open(os.path.join(OUT, "catalog.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     print(f"catalog: {len(texts)} texts, {os.path.getsize(os.path.join(OUT, 'catalog.json')) // 1024} KB")

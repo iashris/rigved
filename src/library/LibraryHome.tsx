@@ -80,13 +80,18 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
                 <span className="lib-deva">{v.deva}</span>
                 <span>{v.blurb}</span>
               </div>
-              {catalog.layers.map((l) => (
-                <div key={l.id} className="lib-cell" data-layer={l.name}>
-                  {cell(v.id, l.id).map((t) => (
-                    <TextCard key={t.id} t={t} />
-                  ))}
-                </div>
-              ))}
+              {catalog.layers.map((l) => {
+                const texts = cell(v.id, l.id);
+                const absent = !q.trim() && !texts.length ? v.absent?.[l.id] : undefined;
+                return (
+                  <div key={l.id} className="lib-cell" data-layer={l.name}>
+                    {texts.map((t) => (
+                      <TextCard key={t.id} t={t} />
+                    ))}
+                    {absent && <p className="lib-absent">{absent}</p>}
+                  </div>
+                );
+              })}
             </div>
           );
         })}
@@ -101,11 +106,33 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
               <strong>{b.name}</strong>
               <span>{b.blurb}</span>
             </div>
-            <div className="lib-band-cards">
-              {ts.map((t) => (
-                <TextCard key={t.id} t={t} />
-              ))}
-            </div>
+            {b.groups ? (
+              <div className="lib-band-groups">
+                {b.groups.map((g) => {
+                  const members = ts.filter((t) => t.group === g.id);
+                  if (!members.length) return null;
+                  return (
+                    <div key={g.id} className="lib-band-group">
+                      <div className="lib-grouphead">
+                        <strong>{g.name}</strong>
+                        <span>{g.blurb}</span>
+                      </div>
+                      <div className="lib-band-cards">
+                        {members.map((t) => (
+                          <TextCard key={t.id} t={t} />
+                        ))}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            ) : (
+              <div className="lib-band-cards">
+                {ts.map((t) => (
+                  <TextCard key={t.id} t={t} />
+                ))}
+              </div>
+            )}
           </section>
         );
       })}

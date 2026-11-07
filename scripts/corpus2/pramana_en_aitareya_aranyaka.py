@@ -2,7 +2,8 @@
 
 Pramāṇa doc `in.veda.aranyaka.aitareya~en-muller` is located āraṇyaka.adhyāya.khaṇḍa.paragraph (+ .nN notes),
 the same āraṇyaka.adhyāya.khaṇḍa scheme as our file, and covers Āraṇyakas I-III (Müller translated I as well
-as the Upaniṣad II-III).  Āraṇyakas IV (Mahānāmnī verses) and V (Āśvalāyana's sūtra part) are not in SBE 1.
+as the Upaniṣad II-III).  Āraṇyakas IV (Mahānāmnī verses, ascribed to Āśvalāyana) and V (a sūtra ascribed to Śaunaka) are not in SBE 1.
+Run keith_aitareya_45.py after this: it supplies IV and V from Keith and removes the editorial notes these segments carry.
 Müller's notes are left out.  One place where our (GRETIL) khaṇḍa cuts differ from Müller's was found by
 comparing both sides: our 3.1.4 = Müller 3.1.4 + 3.1.5.1-8; our 3.1.5 = Müller 3.1.5.9 + 3.1.6.1-22;
 our 3.1.6 = Müller 3.1.6.23 (the closing formula).
