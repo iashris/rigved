@@ -6,6 +6,17 @@ import { readHref } from './route';
 const fold = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const fmt = (n: number) => n.toLocaleString('en-IN');
 
+/** Human English of its own or a paired translation; a machine translation alone does not count. */
+const hasEnglish = (t: TextMeta) => (t.pairs ?? []).length > 0 || t.stats.english > 0;
+
+const era = (y: number) => (y < 0 ? 'BCE' : 'CE');
+/** [-900, -725] → "c. 900–725 BCE"; [-200, 200] → "c. 200 BCE–200 CE". */
+function dateLabel([a, b]: [number, number]) {
+  const n = (y: number) => Math.abs(Math.round(y));
+  if (Math.round(a) === Math.round(b)) return `c. ${n(a)} ${era(a)}`;
+  return era(a) === era(b) ? `c. ${n(a)}–${n(b)} ${era(b)}` : `c. ${n(a)} ${era(a)}–${n(b)} ${era(b)}`;
+}
+
 function TextCard({ t }: { t: TextMeta }) {
   const first = blockList(t)[0]?.key ?? '';
   const translations = (t.pairs ?? []).map((p) => p.label);
@@ -14,6 +25,11 @@ function TextCard({ t }: { t: TextMeta }) {
   return (
     <a className="lib-card" href={readHref(t.id, first)} title={t.source ?? ''}>
       <span className="lib-card-name">{t.name}</span>
+      {t.date && (
+        <span className="lib-card-date" title="Approximate date of composition (Pramāṇa consensus)">
+          {dateLabel(t.date)}
+        </span>
+      )}
       <span className="lib-card-meta">
         {fmt(t.stats.entries)} {unit.toLowerCase()}
         {t.stats.entries === 1 ? '' : 's'}
@@ -39,10 +55,33 @@ function TextCard({ t }: { t: TextMeta }) {
 
 export default function LibraryHome({ catalog }: { catalog: Catalog }) {
   const [q, setQ] = useState('');
+  const [englishOnly, setEnglishOnly] = useState(() => {
+    try {
+      return localStorage.getItem('lib-english-only') === '1';
+    } catch {
+      return false;
+    }
+  });
+  const toggleEnglish = () => {
+    setEnglishOnly((v) => {
+      try {
+        localStorage.setItem('lib-english-only', v ? '0' : '1');
+      } catch {
+        /* storage blocked: the toggle still works for this visit */
+      }
+      return !v;
+    });
+  };
   const visible = useMemo(() => {
     const f = fold(q.trim());
-    return catalog.texts.filter((t) => !t.translationOf && (!f || fold(t.name).includes(f) || fold(t.source ?? '').includes(f)));
-  }, [catalog, q]);
+    return catalog.texts.filter(
+      (t) =>
+        !t.translationOf &&
+        (!englishOnly || hasEnglish(t)) &&
+        (!f || fold(t.name).includes(f) || fold(t.source ?? '').includes(f)),
+    );
+  }, [catalog, q, englishOnly]);
+  const filtering = !!q.trim() || englishOnly;
   const totals = useMemo(() => {
     const prim = catalog.texts.filter((t) => !t.translationOf);
     const entries = catalog.texts.reduce((n, t) => n + t.stats.entries, 0);
@@ -59,7 +98,13 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
           {totals.texts} texts · {fmt(totals.entries)} passages. Each Veda reads left to right from its hymns to its
           ritual manuals. Open any text to read it in Sanskrit and English, side by side.
         </p>
-        <input className="lib-search" placeholder="Find a text — e.g. Kaṭha, Gopatha, Bhārata" value={q} onChange={(e) => setQ(e.target.value)} />
+        <div className="lib-filters">
+          <input className="lib-search" placeholder="Find a text — e.g. Kaṭha, Gopatha, Bhārata" value={q} onChange={(e) => setQ(e.target.value)} />
+          <button type="button" className="lib-toggle" aria-pressed={englishOnly} onClick={toggleEnglish}>
+            <span className="lib-toggle-dot" aria-hidden="true" />
+            With English only
+          </button>
+        </div>
       </section>
 
       <section className="lib-grid" style={{ ['--cols' as string]: catalog.layers.length }}>
@@ -82,7 +127,7 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
               </div>
               {catalog.layers.map((l) => {
                 const texts = cell(v.id, l.id);
-                const absent = !q.trim() && !texts.length ? v.absent?.[l.id] : undefined;
+                const absent = !filtering && !texts.length ? v.absent?.[l.id] : undefined;
                 return (
                   <div key={l.id} className="lib-cell" data-layer={l.name}>
                     {texts.map((t) => (
@@ -136,7 +181,7 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
           </section>
         );
       })}
-      {!visible.length && <p className="lib-empty">No text matches “{q}”.</p>}
+      {!visible.length && <p className="lib-empty">{q.trim() ? `No text matches “${q}”${englishOnly ? ' with English' : ''}.` : 'No text matches.'}</p>}
     </div>
   );
 }

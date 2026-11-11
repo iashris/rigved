@@ -54,7 +54,7 @@ export default function Root() {
   }
 
   return (
-    <div className="lib">
+    <div className={`lib${route.page === 'read' ? ' reading' : ''}`}>
       <nav className="lib-nav">
         <a href="#/" className="lib-brand">
           <span className="lib-brand-mark">ॐ</span> Vedic Library

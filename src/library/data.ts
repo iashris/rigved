@@ -44,6 +44,8 @@ export interface TextMeta {
   band?: string;
   group?: string;
   later?: boolean;
+  /** Approximate composition, [start, end] in years; negative is BCE. Pramāṇa's consensus dating. */
+  date?: [number, number];
   translationOf?: string;
   levels: string[];
   source?: string;
@@ -149,3 +151,10 @@ export function blockLabel(t: TextMeta, key: string): string {
 
 /** The ref of an entry shown inside its block: the levels below the block. */
 export const localRef = (t: TextMeta, r: string) => r.split('.').slice(t.blockDepth).join('.') || r;
+
+/** A translation's paragraphs, split on blank lines. The reader and the audiobook number them the same way. */
+export const paragraphs = (text: string) =>
+  text
+    .split(/\n\s*\n/)
+    .map((p) => p.trim())
+    .filter(Boolean);

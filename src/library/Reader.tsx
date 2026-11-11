@@ -1,8 +1,10 @@
 import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
-import { ChevronLeft, ChevronRight, ChevronDown, List, X } from 'lucide-react';
+import { ChevronLeft, ChevronRight, ChevronDown, Headphones, List, Type, X } from 'lucide-react';
 import type { Catalog, Concordance, Entry, SourceLink, TextMeta, TocNode, TranslationCredit } from './data';
-import { blockLabel, blockList, isBlock, loadBlock, loadConcordance, localRef } from './data';
+import { blockLabel, blockList, isBlock, loadBlock, loadConcordance, localRef, paragraphs } from './data';
 import { readHref } from './route';
+import NarratorBar from './Narrator';
+import { speechSupported, useNarrator, type NarrationItem } from './useNarrator';
 
 type Show = { iast: boolean; deva: boolean; english: boolean };
 
@@ -25,6 +27,22 @@ function usePersisted<T>(key: string, initial: T): [T, (v: T) => void] {
   };
   return [v, set];
 }
+
+/** Phones and narrow tablets, where the reader drops its side-by-side panes for one column on the page's own scroll. */
+const NARROW = '(max-width: 900px)';
+
+function useNarrow() {
+  const [narrow, setNarrow] = useState(() => window.matchMedia(NARROW).matches);
+  useEffect(() => {
+    const mq = window.matchMedia(NARROW);
+    const on = () => setNarrow(mq.matches);
+    mq.addEventListener('change', on);
+    return () => mq.removeEventListener('change', on);
+  }, []);
+  return narrow;
+}
+
+const ALL_SANSKRIT: Show = { deva: true, iast: true, english: true };
 
 function Toc({ t, nodes, current, withId, depth = 1 }: { t: TextMeta; nodes: TocNode[]; current: string; withId?: string; depth?: number }) {
   return (
@@ -66,14 +84,14 @@ function TocBranch({ t, node, label, current, withId, depth }: { t: TextMeta; no
   );
 }
 
-const Paragraphs = ({ text }: { text: string }) => (
+/** `idPrefix` gives each paragraph an id (prefix-p0, -p1…) for the audiobook to highlight. */
+const Paragraphs = ({ text, idPrefix }: { text: string; idPrefix?: string }) => (
   <>
-    {text
-      .split(/\n\s*\n/)
-      .filter((p) => p.trim())
-      .map((p, i) => (
-        <p key={i}>{p.trim()}</p>
-      ))}
+    {paragraphs(text).map((p, i) => (
+      <p key={i} id={idPrefix ? `${idPrefix}-p${i}` : undefined}>
+        {p}
+      </p>
+    ))}
   </>
 );
 
@@ -150,11 +168,18 @@ function useScrollSync() {
 
 export default function Reader({ catalog, textId, block, withId, verse }: { catalog: Catalog; textId: string; block: string; withId?: string; verse?: string }) {
   const t = catalog.texts.find((x) => x.id === textId);
-  const [show, setShow] = usePersisted<Show>('reader.show', { iast: true, deva: true, english: true });
+  const narrow = useNarrow();
+  // On a phone the English is what's read and the Sanskrit is there for reference, so it starts folded.
+  const [showWide, setShowWide] = usePersisted<Show>('reader.show', { iast: true, deva: true, english: true });
+  const [showNarrow, setShowNarrow] = usePersisted<Show>('reader.show.narrow', { iast: false, deva: false, english: true });
+  const [chosen, setShow] = narrow ? [showNarrow, setShowNarrow] : [showWide, setShowWide];
+  const [toolsOpen, setToolsOpen] = useState(false);
+  const [peek, setPeek] = useState<Set<string>>(() => new Set());
   const [textSize, setTextSize] = usePersisted<{ step: number }>('reader.textSize', { step: 0 });
   const [tocOpen, setTocOpen] = useState(false);
   const [entries, setEntries] = useState<Entry[] | null>(null);
-  const [tr, setTr] = useState<{ meta: TextMeta; entries: Entry[]; refs: { ref: string; score: number }[]; offset: number } | null>(null);
+  const [entriesKey, setEntriesKey] = useState('');
+  const [tr, setTr] = useState<{ meta: TextMeta; entries: Entry[]; refs: { ref: string; score: number }[]; offset: number; key: string } | null>(null);
   const [conc, setConc] = useState<Concordance | null>(null);
   const [offset, setOffset] = useState(0);
   const [error, setError] = useState('');
@@ -170,6 +195,8 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   const inlineEnglish = !!entries?.some((e) => e.e || e.m) && !!entries?.some((e) => e.s || e.d);
 
   useEffect(() => setOffset(0), [key, pair?.with]);
+  // A link to one verse (a search hit) opens that verse's Sanskrit even while the rest is folded.
+  useEffect(() => setPeek(new Set(verse ? [verse] : [])), [key, verse]);
 
   useEffect(() => {
     if (!t) return;
@@ -177,7 +204,12 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
     setEntries(null);
     setError('');
     loadBlock(t, key)
-      .then((es) => live && (es ? setEntries(es) : setError(`No ${t.levels[0]} ${key} in this text.`)))
+      .then((es) => {
+        if (!live) return;
+        if (!es) return setError(`No ${t.levels[0]} ${key} in this text.`);
+        setEntries(es);
+        setEntriesKey(key);
+      })
       .catch((e) => live && setError(String(e)));
     return () => {
       live = false;
@@ -206,7 +238,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
       refs = i >= 0 ? [{ ref: trBlocks[j].key, score: 0 }] : refs;
     }
     Promise.all(refs.map((r) => loadBlock(meta, r.ref))).then((lists) => {
-      if (live) setTr({ meta, entries: lists.flatMap((l) => l ?? []), refs, offset });
+      if (live) setTr({ meta, entries: lists.flatMap((l) => l ?? []), refs, offset, key });
     });
     return () => {
       live = false;
@@ -225,6 +257,32 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
     },
     [blocks, at, t, withId],
   );
+  // Audiobook: the passage's English, in reading order, each piece tied to the element it highlights.
+  const listenBlockMode = !!pair && pair.mode !== 'aligned';
+  const narration = useMemo<NarrationItem[]>(() => {
+    if (!t || !entries || entriesKey !== key) return [];
+    const intro = { anchor: '', text: `${blockLabel(t, key).replace(/\s*·\s*/g, ', ')}.` };
+    const paras = (anchor: string, text: string, each = false) => paragraphs(text).map((p, i) => ({ anchor: each ? `${anchor}-p${i}` : anchor, text: p }));
+    if (listenBlockMode) {
+      if (!tr || tr.key !== key) return [];
+      return [intro, ...tr.entries.flatMap((e) => [...(e.t ? [{ anchor: `t-${e.r}`, text: `${e.t}.` }] : []), ...paras(`t-${e.r}`, e.e ?? '', true)])];
+    }
+    const aligned = pair?.mode === 'aligned' && tr?.key === key ? new Map(tr.entries.map((e) => [e.r, e.e])) : null;
+    return [intro, ...entries.flatMap((e) => paras(`v-${e.r}`, (aligned ? aligned.get(e.r) : e.e) ?? e.m ?? ''))];
+  }, [t, entries, entriesKey, key, tr, pair?.mode, listenBlockMode]);
+  const narrationReady = !!entries && entriesKey === key && (!pair || (!!tr && tr.key === key));
+  const narrator = useNarrator({
+    items: narration,
+    ready: narrationReady,
+    title: t ? `${t.name} · ${blockLabel(t, key)}` : '',
+    onEnd: () => {
+      if (at < 0 || at >= blocks.length - 1) return false;
+      go(1);
+      return true;
+    },
+    onPrevBlock: () => go(-1),
+  });
+
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if ((e.target as HTMLElement)?.closest('input, textarea, select')) return;
@@ -243,6 +301,19 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   const trByRef = new Map((pair?.mode === 'aligned' ? tr?.entries : [])?.map((e) => [e.r, e]) ?? []);
   // English-only texts (Jātakas, the pilgrims, Kathāsaritsāgara…) have no original to toggle or to flag as missing.
   const englishOnly = t.stats.sanskrit === 0 && !pair;
+  // With no English to read, folding the Sanskrit away would leave a blank page: show it regardless.
+  const hasEnglish = !!pair || !!entries?.some((e) => e.e || e.m);
+  const canFold = hasEnglish && !englishOnly;
+  const show = canFold || !entries ? chosen : { ...chosen, ...(chosen.deva || chosen.iast ? {} : { deva: true, iast: true }) };
+  const sanskritShown = show.deva || show.iast;
+  const toggleSanskrit = () => setShow({ ...chosen, deva: !sanskritShown, iast: !sanskritShown });
+  const togglePeek = (r: string) =>
+    setPeek((p) => {
+      const n = new Set(p);
+      if (n.has(r)) n.delete(r);
+      else n.add(r);
+      return n;
+    });
   const toggles: [keyof Show, string][] = englishOnly
     ? []
     : [
@@ -250,7 +321,9 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
         ['iast', 'IAST'],
         ['english', 'English'],
       ];
-  const twoCol = show.english && (inlineEnglish || pair?.mode === 'aligned');
+  // Sanskrit folded: the English runs on as prose, each verse with a button to peek at its Sanskrit.
+  const prose = canFold && !sanskritShown;
+  const twoCol = show.english && sanskritShown && (inlineEnglish || pair?.mode === 'aligned');
   const lowConfidence = tr && pair?.mode === 'concordance' && tr.refs.every((r) => r.score < 0.5);
   const englishCredit = (pair ? catalog.texts.find((x) => x.id === pair.with) : t)?.translation?.english;
   const machineCredit = blockMode ? undefined : t.translation?.machine;
@@ -258,7 +331,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   const readScale = { '--read-scale': String(1 + textSize.step * 0.1) } as CSSProperties;
 
   return (
-    <div className="reader" style={readScale}>
+    <div className={`reader${narrator.active ? ' listening' : ''}`} style={readScale}>
       <aside className={`reader-toc${tocOpen ? ' open' : ''}`}>
         <div className="toc-top">
           <a href="#/" className="toc-back">
@@ -277,7 +350,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
       </aside>
 
       <main className="reader-main">
-        <div className="reader-bar">
+        <div className={`reader-bar${toolsOpen ? ' tools-open' : ''}`}>
           <button className="toc-open" onClick={() => setTocOpen(true)} aria-label="Contents">
             <List size={18} />
           </button>
@@ -286,6 +359,27 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
             {layer && <span>{layer.name}</span>}
             <strong>{t.name}</strong>
           </div>
+          {speechSupported && hasEnglish && (
+            <button
+              className={`chip listen-chip${narrator.active ? ' on' : ''}`}
+              onClick={() => (narrator.playing ? narrator.pause() : narrator.play())}
+              aria-pressed={narrator.playing}
+              title="Listen: read the English aloud and carry on to the next passage"
+            >
+              <Headphones size={15} />
+              {!narrow && <span>{narrator.playing ? 'Pause' : 'Listen'}</span>}
+            </button>
+          )}
+          {narrow && canFold && (
+            <button className={`chip sa-chip${sanskritShown ? ' on' : ''}`} onClick={toggleSanskrit} aria-pressed={sanskritShown} title={sanskritShown ? 'Fold the Sanskrit away' : 'Show the Sanskrit'}>
+              सं
+            </button>
+          )}
+          {narrow && (
+            <button className={`chip tools-btn${toolsOpen ? ' on' : ''}`} onClick={() => setToolsOpen(!toolsOpen)} aria-expanded={toolsOpen} aria-label="Reading settings">
+              <Type size={15} />
+            </button>
+          )}
           <div className="reader-tools">
             <span className="text-size" role="group" aria-label="Text size">
               <button className="chip" onClick={() => setTextSize({ step: Math.max(-2, textSize.step - 1) })} disabled={textSize.step <= -2} aria-label="Smaller text">
@@ -338,7 +432,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
           </button>
         </header>
 
-        {show.english && (englishCredit || machineCredit) && (
+        {show.english && !narrow && (englishCredit || machineCredit) && (
           <div className="tr-credit">
             {englishCredit && <Credit kind="English" c={englishCredit} />}
             {machineCredit && <Credit kind="Machine translation" c={machineCredit} />}
@@ -349,11 +443,46 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
         {!entries && !error && <div className="reader-loading">Loading…</div>}
 
         {entries && !blockMode && (
-          <div className={`verses${twoCol ? ' two' : ''}`}>
+          <div className={`verses${twoCol ? ' two' : ''}${prose ? ' prose' : ''}`}>
             {entries.map((e) => {
               const en = pair?.mode === 'aligned' ? trByRef.get(e.r)?.e : e.e;
               const machine = !en ? e.m : undefined;
               const lr = localRef(t, e.r);
+              if (prose) {
+                const hasSa = !!(e.s || e.d);
+                // A verse with no English keeps its Sanskrit in view, or it would read as a gap.
+                const open = peek.has(e.r) || (!en && !machine);
+                return (
+                  <div key={e.r} id={`v-${e.r}`} className={`verse${verse === e.r ? ' hit' : ''}`}>
+                    <span className="v-mark">
+                      <a className="v-ref" href={readHref(t.id, key, { with: withId, v: e.r })} title="Link to this passage">
+                        {lr}
+                      </a>
+                      {hasSa && (en || machine) && (
+                        <button className={`v-peek-btn${open ? ' on' : ''}`} onClick={() => togglePeek(e.r)} aria-expanded={open} title="Sanskrit of this verse">
+                          सं
+                        </button>
+                      )}
+                    </span>
+                    {e.t && <div className="v-title">{e.t}</div>}
+                    {en ? (
+                      <div className="v-en">
+                        <Paragraphs text={en} />
+                      </div>
+                    ) : machine ? (
+                      <div className="v-en v-mt">
+                        <span className="mt-label">Machine translation</span>
+                        <Paragraphs text={machine} />
+                      </div>
+                    ) : null}
+                    {open && (
+                      <div className="v-peek">
+                        <SanskritCell e={e} show={ALL_SANSKRIT} />
+                      </div>
+                    )}
+                  </div>
+                );
+              }
               return (
                 <div key={e.r} id={`v-${e.r}`} className={`verse${verse === e.r ? ' hit' : ''}`}>
                   <a className="v-ref" href={readHref(t.id, key, { with: withId, v: e.r })} title="Link to this passage">
@@ -380,7 +509,60 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
           </div>
         )}
 
-        {entries && blockMode && (
+        {entries && blockMode && narrow && (
+          <div className="flow">
+            <section className={`sa-fold${sanskritShown ? ' open' : ''}`}>
+              <button className="sa-fold-head" onClick={toggleSanskrit} aria-expanded={sanskritShown}>
+                <ChevronDown size={16} className={sanskritShown ? '' : 'rot'} />
+                Sanskrit
+                <span className="sa-fold-count">
+                  {entries.length} {t.levels[t.levels.length - 1].toLowerCase()}
+                  {entries.length === 1 ? '' : 's'}
+                </span>
+              </button>
+              {sanskritShown &&
+                entries.map((e) => (
+                  <div key={e.r} id={`v-${e.r}`} className={`pane-verse${verse === e.r ? ' hit' : ''}`}>
+                    <a className="v-ref" href={readHref(t.id, key, { with: withId, v: e.r })}>
+                      {localRef(t, e.r)}
+                    </a>
+                    <div>
+                      <SanskritCell e={e} show={show} />
+                    </div>
+                  </div>
+                ))}
+            </section>
+            <section className="flow-en">
+              <div className="flow-en-head">
+                <strong>{pair?.label}</strong>
+                {pair?.mode === 'concordance' && (
+                  <span className="pane-nudge">
+                    <button onClick={() => setOffset(offset - 1)} aria-label="Earlier section">
+                      ◀
+                    </button>
+                    {tr?.refs.map((r) => r.ref).join(', ') || '—'}
+                    {offset !== 0 && ' (moved)'}
+                    <button onClick={() => setOffset(offset + 1)} aria-label="Later section">
+                      ▶
+                    </button>
+                  </span>
+                )}
+              </div>
+              {lowConfidence && <p className="pane-note">Weak match: this translation numbers sections differently, so the passage may sit one section earlier or later.</p>}
+              {!tr && <div className="reader-loading">Loading translation…</div>}
+              {tr && !tr.entries.length && <div className="v-missing">No matching section found. Use ◀ ▶ to look nearby.</div>}
+              {tr?.entries.map((e) => (
+                <section key={e.r} id={`t-${e.r}`} className="pane-section">
+                  {e.t && <h3>{e.t}</h3>}
+                  <div className="pane-ref">{tr.meta.levels.map((l, i) => `${l} ${e.r.split('.')[i]}`).join(' · ')}</div>
+                  {e.e && <Paragraphs text={e.e} idPrefix={`t-${e.r}`} />}
+                </section>
+              ))}
+            </section>
+          </div>
+        )}
+
+        {entries && blockMode && !narrow && (
           <div className="panes">
             <div className="pane" ref={sync.left}>
               {entries.map((e) => (
@@ -420,13 +602,21 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
               {!tr && <div className="reader-loading">Loading translation…</div>}
               {tr && !tr.entries.length && <div className="v-missing">No matching section found. Use ◀ ▶ to look nearby.</div>}
               {tr?.entries.map((e) => (
-                <section key={e.r} className="pane-section">
+                <section key={e.r} id={`t-${e.r}`} className="pane-section">
                   {e.t && <h3>{e.t}</h3>}
                   <div className="pane-ref">{tr.meta.levels.map((l, i) => `${l} ${e.r.split('.')[i]}`).join(' · ')}</div>
-                  {e.e && <Paragraphs text={e.e} />}
+                  {e.e && <Paragraphs text={e.e} idPrefix={`t-${e.r}`} />}
                 </section>
               ))}
             </div>
+          </div>
+        )}
+
+        {/* On a phone the credit would push the text below the fold; it follows the passage instead. */}
+        {narrow && entries && (englishCredit || machineCredit) && (
+          <div className="tr-credit tr-credit-after">
+            {englishCredit && <Credit kind="English" c={englishCredit} />}
+            {machineCredit && <Credit kind="Machine translation" c={machineCredit} />}
           </div>
         )}
 
@@ -438,6 +628,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
             {at < blocks.length - 1 ? blockLabel(t, blocks[at + 1].key) : ''} <ChevronRight size={16} />
           </button>
         </footer>
+        <NarratorBar n={narrator} label={blockLabel(t, key)} />
       </main>
     </div>
   );

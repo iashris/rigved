@@ -167,8 +167,56 @@
   line-height: 1.6;
 }
 
-.lib-search {
+.lib-filters {
   margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.lib-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-radius: 99px;
+  border: 1px solid var(--lib-line);
+  background: var(--lib-panel);
+  color: var(--lib-ink-2);
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.lib-toggle:hover {
+  border-color: var(--lib-accent);
+}
+
+.lib-toggle:focus-visible {
+  outline: 2px solid var(--lib-accent);
+  outline-offset: 1px;
+}
+
+.lib-toggle-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1.5px solid var(--lib-ink-3);
+}
+
+.lib-toggle[aria-pressed='true'] {
+  border-color: var(--lib-accent);
+  background: var(--lib-accent-soft);
+  color: var(--lib-ink);
+}
+
+.lib-toggle[aria-pressed='true'] .lib-toggle-dot {
+  border-color: var(--lib-accent);
+  background: var(--lib-accent);
+}
+
+.lib-search {
   width: min(480px, 100%);
   padding: 11px 14px;
   border-radius: 10px;
@@ -275,6 +323,12 @@
   font-size: 14.5px;
   font-weight: 600;
   line-height: 1.3;
+}
+
+.lib-card-date {
+  font-size: 11.5px;
+  font-variant-numeric: tabular-nums;
+  color: var(--lib-ink-2);
 }
 
 .lib-card-meta,
@@ -810,13 +864,132 @@
 .pane-section {
   padding: 12px 0;
   font-family: var(--lib-serif);
-  font-size: 16px;
+  font-size: calc(16px * var(--read-scale));
   line-height: 1.7;
 }
 
 .pane-section h3 {
-  font-size: 17px;
+  font-size: calc(17px * var(--read-scale));
   font-weight: 600;
+}
+
+/* Sanskrit folded: the English reads as running prose, the verse number set into the first line. */
+.verses.prose {
+  max-width: 720px;
+}
+
+.verses.prose .verse {
+  display: block;
+  padding: 0 0 0.9em;
+  border-bottom: 0;
+}
+
+.v-mark {
+  float: left;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin: calc(0.28em * var(--read-scale)) 10px 0 0;
+}
+
+.verses.prose .v-ref {
+  padding-top: 0;
+  font-size: 11px;
+}
+
+.v-peek-btn {
+  padding: 0 6px;
+  border: 1px solid var(--lib-line);
+  border-radius: 99px;
+  background: transparent;
+  color: var(--lib-ink-3);
+  font: 11px/1.5 var(--lib-deva);
+  cursor: pointer;
+}
+
+.v-peek-btn.on {
+  border-color: var(--lib-accent);
+  color: var(--lib-accent);
+}
+
+.v-peek {
+  clear: left;
+  margin: 8px 0 4px;
+  padding: 8px 12px;
+  border-left: 2px solid var(--lib-accent);
+  background: var(--lib-panel-2);
+  border-radius: 0 8px 8px 0;
+}
+
+.v-peek .v-deva {
+  font-size: calc(17px * var(--read-scale));
+}
+
+.v-peek .v-iast {
+  font-size: calc(13.5px * var(--read-scale));
+}
+
+/* One column on the page's own scroll: Sanskrit folded on top, the translation below. */
+.flow {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.sa-fold {
+  border-bottom: 1px solid var(--lib-line);
+  margin-bottom: 4px;
+}
+
+.sa-fold-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 2px;
+  border: 0;
+  background: none;
+  color: var(--lib-ink-2);
+  font: 600 14px var(--lib-sans);
+  cursor: pointer;
+  text-align: left;
+}
+
+.sa-fold-head .rot {
+  transform: rotate(-90deg);
+}
+
+.sa-fold-count {
+  margin-left: auto;
+  font-weight: 400;
+  font-size: 12.5px;
+  color: var(--lib-ink-3);
+}
+
+.flow-en-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 0 2px;
+  font-size: 13px;
+  color: var(--lib-ink-3);
+}
+
+.flow-en-head strong {
+  color: var(--lib-ink-2);
+}
+
+.flow-en .pane-section {
+  padding-top: 8px;
+}
+
+.tools-btn {
+  display: inline-flex;
+  align-items: center;
+}
+
+.sa-chip {
+  font-family: var(--lib-deva);
 }
 
 .pane-ref {
@@ -929,5 +1102,212 @@
   }
   .reader-main {
     padding: 0 16px calc(40px + env(safe-area-inset-bottom));
+  }
+}
+
+/* Phones and narrow tablets while reading: the site header scrolls away and the reader bar shrinks to one slim row
+   (contents · title · सं · Aa); size, script and translation controls open from Aa. */
+@media (max-width: 900px) {
+  .lib.reading .lib-nav {
+    position: static;
+  }
+  .reader-bar {
+    top: 0;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 6px 0;
+  }
+  .crumbs {
+    flex: 1;
+    min-width: 0;
+    flex-wrap: nowrap;
+  }
+  .crumbs span {
+    display: none;
+  }
+  .crumbs strong {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .reader-tools {
+    display: none;
+    width: 100%;
+  }
+  .reader-bar.tools-open .reader-tools {
+    display: flex;
+    padding: 4px 0 2px;
+  }
+  .block-head {
+    padding: 12px 0 8px;
+  }
+  .tr-credit {
+    margin-bottom: 8px;
+    font-size: 11.5px;
+  }
+  .verse,
+  .pane-verse {
+    scroll-margin-top: 64px;
+  }
+}
+
+@media (max-width: 900px) {
+  .flow .pane-verse {
+    grid-template-columns: 30px minmax(0, 1fr);
+    gap: 6px;
+  }
+  .tr-credit-after {
+    margin: 24px auto 0;
+    padding-top: 12px;
+    border-top: 1px solid var(--lib-line);
+  }
+}
+
+@media (max-width: 900px) {
+  .v-peek-btn {
+    padding: 2px 9px;
+    font-size: 12px;
+  }
+}
+
+/* ---------- audiobook ---------- */
+.listen-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.reader.listening .reader-main {
+  padding-bottom: calc(120px + env(safe-area-inset-bottom));
+}
+
+.speaking {
+  background: var(--lib-hit);
+  border-radius: 8px;
+  box-shadow: 0 0 0 6px var(--lib-hit);
+  transition: background 0.3s;
+}
+
+.narrator {
+  position: fixed;
+  left: 50%;
+  bottom: calc(14px + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  z-index: 30;
+  width: min(620px, calc(100vw - 24px));
+  border: 1px solid var(--lib-line);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--lib-panel) 94%, transparent);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.18);
+  color: var(--lib-ink);
+}
+
+.narrator-main {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 10px;
+}
+
+.narrator button {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  flex: none;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  color: var(--lib-ink-2);
+  cursor: pointer;
+}
+
+.narrator button:hover {
+  background: var(--lib-panel-2);
+}
+
+.narrator button.on {
+  color: var(--lib-accent);
+}
+
+.narrator .narrator-play {
+  width: 44px;
+  height: 44px;
+  background: var(--lib-accent);
+  color: var(--lib-bg);
+}
+
+.narrator .narrator-play:hover {
+  background: var(--lib-accent);
+  filter: brightness(1.08);
+}
+
+.narrator-label {
+  flex: 1;
+  min-width: 0;
+  display: grid;
+  margin: 0 6px;
+  line-height: 1.25;
+}
+
+.narrator-label strong {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font: 600 13.5px var(--lib-display);
+}
+
+.narrator-label span {
+  font-size: 11.5px;
+  color: var(--lib-ink-3);
+  font-variant-numeric: tabular-nums;
+}
+
+.narrator-more {
+  display: grid;
+  gap: 10px;
+  padding: 12px 14px 4px;
+  border-bottom: 1px solid var(--lib-line);
+  font-size: 12.5px;
+  color: var(--lib-ink-3);
+}
+
+.narrator-more label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.narrator-more select {
+  max-width: 70%;
+  padding: 5px 8px;
+  border-radius: 8px;
+  border: 1px solid var(--lib-line);
+  background: var(--lib-bg);
+  color: var(--lib-ink);
+  font: 13px var(--lib-sans);
+}
+
+.narrator-vol input {
+  width: 55%;
+  accent-color: var(--lib-accent);
+}
+
+.narrator-hint {
+  margin: 0;
+  font-size: 11.5px;
+  line-height: 1.45;
+}
+
+@media (max-width: 600px) {
+  .narrator {
+    bottom: calc(8px + env(safe-area-inset-bottom));
+    width: calc(100vw - 16px);
+  }
+  .narrator button {
+    width: 36px;
+    height: 36px;
   }
 }
