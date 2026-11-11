@@ -23,6 +23,9 @@ export default function Root() {
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    // Phone browsers tint their toolbar with this, so the page doesn't sit under a bright bar at night.
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#0d0d0d' : '#ffffff');
+    document.documentElement.style.background = dark ? '#0d0d0d' : '#ffffff';
     try {
       localStorage.setItem('theme', dark ? 'dark' : 'light');
     } catch {

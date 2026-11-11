@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
 import { ChevronLeft, ChevronRight, ChevronDown, List, X } from 'lucide-react';
 import type { Catalog, Concordance, Entry, SourceLink, TextMeta, TocNode, TranslationCredit } from './data';
 import { blockLabel, blockList, isBlock, loadBlock, loadConcordance, localRef } from './data';
@@ -151,6 +151,7 @@ function useScrollSync() {
 export default function Reader({ catalog, textId, block, withId, verse }: { catalog: Catalog; textId: string; block: string; withId?: string; verse?: string }) {
   const t = catalog.texts.find((x) => x.id === textId);
   const [show, setShow] = usePersisted<Show>('reader.show', { iast: true, deva: true, english: true });
+  const [textSize, setTextSize] = usePersisted<{ step: number }>('reader.textSize', { step: 0 });
   const [tocOpen, setTocOpen] = useState(false);
   const [entries, setEntries] = useState<Entry[] | null>(null);
   const [tr, setTr] = useState<{ meta: TextMeta; entries: Entry[]; refs: { ref: string; score: number }[]; offset: number } | null>(null);
@@ -254,8 +255,10 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   const englishCredit = (pair ? catalog.texts.find((x) => x.id === pair.with) : t)?.translation?.english;
   const machineCredit = blockMode ? undefined : t.translation?.machine;
 
+  const readScale = { '--read-scale': String(1 + textSize.step * 0.1) } as CSSProperties;
+
   return (
-    <div className="reader">
+    <div className="reader" style={readScale}>
       <aside className={`reader-toc${tocOpen ? ' open' : ''}`}>
         <div className="toc-top">
           <a href="#/" className="toc-back">
@@ -284,6 +287,14 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
             <strong>{t.name}</strong>
           </div>
           <div className="reader-tools">
+            <span className="text-size" role="group" aria-label="Text size">
+              <button className="chip" onClick={() => setTextSize({ step: Math.max(-2, textSize.step - 1) })} disabled={textSize.step <= -2} aria-label="Smaller text">
+                A−
+              </button>
+              <button className="chip" onClick={() => setTextSize({ step: Math.min(4, textSize.step + 1) })} disabled={textSize.step >= 4} aria-label="Larger text">
+                A+
+              </button>
+            </span>
             {toggles.map(([k, label]) => (
               <button key={k} className={`chip${show[k] ? ' on' : ''}`} onClick={() => setShow({ ...show, [k]: !show[k] })} aria-pressed={show[k]}>
                 {label}

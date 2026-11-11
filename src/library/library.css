@@ -1,34 +1,51 @@
 /* Vedic Library: canon map + reader. Scoped under .lib so the analysis tool keeps its own look. */
 
 :root {
-  --lib-bg: #f6f1e7;
-  --lib-panel: #fffdf8;
-  --lib-panel-2: #f1ead9;
-  --lib-ink: #2a2118;
-  --lib-ink-2: #5c4f40;
-  --lib-ink-3: #8a7b68;
-  --lib-line: #e3d8c3;
-  --lib-accent: #a4401c;
-  --lib-accent-soft: #f4dccd;
-  --lib-gold: #b7862b;
-  --lib-hit: #fff1b8;
-  --lib-serif: 'Noto Serif', Georgia, 'Times New Roman', serif;
+  /* India in Pixels house style: white like the map posts by day, near-black like the explainer
+     posts by night. Poppins for titles (the posts' headline face), Inter for reading and UI (the
+     map labels' face), crimson as the day accent and the thumbnails' gold at night. */
+  --lib-bg: #ffffff;
+  --lib-panel: #ffffff;
+  --lib-panel-2: #f4f4f2;
+  --lib-ink: #141414;
+  --lib-ink-2: #444444;
+  --lib-ink-3: #6b6b6b;
+  --lib-line: #e6e6e3;
+  --lib-accent: #c41e3a;
+  --lib-accent-soft: #fbe6ea;
+  --lib-gold: #d99a1e;
+  --lib-hit: #fff3c4;
+  --lib-display: 'Poppins', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --lib-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --lib-deva: 'Noto Serif Devanagari', 'Noto Sans Devanagari', serif;
-  --lib-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --lib-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
+/* Night reading: IIP black, with text a warm off-white rather than pure white, which is easier on
+   the eyes in a dark room. */
 [data-theme='dark'] {
-  --lib-bg: #15120e;
-  --lib-panel: #1e1a15;
-  --lib-panel-2: #26211a;
-  --lib-ink: #ece3d3;
-  --lib-ink-2: #c3b6a2;
-  --lib-ink-3: #8e8170;
-  --lib-line: #3a3228;
-  --lib-accent: #e58a5c;
-  --lib-accent-soft: #3d2619;
-  --lib-gold: #d7aa4f;
-  --lib-hit: #4a3b12;
+  --lib-bg: #0d0d0d;
+  --lib-panel: #161616;
+  --lib-panel-2: #1d1d1d;
+  --lib-ink: #d8d2c8;
+  --lib-ink-2: #b5aea3;
+  --lib-ink-3: #8c867d;
+  --lib-line: #2a2a2a;
+  --lib-accent: #e8b24a;
+  --lib-accent-soft: #2e2512;
+  --lib-gold: #e8b24a;
+  --lib-hit: #3a2f12;
+  color-scheme: dark;
+}
+
+:root {
+  color-scheme: light;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+.reader {
+  --read-scale: 1;
 }
 
 .lib {
@@ -74,7 +91,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-size: 18px;
   font-weight: 600;
   text-decoration: none;
@@ -137,7 +154,7 @@
 }
 
 .lib-hero h1 {
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-weight: 600;
   font-size: clamp(28px, 4vw, 44px);
   letter-spacing: -0.01em;
@@ -200,7 +217,7 @@
 .lib-colhead strong,
 .lib-rowhead strong,
 .lib-bandhead strong {
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-size: 16px;
   font-weight: 600;
 }
@@ -254,7 +271,7 @@
 }
 
 .lib-card-name {
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-size: 14.5px;
   font-weight: 600;
   line-height: 1.3;
@@ -333,7 +350,7 @@
 }
 
 .lib-grouphead strong {
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-size: 15px;
   font-weight: 600;
 }
@@ -417,7 +434,7 @@
 
 .toc-title {
   margin-top: 14px;
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-size: 18px;
   font-weight: 600;
 }
@@ -531,7 +548,7 @@
 
 .crumbs strong {
   color: var(--lib-ink);
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-size: 15px;
 }
 
@@ -572,7 +589,7 @@
 }
 
 .block-head h2 {
-  font-family: var(--lib-serif);
+  font-family: var(--lib-display);
   font-weight: 600;
   font-size: clamp(20px, 2.4vw, 26px);
   text-align: center;
@@ -682,7 +699,7 @@
 
 .v-deva {
   font-family: var(--lib-deva);
-  font-size: 19px;
+  font-size: calc(19px * var(--read-scale));
   line-height: 1.75;
 }
 
@@ -690,15 +707,26 @@
   margin-top: 4px;
   font-family: var(--lib-serif);
   font-style: italic;
-  font-size: 15px;
+  font-size: calc(15px * var(--read-scale));
   line-height: 1.6;
   color: var(--lib-ink-2);
 }
 
 .v-en {
   font-family: var(--lib-serif);
-  font-size: 16px;
+  font-size: calc(16px * var(--read-scale));
   line-height: 1.65;
+}
+
+.text-size {
+  display: inline-flex;
+  gap: 4px;
+  margin-right: 4px;
+}
+
+.text-size .chip:disabled {
+  opacity: 0.4;
+  cursor: default;
 }
 
 .v-en p + p,
@@ -865,4 +893,41 @@
   border-radius: 99px;
   font: normal 11px var(--lib-sans);
   color: var(--lib-ink-3);
+}
+
+/* Phones: give the text the full width, bigger tap targets, a comfortable reading size. */
+@media (max-width: 600px) {
+  .verse,
+  .verses.two .verse {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2px;
+    padding: 14px 2px 16px;
+  }
+  .verses:not(.two) .v-en,
+  .verses.two .v-en {
+    grid-column: 1;
+  }
+  .v-ref {
+    padding-top: 0;
+    font-size: 11.5px;
+  }
+  .v-en {
+    font-size: calc(17px * var(--read-scale));
+    line-height: 1.72;
+  }
+  .v-deva {
+    font-size: calc(20px * var(--read-scale));
+  }
+  .chip,
+  .chip-select {
+    padding: 7px 13px;
+    font-size: 14px;
+  }
+  .reader-bar {
+    gap: 8px;
+    padding: 8px 0;
+  }
+  .reader-main {
+    padding: 0 16px calc(40px + env(safe-area-inset-bottom));
+  }
 }
