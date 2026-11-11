@@ -1771,5 +1771,104 @@
         "url": "https://indike.org/pramana/in.bauddha.taisho.2053~en-beal"
       }
     }
+  },
+  "rgvidhana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.misc.vidhana.rgvidhana-works.rg~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kathaka_brahmana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.kathaka~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kauthuma_grhyasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.grhya.samaveda.kauthuma~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "maitrayana_sulbasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.sulba.maitrayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "manava_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.maitrayaniya.manava~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "atharvaveda_parisista": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.misc.parisista.atharvaveda.atharva~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "visnudharmottara_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.upa.vaisnava.visnudharmottara~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "ahirbudhnya_samhita": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.vaisnava.pancaratra.samhita.divyasamhita.ahirbudhnya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "jayakhya_samhita": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.vaisnava.pancaratra.samhita.ratnatraya.jayakhya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
   }
 }
