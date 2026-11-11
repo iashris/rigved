@@ -7,6 +7,8 @@ export interface Entry {
   e?: string; // English
   m?: string; // machine translation (labelled as such wherever shown)
   t?: string; // heading (translation sections)
+  n?: [number, number, number]; // mandala/hymn/verse for the search page, only where the reference doesn't give them
+  dt?: 1; // d came from a legacy file's text field rather than its meaning field (the search page shows it as the text)
 }
 
 /** [key, entries, chunk, heading] at block level; [key, entries, children] above it. */
@@ -124,7 +126,16 @@ export async function loadBlock(t: TextMeta, key: string): Promise<Entry[] | nul
   return data[key] ?? null;
 }
 
-export const loadConcordance = (source: string, translation: string) =>
+/** A whole text in order, for the search page, which needs every entry at once. */
+export async function loadAllEntries(t: TextMeta): Promise<Entry[]> {
+  const blocks = blockList(t);
+  const chunks = await Promise.all(
+    Array.from({ length: t.stats.chunks }, (_, n) => getJson<Record<string, Entry[]>>(`${BASE}/texts/${t.id}/${n}.json`)),
+  );
+  return blocks.flatMap((b) => chunks[b.chunk][b.key] ?? []);
+}
+
+export const loadConcordance =(source: string, translation: string) =>
   getJson<Concordance>(`${BASE}/concordance/${source}__${translation}.json`);
 
 /** "Maṇḍala 1 · Sūkta 32" for a block key. */

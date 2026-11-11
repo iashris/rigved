@@ -1,5 +1,6 @@
 import type { Verse, SearchResult, VedaId, VedaMetadata } from "../types";
 import { VEDA_CONFIGS } from "../types";
+import { loadAllEntries, loadCatalog } from "../library/data";
 
 // Normalize text by removing diacritics and special characters
 function normalizeText(text: string): string {
@@ -48,23 +49,28 @@ function finalizeVerse(
 // Generic JSON loader for all texts
 // ==========================================
 
+// The site ships only the reader's chunked library (public/data stays in git for the engine), so the
+// search page rebuilds each text from those chunks.
 async function loadGenericJson(vedaId: VedaId): Promise<Verse[]> {
-  const config = VEDA_CONFIGS[vedaId];
-  const response = await fetch(`./${config.dataPath}`);
-  const rawData = await response.json();
+  const textId = VEDA_CONFIGS[vedaId].dataPath.split("/").pop()!.replace(/\.json$/, "");
+  const meta = (await loadCatalog()).texts.find((t) => t.id === textId);
+  if (!meta) throw new Error(`${textId} is not in the library catalog`);
+  const entries = await loadAllEntries(meta);
 
-  const verses: Verse[] = rawData.map((item: Record<string, unknown>) => ({
-    reference: item.reference as string || '',
-    text: (item.text as string) || '',
-    mandala: (item.mandala as number) || (item.chapter as number) || 0,
-    hymn: (item.hymn as number) || (item.khanda as number) || 0,
-    verse: (item.verse as number) || 1,
-    iast: (item.sanskrit_iast as string) || (item.iast as string) || '',
-    meaning: (item.meaning as string) || '',
-    vedaId: vedaId,
-  }));
-
-  return verses;
+  return entries.map((e) => {
+    const parts = e.r.split(".").map((p) => (/^\d+$/.test(p) ? parseInt(p, 10) : 0));
+    const [mandala, hymn, verse] = e.n ?? [parts[0] || 0, parts[1] || 0, parts[2] || 1];
+    return {
+      reference: e.r,
+      text: e.e ?? e.m ?? (e.dt ? e.d ?? "" : ""),
+      mandala,
+      hymn,
+      verse,
+      iast: e.s ?? "",
+      meaning: e.dt ? "" : e.d ?? "",
+      vedaId,
+    };
+  });
 }
 
 // ==========================================

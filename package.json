@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run library && tsc -b && vite build",
+    "build": "npm run library && tsc -b && vite build && node scripts/prune_site_data.mjs",
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "npm run build && cp -r docs ../",
-    "build:gh-pages": "npm run library && tsc -b && vite build",
+    "build:gh-pages": "npm run library && tsc -b && vite build && node scripts/prune_site_data.mjs",
     "parse:av": "node scripts/parseAvhymns.cjs",
     "library": "python3 -I scripts/corpus2/build_library.py"
   },

@@ -41,6 +41,7 @@ def compact(e, machine_text=False):
         out["e"] = eng
     elif eng and not deva:
         out["d"] = eng  # a few legacy files keep the Devanagari in `text`
+        out["dt"] = 1
     if e.get("text_mt"):
         out["m"] = e["text_mt"]
     if machine_text and "e" in out:
@@ -53,6 +54,15 @@ def compact(e, machine_text=False):
 def build_text(meta, machine_text=False):
     raw = json.load(open(os.path.join(DATA, meta["file"]), encoding="utf-8"))
     entries = [compact(e, machine_text) for e in raw]
+    # The search page numbers verses by mandala/hymn/verse. Where those can't be read off the reference
+    # (Śatapatha, Manu, the short Upaniṣads), carry them as n so the site can drop public/data.
+    for src, e in zip(raw, entries):
+        if not any(k in src for k in ("mandala", "chapter", "hymn", "khanda", "verse")):
+            continue
+        nums = [src.get("mandala") or src.get("chapter") or 0, src.get("hymn") or src.get("khanda") or 0, src.get("verse") or 1]
+        parts = [int(p) if p.isdigit() else 0 for p in e["r"].split(".")] + [0, 0, 0]
+        if nums != [parts[0], parts[1], parts[2] or 1]:
+            e["n"] = nums
     depths = [len(e["r"].split(".")) for e in entries]
     block_depth = max(min(depths) - 1, 0)
     # Long entries (a Ganguli section, a Kāṭhaka anuvāka) are already a page each: read them one at a time.
