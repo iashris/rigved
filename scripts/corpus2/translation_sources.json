@@ -1631,5 +1631,145 @@
       "noSource": true,
       "note": "Added to this project in March 2026 with no record of how it was made, and it is not Pramāṇa's machine translation. No public source to check it against."
     }
+  },
+  "jataka_cowell": {
+    "english": {
+      "by": "E. B. Cowell (ed.); tr. R. Chalmers, W. H. D. Rouse, H. T. Francis, R. A. Neil, E. B. Cowell",
+      "work": "The Jātaka, or Stories of the Buddha's Former Births, 6 vols., Cambridge University Press",
+      "year": "1895–1907",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/j1/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.theravada.sp.khuddaka.jataka!jatakatthavannana~en-cowell"
+      }
+    }
+  },
+  "milindapanha_rhysdavids": {
+    "english": {
+      "by": "T. W. Rhys Davids",
+      "work": "The Questions of King Milinda, Parts I–II, Sacred Books of the East vols. 35–36, Oxford: Clarendon Press",
+      "year": "1890–94",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/sbe35/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.theravada.sp.khuddaka.milindapanha~en-rhysdavids"
+      }
+    }
+  },
+  "mahavamsa_geiger": {
+    "english": {
+      "by": "Wilhelm Geiger, assisted by Mabel Haynes Bode",
+      "work": "The Mahāvaṃsa or the Great Chronicle of Ceylon, Pali Text Society Translation Series 3, London",
+      "year": "1912",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/buddhism/book/the-mahavamsa"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.theravada_postcanon.vamsa.mahavamsa~en-geiger"
+      }
+    }
+  },
+  "kathasaritsagara_tawney": {
+    "english": {
+      "by": "C. H. Tawney",
+      "work": "The Kathá Sarit Ságara, or Ocean of the Streams of Story, 2 vols., Calcutta: Baptist Mission Press (Bibliotheca Indica)",
+      "year": "1880–84",
+      "links": [
+        {
+          "label": "en.wikisource.org",
+          "url": "https://en.wikisource.org/wiki/The_Katha_Sarit_Sagara"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.brhatkatha.kathasaritsagara~en-tawney"
+      }
+    }
+  },
+  "rajatarangini_stein": {
+    "english": {
+      "by": "M. A. Stein",
+      "work": "Kalhaṇa's Rājataraṅgiṇī: A Chronicle of the Kings of Kaśmīr, 2 vols., Westminster: Archibald Constable",
+      "year": "1900",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/RajataranginiVol1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.historical.kashmir.rajatarangini~en-stein"
+      }
+    }
+  },
+  "faxian_legge": {
+    "english": {
+      "by": "James Legge",
+      "work": "A Record of Buddhistic Kingdoms: Being an Account by the Chinese Monk Fâ-hien of his Travels in India and Ceylon (A.D. 399–414), Oxford: Clarendon Press",
+      "year": "1886",
+      "links": [
+        {
+          "label": "gutenberg.org",
+          "url": "https://www.gutenberg.org/ebooks/2124"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.2085~en-legge"
+      }
+    }
+  },
+  "xuanzang_beal": {
+    "english": {
+      "by": "Samuel Beal",
+      "work": "Si-yu-ki: Buddhist Records of the Western World, translated from the Chinese of Hiuen Tsiang, 2 vols., London: Trübner",
+      "year": "1884",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/siyukibuddhistre01hsuoft"
+        },
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/siyukibuddhistre02hsuoft"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.2087~en-beal"
+      }
+    }
+  },
+  "xuanzang_life_beal": {
+    "english": {
+      "by": "Samuel Beal",
+      "work": "The Life of Hiuen-Tsiang, by the Shaman Hwui Li, new edition, London: Kegan Paul",
+      "year": "1911",
+      "links": [
+        {
+          "label": "archive.org",
+          "url": "https://archive.org/details/in.ernet.dli.2015.39398"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.2053~en-beal"
+      }
+    }
   }
 }
