@@ -77,12 +77,12 @@ const Paragraphs = ({ text }: { text: string }) => (
   </>
 );
 
-function SanskritCell({ e, show }: { e: Entry; show: Show }) {
+function SanskritCell({ e, show, englishOnly }: { e: Entry; show: Show; englishOnly?: boolean }) {
   return (
     <>
       {show.deva && e.d && <div className="v-deva" lang="sa-Deva">{e.d}</div>}
       {show.iast && e.s && <div className="v-iast" lang="sa-Latn">{e.s}</div>}
-      {!e.s && !e.d && <div className="v-missing">No Sanskrit in this edition</div>}
+      {!e.s && !e.d && !englishOnly && <div className="v-missing">No Sanskrit in this edition</div>}
     </>
   );
 }
@@ -240,11 +240,15 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   const layer = catalog.layers.find((l) => l.id === t.layer) ?? catalog.bands.find((b) => b.id === t.band);
   const blockMode = pair && pair.mode !== 'aligned';
   const trByRef = new Map((pair?.mode === 'aligned' ? tr?.entries : [])?.map((e) => [e.r, e]) ?? []);
-  const toggles: [keyof Show, string][] = [
-    ['deva', 'देवनागरी'],
-    ['iast', 'IAST'],
-    ['english', 'English'],
-  ];
+  // English-only texts (Jātakas, the pilgrims, Kathāsaritsāgara…) have no original to toggle or to flag as missing.
+  const englishOnly = t.stats.sanskrit === 0 && !pair;
+  const toggles: [keyof Show, string][] = englishOnly
+    ? []
+    : [
+        ['deva', 'देवनागरी'],
+        ['iast', 'IAST'],
+        ['english', 'English'],
+      ];
   const twoCol = show.english && (inlineEnglish || pair?.mode === 'aligned');
   const lowConfidence = tr && pair?.mode === 'concordance' && tr.refs.every((r) => r.score < 0.5);
   const englishCredit = (pair ? catalog.texts.find((x) => x.id === pair.with) : t)?.translation?.english;
@@ -263,7 +267,8 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
         </div>
         <div className="toc-title">{t.name}</div>
         {t.source && <div className="toc-source">{t.source}</div>}
-        <nav onClick={() => setTocOpen(false)}>
+        {/* On mobile, opening a branch keeps the drawer open; only picking a passage closes it. */}
+        <nav onClick={(ev) => (ev.target as HTMLElement).closest('a.toc-leaf') && setTocOpen(false)}>
           <Toc t={t} nodes={t.toc} current={key} withId={withId} />
         </nav>
       </aside>
@@ -345,9 +350,9 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                   </a>
                   <div className="v-sa">
                     {e.t && <div className="v-title">{e.t}</div>}
-                    <SanskritCell e={e} show={show} />
+                    <SanskritCell e={e} show={show} englishOnly={englishOnly} />
                   </div>
-                  {show.english &&
+                  {(show.english || englishOnly) &&
                     (en ? (
                       <div className="v-en"><Paragraphs text={en} /></div>
                     ) : machine ? (
