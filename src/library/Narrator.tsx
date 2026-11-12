@@ -1,7 +1,7 @@
 // The audiobook player bar; the reading logic lives in useNarrator.ts.
 import { useState } from 'react';
 import { Music, Pause, Play, Settings2, SkipBack, SkipForward, X } from 'lucide-react';
-import { voiceScore, type Narrator } from './useNarrator';
+import type { Narrator } from './useNarrator';
 
 export default function NarratorBar({ n, label }: { n: Narrator; label: string }) {
   const [more, setMore] = useState(false);
@@ -34,9 +34,10 @@ export default function NarratorBar({ n, label }: { n: Narrator; label: string }
             Music volume
             <input type="range" min={0.05} max={1} step={0.05} value={n.settings.volume} onChange={(e) => n.setSettings({ volume: Number(e.target.value) })} />
           </label>
-          {!n.voices.some((v) => voiceScore(v) >= 40) && (
-            <p className="narrator-hint">For a more natural voice, add an “Enhanced” or “Premium” English voice in your device’s speech settings.</p>
-          )}
+          <p className="narrator-hint">
+            Better voices: in Microsoft Edge, the “Natural” ones (e.g. Neerja or Prabhat, English India). On iPhone or Mac, download an
+            English (India) voice marked Enhanced or Premium in Settings → Accessibility → Spoken Content, then pick it here.
+          </p>
         </div>
       )}
       <div className="narrator-main">

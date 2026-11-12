@@ -21,16 +21,20 @@ function loadSettings(): Settings {
   }
 }
 
-/** Higher is more natural. The neural and studio voices shipped by Apple, Google and Microsoft sound far less robotic. */
+// Apple's novelty voices and the retro formant ones read scripture like a robot or a cartoon: never offered.
+const JOKE = /novelty|whisper|bad news|good news|bells|boing|bubbles|cellos|zarvox|trinoids|albert|jester|organ|superstar|wobble|hysterical|deranged|bahh|^eddy|^flo\b|grandma|grandpa|^reed|rocko|^sandy|shelley|^fred|^junior|^ralph|^kathy/;
+
+/** Higher is better. English (India) voices first, as listeners asked for; then the neural, studio and downloadable
+ *  "Enhanced"/"Premium" voices, which sound far less synthetic than the defaults. */
 export function voiceScore(v: SpeechSynthesisVoice) {
   const n = v.name.toLowerCase();
   let s = 0;
-  if (/natural|neural|premium|enhanced|siri|studio|wavenet/.test(n)) s += 50;
-  if (/^google/.test(n)) s += 25;
+  if (/en[-_]in/i.test(v.lang)) s += 30;
+  if (/natural|neural|premium|enhanced|siri|studio|wavenet/.test(n)) s += 40;
+  if (/^google/.test(n)) s += 15;
   if (!v.localService) s += 5;
-  if (/en[-_](gb|in|us|au|ie)/i.test(v.lang)) s += 10;
-  // Apple's novelty and retro voices, and the old formant ones, read scripture like a robot or a cartoon.
-  if (/compact|novelty|whisper|bad news|bells|boing|bubbles|cellos|zarvox|trinoids|albert|jester|organ|superstar|wobble|hysterical|good news|deranged|bahh|^eddy|^flo\b|grandma|grandpa|^reed|rocko|^sandy|shelley|^fred|^junior|^ralph|^kathy/.test(n)) s -= 100;
+  if (/en[-_](gb|us|au|ie)/i.test(v.lang)) s += 5;
+  if (/compact/.test(n)) s -= 20;
   return s;
 }
 
@@ -42,7 +46,7 @@ function useVoices() {
       setVoices(
         speechSynthesis
           .getVoices()
-          .filter((v) => v.lang.toLowerCase().startsWith('en'))
+          .filter((v) => v.lang.toLowerCase().startsWith('en') && !JOKE.test(v.name.toLowerCase()))
           .sort((a, b) => voiceScore(b) - voiceScore(a) || a.name.localeCompare(b.name)),
       );
     load();
@@ -52,9 +56,30 @@ function useVoices() {
   return voices;
 }
 
+// IAST in a word: the speech engines spell these letter by letter or swallow them.
+const IAST = /[āīūṛṝḷḹṅñṭḍṇśṣṃṁḥĀĪŪṚṜḶṄÑṬḌṆŚṢṂṀḤ]/;
+const RESPELL: [RegExp, string][] = [
+  [/jñ/g, 'gy'], [/Jñ/g, 'Gy'], // jñāna → gyana, as it is said
+  // IAST c is "ch" and ch is "chh"; the aspirate is parked so the plain c rule cannot catch it again
+  [/ch/g, '\u0001'], [/Ch/g, '\u0002'], [/c/g, 'ch'], [/C/g, 'Ch'], [/\u0001/g, 'chh'], [/\u0002/g, 'Chh'],
+  [/ṛ|ṝ/g, 'ri'], [/Ṛ|Ṝ/g, 'Ri'], [/ḷ|ḹ/g, 'li'], [/Ḷ/g, 'Li'],
+  [/ś|ṣ/g, 'sh'], [/Ś|Ṣ/g, 'Sh'],
+  [/ṃ|ṁ/g, 'm'], [/Ṃ|Ṁ/g, 'M'], [/ḥ/g, 'h'], [/Ḥ/g, 'H'],
+  [/ṅ|ñ|ṇ/g, 'n'], [/Ṅ|Ñ|Ṇ/g, 'N'], [/ṭ/g, 't'], [/Ṭ/g, 'T'], [/ḍ/g, 'd'], [/Ḍ/g, 'D'],
+  [/ā/g, 'a'], [/Ā/g, 'A'], [/ī/g, 'ee'], [/Ī/g, 'Ee'], [/ū/g, 'oo'], [/Ū/g, 'Oo'],
+];
+
+/** Respell Sanskrit names the way an Indian reader says them (Kṛṣṇa → Krishna, Śiva → Shiva, Gītā → Geeta).
+ *  Only words carrying IAST marks are touched, so the English around them is left alone. */
+export function speakable(text: string) {
+  return text
+    .replace(/[\p{L}\p{M}]+/gu, (w) => (IAST.test(w) ? RESPELL.reduce((x, [re, to]) => x.replace(re, to), w.normalize('NFC')) : w))
+    .replace(/\s+\/+\s+|\s*\|\|?\s*/g, ', '); // verse-half marks in the machine translations, not "slash"
+}
+
 /** Sentence-sized pieces: browsers stall or clip long utterances, and short ones let pause and skip land quickly. */
 function chunks(text: string): string[] {
-  const clean = text
+  const clean = speakable(text)
     .replace(/\[\d+\]|\(\d+\)/g, '') // footnote marks
     .replace(/\s+/g, ' ')
     .trim();
