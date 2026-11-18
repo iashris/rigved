@@ -983,6 +983,24 @@
       "year": "1896"
     }
   },
+  "rigveda_jamison_brereton": {
+    "english": {
+      "by": "Stephanie W. Jamison and Joel P. Brereton",
+      "work": "The Rigveda: The Earliest Religious Poetry of India",
+      "year": "2014",
+      "links": [
+        {
+          "label": "Oxford University Press",
+          "url": "https://global.oup.com/academic/product/the-rigveda-9780199370184"
+        },
+        {
+          "label": "Jamison's Rigveda commentary",
+          "url": "https://rigvedacommentary.alc.ucla.edu/"
+        }
+      ],
+      "note": "Each hymn names the translator who made its final version."
+    }
+  },
   "samaveda": {
     "english": {
       "by": "R. T. H. Griffith",

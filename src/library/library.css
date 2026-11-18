@@ -793,6 +793,105 @@
   margin-bottom: 4px;
 }
 
+/* A verse translation that keeps its half-verse lines (Jamison & Brereton). */
+.v-en p.lines {
+  white-space: pre-line;
+}
+
+/* Comparing translations: each version under its translator's name, one after another in the English column. */
+.v-version + .v-version {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--lib-line);
+}
+
+.v-version-label {
+  display: block;
+  margin-bottom: 2px;
+  font: 600 10.5px var(--lib-sans);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--lib-ink-3);
+}
+
+/* A hymn's notes from its translators, folded above the verses. */
+.hymn-about {
+  max-width: 820px;
+  margin: 0 auto 14px;
+  border: 1px solid var(--lib-line);
+  border-radius: 10px;
+  background: var(--lib-panel);
+}
+
+.hymn-about > summary {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  padding: 10px 14px;
+  cursor: pointer;
+  list-style: none;
+  font: 13px var(--lib-sans);
+  color: var(--lib-ink-2);
+}
+
+.hymn-about > summary::-webkit-details-marker {
+  display: none;
+}
+
+.hymn-about-chev {
+  align-self: center;
+  flex: none;
+  transform: rotate(-90deg);
+  transition: transform 0.15s;
+  color: var(--lib-ink-3);
+}
+
+.hymn-about[open] .hymn-about-chev {
+  transform: none;
+}
+
+.hymn-about-title {
+  font-weight: 600;
+  color: var(--lib-ink);
+}
+
+.hymn-about-facts {
+  color: var(--lib-ink-3);
+}
+
+.hymn-about-body {
+  padding: 2px 18px 14px 38px;
+  font-family: var(--lib-serif);
+  font-size: calc(15px * var(--read-scale));
+  line-height: 1.65;
+  color: var(--lib-ink-2);
+}
+
+.hymn-about-body p + p {
+  margin-top: 0.7em;
+}
+
+.hymn-about-preface {
+  margin-top: 12px;
+}
+
+.hymn-about-preface > summary {
+  cursor: pointer;
+  font: 600 13px var(--lib-sans);
+  color: var(--lib-accent);
+}
+
+.hymn-about-preface > p:first-of-type {
+  margin-top: 8px;
+}
+
+.hymn-about-credit {
+  margin-top: 12px !important;
+  font: 12px var(--lib-sans);
+  color: var(--lib-ink-3);
+}
+
 .v-missing {
   font-size: 13px;
   color: var(--lib-ink-3);
@@ -1090,6 +1189,9 @@
   }
   .v-deva {
     font-size: calc(20px * var(--read-scale));
+  }
+  .hymn-about-body {
+    padding: 2px 14px 12px;
   }
   .chip,
   .chip-select {

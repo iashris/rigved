@@ -9,6 +9,17 @@ export interface Entry {
   t?: string; // heading (translation sections)
   n?: [number, number, number]; // mandala/hymn/verse for the search page, only where the reference doesn't give them
   dt?: 1; // d came from a legacy file's text field rather than its meaning field (the search page shows it as the text)
+  a?: HymnAbout; // on a hymn's first verse, where the translation has notes on it
+}
+
+/** A translator's notes on one hymn (Jamison & Brereton): poet, meter, which of them translated it, the hymn's
+ * introduction, and any introduction to the maṇḍala or group of hymns it opens. */
+export interface HymnAbout {
+  poet?: string;
+  meter?: string;
+  by?: string;
+  intro?: string;
+  preface?: string;
 }
 
 /** [key, entries, chunk, heading] at block level; [key, entries, children] above it. */
@@ -47,6 +58,8 @@ export interface TextMeta {
   /** Approximate composition, [start, end] in years; negative is BCE. Pramāṇa's consensus dating. */
   date?: [number, number];
   translationOf?: string;
+  /** The English keeps one line per half-verse, so its line breaks are shown. */
+  verseLines?: boolean;
   levels: string[];
   source?: string;
   translation?: { english?: TranslationCredit; machine?: TranslationCredit };

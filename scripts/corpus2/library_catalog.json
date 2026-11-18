@@ -29,7 +29,9 @@
     {"id": "travel", "name": "Pilgrims' records", "blurb": "India as Chinese monks saw it, 399–645 CE, in English"}
   ],
   "texts": [
-    {"id": "rigveda", "file": "vedas/rigveda.json", "name": "Ṛgveda Saṃhitā", "date": [-1450, -1100], "veda": "rv", "layer": "samhita", "levels": ["Maṇḍala", "Sūkta", "Ṛc"], "source": "Sanskrit: Van Nooten & Holland; English: R. T. H. Griffith (1896)"},
+    {"id": "rigveda", "file": "vedas/rigveda.json", "name": "Ṛgveda Saṃhitā", "date": [-1450, -1100], "veda": "rv", "layer": "samhita", "levels": ["Maṇḍala", "Sūkta", "Ṛc"], "source": "Sanskrit: Van Nooten & Holland; English: R. T. H. Griffith (1896), Jamison & Brereton (2014)",
+     "pairs": [{"with": "rigveda_jamison_brereton", "mode": "aligned", "label": "Jamison & Brereton (2014)"}]},
+    {"id": "rigveda_jamison_brereton", "file": "vedas/rigveda_jamison_brereton.json", "name": "Ṛgveda Saṃhitā — Jamison & Brereton", "veda": "rv", "layer": "samhita", "translationOf": "rigveda", "verseLines": true, "levels": ["Maṇḍala", "Sūkta", "Ṛc"], "source": "S. W. Jamison and J. P. Brereton, The Rigveda: The Earliest Religious Poetry of India (Oxford University Press, 2014)"},
     {"id": "rgveda_khilani", "file": "vedas/rgveda_khilani.json", "name": "Ṛgveda Khilāni", "date": [-200, 900], "veda": "rv", "layer": "samhita", "levels": ["Adhyāya", "Sūkta", "Ṛc"], "source": "GRETIL (Scheftelowitz)"},
     {"id": "aitareya_brahmana", "file": "brahmanas/aitareya_brahmana.json", "name": "Aitareya Brāhmaṇa", "date": [-850, -600], "veda": "rv", "layer": "brahmana", "levels": ["Adhyāya", "Khaṇḍa"], "source": "TITUS (Aufrecht 1879)"},
     {"id": "kausitaki_brahmana", "file": "brahmanas/kausitaki_brahmana.json", "name": "Kauṣītaki Brāhmaṇa", "date": [-750, -550], "veda": "rv", "layer": "brahmana", "levels": ["Adhyāya", "Khaṇḍa", "Vākya"], "source": "GRETIL (Tokunaga)", "pairs": [{"with": "kausitaki_brahmana_keith", "mode": "concordance", "label": "A. B. Keith (1920)"}]},

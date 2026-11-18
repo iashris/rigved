@@ -28,7 +28,7 @@ def norm_ref(r):
 
 
 def compact(e, machine_text=False):
-    """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, m machine English, t heading."""
+    """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, m machine English, t heading, a about."""
     out = {"r": norm_ref(e["reference"])}
     iast = e.get("sanskrit_iast") or e.get("iast") or ""
     deva = e.get("meaning") or ""
@@ -48,6 +48,8 @@ def compact(e, machine_text=False):
         out["m"] = out.pop("e")
     if e.get("title"):
         out["t"] = e["title"]
+    if e.get("about"):
+        out["a"] = e["about"]  # a hymn's poet, meter, translator and introduction, on its first verse
     return out
 
 

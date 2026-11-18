@@ -19,7 +19,9 @@ function dateLabel([a, b]: [number, number]) {
 
 function TextCard({ t }: { t: TextMeta }) {
   const first = blockList(t)[0]?.key ?? '';
-  const translations = (t.pairs ?? []).map((p) => p.label);
+  // A text with English of its own and paired translations besides (the Ṛgveda) names all of them.
+  const own = t.pairs?.length && t.stats.english >= 50 && t.translation?.english;
+  const translations = [...(own ? [`${own.by.split(/\s+/).pop()}${own.year ? ` (${own.year})` : ''}`] : []), ...(t.pairs ?? []).map((p) => p.label)];
   const english = translations.length ? 100 : t.stats.english;
   const unit = t.levels[t.levels.length - 1];
   return (
