@@ -28,9 +28,12 @@ def norm_ref(r):
 
 
 def compact(e, machine_text=False):
-    """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, m machine English, t heading, a about."""
+    """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, m machine English, t heading, a about.
+
+    A text that is not Sanskrit (the comparative shelf) keeps its original in `original` and names the language in its
+    catalog entry's `original`; it goes in s, the reader's slot for the original in roman or any other script."""
     out = {"r": norm_ref(e["reference"])}
-    iast = e.get("sanskrit_iast") or e.get("iast") or ""
+    iast = e.get("sanskrit_iast") or e.get("iast") or e.get("original") or ""
     deva = e.get("meaning") or ""
     eng = e.get("text") or ""
     if iast:
@@ -53,7 +56,7 @@ def compact(e, machine_text=False):
     return out
 
 
-def build_text(meta, machine_text=False):
+def build_text(meta, machine_text=False, depth=None):
     raw = json.load(open(os.path.join(DATA, meta["file"]), encoding="utf-8"))
     entries = [compact(e, machine_text) for e in raw]
     # The search page numbers verses by mandala/hymn/verse. Where those can't be read off the reference
@@ -71,6 +74,9 @@ def build_text(meta, machine_text=False):
     avg = sum(len(json.dumps(e, ensure_ascii=False).encode()) for e in entries) / len(entries)
     if avg > 3000:
         block_depth = min(depths)
+    # A translation paired by prefix is fetched by the original's block key, so it takes the original's depth.
+    if depth is not None:
+        block_depth = depth
 
     blocks = []  # [(key, [entries])] in text order
     for e in entries:
@@ -125,6 +131,12 @@ def main():
     sources = json.load(open(os.path.join(os.path.dirname(__file__), "translation_sources.json"), encoding="utf-8"))
     if os.path.isdir(os.path.join(OUT, "texts")):
         shutil.rmtree(os.path.join(OUT, "texts"))
+    prefix_of = {p["with"]: m["id"] for m in cat["texts"] for p in m.get("pairs", []) if p.get("mode") == "prefix"}
+    order = [m["id"] for m in cat["texts"]]
+    for tr, orig in prefix_of.items():
+        if tr in order and order.index(tr) < order.index(orig):
+            raise SystemExit(f"{tr} is listed before {orig}, the text it is paired with by prefix")
+    depth_of = {}
     texts = []
     for meta in cat["texts"]:
         if not os.path.exists(os.path.join(DATA, meta["file"])):
@@ -132,7 +144,8 @@ def main():
             continue
         # A record may sit on the translation or on the Sanskrit text it translates.
         credit = sources.get(meta["id"]) or sources.get(meta.get("translationOf")) or {}
-        t = build_text(meta, credit.get("machine", {}).get("inText", False))
+        t = build_text(meta, credit.get("machine", {}).get("inText", False), depth_of.get(prefix_of.get(meta["id"])))
+        depth_of[meta["id"]] = t["blockDepth"]
         t["translation"] = {k: credit[k] for k in ("english", "machine") if t["stats"][k] and k in credit}
         texts.append(t)
         print(f"{t['id']:30s} {t['stats']['entries']:6d} entries {t['stats']['blocks']:5d} blocks {t['stats']['chunks']:3d} chunks  en {t['stats']['english']:3d}%")

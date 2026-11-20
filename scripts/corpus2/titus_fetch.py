@@ -21,6 +21,8 @@ TEXTS = {
     "manb": (f"{BASE}/sv/manb/manb", False),
     "dab": (f"{BASE}/sv/dab/dab", False),
     "vb": (f"{BASE}/sv/vb/vb", False),
+    # Not Vedic: the Avesta (Geldner's edition), for the comparative shelf.
+    "avest": ("https://titus.uni-frankfurt.de/texte/etcs/iran/airan/avesta/avest", False),
 }
 
 

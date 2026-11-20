@@ -36,3 +36,4 @@ public/library/texts/
 
 # Personal research notes and one-off analyses: kept locally, never published
 research/
+.venv

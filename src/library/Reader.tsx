@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties, type ReactNode } from 'react';
 import { ChevronLeft, ChevronRight, ChevronDown, Headphones, List, Type, X } from 'lucide-react';
-import type { Catalog, Concordance, Entry, HymnAbout, Pair, SourceLink, TextMeta, TocNode, TranslationCredit } from './data';
+import type { Catalog, Concordance, Entry, HymnAbout, Original, Pair, SourceLink, TextMeta, TocNode, TranslationCredit } from './data';
 import { blockLabel, blockList, isBlock, loadBlock, loadConcordance, localRef, paragraphs } from './data';
 import { readHref } from './route';
 import NarratorBar from './Narrator';
@@ -171,13 +171,19 @@ function EnglishCell({ versions, compare, machine, missing }: { versions: Versio
   return missing ? <div className="v-en v-missing">—</div> : null;
 }
 
-function SanskritCell({ e, show, englishOnly, renumbered }: { e: Entry; show: Show; englishOnly?: boolean; renumbered?: boolean }) {
+/** The original of one verse: Sanskrit in Devanagari and IAST, or a comparative text's own language (`orig`). */
+function SanskritCell({ e, show, englishOnly, renumbered, orig }: { e: Entry; show: Show; englishOnly?: boolean; renumbered?: boolean; orig?: Original }) {
+  const lang = orig?.name ?? 'Sanskrit';
   return (
     <>
       {show.deva && e.d && <div className="v-deva" lang="sa-Deva">{e.d}</div>}
-      {show.iast && e.s && <div className="v-iast" lang="sa-Latn">{e.s}</div>}
+      {show.iast && e.s && (
+        <div className={orig?.dir ? 'v-orig' : 'v-iast'} lang={orig?.lang ?? 'sa-Latn'} dir={orig?.dir}>
+          {e.s}
+        </div>
+      )}
       {!e.s && !e.d && !englishOnly && (
-        <div className="v-missing">{renumbered ? 'This edition numbers the verses of this hymn differently; its Sanskrit is above' : 'No Sanskrit in this edition'}</div>
+        <div className="v-missing">{renumbered ? `This edition numbers the verses of this hymn differently; its ${lang} is above` : `No ${lang} in this edition`}</div>
       )}
     </>
   );
@@ -474,13 +480,21 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
       else n.add(r);
       return n;
     });
+  // A comparative text (Hebrew, Avestan) has one original, kept where IAST would be, and no Devanagari.
   const toggles: [keyof Show, string][] = englishOnly
     ? []
-    : [
-        ['deva', 'देवनागरी'],
-        ['iast', 'IAST'],
-        ['english', 'English'],
-      ];
+    : t.original
+      ? [
+          ['iast', t.original.label],
+          ['english', 'English'],
+        ]
+      : [
+          ['deva', 'देवनागरी'],
+          ['iast', 'IAST'],
+          ['english', 'English'],
+        ];
+  const origName = t.original?.name ?? 'Sanskrit';
+  const origChip = t.original?.short ?? 'सं';
   // Sanskrit folded: the English runs on as prose, each verse with a button to peek at its Sanskrit.
   const prose = canFold && !sanskritShown;
   const twoCol = show.english && sanskritShown && (inlineEnglish || shownAligned.length > 0);
@@ -548,8 +562,8 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
             </button>
           )}
           {narrow && canFold && (
-            <button className={`chip sa-chip${sanskritShown ? ' on' : ''}`} onClick={toggleSanskrit} aria-pressed={sanskritShown} title={sanskritShown ? 'Fold the Sanskrit away' : 'Show the Sanskrit'}>
-              सं
+            <button className={`chip sa-chip${sanskritShown ? ' on' : ''}`} onClick={toggleSanskrit} aria-pressed={sanskritShown} title={sanskritShown ? `Fold the ${origName} away` : `Show the ${origName}`}>
+              {origChip}
             </button>
           )}
           {narrow && (
@@ -632,8 +646,8 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                         {lr}
                       </a>
                       {hasSa && (en || machine) && (
-                        <button className={`v-peek-btn${open ? ' on' : ''}`} onClick={() => togglePeek(e.r)} aria-expanded={open} title="Sanskrit of this verse">
-                          सं
+                        <button className={`v-peek-btn${open ? ' on' : ''}`} onClick={() => togglePeek(e.r)} aria-expanded={open} title={`${origName} of this verse`}>
+                          {origChip}
                         </button>
                       )}
                     </span>
@@ -641,7 +655,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                     {(en || machine) && english}
                     {open && (
                       <div className="v-peek">
-                        <SanskritCell e={e} show={ALL_SANSKRIT} renumbered={renumbered.has(e.r)} />
+                        <SanskritCell orig={t.original} e={e} show={ALL_SANSKRIT} renumbered={renumbered.has(e.r)} />
                       </div>
                     )}
                   </div>
@@ -656,7 +670,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                   {(!englishOnly || e.t) && (
                     <div className="v-sa">
                       {e.t && <div className="v-title">{e.t}</div>}
-                      <SanskritCell e={e} show={show} englishOnly={englishOnly} renumbered={renumbered.has(e.r)} />
+                      <SanskritCell orig={t.original} e={e} show={show} englishOnly={englishOnly} renumbered={renumbered.has(e.r)} />
                     </div>
                   )}
                   {(show.english || englishOnly) && english}
@@ -671,7 +685,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
             <section className={`sa-fold${sanskritShown ? ' open' : ''}`}>
               <button className="sa-fold-head" onClick={toggleSanskrit} aria-expanded={sanskritShown}>
                 <ChevronDown size={16} className={sanskritShown ? '' : 'rot'} />
-                Sanskrit
+                {origName}
                 <span className="sa-fold-count">
                   {entries.length} {t.levels[t.levels.length - 1].toLowerCase()}
                   {entries.length === 1 ? '' : 's'}
@@ -684,7 +698,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                       {localRef(t, e.r)}
                     </a>
                     <div>
-                      <SanskritCell e={e} show={show} />
+                      <SanskritCell orig={t.original} e={e} show={show} />
                     </div>
                   </div>
                 ))}
@@ -711,7 +725,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
               {tr?.entries.map((e) => (
                 <section key={e.r} id={`t-${e.r}`} className="pane-section">
                   {e.t && <h3>{e.t}</h3>}
-                  <div className="pane-ref">{tr.meta.levels.map((l, i) => `${l} ${e.r.split('.')[i]}`).join(' · ')}</div>
+                  {!e.r.endsWith('.intro') && <div className="pane-ref">{tr.meta.levels.map((l, i) => `${l} ${e.r.split('.')[i]}`).join(' · ')}</div>}
                   {e.e && <Paragraphs text={e.e} idPrefix={`t-${e.r}`} />}
                 </section>
               ))}
@@ -728,7 +742,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
                     {localRef(t, e.r)}
                   </a>
                   <div>
-                    <SanskritCell e={e} show={show} />
+                    <SanskritCell orig={t.original} e={e} show={show} />
                   </div>
                 </div>
               ))}
@@ -761,7 +775,7 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
               {tr?.entries.map((e) => (
                 <section key={e.r} id={`t-${e.r}`} className="pane-section">
                   {e.t && <h3>{e.t}</h3>}
-                  <div className="pane-ref">{tr.meta.levels.map((l, i) => `${l} ${e.r.split('.')[i]}`).join(' · ')}</div>
+                  {!e.r.endsWith('.intro') && <div className="pane-ref">{tr.meta.levels.map((l, i) => `${l} ${e.r.split('.')[i]}`).join(' · ')}</div>}
                   {e.e && <Paragraphs text={e.e} idPrefix={`t-${e.r}`} />}
                 </section>
               ))}

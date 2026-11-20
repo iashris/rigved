@@ -47,9 +47,19 @@ export interface TranslationCredit {
   note?: string;
 }
 
+/** The language of a text that is not Sanskrit (the comparative shelf). Its original sits in an entry's `s`. */
+export interface Original {
+  name: string; // "Hebrew", "Avestan": what the reader calls the original in place of "Sanskrit"
+  lang: string; // BCP 47 tag for the original's text
+  dir?: 'rtl';
+  label: string; // the toggle that shows or hides it
+  short: string; // the one-glyph chip that folds it on a phone (सं for Sanskrit)
+}
+
 export interface TextMeta {
   id: string;
   name: string;
+  original?: Original;
   veda?: string;
   layer?: string;
   band?: string;

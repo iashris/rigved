@@ -1888,5 +1888,819 @@
       },
       "note": "Machine output, unreviewed."
     }
+  },
+  "ot_genesis": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_exodus": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_leviticus": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_numbers": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_deuteronomy": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_joshua": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_judges": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_ruth": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_1_samuel": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_2_samuel": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_1_kings": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_2_kings": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_1_chronicles": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_2_chronicles": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_ezra": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_nehemiah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_esther": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_job": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_psalms": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_proverbs": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_ecclesiastes": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_song_of_songs": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_isaiah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_jeremiah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_lamentations": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_ezekiel": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_daniel": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_hosea": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_joel": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_amos": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_obadiah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_jonah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_micah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_nahum": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_habakkuk": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_zephaniah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_haggai": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_zechariah": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "ot_malachi": {
+    "english": {
+      "by": "Jewish Publication Society",
+      "work": "The Holy Scriptures According to the Masoretic Text: A New Translation, Philadelphia",
+      "year": "1917",
+      "links": [
+        {
+          "label": "Open Siddur",
+          "url": "https://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Tanakh"
+      },
+      "note": "Hebrew: the Westminster Leningrad Codex with vowel points (tanach.us), in the same verse numbering."
+    }
+  },
+  "avesta_yasna_en": {
+    "english": {
+      "by": "L. H. Mills",
+      "work": "The Zend-Avesta, Part III: The Yasna, Visparad, Âfrînagân, Gâhs, and Miscellaneous Fragments, Sacred Books of the East vol. 31, Oxford: Clarendon Press",
+      "year": "1887",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe31/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
+  },
+  "avesta_visperad_en": {
+    "english": {
+      "by": "L. H. Mills",
+      "work": "The Zend-Avesta, Part III: The Yasna, Visparad, Âfrînagân, Gâhs, and Miscellaneous Fragments, Sacred Books of the East vol. 31, Oxford: Clarendon Press",
+      "year": "1887",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe31/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
+  },
+  "avesta_yasht_en": {
+    "english": {
+      "by": "James Darmesteter",
+      "work": "The Zend-Avesta, Part II: The Sîrôzahs, Yasts, and Nyâyis, Sacred Books of the East vol. 23, Oxford: Clarendon Press",
+      "year": "1883",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe23/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
+  },
+  "avesta_vendidad_en": {
+    "english": {
+      "by": "James Darmesteter",
+      "work": "The Zend-Avesta, Part I: The Vendîdâd, Sacred Books of the East vol. 4, Oxford: Clarendon Press",
+      "year": "1880",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe04/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
+  },
+  "avesta_nyayisn_en": {
+    "english": {
+      "by": "James Darmesteter",
+      "work": "The Zend-Avesta, Part II: The Sîrôzahs, Yasts, and Nyâyis, Sacred Books of the East vol. 23, Oxford: Clarendon Press",
+      "year": "1883",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe23/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
+  },
+  "avesta_sirozah_en": {
+    "english": {
+      "by": "James Darmesteter",
+      "work": "The Zend-Avesta, Part II: The Sîrôzahs, Yasts, and Nyâyis, Sacred Books of the East vol. 23, Oxford: Clarendon Press",
+      "year": "1883",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe23/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
+  },
+  "avesta_gah_en": {
+    "english": {
+      "by": "L. H. Mills",
+      "work": "The Zend-Avesta, Part III: The Yasna, Visparad, Âfrînagân, Gâhs, and Miscellaneous Fragments, Sacred Books of the East vol. 31, Oxford: Clarendon Press",
+      "year": "1887",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe31/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
+  },
+  "avesta_afrinagan_en": {
+    "english": {
+      "by": "L. H. Mills",
+      "work": "The Zend-Avesta, Part III: The Yasna, Visparad, Âfrînagân, Gâhs, and Miscellaneous Fragments, Sacred Books of the East vol. 31, Oxford: Clarendon Press",
+      "year": "1887",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe31/index.htm"
+        }
+      ],
+      "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
+    }
   }
 }

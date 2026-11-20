@@ -18,6 +18,7 @@
   --lib-display: 'Poppins', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --lib-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --lib-deva: 'Noto Serif Devanagari', 'Noto Sans Devanagari', serif;
+  --lib-hebrew: 'Noto Serif Hebrew', 'SBL Hebrew', 'Times New Roman', serif;
   --lib-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -764,6 +765,14 @@
   font-size: calc(15px * var(--read-scale));
   line-height: 1.6;
   color: var(--lib-ink-2);
+}
+
+/* A right-to-left original (the Hebrew of the Old Testament): upright, larger, set from the right. */
+.v-orig {
+  font-family: var(--lib-hebrew);
+  font-size: calc(21px * var(--read-scale));
+  line-height: 1.8;
+  text-align: right;
 }
 
 .v-en {
