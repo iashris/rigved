@@ -1,4 +1,4 @@
-/** The Order of Indra: its vajra, drawn as the Order draws it (orderofindra.com), in the theme's colour, and its word. */
+/** The Order of Indra: its vajra, drawn as the Order draws it (orderofindra.com), in the theme's colour, and a line at the foot of the home page. */
 
 export const ORDER_URL = 'https://orderofindra.com/';
 
@@ -21,38 +21,17 @@ export function Vajra({ size = 22 }: { size?: number }) {
   );
 }
 
-const TENETS = [
-  'Every person has the right to author their own life.',
-  'Sincerity over performance.',
-  'Question everything, as the Upanishads did.',
-  'Joy carries no guilt. Celebration is sacred.',
-];
-
-/** On the home page: what the Order is, in its own words, and where to find it. */
-export function OrderCard() {
+/** At the foot of the home page: one quiet line about the Order, and its link. */
+export function OrderNote() {
   return (
-    <aside className="order-card">
-      <div className="order-card-mark">
-        <Vajra size={56} />
-      </div>
-      <div>
-        <h2>The Order of Indra</h2>
-        <p>
-          A new order within the Hindu tradition, going back to its oldest source: the Vedas and the Upanishads. Not to replace what
-          came after. To remember what came first. Every text it draws from is open to read here.
-        </p>
-        <ul>
-          {TENETS.map((t) => (
-            <li key={t}>{t}</li>
-          ))}
-        </ul>
-        <p className="order-card-links">
-          <a href={ORDER_URL} target="_blank" rel="noopener">
-            orderofindra.com ↗
-          </a>
-          <span>For the one.</span>
-        </p>
-      </div>
-    </aside>
+    <p className="order-note">
+      <Vajra size={14} />
+      <span>
+        <a href={ORDER_URL} target="_blank" rel="noopener">
+          Order of Indra
+        </a>{' '}
+        · a new order returning to the Vedas and the Upanishads
+      </span>
+    </p>
   );
 }

@@ -171,67 +171,21 @@
   line-height: 1.6;
 }
 
-/* The Order of Indra, under the hero: its vajra, its word, its link. */
-.order-card {
-  margin-top: 28px;
+/* The Order of Indra: one muted line at the foot of the home page. */
+.order-note {
+  margin-top: 48px;
   display: flex;
-  gap: 20px;
-  align-items: flex-start;
-  max-width: 900px;
-  padding: 20px 22px;
-  border: 1px solid var(--lib-line);
-  border-left: 3px solid var(--lib-accent);
-  border-radius: 6px;
-}
-
-.order-card-mark {
-  color: var(--lib-accent);
-  flex: none;
-  padding-top: 4px;
-}
-
-.order-card h2 {
-  font-family: var(--lib-display);
-  font-weight: 600;
-  font-size: 20px;
-}
-
-.order-card p {
-  margin-top: 8px;
-  color: var(--lib-ink-2);
-  line-height: 1.6;
-}
-
-.order-card ul {
-  margin: 10px 0 0;
-  padding-left: 18px;
-  color: var(--lib-ink-2);
-  line-height: 1.6;
-}
-
-.order-card-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  align-items: baseline;
-}
-
-.order-card-links a {
-  color: var(--lib-accent);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.order-card-links span {
-  font-style: italic;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 13px;
   color: var(--lib-ink-3);
 }
 
-@media (max-width: 480px) {
-  .order-card {
-    padding: 16px;
-    gap: 14px;
-  }
+.order-note a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .lib-filters {

@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react';
 import type { Catalog, TextMeta } from './data';
 import { blockList } from './data';
 import { readHref } from './route';
-import { OrderCard } from './OrderOfIndra';
+import { OrderNote } from './OrderOfIndra';
 
 const fold = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const fmt = (n: number) => n.toLocaleString('en-IN');
@@ -112,7 +112,6 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
         </div>
       </section>
 
-      <OrderCard />
 
       <section className="lib-grid" style={{ ['--cols' as string]: catalog.layers.length }}>
         <div className="lib-corner" />
@@ -189,6 +188,7 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
         );
       })}
       {!visible.length && <p className="lib-empty">{q.trim() ? `No text matches “${q}”${englishOnly ? ' with English' : ''}.` : 'No text matches.'}</p>}
+      <OrderNote />
     </div>
   );
 }
