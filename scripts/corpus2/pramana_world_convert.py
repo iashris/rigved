@@ -62,8 +62,23 @@ def numeric_parts(loc):
     return out
 
 
+FRONT = re.compile(r"(Frontpage( \d+)?|Editor's Notes|Table of Contents)$")
+
+
 def num(p):
-    return re.match(r"^\d+", p).group(0)
+    """A loc part's number. The translator's own matter after the text has letters: an appendix or summary 'x7' is 907 and an
+    epilogue or colophon ('e', 'end') 999, so each sorts after the parts it follows and keeps its title."""
+    m = re.match(r"^\d+", p)
+    if m:
+        return m.group(0)
+    m = re.match(r"^x(\d+)$", p)
+    if m:
+        return str(900 + int(m.group(1)))
+    if p in ("e", "end"):
+        return "999"
+    if p in ("thera", "theri"):  # the Apadāna's two books
+        return {"thera": "1", "theri": "2"}[p]
+    raise SystemExit(f"unexpected loc part {p!r}")
 
 
 def milinda_book(s, key, loose):
@@ -87,9 +102,14 @@ MILINDA_BOOKS = {"5": "Book V: The Problem of Inference", "6": "Book VI: The Asc
 
 
 def chaptered(cid, segs):
-    depth = CHAPTER_DEPTH[cid]
+    depth = CHAPTER_DEPTH[cid] if cid in CHAPTER_DEPTH else WORLD[cid]["depth"]
     has_kids = {".".join(s["loc"].split(".")[:-1]) for s in segs if not is_note(s)}
     entries, key, title, count, loose = [], None, None, collections.Counter(), [None, 0]
+    if depth == 0:
+        key = ["1"]  # no headings divide it: one part, its paragraphs numbered through
+    # The transcribing site's own pages (wisdomlib's title pages and editor's notes, a contents list): not the translation.
+    front = tuple(s["loc"] for s in segs if cid not in CHAPTER_DEPTH and FRONT.match(s.get("title") or ""))
+    segs = [s for s in segs if not any(s["loc"] == f or s["loc"].startswith(f + ".") for f in front)]
     seen = {}
     for s in segs:
         if is_note(s):
@@ -115,6 +135,8 @@ def chaptered(cid, segs):
             title = (f"{title} · {own}" if title and own else own or title)
         elif cid == "milindapanha_rhysdavids" and numeric_parts(loc)[0] == "4" and len(numeric_parts(loc)) == 2:
             here = milinda_book(s, key, loose)
+        if here is None and cid not in CHAPTER_DEPTH:
+            key = here = ["0"] * depth  # the translator's opening, before the first heading
         if not text or re.fullmatch(r"CHAPTER \d+\.", text):
             continue
         if not structural and here is key and count[".".join(here)] == 0 and not title and re.match(r"^CHAPTER [IVXLC]+\.", text) and text.upper() == text:
@@ -248,13 +270,43 @@ def write(entries, folder, name):
     return os.path.getsize(path) / 1e6
 
 
+# Texts whose translators' footnotes came through inside the paragraphs, one note to a line ("\n2. Sanskrit Kumârabhûta, …"),
+# where the printed page broke; the paragraph runs on in the next line. Prose is rejoined; verse keeps its lines.
+NOTE_LINES = {"sukhavati_larger_muller": "prose", "sukhavati_smaller_muller": "prose", "amitayurdhyana_takakusu": "prose",
+              "mathnawi_whinfield": "verse"}
+NOTE_LINE = re.compile(r"^\d{1,3}\. (?=[A-Z])")
+
+
+def drop_note_lines(cid, entries):
+    kind = NOTE_LINES.get(cid)
+    if not kind:
+        return entries
+    out = []
+    for e in entries:
+        lines = [ln for ln in e["text"].split("\n") if not NOTE_LINE.match(ln)]
+        text = ("\n" if kind == "verse" else " ").join(ln.strip() for ln in lines if ln.strip())
+        if text:
+            out.append({**e, "text": re.sub(r"[ \t]+", " ", text)})
+    return out
+
+
+PART = 40
+
+
 def main():
     only = set(sys.argv[1:])
     for cid, t in WORLD.items():
         if only and cid not in only:
             continue
         segs = segments(t["en"])
-        entries = rajatarangini(segs) if cid == "rajatarangini_stein" else chaptered(cid, segs)
+        entries = rajatarangini(segs) if cid == "rajatarangini_stein" else drop_note_lines(cid, chaptered(cid, segs))
+        if cid.endswith("_bdk"):
+            # BDK's PDFs give every printed line as its own paragraph: a line that does not end a sentence runs on.
+            entries = [{**e, "text": re.sub(r"(?<![.!?:;”\"’)\]])\n\n(?=\S)", " ", e["text"])} for e in entries]
+        if t.get("depth") == 0 and t.get("licence") and len(entries) > PART:
+            # Divided only at printed pages: cut into parts of PART passages so no reading page runs to megabytes.
+            entries = [{**e, "reference": f"{i // PART + 1}.{i % PART + 1}"} for i, e in enumerate(entries)]
+            t["levels"] = ["Part", "Passage"]
         if not entries:
             raise SystemExit(f"{cid}: no entries")
         entries.sort(key=lambda e: tuple(int(x) for x in e["reference"].split(".")))

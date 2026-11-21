@@ -47,9 +47,11 @@ for cid, t in WORLD.items():
     file = f"{t['dir']}/{cid}.json"
     if not os.path.exists(os.path.join(DATA, file)):
         raise SystemExit(f"{file} missing: run pramana_world_convert.py first")
-    new.append({"id": cid, "file": file, "name": t["name"], "band": t["band"], "levels": t["levels"], "source": source(t["en"])})
+    new.append({"id": cid, "file": file, "name": t["name"], "band": t["band"], **({"group": t["group"]} if t.get("group") else {}),
+                "levels": t["levels"], **({"verseLines": True} if t.get("verseLines") else {}), "source": source(t["en"])})
     records[cid] = {"english": {"by": t["by"], "work": t["work"], "year": t["year"], "links": links(t["en"]),
-                                "via": {"label": "Pramāṇa", "url": "https://indike.org/pramana/" + t["en"]}}}
+                                "via": {"label": "Pramāṇa", "url": "https://indike.org/pramana/" + t["en"]},
+                                **({"note": "Licence: " + t["licence"] + "."} if t.get("licence") else {})}}
 
 # Edit as text: the catalog is laid out by hand, one text per line.
 raw = open(CAT, encoding="utf-8").read()
@@ -61,7 +63,8 @@ end = next(i for i in range(start, len(lines)) if lines[i].strip() in ("],", "]"
 rows = [ln.strip().rstrip(",") for ln in lines[start + 1:end] if ln.strip()]
 for band in BANDS:
     row = json.dumps({k: v for k, v in band.items() if k != "after"}, ensure_ascii=False)
-    at = next(i for i, r in enumerate(rows) if r.startswith(f'{{"id": "{band["after"]}"'))
+    after = band["after"] if isinstance(band["after"], list) else [band["after"]]  # first that exists wins
+    at = next(i for a in after for i, r in enumerate(rows) if r.startswith(f'{{"id": "{a}"'))
     rows.insert(at + 1, row)
 lines[start + 1:end] = ["    " + r + ("," if i < len(rows) - 1 else "") for i, r in enumerate(rows)]
 raw = "\n".join(lines)

@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import type { Catalog, TextMeta } from './data';
 import { blockList } from './data';
 import { readHref } from './route';
+import { OrderCard } from './OrderOfIndra';
 
 const fold = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const fmt = (n: number) => n.toLocaleString('en-IN');
@@ -95,10 +96,12 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
   return (
     <div className="lib-home">
       <section className="lib-hero">
-        <h1>The Vedic corpus, mapped</h1>
+        <h1>The Veda and the world's scriptures, mapped</h1>
         <p>
           {totals.texts} texts · {fmt(totals.entries)} passages. Each Veda reads left to right from its hymns to its
-          ritual manuals. Open any text to read it in Sanskrit and English, side by side.
+          ritual manuals; after them come India's other traditions, then the scriptures of its neighbours and kin for
+          comparison. Open any text to read it: in the original and English side by side where both are here, in English
+          alone where only a translation is.
         </p>
         <div className="lib-filters">
           <input className="lib-search" placeholder="Find a text — e.g. Kaṭha, Gopatha, Bhārata" value={q} onChange={(e) => setQ(e.target.value)} />
@@ -108,6 +111,8 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
           </button>
         </div>
       </section>
+
+      <OrderCard />
 
       <section className="lib-grid" style={{ ['--cols' as string]: catalog.layers.length }}>
         <div className="lib-corner" />

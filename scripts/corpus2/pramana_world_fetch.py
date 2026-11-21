@@ -13,7 +13,9 @@ from pramana_world_texts import WORLD  # noqa: E402
 refused = []
 for cid, t in WORLD.items():
     rights = " ".join(p.get("license") or "" for p in page(t["en"]).get("provenance") or [])
-    if "public domain" not in rights.lower() or "in copyright" in rights.lower():
+    free = "public domain" in rights.lower() or "cc0" in rights.lower() or "creative commons zero" in rights.lower()
+    # A licensed text the repo owner chose to share (t["licence"]) is taken on that licence; nothing else in copyright is.
+    if not (free or t.get("licence")) or ("in copyright" in rights.lower() and not t.get("licence")):
         refused.append((cid, t["en"], rights[:120]))
         print("NOT MARKED PUBLIC DOMAIN, not fetched:", cid, t["en"], rights[:120], flush=True)
         continue

@@ -345,7 +345,7 @@ export function useNarrator({ items, ready, title, onEnd, onPrevBlock }: { items
   // Lock-screen and headphone controls.
   useEffect(() => {
     if (!('mediaSession' in navigator) || !active) return;
-    navigator.mediaSession.metadata = new MediaMetadata({ title, artist: 'Vedic Library' });
+    navigator.mediaSession.metadata = new MediaMetadata({ title, artist: 'IIP Library' });
     navigator.mediaSession.playbackState = playing ? 'playing' : 'paused';
     const h: [MediaSessionAction, () => void][] = [
       ['play', play],

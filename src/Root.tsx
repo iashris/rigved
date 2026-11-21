@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Moon, Sun } from 'lucide-react';
 import App from './App';
 import LibraryHome from './library/LibraryHome';
+import { ORDER_URL, Vajra } from './library/OrderOfIndra';
 import Reader from './library/Reader';
 import { loadCatalog, type Catalog } from './library/data';
 import { useRoute } from './library/route';
@@ -57,13 +58,19 @@ export default function Root() {
     <div className={`lib${route.page === 'read' ? ' reading' : ''}`}>
       <nav className="lib-nav">
         <a href="#/" className="lib-brand">
-          <span className="lib-brand-mark">ॐ</span> Vedic Library
+          <span className="lib-brand-mark">
+            <Vajra size={24} />
+          </span>
+          IIP Library
         </a>
         <div className="lib-nav-links">
           <a href="#/" className={route.page === 'home' ? 'on' : ''}>
             Canon
           </a>
           <a href="#/analysis">Word analysis</a>
+          <a href={ORDER_URL} target="_blank" rel="noopener" className="lib-nav-order">
+            Order of Indra
+          </a>
           <button className="lib-theme" onClick={() => setDark(!dark)} aria-label={dark ? 'Light mode' : 'Dark mode'}>
             {dark ? <Sun size={16} /> : <Moon size={16} />}
           </button>

@@ -42,7 +42,8 @@ AVESTAN = re.compile(r"^ii(ja|aa)[a-z]*16$")
 
 BAND = {"id": "avesta", "after": ["travel"], "name": "Avesta",
         "blurb": "not Indic: the Zoroastrian scripture, the Ṛgveda's nearest kin — the same haoma (soma), Mithra (Mitra), "
-                 "Vərəθraγna (Vṛtrahan), and Indra among the demons. Geldner's Avestan with the Sacred Books of the East English"}
+                 "Vərəθraγna (Vṛtrahan), and Indra among the demons. Geldner's Avestan with the Sacred Books of the East English, "
+                 "and the Pahlavi books on creation and the end of the world in West's English"}
 ORIGINAL = {"name": "Avestan", "lang": "ae-Latn", "label": "Avestan", "short": "Av"}
 
 MILLS = {"by": "L. H. Mills", "work": "The Zend-Avesta, Part III: The Yasna, Visparad, Âfrînagân, Gâhs, and Miscellaneous Fragments, "

@@ -3188,5 +3188,2015 @@
       },
       "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
     }
+  },
+  "pali_dn": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_mn": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_sn": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_an": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_kp": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_dhp": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_ud": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_iti": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_snp": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_thag": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_thig": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_cp": {
+    "english": {
+      "by": "Bhikkhu Sujato",
+      "work": "The Discourses of the Buddha, SuttaCentral",
+      "year": "2018",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka Edition), public domain, as segmented by SuttaCentral."
+    }
+  },
+  "ap_tobit": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_judith": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_esther_greek": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_daniel_greek": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_susanna": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_bel_and_the_dragon": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_wisdom_of_solomon": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_sirach_ecclesiasticus": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_baruch": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_letter_of_jeremiah": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_prayer_of_manasseh": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_1_maccabees": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_2_maccabees": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_3_maccabees": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_4_maccabees": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "ap_1_esdras": {
+    "english": {
+      "by": "Sir Lancelot C. L. Brenton",
+      "work": "The Septuagint Version of the Old Testament, with an English Translation, London: Samuel Bagster",
+      "year": "1844–51",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-Brenton"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Septuagint as Brenton printed it (eBible.org, grcbrent), in the same verse numbering."
+    }
+  },
+  "quran": {
+    "english": {
+      "by": "Muhammad Marmaduke Pickthall",
+      "work": "The Meaning of the Glorious Koran, New York: Alfred A. Knopf",
+      "year": "1930",
+      "links": [
+        {
+          "label": "Tanzil",
+          "url": "https://tanzil.net/trans/"
+        }
+      ],
+      "via": {
+        "label": "Tanzil",
+        "url": "https://tanzil.net/"
+      },
+      "note": "Arabic: Tanzil Quran Text (Uthmani, Version 1.1), Copyright (C) 2007-2026 Tanzil Project, licensed under Creative Commons Attribution 3.0. Copied verbatim from tanzil.net, which keeps it verified and up to date: http://tanzil.net/updates/"
+    }
+  },
+  "pali_vin_bu": {
+    "english": {
+      "by": "Bhikkhu Brahmali",
+      "work": "The Monastic Law, SuttaCentral",
+      "year": "2021",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/pitaka/vinaya"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500, public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_vin_bi": {
+    "english": {
+      "by": "Bhikkhu Brahmali",
+      "work": "The Monastic Law, SuttaCentral",
+      "year": "2021",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/pitaka/vinaya"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500, public domain, as segmented by SuttaCentral."
+    }
+  },
+  "pali_vin_kd": {
+    "english": {
+      "by": "Bhikkhu Brahmali",
+      "work": "The Monastic Law, SuttaCentral",
+      "year": "2021",
+      "links": [
+        {
+          "label": "SuttaCentral",
+          "url": "https://suttacentral.net/pitaka/vinaya"
+        }
+      ],
+      "via": {
+        "label": "bilara-data",
+        "url": "https://github.com/suttacentral/bilara-data"
+      },
+      "note": "Dedicated to the public domain (CC0) by the translator. Pāli: the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500, public domain, as segmented by SuttaCentral."
+    }
+  },
+  "iliad_butler": {
+    "english": {
+      "by": "Samuel Butler",
+      "work": "The Iliad of Homer, Rendered into English Prose, London: Longmans, Green",
+      "year": "1898",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/The_Iliad_%28Butler%29"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/The_Iliad_%28Butler%29"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
+    }
+  },
+  "odyssey_butler": {
+    "english": {
+      "by": "Samuel Butler",
+      "work": "The Odyssey, Rendered into English Prose, London: Longmans, Green",
+      "year": "1900",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/The_Odyssey_%28Butler%29"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/The_Odyssey_%28Butler%29"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
+    }
+  },
+  "hesiod_evelynwhite": {
+    "english": {
+      "by": "Hugh G. Evelyn-White",
+      "work": "Hesiod, the Homeric Hymns and Homerica, Loeb Classical Library 57, London: Heinemann",
+      "year": "1914",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Hesiod%2C_the_Homeric_Hymns_and_Homerica"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Hesiod%2C_the_Homeric_Hymns_and_Homerica"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
+    }
+  },
+  "homeric_hymns_evelynwhite": {
+    "english": {
+      "by": "Hugh G. Evelyn-White",
+      "work": "Hesiod, the Homeric Hymns and Homerica, Loeb Classical Library 57, London: Heinemann",
+      "year": "1914",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Hesiod%2C_the_Homeric_Hymns_and_Homerica"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Hesiod%2C_the_Homeric_Hymns_and_Homerica"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
+    }
+  },
+  "poetic_edda_bellows": {
+    "english": {
+      "by": "Henry Adams Bellows",
+      "work": "The Poetic Edda, New York: American-Scandinavian Foundation",
+      "year": "1923",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/The_Poetic_Edda_%28tr._Bellows%29"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/The_Poetic_Edda_%28tr._Bellows%29"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
+    }
+  },
+  "lotus_kern": {
+    "english": {
+      "by": "H. Kern",
+      "work": "The Saddharma-Puṇḍarīka or the Lotus of the True Law, Sacred Books of the East 21, Oxford: Clarendon Press",
+      "year": "1884",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/lotus/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.vaipulya.saddharmapundarika~en-kern"
+      }
+    }
+  },
+  "sukhavati_larger_muller": {
+    "english": {
+      "by": "F. Max Müller",
+      "work": "Buddhist Mahâyâna Texts, Sacred Books of the East 49, Oxford: Clarendon Press",
+      "year": "1894",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/sbe49/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.buddha.sukhavativyuha~en-muller"
+      }
+    }
+  },
+  "sukhavati_smaller_muller": {
+    "english": {
+      "by": "F. Max Müller",
+      "work": "Buddhist Mahâyâna Texts, Sacred Books of the East 49, Oxford: Clarendon Press",
+      "year": "1894",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/sbe49/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.buddha.sukhavativyuha-smaller~en-muller"
+      }
+    }
+  },
+  "amitayurdhyana_takakusu": {
+    "english": {
+      "by": "J. Takakusu",
+      "work": "Buddhist Mahâyâna Texts, Sacred Books of the East 49, Oxford: Clarendon Press",
+      "year": "1894",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/sbe49/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.buddha.amitayurdhyana~en-takakusu"
+      }
+    }
+  },
+  "vajracchedika_muller": {
+    "english": {
+      "by": "F. Max Müller",
+      "work": "Buddhist Mahâyâna Texts, Sacred Books of the East 49, Oxford: Clarendon Press",
+      "year": "1894",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/sbe49/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.prajnaparamita.samksipta.vajracchedika~en-muller"
+      }
+    }
+  },
+  "hrdaya_muller": {
+    "english": {
+      "by": "F. Max Müller",
+      "work": "Buddhist Mahâyâna Texts, Sacred Books of the East 49, Oxford: Clarendon Press",
+      "year": "1894",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/sbe49/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.prajnaparamita.samksipta.hrdaya~en-muller"
+      }
+    }
+  },
+  "buddhacarita_cowell": {
+    "english": {
+      "by": "E. B. Cowell",
+      "work": "Buddhist Mahâyâna Texts, Sacred Books of the East 49, Oxford: Clarendon Press",
+      "year": "1894",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/sbe49/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.kavya.mahakavya.aitihasika.bauddha.buddhacarita~en-cowell"
+      }
+    }
+  },
+  "bodhicaryavatara_barnett": {
+    "english": {
+      "by": "L. D. Barnett",
+      "work": "The Path of Light, Wisdom of the East, London: John Murray",
+      "year": "1909",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/tpol/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.marga.santideva.bodhicaryavatara~en-barnett"
+      }
+    }
+  },
+  "jatakamala_speyer": {
+    "english": {
+      "by": "J. S. Speyer",
+      "work": "The Jātakamālā or Garland of Birth-Stories of Āryaśūra, Sacred Books of the Buddhists 1, London: Henry Frowde",
+      "year": "1895",
+      "links": [
+        {
+          "label": "gutenberg.org",
+          "url": "https://www.gutenberg.org/ebooks/46984"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.avadana.jataka.jatakamala~en-speyer"
+      }
+    }
+  },
+  "awakening_faith_suzuki": {
+    "english": {
+      "by": "D. T. Suzuki",
+      "work": "Aśvaghosha's Discourse on the Awakening of Faith in the Mahâyâna, Chicago: Open Court",
+      "year": "1900",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/bud/taf/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.darsana.yogacara.mahayanasraddhotpadasastra*zh-siksananda~en-suzuki"
+      }
+    }
+  },
+  "dirgha_agama_patton": {
+    "english": {
+      "by": "Charles Patton",
+      "work": "translations of the Chinese Āgamas, SuttaCentral (CC0)",
+      "year": "2019",
+      "links": [
+        {
+          "label": "suttacentral.net",
+          "url": "https://suttacentral.net/da1/en/patton"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.agama.dirgha.dirghagama*zh-buddhayasas~en-patton"
+      }
+    }
+  },
+  "madhyama_agama_patton": {
+    "english": {
+      "by": "Charles Patton",
+      "work": "translations of the Chinese Āgamas, SuttaCentral (CC0)",
+      "year": "2019",
+      "links": [
+        {
+          "label": "suttacentral.net",
+          "url": "https://suttacentral.net/ma1/en/patton"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.agama.madhyama.madhyamagama*zh-sanghadeva~en-patton"
+      }
+    }
+  },
+  "samyukta_agama_patton": {
+    "english": {
+      "by": "Charles Patton",
+      "work": "translations of the Chinese Āgamas, SuttaCentral (CC0)",
+      "year": "2019",
+      "links": [
+        {
+          "label": "suttacentral.net",
+          "url": "https://suttacentral.net/sa1/en/patton"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.agama.samyukta.samyuktagama*zh-gunabhadra~en-patton"
+      }
+    }
+  },
+  "ekottara_agama_patton": {
+    "english": {
+      "by": "Charles Patton",
+      "work": "translations of the Chinese Āgamas, SuttaCentral (CC0)",
+      "year": "2019",
+      "links": [
+        {
+          "label": "suttacentral.net",
+          "url": "https://suttacentral.net/ea1.1/en/patton"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.agama.ekottara.ekottaragama*zh-sanghadeva~en-patton"
+      }
+    }
+  },
+  "kathavatthu_aung": {
+    "english": {
+      "by": "S. Z. Aung and C. A. F. Rhys Davids",
+      "work": "Points of Controversy, Pali Text Society Translation Series 5, London",
+      "year": "1915",
+      "links": [
+        {
+          "label": "suttacentral.net",
+          "url": "https://suttacentral.net/kv1.1/en/aung-rhysdavids"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.theravada.ap.kathavatthu~en-aung-rhysdavids"
+      }
+    }
+  },
+  "puggalapannati_law": {
+    "english": {
+      "by": "B. C. Law",
+      "work": "Designation of Human Types, Pali Text Society Translation Series 12, London",
+      "year": "1924",
+      "links": [
+        {
+          "label": "suttacentral.net",
+          "url": "https://suttacentral.net/pp1.1/en/law"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.theravada.ap.puggalapannati~en-law"
+      }
+    }
+  },
+  "dhammasangani_rhysdavids": {
+    "english": {
+      "by": "C. A. F. Rhys Davids",
+      "work": "A Buddhist Manual of Psychological Ethics, Oriental Translation Fund, London: Royal Asiatic Society",
+      "year": "1900",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/buddhism/book/dhammasangani"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.theravada.ap.dhammasangani~en-rhysdavids"
+      }
+    }
+  },
+  "acaranga_jacobi": {
+    "english": {
+      "by": "Hermann Jacobi",
+      "work": "Jaina Sūtras, Part I, Sacred Books of the East 22, Oxford: Clarendon Press",
+      "year": "1884",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/jai/sbe22/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.anga.1~en-jacobi"
+      }
+    }
+  },
+  "kalpasutra_jacobi": {
+    "english": {
+      "by": "Hermann Jacobi",
+      "work": "Jaina Sūtras, Part I, Sacred Books of the East 22, Oxford: Clarendon Press",
+      "year": "1884",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/jai/sbe22/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.cheda.1.kalpasutra~en-jacobi"
+      }
+    }
+  },
+  "sutrakrtanga_jacobi": {
+    "english": {
+      "by": "Hermann Jacobi",
+      "work": "Jaina Sūtras, Part II, Sacred Books of the East 45, Oxford: Clarendon Press",
+      "year": "1895",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/jai/sbe45/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.anga.2~en-jacobi"
+      }
+    }
+  },
+  "uttaradhyayana_jacobi": {
+    "english": {
+      "by": "Hermann Jacobi",
+      "work": "Jaina Sūtras, Part II, Sacred Books of the East 45, Oxford: Clarendon Press",
+      "year": "1895",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/jai/sbe45/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.mula.2~en-jacobi"
+      }
+    }
+  },
+  "sribhasya_thibaut": {
+    "english": {
+      "by": "George Thibaut",
+      "work": "The Vedânta-Sûtras with the Commentary by Râmânuja, Sacred Books of the East 48, Oxford: Clarendon Press",
+      "year": "1904",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe48/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.vedanta.brahmasutra-works.brahmasutra!ramanuja~en-thibaut"
+      }
+    }
+  },
+  "vivekacudamani_johnston": {
+    "english": {
+      "by": "Charles Johnston",
+      "work": "The Crest-Jewel of Wisdom, Covina: Quarterly Book Department",
+      "year": "1925",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/cjw/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.advaita.prakarana.early.sankara-prakarana.vivekacudamani~en-johnston"
+      }
+    }
+  },
+  "aparoksanubhuti_venkataramanan": {
+    "english": {
+      "by": "S. Venkataramanan",
+      "work": "Select Works of Sri Sankaracharya, Madras: G. A. Natesan",
+      "year": "1911",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/wos/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.advaita.prakarana.early.sankara-prakarana.aparoksanubhuti~en-venkataramanan"
+      }
+    }
+  },
+  "atmabodha_venkataramanan": {
+    "english": {
+      "by": "S. Venkataramanan",
+      "work": "Select Works of Sri Sankaracharya, Madras: G. A. Natesan",
+      "year": "1911",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/wos/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.advaita.prakarana.early.sankara-prakarana.atmabodha-2~en-venkataramanan"
+      }
+    }
+  },
+  "sarvadarsana_cowell": {
+    "english": {
+      "by": "E. B. Cowell and A. E. Gough",
+      "work": "The Sarva-Darśana-Saṃgraha, Trübner's Oriental Series, London",
+      "year": "1882",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/the-sarva-darsana-samgraha"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.all.sarvadarsana.sarvadarsanasangraha~en-cowell"
+      }
+    }
+  },
+  "mahanirvana_avalon": {
+    "english": {
+      "by": "Arthur Avalon (Sir John Woodroffe)",
+      "work": "Tantra of the Great Liberation, London: Luzac",
+      "year": "1913",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/tantra/maha/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.general.sakta.kali.mahanirvana~en-avalon"
+      }
+    }
+  },
+  "satcakra_avalon": {
+    "english": {
+      "by": "Arthur Avalon (Sir John Woodroffe)",
+      "work": "The Serpent Power, London: Luzac",
+      "year": "1919",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.trika.natha.hathayoga.satcakra-works.satcakrabheda-2~en-avalon"
+      }
+    }
+  },
+  "padukapancaka_avalon": {
+    "english": {
+      "by": "Arthur Avalon (Sir John Woodroffe)",
+      "work": "The Serpent Power, London: Luzac",
+      "year": "1919",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/paduka-panchaka-the-five-fold-footstool"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.trika.kaula.guru.padukapancaka~en-avalon"
+      }
+    }
+  },
+  "anugita_telang": {
+    "english": {
+      "by": "K. T. Telang",
+      "work": "The Bhagavadgîtâ with the Sanatsugâtîya and the Anugîtâ, Sacred Books of the East 8, Oxford: Clarendon Press",
+      "year": "1882",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe08/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.mahabharata.vyasa.anugita~en-telang"
+      }
+    }
+  },
+  "sanatsujatiya_telang": {
+    "english": {
+      "by": "K. T. Telang",
+      "work": "The Bhagavadgîtâ with the Sanatsugâtîya and the Anugîtâ, Sacred Books of the East 8, Oxford: Clarendon Press",
+      "year": "1882",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/hin/sbe08/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.mahabharata.vyasa.sanatsujatiya~en-telang"
+      }
+    }
+  },
+  "tirukkural_pope": {
+    "english": {
+      "by": "G. U. Pope, W. H. Drew, J. Lazarus and F. W. Ellis",
+      "work": "The 'Sacred' Kurral of Tiruvalluva-Nayanar, London: W. H. Allen",
+      "year": "1886",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/tirukkural-thirukkural"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sangam.eighteen_lesser.tirukkural~en-pope*complete"
+      }
+    }
+  },
+  "tiruvacakam_pope": {
+    "english": {
+      "by": "G. U. Pope",
+      "work": "The Tiruvāçagam or 'Sacred Utterances' of Māṇikka-Vāçagar, Oxford: Clarendon Press",
+      "year": "1900",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/tiruvacakam-part-i"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.siddhanta.tirumurai.tiruvacakam~en-pope"
+      }
+    }
+  },
+  "kabir_tagore": {
+    "english": {
+      "by": "Rabindranath Tagore (with Evelyn Underhill)",
+      "work": "Songs of Kabir, New York: Macmillan",
+      "year": "1915",
+      "links": [
+        {
+          "label": "en.wikisource.org",
+          "url": "https://en.wikisource.org/wiki/One_Hundred_Poems_of_Kabir"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vernacular.hindi.sant.kabir.songs~en-tagore"
+      }
+    }
+  },
+  "gitagovinda_arnold": {
+    "english": {
+      "by": "Edwin Arnold",
+      "work": "The Indian Song of Songs, London: Trübner",
+      "year": "1875",
+      "links": [
+        {
+          "label": "gutenberg.org",
+          "url": "https://www.gutenberg.org/ebooks/25965"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.kavya.khanda.gitakavya.gitagovinda-2~en-arnold"
+      }
+    }
+  },
+  "premsagar_hollings": {
+    "english": {
+      "by": "W. Hollings",
+      "work": "The Prem Sagur, Calcutta",
+      "year": "1848",
+      "links": [
+        {
+          "label": "wisdomlib.org",
+          "url": "https://www.wisdomlib.org/hinduism/book/prem-sagar-english-translation"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vernacular.hindi.katha.premsagar~en-hollings"
+      }
+    }
+  },
+  "bundahisn_west": {
+    "english": {
+      "by": "E. W. West",
+      "work": "Pahlavi Texts, Part I, Sacred Books of the East 5, Oxford: Clarendon Press",
+      "year": "1880",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe05/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/inf.ir.pal.bundahisn~en-west"
+      }
+    }
+  },
+  "wahman_yasn_west": {
+    "english": {
+      "by": "E. W. West",
+      "work": "Pahlavi Texts, Part I, Sacred Books of the East 5, Oxford: Clarendon Press",
+      "year": "1880",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe05/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/inf.ir.pal.zand-wahman-yasn~en-west"
+      }
+    }
+  },
+  "skand_gumanig_west": {
+    "english": {
+      "by": "E. W. West",
+      "work": "Pahlavi Texts, Part III, Sacred Books of the East 24, Oxford: Clarendon Press",
+      "year": "1885",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/zor/sbe24/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/inf.ir.pal.skand-gumanig-wizar~en-west"
+      }
+    }
+  },
+  "mathnawi_whinfield": {
+    "english": {
+      "by": "E. H. Whinfield",
+      "work": "Masnavi i Ma'navi, the Spiritual Couplets of Maulana Jalalu-'d-Din Muhammad Rumi, translated and abridged, 2nd ed., London: Kegan Paul, Trench, Trübner",
+      "year": "1898",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/isl/masnavi/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/inf.isl.fa.shir.mathnawi~en-whinfield"
+      }
+    }
+  },
+  "kebra_nagast_budge": {
+    "english": {
+      "by": "E. A. Wallis Budge",
+      "work": "The Queen of Sheba and her Only Son Menyelek, London: Medici Society",
+      "year": "1922",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/chr/kn/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/inf.sy.gez.kebra-nagast~en-budge"
+      }
+    }
+  },
+  "book_of_the_bee_budge": {
+    "english": {
+      "by": "E. A. Wallis Budge",
+      "work": "The Book of the Bee, Anecdota Oxoniensia, Oxford: Clarendon Press",
+      "year": "1886",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/chr/bb/index.htm"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/inf.sy.syr.book-of-the-bee~en-budge"
+      }
+    }
+  },
+  "rigveda_muller": {
+    "english": {
+      "by": "F. Max Müller",
+      "work": "Vedic Hymns, Part I: Hymns to the Maruts, Rudra, Vâyu, and Vâta, Sacred Books of the East 32, Oxford: Clarendon Press",
+      "year": "1891",
+      "links": [
+        {
+          "label": "VedaWeb",
+          "url": "https://vedaweb.uni-koeln.de/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.rg~en-muller"
+      },
+      "note": "Licence: VedaWeb (University of Cologne), CC BY-NC-SA 4.0; the translation itself is public domain. Only the hymns this translator rendered."
+    }
+  },
+  "rigveda_oldenberg": {
+    "english": {
+      "by": "Hermann Oldenberg",
+      "work": "Vedic Hymns, Part II: Hymns to Agni (Mandalas I–V), Sacred Books of the East 46, Oxford: Clarendon Press",
+      "year": "1897",
+      "links": [
+        {
+          "label": "VedaWeb",
+          "url": "https://vedaweb.uni-koeln.de/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.rg~en-oldenberg"
+      },
+      "note": "Licence: VedaWeb (University of Cologne), CC BY-NC-SA 4.0; the translation itself is public domain. Only the hymns this translator rendered."
+    }
+  },
+  "rigveda_macdonell": {
+    "english": {
+      "by": "A. A. Macdonell",
+      "work": "Hymns from the Rigveda, Heritage of India series, Calcutta: Association Press",
+      "year": "1922",
+      "links": [
+        {
+          "label": "VedaWeb",
+          "url": "https://vedaweb.uni-koeln.de/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.rg~en-macdonell"
+      },
+      "note": "Licence: VedaWeb (University of Cologne), CC BY-NC-SA 4.0; the translation itself is public domain. Only the hymns this translator rendered."
+    }
+  },
+  "lotsawa_anthology": {
+    "english": {
+      "by": "Adam Pearcey and other Lotsawa House translators",
+      "work": "Lotsawa House: sūtras, dhāraṇīs and praises from the Tibetan canon",
+      "year": "various",
+      "links": [
+        {
+          "label": "Pramāṇa",
+          "url": "https://indike.org/pramana/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/"
+      },
+      "note": "Licence: CC BY-NC 4.0 (Lotsawa House). Each part opens with its own edition and licence."
+    }
+  },
+  "etcsl_anthology": {
+    "english": {
+      "by": "J. A. Black, G. Cunningham, E. Robson, G. Zólyomi et al.",
+      "work": "Sumerian myths and hymns (ETCSL)",
+      "year": "various",
+      "links": [
+        {
+          "label": "Pramāṇa",
+          "url": "https://indike.org/pramana/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/"
+      },
+      "note": "Licence: ETCSL, University of Oxford: free for non-commercial use with attribution. Each part opens with its own edition and licence."
+    }
+  },
+  "oracc_anthology": {
+    "english": {
+      "by": "the ORACC project editions",
+      "work": "Cuneiform letters and inscriptions (ORACC)",
+      "year": "various",
+      "links": [
+        {
+          "label": "Pramāṇa",
+          "url": "https://indike.org/pramana/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/"
+      },
+      "note": "Licence: CC BY-SA 3.0 (ORACC project editions). Each part opens with its own edition and licence."
+    }
+  },
+  "greek_latin_on_india": {
+    "english": {
+      "by": "the Loeb and other translators (Perseus Digital Library)",
+      "work": "Greek and Latin writers on India",
+      "year": "various",
+      "links": [
+        {
+          "label": "Pramāṇa",
+          "url": "https://indike.org/pramana/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/"
+      },
+      "note": "Licence: CC BY-SA 4.0 (Perseus Digital Library / Open Greek and Latin). Each part opens with its own edition and licence."
+    }
+  },
+  "jewish_sources_on_india": {
+    "english": {
+      "by": "Sefaria's translators",
+      "work": "India in Jewish sources (Sefaria)",
+      "year": "various",
+      "links": [
+        {
+          "label": "Pramāṇa",
+          "url": "https://indike.org/pramana/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/"
+      },
+      "note": "Licence: CC BY, CC BY-SA or CC BY-NC, as each part states (Sefaria). Each part opens with its own edition and licence."
+    }
+  },
+  "lotus_bdk": {
+    "english": {
+      "by": "Tsugunari Kubo and Akira Yuyama",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 13-I, rev. 2nd ed.",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_T0262_LotusSutra_2007.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.vaipulya.saddharmapundarika*zh-kumarajiva~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "vimalakirti_bdk": {
+    "english": {
+      "by": "John R. McRae",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 26-I",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_Srimala_Vimalakirti_2004.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.dharma.vimalakirtinirdesa*zh-kumarajiva~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "srimala_bdk": {
+    "english": {
+      "by": "Diana Y. Paul",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 20-I",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_Srimala_Vimalakirti_2004.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.tathagatagarbha.srimaladevi*zh-gunabhadra~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "larger_amitayus_bdk": {
+    "english": {
+      "by": "Hisao Inagaki and Harold Stewart",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 12-II",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ThreePureLandSutras_2003.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.buddha.sukhavativyuha*zh-sanghavarman-wei~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "contemplation_amitayus_bdk": {
+    "english": {
+      "by": "Hisao Inagaki and Harold Stewart",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 12-II",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ThreePureLandSutras_2003.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.buddha.amitayurdhyana*zh-kalayasas~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "smaller_amitayus_bdk": {
+    "english": {
+      "by": "Hisao Inagaki and Harold Stewart",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 12-II",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ThreePureLandSutras_2003.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.mahayanasutra.buddha.sukhavativyuha-smaller*zh-kumarajiva~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "mahavairocana_bdk": {
+    "english": {
+      "by": "Rolf W. Giebel",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 30-I",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_T0848_Vairocana_2005.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.sanskrit.tantra.carya.mahavairocana*zh~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "buddhacarita_bdk": {
+    "english": {
+      "by": "Charles Willemen",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 4-IV",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_T0192_Buddhacarita_2009.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.kavya.mahakavya.aitihasika.bauddha.buddhacarita*zh-dharmaksema~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "platform_sutra_bdk": {
+    "english": {
+      "by": "John R. McRae",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 73-II",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_T2008_PlatformSutra_2000.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.2008~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "baizhang_bdk": {
+    "english": {
+      "by": "Shohei Ichimura",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 77",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_T2025_Baizhang_2006.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.2025~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "perfect_enlightenment_bdk": {
+    "english": {
+      "by": "Peter N. Gregory",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 25",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ApocryphalScriptures_2005.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.842~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "forty_two_sections_bdk": {
+    "english": {
+      "by": "Heng-ching Shih",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 25",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ApocryphalScriptures_2005.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.784~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "bequeathed_teaching_bdk": {
+    "english": {
+      "by": "J. C. Cleary",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 25",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ApocryphalScriptures_2005.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.389~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "ullambana_bdk": {
+    "english": {
+      "by": "Shojun Bando",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 25",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ApocryphalScriptures_2005.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.685~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "filial_love_bdk": {
+    "english": {
+      "by": "Keiyo Arai",
+      "work": "BDK English Tripiṭaka, Berkeley: Numata Center for Buddhist Translation and Research, vol. 25",
+      "year": "2005–",
+      "links": [
+        {
+          "label": "bdk.or.jp",
+          "url": "https://www.bdk.or.jp/document/dgtl-dl/dBET_ApocryphalScriptures_2005.pdf"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.taisho.2887~en-bdk"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research (BDK English Tripiṭaka)."
+    }
+  },
+  "acaranga_bothra": {
+    "english": {
+      "by": "Surendra Bothra",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "1999",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/007646/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.anga.1*amarmuni1999~en-surendra"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "sthananga_bothra": {
+    "english": {
+      "by": "Surendra Bothra",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "2004",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/002905/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.anga.3*amarmuni2004~en-surendra"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "bhagavati_bothra": {
+    "english": {
+      "by": "Surendra Bothra",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "2005",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/002902/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.anga.5*amarmuni2005~en-surendra"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "prasnavyakarana_jain": {
+    "english": {
+      "by": "Rajkumar Jain",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "2008",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/002907/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.anga.10*amarmuni2008~en-rajkumar"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "aupapatika_bothra": {
+    "english": {
+      "by": "Surendra Bothra",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "2003",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/002910/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.upanga.1*amarmuni2003~en-surendra"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "rajaprasniya_jain": {
+    "english": {
+      "by": "Rajkumar Jain",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "2002",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/007653/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.upanga.2*amarmuni2002~en-rajkumar"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "jambudvipa_jain": {
+    "english": {
+      "by": "Rajkumar Jain",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "2006",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/002911/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.upanga.6*amarmuni2006~en-rajkumar"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "dasavaikalika_bothra": {
+    "english": {
+      "by": "Surendra Bothra",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "1997",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/007649/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.mula.1*amarmuni1997~en-surendra"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "nandi_bothra": {
+    "english": {
+      "by": "Surendra Bothra",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "1998",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/007652/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.cullika.1*amarmuni1998~en-surendra"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "anuyogadvara_bothra": {
+    "english": {
+      "by": "Surendra Bothra",
+      "work": "Padma Prakashan, Delhi (Sthānakavāsī edition by Amar Muni and Shreechand Surana)",
+      "year": "2001",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/007655/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.sveta.cullika.2*amarmuni2001~en-surendra"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "jnanasara_gopani": {
+    "english": {
+      "by": "A. S. Gopani",
+      "work": "Gyansara, Jain Sahitya Vikas Mandal",
+      "year": "1961",
+      "links": [
+        {
+          "label": "jainqq.org",
+          "url": "https://jainqq.org/explore/001518/1"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.jaina.anuyoga.moral.yoga.svetambara-adhyatma.jnanasara-2*girishkumar1961~en-gopani"
+      },
+      "note": "Licence: CC BY-NC 4.0, Jain Literature Open Repository (JLOR); the Jain eLibrary's text of the printed edition."
+    }
+  },
+  "apadana_walters": {
+    "english": {
+      "by": "Jonathan S. Walters",
+      "work": "Legends of the Buddhist Saints: Apadānapāli, Walla Walla: Whitman College",
+      "year": "2017",
+      "links": [
+        {
+          "label": "suttacentral.net",
+          "url": "https://suttacentral.net/tha-ap1/en/walters"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.bauddha.theravada.sp.khuddaka.apadana~en-walters"
+      },
+      "note": "Licence: CC BY-NC-SA 3.0, Jonathan S. Walters (via SuttaCentral)."
+    }
   }
 }

@@ -1,0 +1,486 @@
+[
+ {
+  "reference": "1.1",
+  "original": "Namo tassa Bhagavato Arahato Sammāsambuddhassa.",
+  "text": "Homage to him, the blessed one, the perfected one, the fully awakened Buddha!",
+  "title": "The Three Refuges (Saraṇattaya)"
+ },
+ {
+  "reference": "1.2",
+  "original": "Buddhaṁ saraṇaṁ gacchāmi,\nDhammaṁ saraṇaṁ gacchāmi,\nSaṅghaṁ saraṇaṁ gacchāmi.",
+  "text": "I take refuge in the Buddha,\nI take refuge in the Teaching,\nI take refuge in the Saṅgha."
+ },
+ {
+  "reference": "1.3",
+  "original": "Dutiyampi buddhaṁ saraṇaṁ gacchāmi,\nDutiyampi dhammaṁ saraṇaṁ gacchāmi,\nDutiyampi saṅghaṁ saraṇaṁ gacchāmi.",
+  "text": "For the second time I take refuge in the Buddha,\nfor the second time I take refuge in the Teaching,\nfor the second time I take refuge in the Saṅgha."
+ },
+ {
+  "reference": "1.4",
+  "original": "Tatiyampi buddhaṁ saraṇaṁ gacchāmi,\nTatiyampi dhammaṁ saraṇaṁ gacchāmi,\nTatiyampi saṅghaṁ saraṇaṁ gacchāmi.",
+  "text": "For the third time I take refuge in the Buddha,\nfor the third time I take refuge in the Teaching,\nfor the third time I take refuge in the Saṅgha."
+ },
+ {
+  "reference": "2.1",
+  "original": "Pāṇātipātā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from killing living creatures.",
+  "title": "The Ten Precepts (Dasasikkhāpada)"
+ },
+ {
+  "reference": "2.2",
+  "original": "Adinnādānā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from stealing."
+ },
+ {
+  "reference": "2.3",
+  "original": "Abrahmacariyā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from sexual activity."
+ },
+ {
+  "reference": "2.4",
+  "original": "Musāvādā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from lying."
+ },
+ {
+  "reference": "2.5",
+  "original": "Surāmerayamajjapamādaṭṭhānā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from intoxicants of beer, wine, and liquor."
+ },
+ {
+  "reference": "2.6",
+  "original": "Vikālabhojanā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from food at the wrong time."
+ },
+ {
+  "reference": "2.7",
+  "original": "Naccagītavāditavisūkadassanā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from seeing shows of dancing, singing, and music."
+ },
+ {
+  "reference": "2.8",
+  "original": "Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from attiring and adorning myself with garlands, fragrance, and makeup."
+ },
+ {
+  "reference": "2.9",
+  "original": "Uccāsayanamahāsayanā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from high and luxurious beds."
+ },
+ {
+  "reference": "2.10",
+  "original": "Jātarūparajatapaṭiggahaṇā veramaṇisikkhāpadaṁ samādiyāmi.",
+  "text": "I undertake the precept to refrain from receiving gold and currency."
+ },
+ {
+  "reference": "3.1",
+  "original": "Atthi imasmiṁ kāye—Kesā lomā nakhā dantā taco, maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ, hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ, antaṁ antaguṇaṁ udariyaṁ karīsaṁ matthaluṅgaṁ, pittaṁ semhaṁ pubbo lohitaṁ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttanti.",
+  "text": "“In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, brain, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.”",
+  "title": "The Thirty-Two Parts of the Body (Dvattiṁsākāra)"
+ },
+ {
+  "reference": "4.1",
+  "original": "Ekaṁ nāma kiṁ? Sabbe sattā āhāraṭṭhitikā.",
+  "text": "What is the one? All sentient beings are sustained by food.",
+  "title": "The Boy’s Questions (Kumārapañhā)"
+ },
+ {
+  "reference": "4.2",
+  "original": "Dve nāma kiṁ? Nāmañca rūpañca.",
+  "text": "What is the two? Name and form."
+ },
+ {
+  "reference": "4.3",
+  "original": "Tīṇi nāma kiṁ? Tisso vedanā.",
+  "text": "What is the three? Three feelings."
+ },
+ {
+  "reference": "4.4",
+  "original": "Cattāri nāma kiṁ? Cattāri ariyasaccāni.",
+  "text": "What is the four? Four noble truths."
+ },
+ {
+  "reference": "4.5",
+  "original": "Pañca nāma kiṁ? Pañcupādānakkhandhā.",
+  "text": "What is the five? Five grasping aggregates."
+ },
+ {
+  "reference": "4.6",
+  "original": "Cha nāma kiṁ? Cha ajjhattikāni āyatanāni.",
+  "text": "What is the six? Six interior sense fields."
+ },
+ {
+  "reference": "4.7",
+  "original": "Satta nāma kiṁ? Satta bojjhaṅgā.",
+  "text": "What is the seven? Seven awakening factors."
+ },
+ {
+  "reference": "4.8",
+  "original": "Aṭṭha nāma kiṁ? Ariyo aṭṭhaṅgiko maggo.",
+  "text": "What is the eight? The noble eightfold path."
+ },
+ {
+  "reference": "4.9",
+  "original": "Nava nāma kiṁ? Nava sattāvāsā.",
+  "text": "What is the nine? Nine abodes of sentient beings."
+ },
+ {
+  "reference": "4.10",
+  "original": "Dasa nāma kiṁ? Dasahaṅgehi samannāgato “arahā”ti vuccatīti.",
+  "text": "What is the ten? One endowed with ten factors is called “perfected”."
+ },
+ {
+  "reference": "5.1",
+  "original": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi—",
+  "text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then, late at night, a glorious deity, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, and stood to one side. That deity addressed the Buddha in verse:",
+  "title": "Blessings (Maṅgalasutta)"
+ },
+ {
+  "reference": "5.2",
+  "original": "“Bahū devā manussā ca,\nmaṅgalāni acintayuṁ;\nĀkaṅkhamānā sotthānaṁ,\nbrūhi maṅgalamuttamaṁ”.",
+  "text": "“Many gods and humans\nhave thought about blessings\ndesiring well-being:\ndeclare the highest blessing.”"
+ },
+ {
+  "reference": "5.3",
+  "original": "“Asevanā ca bālānaṁ,\npaṇḍitānañca sevanā;\nPūjā ca pūjaneyyānaṁ,\netaṁ maṅgalamuttamaṁ.",
+  "text": "“Not to fraternize with fools,\nbut to fraternize with the wise,\nand honoring those worthy of honor:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.4",
+  "original": "Patirūpadesavāso ca,\npubbe ca katapuññatā;\nAttasammāpaṇidhi ca,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Living in a suitable region,\nhaving made merit in the past,\nbeing rightly resolved in oneself,\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.5",
+  "original": "Bāhusaccañca sippañca,\nvinayo ca susikkhito;\nSubhāsitā ca yā vācā,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Education and a craft,\ndiscipline and training,\nand well-spoken speech:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.6",
+  "original": "Mātāpituupaṭṭhānaṁ,\nputtadārassa saṅgaho;\nAnākulā ca kammantā,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Caring for mother and father,\nkindness to children and partners,\nand unstressful work:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.7",
+  "original": "Dānañca dhammacariyā ca,\nñātakānañca saṅgaho;\nAnavajjāni kammāni,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Giving and righteous conduct,\nkindness to relatives,\nblameless deeds:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.8",
+  "original": "Āratī viratī pāpā,\nmajjapānā ca saṁyamo;\nAppamādo ca dhammesu,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Desisting and abstaining from evil,\navoiding drinking liquor,\ndiligence in good qualities:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.9",
+  "original": "Gāravo ca nivāto ca,\nsantuṭṭhi ca kataññutā;\nKālena dhammassavanaṁ,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Respect and placidity,\ncontentment and gratitude,\nand timely listening to the teaching:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.10",
+  "original": "Khantī ca sovacassatā,\nsamaṇānañca dassanaṁ;\nKālena dhammasākacchā,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Patience, being easy to admonish,\nthe sight of ascetics,\nand timely discussion of the teaching:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.11",
+  "original": "Tapo ca brahmacariyañca,\nariyasaccāna dassanaṁ;\nNibbānasacchikiriyā ca,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Fervor and chastity\nseeing the noble truths,\nand realization of extinguishment:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.12",
+  "original": "Phuṭṭhassa lokadhammehi,\ncittaṁ yassa na kampati;\nAsokaṁ virajaṁ khemaṁ,\netaṁ maṅgalamuttamaṁ.",
+  "text": "Though touched by worldly conditions,\ntheir mind does not tremble;\nsorrowless, stainless, secure:\nthis is the highest blessing."
+ },
+ {
+  "reference": "5.13",
+  "original": "Etādisāni katvāna,\nSabbattha maparājitā;\nSabbattha sotthiṁ gacchanti,\nTaṁ tesaṁ maṅgalamuttaman”ti.",
+  "text": "Having completed these things,\nundefeated everywhere;\neverywhere they go in safety:\nthis is their highest blessing.”"
+ },
+ {
+  "reference": "6.1",
+  "original": "Yānīdha bhūtāni samāgatāni,\nBhummāni vā yāni va antalikkhe;\nSabbeva bhūtā sumanā bhavantu,\nAthopi sakkacca suṇantu bhāsitaṁ.",
+  "text": "Whatever beings have gathered here,\non the ground or in the sky;\nmay beings all be of happy heart,\nand listen carefully to what is said.",
+  "title": "Gems (Ratanasutta)"
+ },
+ {
+  "reference": "6.2",
+  "original": "Tasmā hi bhūtā nisāmetha sabbe,\nMettaṁ karotha mānusiyā pajāya;\nDivā ca ratto ca haranti ye baliṁ,\nTasmā hi ne rakkhatha appamattā.",
+  "text": "So pay heed, all you beings,\nhave love for humankind,\nwho day and night bring offerings;\nplease protect them diligently."
+ },
+ {
+  "reference": "6.3",
+  "original": "Yaṁ kiñci vittaṁ idha vā huraṁ vā,\nSaggesu vā yaṁ ratanaṁ paṇītaṁ;\nNa no samaṁ atthi tathāgatena,\nIdampi buddhe ratanaṁ paṇītaṁ;\nEtena saccena suvatthi hotu.",
+  "text": "There’s no wealth this life or the next,\nno sublime gem in the heavens,\nthat equals the Realized One.\nThis sublime gem is in the Buddha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.4",
+  "original": "Khayaṁ virāgaṁ amataṁ paṇītaṁ,\nYadajjhagā sakyamunī samāhito;\nNa tena dhammena samatthi kiñci,\nIdampi dhamme ratanaṁ paṇītaṁ;\nEtena saccena suvatthi hotu.",
+  "text": "Ending, dispassion, the undying, the sublime,\nattained by the Sakyan Sage immersed in samādhi;\nthere is nothing equal to that Dhamma.\nThis sublime gem is in the Dhamma:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.5",
+  "original": "Yaṁ buddhaseṭṭho parivaṇṇayī suciṁ,\nSamādhimānantarikaññamāhu;\nSamādhinā tena samo na vijjati,\nIdampi dhamme ratanaṁ paṇītaṁ;\nEtena saccena suvatthi hotu.",
+  "text": "The purity praised by the highest Buddha,\nis said to be the “immersion with immediate fruit”;\nno equal to that immersion is found.\nThis sublime gem is in the Dhamma:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.6",
+  "original": "Ye puggalā aṭṭha sataṁ pasatthā,\nCattāri etāni yugāni honti;\nTe dakkhiṇeyyā sugatassa sāvakā,\nEtesu dinnāni mahapphalāni;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "The eight individual persons praised by the good\nare the four pairs of the Holy One’s disciples;\nthey are worthy of religious donations,\nwhat’s given to them is very fruitful.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.7",
+  "original": "Ye suppayuttā manasā daḷhena,\nNikkāmino gotamasāsanamhi;\nTe pattipattā amataṁ vigayha,\nLaddhā mudhā nibbutiṁ bhuñjamānā;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "Dedicated to Gotama’s dispensation,\nstrong-minded, free of sense desire,\nthey’ve attained the goal, plunged into freedom from death,\nand enjoy the quenching they’ve freely gained.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.8",
+  "original": "Yathindakhīlo pathavissito siyā,\nCatubbhi vātehi asampakampiyo;\nTathūpamaṁ sappurisaṁ vadāmi,\nYo ariyasaccāni avecca passati;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "As Indra’s pillar rooted in earth\nis not shaken by the four winds,\nI say a true person is like this,\nwho sees the noble truths in experience.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.9",
+  "original": "Ye ariyasaccāni vibhāvayanti,\nGambhīrapaññena sudesitāni;\nKiñcāpi te honti bhusaṁ pamattā,\nNa te bhavaṁ aṭṭhamamādiyanti;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "Those who fathom the noble truths\ntaught by the one of deep wisdom,\ndo not take an eighth life,\neven if they are hugely negligent.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.10",
+  "original": "Sahāvassa dassanasampadāya,\nTayassu dhammā jahitā bhavanti;\nSakkāyadiṭṭhī vicikicchitañca,\nSīlabbataṁ vāpi yadatthi kiñci.",
+  "text": "When they attain to vision\nthey give up three things:\nsubstantialist view, doubt, and any\nattachment to precepts and observances."
+ },
+ {
+  "reference": "6.11",
+  "original": "Catūhapāyehi ca vippamutto,\nChaccābhiṭhānāni abhabba kātuṁ;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "They’re freed from the four places of loss,\nand cannot do six things.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.12",
+  "original": "Kiñcāpi so kamma karoti pāpakaṁ,\nKāyena vācā uda cetasā vā;\nAbhabba so tassa paṭicchadāya,\nAbhabbatā diṭṭhapadassa vuttā;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "Even if they do a bad deed\nby body, speech, or mind,\nthey are unable to conceal it;\nthis, it’s said, is the inability <j>of one who has seen the truth.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.13",
+  "original": "Vanappagumbe yatha phussitagge,\nGimhānamāse paṭhamasmiṁ gimhe;\nTathūpamaṁ dhammavaraṁ adesayi,\nNibbānagāmiṁ paramaṁ hitāya;\nIdampi buddhe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "Like a tall forest tree crowned with flowers\nin the first month of summer;\nthat’s how he taught the superb Dhamma,\nleading to extinguishment, the ultimate benefit.\nThis sublime gem is in the Buddha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.14",
+  "original": "Varo varaññū varado varāharo,\nAnuttaro dhammavaraṁ adesayi;\nIdampi buddhe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "The superb, knower of the superb, giver of the superb, bringer of the superb;\ntaught the superb Dhamma supreme.\nThis sublime gem is in the Buddha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.15",
+  "original": "Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ,\nVirattacittāyatike bhavasmiṁ;\nTe khīṇabījā avirūḷhichandā,\nNibbanti dhīrā yathāyaṁ padīpo;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
+  "text": "The old is ended, nothing new is produced;\ntheir minds have no desire for future rebirth.\nWithered are the seeds, there’s no desire for growth,\nthose attentive ones are extinguished like this lamp.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+ },
+ {
+  "reference": "6.16",
+  "original": "Yānīdha bhūtāni samāgatāni,\nBhummāni vā yāni va antalikkhe;\nTathāgataṁ devamanussapūjitaṁ,\nBuddhaṁ namassāma suvatthi hotu.",
+  "text": "Whatever beings have gathered here,\non the ground or in the sky:\nthe Realized One is honored by gods and humans!\nWe bow to the Buddha! May you be safe!"
+ },
+ {
+  "reference": "6.17",
+  "original": "Yānīdha bhūtāni samāgatāni,\nBhummāni vā yāni va antalikkhe;\nTathāgataṁ devamanussapūjitaṁ,\nDhammaṁ namassāma suvatthi hotu.",
+  "text": "Whatever beings have gathered here,\non the ground or in the sky:\nthe Realized One is honored by gods and humans!\nWe bow to the Dhamma! May you be safe!"
+ },
+ {
+  "reference": "6.18",
+  "original": "Yānīdha bhūtāni samāgatāni,\nBhummāni vā yāni va antalikkhe;\nTathāgataṁ devamanussapūjitaṁ,\nSaṅghaṁ namassāma suvatthi hotūti.",
+  "text": "Whatever beings have gathered here,\non the ground or in the sky:\nthe Realized One is honored by gods and humans!\nWe bow to the Saṅgha! May you be safe!"
+ },
+ {
+  "reference": "7.1",
+  "original": "Tirokuṭṭesu tiṭṭhanti,\nsandhisiṅghāṭakesu ca;\nDvārabāhāsu tiṭṭhanti,\nāgantvāna sakaṁ gharaṁ.",
+  "text": "Outside the walls they stand and wait,\nat the junctions and the crossroads.\nReturning to their former homes\nthey wait beside the door posts.",
+  "title": "Outside the Walls (Tirokuṭṭasutta)"
+ },
+ {
+  "reference": "7.2",
+  "original": "Pahūte annapānamhi,\nkhajjabhojje upaṭṭhite;\nNa tesaṁ koci sarati,\nsattānaṁ kammapaccayā.",
+  "text": "But when lavish food and drink\nof many kinds is set out,\nno one remembers them at all,\nbecause of those beings’s deeds."
+ },
+ {
+  "reference": "7.3",
+  "original": "Evaṁ dadanti ñātīnaṁ,\nye honti anukampakā;\nSuciṁ paṇītaṁ kālena,\nkappiyaṁ pānabhojanaṁ.",
+  "text": "That’s why those who have compassion\ngive to their relatives\nfood and drink at the right time,\nthat’s clean, delicious, and suitable."
+ },
+ {
+  "reference": "7.4",
+  "original": "Idaṁ vo ñātīnaṁ hotu,\nsukhitā hontu ñātayo;\nTe ca tattha samāgantvā,\nñātipetā samāgatā.",
+  "text": "“May this be for our relatives!\nMay our relatives be happy!”\nThose ghosts who have gathered there,\nthe departed relatives who have come"
+ },
+ {
+  "reference": "7.5",
+  "original": "Pahūte annapānamhi,\nsakkaccaṁ anumodare;\nCiraṁ jīvantu no ñātī,\nyesaṁ hetu labhāmase.",
+  "text": "for the lavish food and drink\ngratefully express appreciation:\n“May our relatives live long!\nFor those to whom we owe this gain,"
+ },
+ {
+  "reference": "7.6",
+  "original": "Amhākañca katā pūjā,\ndāyakā ca anipphalā;\nNa hi tattha kasī atthi,\ngorakkhettha na vijjati.",
+  "text": "who have given honor to us,\nit will not be fruitless for the donor.”\nThere is no farming there,\nno cow pasture can be found;"
+ },
+ {
+  "reference": "7.7",
+  "original": "Vaṇijjā tādisī natthi,\nhiraññena kayākayaṁ;\nIto dinnena yāpenti,\npetā kālagatā tahiṁ.",
+  "text": "likewise there’s no trading,\nand no commerce in gold coin.\nThe departed, the dead in that place\nlive on what is given here."
+ },
+ {
+  "reference": "7.8",
+  "original": "Unname udakaṁ vuṭṭhaṁ,\nyathā ninnaṁ pavattati;\nEvamevaṁ ito dinnaṁ,\npetānaṁ upakappati.",
+  "text": "Just as water that rains on high\nflows down to the plains,\nso too what is given here\naids the departed ghosts."
+ },
+ {
+  "reference": "7.9",
+  "original": "Yathā vārivahā pūrā,\nparipūrenti sāgaraṁ;\nEvamevaṁ ito dinnaṁ,\npetānaṁ upakappati.",
+  "text": "Just as the rivers full\nswell the ocean seas\nso too what is given here\naids the departed ghosts."
+ },
+ {
+  "reference": "7.10",
+  "original": "Adāsi me akāsi me,\nñāti mittā sakhā ca me;\nPetānaṁ dakkhiṇaṁ dajjā,\npubbe katamanussaraṁ.",
+  "text": "Thinking: “They gave to me, they did for me,\nthey were my family, friend, comrade”,\ngive offerings to departed kin,\nremembering past deeds."
+ },
+ {
+  "reference": "7.11",
+  "original": "Na hi ruṇṇaṁ vā soko vā,\nyā caññā paridevanā;\nNa taṁ petānamatthāya,\nevaṁ tiṭṭhanti ñātayo.",
+  "text": "For neither tears nor grief\nor other lamentations\nare of any use to the departed,\nso long as their relatives stay like this."
+ },
+ {
+  "reference": "7.12",
+  "original": "Ayañca kho dakkhiṇā dinnā,\nsaṅghamhi suppatiṭṭhitā;\nDīgharattaṁ hitāyassa,\nṭhānaso upakappati.",
+  "text": "This offering that has been given,\nwell placed in the Saṅgha,\nis for their lasting welfare,\nand aids them right away."
+ },
+ {
+  "reference": "7.13",
+  "original": "So ñātidhammo ca ayaṁ nidassito,\nPetāna pūjā ca katā uḷārā;\nBalañca bhikkhūnamanuppadinnaṁ,\nTumhehi puññaṁ pasutaṁ anappakanti.",
+  "text": "The relative’s duty has now been shown:\nhow high honor to departed is performed,\nhow the mendicants can be kept strong,\nand how no little merit is produced by you."
+ },
+ {
+  "reference": "8.1",
+  "original": "Nidhiṁ nidheti puriso,\ngambhīre odakantike;\nAtthe kicce samuppanne,\natthāya me bhavissati.",
+  "text": "A person stores away their savings\nin a deep trove by the water’s edge:\n“When need arises\nit will be there to help",
+  "title": "A Treasure Trove (Nidhikaṇḍasutta)"
+ },
+ {
+  "reference": "8.2",
+  "original": "Rājato vā duruttassa,\ncorato pīḷitassa vā;\nIṇassa vā pamokkhāya,\ndubbhikkhe āpadāsu vā;\nEtadatthāya lokasmiṁ,\nnidhi nāma nidhīyati.",
+  "text": "free me from rulers if I am slandered,\nor from bandits if harassed,\nor to release me from debt,\nor in case of famine or losses.”\nWhat the world calls savings\nget stored away for such reasons."
+ },
+ {
+  "reference": "8.3",
+  "original": "Tāvassunihito santo,\ngambhīre odakantike;\nNa sabbo sabbadā eva,\ntassa taṁ upakappati.",
+  "text": "But no matter how well stored away they are\nin a deep pit by the water’s edge,\nall their savings will fail\nto aid them all the time."
+ },
+ {
+  "reference": "8.4",
+  "original": "Nidhi vā ṭhānā cavati,\nsaññā vāssa vimuyhati;\nNāgā vā apanāmenti,\nyakkhā vāpi haranti naṁ.",
+  "text": "For perhaps those savings shift from there,\nor they forget what marks the site,\nor dragons make off with them,\nor spirits carry them away,"
+ },
+ {
+  "reference": "8.5",
+  "original": "Appiyā vāpi dāyādā,\nuddharanti apassato;\nYadā puññakkhayo hoti,\nsabbametaṁ vinassati.",
+  "text": "or unloved heirs\nsecretly unearth them.\nWhen their merit is used up,\nall of that will vanish."
+ },
+ {
+  "reference": "8.6",
+  "original": "Yassa dānena sīlena,\nsaṁyamena damena ca;\nNidhī sunihito hoti,\nitthiyā purisassa vā.",
+  "text": "But by giving and morality,\nrestraint and self-control,\na woman or man\nkeeps their savings safe."
+ },
+ {
+  "reference": "8.7",
+  "original": "Cetiyamhi ca saṅghe vā,\npuggale atithīsu vā;\nMātari pitari cāpi,\natho jeṭṭhamhi bhātari.",
+  "text": "At a shrine or with the Saṅgha,\nwith mother or father,\nor else an elder sibling,"
+ },
+ {
+  "reference": "8.8",
+  "original": "Eso nidhi sunihito,\najeyyo anugāmiko;\nPahāya gamanīyesu,\netaṁ ādāya gacchati.",
+  "text": "those savings are kept safe,\nthey stay with you, undecaying.\nWe must go on leaving all behind,\nonly this you take when you go."
+ },
+ {
+  "reference": "8.9",
+  "original": "Asādhāraṇamaññesaṁ,\nacorāharaṇo nidhi;\nKayirātha dhīro puññāni,\nyo nidhi anugāmiko.",
+  "text": "You don’t have to share it with others,\nno thief makes off with your savings.\nAn attentive one would make merit,\nthe savings that stay with you."
+ },
+ {
+  "reference": "8.10",
+  "original": "Esa devamanussānaṁ,\nsabbakāmadado nidhi;\nYaṁ yadevābhipatthenti,\nsabbametena labbhati.",
+  "text": "Such savings grant every desire\nof gods and humans too.\nWhatever it is that they wish for\nthrough this they have it all."
+ },
+ {
+  "reference": "8.11",
+  "original": "Suvaṇṇatā susaratā,\nsusaṇṭhānā surūpatā;\nĀdhipaccaparivāro,\nsabbametena labbhati.",
+  "text": "Good looks, a sweet voice,\na good shape, and good appearance,\nleadership and followers:\nthrough this they have it all."
+ },
+ {
+  "reference": "8.12",
+  "original": "Padesarajjaṁ issariyaṁ,\ncakkavattisukhaṁ piyaṁ;\nDevarajjampi dibbesu,\nsabbametena labbhati.",
+  "text": "Sovereignty of a local kingdom,\nthe happiness of a Wheel-Turning Monarch,\neven kingship in the heavens:\nthrough this they have it all."
+ },
+ {
+  "reference": "8.13",
+  "original": "Mānussikā ca sampatti,\ndevaloke ca yā rati;\nYā ca nibbānasampatti,\nsabbametena labbhati.",
+  "text": "Human success,\nheavenly delight,\nattaining extinguishment:\nthrough this they have it all."
+ },
+ {
+  "reference": "8.14",
+  "original": "Mittasampadamāgamma,\nyonisova payuñjato;\nVijjāvimuttivasībhāvo,\nsabbametena labbhati.",
+  "text": "Relying on having good friends,\nrational application of effort,\nmastery of knowledge and freedom:\nthrough this they have it all."
+ },
+ {
+  "reference": "8.15",
+  "original": "Paṭisambhidā vimokkhā ca,\nyā ca sāvakapāramī;\nPaccekabodhi buddhabhūmi,\nsabbametena labbhati.",
+  "text": "Analytical knowledge, the liberations,\nthe perfections of the disciple,\nthe plane of an independent Buddha:\nthrough this they have it all."
+ },
+ {
+  "reference": "8.16",
+  "original": "Evaṁ mahatthikā esā,\nyadidaṁ puññasampadā;\nTasmā dhīrā pasaṁsanti,\npaṇḍitā katapuññatanti.",
+  "text": "This accomplishment in merit\nis so very beneficial.\nThat’s why the attentive and the astute\npraise the making of merit."
+ },
+ {
+  "reference": "9.1",
+  "original": "Karaṇīyamatthakusalena,\nYanta santaṁ padaṁ abhisamecca;\nSakko ujū ca suhujū ca,\nSūvaco cassa mudu anatimānī.",
+  "text": "Those who are skilled in the meaning of scripture\nshould practice as follows to realize the state of peace.\nLet them be capable and upright, very upright,\neasy to speak to, gentle and humble;",
+  "title": "The Discourse on Love (Mettasutta)"
+ },
+ {
+  "reference": "9.2",
+  "original": "Santussako ca subharo ca,\nAppakicco ca sallahukavutti;\nSantindriyo ca nipako ca,\nAppagabbho kulesvananugiddho.",
+  "text": "content and unburdensome,\nunbusied, living lightly,\nalert, with senses calmed,\ncourteous, not fawning on families."
+ },
+ {
+  "reference": "9.3",
+  "original": "Na ca khuddamācare kiñci,\nYena viññū pare upavadeyyuṁ;\nSukhino va khemino hontu,\nSabbasattā bhavantu sukhitattā.",
+  "text": "Let them not do the slightest thing\nthat others who are wise would blame.\nMay they be happy and safe!\nMay all beings be happy!"
+ },
+ {
+  "reference": "9.4",
+  "original": "Ye keci pāṇabhūtatthi,\nTasā vā thāvarā vanavasesā;\nDīghā vā ye va mahantā,\nMajjhimā rassakā aṇukathūlā.",
+  "text": "Whatever living creatures there are\nwith not a one left out—\nfrail or firm, long or large,\nmedium, small, tiny or round,"
+ },
+ {
+  "reference": "9.5",
+  "original": "Diṭṭhā vā ye va adiṭṭhā,\nYe va dūre vasanti avidūre;\nBhūtā va sambhavesī va,\nSabbasattā bhavantu sukhitattā.",
+  "text": "seen or unseen,\nliving far or near,\nthose who have been born <j>and those about to be born—\nmay all beings be happy!"
+ },
+ {
+  "reference": "9.6",
+  "original": "Na paro paraṁ nikubbetha,\nNātimaññetha katthaci na kañci;\nByārosanā paṭighasañña,\nNāññamaññassa dukkhamiccheyya.",
+  "text": "Let none deceive another,\nnor look down on anyone anywhere.\nThough provoked or aggrieved,\nlet them not wish pain on each other."
+ },
+ {
+  "reference": "9.7",
+  "original": "Mātā yathā niyaṁ puttam\nĀyusā ekaputtamanurakkhe;\nEvampi sabbabhūtesu,\nMānasaṁ bhāvaye aparimāṇaṁ.",
+  "text": "Even as a mother would protect with her life\nher child, her only child,\nso too for all creatures\nunfold a boundless heart."
+ },
+ {
+  "reference": "9.8",
+  "original": "Mettañca sabbalokasmi,\nMānasaṁ bhāvaye aparimāṇaṁ;\nUddhaṁ adho ca tiriyañca,\nAsambādhaṁ averamasapattaṁ.",
+  "text": "With love for the whole world,\nunfold a boundless heart:\nabove, below, all round,\nunconstricted, without enmity or foe."
+ },
+ {
+  "reference": "9.9",
+  "original": "Tiṭṭhaṁ caraṁ nisinno va,\nSayāno yāvatāssa vitamiddho;\nEtaṁ satiṁ adhiṭṭheyya,\nBrahmametaṁ vihāramidhamāhu.",
+  "text": "When standing, walking, sitting,\nor lying down while yet unweary,\nkeep this ever in mind;\nfor this, they say, is a divine meditation in this life."
+ },
+ {
+  "reference": "9.10",
+  "original": "Diṭṭhiñca anupaggamma,\nSīlavā dassanena sampanno;\nKāmesu vinaya gedhaṁ,\nNa hi jātuggabbhaseyya punaretīti.",
+  "text": "Avoiding harmful views,\nvirtuous, accomplished in insight,\nwith desire for sensual pleasures dispelled,\nthey never return to a womb again."
+ }
+]

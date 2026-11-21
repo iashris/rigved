@@ -1,4 +1,4 @@
-/* Vedic Library: canon map + reader. Scoped under .lib so the analysis tool keeps its own look. */
+/* IIP Library: canon map + reader. Scoped under .lib so the analysis tool keeps its own look. */
 
 :root {
   /* India in Pixels house style: white like the map posts by day, near-black like the explainer
@@ -20,6 +20,7 @@
   --lib-deva: 'Noto Serif Devanagari', 'Noto Sans Devanagari', serif;
   --lib-hebrew: 'Noto Serif Hebrew', 'SBL Hebrew', 'Times New Roman', serif;
   --lib-greek: 'Noto Serif', 'SBL Greek', 'Times New Roman', serif;
+  --lib-arabic: 'Amiri Quran', 'Amiri', 'Noto Naskh Arabic', 'Geeza Pro', serif;
   --lib-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -113,10 +114,11 @@
   }
 }
 
+/* The Order of Indra's vajra, in the accent colour. */
 .lib-brand-mark {
-  font-family: var(--lib-deva);
+  display: inline-flex;
+  align-items: center;
   color: var(--lib-accent);
-  font-size: 22px;
 }
 
 .lib-nav-links {
@@ -167,6 +169,69 @@
   margin-top: 10px;
   color: var(--lib-ink-2);
   line-height: 1.6;
+}
+
+/* The Order of Indra, under the hero: its vajra, its word, its link. */
+.order-card {
+  margin-top: 28px;
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  max-width: 900px;
+  padding: 20px 22px;
+  border: 1px solid var(--lib-line);
+  border-left: 3px solid var(--lib-accent);
+  border-radius: 6px;
+}
+
+.order-card-mark {
+  color: var(--lib-accent);
+  flex: none;
+  padding-top: 4px;
+}
+
+.order-card h2 {
+  font-family: var(--lib-display);
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.order-card p {
+  margin-top: 8px;
+  color: var(--lib-ink-2);
+  line-height: 1.6;
+}
+
+.order-card ul {
+  margin: 10px 0 0;
+  padding-left: 18px;
+  color: var(--lib-ink-2);
+  line-height: 1.6;
+}
+
+.order-card-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: baseline;
+}
+
+.order-card-links a {
+  color: var(--lib-accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.order-card-links span {
+  font-style: italic;
+  color: var(--lib-ink-3);
+}
+
+@media (max-width: 480px) {
+  .order-card {
+    padding: 16px;
+    gap: 14px;
+  }
 }
 
 .lib-filters {
@@ -777,12 +842,24 @@
   color: var(--lib-ink);
 }
 
+/* Pāli verse keeps its lines, one pāda to a line; Pāli prose has no line breaks to keep. */
+.v-iast:lang(pi-Latn) {
+  white-space: pre-line;
+}
+
 /* A right-to-left original (the Hebrew of the Old Testament): upright, larger, set from the right. */
 .v-orig {
   font-family: var(--lib-hebrew);
   font-size: calc(21px * var(--read-scale));
   line-height: 1.8;
   text-align: right;
+}
+
+/* The Qur'an's Uthmani Arabic: its own face, and room above and below for the vowel and recitation marks. */
+.v-orig:lang(ar) {
+  font-family: var(--lib-arabic);
+  font-size: calc(24px * var(--read-scale));
+  line-height: 2.1;
 }
 
 .v-en {
