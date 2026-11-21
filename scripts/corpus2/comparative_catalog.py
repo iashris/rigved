@@ -1,4 +1,4 @@
-"""Shared by the comparative-shelf importers (bible_old_testament.py, avesta_titus.py): write their bands, texts and
+"""Shared by the comparative-shelf importers (bible_old_testament.py, bible_new_testament.py, avesta_titus.py): write their bands, texts and
 translation credits into library_catalog.json and translation_sources.json. Rerunnable: a text or band already
 there is replaced in place of being added twice.
 

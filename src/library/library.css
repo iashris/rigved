@@ -19,6 +19,7 @@
   --lib-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --lib-deva: 'Noto Serif Devanagari', 'Noto Sans Devanagari', serif;
   --lib-hebrew: 'Noto Serif Hebrew', 'SBL Hebrew', 'Times New Roman', serif;
+  --lib-greek: 'Noto Serif', 'SBL Greek', 'Times New Roman', serif;
   --lib-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -765,6 +766,15 @@
   font-size: calc(15px * var(--read-scale));
   line-height: 1.6;
   color: var(--lib-ink-2);
+}
+
+/* The Greek of the New Testament sits in the roman slot, but polytonic Greek reads badly as italic sans: upright serif. */
+.v-iast:lang(grc) {
+  font-family: var(--lib-greek);
+  font-style: normal;
+  font-size: calc(18px * var(--read-scale));
+  line-height: 1.7;
+  color: var(--lib-ink);
 }
 
 /* A right-to-left original (the Hebrew of the Old Testament): upright, larger, set from the right. */

@@ -2702,5 +2702,491 @@
       ],
       "note": "Paired by chapter: the translator numbers paragraphs after Westergaard and Spiegel, not Geldner."
     }
+  },
+  "nt_matthew": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_mark": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_luke": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_john": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_acts": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_romans": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_1_corinthians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_2_corinthians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_galatians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_ephesians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_philippians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_colossians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_1_thessalonians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_2_thessalonians": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_1_timothy": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_2_timothy": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_titus": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_philemon": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_hebrews": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_james": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_1_peter": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_2_peter": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_1_john": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_2_john": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_3_john": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_jude": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
+  },
+  "nt_revelation": {
+    "english": {
+      "by": "the King James translators",
+      "work": "The Holy Bible, Conteyning the Old Testament, and the New, London: Robert Barker",
+      "year": "1611",
+      "links": [
+        {
+          "label": "eBible.org",
+          "url": "https://ebible.org/find/details.php?id=eng-kjv"
+        }
+      ],
+      "via": {
+        "label": "eBible.org",
+        "url": "https://ebible.org/Scriptures/"
+      },
+      "note": "Greek: the Textus Receptus, the text the King James translators worked from (eBible.org, grctr), in the same verse numbering. Words the translators supplied, printed in italics in the KJV, are set in roman here."
+    }
   }
 }

@@ -1,0 +1,777 @@
+[
+ {
+  "reference": "1.1",
+  "original": "Παῦλος, ἀπόστολος Ἰησοῦ Χριστοῦ διὰ θελήματος Θεοῦ, τοῖς ἁγίοις τοῖς οὖσιν ἐν Ἐφέσῳ καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·",
+  "text": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
+ },
+ {
+  "reference": "1.2",
+  "original": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ πατρὸς ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ.",
+  "text": "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ."
+ },
+ {
+  "reference": "1.3",
+  "original": "Εὐλογητὸς ὁ Θεὸς καὶ πατὴρ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ εὐλογήσας ἡμᾶς ἐν πάσῃ εὐλογίᾳ πνευματικῇ ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ·",
+  "text": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:"
+ },
+ {
+  "reference": "1.4",
+  "original": "καθὼς ἐξελέξατο ἡμᾶς ἐν αὐτῷ πρὸ καταβολῆς κόσμου, εἶναι ἡμᾶς ἁγίους καὶ ἀμώμους κατενώπιον αὐτοῦ ἐν ἀγάπῃ,",
+  "text": "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:"
+ },
+ {
+  "reference": "1.5",
+  "original": "προορίσας ἡμᾶς εἰς υἱοθεσίαν διὰ Ἰησοῦ Χριστοῦ εἰς αὐτόν, κατὰ τὴν εὐδοκίαν τοῦ θελήματος αὐτοῦ,",
+  "text": "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,"
+ },
+ {
+  "reference": "1.6",
+  "original": "εἰς ἔπαινον δόξης τῆς χάριτος αὐτοῦ, ἐν ᾗ ἐχαρίτωσεν ἡμᾶς ἐν τῷ ἠγαπημένῳ·",
+  "text": "To the praise of the glory of his grace, wherein he hath made us accepted in the beloved."
+ },
+ {
+  "reference": "1.7",
+  "original": "ἐν ᾧ ἔχομεν τὴν ἀπολύτρωσιν διὰ τοῦ αἵματος αὐτοῦ, τὴν ἄφεσιν τῶν παραπτωμάτων, κατὰ τὸν πλοῦτον τῆς χάριτος αὐτοῦ,",
+  "text": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;"
+ },
+ {
+  "reference": "1.8",
+  "original": "ἧς ἐπερίσσευσεν εἰς ἡμᾶς ἐν πάσῃ σοφίᾳ καὶ φρονήσει,",
+  "text": "Wherein he hath abounded toward us in all wisdom and prudence;"
+ },
+ {
+  "reference": "1.9",
+  "original": "γνωρίσας ἡμῖν τὸ μυστήριον τοῦ θελήματος αὐτοῦ, κατὰ τὴν εὐδοκίαν αὐτοῦ, ἣν προέθετο ἐν αὐτῷ",
+  "text": "Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:"
+ },
+ {
+  "reference": "1.10",
+  "original": "εἰς οἰκονομίαν τοῦ πληρώματος τῶν καιρῶν, ἀνακεφαλαιώσασθαι τὰ πάντα ἐν τῷ Χριστῷ, τὰ τε ἐν τοῖς οὐρανοῖς καὶ τὰ ἐπὶ τῆς γῆς·",
+  "text": "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
+ },
+ {
+  "reference": "1.11",
+  "original": "ἐν αὐτῷ, ἐν ᾧ καὶ ἐκληρώθημεν προορισθέντες κατὰ πρόθεσιν τοῦ τὰ πάντα ἐνεργοῦντος κατὰ τὴν βουλὴν τοῦ θελήματος αὐτοῦ,",
+  "text": "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:"
+ },
+ {
+  "reference": "1.12",
+  "original": "εἰς τὸ εἶναι ἡμᾶς εἰς ἔπαινον τῆς δόξης αὐτοῦ, τοὺς προηλπικότας ἐν τῷ Χριστῷ·",
+  "text": "That we should be to the praise of his glory, who first trusted in Christ."
+ },
+ {
+  "reference": "1.13",
+  "original": "ἐν ᾧ καὶ ὑμεῖς, ἀκούσαντες τὸν λόγον τῆς ἀληθείας, τὸ εὐαγγέλιον τῆς σωτηρίας ὑμῶν, ἐν ᾧ καὶ πιστεύσαντες ἐσφραγίσθητε τῷ πνεύματι τῆς ἐπαγγελίας τῷ ἁγίῳ,",
+  "text": "In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,"
+ },
+ {
+  "reference": "1.14",
+  "original": "ὅς ἐστιν ἀρραβὼν τῆς κληρονομίας ἡμῶν, εἰς ἀπολύτρωσιν τῆς περιποιήσεως, εἰς ἔπαινον τῆς δόξης αὐτοῦ.",
+  "text": "Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory."
+ },
+ {
+  "reference": "1.15",
+  "original": "Διὰ τοῦτο κἀγώ, ἀκούσας τὴν καθ᾿ ὑμᾶς πίστιν ἐν τῷ Κυρίῳ Ἰησοῦ καὶ τὴν ἀγάπην τὴν εἰς πάντας τοὺς ἁγίους,",
+  "text": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
+ },
+ {
+  "reference": "1.16",
+  "original": "οὐ παύομαι εὐχαριστῶν ὑπὲρ ὑμῶν, μνείαν ὑμῶν ποιούμενος ἐπὶ τῶν προσευχῶν μου·",
+  "text": "Cease not to give thanks for you, making mention of you in my prayers;"
+ },
+ {
+  "reference": "1.17",
+  "original": "ἵνα ὁ Θεὸς τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ πατὴρ τῆς δόξης, δῴη ὑμῖν πνεῦμα σοφίας καὶ ἀποκαλύψεως, ἐν ἐπιγνώσει αὐτοῦ·",
+  "text": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
+ },
+ {
+  "reference": "1.18",
+  "original": "πεφωτισμένους τοὺς ὀφθαλμοὺς τῆς διανοίας ὑμῶν, εἰς τὸ εἰδέναι ὑμᾶς τίς ἐστιν ἡ ἐλπὶς τῆς κλήσεως αὐτοῦ, καὶ τίς ὁ πλοῦτος τῆς δόξης τῆς κληρονομίας αὐτοῦ ἐν τοῖς ἁγίοις,",
+  "text": "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
+ },
+ {
+  "reference": "1.19",
+  "original": "καὶ τί τὸ ὑπερβάλλον μέγεθος τῆς δυνάμεως αὐτοῦ εἰς ἡμᾶς τοὺς πιστεύοντας, κατὰ τὴν ἐνέργειαν τοῦ κράτους τῆς ἰσχύος αὐτοῦ",
+  "text": "And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,"
+ },
+ {
+  "reference": "1.20",
+  "original": "ἣν ἐνήργησεν ἐν τῷ Χριστῷ, ἐγείρας αὐτὸν ἐκ νεκρῶν, καὶ ἐκάθισεν ἐν δεξιᾷ αὐτοῦ ἐν τοῖς ἐπουρανίοις,",
+  "text": "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
+ },
+ {
+  "reference": "1.21",
+  "original": "ὑπεράνω πάσης ἀρχῆς καὶ ἐξουσίας καὶ δυνάμεως καὶ κυριότητος, καὶ παντὸς ὀνόματος ὀνομαζομένου οὐ μόνον ἐν τῷ αἰῶνι τούτῳ, ἀλλὰ καὶ ἐν τῷ μέλλοντι·",
+  "text": "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:"
+ },
+ {
+  "reference": "1.22",
+  "original": "καὶ πάντα ὑπέταξεν ὑπὸ τοὺς πόδας αὐτοῦ, καὶ αὐτὸν ἔδωκε κεφαλὴν ὑπὲρ πάντα τῇ ἐκκλησίᾳ,",
+  "text": "And hath put all things under his feet, and gave him to be the head over all things to the church,"
+ },
+ {
+  "reference": "1.23",
+  "original": "ἥτις ἐστὶ τὸ σῶμα αὐτοῦ, τὸ πλήρωμα τοῦ πάντα ἐν πᾶσι πληρουμένου.",
+  "text": "Which is his body, the fulness of him that filleth all in all."
+ },
+ {
+  "reference": "2.1",
+  "original": "Καὶ ὑμᾶς ὄντας νεκροὺς τοῖς παραπτώμασι καὶ ταῖς ἁμαρτίαις,",
+  "text": "And you hath he quickened, who were dead in trespasses and sins;"
+ },
+ {
+  "reference": "2.2",
+  "original": "ἐν αἷς ποτὲ περιεπατήσατε κατὰ τὸν αἰῶνα τοῦ κόσμου τούτου, κατὰ τὸν ἄρχοντα τῆς ἐξουσίας τοῦ ἀέρος, τοῦ πνεύματος τοῦ νῦν ἐνεργοῦντος ἐν τοῖς υἱοῖς τῆς ἀπειθείας·",
+  "text": "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:"
+ },
+ {
+  "reference": "2.3",
+  "original": "ἐν οἷς καὶ ἡμεῖς πάντες ἀνεστράφημέν ποτε ἐν ταῖς ἐπιθυμίαις τῆς σαρκὸς ἡμῶν, ποιοῦντες τὰ θελήματα τῆς σαρκὸς καὶ τῶν διανοιῶν, καὶ ἦμεν τέκνα φύσει ὀργῆς, ὡς καὶ οἱ λοιποί·",
+  "text": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others."
+ },
+ {
+  "reference": "2.4",
+  "original": "ὁ δὲ Θεός, πλούσιος ὢν ἐν ἐλέει, διὰ τὴν πολλὴν ἀγάπην αὐτοῦ ἣν ἠγάπησεν ἡμᾶς,",
+  "text": "But God, who is rich in mercy, for his great love wherewith he loved us,"
+ },
+ {
+  "reference": "2.5",
+  "original": "καὶ ὄντας ἡμᾶς νεκροὺς τοῖς παραπτώμασι συνεζῳοποίησε τῷ Χριστῷ — χάριτί ἐστε σεσῳσμένοι —",
+  "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)"
+ },
+ {
+  "reference": "2.6",
+  "original": "καὶ συνήγειρε, καὶ συνεκάθισεν ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ Ἰησοῦ·",
+  "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:"
+ },
+ {
+  "reference": "2.7",
+  "original": "ἵνα ἐνδείξηται ἐν τοῖς αἰῶσι τοῖς ἐπερχομένοις τὸν ὑπερβάλλοντα πλοῦτον τῆς χάριτος αὐτοῦ ἐν χρηστότητι ἐφ᾿ ἡμᾶς ἐν Χριστῷ Ἰησοῦ·",
+  "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
+ },
+ {
+  "reference": "2.8",
+  "original": "τῇ γὰρ χάριτί ἐστε σεσῳσμένοι διὰ τῆς πίστεως, καὶ τοῦτο οὐκ ἐξ ὑμῶν· Θεοῦ τὸ δῶρον·",
+  "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:"
+ },
+ {
+  "reference": "2.9",
+  "original": "οὐκ ἐξ ἔργων, ἵνα μή τις καυχήσηται.",
+  "text": "Not of works, lest any man should boast."
+ },
+ {
+  "reference": "2.10",
+  "original": "Αὐτοῦ γάρ ἐσμεν ποίημα, κτισθέντες ἐν Χριστῷ Ἰησοῦ ἐπὶ ἔργοις ἀγαθοῖς, οἷς προητοίμασεν ὁ Θεός, ἵνα ἐν αὐτοῖς περιπατήσωμεν.",
+  "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
+ },
+ {
+  "reference": "2.11",
+  "original": "Διὸ μνημονεύετε ὅτι ὑμεῖς ποτὲ τὰ ἔθνη ἐν σαρκί, οἱ λεγόμενοι ἀκροβυστία ὑπὸ τῆς λεγομένης περιτομῆς ἐν σαρκὶ χειροποιήτου,",
+  "text": "Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;"
+ },
+ {
+  "reference": "2.12",
+  "original": "ὅτι ἦτε ἐν τῷ καιρῷ ἐκείνῳ χωρὶς Χριστοῦ, ἀπηλλοτριωμένοι τῆς πολιτείας τοῦ Ἰσραήλ, καὶ ξένοι τῶν διαθηκῶν τῆς ἐπαγγελίας, ἐλπίδα μὴ ἔχοντες, καὶ ἄθεοι ἐν τῷ κόσμῳ.",
+  "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
+ },
+ {
+  "reference": "2.13",
+  "original": "Νυνὶ δὲ ἐν Χριστῷ Ἰησοῦ ὑμεῖς οἱ ποτὲ ὄντες μακρὰν ἐγγὺς ἐγενήθητε ἐν τῷ αἵματι τοῦ Χριστοῦ.",
+  "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ."
+ },
+ {
+  "reference": "2.14",
+  "original": "Αὐτὸς γάρ ἐστιν ἡ εἰρήνη ἡμῶν, ὁ ποιήσας τὰ ἀμφότερα ἕν, καὶ τὸ μεσότοιχον τοῦ φραγμοῦ λύσας,",
+  "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;"
+ },
+ {
+  "reference": "2.15",
+  "original": "τὴν ἔχθραν ἐν τῇ σαρκὶ αὐτοῦ, τὸν νόμον τῶν ἐντολῶν ἐν δόγμασι, καταργήσας· ἵνα τοὺς δύο κτίσῃ ἐν ἑαυτῷ εἰς ἕνα καινὸν ἄνθρωπον, ποιῶν εἰρήνην,",
+  "text": "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;"
+ },
+ {
+  "reference": "2.16",
+  "original": "καὶ ἀποκαταλλάξῃ τοὺς ἀμφοτέρους ἐν ἑνὶ σώματι τῷ Θεῷ διὰ τοῦ σταυροῦ, ἀποκτείνας τὴν ἔχθραν ἐν αὐτῷ·",
+  "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:"
+ },
+ {
+  "reference": "2.17",
+  "original": "καὶ ἐλθὼν εὐηγγελίσατο εἰρήνην ὑμῖν τοῖς μακρὰν καὶ τοῖς ἐγγύς·",
+  "text": "And came and preached peace to you which were afar off, and to them that were nigh."
+ },
+ {
+  "reference": "2.18",
+  "original": "ὅτι δι᾿ αὐτοῦ ἔχομεν τὴν προσαγωγὴν οἱ ἀμφότεροι ἐν ἑνὶ πνεύματι πρὸς τὸν πατέρα.",
+  "text": "For through him we both have access by one Spirit unto the Father."
+ },
+ {
+  "reference": "2.19",
+  "original": "Ἄρα οὖν οὐκέτι ἐστὲ ξένοι καὶ πάροικοι, ἀλλὰ συμπολῖται τῶν ἁγίων καὶ οἰκεῖοι τοῦ Θεοῦ,",
+  "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;"
+ },
+ {
+  "reference": "2.20",
+  "original": "ἐποικοδομηθέντες ἐπὶ τῷ θεμελίῳ τῶν ἀποστόλων καὶ προφητῶν, ὄντος ἀκρογωνιαίου αὐτοῦ Ἰησοῦ Χριστοῦ,",
+  "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;"
+ },
+ {
+  "reference": "2.21",
+  "original": "ἐν ᾧ πᾶσα ἡ οἰκοδομὴ συναρμολογουμένη αὔξει εἰς ναὸν ἅγιον ἐν Κυρίῳ,",
+  "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:"
+ },
+ {
+  "reference": "2.22",
+  "original": "ἐν ᾧ καὶ ὑμεῖς συνοικοδομεῖσθε εἰς κατοικητήριον τοῦ Θεοῦ ἐν πνεύματι.",
+  "text": "In whom ye also are builded together for an habitation of God through the Spirit."
+ },
+ {
+  "reference": "3.1",
+  "original": "Τούτου χάριν ἐγὼ Παῦλος ὁ δέσμιος τοῦ Χριστοῦ Ἰησοῦ ὑπὲρ ὑμῶν τῶν ἐθνῶν,",
+  "text": "For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,"
+ },
+ {
+  "reference": "3.2",
+  "original": "εἴγε ἠκούσατε τὴν οἰκονομίαν τῆς χάριτος τοῦ Θεοῦ τῆς δοθείσης μοι εἰς ὑμᾶς,",
+  "text": "If ye have heard of the dispensation of the grace of God which is given me to you-ward:"
+ },
+ {
+  "reference": "3.3",
+  "original": "ὅτι κατὰ ἀποκάλυψιν ἐγνώρισέ μοι τὸ μυστήριον, καθὼς προέγραψα ἐν ὀλίγῳ,",
+  "text": "How that by revelation he made known unto me the mystery; (as I wrote afore in few words,"
+ },
+ {
+  "reference": "3.4",
+  "original": "πρὸς ὃ δύνασθε ἀναγινώσκοντες νοῆσαι τὴν σύνεσίν μου ἐν τῷ μυστηρίῳ τοῦ Χριστοῦ·",
+  "text": "Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)"
+ },
+ {
+  "reference": "3.5",
+  "original": "ὃ ἐν ἑτέραις γενεαῖς οὐκ ἐγνωρίσθη τοῖς υἱοῖς τῶν ἀνθρώπων, ὡς νῦν ἀπεκαλύφθη τοῖς ἁγίοις ἀποστόλοις αὐτοῦ καὶ προφήταις ἐν πνεύματι·",
+  "text": "Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;"
+ },
+ {
+  "reference": "3.6",
+  "original": "εἶναι τὰ ἔθνη συγκληρονόμα καὶ σύσσωμα καὶ συμμέτοχα τῆς ἐπαγγελίας αὐτοῦ ἐν τῷ Χριστῷ, διὰ τοῦ εὐαγγελίου,",
+  "text": "That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:"
+ },
+ {
+  "reference": "3.7",
+  "original": "οὗ ἐγενόμην διάκονος κατὰ τὴν δωρεὰν τῆς χάριτος τοῦ Θεοῦ, τὴν δοθεῖσάν μοι κατὰ τὴν ἐνέργειαν τῆς δυνάμεως αὐτοῦ.",
+  "text": "Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power."
+ },
+ {
+  "reference": "3.8",
+  "original": "Ἐμοὶ τῷ ἐλαχιστοτέρῳ πάντων τῶν ἁγίων ἐδόθη ἡ χάρις αὕτη, ἐν τοῖς ἔθνεσιν εὐαγγελίσασθαι τὸν ἀνεξιχνίαστον πλοῦτον τοῦ Χριστοῦ,",
+  "text": "Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;"
+ },
+ {
+  "reference": "3.9",
+  "original": "καὶ φωτίσαι πάντας τίς ἡ κοινωνία τοῦ μυστηρίου τοῦ ἀποκεκρυμμένου ἀπὸ τῶν αἰώνων ἐν τῷ Θεῷ τῷ τὰ πάντα κτίσαντι διὰ Ἰησοῦ Χριστοῦ,",
+  "text": "And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:"
+ },
+ {
+  "reference": "3.10",
+  "original": "ἵνα γνωρισθῇ νῦν ταῖς ἀρχαῖς καὶ ταῖς ἐξουσίαις ἐν τοῖς ἐπουρανίοις διὰ τῆς ἐκκλησίας ἡ πολυποίκιλος σοφία τοῦ Θεοῦ,",
+  "text": "To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,"
+ },
+ {
+  "reference": "3.11",
+  "original": "κατὰ πρόθεσιν τῶν αἰώνων ἣν ἐποίησεν ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν·",
+  "text": "According to the eternal purpose which he purposed in Christ Jesus our Lord:"
+ },
+ {
+  "reference": "3.12",
+  "original": "ἐν ᾧ ἔχομεν τὴν παρρησίαν καὶ τὴν προσαγωγὴν ἐν πεποιθήσει διὰ τῆς πίστεως αὐτοῦ.",
+  "text": "In whom we have boldness and access with confidence by the faith of him."
+ },
+ {
+  "reference": "3.13",
+  "original": "Διὸ αἰτοῦμαι μὴ ἐκκακεῖν ἐν ταῖς θλίψεσί μου ὑπὲρ ὑμῶν, ἥτις ἐστὶ δόξα ὑμῶν.",
+  "text": "Wherefore I desire that ye faint not at my tribulations for you, which is your glory."
+ },
+ {
+  "reference": "3.14",
+  "original": "Τούτου χάριν κάμπτω τὰ γόνατά μου πρὸς τὸν πατέρα τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,",
+  "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ,"
+ },
+ {
+  "reference": "3.15",
+  "original": "ἐξ οὗ πᾶσα πατριὰ ἐν οὐρανοῖς καὶ ἐπὶ γῆς ὀνομάζεται,",
+  "text": "Of whom the whole family in heaven and earth is named,"
+ },
+ {
+  "reference": "3.16",
+  "original": "ἵνα δῴη ὑμῖν, κατὰ τὸν πλοῦτον τῆς δόξης αὐτοῦ, δυνάμει κραταιωθῆναι διὰ τοῦ πνεύματος αὐτοῦ εἰς τὸν ἔσω ἄνθρωπον,",
+  "text": "That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;"
+ },
+ {
+  "reference": "3.17",
+  "original": "κατοικῆσαι τὸν Χριστὸν διὰ τῆς πίστεως ἐν ταῖς καρδίαις ὑμῶν·",
+  "text": "That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,"
+ },
+ {
+  "reference": "3.18",
+  "original": "ἐν ἀγάπῃ ἐρριζωμένοι καὶ τεθεμελιωμένοι ἵνα ἐξισχύσητε καταλαβέσθαι σὺν πᾶσι τοῖς ἁγίοις τί τὸ πλάτος καὶ μῆκος καὶ βάθος καὶ ὕψος,",
+  "text": "May be able to comprehend with all saints what is the breadth, and length, and depth, and height;"
+ },
+ {
+  "reference": "3.19",
+  "original": "γνῶναί τε τὴν ὑπερβάλλουσαν τῆς γνώσεως ἀγάπην τοῦ Χριστοῦ, ἵνα πληρωθῆτε εἰς πᾶν τὸ πλήρωμα τοῦ Θεοῦ.",
+  "text": "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God."
+ },
+ {
+  "reference": "3.20",
+  "original": "Τῷ δὲ δυναμένῳ ὑπὲρ πάντα ποιῆσαι ὑπὲρ ἐκπερισσοῦ ὧν αἰτούμεθα ἢ νοοῦμεν, κατὰ τὴν δύναμιν τὴν ἐνεργουμένην ἐν ἡμῖν,",
+  "text": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,"
+ },
+ {
+  "reference": "3.21",
+  "original": "αὐτῷ ἡ δόξα ἐν τῇ ἐκκλησίᾳ ἐν Χριστῷ Ἰησοῦ, εἰς πάσας τὰς γενεὰς τοῦ αἰῶνος τῶν αἰώνων. Ἀμήν.",
+  "text": "Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."
+ },
+ {
+  "reference": "4.1",
+  "original": "Παρακαλῶ οὖν ὑμᾶς ἐγώ, ὁ δέσμιος ἐν Κυρίῳ, ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε,",
+  "text": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
+ },
+ {
+  "reference": "4.2",
+  "original": "μετὰ πάσης ταπεινοφροσύνης καὶ πρᾳότητος, μετὰ μακροθυμίας, ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ,",
+  "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+ },
+ {
+  "reference": "4.3",
+  "original": "σπουδάζοντες τηρεῖν τὴν ἑνότητα τοῦ πνεύματος ἐν τῷ συνδέσμῳ τῆς εἰρήνης.",
+  "text": "Endeavouring to keep the unity of the Spirit in the bond of peace."
+ },
+ {
+  "reference": "4.4",
+  "original": "Ἓν σῶμα καὶ ἓν πνεῦμα, καθὼς καὶ ἐκλήθητε ἐν μιᾷ ἐλπίδι τῆς κλήσεως ὑμῶν·",
+  "text": "There is one body, and one Spirit, even as ye are called in one hope of your calling;"
+ },
+ {
+  "reference": "4.5",
+  "original": "εἷς Κύριος, μία πίστις, ἓν βάπτισμα,",
+  "text": "One Lord, one faith, one baptism,"
+ },
+ {
+  "reference": "4.6",
+  "original": "εἷς Θεὸς καὶ πατὴρ πάντων, ὁ ἐπὶ πάντων, καὶ διὰ πάντων, καὶ ἐν πᾶσιν ὑμῖν.",
+  "text": "One God and Father of all, who is above all, and through all, and in you all."
+ },
+ {
+  "reference": "4.7",
+  "original": "Ἑνὶ δὲ ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις κατὰ τὸ μέτρον τῆς δωρεᾶς τοῦ Χριστοῦ.",
+  "text": "But unto every one of us is given grace according to the measure of the gift of Christ."
+ },
+ {
+  "reference": "4.8",
+  "original": "Διὸ λέγει, Ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν αἰχμαλωσίαν, καὶ ἔδωκε δόματα τοῖς ἀνθρώποις.",
+  "text": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men."
+ },
+ {
+  "reference": "4.9",
+  "original": "Τὸ δέ, Ἀνέβη, τί ἐστιν εἰ μὴ ὅτι καὶ κατέβη πρῶτον εἰς τὰ κατώτερα μέρη τῆς γῆς;",
+  "text": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
+ },
+ {
+  "reference": "4.10",
+  "original": "Ὁ καταβάς, αὐτός ἐστι καὶ ὁ ἀναβὰς ὑπεράνω πάντων τῶν οὐρανῶν, ἵνα πληρώσῃ τὰ πάντα.",
+  "text": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
+ },
+ {
+  "reference": "4.11",
+  "original": "Καὶ αὐτὸς ἔδωκε τοὺς μὲν ἀποστόλους, τοὺς δὲ προφήτας, τοὺς δὲ εὐαγγελιστάς, τοὺς δὲ ποιμένας καὶ διδασκάλους,",
+  "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
+ },
+ {
+  "reference": "4.12",
+  "original": "πρὸς τὸν καταρτισμὸν τῶν ἁγίων, εἰς ἔργον διακονίας, εἰς οἰκοδομὴν τοῦ σώματος τοῦ Χριστοῦ·",
+  "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
+ },
+ {
+  "reference": "4.13",
+  "original": "μέχρι καταντήσωμεν οἱ πάντες εἰς τὴν ἑνότητα τῆς πίστεως καὶ τῆς ἐπιγνώσεως τοῦ υἱοῦ τοῦ Θεοῦ, εἰς ἄνδρα τέλειον, εἰς μέτρον ἡλικίας τοῦ πληρώματος τοῦ Χριστοῦ·",
+  "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+ },
+ {
+  "reference": "4.14",
+  "original": "ἵνα μηκέτι ὦμεν νήπιοι, κλυδωνιζόμενοι καὶ περιφερόμενοι παντὶ ἀνέμῳ τῆς διδασκαλίας, ἐν τῇ κυβείᾳ τῶν ἀνθρώπων, ἐν πανουργίᾳ πρὸς τὴν μεθοδείαν τῆς πλάνης·",
+  "text": "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
+ },
+ {
+  "reference": "4.15",
+  "original": "ἀληθεύοντες δὲ ἐν ἀγάπῃ αὐξήσωμεν εἰς αὐτὸν τὰ πάντα, ὅς ἐστιν ἡ κεφαλή, ὁ Χριστός,",
+  "text": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
+ },
+ {
+  "reference": "4.16",
+  "original": "ἐξ οὗ πᾶν τὸ σῶμα συναρμολογούμενον καὶ συμβιβαζόμενον διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας, κατ᾿ ἐνέργειαν ἐν μέτρῳ ἑνὸς ἑκάστου μέρους, τὴν αὔξησιν τοῦ σώματος ποιεῖται εἰς οἰκοδομὴν ἑαυτοῦ ἐν ἀγάπῃ.",
+  "text": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love."
+ },
+ {
+  "reference": "4.17",
+  "original": "Τοῦτο οὖν λέγω καὶ μαρτύρομαι ἐν Κυρίῳ, μηκέτι ὑμᾶς περιπατεῖν, καθὼς καὶ τὰ λοιπὰ ἔθνη περιπατεῖ ἐν ματαιότητι τοῦ νοὸς αὐτῶν,",
+  "text": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,"
+ },
+ {
+  "reference": "4.18",
+  "original": "ἐσκοτισμένοι τῇ διανοίᾳ, ὄντες ἀπηλλοτριωμένοι τῆς ζωῆς τοῦ Θεοῦ διὰ τὴν ἄγνοιαν τὴν οὖσαν ἐν αὐτοῖς, διὰ τὴν πώρωσιν τῆς καρδίας αὐτῶν·",
+  "text": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+ },
+ {
+  "reference": "4.19",
+  "original": "οἵτινες ἀπηλγηκότες ἑαυτοὺς παρέδωκαν τῇ ἀσελγείᾳ, εἰς ἐργασίαν ἀκαθαρσίας πάσης ἐν πλεονεξίᾳ.",
+  "text": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
+ },
+ {
+  "reference": "4.20",
+  "original": "Ὑμεῖς δὲ οὐχ οὕτως ἐμάθετε τὸν Χριστόν,",
+  "text": "But ye have not so learned Christ;"
+ },
+ {
+  "reference": "4.21",
+  "original": "εἴγε αὐτὸν ἠκούσατε καὶ ἐν αὐτῷ ἐδιδάχθητε, καθώς ἐστιν ἀλήθεια ἐν τῷ Ἰησοῦ·",
+  "text": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:"
+ },
+ {
+  "reference": "4.22",
+  "original": "ἀποθέσθαι ὑμᾶς, κατὰ τὴν προτέραν ἀναστροφήν, τὸν παλαιὸν ἄνθρωπον, τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης·",
+  "text": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+ },
+ {
+  "reference": "4.23",
+  "original": "ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν,",
+  "text": "And be renewed in the spirit of your mind;"
+ },
+ {
+  "reference": "4.24",
+  "original": "καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον, τὸν κατὰ Θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας.",
+  "text": "And that ye put on the new man, which after God is created in righteousness and true holiness."
+ },
+ {
+  "reference": "4.25",
+  "original": "Διὸ ἀποθέμενοι τὸ ψεῦδος λαλεῖτε ἀλήθειαν ἕκαστος μετὰ τοῦ πλησίον αὐτοῦ· ὅτι ἐσμὲν ἀλλήλων μέλη.",
+  "text": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+ },
+ {
+  "reference": "4.26",
+  "original": "Ὀργίζεσθε καὶ μὴ ἁμαρτάνετε· ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ τῷ παροργισμῷ ὑμῶν·",
+  "text": "Be ye angry, and sin not: let not the sun go down upon your wrath:"
+ },
+ {
+  "reference": "4.27",
+  "original": "μήτε δίδοτε τόπον τῷ διαβόλῳ.",
+  "text": "Neither give place to the devil."
+ },
+ {
+  "reference": "4.28",
+  "original": "Ὁ κλέπτων μηκέτι κλεπτέτω· μᾶλλον δὲ κοπιάτω, ἐργαζόμενος τὸ ἀγαθὸν ταῖς χερσίν, ἵνα ἔχῃ μεταδιδόναι τῷ χρείαν ἔχοντι.",
+  "text": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth."
+ },
+ {
+  "reference": "4.29",
+  "original": "Πᾶς λόγος σαπρὸς ἐκ τοῦ στόματος ὑμῶν μὴ ἐκπορευέσθω, ἀλλ᾿ εἴ τις ἀγαθὸς πρὸς οἰκοδομὴν τῆς χρείας, ἵνα δῷ χάριν τοῖς ἀκούουσι.",
+  "text": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
+ },
+ {
+  "reference": "4.30",
+  "original": "Καὶ μὴ λυπεῖτε τὸ πνεῦμα τὸ ἅγιον τοῦ Θεοῦ, ἐν ᾧ ἐσφραγίσθητε εἰς ἡμέραν ἀπολυτρώσεως.",
+  "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+ },
+ {
+  "reference": "4.31",
+  "original": "Πᾶσα πικρία καὶ θυμὸς καὶ ὀργὴ καὶ κραυγὴ καὶ βλασφημία ἀρθήτω ἀφ᾿ ὑμῶν, σὺν πάσῃ κακίᾳ·",
+  "text": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+ },
+ {
+  "reference": "4.32",
+  "original": "γίνεσθε δὲ εἰς ἀλλήλους χρηστοί, εὔσπλαγχνοι, χαριζόμενοι ἑαυτοῖς, καθὼς καὶ ὁ Θεὸς ἐν Χριστῷ ἐχαρίσατο ὑμῖν.",
+  "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you."
+ },
+ {
+  "reference": "5.1",
+  "original": "Γίνεσθε οὖν μιμηταὶ τοῦ Θεοῦ, ὡς τέκνα ἀγαπητά·",
+  "text": "Be ye therefore followers of God, as dear children;"
+ },
+ {
+  "reference": "5.2",
+  "original": "καὶ περιπατεῖτε ἐν ἀγάπῃ, καθὼς καὶ ὁ Χριστὸς ἠγάπησεν ἡμᾶς, καὶ παρέδωκεν ἑαυτὸν ὑπὲρ ἡμῶν προσφορὰν καὶ θυσίαν τῷ Θεῷ εἰς ὀσμὴν εὐωδίας.",
+  "text": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
+ },
+ {
+  "reference": "5.3",
+  "original": "Πορνεία δὲ καὶ πᾶσα ἀκαθαρσία ἢ πλεονεξία μηδὲ ὀνομαζέσθω ἐν ὑμῖν, καθὼς πρέπει ἁγίοις·",
+  "text": "But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;"
+ },
+ {
+  "reference": "5.4",
+  "original": "καὶ αἰσχρότης, καὶ μωρολογία, ἢ εὐτραπελία, τὰ οὐκ ἀνήκοντα· ἀλλὰ μᾶλλον εὐχαριστία.",
+  "text": "Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks."
+ },
+ {
+  "reference": "5.5",
+  "original": "Τοῦτο γάρ ἐστε γινώσκοντες, ὅτι πᾶς πόρνος, ἢ ἀκάθαρτος, ἢ πλεονέκτης, ὅς ἐστιν εἰδωλολάτρης, οὐκ ἔχει κληρονομίαν ἐν τῇ βασιλείᾳ τοῦ Χριστοῦ καὶ Θεοῦ.",
+  "text": "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God."
+ },
+ {
+  "reference": "5.6",
+  "original": "Μηδεὶς ὑμᾶς ἀπατάτω κενοῖς λόγοις· διὰ ταῦτα γὰρ ἔρχεται ἡ ὀργὴ τοῦ Θεοῦ ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας.",
+  "text": "Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience."
+ },
+ {
+  "reference": "5.7",
+  "original": "Μὴ οὖν γίνεσθε συμμέτοχοι αὐτῶν·",
+  "text": "Be not ye therefore partakers with them."
+ },
+ {
+  "reference": "5.8",
+  "original": "ἦτε γάρ ποτε σκότος, νῦν δὲ φῶς ἐν Κυρίῳ· ὡς τέκνα φωτὸς περιπατεῖτε —",
+  "text": "For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:"
+ },
+ {
+  "reference": "5.9",
+  "original": "ὁ γὰρ καρπὸς τοῦ πνεύματος ἐν πάσῃ ἀγαθωσύνῃ καὶ δικαιοσύνῃ καὶ ἀληθείᾳ —",
+  "text": "(For the fruit of the Spirit is in all goodness and righteousness and truth;)"
+ },
+ {
+  "reference": "5.10",
+  "original": "δοκιμάζοντες τί ἐστιν εὐάρεστον τῷ Κυρίῳ·",
+  "text": "Proving what is acceptable unto the Lord."
+ },
+ {
+  "reference": "5.11",
+  "original": "καὶ μὴ συγκοινωνεῖτε τοῖς ἔργοις τοῖς ἀκάρποις τοῦ σκότους, μᾶλλον δὲ καὶ ἐλέγχετε·",
+  "text": "And have no fellowship with the unfruitful works of darkness, but rather reprove them."
+ },
+ {
+  "reference": "5.12",
+  "original": "τὰ γὰρ κρυφῇ γινόμενα ὑπ᾿ αὐτῶν αἰσχρόν ἐστι καὶ λέγειν.",
+  "text": "For it is a shame even to speak of those things which are done of them in secret."
+ },
+ {
+  "reference": "5.13",
+  "original": "Τὰ δὲ πάντα ἐλεγχόμενα ὑπὸ τοῦ φωτὸς φανεροῦται· πᾶν γὰρ τὸ φανερούμενον φῶς ἐστί.",
+  "text": "But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light."
+ },
+ {
+  "reference": "5.14",
+  "original": "Διὸ λέγει, Ἔγειραι ὁ καθεύδων καὶ ἀνάστα ἐκ τῶν νεκρῶν, καὶ ἐπιφαύσει σοι ὁ Χριστός.",
+  "text": "Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light."
+ },
+ {
+  "reference": "5.15",
+  "original": "Βλέπετε οὖν πῶς ἀκριβῶς περιπατεῖτε, μὴ ὡς ἄσοφοι, ἀλλ᾿ ὡς σοφοί,",
+  "text": "See then that ye walk circumspectly, not as fools, but as wise,"
+ },
+ {
+  "reference": "5.16",
+  "original": "ἐξαγοραζόμενοι τὸν καιρόν, ὅτι αἱ ἡμέραι πονηραί εἰσι.",
+  "text": "Redeeming the time, because the days are evil."
+ },
+ {
+  "reference": "5.17",
+  "original": "Διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνιέντες τί τὸ θέλημα τοῦ Κυρίου.",
+  "text": "Wherefore be ye not unwise, but understanding what the will of the Lord is."
+ },
+ {
+  "reference": "5.18",
+  "original": "Καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστὶν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι,",
+  "text": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;"
+ },
+ {
+  "reference": "5.19",
+  "original": "λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ,",
+  "text": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;"
+ },
+ {
+  "reference": "5.20",
+  "original": "εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ Θεῷ καὶ πατρί,",
+  "text": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;"
+ },
+ {
+  "reference": "5.21",
+  "original": "ὑποτασσόμενοι ἀλλήλοις ἐν φόβῳ Θεοῦ.",
+  "text": "Submitting yourselves one to another in the fear of God."
+ },
+ {
+  "reference": "5.22",
+  "original": "Αἱ γυναῖκες, τοῖς ἰδίοις ἀνδράσιν ὑποτάσσεσθε, ὡς τῷ Κυρίῳ.",
+  "text": "Wives, submit yourselves unto your own husbands, as unto the Lord."
+ },
+ {
+  "reference": "5.23",
+  "original": "Ὅτι ὁ ἀνήρ ἐστι κεφαλὴ τῆς γυναικός, ὡς καὶ ὁ Χριστὸς κεφαλὴ τῆς ἐκκλησίας, καὶ αὐτός ἐστι σωτὴρ τοῦ σώματος.",
+  "text": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body."
+ },
+ {
+  "reference": "5.24",
+  "original": "Ἀλλ᾿ ὥσπερ ἡ ἐκκλησία ὑποτάσσεται τῷ Χριστῷ, οὕτω καὶ αἱ γυναῖκες τοῖς ἰδίοις ἀνδράσιν ἐν παντί.",
+  "text": "Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing."
+ },
+ {
+  "reference": "5.25",
+  "original": "Οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας ἑαυτῶν, καθὼς καὶ ὁ Χριστὸς ἠγάπησε τὴν ἐκκλησίαν, καὶ ἑαυτὸν παρέδωκεν ὑπὲρ αὐτῆς·",
+  "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
+ },
+ {
+  "reference": "5.26",
+  "original": "ἵνα αὐτὴν ἁγιάσῃ, καθαρίσας τῷ λουτρῷ τοῦ ὕδατος ἐν ῥήματι,",
+  "text": "That he might sanctify and cleanse it with the washing of water by the word,"
+ },
+ {
+  "reference": "5.27",
+  "original": "ἵνα παραστήσῃ αὐτὴν ἑαυτῷ ἔνδοξον τὴν ἐκκλησίαν, μὴ ἔχουσαν σπῖλον ἢ ῥυτίδα ἤ τι τῶν τοιούτων, ἀλλ᾿ ἵνα ᾖ ἁγία καὶ ἄμωμος.",
+  "text": "That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish."
+ },
+ {
+  "reference": "5.28",
+  "original": "Οὕτως ὀφείλουσιν οἱ ἄνδρες ἀγαπᾷν τὰς ἑαυτῶν γυναῖκας ὡς τὰ ἑαυτῶν σώματα. Ὁ ἀγαπῶν τὴν ἑαυτοῦ γυναῖκα, ἑαυτὸν ἀγαπᾷ·",
+  "text": "So ought men to love their wives as their own bodies. He that loveth his wife loveth himself."
+ },
+ {
+  "reference": "5.29",
+  "original": "οὐδεὶς γάρ ποτε τὴν ἑαυτοῦ σάρκα ἐμίσησεν, ἀλλ᾿ ἐκτρέφει καὶ θάλπει αὐτήν, καθὼς καὶ ὁ Κύριος τὴν ἐκκλησίαν·",
+  "text": "For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:"
+ },
+ {
+  "reference": "5.30",
+  "original": "ὅτι μέλη ἐσμὲν τοῦ σώματος αὐτοῦ, ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ.",
+  "text": "For we are members of his body, of his flesh, and of his bones."
+ },
+ {
+  "reference": "5.31",
+  "original": "Ἀντὶ τούτου καταλείψει ἄνθρωπος τὸν πατέρα αὐτοῦ καὶ τὴν μητέρα, καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ, καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν.",
+  "text": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh."
+ },
+ {
+  "reference": "5.32",
+  "original": "Τὸ μυστήριον τοῦτο μέγα ἐστίν· ἐγὼ δὲ λέγω εἰς Χριστὸν καὶ εἰς τὴν ἐκκλησίαν.",
+  "text": "This is a great mystery: but I speak concerning Christ and the church."
+ },
+ {
+  "reference": "5.33",
+  "original": "Πλὴν καὶ ὑμεῖς οἱ καθ᾿ ἕνα, ἕκαστος τὴν ἑαυτοῦ γυναῖκα οὕτως ἀγαπάτω ὡς ἑαυτόν· ἡ δὲ γυνὴ ἵνα φοβῆται τὸν ἄνδρα.",
+  "text": "Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband."
+ },
+ {
+  "reference": "6.1",
+  "original": "Τὰ τέκνα, ὑπακούετε τοῖς γονεῦσιν ὑμῶν ἐν Κυρίῳ· τοῦτο γάρ ἐστι δίκαιον.",
+  "text": "Children, obey your parents in the Lord: for this is right."
+ },
+ {
+  "reference": "6.2",
+  "original": "Τίμα τὸν πατέρα σου καὶ τὴν μητέρα ἥτις ἐστὶν ἐντολὴ πρώτη ἐν ἐπαγγελίᾳ,",
+  "text": "Honour thy father and mother; (which is the first commandment with promise;)"
+ },
+ {
+  "reference": "6.3",
+  "original": "ἵνα εὖ σοι γένηται, καὶ ἔσῃ μακροχρόνιος ἐπὶ τῆς γῆς.",
+  "text": "That it may be well with thee, and thou mayest live long on the earth."
+ },
+ {
+  "reference": "6.4",
+  "original": "Καὶ οἱ πατέρες, μὴ παροργίζετε τὰ τέκνα ὑμῶν, ἀλλ᾿ ἐκτρέφετε αὐτὰ ἐν παιδείᾳ καὶ νουθεσίᾳ Κυρίου.",
+  "text": "And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord."
+ },
+ {
+  "reference": "6.5",
+  "original": "Οἱ δοῦλοι, ὑπακούετε τοῖς κυρίοις κατὰ σάρκα, μετὰ φόβου καὶ τρόμου, ἐν ἁπλότητι τῆς καρδίας ὑμῶν, ὡς τῷ Χριστῷ·",
+  "text": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;"
+ },
+ {
+  "reference": "6.6",
+  "original": "μὴ κατ᾿ ὀφθαλμοδουλείαν ὡς ἀνθρωπάρεσκοι, ἀλλ᾿ ὡς δοῦλοι τοῦ Χριστοῦ, ποιοῦντες τὸ θέλημα τοῦ Θεοῦ ἐκ ψυχῆς,",
+  "text": "Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;"
+ },
+ {
+  "reference": "6.7",
+  "original": "μετ᾿ εὐνοίας δουλεύοντες τῷ Κυρίῳ καὶ οὐκ ἀνθρώποις·",
+  "text": "With good will doing service, as to the Lord, and not to men:"
+ },
+ {
+  "reference": "6.8",
+  "original": "εἰδότες ὅτι ὃ ἐάν τι ἕκαστος ποιήσῃ ἀγαθόν, τοῦτο κομιεῖται παρὰ τοῦ Κυρίου, εἴτε δοῦλος, εἴτε ἐλεύθερος.",
+  "text": "Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free."
+ },
+ {
+  "reference": "6.9",
+  "original": "Καὶ οἱ κύριοι, τὰ αὐτὰ ποιεῖτε πρὸς αὐτούς, ἀνιέντες τὴν ἀπειλήν· εἰδότες ὅτι καὶ ὑμῶν αὐτῶν ὁ Κύριός ἐστιν ἐν οὐρανοῖς, καὶ προσωποληψία οὐκ ἔστι παρ᾿ αὐτῷ.",
+  "text": "And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him."
+ },
+ {
+  "reference": "6.10",
+  "original": "Τὸ λοιπόν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν Κυρίῳ, καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ.",
+  "text": "Finally, my brethren, be strong in the Lord, and in the power of his might."
+ },
+ {
+  "reference": "6.11",
+  "original": "Ἐνδύσασθε τὴν πανοπλίαν τοῦ Θεοῦ, πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου.",
+  "text": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil."
+ },
+ {
+  "reference": "6.12",
+  "original": "Ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα, ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τοῦ αἰῶνος τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις.",
+  "text": "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places."
+ },
+ {
+  "reference": "6.13",
+  "original": "Διὰ τοῦτο ἀναλάβετε τὴν πανοπλίαν τοῦ Θεοῦ, ἵνα δυνηθῆτε ἀντιστῆναι ἐν τῇ ἡμέρᾳ τῇ πονηρᾷ, καὶ ἅπαντα κατεργασάμενοι στῆναι.",
+  "text": "Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand."
+ },
+ {
+  "reference": "6.14",
+  "original": "Στῆτε οὖν περιζωσάμενοι τὴν ὀσφὺν ὑμῶν ἐν ἀληθείᾳ, καὶ ἐνδυσάμενοι τὸν θώρακα τῆς δικαιοσύνης,",
+  "text": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;"
+ },
+ {
+  "reference": "6.15",
+  "original": "καὶ ὑποδησάμενοι τοὺς πόδας ἐν ἑτοιμασίᾳ τοῦ εὐαγγελίου τῆς εἰρήνης·",
+  "text": "And your feet shod with the preparation of the gospel of peace;"
+ },
+ {
+  "reference": "6.16",
+  "original": "ἐπὶ πᾶσιν ἀναλαβόντες τὸν θυρεὸν τῆς πίστεως, ἐν ᾧ δυνήσεσθε πάντα τὰ βέλη τοῦ πονηροῦ τὰ πεπυρωμένα σβέσαι.",
+  "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked."
+ },
+ {
+  "reference": "6.17",
+  "original": "Καὶ τὴν περικεφαλαίαν τοῦ σωτηρίου δέξασθε, καὶ τὴν μάχαιραν τοῦ πνεύματος, ὅ ἐστι ῥῆμα Θεοῦ·",
+  "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:"
+ },
+ {
+  "reference": "6.18",
+  "original": "διὰ πάσης προσευχῆς καὶ δεήσεως προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι, καὶ εἰς αὐτὸ τοῦτο ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων,",
+  "text": "Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;"
+ },
+ {
+  "reference": "6.19",
+  "original": "καὶ ὑπὲρ ἐμοῦ, ἵνα μοι δοθείη λόγος ἐν ἀνοίξει τοῦ στόματός μου ἐν παρρησίᾳ γνωρίσαι τὸ μυστήριον τοῦ εὐαγγελίου,",
+  "text": "And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,"
+ },
+ {
+  "reference": "6.20",
+  "original": "ὑπὲρ οὗ πρεσβεύω ἐν ἁλύσει, ἵνα ἐν αὐτῷ παρρησιάσωμαι, ὡς δεῖ με λαλῆσαι.",
+  "text": "For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak."
+ },
+ {
+  "reference": "6.21",
+  "original": "Ἵνα δὲ εἰδῆτε καὶ ὑμεῖς τὰ κατ᾿ ἐμέ, τί πράσσω, πάντα ὑμῖν γνωρίσει Τυχικὸς ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος ἐν Κυρίῳ·",
+  "text": "But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:"
+ },
+ {
+  "reference": "6.22",
+  "original": "ὃν ἔπεμψα πρὸς ὑμᾶς εἰς αὐτὸ τοῦτο, ἵνα γνῶτε τὰ περὶ ἡμῶν, καὶ παρακαλέσῃ τὰς καρδίας ὑμῶν.",
+  "text": "Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts."
+ },
+ {
+  "reference": "6.23",
+  "original": "Εἰρήνη τοῖς ἀδελφοῖς καὶ ἀγάπη μετὰ πίστεως ἀπὸ Θεοῦ πατρὸς καὶ Κυρίου Ἰησοῦ Χριστοῦ.",
+  "text": "Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ."
+ },
+ {
+  "reference": "6.24",
+  "original": "Ἡ χάρις μετὰ πάντων τῶν ἀγαπώντων τὸν Κύριον ἡμῶν Ἰησοῦν Χριστὸν ἐν ἀφθαρσίᾳ. Ἀμήν. Πρὸς Ἐφεσίους ἐγράφη ἀπὸ Ῥώμης διὰ Τυχικοῦ.",
+  "text": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen."
+ }
+]
