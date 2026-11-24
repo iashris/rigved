@@ -6179,5 +6179,20 @@
       },
       "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
     }
+  },
+  "rigveda_sayana": {
+    "english": {
+      "by": "Sāyaṇa",
+      "work": "Ṛgvedabhāṣya, the traditional commentary on the whole Ṛgveda",
+      "year": "14th century",
+      "links": [
+        {
+          "label": "Sanskrit Wikisource",
+          "url": "https://sa.wikisource.org/wiki/ऋग्वेदः"
+        }
+      ],
+      "note": "Sanskrit commentary, verse by verse; the sūkta introduction (seer, deity, metre, ritual use) is kept with the first verse.",
+      "kind": "Commentary"
+    }
   }
 }
