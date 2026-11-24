@@ -213,7 +213,8 @@
   "text": "",
   "mandala": 2,
   "hymn": 9,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Of the Sāmans, [the syllables] increase by two each."
  },
  {
   "reference": "2.10",
@@ -231,7 +232,8 @@
   "text": "",
   "mandala": 2,
   "hymn": 11,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Of the Prajāpati-derived, by four each."
  },
  {
   "reference": "2.12",
@@ -258,7 +260,8 @@
   "text": "",
   "mandala": 2,
   "hymn": 14,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "These are: Uṣṇih, Anuṣṭubh, Bṛhatī, Paṅkti, Triṣṭubh, and Jagatī."
  },
  {
   "reference": "2.15",
@@ -267,7 +270,8 @@
   "text": "",
   "mandala": 2,
   "hymn": 15,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "By threes having the same name, taken one by one, they are Brahmā-derived."
  },
  {
   "reference": "2.16",
@@ -339,7 +343,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 7,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "[A metre has] one, two, three, or four quarter-verses as specified."
  },
  {
   "reference": "3.8",
@@ -348,7 +353,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 8,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "The first [metre, Gāyatrī, is] four-quartered with seasons [six syllables each]."
  },
  {
   "reference": "3.9",
@@ -375,7 +381,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 11,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Between a six-syllable and a seven-syllable [quarter-verse], one of eight [syllables makes] Atipādanicṛt."
  },
  {
   "reference": "3.12",
@@ -384,7 +391,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 12,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Two nine-syllable [quarters] and one six-syllable [quarter make] Nāgī."
  },
  {
   "reference": "3.13",
@@ -402,7 +410,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 14,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "With six-, seven-, and eight-syllable [quarters, it is] Vardhamānā."
  },
  {
   "reference": "3.15",
@@ -420,7 +429,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 16,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "The third [variety of Gāyatrī has] two quarter-verses, consisting of a Jagatī-quarter and a Gāyatrī-quarter."
  },
  {
   "reference": "3.17",
@@ -438,7 +448,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 18,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Uṣṇih [has] two Gāyatrī-quarters and one Jagatī-quarter."
  },
  {
   "reference": "3.19",
@@ -447,7 +458,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 19,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "If the last [is placed] in the middle, it is Kakubh."
  },
  {
   "reference": "3.20",
@@ -492,7 +504,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 24,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Sometimes it is three-quartered with two Jagatī-quarters,"
  },
  {
   "reference": "3.25",
@@ -510,7 +523,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 26,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "pathyā pūrvaścettṛtīyaḥ"
  },
  {
   "reference": "3.27",
@@ -519,7 +533,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 27,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "nyaṅkusāriṇī dvitīyaḥ"
  },
  {
   "reference": "3.28",
@@ -528,7 +543,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 28,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "skandhogrīvī krauṣṭukeḥ"
  },
  {
   "reference": "3.29",
@@ -537,7 +553,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 29,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "urobṛhatī yāskasya"
  },
  {
   "reference": "3.30",
@@ -573,7 +590,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 33,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "vairājau gāyatrau ca"
  },
  {
   "reference": "3.34",
@@ -591,7 +609,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 35,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "satobṛhatī tāṇḍinaḥ"
  },
  {
   "reference": "3.36",
@@ -609,7 +628,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 37,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "pūrvau cedayujau sataḥ paṅktiḥ"
  },
  {
   "reference": "3.38",
@@ -618,7 +638,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 38,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "viparītau ca"
  },
  {
   "reference": "3.39",
@@ -636,7 +657,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 40,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "āstārapaṅktiḥ parataḥ"
  },
  {
   "reference": "3.41",
@@ -645,7 +667,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 41,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "viṣṭārapaṅktirantaḥ"
  },
  {
   "reference": "3.42",
@@ -663,7 +686,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 43,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "akṣarapaṅktiḥ pañcakāścatvāraḥ"
  },
  {
   "reference": "3.44",
@@ -672,7 +696,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 44,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "dvāvapyalpaśaḥ"
  },
  {
   "reference": "3.45",
@@ -699,7 +724,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 47,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "pathyā pañcabhirgāyatraiḥ"
  },
  {
   "reference": "3.48",
@@ -708,7 +734,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 48,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "jagatī ṣaḍbhiḥ"
  },
  {
   "reference": "3.49",
@@ -726,7 +753,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 50,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "tathā jagatī"
  },
  {
   "reference": "3.51",
@@ -744,7 +772,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 52,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "madhyejyotirmadhyamena"
  },
  {
   "reference": "3.53",
@@ -753,7 +782,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 53,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "upariṣṭājjyotirantyena"
  },
  {
   "reference": "3.54",
@@ -762,7 +792,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 54,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "ekasminpañcake chandaḥ śaṅkumatī"
  },
  {
   "reference": "3.55",
@@ -771,7 +802,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 55,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "ṣaṭke kakudmatī"
  },
  {
   "reference": "3.56",
@@ -789,7 +821,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 57,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "viparītā yavamadhyā"
  },
  {
   "reference": "3.58",
@@ -807,7 +840,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 59,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "dvābhyāṃ virāṭsvarājau"
  },
  {
   "reference": "3.60",
@@ -816,7 +850,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 60,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "āditaḥ saṃdigdhe"
  },
  {
   "reference": "3.61",
@@ -843,7 +878,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 63,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "svarāḥ ṣaḍjarṣabhagāndhāramadhyamapañcamadhaivataniṣādāḥ"
  },
  {
   "reference": "3.64",
@@ -852,7 +888,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 64,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "sitasāraṅgapiśaṅgakṛṣṇanīlalohitagaurā varṇāḥ"
  },
  {
   "reference": "3.65",
@@ -861,7 +898,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 65,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "āgniveśyakāśyapagautamāṅgirasabhārgavakauśikavāsiṣṭhāni gotraṇi"
  },
  {
   "reference": "3.66",
@@ -870,7 +908,8 @@
   "text": "",
   "mandala": 3,
   "hymn": 66,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "iti tṛtīyo'dhyāyaḥ"
  },
  {
   "reference": "4.1",
@@ -888,7 +927,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 2,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "tānyabhisaṃvyāprebhyaḥ kṛtiḥ"
  },
  {
   "reference": "4.3",
@@ -897,7 +937,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 3,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "prakṛtyā copasargavarjitaḥ"
  },
  {
   "reference": "4.4",
@@ -906,7 +947,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 4,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "dhṛtyaṣṭiśakvarījagatyaḥ"
  },
  {
   "reference": "4.5",
@@ -915,7 +957,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 5,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "pṛthakpiṛthakpūrvata etānyevaiṣām"
  },
  {
   "reference": "4.6",
@@ -933,7 +976,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 7,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "atha laukikam"
  },
  {
   "reference": "4.8",
@@ -951,7 +995,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 9,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "supratiṣṭhāpratiṣṭhāmadhyātyuktoktāśca\n\npādaścaturbhāgaḥ"
  },
  {
   "reference": "4.11",
@@ -960,7 +1005,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 11,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "laḥ samudrā gaṇaḥ"
  },
  {
   "reference": "4.12",
@@ -978,7 +1024,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 13,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "svarā ardhaṃ cāryārdham"
  },
  {
   "reference": "4.14",
@@ -987,7 +1034,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 14,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "atrāyuṅ na c"
  },
  {
   "reference": "4.15",
@@ -1023,7 +1071,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 18,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "If nl, a word begins with the second [syllable]."
  },
  {
   "reference": "4.19",
@@ -1059,7 +1108,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 22,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "A quarter-verse [ends] at three gaṇas; [this is] Pathyā, and the first [is so]."
  },
  {
   "reference": "4.23",
@@ -1077,7 +1127,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 24,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Capalā [has] the second and fourth [gaṇas] as c [i.e., amphibrachs] between heavy syllables."
  },
  {
   "reference": "4.25",
@@ -1140,7 +1191,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 31,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Āryāgīti has eight gaṇas in a half."
  },
  {
   "reference": "4.32",
@@ -1149,7 +1201,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 32,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vaitālīya has twice seven morae in the odd quarter-verse, eight in the even; at the end [of each pāda are] r, l, ga."
  },
  {
   "reference": "4.33",
@@ -1176,7 +1229,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 35,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "In the remainder, an even [syllable] is not combined with the next."
  },
  {
   "reference": "4.36",
@@ -1194,7 +1248,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 37,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "[When] the preceding [syllable] is combined with the fifth, it is Prācyavṛtti."
  },
  {
   "reference": "4.38",
@@ -1203,7 +1258,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 38,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "[When combined] with the odd third, it is Udīcyavṛtti."
  },
  {
   "reference": "4.39",
@@ -1212,7 +1268,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 39,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "[When combining] both simultaneously, it is Pravṛttaka."
  },
  {
   "reference": "4.40",
@@ -1239,7 +1296,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 42,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Ending in ga, twice eight [morae], Mātrāsamaka has the ninth [syllable] light."
  },
  {
   "reference": "4.43",
@@ -1248,7 +1306,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 43,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "And the twelfth [light is] Vānavāsikā."
  },
  {
   "reference": "4.44",
@@ -1257,7 +1316,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 44,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Viśloka [has] the fifth and eighth [light]."
  },
  {
   "reference": "4.45",
@@ -1329,7 +1389,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 52,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Cūlikā has twenty-nine [morae in the first half] and thirty-one [in the second], ending in ga."
  },
  {
   "reference": "4.53",
@@ -1338,7 +1399,8 @@
   "text": "",
   "mandala": 4,
   "hymn": 53,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "That which is not equal by ga, having l, is gla."
  },
  {
   "reference": "5.1",
@@ -1356,7 +1418,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 2,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Isometric, semi-isometric, and heterometric."
  },
  {
   "reference": "5.3",
@@ -1365,7 +1428,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 3,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "An isometric [pattern] repeated that many times makes a semi-isometric,"
  },
  {
   "reference": "5.4",
@@ -1374,7 +1438,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 4,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Accumulated from isometric, equal, and semi-isometric,"
  },
  {
   "reference": "5.6",
@@ -1410,7 +1475,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 9,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vaktra is an Anuṣṭubh quarter-verse."
  },
  {
   "reference": "5.10",
@@ -1428,7 +1494,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 11,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "And ra in the second and fourth [quarter-verses]."
  },
  {
   "reference": "5.12",
@@ -1482,7 +1549,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 17,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vipulā has light and heavy, with the seventh [syllable light] in the even [quarter-verses]."
  },
  {
   "reference": "5.18",
@@ -1509,7 +1577,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 20,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Padacaturūrdhva has an increase of four [syllables] in each quarter-verse."
  },
  {
   "reference": "5.21",
@@ -1527,7 +1596,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 22,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "If two heavy syllables are at the beginning, it is Pratyāpīḍa."
  },
  {
   "reference": "5.23",
@@ -1545,7 +1615,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 24,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "By reversing the first [quarter-verse], Mañjarī, Lavalī, and Amṛtadhārā [are produced]."
  },
  {
   "reference": "5.25",
@@ -1554,7 +1625,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 25,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Udgatā has, respectively: s and j; s, l, and [ga]; n and s; j and ga, bh and ga, j, l, and ga; s and j, s and j, and ga."
  },
  {
   "reference": "5.26",
@@ -1563,7 +1635,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 26,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Saurabhaka has, in the third [quarter-verse], r and n, bh and ga."
  },
  {
   "reference": "5.27",
@@ -1581,7 +1654,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 28,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Upasthitapracuṣita has its first [quarter-verse] distinct: m and s; j and bh, and two ga's; s and n; j and r, and ga; two n's and s; two n's, j and y."
  },
  {
   "reference": "5.29",
@@ -1590,7 +1664,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 29,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Varddhamāna has two n's; s and n; n and s."
  },
  {
   "reference": "5.30",
@@ -1599,7 +1674,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 30,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Śuddhavirāḍṛṣabha has t, j, and r."
  },
  {
   "reference": "5.31",
@@ -1617,7 +1693,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 32,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Upacitraka has two s's, s, l, and ga; two bh's, bh and ga, and ga."
  },
  {
   "reference": "5.33",
@@ -1626,7 +1703,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 33,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Drutamadhyā has two bh's, bh and ga, and ga; n and j, j and y."
  },
  {
   "reference": "5.34",
@@ -1635,7 +1713,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 34,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vedavatī has two s's, s and ga; two bh's, bh and ga, and ga."
  },
  {
   "reference": "5.35",
@@ -1644,7 +1723,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 35,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Bhadravirāṭ has t and j, r and ga; m and s, j and ga, and ga."
  },
  {
   "reference": "5.36",
@@ -1653,7 +1733,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 36,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Ketumatī has s and j, s and ga; bh and r, n and ga, and ga."
  },
  {
   "reference": "5.37",
@@ -1662,7 +1743,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 37,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Ākhyānakī has two t's, j and ga, and ga; j and t, j and ga, and ga."
  },
  {
   "reference": "5.38",
@@ -1671,7 +1753,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 38,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Viparītākhyānakī has j and t, j and ga, and ga; two t's, j and ga, and ga."
  },
  {
   "reference": "5.39",
@@ -1680,7 +1763,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 39,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Hariṇaplutā has two s's, s, l, and ga; n and bh, bh and r."
  },
  {
   "reference": "5.40",
@@ -1689,7 +1773,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 40,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Aparavaktra has two n's, r, l, and ga; n and j, j and r."
  },
  {
   "reference": "5.41",
@@ -1698,7 +1783,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 41,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Puṣpitāgrā has two n's, r and y; n and j, j and r, and ga."
  },
  {
   "reference": "5.42",
@@ -1707,7 +1793,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 42,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Yavamatī has r and j, r and j; j and r, j and r, and ga."
  },
  {
   "reference": "5.43",
@@ -1716,7 +1803,8 @@
   "text": "",
   "mandala": 5,
   "hymn": 43,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Śikhā has twenty-nine [moras] and thirty-one [moras], with a heavy syllable at the end."
  },
  {
   "reference": "5.44",
@@ -1806,7 +1894,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 9,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Māṇavakākrīḍitaka has bh and t, l and ga."
  },
  {
   "reference": "6.10",
@@ -1878,7 +1967,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 17,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Mayūrasāriṇī has r and j, r and ga."
  },
  {
   "reference": "6.18",
@@ -1914,7 +2004,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 21,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Upendravajrā has j and t, j and ga, and ga."
  },
  {
   "reference": "6.22",
@@ -1941,7 +2032,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 24,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Śālinī has m and two t's, and ga; [caesura at] the oceans (four) and the seers (seven)."
  },
  {
   "reference": "6.25",
@@ -1959,7 +2051,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 26,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Bhramaravilasita has m and bh, n, l, and ga."
  },
  {
   "reference": "6.27",
@@ -1968,7 +2061,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 27,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Rathoddhatā has r and n, r, l, and ga."
  },
  {
   "reference": "6.28",
@@ -2040,7 +2134,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 35,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Drutavilambita has n and bh, bh and r."
  },
  {
   "reference": "6.36",
@@ -2058,7 +2153,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 37,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Puṭa [has] two n-gaṇas and two m-gaṇas; [the caesura is at] eight and four [syllables]."
  },
  {
   "reference": "6.38",
@@ -2067,7 +2163,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 38,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Jaloddhatagati [has] j, s, j, and s; [the caesuras are at] six and six [syllables]."
  },
  {
   "reference": "6.39",
@@ -2085,7 +2182,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 40,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Kusumavicitrā [has] n, y, n, and y."
  },
  {
   "reference": "6.41",
@@ -2139,7 +2237,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 46,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vaiśvadevī [has] two m-gaṇas and two y-gaṇas; [the caesuras are at] five and seven [syllables]."
  },
  {
   "reference": "6.47",
@@ -2148,7 +2247,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 47,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vāhinī [has] t, y, m, and y; [the caesuras are at] seven and five [syllables]."
  },
  {
   "reference": "6.48",
@@ -2157,7 +2257,8 @@
   "text": "",
   "mandala": 6,
   "hymn": 48,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Navamālinī [has] n, j, and two bh-gaṇas. Thus [ends the class of twelve-syllable metres]."
  },
  {
   "reference": "7.1",
@@ -2166,7 +2267,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 1,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Praharṣiṇī [has] m, n, j, r, and a heavy syllable; [the caesuras are at] three and ten [syllables]."
  },
  {
   "reference": "7.2",
@@ -2175,7 +2277,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 2,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Rucirā [has] j, bh, s, j, and a heavy syllable; [the caesuras are at] four and nine [syllables]."
  },
  {
   "reference": "7.3",
@@ -2184,7 +2287,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 3,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Mattamayūra [has] m, t, y, s, and a heavy syllable; [the caesuras are at] four and nine [syllables]."
  },
  {
   "reference": "7.4",
@@ -2202,7 +2306,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 5,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Asaṃbādhā [has] m, t, n, s, and two heavy syllables; [the caesuras are at] five and nine [syllables]."
  },
  {
   "reference": "7.6",
@@ -2211,7 +2316,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 6,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Aparājitā [has] two n-gaṇas, r, s, a light syllable, and a heavy syllable; [the caesuras are at] seven and seven [syllables]."
  },
  {
   "reference": "7.7",
@@ -2220,7 +2326,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 7,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Praheraṇakalitā [has] two n-gaṇas, bh, n, a light syllable, and a heavy syllable as well."
  },
  {
   "reference": "7.8",
@@ -2229,7 +2336,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 8,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vasantatilakā [has] t, bh, two j-gaṇas, and two heavy syllables."
  },
  {
   "reference": "7.9",
@@ -2238,7 +2346,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 9,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "[It is called] Siṃhonnatā according to Kāśyapa."
  },
  {
   "reference": "7.10",
@@ -2247,7 +2356,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 10,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "[It is called] Uddharṣiṇī according to Saitava."
  },
  {
   "reference": "7.11",
@@ -2274,7 +2384,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 13,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Maṇiguṇanikara [has the caesuras at] eight and seven [syllables]."
  },
  {
   "reference": "7.14",
@@ -2292,7 +2403,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 15,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Ṛṣabhagajavilasita [has] bh, r, two n-gaṇas, n, and a heavy syllable; [the caesuras are at] seven and nine [syllables]."
  },
  {
   "reference": "7.16",
@@ -2301,7 +2413,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 16,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Hariṇī [has] n, s, m, r, s, a light syllable, and a heavy syllable; [the caesuras are at] six, four, and seven [syllables]."
  },
  {
   "reference": "7.17",
@@ -2310,7 +2423,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 17,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Pṛthvī [has] j, s, j, s, y, a light syllable, and a heavy syllable; [the caesuras are at] eight and nine [syllables]."
  },
  {
   "reference": "7.18",
@@ -2319,7 +2433,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 18,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vaṃśapatrapatita [has] bh, r, n, bh, n, a light syllable, and a heavy syllable; [the caesuras are at] ten and seven [syllables]."
  },
  {
   "reference": "7.19",
@@ -2328,7 +2443,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 19,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Mandākrāntā [has] m, bh, n, two t-gaṇas, and two heavy syllables; [the caesuras are at] four, six, and seven [syllables]."
  },
  {
   "reference": "7.20",
@@ -2337,7 +2453,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 20,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Śikhariṇī [has] y, m, n, s, bh, a light syllable, and a heavy syllable; [the caesuras are at] six and eleven [syllables]."
  },
  {
   "reference": "7.21",
@@ -2346,7 +2463,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 21,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Kusumitalatāvellitā [has] m, t, n, y, and two y-gaṇas; [the caesuras are at] five, six, and seven [syllables]."
  },
  {
   "reference": "7.22",
@@ -2355,7 +2473,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 22,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Śārdūlavikrīḍita [has] m, s, j, s, two t-gaṇas, and a heavy syllable; [the caesuras are at] twelve and seven [syllables]."
  },
  {
   "reference": "7.23",
@@ -2364,7 +2483,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 23,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Suvadanā [has] m, r, bh, n, y, bh, a light syllable, and a heavy syllable; [the caesuras are at] seven, seven, and six [syllables]."
  },
  {
   "reference": "7.24",
@@ -2382,7 +2502,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 25,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Sragdharā [has] m, r, bh, n, and three y-gaṇas; [the caesuras are] three times seven [syllables]."
  },
  {
   "reference": "7.26",
@@ -2391,7 +2512,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 26,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Bhadraka [has] bh, r, n, r, n, r, n, and a heavy syllable; [the caesuras are at] ten and twelve [syllables]."
  },
  {
   "reference": "7.27",
@@ -2400,7 +2522,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 27,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Aśvalalita [has] n, j, bh, j, bh, j, bh, a light syllable, and a heavy syllable; [the caesuras are at] eleven and twelve [syllables]."
  },
  {
   "reference": "7.28",
@@ -2409,7 +2532,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 28,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Mattākrīḍā [has] two m-gaṇas, t, n, n, n, a light syllable, and a heavy syllable; [the caesuras are at] eight and fifteen [syllables]."
  },
  {
   "reference": "7.29",
@@ -2418,7 +2542,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 29,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Tanvī [has] bh, t, n, s, bh, and two y-gaṇas; [the caesuras are at] five, seven, and twelve [syllables]."
  },
  {
   "reference": "7.30",
@@ -2427,7 +2552,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 30,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Krauñcapadā [has] bh, m, s, bh, four n-gaṇas, and a heavy syllable; [the caesuras are at] five, five, eight, and seven [syllables]."
  },
  {
   "reference": "7.31",
@@ -2436,7 +2562,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 31,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Bhujaṅgavijṛmbhita [has] two m-gaṇas, t, n, n, r, s, a light syllable, and a heavy syllable; [the caesuras are at] eight, eleven, and seven [syllables]."
  },
  {
   "reference": "7.32",
@@ -2445,7 +2572,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 32,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Apavāhaka [has] m, n, three n-gaṇas, n, s, and two heavy syllables; [the caesuras are at] nine, six, six, and five [syllables]."
  },
  {
   "reference": "7.33",
@@ -2463,7 +2591,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 34,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "The first is Caṇḍavṛṣṭiprapāta [having seven r-gaṇas]."
  },
  {
   "reference": "7.35",
@@ -2472,7 +2601,8 @@
   "text": "",
   "mandala": 7,
   "hymn": 35,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "According to Rāta and Māṇḍavya, it is otherwise."
  },
  {
   "reference": "7.36",
@@ -2499,7 +2629,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 2,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Kuḍmaladantī [has] bh, t, n, and two heavy syllables; [the caesuras are at] five and six [syllables]."
  },
  {
   "reference": "8.3",
@@ -2508,7 +2639,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 3,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Varatanu [has] n, j, j, and r; [the caesuras are at] six and six [syllables]."
  },
  {
   "reference": "8.4",
@@ -2517,7 +2649,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 4,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Jaladharamālā [has] m, bh, s, and m; [the caesuras are at] four and eight [syllables]."
  },
  {
   "reference": "8.5",
@@ -2535,7 +2668,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 6,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Lalanā [has] bh, t, n, and s; [the caesuras are at] five and seven [syllables]."
  },
  {
   "reference": "8.7",
@@ -2544,7 +2678,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 7,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Kanakaprabhā [has] s, j, s, j, and a heavy syllable."
  },
  {
   "reference": "8.8",
@@ -2553,7 +2688,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 8,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Kuṭilagati [has] two n-gaṇas, t, and a heavy syllable; [the caesuras are at] seven and six [syllables]."
  },
  {
   "reference": "8.9",
@@ -2562,7 +2698,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 9,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Varasundarī [has] bh, j, s, n, and two heavy syllables."
  },
  {
   "reference": "8.10",
@@ -2571,7 +2708,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 10,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Kuṭilā [has] m, bh, n, y, and a heavy syllable; [the caesuras are at] four, six, and four [syllables]."
  },
  {
   "reference": "8.11",
@@ -2580,7 +2718,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 11,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "[The metre] Śailaśikhā [has the triplets] bha, ra; na, bha; bha, ga, with caesurae at five, six, and five [syllables]."
  },
  {
   "reference": "8.12",
@@ -2589,7 +2728,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 12,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Varayuvatī [has the triplets] bha, ra; ya, na; na, ga."
  },
  {
   "reference": "8.13",
@@ -2598,7 +2738,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 13,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Atiśāyinī [has the triplets] sa, u [= bha]; ja, bha; ja, ga; [and a] ga, with caesurae at ten and seven [syllables]."
  },
  {
   "reference": "8.14",
@@ -2607,7 +2748,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 14,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Avitatha [has] na, ja; bha, ja; ja, la; [and a] ga."
  },
  {
   "reference": "8.15",
@@ -2616,7 +2758,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 15,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "If [the caesurae are] at eight, five, and four [syllables], it is Kokilaka."
  },
  {
   "reference": "8.16",
@@ -2625,7 +2768,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 16,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vibudhapriyā [has] ra, sa; ja, u [= bha]; bha, ra, with caesurae at eight and ten [syllables]."
  },
  {
   "reference": "8.17",
@@ -2643,7 +2787,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 18,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Vismitā [has] ya, ma; na, sa; ra, u [= bha]; ga, with caesurae at six, six, and seven [syllables]."
  },
  {
   "reference": "8.19",
@@ -2652,7 +2797,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 19,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Śaśivadanā [has] na, ja; bha, ja; ja, ja, ra, with caesurae at eleven and ten [syllables]."
  },
  {
   "reference": "8.20",
@@ -2715,7 +2861,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 26,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "The multiplier [two operates] in reverse order, doubling the light syllable and what follows."
  },
  {
   "reference": "8.27",
@@ -2760,7 +2907,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 31,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "When [halved] so many times, it is multiplied by that [squared]."
  },
  {
   "reference": "8.32",
@@ -2769,7 +2917,8 @@
   "text": "",
   "mandala": 8,
   "hymn": 32,
-  "vedaId": "pingala_chandahsutra"
+  "vedaId": "pingala_chandahsutra",
+  "text_mt": "Twice [the sum of all], minus two, of those bounded thereby."
  },
  {
   "reference": "8.33",

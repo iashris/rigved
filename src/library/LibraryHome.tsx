@@ -24,6 +24,8 @@ function TextCard({ t }: { t: TextMeta }) {
   const own = t.pairs?.length && t.stats.english >= 50 && t.translation?.english;
   const translations = [...(own ? [`${own.by.split(/\s+/).pop()}${own.year ? ` (${own.year})` : ''}`] : []), ...(t.pairs ?? []).map((p) => p.label)];
   const english = translations.length ? 100 : t.stats.english;
+  // Machine English fills only where no human English is, so its share of the bar is what the human share leaves.
+  const machine = Math.min(t.stats.machine ?? 0, 100 - english);
   const unit = t.levels[t.levels.length - 1];
   return (
     <a className="lib-card" href={readHref(t.id, first)} title={t.source ?? ''}>
@@ -38,8 +40,9 @@ function TextCard({ t }: { t: TextMeta }) {
         {t.stats.entries === 1 ? '' : 's'}
         {t.later && <span className="lib-tag">later</span>}
       </span>
-      <span className="lib-bar" aria-label={`English ${english}%`}>
+      <span className="lib-bar" aria-label={`English ${english}%${machine ? `, machine translation ${machine}%` : ''}`}>
         <span style={{ width: `${english}%` }} />
+        {machine > 0 && <span className="mt" style={{ width: `${machine}%` }} />}
       </span>
       <span className="lib-card-en">
         {translations.length
@@ -47,9 +50,9 @@ function TextCard({ t }: { t: TextMeta }) {
           : english >= 95
             ? 'English throughout'
             : english > 0
-              ? `English ${english}%`
-              : t.stats.machine
-                ? 'Machine translation only'
+              ? `English ${english}%${machine ? `, machine ${machine}%` : ''}`
+              : machine
+                ? `Machine translation ${machine >= 95 ? 'throughout' : `${machine}%`}`
                 : 'Sanskrit only'}
       </span>
     </a>
@@ -102,6 +105,16 @@ export default function LibraryHome({ catalog }: { catalog: Catalog }) {
           ritual manuals; after them come India's other traditions, then the scriptures of its neighbours and kin for
           comparison. Open any text to read it: in the original and English side by side where both are here, in English
           alone where only a translation is.
+        </p>
+        <p className="lib-legend">
+          <span>
+            <i />
+            English by a translator
+          </span>
+          <span>
+            <i className="mt" />
+            Machine translation: unreviewed and sometimes wrong, but better than no translation
+          </span>
         </p>
         <div className="lib-filters">
           <input className="lib-search" placeholder="Find a text — e.g. Kaṭha, Gopatha, Bhārata" value={q} onChange={(e) => setQ(e.target.value)} />

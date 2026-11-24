@@ -5,7 +5,8 @@
   "meaning": "पंचसंवत्सरमयं युगाध्यक्षं प्रजापतिम् । दिनर्त्वयनमासांगं प्रणम्य शिरसा शुचिः ॥",
   "text": "",
   "mandala": 1,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Having bowed with the head, pure, unto Prajāpati, the lord of the five-year cycle,\nwhose limbs are the days, seasons, solstices, and months,"
  },
  {
   "reference": "2",
@@ -13,7 +14,8 @@
   "meaning": "ज्योतिषामयनं पुण्यं प्रवक्ष्याम्यनुपूर्वशः । विप्राणां सम्मतं लोके यज्ञकालार्थ सिद्धये ॥",
   "text": "",
   "mandala": 2,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "I shall declare in proper order the sacred course of the heavenly luminaries,\nwhich is approved by the learned in this world for determining the times of sacrifice."
  },
  {
   "reference": "3",
@@ -21,7 +23,8 @@
   "meaning": "वेद हि यज्ञार्थमभिप्रवृत्ताः कालानुपूर्व्या विहिताश्च यज्ञाः । तस्मादिदं कालविधानशास्त्रं यो ज्योतिषं वेद स वेद यज्ञान् ॥",
   "text": "",
   "mandala": 3,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "For the Vedas have indeed arisen for the purpose of sacrifices, and sacrifices are prescribed in accordance with time.\nTherefore, whoever knows this astronomy, the science of the determination of time, knows the sacrifices."
  },
  {
   "reference": "4",
@@ -29,7 +32,8 @@
   "meaning": "यथा शिखा मयूराणां नागानां मणयो यथा । तद्वद्वेदांगशास्त्राणां ज्यौतिषं मूर्धानि स्थितम् ॥ ये बृहस्पतिना भुक्ता मीनात्प्रभृति राशयः । ते हृताः पंचभिर्भूता यः शेषः स परिग्रहः ॥",
   "text": "",
   "mandala": 4,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Just as the crests are upon peacocks, and jewels upon serpents,\neven so astronomy stands at the head of the Vedāṅga sciences.\n\nWhatever signs, beginning from Pisces, have been traversed by Jupiter,\nthose, divided by five, become the past; what remains is the current [cycle]."
  },
  {
   "reference": "5",
@@ -37,7 +41,8 @@
   "meaning": "माघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः । युगस्य पंचवर्षस्य कालज्ञानं प्रचक्षते ॥",
   "text": "",
   "mandala": 5,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "They declare the knowledge of time for the five-year cycle,\ncommencing with the bright fortnight of Māgha and concluding with the dark fortnight of Pauṣa."
  },
  {
   "reference": "6",
@@ -45,7 +50,8 @@
   "meaning": "स्वराक्रमेते सोमार्कौ यदा साकं सवासवौ । स्यात्तदादियुगं माघस्तपः शुक्लोऽयनं ह्युदक् ॥",
   "text": "",
   "mandala": 6,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "When the Moon and the Sun rise together in the sky along with the Vasus [Śraviṣṭhā],\nthen begins the cycle, the month of Māgha, the season Tapas, the bright fortnight, and the northern solstice."
  },
  {
   "reference": "7",
@@ -53,7 +59,8 @@
   "meaning": "प्रपद्यते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ॥",
   "text": "",
   "mandala": 7,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The Sun and the Moon move northward at the beginning of Śraviṣṭhā;\nbut the Sun [moves] south at the middle of the serpent's asterism [Āśleṣā], always in Māgha and Śrāvaṇa."
  },
  {
   "reference": "8",
@@ -61,7 +68,8 @@
   "meaning": "धर्मवृद्धिरपां प्रस्थः क्षपाह्रास उदग्गतौ । दक्षिणे तौ विपर्यासः षण्मुहूर्त्ययनेन तु ॥",
   "text": "",
   "mandala": 8,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "In the northern progress, the increase of day is a prastha of water, and the decrease of night [likewise];\nin the southern [progress], the reverse occurs; the [total variation] in a solstice is six muhūrtas."
  },
  {
   "reference": "9",
@@ -69,7 +77,8 @@
   "meaning": "प्रथमं सप्तमं चाहुरयनाद्यं त्रयोदशम् । चतुर्थं दशमं चैव द्विर्युग्मं बहुलेप्यृतौ ॥",
   "text": "",
   "mandala": 9,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "They declare the first, the seventh, and the thirteenth to be the beginning of a solstice;\nand also the fourth and the tenth, forming pairs twofold even in the dark [half] of the season."
  },
  {
   "reference": "10",
@@ -77,7 +86,8 @@
   "meaning": "वसुस्त्वष्टा भवोऽजश्च मित्रः सर्पोऽश्विनौ जलम् । धाता कश्चायनाद्याः स्युरर्धपंचमभस्त्वृतुः ॥",
   "text": "",
   "mandala": 10,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Vasu, Tvaṣṭṛ, Bhava, Aja, Mitra, the Serpent, the Aśvins, Water,\nDhātṛ, and Ka are the asterisms beginning the solstices; four and a half asterisms make a season."
  },
  {
   "reference": "11",
@@ -85,7 +95,8 @@
   "meaning": "एकान्तरेऽह्नि मासे च पूर्वान् कृत्वादिमुत्तरः । अर्धयोः पंचवर्षाणामृदु पंचदशाष्टमौ ॥",
   "text": "",
   "mandala": 11,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "With an interval of one day and one month, having made the earlier ones the beginning, the subsequent [arises];\nin the two halves of the five years, the gentle ones are the fifteenth and the eighth."
  },
  {
   "reference": "12",
@@ -93,7 +104,8 @@
   "meaning": "द्युहेयं पर्व चेत्पादे पादस्त्रिंशत्तु सैकिका । भागात्मनापवृज्यांशान् निर्दिशेदधिको यदि ॥",
   "text": "",
   "mandala": 12,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "If a syzygy falls on a quarter-day, the quarter is thirty-one [parts];\none should assign the portions having divided them by their fractional value, if there is an excess."
  },
  {
   "reference": "13",
@@ -101,7 +113,8 @@
   "meaning": "निरेकं द्वादशाभ्यस्तं द्विगुणं गतसंज्ञिकम् । षष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिरुच्यते ॥",
   "text": "",
   "mandala": 13,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Diminished by one, multiplied by twelve, doubled, called elapsed;\ncombined with sixty and sixty, and with two, it is said to be the total sum of syzygies."
  },
  {
   "reference": "14",
@@ -109,7 +122,8 @@
   "meaning": "स्युः पादोऽर्धंत्रिपाद्याया त्रिद्वयेकऽह्नः कृतस्थितिम् । साम्येन्दोस्तृणोऽन्ये तु पर्वकाः पंच सम्मिताः ॥",
   "text": "",
   "mandala": 14,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "There are parts: a quarter, a half, three-quarters, establishing the duration of three, two, and one day;\nthe others are five syzygies measured equally with the moon and stars."
  },
  {
   "reference": "15",
@@ -117,7 +131,8 @@
   "meaning": "भांशाः स्युरष्टकाः कार्याः पक्षद्वादशकोद्गताः । एकादशगुणश्चोनः शुक्लेऽर्धं चैन्दवा यदि ॥",
   "text": "",
   "mandala": 15,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The parts of an asterism, emerging from twelve fortnights, are to be made eightfold;\nmultiplied by eleven and subtracted, if they are lunar, [add] half in the bright fortnight."
  },
  {
   "reference": "16",
@@ -125,7 +140,8 @@
   "meaning": "नवकैरुद्गतोंशः स्यादूनः सप्तगुणो भवेत् । आवापस्त्वयुजेऽर्धं स्यात्पौलस्ये आस्तंगतेऽपरम् ॥",
   "text": "",
   "mandala": 16,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The part arising by nines should be diminished, multiplied by seven;\nthe insertion is half in an odd [fortnight], and another when Paulastya [the Moon] has set."
  },
  {
   "reference": "17",
@@ -133,7 +149,8 @@
   "meaning": "जावाद्यंशैः समं विद्यात् पूर्वार्धे पर्व सूत्तरे । भादानं स्याच्चतुर्दश्यां काष्ठानां देविना कलाः ॥",
   "text": "",
   "mandala": 17,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "One should know that the syzygy in the first half is equal by the parts beginning with Jau;\nin the second half, the asterism-entry occurs on the fourteenth, sixty-two kalās of kāṣṭhās."
  },
  {
   "reference": "18",
@@ -141,7 +158,8 @@
   "meaning": "जौ द्रा गः खे श्वे ही रो षा श्चिन्मूषक्ण्यः सूमाधाणः । रे मृ घाः स्वापोजः कृष्यो ह ज्येष्ठा इत्यृक्षा लिंगैः ॥",
   "text": "",
   "mandala": 18,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Jau, drā, gaḥ, khe, śve, hī, ro, ṣā, ścin, mū, ṣa, kṇyaḥ, sū, mā, dhā, ṇaḥ,\nre, mṛ, ghāḥ, svā, paḥ, jaḥ, kṛ, ṣyaḥ, ha, jyeṣṭhā—these are the asterisms indicated by symbols."
  },
  {
   "reference": "19",
@@ -149,7 +167,8 @@
   "meaning": "कार्या भांशाष्टकास्थाने कला एकान्नविंशतिः । उनस्थाने त्रिसप्तति मुद्ववपेदूनसम्भवे ॥",
   "text": "",
   "mandala": 19,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Nineteen kalās should be applied in place of eight parts of an asterism;\nin place of a deficit, one should add seventy-three when a deficit occurs."
  },
  {
   "reference": "20",
@@ -157,7 +176,8 @@
   "meaning": "तिथिमेकादशाभ्यस्तां पर्वभांशसमन्विताम् । विभज्य भसमूहेन तिथिनक्षत्रमादिशेत् ॥",
   "text": "",
   "mandala": 20,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Multiplying the lunar day by eleven, combined with the asterism-parts of the syzygy,\nand dividing by the total number of asterisms, one should declare the asterism of the lunar day."
  },
  {
   "reference": "21",
@@ -165,7 +185,8 @@
   "meaning": "याः पर्वाभादानकलास्तासु सप्तगुणां तिथिम् । युक्त्या तासां विजानीयात् तिथिभादानिकाः कलाः ॥",
   "text": "",
   "mandala": 21,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The kalās of asterism-entry at the syzygy, together with the lunar day multiplied by seven,\nby combining these, one should determine the kalās of the asterism-entry of the lunar day."
  },
  {
   "reference": "22",
@@ -173,7 +194,8 @@
   "meaning": "अतीतपर्वभागेभ्यः शोधयेद् द्विगुणां तिथिम् । तेषु मण्डलभागेषु तिथिनिष्ठांगतो रविः ॥",
   "text": "",
   "mandala": 22,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "From the parts of the elapsed syzygy, one should subtract twice the lunar day;\nin those parts of the circle, the Sun has reached the conclusion of the lunar day."
  },
  {
   "reference": "23",
@@ -181,7 +203,8 @@
   "meaning": "विषुवन्तं द्विरभ्यस्तं रूपोनं षड्गुणीकृतम् । पक्षा यदर्धं पक्षाणां तिथिः स विषुवान् स्मृतः ॥",
   "text": "",
   "mandala": 23,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The equinox doubled, diminished by one, and multiplied by six,\nwhatever half-fortnights are [obtained], that lunar day is commemorated as the equinox."
  },
  {
   "reference": "24",
@@ -189,7 +212,8 @@
   "meaning": "पलानि पंचाशदपां धृतानि तदाढकं द्रोणमतः प्रमेयम् । त्रिभिर्विहीनं कुड्वैस्तु कार्यं तन्नाडिकायास्तु भवेत् प्रमाणम् ॥",
   "text": "",
   "mandala": 24,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Fifty palas of water held are an āḍhaka, and a droṇa is known from that;\ndiminished by three kuḍavas, that should be made the measure of a nāḍikā."
  },
  {
   "reference": "25",
@@ -197,7 +221,8 @@
   "meaning": "एकादशभिरभ्यस्य पर्वाणि नवभिस्तिथिम् । युगलब्धं सपर्व स्याद् वर्तमानार्कभं क्रमात् ॥",
   "text": "",
   "mandala": 25,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Multiplying the syzygies by eleven, and the lunar day by nine,\nthe quotient of the pair along with the syzygy is, in order, the current solar asterism."
  },
  {
   "reference": "26",
@@ -205,7 +230,8 @@
   "meaning": "सूर्यर्क्षभागान् नवभिर्विभज्य शेषान् द्विरभ्यस्य दिनोपभुक्तिः । तिथेर्युता भुक्तिदिनेषु कालो योगो दिनैकादशकेन् तद्भम् ॥",
   "text": "",
   "mandala": 26,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Dividing the solar asterism-parts by nine, and doubling the remainder, is the daily consumption;\nadded to the lunar day, [that gives] the time in consumed days; the conjunction with eleven days is that asterism."
  },
  {
   "reference": "27",
@@ -213,7 +239,8 @@
   "meaning": "त्र्यंशो भशेषो दिवसांशभागश्चतुर्दशस्याप्यपनीय भिन्नम् । भार्धेऽधिके चाधिगते परोंऽशोद्वावुत्तमे तन्नवकैरवेत्य ॥",
   "text": "",
   "mandala": 27,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "A third part is the remainder of the asterism; having deducted the fraction of the day-portion of the fourteenth,\nand when more than half an asterism has elapsed, another part is two in the highest, understanding it by nines."
  },
  {
   "reference": "28",
@@ -221,7 +248,8 @@
   "meaning": "त्रिंशत्यह्नां सषट्षष्टिरब्दः षट् चर्तवोऽयने । मासा द्वादश सौर्याः स्युरेतत् पंचगुणं युगम् ॥",
   "text": "",
   "mandala": 28,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Three hundred and sixty-six are the days of a year; six are the seasons, two the solstices;\ntwelve are the solar months; this multiplied by five is a cycle."
  },
  {
   "reference": "29",
@@ -229,7 +257,8 @@
   "meaning": "उदयावासवस्य स्युर्दिनराशि सपंचकः । ऋषेर्द्विषष्टिहीनः स्याद् विंशत्या चैकयास्तृणाम् ॥",
   "text": "",
   "mandala": 29,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The risings of Vāsava [the Sun] are the sum of days plus five;\nof the moon, [the days] diminished by sixty-two; and of the stars, plus twenty-one."
  },
  {
   "reference": "30",
@@ -237,7 +266,8 @@
   "meaning": "पंचत्रिंशं शतं पौष्णम् एकोनमयनोन्यृषेः । पर्वणां स्याच्चतुष्पादी काष्ठानां चैव ताः कलाः ॥",
   "text": "",
   "mandala": 30,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "One hundred and thirty-five are the Pauṣṇa [revolutions of the Moon], one less is the solstitial [half-months] of the Moon;\nfour-footed are the syzygies, and those very ones are the kalās of the kāṣṭhās."
  },
  {
   "reference": "31",
@@ -245,7 +275,8 @@
   "meaning": "सावनेन्दुस्तृमासानां षष्टिः सैकद्विसप्तिका । द्युस्त्रिंशत् सावनः सार्धः सौरस्तृणां स पर्ययः ॥",
   "text": "",
   "mandala": 31,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The civil, lunar, and sidereal months are sixty plus one, two, and seventy;\nthirty days make a civil month, [thirty] and a half a solar month; that is the revolution of the stars."
  },
  {
   "reference": "32",
@@ -253,7 +284,8 @@
   "meaning": "अग्निः प्रजापतिः सोमो रुद्रोदितिबृहस्पती । सर्पाश्च पितरश्चैव भगश्चैवार्यमापि च ॥",
   "text": "",
   "mandala": 32,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Agni, Prajāpati, Soma, Rudra, Aditi, Bṛhaspati,\nthe Serpents, the Ancestors, Bhaga, and Aryaman;"
  },
  {
   "reference": "33",
@@ -261,7 +293,8 @@
   "meaning": "सविता त्वष्टाथ वायुश्चेन्द्राग्नी मित्र एव च । इन्द्रो निॠतिरापो वै विश्वेदेवास्तथैव च ॥",
   "text": "",
   "mandala": 33,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Savitṛ, Tvaṣṭṛ, then Vāyu, Indrāgnī, and Mitra,\nIndra, Nirṛti, the Waters, and also the Viśvedevas;"
  },
  {
   "reference": "34",
@@ -269,7 +302,8 @@
   "meaning": "विष्णुर्वसवो वरुणूऽजेकपात् तथैव च । अहिर्बुध्न्यस्तथा पूषा अश्विनौ यम एव च ॥",
   "text": "",
   "mandala": 34,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Viṣṇu, the Vasus, Varuṇa, Aja Ekapād, and likewise\nAhirbudhnya, and Pūṣan, the Aśvins, and Yama—"
  },
  {
   "reference": "35",
@@ -277,7 +311,8 @@
   "meaning": "नक्षत्रदेवता एता एताभिर्यज्ञकर्मणि । यजमानस्य शास्त्रज्ञैर्नाम नक्षत्रजं स्मृतम् ॥",
   "text": "",
   "mandala": 35,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "these are the deities of the asterisms; by means of these, in the performance of sacrifice,\nthe asterism-name of the sacrificer is recorded by the knowers of the scriptures."
  },
  {
   "reference": "36",
@@ -285,7 +320,8 @@
   "meaning": "उग्राण्यार्द्रा च चित्रा च विशाखा श्रवणोश्वयुक् । क्रूरणि तु मघास्वाती ज्येष्टा मूलं यमस्य च ॥",
   "text": "",
   "mandala": 36,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Fierce are Ārdrā, Citrā, Viśākhā, Śravaṇa, and Aśvayuj;\nwhile cruel are Maghā, Svātī, Jyeṣṭhā, Mūla, and [the asterism] of Yama [Bharaṇī]."
  },
  {
   "reference": "37",
@@ -293,7 +329,8 @@
   "meaning": "द्यूनं द्विषष्टिभागेन ज्ञे हे यं सौरं सपार्वणम् । यत्कृतावुपजायेते मध्येऽन्ते चाधिमासकौ ॥",
   "text": "",
   "mandala": 37,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The solar [measure] with syzygy is to be known as diminished by one sixty-second part of a day,\nby the application of which the two intercalary months arise, in the middle and at the end."
  },
  {
   "reference": "38",
@@ -301,7 +338,8 @@
   "meaning": "कला दश सविंशा स्याद् द्वे मुहुर्तस्य नाडिके । द्युस्त्रिंशत् तत्कलानां तु षट्शती त्र्यधिका भवेत् ॥",
   "text": "",
   "mandala": 38,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "A nāḍikā is ten kalās plus twenty [kāṣṭhās], two [nāḍikās] belong to a muhūrta;\nthirty days, however, contain six hundred and three of those kalās."
  },
  {
   "reference": "39",
@@ -309,7 +347,8 @@
   "meaning": "ससप्तमं भयुक् सोमः सूर्यो द्यूनि त्रयोदश । नवमानि तु पंचाह्नः काष्ठा पंचाक्षरा भवेत् ॥",
   "text": "",
   "mandala": 39,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The Moon joins an asterism with one-seventh [of a day]; the Sun with thirteen days\nand five-ninths of a day; a kāṣṭhā consists of five syllables."
  },
  {
   "reference": "40",
@@ -317,7 +356,8 @@
   "meaning": "यदुत्तरस्यायनतो गतं स्याच् छेषं तथा दक्षिणतोऽयनस्य । तदेकषष्ट्याद्विगुणं विभक्तं सद्वादशं स्याद् दिवसप्रमाणम् ॥",
   "text": "",
   "mandala": 40,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Whatever has elapsed from the northern solstice, and likewise whatever remains of the southern solstice,\nthat doubled and divided by sixty-one, together with twelve, is the measure of the day."
  },
  {
   "reference": "41",
@@ -325,7 +365,8 @@
   "meaning": "यदर्धं दिनभागानां सदा पर्वणि पर्वणि । ॠतुशेषं तु तद् विद्यात् संख्याय सह सर्वणाम् ॥",
   "text": "",
   "mandala": 41,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Whatever is the half of the day-parts always at every syzygy,\none should know that as the remainder of the season, having counted it together with all [syzygies]."
  },
  {
   "reference": "42",
@@ -333,7 +374,8 @@
   "meaning": "इत्युपायसमुद्देशो भूयोप्यह्नः प्रकल्पयेत् । ज्ञेयराशिं गताभ्यस्तं विभजेज्ज्ञानराशिना ॥ इत्येतन्मासवर्षाणां मुहूर्तोदयपर्वणाम् । दिनर्त्वयनमासांगं व्याख्यानं लगधोऽब्रवीत् ॥",
   "text": "",
   "mandala": 42,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "Thus is the specification of the method; one should calculate further for any day:\nmultiplying the quantity to be known by the elapsed [time], one should divide by the known quantity.\n\nThus this exposition of the months, years, muhūrtas, sunrises, and syzygies,\nwhose limbs are the days, seasons, solstices, and months, was spoken by Lagadha."
  },
  {
   "reference": "43",
@@ -341,6 +383,7 @@
   "meaning": "सोमसूर्यस्तृचरितं विद्वान् वेदविदश्नुते । सोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम् ॥",
   "text": "",
   "mandala": 43,
-  "vedaId": "jyotisa_yajus"
+  "vedaId": "jyotisa_yajus",
+  "text_mt": "The wise knower of the Veda attains the course of the Moon, Sun, and stars;\nhe attains the world of the course of the Moon, Sun, and stars, and honor in the world."
  }
 ]

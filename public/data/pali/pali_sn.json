@@ -542,7 +542,7 @@
  {
   "reference": "1.20.30",
   "original": "“Pahāsi saṅkhaṁ na vimānamajjhagā,\nAcchecchi taṇhaṁ idha nāmarūpe;\nTaṁ chinnaganthaṁ anighaṁ nirāsaṁ,\nPariyesamānā nājjhagamuṁ;\nDevā manussā idha vā huraṁ vā,\nSaggesu vā sabbanivesanesu.",
-  "text": "“They gave up judgment without falling into conceit;\ncraving for name and form was cut off right here.\nThey cut the ties, untroubled, <j>with no need for hope.\nThough gods and humans search for them\nin this life or the next, they never find them,\nnot in heaven nor in any abode."
+  "text": "“They gave up judgment without falling into conceit;\ncraving for name and form was cut off right here.\nThey cut the ties, untroubled,\nwith no need for hope.\nThough gods and humans search for them\nin this life or the next, they never find them,\nnot in heaven nor in any abode."
  },
  {
   "reference": "1.20.31",
@@ -557,7 +557,7 @@
  {
   "reference": "1.20.33",
   "original": "Pāpaṁ na kayirā vacasā manasā,\nKāyena vā kiñcana sabbaloke;\nKāme pahāya satimā sampajāno,\nDukkhaṁ na sevetha anatthasaṁhitan”ti.",
-  "text": "You should never do anything bad\nby speech or mind or body in all the world.\nHaving given up sensual pleasures, <j>mindful and aware,\nyou shouldn’t keep doing <j>what’s painful and pointless.”"
+  "text": "You should never do anything bad\nby speech or mind or body in all the world.\nHaving given up sensual pleasures,\nmindful and aware,\nyou shouldn’t keep doing\nwhat’s painful and pointless.”"
  },
  {
   "reference": "1.21.1",
@@ -642,7 +642,7 @@
  {
   "reference": "1.25.4",
   "original": "“Pahīnamānassa na santi ganthā,\nVidhūpitā mānaganthassa sabbe;\nSa vītivatto maññataṁ sumedho,\nAhaṁ vadāmītipi so vadeyya.",
-  "text": "“Someone who has given up conceit has no ties,\nthe ties of conceit are all dissipated.\nThough that intelligent person <j>has passed beyond conceiving,\nthey’d still say, ‘I speak’,"
+  "text": "“Someone who has given up conceit has no ties,\nthe ties of conceit are all dissipated.\nThough that intelligent person\nhas passed beyond conceiving,\nthey’d still say, ‘I speak’,"
  },
  {
   "reference": "1.25.5",
@@ -879,7 +879,7 @@
  {
   "reference": "1.32.15",
   "original": "Dhammaṁ care yopi samuñjakaṁ care,\nDārañca posaṁ dadamappakasmiṁ;\nSataṁ sahassānaṁ sahassayāginaṁ,\nKalampi nāgghanti tathāvidhassa te”ti.",
-  "text": "A hundred thousand people <j>making a thousand sacrifices\nisn’t worth a fraction of that sort,\nwho lives rightly, wandering for gleanings,\nor one who supports their partner <j>with what little they have.”"
+  "text": "A hundred thousand people\nmaking a thousand sacrifices\nisn’t worth a fraction of that sort,\nwho lives rightly, wandering for gleanings,\nor one who supports their partner\nwith what little they have.”"
  },
  {
   "reference": "1.32.16",
@@ -889,7 +889,7 @@
  {
   "reference": "1.32.17",
   "original": "“Kenesa yañño vipulo mahaggato,\nSamena dinnassa na agghameti;\nKathaṁ sataṁ sahassānaṁ sahassayāginaṁ,\nKalampi nāgghanti tathāvidhassa te”ti.",
-  "text": "“Why doesn’t that sacrifice of theirs, <j>so abundant and magnificent,\nequal the value of a moral person’s gift?\nHow is it that a hundred thousand people <j>making a thousand sacrifices\nisn’t worth a fraction of what’s offered by that sort?”"
+  "text": "“Why doesn’t that sacrifice of theirs,\nso abundant and magnificent,\nequal the value of a moral person’s gift?\nHow is it that a hundred thousand people\nmaking a thousand sacrifices\nisn’t worth a fraction of what’s offered by that sort?”"
  },
  {
   "reference": "1.32.18",
@@ -899,7 +899,7 @@
  {
   "reference": "1.32.19",
   "original": "Evaṁ sataṁ sahassānaṁ sahassayāginaṁ,\nKalampi nāgghanti tathāvidhassa te”ti.",
-  "text": "That’s how it is that a hundred thousand people <j>making a thousand sacrifices\nisn’t worth a fraction of what’s offered by that sort.”"
+  "text": "That’s how it is that a hundred thousand people\nmaking a thousand sacrifices\nisn’t worth a fraction of what’s offered by that sort.”"
  },
  {
   "reference": "1.33.1",
@@ -970,7 +970,7 @@
  {
   "reference": "1.33.14",
   "original": "Viceyya dānaṁ sugatappasatthaṁ,\nYe dakkhiṇeyyā idha jīvaloke;\nEtesu dinnāni mahapphalāni,\nBījāni vuttāni yathā sukhette”ti.",
-  "text": "The Holy One praises giving intelligently\nto those worthy of offerings here <j>in the world of the living.\nWhat’s given to these is very fruitful,\nlike seeds sown in a fertile field.”"
+  "text": "The Holy One praises giving intelligently\nto those worthy of offerings here\nin the world of the living.\nWhat’s given to these is very fruitful,\nlike seeds sown in a fertile field.”"
  },
  {
   "reference": "1.33.15",
@@ -980,12 +980,12 @@
  {
   "reference": "1.33.16",
   "original": "“Sādhu kho mārisa dānaṁ,\nAppakasmimpi sāhu dānaṁ;\nSaddhāyapi sāhu dānaṁ,\nDhammaladdhassāpi sāhu dānaṁ;\nViceyya dānampi sāhu dānaṁ,\nApi ca pāṇesupi sādhu saṁyamo.",
-  "text": "“Good, good fellow, is giving!\nEven when one has little, giving is good.\nAnd it’s also good to give out of faith.\nAnd it’s also good to give legitimate wealth.\nAnd it’s also good to give intelligently.\nAnd it’s also good to be restrained <j>when it comes to living creatures."
+  "text": "“Good, good fellow, is giving!\nEven when one has little, giving is good.\nAnd it’s also good to give out of faith.\nAnd it’s also good to give legitimate wealth.\nAnd it’s also good to give intelligently.\nAnd it’s also good to be restrained\nwhen it comes to living creatures."
  },
  {
   "reference": "1.33.17",
   "original": "Yo pāṇabhūtāni aheṭhayaṁ caraṁ,\nParūpavādā na karonti pāpaṁ;\nBhīruṁ pasaṁsanti na hi tattha sūraṁ,\nBhayā hi santo na karonti pāpan”ti.",
-  "text": "One who lives without harming any living being\ndoes no bad because of others’ blame.\nWere that the case they praise the coward, <j>not the brave;\nfor the virtuous do no bad out of fear.”"
+  "text": "One who lives without harming any living being\ndoes no bad because of others’ blame.\nWere that the case they praise the coward,\nnot the brave;\nfor the virtuous do no bad out of fear.”"
  },
  {
   "reference": "1.33.18",
@@ -1036,17 +1036,17 @@
  {
   "reference": "1.34.7",
   "original": "Pahāsi saṅkhaṁ na vimānamajjhagā,\nAcchecchi taṇhaṁ idha nāmarūpe;\nTaṁ chinnaganthaṁ anighaṁ nirāsaṁ,\nPariyesamānā nājjhagamuṁ;\nDevā manussā idha vā huraṁ vā,\nSaggesu vā sabbanivesanesū”ti.",
-  "text": "They gave up judgment without falling into conceit;\ncraving for name and form was cut off right here.\nThey cut the ties, untroubled, <j>with no need for hope.\nThough gods and humans search for them\nin this life or the next, they never find them,\nnot in heaven nor in any abode.”"
+  "text": "They gave up judgment without falling into conceit;\ncraving for name and form was cut off right here.\nThey cut the ties, untroubled,\nwith no need for hope.\nThough gods and humans search for them\nin this life or the next, they never find them,\nnot in heaven nor in any abode.”"
  },
  {
   "reference": "1.34.8",
   "original": "“Tañce hi nāddakkhuṁ tathāvimuttaṁ, (iccāyasmā mogharājā)\nDevā manussā idha vā huraṁ vā;\nNaruttamaṁ atthacaraṁ narānaṁ,\nYe taṁ namassanti pasaṁsiyā te”ti.",
-  "text": "“If neither gods nor humans see one freed in this way,” said Venerable Mogharāja,\n“in this life or the next,\nare those who revere that supreme man,\nwho lives for the good of mankind, <j>also worthy of praise?”"
+  "text": "“If neither gods nor humans see one freed in this way,” said Venerable Mogharāja,\n“in this life or the next,\nare those who revere that supreme man,\nwho lives for the good of mankind,\nalso worthy of praise?”"
  },
  {
   "reference": "1.34.9",
   "original": "“Pasaṁsiyā tepi bhavanti bhikkhū, (mogharājāti bhagavā)\nYe taṁ namassanti tathāvimuttaṁ;\nAññāya dhammaṁ vicikicchaṁ pahāya,\nSaṅgātigā tepi bhavanti bhikkhū”ti.",
-  "text": "“The mendicants who revere one freed in this way,” said the Buddha,\n“are also worthy of praise, Mogharāja.\nHaving understood the teaching <j>and given up doubt,\nthose mendicants slip their chains.”"
+  "text": "“The mendicants who revere one freed in this way,” said the Buddha,\n“are also worthy of praise, Mogharāja.\nHaving understood the teaching\nand given up doubt,\nthose mendicants slip their chains.”"
  },
  {
   "reference": "1.35.1",
@@ -1260,12 +1260,12 @@
  {
   "reference": "1.38.11",
   "original": "“Pañcavedā sataṁ samaṁ,\nTapassī brāhmaṇā caraṁ;\nCittañca nesaṁ na sammā vimuttaṁ,\nHīnattharūpā na pāraṅgamā te.",
-  "text": "“Learned in the five branches of Vedic lore,\nbrahmins practice fervent mortification <j>for a full century.\nBut their minds are not properly freed,\nfor those of base character don’t cross to the far shore."
+  "text": "“Learned in the five branches of Vedic lore,\nbrahmins practice fervent mortification\nfor a full century.\nBut their minds are not properly freed,\nfor those of base character don’t cross to the far shore."
  },
  {
   "reference": "1.38.12",
   "original": "Taṇhādhipannā vatasīlabaddhā,\nLūkhaṁ tapaṁ vassasataṁ carantā;\nCittañca nesaṁ na sammā vimuttaṁ,\nHīnattharūpā na pāraṅgamā te.",
-  "text": "Seized by craving, <j>attached to precept and observance,\nthey practice rough and fervent mortification <j>for a hundred years.\nBut their minds are not properly freed,\nfor those of base character don’t go to the far shore."
+  "text": "Seized by craving,\nattached to precept and observance,\nthey practice rough and fervent mortification\nfor a hundred years.\nBut their minds are not properly freed,\nfor those of base character don’t go to the far shore."
  },
  {
   "reference": "1.38.13",
@@ -1306,7 +1306,7 @@
  {
   "reference": "1.39.6",
   "original": "Ye ca kho ariye dhamme,\nKhantiyā upasamena upetā;\nPahāya mānusaṁ dehaṁ,\nDevakāyaṁ paripūressantī”ti.",
-  "text": "There are those who have found <j>acceptance and peace\nin the teaching of the noble ones.\nAfter giving up this human body,\nthey swell the heavenly host.”"
+  "text": "There are those who have found\nacceptance and peace\nin the teaching of the noble ones.\nAfter giving up this human body,\nthey swell the heavenly host.”"
  },
  {
   "reference": "1.40.1",
@@ -1332,7 +1332,7 @@
  {
   "reference": "1.40.5",
   "original": "Pāpaṁ na kayirā vacasā manasā,\nKāyena vā kiñcana sabbaloke;\nKāme pahāya satimā sampajāno,\nDukkhaṁ na sevetha anatthasaṁhitan”ti.",
-  "text": "You should never do anything bad\nby speech or mind or body in all the world.\nHaving given up sensual pleasures, <j>mindful and aware,\nyou shouldn’t keep doing <j>what’s painful and pointless.”"
+  "text": "You should never do anything bad\nby speech or mind or body in all the world.\nHaving given up sensual pleasures,\nmindful and aware,\nyou shouldn’t keep doing\nwhat’s painful and pointless.”"
  },
  {
   "reference": "1.41.1",
@@ -1406,7 +1406,7 @@
  {
   "reference": "1.45.1",
   "original": "“Anomanāmaṁ nipuṇatthadassiṁ,\nPaññādadaṁ kāmālaye asattaṁ;\nTaṁ passatha sabbaviduṁ sumedhaṁ,\nAriye pathe kamamānaṁ mahesin”ti.",
-  "text": "“Behold him of peerless name <j>who sees the subtle meaning,\ngiver of wisdom, <j>unattached to the realm of sensuality:\nthe all-knower, so very intelligent,\nthe great seer treading the noble road.”",
+  "text": "“Behold him of peerless name\nwho sees the subtle meaning,\ngiver of wisdom,\nunattached to the realm of sensuality:\nthe all-knower, so very intelligent,\nthe great seer treading the noble road.”",
   "title": "Peerless (Anomasutta)"
  },
  {
@@ -1433,7 +1433,7 @@
  {
   "reference": "1.47.1",
   "original": "“Kesaṁ divā ca ratto ca,\nsadā puññaṁ pavaḍḍhati;\nDhammaṭṭhā sīlasampannā,\nke janā saggagāmino”ti.",
-  "text": "“Whose merit always grows\nby day and by night?\nWhat people—firm in principle, <j>accomplished in conduct—\nare going to heaven?”",
+  "text": "“Whose merit always grows\nby day and by night?\nWhat people—firm in principle,\naccomplished in conduct—\nare going to heaven?”",
   "title": "Planters (Vanaropasutta)"
  },
  {
@@ -1444,7 +1444,7 @@
  {
   "reference": "1.47.3",
   "original": "Tesaṁ divā ca ratto ca,\nsadā puññaṁ pavaḍḍhati;\nDhammaṭṭhā sīlasampannā,\nte janā saggagāmino”ti.",
-  "text": "Their merit always grows\nby day and by night.\nThose people—firm in principle, <j>accomplished in conduct—\nare going to heaven.”"
+  "text": "Their merit always grows\nby day and by night.\nThose people—firm in principle,\naccomplished in conduct—\nare going to heaven.”"
  },
  {
   "reference": "1.48.1",
@@ -1866,13 +1866,13 @@
  {
   "reference": "1.75.1",
   "original": "“Kiṁsūdha bhītā janatā anekā,\nMaggo canekāyatanappavutto;\nPucchāmi taṁ gotama bhūripañña,\nKismiṁ ṭhito paralokaṁ na bhāye”ti.",
-  "text": "“Why are so many people here afraid,\nwhen the path has been taught <j>with so many dimensions?\nI ask you, Gotama, whose wisdom is vast:\nStanding on what need one not fear the next world?”",
+  "text": "“Why are so many people here afraid,\nwhen the path has been taught\nwith so many dimensions?\nI ask you, Gotama, whose wisdom is vast:\nStanding on what need one not fear the next world?”",
   "title": "Afraid (Bhītāsutta)"
  },
  {
   "reference": "1.75.2",
   "original": "“Vācaṁ manañca paṇidhāya sammā,\nKāyena pāpāni akubbamāno;\nBahvannapānaṁ gharamāvasanto,\nSaddho mudū saṁvibhāgī vadaññū;\nEtesu dhammesu ṭhito catūsu,\nDhamme ṭhito paralokaṁ na bhāye”ti.",
-  "text": "“When speech and mind are directed right,\nand you don’t do anything bad with the body\nwhile dwelling at home with plenty of food and drink.\nFaithful, gentle, charitable, and bountiful:\none who stands on these four principles,\nwho stands on the teaching <j>need not fear the next world.”"
+  "text": "“When speech and mind are directed right,\nand you don’t do anything bad with the body\nwhile dwelling at home with plenty of food and drink.\nFaithful, gentle, charitable, and bountiful:\none who stands on these four principles,\nwho stands on the teaching\nneed not fear the next world.”"
  },
  {
   "reference": "1.76.1",
@@ -1924,7 +1924,7 @@
  {
   "reference": "1.78.1",
   "original": "“Kimatthakāmo na dade,\nkiṁ macco na pariccaje;\nKiṁsu muñceyya kalyāṇaṁ,\npāpikaṁ na ca mocaye”ti.",
-  "text": "“What should one who wants what’s best <j>not give away?\nWhat should a mortal not forsake?\nWhat should be released when it’s good,\nbut not when it’s bad?”",
+  "text": "“What should one who wants what’s best\nnot give away?\nWhat should a mortal not forsake?\nWhat should be released when it’s good,\nbut not when it’s bad?”",
   "title": "Desire (Kāmasutta)"
  },
  {
@@ -2004,7 +2004,7 @@
  {
   "reference": "2.1.4",
   "original": "“Subhāsitassa sikkhetha,\nsamaṇūpāsanassa ca;\nEkāsanassa ca raho,\ncittavūpasamassa cā”ti.",
-  "text": "“You should all train <j>to learn well-spoken words,\nto attend closely to ascetics,\nto sit alone in hidden places,\nand to settle the mind.”"
+  "text": "“You should all train\nto learn well-spoken words,\nto attend closely to ascetics,\nto sit alone in hidden places,\nand to settle the mind.”"
  },
  {
   "reference": "2.1.5",
@@ -2093,12 +2093,12 @@
  {
   "reference": "2.5.4",
   "original": "“Natthi kiccaṁ brāhmaṇassa, (dāmalīti bhagavā)\nKatakicco hi brāhmaṇo;\nYāva na gādhaṁ labhati nadīsu,\nĀyūhati sabbagattebhi jantu;\nGādhañca laddhāna thale ṭhito yo,\nNāyūhatī pāragato hi sova.",
-  "text": "“The brahmin has nothing left to do,” said the Buddha to Dāmali,\n“for they’ve completed their task.\nSo long as a personage fails to gain a footing in the river,\nthey swim with every limb.\nBut someone who has gained a footing <j>and stands on dry land\nneed not swim, <j>for they have reached the far shore."
+  "text": "“The brahmin has nothing left to do,” said the Buddha to Dāmali,\n“for they’ve completed their task.\nSo long as a personage fails to gain a footing in the river,\nthey swim with every limb.\nBut someone who has gained a footing\nand stands on dry land\nneed not swim,\nfor they have reached the far shore."
  },
  {
   "reference": "2.5.5",
   "original": "Esūpamā dāmali brāhmaṇassa,\nKhīṇāsavassa nipakassa jhāyino;\nPappuyya jātimaraṇassa antaṁ,\nNāyūhatī pāragato hi so”ti.",
-  "text": "Dāmali, this is a simile for the brahmin,\nalert, a meditator who has ended defilements.\nSince they’ve reached the end of rebirth and death,\nthey need not swim, <j>for they have reached the far shore.”"
+  "text": "Dāmali, this is a simile for the brahmin,\nalert, a meditator who has ended defilements.\nSince they’ve reached the end of rebirth and death,\nthey need not swim,\nfor they have reached the far shore.”"
  },
  {
   "reference": "2.6.1",
@@ -2134,7 +2134,7 @@
  {
   "reference": "2.6.7",
   "original": "“Dussamādahaṁ vāpi samādahanti, (kāmadāti bhagavā)\nIndriyūpasame ratā;\nTe chetvā maccuno jālaṁ,\nAriyā gacchanti kāmadā”ti.",
-  "text": "“They become immersed in samādhi <j>even though it’s hard,” said the Buddha to Kāmada,\n“those who love calming the faculties.\nHaving cut through the net of Death,\nthe noble ones, Kāmada, go on their way.”"
+  "text": "“They become immersed in samādhi\neven though it’s hard,” said the Buddha to Kāmada,\n“those who love calming the faculties.\nHaving cut through the net of Death,\nthe noble ones, Kāmada, go on their way.”"
  },
  {
   "reference": "2.6.8",
@@ -2370,7 +2370,7 @@
  {
   "reference": "2.12.3",
   "original": "“Ye me pavutte siṭṭhipade, (veṇḍūti bhagavā)\nAnusikkhanti jhāyino;\nKāle te appamajjantā,\nNa maccuvasagā siyun”ti.",
-  "text": "“Those who practice absorption <j>in accord with the training”, said the Buddha to Vishnu,\n“in the way of teaching I’ve proclaimed,\ndiligent while there is still time;\nthey won’t fall under the sway of Death.”"
+  "text": "“Those who practice absorption\nin accord with the training”, said the Buddha to Vishnu,\n“in the way of teaching I’ve proclaimed,\ndiligent while there is still time;\nthey won’t fall under the sway of Death.”"
  },
  {
   "reference": "2.13.1",
@@ -2397,7 +2397,7 @@
  {
   "reference": "2.14.2",
   "original": "“Pucchāmi taṁ gotama bhūripañña,\nAnāvaṭaṁ bhagavato ñāṇadassanaṁ;\nKathaṁvidhaṁ sīlavantaṁ vadanti,\nKathaṁvidhaṁ paññavantaṁ vadanti;\nKathaṁvidho dukkhamaticca iriyati,\nKathaṁvidhaṁ devatā pūjayantī”ti.",
-  "text": "“I ask you, Gotama, whose wisdom is vast,\nthe Blessed One <j>of unhindered knowledge and vision.\nWhat sort do they call ethical?\nWhat sort do they call wise?\nWhat sort lives on after transcending suffering?\nWhat sort is worshiped by the deities?”"
+  "text": "“I ask you, Gotama, whose wisdom is vast,\nthe Blessed One\nof unhindered knowledge and vision.\nWhat sort do they call ethical?\nWhat sort do they call wise?\nWhat sort lives on after transcending suffering?\nWhat sort is worshiped by the deities?”"
  },
  {
   "reference": "2.14.3",
@@ -2929,7 +2929,7 @@
  {
   "reference": "2.26.10",
   "original": "Tasmā have lokavidū sumedho,\nLokantagū vusitabrahmacariyo;\nLokassa antaṁ samitāvi ñatvā,\nNāsīsati lokamimaṁ parañcā”ti.",
-  "text": "So an intelligent person, understanding the world,\nhas completed the spiritual journey <j>and gone to the end of the world.\nAssuaged, knowing the end of the world,\nthey do not hope for this world or the next.”"
+  "text": "So an intelligent person, understanding the world,\nhas completed the spiritual journey\nand gone to the end of the world.\nAssuaged, knowing the end of the world,\nthey do not hope for this world or the next.”"
  },
  {
   "reference": "2.27.1",
@@ -3446,7 +3446,7 @@
  {
   "reference": "3.8.8",
   "original": "“Sabbā disā anuparigamma cetasā,\nNevajjhagā piyataramattanā kvaci;\nEvaṁ piyo puthu attā paresaṁ,\nTasmā na hiṁse paramattakāmo”ti.",
-  "text": "“Having explored every quarter with the mind,\none finds no one dearer than oneself.\nLikewise for others, each holds themselves dear;\nso one who desires self-knowledge <j>would harm no other.”"
+  "text": "“Having explored every quarter with the mind,\none finds no one dearer than oneself.\nLikewise for others, each holds themselves dear;\nso one who desires self-knowledge\nwould harm no other.”"
  },
  {
   "reference": "3.9.1",
@@ -3472,7 +3472,7 @@
  {
   "reference": "3.9.5",
   "original": "“Assamedhaṁ purisamedhaṁ,\nsammāpāsaṁ vājapeyyaṁ;\nNiraggaḷaṁ mahārambhā,\nna te honti mahapphalā.",
-  "text": "“Horse sacrifice, human sacrifice,\nthe ‘casting of the yoke-pin’, <j>the ‘royal soma drinking’,\nand the ‘unimpeded’—\nthese grand, violent sacrifices yield no great fruit."
+  "text": "“Horse sacrifice, human sacrifice,\nthe ‘casting of the yoke-pin’,\nthe ‘royal soma drinking’,\nand the ‘unimpeded’—\nthese grand, violent sacrifices yield no great fruit."
  },
  {
   "reference": "3.9.6",
@@ -4719,7 +4719,7 @@
  {
   "reference": "4.6.7",
   "original": "Nabhaṁ phaleyya pathavī caleyya,\nSabbepi pāṇā uda santaseyyuṁ;\nSallampi ce urasi pakappayeyyuṁ,\nUpadhīsu tāṇaṁ na karonti buddhā”ti.",
-  "text": "Though the firmament may split <j>and the earth may quake,\nand all creatures be stricken with fear;\nand even if an arrow’s aimed at their breast,\nthe Buddhas take no shelter in attachments.”"
+  "text": "Though the firmament may split\nand the earth may quake,\nand all creatures be stricken with fear;\nand even if an arrow’s aimed at their breast,\nthe Buddhas take no shelter in attachments.”"
  },
  {
   "reference": "4.6.8",
@@ -4745,12 +4745,12 @@
  {
   "reference": "4.7.4",
   "original": "“Kiṁ soppasi kiṁ nu soppasi,\nKimidaṁ soppasi dubbhago viya;\nSuññamagāranti soppasi,\nKimidaṁ soppasi sūriye uggate”ti.",
-  "text": "“What, you’re asleep? <j>Really, you’re asleep?\nYou sleep like a loser—<j>what’s up with that?\nYou sleep, thinking that the hut is empty.\nYou sleep when the sun has come up—<j>what’s up with that?”"
+  "text": "“What, you’re asleep?\nReally, you’re asleep?\nYou sleep like a loser—\nwhat’s up with that?\nYou sleep, thinking that the hut is empty.\nYou sleep when the sun has come up—\nwhat’s up with that?”"
  },
  {
   "reference": "4.7.5",
   "original": "“Yassa jālinī visattikā,\nTaṇhā natthi kuhiñci netave;\nSabbūpadhiparikkhayā buddho,\nSoppati kiṁ tavettha mārā”ti.",
-  "text": "“For them there is no craving—\nthe weaver, the clinger—<j>to track them anywhere.\nWith the ending of all attachments <j>the awakened Buddha sleeps.\nWhat’s that got to do with you, Māra?”"
+  "text": "“For them there is no craving—\nthe weaver, the clinger—\nto track them anywhere.\nWith the ending of all attachments\nthe awakened Buddha sleeps.\nWhat’s that got to do with you, Māra?”"
  },
  {
   "reference": "4.7.6",
@@ -4926,12 +4926,12 @@
  {
   "reference": "4.13.4",
   "original": "“Mandiyā nu kho sesi udāhu kāveyyamatto,\nAtthā nu te sampacurā na santi;\nEko vivitte sayanāsanamhi,\nNiddāmukho kimidaṁ soppase vā”ti.",
-  "text": "“Are you feeble that you lie down? <j>Or are you drunk on poetry?\nAre your goals not amply satisfied?\nAlone in a secluded lodging,\nwhy this sleeping, sleepyhead?”"
+  "text": "“Are you feeble that you lie down?\nOr are you drunk on poetry?\nAre your goals not amply satisfied?\nAlone in a secluded lodging,\nwhy this sleeping, sleepyhead?”"
  },
  {
   "reference": "4.13.5",
   "original": "“Na mandiyā sayāmi nāpi kāveyyamatto,\nAtthaṁ sameccāhamapetasoko;\nEko vivitte sayanāsanamhi,\nSayāmahaṁ sabbabhūtānukampī.",
-  "text": "“I’m not feeble that I lie down, <j>nor am I drunk on poetry.\nHaving reached the goal, I’m rid of sorrow.\nAlone in a secluded lodging,\nI lie down full of sympathy for all living creatures."
+  "text": "“I’m not feeble that I lie down,\nnor am I drunk on poetry.\nHaving reached the goal, I’m rid of sorrow.\nAlone in a secluded lodging,\nI lie down full of sympathy for all living creatures."
  },
  {
   "reference": "4.13.6",
@@ -5472,12 +5472,12 @@
  {
   "reference": "4.24.4",
   "original": "“Sokāvatiṇṇo nu vanamhi jhāyasi,\nVittaṁ nu jīno uda patthayāno;\nĀguṁ nu gāmasmimakāsi kiñci,\nKasmā janena na karosi sakkhiṁ;\nSakkhī na sampajjati kenaci te”ti.",
-  "text": "“Are you swamped by sorrow <j>that you meditate in the forest?\nHave you lost a fortune, or do you long for one?\nOr perhaps you’ve committed <j>some crime in the village?\nWhy don’t you get too close to people?\nAnd why does no one get close to you?”"
+  "text": "“Are you swamped by sorrow\nthat you meditate in the forest?\nHave you lost a fortune, or do you long for one?\nOr perhaps you’ve committed\nsome crime in the village?\nWhy don’t you get too close to people?\nAnd why does no one get close to you?”"
  },
  {
   "reference": "4.24.5",
   "original": "“Sokassa mūlaṁ palikhāya sabbaṁ,\nAnāgu jhāyāmi asocamāno;\nChetvāna sabbaṁ bhavalobhajappaṁ,\nAnāsavo jhāyāmi pamattabandhū”ti.",
-  "text": "“I’ve dug out the root of sorrow completely.\nI practice absorption free of guilt or sorrow.\nI’ve cut off all greed and muttered prayer for future lives.\nUndefiled, I practice absorption, <j>O kinsman of the negligent!”"
+  "text": "“I’ve dug out the root of sorrow completely.\nI practice absorption free of guilt or sorrow.\nI’ve cut off all greed and muttered prayer for future lives.\nUndefiled, I practice absorption,\nO kinsman of the negligent!”"
  },
  {
   "reference": "4.24.6",
@@ -5593,12 +5593,12 @@
  {
   "reference": "4.25.14",
   "original": "“Sokāvatiṇṇo nu vanamhi jhāyasi,\nVittaṁ nu jīno uda patthayāno;\nĀguṁ nu gāmasmimakāsi kiñci,\nKasmā janena na karosi sakkhiṁ;\nSakkhī na sampajjati kenaci te”ti.",
-  "text": "“Are you swamped by sorrow <j>that you meditate in the forest?\nHave you lost a fortune, or do you long for one?\nOr perhaps you’ve committed <j>some crime in the village?\nWhy don’t you get too close to people?\nAnd why does no one get close to you?”"
+  "text": "“Are you swamped by sorrow\nthat you meditate in the forest?\nHave you lost a fortune, or do you long for one?\nOr perhaps you’ve committed\nsome crime in the village?\nWhy don’t you get too close to people?\nAnd why does no one get close to you?”"
  },
  {
   "reference": "4.25.15",
   "original": "“Atthassa pattiṁ hadayassa santiṁ,\nJetvāna senaṁ piyasātarūpaṁ;\nEkohaṁ jhāyaṁ sukhamanubodhiṁ,\nTasmā janena na karomi sakkhiṁ;\nSakkhī na sampajjati kenaci me”ti.",
-  "text": "“I’ve reached the goal, peace of heart.\nHaving conquered the army <j>of the likable and pleasant,\nalone, practicing absorption, I awakened to bliss.\nThat’s why I don’t get too close to people,\nand no one gets too close to me.”"
+  "text": "“I’ve reached the goal, peace of heart.\nHaving conquered the army\nof the likable and pleasant,\nalone, practicing absorption, I awakened to bliss.\nThat’s why I don’t get too close to people,\nand no one gets too close to me.”"
  },
  {
   "reference": "4.25.16",
@@ -5608,17 +5608,17 @@
  {
   "reference": "4.25.17",
   "original": "“Kathaṁvihārībahulodha bhikkhu,\nPañcoghatiṇṇo atarīdha chaṭṭhaṁ;\nKathaṁ jhāyiṁ bahulaṁ kāmasaññā,\nParibāhirā honti aladdha yo tan”ti.",
-  "text": "“How does a mendicant who has crossed five floods\nusually meditate here while crossing the sixth?\nHow do they usually practice absorption <j>so that sensual perceptions\nare blocked out and don’t get hold of them?”"
+  "text": "“How does a mendicant who has crossed five floods\nusually meditate here while crossing the sixth?\nHow do they usually practice absorption\nso that sensual perceptions\nare blocked out and don’t get hold of them?”"
  },
  {
   "reference": "4.25.18",
   "original": "“Passaddhakāyo suvimuttacitto,\nAsaṅkharāno satimā anoko;\nAññāya dhammaṁ avitakkajhāyī,\nNa kuppati na sarati na thino.",
-  "text": "“With tranquil body and mind well freed,\nwithout making choices, mindful, homeless;\nunderstanding the teaching, <j>they practice absorption without placing the mind;\nthey’re not shaking or drifting or rigid."
+  "text": "“With tranquil body and mind well freed,\nwithout making choices, mindful, homeless;\nunderstanding the teaching,\nthey practice absorption without placing the mind;\nthey’re not shaking or drifting or rigid."
  },
  {
   "reference": "4.25.19",
   "original": "Evaṁvihārībahulodha bhikkhu,\nPañcoghatiṇṇo atarīdha chaṭṭhaṁ;\nEvaṁ jhāyiṁ bahulaṁ kāmasaññā,\nParibāhirā honti aladdha yo tan”ti.",
-  "text": "That’s how a mendicant who has crossed five floods\nusually meditates here while crossing the sixth.\nThat’s how they usually practice absorption <j>so that sensual perceptions\nare blocked out and don’t get hold of them.”"
+  "text": "That’s how a mendicant who has crossed five floods\nusually meditates here while crossing the sixth.\nThat’s how they usually practice absorption\nso that sensual perceptions\nare blocked out and don’t get hold of them.”"
  },
  {
   "reference": "4.25.20",
@@ -5990,12 +5990,12 @@
  {
   "reference": "5.7.5",
   "original": "“Tāvatiṁsā ca yāmā ca,\ntusitā cāpi devatā;\nNimmānaratino devā,\nye devā vasavattino;\nTattha cittaṁ paṇidhehi,\nratiṁ paccanubhossasī”ti.",
-  "text": "“There are the gods of the thirty-three, <j>and those of Yama;\nalso the Joyful Deities,\nthe gods who love to create,\nand the gods who control what is created by others.\nSet your heart on such places,\nand you’ll undergo delight.”"
+  "text": "“There are the gods of the thirty-three,\nand those of Yama;\nalso the Joyful Deities,\nthe gods who love to create,\nand the gods who control what is created by others.\nSet your heart on such places,\nand you’ll undergo delight.”"
  },
  {
   "reference": "5.7.6",
   "original": "“Tāvatiṁsā ca yāmā ca,\ntusitā cāpi devatā;\nNimmānaratino devā,\nye devā vasavattino;\nKāmabandhanabaddhā te,\nenti māravasaṁ puna.",
-  "text": "“The gods of the thirty-three, <j>and those of Yama;\nalso the Joyful Deities,\nthe gods who love to create,\nand the gods who control what is created by others—\nthey’re bound with the bonds of sensuality;\nthey fall under your sway again."
+  "text": "“The gods of the thirty-three,\nand those of Yama;\nalso the Joyful Deities,\nthe gods who love to create,\nand the gods who control what is created by others—\nthey’re bound with the bonds of sensuality;\nthey fall under your sway again."
  },
  {
   "reference": "5.7.7",
@@ -6153,7 +6153,7 @@
  {
   "reference": "5.10.8",
   "original": "“Kiṁ nu sattoti paccesi,\nmāra diṭṭhigataṁ nu te;\nSuddhasaṅkhārapuñjoyaṁ,\nnayidha sattupalabbhati.",
-  "text": "“Why do you believe there’s such a thing as a <j>‘sentient being’?\nMāra, is this your theory?\nThis is just a pile of conditions,\nyou won’t find a sentient being here."
+  "text": "“Why do you believe there’s such a thing as a\n‘sentient being’?\nMāra, is this your theory?\nThis is just a pile of conditions,\nyou won’t find a sentient being here."
  },
  {
   "reference": "5.10.9",
@@ -6224,12 +6224,12 @@
  {
   "reference": "6.1.11",
   "original": "“Pāturahosi magadhesu pubbe,\nDhammo asuddho samalehi cintito;\nApāpuretaṁ amatassa dvāraṁ,\nSuṇantu dhammaṁ vimalenānubuddhaṁ.",
-  "text": "“Among the Magadhans there appeared in the past\nan impure teaching thought up by the stained.\nFling open the door to freedom from death!\nLet them hear the teaching <j>the immaculate one discovered."
+  "text": "“Among the Magadhans there appeared in the past\nan impure teaching thought up by the stained.\nFling open the door to freedom from death!\nLet them hear the teaching\nthe immaculate one discovered."
  },
  {
   "reference": "6.1.12",
   "original": "Sele yathā pabbatamuddhaniṭṭhito,\nYathāpi passe janataṁ samantato;\nTathūpamaṁ dhammamayaṁ sumedha,\nPāsādamāruyha samantacakkhu;\nSokāvatiṇṇaṁ janatamapetasoko,\nAvekkhassu jātijarābhibhūtaṁ.",
-  "text": "Standing high on a rocky mountain,\nyou can see the people all around.\nIn just the same way, All-seer, so intelligent,\nhaving ascended the Temple of Truth,\nrid of sorrow, look upon the people\nswamped with sorrow, <j>overcome by rebirth and old age."
+  "text": "Standing high on a rocky mountain,\nyou can see the people all around.\nIn just the same way, All-seer, so intelligent,\nhaving ascended the Temple of Truth,\nrid of sorrow, look upon the people\nswamped with sorrow,\novercome by rebirth and old age."
  },
  {
   "reference": "6.1.13",
@@ -6259,7 +6259,7 @@
  {
   "reference": "6.1.18",
   "original": "“Apārutā tesaṁ amatassa dvārā,\nYe sotavanto pamuñcantu saddhaṁ;\nVihiṁsasaññī paguṇaṁ na bhāsiṁ,\nDhammaṁ paṇītaṁ manujesu brahme”ti.",
-  "text": "“Flung open are the doors to freedom from death!\nLet those with ears to hear commit to faith.\nThinking it would be troublesome, Divinity, <j>I did not teach\nthe sophisticated, sublime Dhamma among mankind.”"
+  "text": "“Flung open are the doors to freedom from death!\nLet those with ears to hear commit to faith.\nThinking it would be troublesome, Divinity,\nI did not teach\nthe sophisticated, sublime Dhamma among mankind.”"
  },
  {
   "reference": "6.1.19",
@@ -6381,37 +6381,37 @@
  {
   "reference": "6.3.9",
   "original": "“Dūre ito brāhmaṇi brahmaloko,\nYassāhutiṁ paggaṇhāsi niccaṁ;\nNetādiso brāhmaṇi brahmabhakkho,\nKiṁ jappasi brahmapathaṁ ajānaṁ.",
-  "text": "“Far from here is the realm of divinity, madam,\nto which you present a regular oblation.\nBut the Divinity doesn’t eat that kind of food.\nWhy pray, <j>when you don’t know the path to divinity?"
+  "text": "“Far from here is the realm of divinity, madam,\nto which you present a regular oblation.\nBut the Divinity doesn’t eat that kind of food.\nWhy pray,\nwhen you don’t know the path to divinity?"
  },
  {
   "reference": "6.3.10",
   "original": "Eso hi te brāhmaṇi brahmadevo,\nNirūpadhiko atidevapatto;\nAkiñcano bhikkhu anaññaposī,\nYo te so piṇḍāya gharaṁ paviṭṭho.",
-  "text": "This Brahmadeva, madam,\nfree of attachments, has surpassed the gods.\nOwning nothing, providing for no other, <j>a mendicant\nhas entered your house for alms."
+  "text": "This Brahmadeva, madam,\nfree of attachments, has surpassed the gods.\nOwning nothing, providing for no other,\na mendicant\nhas entered your house for alms."
  },
  {
   "reference": "6.3.11",
   "original": "Āhuneyyo vedagu bhāvitatto,\nNarānaṁ devānañca dakkhiṇeyyo;\nBāhitvā pāpāni anūpalitto,\nGhāsesanaṁ iriyati sītibhūto.",
-  "text": "He’s worthy of offerings dedicated to the gods, <j>a knowledge master, evolved.\nHe’s worthy of a religious donation <j>from gods and men.\nHaving banished all evils, he’s unsullied.\nCool at heart, he wanders searching for food."
+  "text": "He’s worthy of offerings dedicated to the gods,\na knowledge master, evolved.\nHe’s worthy of a religious donation\nfrom gods and men.\nHaving banished all evils, he’s unsullied.\nCool at heart, he wanders searching for food."
  },
  {
   "reference": "6.3.12",
   "original": "Na tassa pacchā na puratthamatthi,\nSanto vidhūmo anigho nirāso;\nNikkhittadaṇḍo tasathāvaresu,\nSo tyāhutiṁ bhuñjatu aggapiṇḍaṁ.",
-  "text": "He has no before and after,\npeaceful, unclouded, untroubled, <j>with no need for hope,\nhe has laid down the rod <j>for all creatures firm and frail.\nSo let him enjoy your offering of alms for the highest."
+  "text": "He has no before and after,\npeaceful, unclouded, untroubled,\nwith no need for hope,\nhe has laid down the rod\nfor all creatures firm and frail.\nSo let him enjoy your offering of alms for the highest."
  },
  {
   "reference": "6.3.13",
   "original": "Visenibhūto upasantacitto,\nNāgova danto carati anejo;\nBhikkhu susīlo suvimuttacitto,\nSo tyāhutiṁ bhuñjatu aggapiṇḍaṁ.",
-  "text": "With peaceful mind, he has left the crowd,\nhe wanders like a tamed elephant, unperturbed.\nHe’s a mendicant fair in ethics, with heart well freed.\nSo let him enjoy your offering <j>of alms for the highest."
+  "text": "With peaceful mind, he has left the crowd,\nhe wanders like a tamed elephant, unperturbed.\nHe’s a mendicant fair in ethics, with heart well freed.\nSo let him enjoy your offering\nof alms for the highest."
  },
  {
   "reference": "6.3.14",
   "original": "Tasmiṁ pasannā avikampamānā,\nPatiṭṭhapehi dakkhiṇaṁ dakkhiṇeyye;\nKarohi puññaṁ sukhamāyatikaṁ,\nDisvā muniṁ brāhmaṇi oghatiṇṇanti.",
-  "text": "With unwavering confidence in him,\npresent your religious donation <j>to one who is worthy of it.\nNow that you’ve seen the sage who has crossed over, <j>madam,\nmake merit for the sake of future happiness!”"
+  "text": "With unwavering confidence in him,\npresent your religious donation\nto one who is worthy of it.\nNow that you’ve seen the sage who has crossed over,\nmadam,\nmake merit for the sake of future happiness!”"
  },
  {
   "reference": "6.3.15",
   "original": "Tasmiṁ pasannā avikampamānā,\nPatiṭṭhapesi dakkhiṇaṁ dakkhiṇeyye;\nAkāsi puññaṁ sukhamāyatikaṁ,\nDisvā muniṁ brāhmaṇī oghatiṇṇan”ti.",
-  "text": "With unwavering confidence in him,\nshe presented her religious donation <j>to one who is worthy of it.\nAfter seeing the sage who had crossed over, <j>the brahmin lady\nmade merit for the sake of future happiness."
+  "text": "With unwavering confidence in him,\nshe presented her religious donation\nto one who is worthy of it.\nAfter seeing the sage who had crossed over,\nthe brahmin lady\nmade merit for the sake of future happiness."
  },
  {
   "reference": "6.4.1",
@@ -6442,7 +6442,7 @@
  {
   "reference": "6.4.6",
   "original": "“Dvāsattati gotama puññakammā,\nVasavattino jātijaraṁ atītā;\nAyamantimā vedagū brahmupapatti,\nAsmābhijappanti janā anekā”ti.",
-  "text": "“Gotama, we seventy-two merit-makers <j>are now wielders of power,\nhaving passed beyond rebirth and old age.\nThis is our last rebirth as the Divinity, <j>O knowledge master.\nAnd now many people pray to us.”"
+  "text": "“Gotama, we seventy-two merit-makers\nare now wielders of power,\nhaving passed beyond rebirth and old age.\nThis is our last rebirth as the Divinity,\nO knowledge master.\nAnd now many people pray to us.”"
  },
  {
   "reference": "6.4.7",
@@ -6472,12 +6472,12 @@
  {
   "reference": "6.4.12",
   "original": "Kappo ca te baddhacaro ahosiṁ,\nSambuddhimantaṁ vatinaṁ amaññi;\nTaṁ te purāṇaṁ vatasīlavattaṁ,\nSuttappabuddhova anussarāmī”ti.",
-  "text": "I used to be your footman named Kappa.\nYou thought he was intelligent and loyal.\nThat’s your past practice <j>of precept and observance.\nI recollect it like one who has wakened from sleep.”"
+  "text": "I used to be your footman named Kappa.\nYou thought he was intelligent and loyal.\nThat’s your past practice\nof precept and observance.\nI recollect it like one who has wakened from sleep.”"
  },
  {
   "reference": "6.4.13",
   "original": "“Addhā pajānāsi mametamāyuṁ,\nAññepi jānāsi tathā hi buddho;\nTathā hi tyāyaṁ jalitānubhāvo,\nObhāsayaṁ tiṭṭhati brahmalokan”ti.",
-  "text": "“You certainly understand this lifespan of mine.\nAnd others, too, you know; <j>that’s why you’re the Buddha.\nAnd that’s why your blazing glory\nlights up even the realm of divinity.”"
+  "text": "“You certainly understand this lifespan of mine.\nAnd others, too, you know;\nthat’s why you’re the Buddha.\nAnd that’s why your blazing glory\nlights up even the realm of divinity.”"
  },
  {
   "reference": "6.5.1",
@@ -6553,7 +6553,7 @@
  {
   "reference": "6.5.15",
   "original": "“Tevijjā iddhipattā ca,\ncetopariyāyakovidā;\nKhīṇāsavā arahanto,\nbahū buddhassa sāvakā”ti.",
-  "text": "“There are many disciples of the Buddha\nwho have the three knowledges,\nand have attained psychic power, <j>expert in encompassing minds,\nthey’re perfected ones with defilements ended.”"
+  "text": "“There are many disciples of the Buddha\nwho have the three knowledges,\nand have attained psychic power,\nexpert in encompassing minds,\nthey’re perfected ones with defilements ended.”"
  },
  {
   "reference": "6.5.16",
@@ -6563,7 +6563,7 @@
  {
   "reference": "6.5.17",
   "original": "‘Tevijjā iddhipattā ca,\ncetopariyāyakovidā;\nKhīṇāsavā arahanto,\nbahū buddhassa sāvakā’”ti.",
-  "text": "‘There are many disciples of the Buddha\nwho have the three knowledges,\nand have attained psychic power, <j>expert in encompassing minds,\nthey’re perfected ones with defilements ended.’”"
+  "text": "‘There are many disciples of the Buddha\nwho have the three knowledges,\nand have attained psychic power,\nexpert in encompassing minds,\nthey’re perfected ones with defilements ended.’”"
  },
  {
   "reference": "6.5.18",
@@ -6644,7 +6644,7 @@
  {
   "reference": "6.6.15",
   "original": "“Tayo supaṇṇā caturo ca haṁsā,\nByagghīnisā pañcasatā ca jhāyino;\nTayidaṁ vimānaṁ jalate ca brahme,\nObhāsayaṁ uttarassaṁ disāyan”ti.",
-  "text": "“There are three hundreds of phoenixes, <j>four of swans,\nand five of tigerhawks. <j>To he who practiced absorption\nbelongs this palace; it shines, Divinity,\nlighting up the northern quarter!”"
+  "text": "“There are three hundreds of phoenixes,\nfour of swans,\nand five of tigerhawks.\nTo he who practiced absorption\nbelongs this palace; it shines, Divinity,\nlighting up the northern quarter!”"
  },
  {
   "reference": "6.6.16",
@@ -6747,7 +6747,7 @@
  {
   "reference": "6.9.10",
   "original": "Sataṁ sahassānaṁ nirabbudānaṁ,\nChattiṁsati pañca ca abbudāni;\nYamariyagarahī nirayaṁ upeti,\nVācaṁ manañca paṇidhāya pāpakan”ti.",
-  "text": "For a hundred thousand times a hundred million,\ntimes five hundred and thirty-six times <j>a thousand times ten million years\na slanderer of noble ones goes to hell,\nhaving aimed bad words and thoughts at them.”"
+  "text": "For a hundred thousand times a hundred million,\ntimes five hundred and thirty-six times\na thousand times ten million years\na slanderer of noble ones goes to hell,\nhaving aimed bad words and thoughts at them.”"
  },
  {
   "reference": "6.10.1",
@@ -6868,7 +6868,7 @@
  {
   "reference": "6.10.24",
   "original": "Sataṁ sahassānaṁ nirabbudānaṁ,\nChattiṁsati pañca ca abbudāni;\nYamariyagarahī nirayaṁ upeti,\nVācaṁ manañca paṇidhāya pāpakan”ti.",
-  "text": "For a hundred thousand times a hundred million,\ntimes five hundred and thirty-six times <j>a thousand times ten million years\na slanderer of noble ones goes to hell,\nhaving aimed bad words and thoughts at them.”"
+  "text": "For a hundred thousand times a hundred million,\ntimes five hundred and thirty-six times\na thousand times ten million years\na slanderer of noble ones goes to hell,\nhaving aimed bad words and thoughts at them.”"
  },
  {
   "reference": "6.11.1",
@@ -7475,7 +7475,7 @@
  {
   "reference": "7.7.6",
   "original": "Khattiyo brāhmaṇo vesso,\nSuddo caṇḍālapukkuso;\nĀraddhavīriyo pahitatto,\nNiccaṁ daḷhaparakkamo;\nPappoti paramaṁ suddhiṁ,\nEvaṁ jānāhi brāhmaṇā”ti.",
-  "text": "Regardless of whether you’re an aristocrat,\na brahmin, peasant, menial, <j>or a corpse-worker or scavenger—\nif you’re energetic and resolute,\nalways staunchly vigorous,\nyou’ll attain ultimate purity.\nKnow that for a fact, brahmin.”"
+  "text": "Regardless of whether you’re an aristocrat,\na brahmin, peasant, menial,\nor a corpse-worker or scavenger—\nif you’re energetic and resolute,\nalways staunchly vigorous,\nyou’ll attain ultimate purity.\nKnow that for a fact, brahmin.”"
  },
  {
   "reference": "7.7.7",
@@ -7531,7 +7531,7 @@
  {
   "reference": "7.8.10",
   "original": "“Gāthābhigītaṁ me abhojaneyyaṁ,\nSampassataṁ brāhmaṇa nesa dhammo;\nGāthābhigītaṁ panudanti buddhā,\nDhamme sati brāhmaṇa vuttiresā.",
-  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin, <j>that’s how they live."
+  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin,\nthat’s how they live."
  },
  {
   "reference": "7.8.11",
@@ -7587,12 +7587,12 @@
  {
   "reference": "7.9.9",
   "original": "Saccena danto damasā upeto,\nVedantagū vusitabrahmacariyo;\nYaññopanīto tamupavhayetha,\nKālena so juhati dakkhiṇeyye”ti.",
-  "text": "Tamed by truth, fulfilled by taming,\na complete knowledge master <j>who has completed the spiritual journey—\nthat’s who a sacrificer should woo,\nand offer a timely oblation <j>to one worthy of a religious donation.”"
+  "text": "Tamed by truth, fulfilled by taming,\na complete knowledge master\nwho has completed the spiritual journey—\nthat’s who a sacrificer should woo,\nand offer a timely oblation\nto one worthy of a religious donation.”"
  },
  {
   "reference": "7.9.10",
   "original": "“Addhā suyiṭṭhaṁ suhutaṁ mama yidaṁ,\nYaṁ tādisaṁ vedagumaddasāmi;\nTumhādisānañhi adassanena,\nAñño jano bhuñjati habyasesan”ti.",
-  "text": "“My sacrificial offering <j>must have been well performed,\nsince I have met such a knowledge master!\nIt’s because I’d never met anyone like you\nthat others ate the leftover oblation."
+  "text": "“My sacrificial offering\nmust have been well performed,\nsince I have met such a knowledge master!\nIt’s because I’d never met anyone like you\nthat others ate the leftover oblation."
  },
  {
   "reference": "7.9.11",
@@ -7602,7 +7602,7 @@
  {
   "reference": "7.9.12",
   "original": "“Gāthābhigītaṁ me abhojaneyyaṁ,\nSampassataṁ brāhmaṇa nesa dhammo;\nGāthābhigītaṁ panudanti buddhā,\nDhamme sati brāhmaṇa vuttiresā.",
-  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin, <j>that’s how they live."
+  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin,\nthat’s how they live."
  },
  {
   "reference": "7.9.13",
@@ -7647,7 +7647,7 @@
  {
   "reference": "7.9.21",
   "original": "Dhammo rahado brāhmaṇa sīlatittho,\nAnāvilo sabbhi sataṁ pasattho;\nYattha have vedaguno sinātā,\nAnallagattāva taranti pāraṁ.",
-  "text": "The teaching is a lake, brahmin, <j>into which ethics are the stairs,\nunclouded, praised by the fine to the good.\nThere the knowledge masters go to bathe,\nand cross to the far shore with dry limbs."
+  "text": "The teaching is a lake, brahmin,\ninto which ethics are the stairs,\nunclouded, praised by the fine to the good.\nThere the knowledge masters go to bathe,\nand cross to the far shore with dry limbs."
  },
  {
   "reference": "7.9.22",
@@ -7824,7 +7824,7 @@
  {
   "reference": "7.11.14",
   "original": "“Gāthābhigītaṁ me abhojaneyyaṁ,\nSampassataṁ brāhmaṇa nesa dhammo;\nGāthābhigītaṁ panudanti buddhā,\nDhamme sati brāhmaṇa vuttiresā.",
-  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin, <j>that’s how they live."
+  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin,\nthat’s how they live."
  },
  {
   "reference": "7.11.15",
@@ -7870,7 +7870,7 @@
  {
   "reference": "7.12.7",
   "original": "Punappunaṁ jāyati mīyati ca,\nPunappunaṁ sivathikaṁ haranti;\nMaggañca laddhā apunabbhavāya,\nNa punappunaṁ jāyati bhūripañño”ti.",
-  "text": "Again and again, you’re reborn and die;\nagain and again, you get carried to a charnel ground.\nBut when they’ve gained the path <j>for no further rebirth,\none of vast wisdom is not reborn again and again.”"
+  "text": "Again and again, you’re reborn and die;\nagain and again, you get carried to a charnel ground.\nBut when they’ve gained the path\nfor no further rebirth,\none of vast wisdom is not reborn again and again.”"
  },
  {
   "reference": "7.12.8",
@@ -8231,7 +8231,7 @@
  {
   "reference": "7.18.7",
   "original": "Maññāmahaṁ lokādhipatisahabyataṁ,\nĀkaṅkhamāno tidivaṁ anuttaraṁ;\nKasmā bhavaṁ vijanamaraññamassito,\nTapo idha kubbasi brahmapattiyā”ti.",
-  "text": "I suppose you wish to be reborn in the company\nof the supreme world-sovereign <j>of the Third Heaven.\nIs that why you resort to the desolate wilderness,\nto practice fervor for attaining divinity?”"
+  "text": "I suppose you wish to be reborn in the company\nof the supreme world-sovereign\nof the Third Heaven.\nIs that why you resort to the desolate wilderness,\nto practice fervor for attaining divinity?”"
  },
  {
   "reference": "7.18.8",
@@ -8241,7 +8241,7 @@
  {
   "reference": "7.18.9",
   "original": "Svāhaṁ akaṅkho asito anūpayo,\nSabbesu dhammesu visuddhadassano;\nPappuyya sambodhimanuttaraṁ sivaṁ,\nJhāyāmahaṁ brahma raho visārado”ti.",
-  "text": "So I’m wishless, unattached, uninvolved;\namongst all things, my vision is clear.\nI’ve attained the state of grace, <j>the supreme awakening;\nI meditate alone, brahmin, and self-assured.”"
+  "text": "So I’m wishless, unattached, uninvolved;\namongst all things, my vision is clear.\nI’ve attained the state of grace,\nthe supreme awakening;\nI meditate alone, brahmin, and self-assured.”"
  },
  {
   "reference": "7.18.10",
@@ -8354,7 +8354,7 @@
  {
   "reference": "7.21.9",
   "original": "“Dhammo rahado brāhmaṇa sīlatittho,\nAnāvilo sabbhi sataṁ pasattho;\nYattha have vedaguno sinātā,\nAnallagattāva taranti pāran”ti.",
-  "text": "“The teaching is a lake, brahmin, <j>into which ethics are the stairs,\nunclouded, praised by the fine to the good.\nThere the knowledge masters go to bathe,\nand cross to the far shore with dry limbs.”"
+  "text": "“The teaching is a lake, brahmin,\ninto which ethics are the stairs,\nunclouded, praised by the fine to the good.\nThere the knowledge masters go to bathe,\nand cross to the far shore with dry limbs.”"
  },
  {
   "reference": "7.21.10",
@@ -8385,7 +8385,7 @@
  {
   "reference": "7.22.5",
   "original": "“Nesā sabhā yattha na santi santo,\nSanto na te ye na vadanti dhammaṁ;\nRāgañca dosañca pahāya mohaṁ,\nDhammaṁ vadantā ca bhavanti santo”ti.",
-  "text": "“If good people are not present it is no true council;\nand those whose speak against principle <j>are not good people.\nHaving given up greed, hate, and delusion,\nspeakers of principle are good people.”"
+  "text": "“If good people are not present it is no true council;\nand those whose speak against principle\nare not good people.\nHaving given up greed, hate, and delusion,\nspeakers of principle are good people.”"
  },
  {
   "reference": "7.22.6",
@@ -8482,12 +8482,12 @@
  {
   "reference": "8.2.8",
   "original": "Upadhīsu janā gadhitāse,\nDiṭṭhasute paṭighe ca mute ca;\nEttha vinodaya chandamanejo,\nYo ettha na limpati taṁ munimāhu.",
-  "text": "People are bound to their attachments,\nto impingement of the seen and heard, <j>and to what is thought.\nUnstirred, dispel desire for these things;\nfor one called ‘a sage’ does not cling to them."
+  "text": "People are bound to their attachments,\nto impingement of the seen and heard,\nand to what is thought.\nUnstirred, dispel desire for these things;\nfor one called ‘a sage’ does not cling to them."
  },
  {
   "reference": "8.2.9",
   "original": "Atha saṭṭhinissitā savitakkā,\nPuthū janatāya adhammā niviṭṭhā;\nNa ca vaggagatassa kuhiñci,\nNo pana duṭṭhullabhāṇī sa bhikkhu.",
-  "text": "Trapped in the sixty wrong views, <j>full of their own opinions,\nordinary people are fixed in wrong principles.\nBut that mendicant wouldn’t join a sect,\nstill less would they utter lewd speech."
+  "text": "Trapped in the sixty wrong views,\nfull of their own opinions,\nordinary people are fixed in wrong principles.\nBut that mendicant wouldn’t join a sect,\nstill less would they utter lewd speech."
  },
  {
   "reference": "8.2.10",
@@ -8737,7 +8737,7 @@
  {
   "reference": "8.7.10",
   "original": "“Ajja pannarase visuddhiyā,\nBhikkhū pañcasatā samāgatā;\nSaṁyojanabandhanacchidā,\nAnīghā khīṇapunabbhavā isī.",
-  "text": "“Today, on the fifteenth day sabbath,\nfive hundred monks have gathered together <j>to purify their precepts.\nThese untroubled sages <j>have cut off their fetters and bonds,\nthey will not be reborn again."
+  "text": "“Today, on the fifteenth day sabbath,\nfive hundred monks have gathered together\nto purify their precepts.\nThese untroubled sages\nhave cut off their fetters and bonds,\nthey will not be reborn again."
  },
  {
   "reference": "8.7.11",
@@ -8930,7 +8930,7 @@
  {
   "reference": "8.10.8",
   "original": "Evaṁ sabbaṅgasampannaṁ,\nMuniṁ dukkhassa pāraguṁ;\nAnekākārasampannaṁ,\nPayirupāsanti gotaman”ti.",
-  "text": "That is how those endowed <j>with many fine qualities\nrevere Gotama,\nthe sage gone beyond suffering,\nperfect in every respect.”"
+  "text": "That is how those endowed\nwith many fine qualities\nrevere Gotama,\nthe sage gone beyond suffering,\nperfect in every respect.”"
  },
  {
   "reference": "8.11.1",
@@ -8997,7 +8997,7 @@
  {
   "reference": "8.12.7",
   "original": "Pubbenivāsaṁ jānāmi,\nDibbacakkhuṁ visodhitaṁ;\nTevijjo iddhipattomhi,\nCetopariyāyakovido”ti.",
-  "text": "I know my past lives,\nmy clairvoyance is purified,\nI am master of three knowledges, <j>attained in psychic power,\nexpert in encompassing the minds of others.”"
+  "text": "I know my past lives,\nmy clairvoyance is purified,\nI am master of three knowledges,\nattained in psychic power,\nexpert in encompassing the minds of others.”"
  },
  {
   "reference": "9.1.1",
@@ -9054,7 +9054,7 @@
  {
   "reference": "9.2.5",
   "original": "“Aniccā addhuvā kāmā,\nyesu mandova mucchito;\nBaddhesu muttaṁ asitaṁ,\nkasmā pabbajitaṁ tape.",
-  "text": "“Sensual pleasures are impermanent and unstable,\nbut dullards still fall for them.\nAmong those who are bound, <j>they’re free and unattached:\nwhy bother a renunciate?"
+  "text": "“Sensual pleasures are impermanent and unstable,\nbut dullards still fall for them.\nAmong those who are bound,\nthey’re free and unattached:\nwhy bother a renunciate?"
  },
  {
   "reference": "9.2.6",
@@ -9116,7 +9116,7 @@
  {
   "reference": "9.4.3",
   "original": "“Arati viya mejja khāyati,\nBahuke disvāna vivitte āsane;\nTe cittakathā bahussutā,\nKome gotamasāvakā gatā”ti.",
-  "text": "“Dissatisfaction, <j>it seems to me today,\nseeing so many vacated seats.\nThey were so learned, such brilliant speakers!\nWhere have these disciples of Gotama gone?”"
+  "text": "“Dissatisfaction,\nit seems to me today,\nseeing so many vacated seats.\nThey were so learned, such brilliant speakers!\nWhere have these disciples of Gotama gone?”"
  },
  {
   "reference": "9.4.4",
@@ -9282,12 +9282,12 @@
  {
   "reference": "9.10.3",
   "original": "“Kasmā tuvaṁ dhammapadāni bhikkhu,\nNādhīyasi bhikkhuhi saṁvasanto;\nSutvāna dhammaṁ labhatippasādaṁ,\nDiṭṭheva dhamme labhatippasaṁsan”ti.",
-  "text": "“Mendicant, why don’t you recite <j>passages of the teaching,\nliving together with other mendicants?\nHearing the teaching, one garners confidence;\nand in this very life, one garners praise.”"
+  "text": "“Mendicant, why don’t you recite\npassages of the teaching,\nliving together with other mendicants?\nHearing the teaching, one garners confidence;\nand in this very life, one garners praise.”"
  },
  {
   "reference": "9.10.4",
   "original": "“Ahu pure dhammapadesu chando,\nYāva virāgena samāgamimha;\nYato virāgena samāgamimha,\nYaṁ kiñci diṭṭhaṁva sutaṁ mutaṁ vā;\nAññāya nikkhepanamāhu santo”ti.",
-  "text": "“I used to be zealous for <j>passages of the teaching,\nuntil I encountered dispassion.\nWhen I encountered dispassion,\nwhatever was seen, heard, and thought,\nthis, good people say, is the laying down <j>by complete understanding.”"
+  "text": "“I used to be zealous for\npassages of the teaching,\nuntil I encountered dispassion.\nWhen I encountered dispassion,\nwhatever was seen, heard, and thought,\nthis, good people say, is the laying down\nby complete understanding.”"
  },
  {
   "reference": "9.11.1",
@@ -9534,7 +9534,7 @@
  {
   "reference": "10.3.12",
   "original": "Snehajā attasambhūtā,\nnigrodhasseva khandhajā;\nPuthū visattā kāmesu,\nmāluvāva vitatā vane.",
-  "text": "Born of affection, originating in oneself,\nlike prop roots sprouting from a banyan;\nthe many kinds of attachment to sensual pleasures\nare like camel’s foot creeper <j>creeping through the woods."
+  "text": "Born of affection, originating in oneself,\nlike prop roots sprouting from a banyan;\nthe many kinds of attachment to sensual pleasures\nare like camel’s foot creeper\ncreeping through the woods."
  },
  {
   "reference": "10.3.13",
@@ -15253,7 +15253,7 @@
  {
   "reference": "12.70.57",
   "original": "“Tasmātiha, susima, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ netaṁ mama nesohamasmi na meso attāti; evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yā kāci vedanā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, sabbā vedanā netaṁ mama nesohamasmi na meso attāti; evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yā kāci saññā …pe… ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā ye dūre santike vā, sabbe saṅkhārā netaṁ mama nesohamasmi na meso attāti; evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ netaṁ mama nesohamasmi na meso attāti; evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "“So, Susīma, you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> feeling—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of perception at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> perception—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of choices at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> choices—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“So, Susīma, you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all feeling—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of perception at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all perception—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of choices at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all choices—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "12.70.58",
@@ -19820,7 +19820,7 @@
  {
   "reference": "18.21.4",
   "original": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati.",
-  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "18.21.5",
@@ -19846,12 +19846,12 @@
  {
   "reference": "18.22.4",
   "original": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti.",
-  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
+  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
  },
  {
   "reference": "18.22.5",
   "original": "Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti.",
-  "text": "One truly sees any kind of feeling … perception … choices … One truly sees any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
+  "text": "One truly sees any kind of feeling … perception … choices … One truly sees any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
  },
  {
   "reference": "18.22.6",
@@ -20319,7 +20319,7 @@
  {
   "reference": "20.7.2",
   "original": "“Bhūtapubbaṁ, bhikkhave, dasārahānaṁ ānako nāma mudiṅgo ahosi. Tassa dasārahā ānake ghaṭite aññaṁ āṇiṁ odahiṁsu. Ahu kho so, bhikkhave, samayo yaṁ ānakassa mudiṅgassa porāṇaṁ pokkharaphalakaṁ antaradhāyi. Āṇisaṅghāṭova avasissi.",
-  "text": "“Once upon a time, mendicants, the Dasārahas had a <em>mridangam</em> drum called the Plugger. When the Plugger cracked, the Dasārahas patched it with another plug. Eventually, there came a time when the old wooden shell for the drumskin disappeared and all that was left of the <em>mridangam</em> Plugger was a mass of plugs."
+  "text": "“Once upon a time, mendicants, the Dasārahas had a mridangam drum called the Plugger. When the Plugger cracked, the Dasārahas patched it with another plug. Eventually, there came a time when the old wooden shell for the drumskin disappeared and all that was left of the mridangam Plugger was a mass of plugs."
  },
  {
   "reference": "20.7.3",
@@ -23160,12 +23160,12 @@
  {
   "reference": "22.49.17",
   "original": "“Tasmātiha, soṇa, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "“So, Soṇa, you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“So, Soṇa, you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.49.18",
   "original": "Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.49.19",
@@ -23980,7 +23980,7 @@
  {
   "reference": "22.59.24",
   "original": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.59.25",
@@ -24000,7 +24000,7 @@
  {
   "reference": "22.59.28",
   "original": "Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "You should truly see any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "You should truly see any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.59.29",
@@ -24882,12 +24882,12 @@
  {
   "reference": "22.71.3",
   "original": "“Yaṁ kiñci, rādha, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati.",
-  "text": "“Rādha, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“Rādha, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.71.4",
   "original": "Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati.",
-  "text": "One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.71.5",
@@ -24918,12 +24918,12 @@
  {
   "reference": "22.72.4",
   "original": "“Yaṁ kiñci, surādha, rūpaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādāvimutto hoti.",
-  "text": "“Surādha, one is freed by not grasping having truly seen any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“Surādha, one is freed by not grasping having truly seen any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.72.5",
   "original": "Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbā vedanā …pe… sabbā saññā … sabbe saṅkhārā … sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādāvimutto hoti.",
-  "text": "One is freed by not grasping having truly seen any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "One is freed by not grasping having truly seen any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.72.6",
@@ -25250,7 +25250,7 @@
  {
   "reference": "22.79.25",
   "original": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.79.26",
@@ -25673,7 +25673,7 @@
  {
   "reference": "22.82.33",
   "original": "“Yaṁ kiñci, bhikkhu, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. Evaṁ kho, bhikkhu, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti.",
-  "text": "“One truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’ That’s how to know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs.”"
+  "text": "“One truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’ That’s how to know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs.”"
  },
  {
   "reference": "22.82.34",
@@ -25743,7 +25743,7 @@
  {
   "reference": "22.82.47",
   "original": "“Dve khandhā taññeva siyaṁ,\nadhivacanañca hetunā;\nSakkāyena duve vuttā,\nassādaviññāṇakena ca;\nEte dasavidhā vuttā,\nhoti bhikkhu pucchāyā”ti.",
-  "text": "“Two on the aggregates; exactly the same; <j>and can there be;\non the term; and on the cause;\ntwo questions on substantial reality;\ngratification; and that with consciousness:\nthese are the ten questions\nthe monk came to ask.”"
+  "text": "“Two on the aggregates; exactly the same;\nand can there be;\non the term; and on the cause;\ntwo questions on substantial reality;\ngratification; and that with consciousness:\nthese are the ten questions\nthe monk came to ask.”"
  },
  {
   "reference": "22.83.1",
@@ -27107,12 +27107,12 @@
  {
   "reference": "22.91.4",
   "original": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati.",
-  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.91.5",
   "original": "Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā …pe… sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati.",
-  "text": "One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.91.6",
@@ -27138,12 +27138,12 @@
  {
   "reference": "22.92.4",
   "original": "“Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā …pe… yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti.",
-  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
+  "text": "“Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
  },
  {
   "reference": "22.92.5",
   "original": "Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti.",
-  "text": "One truly sees any kind of feeling … perception … choices … One truly sees any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
+  "text": "One truly sees any kind of feeling … perception … choices … One truly sees any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping."
  },
  {
   "reference": "22.92.6",
@@ -28440,12 +28440,12 @@
  {
   "reference": "22.124.4",
   "original": "“Yaṁ kiñci, kappa, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati.",
-  "text": "“Kappa, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“Kappa, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.124.5",
   "original": "Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati.",
-  "text": "One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.124.6",
@@ -28471,12 +28471,12 @@
  {
   "reference": "22.125.4",
   "original": "“Yaṁ kiñci, kappa, rūpaṁ atītānāgatapaccuppannaṁ …pe… sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādāvimutto hoti.",
-  "text": "“Kappa, one is freed by not grasping having truly seen any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“Kappa, one is freed by not grasping having truly seen any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.125.5",
   "original": "Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādāvimutto hoti.",
-  "text": "One is freed by not grasping having truly seen any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "One is freed by not grasping having truly seen any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "22.125.6",
@@ -32004,7 +32004,7 @@
  {
   "reference": "24.71.16",
   "original": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "24.71.17",
@@ -32101,7 +32101,7 @@
  {
   "reference": "24.96.17",
   "original": "“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā, oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "24.96.18",
@@ -37354,7 +37354,7 @@
  {
   "reference": "35.94.15",
   "original": "Saddañca sutvā dubhayaṁ piyāppiyaṁ,\nPiyamhi sadde na samucchito siyā;\nAthoppiye dosagataṁ vinodaye,\nNa cāppiyaṁ meti manaṁ padosaye.",
-  "text": "When you’ve heard sounds both liked and disliked,\ndon’t fall under the thrall of sounds you like,\ndispel hate for the unliked,\nand don’t hurt your mind <j>by thinking of what you don’t like."
+  "text": "When you’ve heard sounds both liked and disliked,\ndon’t fall under the thrall of sounds you like,\ndispel hate for the unliked,\nand don’t hurt your mind\nby thinking of what you don’t like."
  },
  {
   "reference": "35.94.16",
@@ -37369,17 +37369,17 @@
  {
   "reference": "35.94.18",
   "original": "Phassena phuṭṭho na sukhena majje,\nDukkhena phuṭṭhopi na sampavedhe;\nPhassadvayaṁ sukhadukkhe upekkhe,\nAnānuruddho aviruddha kenaci.",
-  "text": "Don’t be intoxicated by a pleasant touch,\nand don’t tremble at a painful touch.\nLook with equanimity at the duality <j>of pleasant and painful contacts,\nwithout favoring or opposing anything."
+  "text": "Don’t be intoxicated by a pleasant touch,\nand don’t tremble at a painful touch.\nLook with equanimity at the duality\nof pleasant and painful contacts,\nwithout favoring or opposing anything."
  },
  {
   "reference": "35.94.19",
   "original": "Papañcasaññā itarītarā narā,\nPapañcayantā upayanti saññino;\nManomayaṁ gehasitañca sabbaṁ,\nPanujja nekkhammasitaṁ irīyati.",
-  "text": "People generally let their perceptions proliferate;\nperceiving and proliferating, they are attracted.\nCasting aside all mental constructions <j>of the domestic life,\nwander intent on renunciation."
+  "text": "People generally let their perceptions proliferate;\nperceiving and proliferating, they are attracted.\nCasting aside all mental constructions\nof the domestic life,\nwander intent on renunciation."
  },
  {
   "reference": "35.94.20",
   "original": "Evaṁ mano chassu yadā subhāvito,\nPhuṭṭhassa cittaṁ na vikampate kvaci;\nTe rāgadose abhibhuyya bhikkhavo,\nBhavattha jātimaraṇassa pāragā”ti.",
-  "text": "When the mind is well developed like this <j>regarding the six,\nit doesn’t waver at contacts at all.\nMendicants, those who have mastered greed and hate\ngo beyond birth and death.”"
+  "text": "When the mind is well developed like this\nregarding the six,\nit doesn’t waver at contacts at all.\nMendicants, those who have mastered greed and hate\ngo beyond birth and death.”"
  },
  {
   "reference": "35.95.1",
@@ -39202,22 +39202,22 @@
  {
   "reference": "35.132.6",
   "original": "Dhamme ca jhāne ca ratā ahesuṁ,\nTe brāhmaṇā ye purāṇaṁ saranti.",
-  "text": "Those brahmins who remembered <j>the ancient legends\nenjoyed virtue and absorption."
+  "text": "Those brahmins who remembered\nthe ancient legends\nenjoyed virtue and absorption."
  },
  {
   "reference": "35.132.7",
   "original": "Ime ca vokkamma japāmaseti,\nGottena mattā visamaṁ caranti;\nKodhābhibhūtā puthuattadaṇḍā,\nVirajjamānā sataṇhātaṇhesu.",
-  "text": "But these have lost their way. <j>Saying, ‘We must pray’,\nthey live out of balance, judging by clan.\nMastered by anger, they take up many arms,\nindifferent to those with craving and without."
+  "text": "But these have lost their way.\nSaying, ‘We must pray’,\nthey live out of balance, judging by clan.\nMastered by anger, they take up many arms,\nindifferent to those with craving and without."
  },
  {
   "reference": "35.132.8",
   "original": "Aguttadvārassa bhavanti moghā,\nSupineva laddhaṁ purisassa vittaṁ;\nAnāsakā thaṇḍilasāyikā ca,\nPāto sinānañca tayo ca vedā.",
-  "text": "All is vain for someone <j>who doesn’t guard the sense doors,\nlike the wealth a person finds in a dream.\nFasting, sleeping on bare ground,\nbathing at daybreak, the three Vedas,"
+  "text": "All is vain for someone\nwho doesn’t guard the sense doors,\nlike the wealth a person finds in a dream.\nFasting, sleeping on bare ground,\nbathing at daybreak, the three Vedas,"
  },
  {
   "reference": "35.132.9",
   "original": "Kharājinaṁ jaṭāpaṅko,\nmantā sīlabbataṁ tapo;\nKuhanā vaṅkadaṇḍā ca,\nudakācamanāni ca;\nVaṇṇā ete brāhmaṇānaṁ,\nkatā kiñcikkhabhāvanā.",
-  "text": "rough hides, dreadlocks, and mud,\nhymns, precepts and observances, <j>and fervent austerities,\nfawning, bent staffs,\nand sipping water.\nThese emblems of the brahmins\nare only used to generate profits."
+  "text": "rough hides, dreadlocks, and mud,\nhymns, precepts and observances,\nand fervent austerities,\nfawning, bent staffs,\nand sipping water.\nThese emblems of the brahmins\nare only used to generate profits."
  },
  {
   "reference": "35.132.10",
@@ -40923,7 +40923,7 @@
  {
   "reference": "35.228.5",
   "original": "“Yo imaṁ samuddaṁ sagāhaṁ sarakkhasaṁ,\nSaūmiṁ sāvaṭṭaṁ sabhayaṁ duttaraṁ accatari;\nSa vedagū vusitabrahmacariyo,\nLokantagū pāragatoti vuccatī”ti.",
-  "text": "“A knowledge master who’s crossed <j>the ocean so hard to cross,\nwith its saltwater crocodiles and monsters, <j>its waves, whirlpools, and dangers;\nthey’ve completed the spiritual journey and gone to the end of the world,\nthey’re called ‘one who has gone beyond’.”"
+  "text": "“A knowledge master who’s crossed\nthe ocean so hard to cross,\nwith its saltwater crocodiles and monsters,\nits waves, whirlpools, and dangers;\nthey’ve completed the spiritual journey and gone to the end of the world,\nthey’re called ‘one who has gone beyond’.”"
  },
  {
   "reference": "35.229.1",
@@ -40944,12 +40944,12 @@
  {
   "reference": "35.229.4",
   "original": "Yassa rāgo ca doso ca,\nAvijjā ca virājitā;\nSo imaṁ samuddaṁ sagāhaṁ sarakkhasaṁ,\nSaūmibhayaṁ duttaraṁ accatari.",
-  "text": "Those in whom greed, hate, and ignorance\nhave faded away;\nhave crossed the ocean so hard to cross,\nwith its saltwater crocodiles and monsters, <j>its waves and dangers."
+  "text": "Those in whom greed, hate, and ignorance\nhave faded away;\nhave crossed the ocean so hard to cross,\nwith its saltwater crocodiles and monsters,\nits waves and dangers."
  },
  {
   "reference": "35.229.5",
   "original": "Saṅgātigo maccujaho nirupadhi,\nPahāsi dukkhaṁ apunabbhavāya;\nAtthaṅgato so na puneti,\nAmohayī maccurājanti brūmī”ti.",
-  "text": "They’ve slipped their chains, given up death, and have no attachments.\nThey’ve given up suffering, <j>so there are no more future lives.\nThey’ve disappeared, and cannot be measured;\nand they’ve confounded the King of Death, I say.”"
+  "text": "They’ve slipped their chains, given up death, and have no attachments.\nThey’ve given up suffering,\nso there are no more future lives.\nThey’ve disappeared, and cannot be measured;\nand they’ve confounded the King of Death, I say.”"
  },
  {
   "reference": "35.230.1",
@@ -42749,7 +42749,7 @@
  {
   "reference": "36.6.22",
   "original": "Tassānurodhā athavā virodhā,\nVidhūpitā atthagatā na santi;\nPadañca ñatvā virajaṁ asokaṁ,\nSammā pajānāti bhavassa pāragū”ti.",
-  "text": "Both favoring and opposing\nare cleared and ended, and are no more.\nKnowing the stainless, sorrowless state,\nthey who have gone beyond rebirth <j>understand rightly.”"
+  "text": "Both favoring and opposing\nare cleared and ended, and are no more.\nKnowing the stainless, sorrowless state,\nthey who have gone beyond rebirth\nunderstand rightly.”"
  },
  {
   "reference": "36.7.1",
@@ -48197,7 +48197,7 @@
  {
   "reference": "44.2.21",
   "original": "“Tasmātiha, anurādha, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yā kāci vedanā atītānāgatapaccuppannā …pe… yā kāci saññā …pe… ye keci saṅkhārā …pe… yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.",
-  "text": "“So, Anurādha, you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ Any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: <em>all</em> consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+  "text": "“So, Anurādha, you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ Any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
  },
  {
   "reference": "44.2.22",
@@ -54092,7 +54092,7 @@
  {
   "reference": "47.18.8",
   "original": "“Ekāyanaṁ jātikhayantadassī,\nMaggaṁ pajānāti hitānukampī;\nEtena maggena tariṁsu pubbe,\nTarissanti ye ca taranti oghan”ti.",
-  "text": "“The compassionate one, <j>who sees the ending of rebirth,\nunderstands the path to convergence.\nBy this path people crossed over before,\nwill cross, and are crossing.”"
+  "text": "“The compassionate one,\nwho sees the ending of rebirth,\nunderstands the path to convergence.\nBy this path people crossed over before,\nwill cross, and are crossing.”"
  },
  {
   "reference": "47.19.1",
@@ -54697,7 +54697,7 @@
  {
   "reference": "47.43.7",
   "original": "‘Ekāyanaṁ jātikhayantadassī,\nMaggaṁ pajānāti hitānukampī;\nEtena maggena tariṁsu pubbe,\nTarissanti ye ca taranti oghan’”ti.",
-  "text": "‘The compassionate one, <j>who sees the ending of rebirth,\nunderstands the path to convergence.\nBy this path people crossed over before,\nwill cross over, and are crossing over.’”"
+  "text": "‘The compassionate one,\nwho sees the ending of rebirth,\nunderstands the path to convergence.\nBy this path people crossed over before,\nwill cross over, and are crossing over.’”"
  },
  {
   "reference": "47.44.1",
@@ -56490,7 +56490,7 @@
  {
   "reference": "49.1-12.15",
   "original": "(Sammappadhānasaṁyuttassa gaṅgāpeyyālī sammappadhānavasena vitthāretabbā.)",
-  "text": "(Tell in full as in <a href='https://suttacentral.net/sn45.92'>SN 45.92</a>–102.)"
+  "text": "(Tell in full as in SN 45.92–102.)"
  },
  {
   "reference": "49.13-22.1",
@@ -56854,7 +56854,7 @@
  {
   "reference": "51.10.21",
   "original": "“Tulamatulañca sambhavaṁ,\nBhavasaṅkhāramavassaji muni;\nAjjhattarato samāhito,\nAbhindi kavacamivattasambhavan”ti.",
-  "text": "“Comparing the incomparable <j>with the creation of prolonged life,\nthe sage surrendered the life force.\nHappy inside, serene,\nhe shattered self-creation like a suit of armor.”"
+  "text": "“Comparing the incomparable\nwith the creation of prolonged life,\nthe sage surrendered the life force.\nHappy inside, serene,\nhe shattered self-creation like a suit of armor.”"
  },
  {
   "reference": "51.11.1",
@@ -57878,7 +57878,7 @@
  {
   "reference": "52.8.1",
   "original": "Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati salaḷāgāre. Tatra kho āyasmā anuruddho bhikkhū āmantesi …pe… etadavoca: “seyyathāpi, āvuso, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. Atha mahājanakāyo āgaccheyya kudālapiṭakaṁ ādāya: ‘mayaṁ imaṁ gaṅgānadiṁ pacchāninnaṁ karissāma pacchāpoṇaṁ pacchāpabbhāran’ti. Taṁ kiṁ maññathāvuso, api nu so mahājanakāyo gaṅgānadiṁ pacchāninnaṁ kareyya pacchāpoṇaṁ pacchāpabbhāran”ti?",
-  "text": "At one time Venerable Anuruddha was staying near Sāvatthī in the <i lang='pi' translate='no'>salaḷa</i> tree hut. There Venerable Anuruddha addressed the mendicants: “Reverends, suppose that, although the Ganges River slants, slopes, and inclines to the east, a large crowd were to come along with a spade and basket, saying: ‘We’ll make this Ganges River slant, slope, and incline to the west!’ What do you think, reverends? Would they succeed?”",
+  "text": "At one time Venerable Anuruddha was staying near Sāvatthī in the salaḷa tree hut. There Venerable Anuruddha addressed the mendicants: “Reverends, suppose that, although the Ganges River slants, slopes, and inclines to the east, a large crowd were to come along with a spade and basket, saying: ‘We’ll make this Ganges River slant, slope, and incline to the west!’ What do you think, reverends? Would they succeed?”",
   "title": "The Salaḷa Tree Hut (Salaḷāgārasutta)"
  },
  {
@@ -59903,7 +59903,7 @@
  {
   "reference": "55.23.3",
   "original": "Tvaṁ pana, mahānāma, katihi dhammehi samannāgataṁ sotāpannapuggalaṁ ājānāsi avinipātadhammaṁ niyataṁ sambodhiparāyaṇan”ti?",
-  "text": "But Mahānāma, how many things must an individual have for <em>you</em> to recognize them as a stream-enterer?”"
+  "text": "But Mahānāma, how many things must an individual have for you to recognize them as a stream-enterer?”"
  },
  {
   "reference": "55.23.4",
@@ -60733,7 +60733,7 @@
  {
   "reference": "55.43.5",
   "original": "“Yo puññakāmo kusale patiṭṭhito,\nBhāveti maggaṁ amatassa pattiyā;\nSo dhammasārādhigamo khaye rato,\nNa vedhati maccurājāgamanasmin”ti.",
-  "text": "“One who desires merit, grounded in the skillful,\ndevelops the path to realize freedom from death.\nOnce they’ve reached the heart of the teaching, <j>delighting in ending,\nthey don’t tremble at the approach <j>of the King of Death.”"
+  "text": "“One who desires merit, grounded in the skillful,\ndevelops the path to realize freedom from death.\nOnce they’ve reached the heart of the teaching,\ndelighting in ending,\nthey don’t tremble at the approach\nof the King of Death.”"
  },
  {
   "reference": "55.44.1",

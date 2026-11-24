@@ -27,6 +27,16 @@ def norm_ref(r):
     return ".".join(str(int(p)) if p.isdigit() else p for p in str(r).split("."))
 
 
+def dandas(s):
+    """One daṇḍa convention for the reader's Devanagari. The sources each kept their own stand-in: GRETIL's / and //,
+    sanskritdocuments' | and ||, and ITRANS's . and .. (which Pramāṇa's Skanda, Matsya, Vāyu and others still show as
+    "..  46 .."). A dot inside a number (".. 2.13 ..") stays."""
+    s = s.replace("||", "॥").replace("|", "।").replace("//", "॥").replace("/", "।")
+    s = re.sub(r"\.\s?\.", "॥", s)
+    s = re.sub(r"(?<=[ऀ-ॿ\s!])\.(?!\d)", "।", s)
+    return s.replace("।।", "॥")
+
+
 def compact(e, machine_text=False):
     """Short keys keep chunks small: r ref, s IAST, d Devanagari, e English, m machine English, t heading, a about.
 
@@ -39,11 +49,11 @@ def compact(e, machine_text=False):
     if iast:
         out["s"] = iast
     if deva and DEVANAGARI.search(deva):
-        out["d"] = deva
+        out["d"] = dandas(deva)
     if eng and not DEVANAGARI.search(eng[:200]):
         out["e"] = eng
     elif eng and not deva:
-        out["d"] = eng  # a few legacy files keep the Devanagari in `text`
+        out["d"] = dandas(eng)  # a few legacy files keep the Devanagari in `text`
         out["dt"] = 1
     if e.get("text_mt"):
         out["m"] = e["text_mt"]

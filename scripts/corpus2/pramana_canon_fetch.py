@@ -1,6 +1,7 @@
 """Fetch and cache every path in pramana_canon_texts, refusing any translation Pramāṇa marks as in copyright.
 
 Rerunnable: cached responses are never refetched. Set PRAMANA_SA_WORK to choose the cache folder.
+Usage: python3 -I scripts/corpus2/pramana_canon_fetch.py [id ...]
 """
 import os
 import sys
@@ -10,7 +11,10 @@ from pramana_canon_texts import CANON  # noqa: E402
 from pramana_sa_common import page, segments  # noqa: E402
 
 refused = []
+only = set(sys.argv[1:])
 for cid, t in CANON.items():
+    if only and cid not in only:
+        continue
     for key in ("sa", "en"):
         path = t.get(key)
         if not path:

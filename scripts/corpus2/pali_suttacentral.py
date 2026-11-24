@@ -106,12 +106,18 @@ def order_key(sc, uid):
     return natural(uid)
 
 
+def untag(s):
+    """Bilara's inline markup as plain text: <j> breaks a verse line; <b>, <em>, <i lang=pi> and links keep only their words."""
+    s = re.sub(r"\s*<j>\s*", "\n", s)
+    return re.sub(r"</?(?:a|b|em|i|span|strong)\b[^>]*>", "", s).strip()
+
+
 def paragraphs(html, pli, en):
     """[(title, pali, english, uid)] per paragraph or stanza, in template order; headings become the next one's title."""
     # Skipped: end-of-sutta and end-of-chapter lines, and the summary verses (uddāna) that list a chapter's suttas.
     out, cur, title, in_header, skipping = [], None, None, False, False
     for sid, tpl in html.items():
-        p, e = (pli.get(sid) or "").strip(), (en.get(sid) or "").strip()
+        p, e = untag(pli.get(sid) or ""), untag(en.get(sid) or "")
         if "<header" in tpl:
             in_header = True
         if HEAD.search(tpl):

@@ -958,6 +958,15 @@
         }
       ],
       "note": "Book 1 only. A devotional commentary with word-by-word meanings after Sāyaṇa, not a literal translation."
+    },
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.aranyaka.taittiriya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
     }
   },
   "kathaka_aranyaka": {
@@ -978,9 +987,14 @@
         {
           "label": "sacred-texts.com",
           "url": "https://sacred-texts.com/hin/rigveda/index.htm"
+        },
+        {
+          "label": "VedaWeb",
+          "url": "https://vedaweb.uni-koeln.de/"
         }
       ],
-      "year": "1896"
+      "year": "1896",
+      "note": "Verses keyed to the standard maṇḍala.sūkta.ṛc numbering (Griffith's own numbering differs in Maṇḍala 8, where he moved the Vālakhilya hymns 8.49–59 to an appendix); Griffith's text checked against VedaWeb's."
     }
   },
   "rigveda_jamison_brereton": {
@@ -5197,6 +5211,973 @@
         "url": "https://indike.org/pramana/in.bauddha.theravada.sp.khuddaka.apadana~en-walters"
       },
       "note": "Licence: CC BY-NC-SA 3.0, Jonathan S. Walters (via SuttaCentral)."
+    }
+  },
+  "ramacaritamanasa": {
+    "english": {
+      "by": "F. S. Growse",
+      "work": "The Rámáyana of Tulsi Dás, translated from the original Hindi, 3rd ed., Allahabad: North-Western Provinces and Oudh Government Press, 1883",
+      "year": "1883",
+      "links": [
+        {
+          "label": "en.wikisource.org",
+          "url": "https://en.wikisource.org/wiki/The_R%C3%A1m%C3%A1yana_of_Tulsi_D%C3%A1s"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.lit.ramayana.bhasa.ramacaritamanasa~en-growse"
+      }
+    }
+  },
+  "rigveda_geldner": {
+    "english": {
+      "by": "Karl Friedrich Geldner",
+      "work": "Der Rig-Veda aus dem Sanskrit ins Deutsche übersetzt, Harvard Oriental Series 33–36, Cambridge, Mass.: Harvard University Press",
+      "year": "1951",
+      "links": [
+        {
+          "label": "VedaWeb",
+          "url": "https://vedaweb.uni-koeln.de/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.rg~de-geldner"
+      },
+      "note": "Licence: VedaWeb (University of Cologne), CC BY-NC-SA 4.0; the translation itself is public domain. The whole Ṛgveda, verse by verse.",
+      "kind": "German"
+    }
+  },
+  "rigveda_padapatha": {
+    "english": {
+      "by": "Śākalya (tradition)",
+      "work": "the Ṛgveda padapāṭha, VedaWeb's text from the Göttingen edition",
+      "year": "",
+      "links": [
+        {
+          "label": "VedaWeb",
+          "url": "https://vedaweb.uni-koeln.de/"
+        }
+      ],
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.rg!padapatha"
+      },
+      "note": "Licence: VedaWeb (University of Cologne), CC BY-NC-SA 4.0; the translation itself is public domain. Each word of the verse given apart, out of sandhi, as the reciters learn it.",
+      "kind": "Padapāṭha"
+    }
+  },
+  "daodejing": {
+    "english": {
+      "by": "James Legge",
+      "work": "The Texts of Taoism, Part I: The Tâo Teh King, Sacred Books of the East vol. 39, Oxford: Clarendon Press",
+      "year": "1891",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/tao/sbe39/index.htm"
+        },
+        {
+          "label": "Chinese Wikisource",
+          "url": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC)"
+        }
+      ],
+      "via": {
+        "label": "Internet Archive",
+        "url": "https://web.archive.org/web/2022/https://sacred-texts.com/tao/sbe39/index.htm"
+      },
+      "note": "Public domain; Legge's notes left out. Chinese: Wang Bi's text of the Laozi (道德經 (王弼本)), from Chinese Wikisource, his commentary left out."
+    }
+  },
+  "analects": {
+    "english": {
+      "by": "James Legge",
+      "work": "The Chinese Classics, vol. 1: Confucian Analects, The Great Learning, and The Doctrine of the Mean, 2nd ed., Oxford: Clarendon Press",
+      "year": "1893",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects"
+        },
+        {
+          "label": "Chinese Wikisource",
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects"
+      },
+      "note": "Public domain; Legge's notes left out. Chinese: 論語 from Chinese Wikisource, matched chapter by chapter to the Chinese Legge printed above his English; where Wikisource divides a chapter of Legge's in two (V.1, IX.6) the halves are joined."
+    }
+  },
+  "daxue": {
+    "english": {
+      "by": "James Legge",
+      "work": "The Chinese Classics, vol. 1: The Great Learning, 2nd ed., Oxford: Clarendon Press",
+      "year": "1893",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/cfu/conf2.htm"
+        },
+        {
+          "label": "Chinese Wikisource",
+          "url": "https://zh.wikisource.org/wiki/%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E5%A4%A7%E5%AD%B8%E7%AB%A0%E5%8F%A5"
+        }
+      ],
+      "via": {
+        "label": "Internet Archive",
+        "url": "https://web.archive.org/web/2022/https://sacred-texts.com/cfu/conf2.htm"
+      },
+      "note": "Public domain; Legge's notes left out. Chinese: Zhu Xi's arrangement (四書章句集註/大學章句), which Legge translates, from Chinese Wikisource, Zhu's notes and his supplied fifth commentary chapter left out."
+    }
+  },
+  "zhongyong": {
+    "english": {
+      "by": "James Legge",
+      "work": "The Chinese Classics, vol. 1: The Doctrine of the Mean, 2nd ed., Oxford: Clarendon Press",
+      "year": "1893",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/cfu/conf3.htm"
+        },
+        {
+          "label": "Chinese Wikisource",
+          "url": "https://zh.wikisource.org/wiki/%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5"
+        }
+      ],
+      "via": {
+        "label": "Internet Archive",
+        "url": "https://web.archive.org/web/2022/https://sacred-texts.com/cfu/conf3.htm"
+      },
+      "note": "Public domain; Legge's notes left out. Chinese: Zhu Xi's text in his 33 chapters (四書章句集註/中庸章句), from Chinese Wikisource, his notes left out."
+    }
+  },
+  "mencius": {
+    "english": {
+      "by": "James Legge",
+      "work": "The Chinese Classics, vol. 2: The Works of Mencius, Oxford: Clarendon Press",
+      "year": "1861",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Mencius_(Legge)"
+        },
+        {
+          "label": "Chinese Wikisource",
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Mencius_(Legge)"
+      },
+      "note": "Public domain; Legge's notes left out. The Wikisource text writes Legge's names in pinyin (Qi, King Wen for his Ch'î, King Wan). Chinese: 孟子 from Chinese Wikisource."
+    }
+  },
+  "zhuangzi": {
+    "english": {
+      "by": "James Legge",
+      "work": "The Texts of Taoism, Parts I–II: The Writings of Kwang-dze, Sacred Books of the East vols. 39–40, Oxford: Clarendon Press",
+      "year": "1891",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/tao/sbe39/index.htm"
+        },
+        {
+          "label": "Chinese Wikisource",
+          "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90"
+        }
+      ],
+      "via": {
+        "label": "Internet Archive",
+        "url": "https://web.archive.org/web/2022/https://sacred-texts.com/tao/sbe39/index.htm"
+      },
+      "note": "Public domain; Legge's notes left out. Chinese: 莊子 (Guo Xiang's 33 chapters) from Chinese Wikisource."
+    }
+  },
+  "maitrayani_samhita": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kathaka_samhita": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.krsnayajur*kathaka~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kathaka_samhita_asvamedha": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.krsnayajur*kathaka~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kanva_samhita": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.suklayajur*vajasaneyi*kanva~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kapisthala_samhita": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.krsnayajur*kapisthala~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "paippalada_samhita": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.samhita.atharva*paippalada~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "pancavimsa_brahmana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.pancavimsa~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "mantra_brahmana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.mantra~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "devatadhyaya_brahmana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.daivata~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "vamsa_brahmana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.vamsa~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "taittiriya_brahmana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.taittiriya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "gopatha_brahmana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.brahmana.gopatha~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "mahanarayana_upanishad": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.aranyaka.taittiriya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "sivasamkalpa_upanishad": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.noncanon.navya.sivasamkalpa~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "atharvasiras_upanishad": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.saiva.atharvashiras~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "asvalayana_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.asvalayana-school.asvalayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "sankhayana_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.sankhayana-school.sankhayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "baudhayana_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.baudhayana-school.baudhayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "apastamba_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.apastamba-school.apastamba~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "hiranyakesi_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.hiranyakesin.hiranyakesi~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "katyayana_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.katyayana-school.katyayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "latyayana_srautasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.samaveda.latyayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "vaitana_sutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.srauta.vaitana-school.vaitanasutra~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kausika_sutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.grhya.atharvaveda.kausika~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "jaiminiya_grhyasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.grhya.samaveda.jaiminiya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "manava_grhyasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.grhya.krsnayajur.manava~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "varaha_grhyasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.grhya.krsnayajur.varaha~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "baudhayana_grhyasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.grhya.krsnayajur.baudhayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "baudhayana_sulbasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.sulba.baudhayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "hiranyakesin_sulbasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.sulba.hiranyakesi~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "manava_sulbasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.sulba.manava~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "katyayana_sulbasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.kalpa.sulba.katyayana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "nirukta": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.nirukta.yaska~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "sarvanukramani": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.misc.anukramani.katyayana.sarvanukramani~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "jyotisa_rk": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.jyotisa.rk~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "jyotisa_yajus": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.jyotisa.yajus~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "pingala_chandahsutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.chanda.pingala-school.pingala~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "astadhyayi": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.vyakarana.astadhyayi-school.astadhyayi~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "rk_pratisakhya": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.siksa.pratisakhya.rk.rg~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "taittiriya_pratisakhya": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.siksa.pratisakhya.krsnayajur.taittiriya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "vajasaneyi_pratisakhya": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.vedanga.siksa.pratisakhya.suklayajur.vajasaneyi~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "mimamsa_sutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.darsana.mimamsa.mimamsasutra~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "yajnavalkya_smrti": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.niti.dharma.yajnavalkya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "brahma_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.brahma~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "brahmanda_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.brahmanda~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kurma_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.kurma~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "linga_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.linga~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "narada_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.narada~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "padma_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.padma~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "siva_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.siva~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "vamana_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.vamana~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "varaha_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.varaha~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "vayu_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.vayu~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kalika_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.upa.sakta.kalika~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "malinivijaya_tantra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.agama.trika.malinivijaya~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "kularnava_tantra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.trika.kaula.kularnava~en-mt"
+      },
+      "note": "Machine output, unreviewed."
+    }
+  },
+  "bhavisya_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.bhavisya~en-mt"
+      }
+    }
+  },
+  "brahmavaivarta_purana": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.purana.brahmavaivarta~en-mt"
+      }
+    }
+  },
+  "mandukya_karika": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.veda.upanisad.mukhya.mandukya.agamasastra~en-mt"
+      }
+    }
+  },
+  "sivasutra": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.trika.darsana.spanda.sivasutra~en-mt"
+      }
+    }
+  },
+  "spandakarika": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.trika.darsana.spanda.spandakarika~en-mt"
+      }
+    }
+  },
+  "vijnanabhairava": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.agama.trika.vijnanabhairava~en-mt"
+      }
+    }
+  },
+  "tantraloka": {
+    "machine": {
+      "by": "Gemini 3.8 Flash",
+      "year": "2026",
+      "via": {
+        "label": "Pramāṇa",
+        "url": "https://indike.org/pramana/in.sampradaya.saiva.trika.darsana.general.tantraloka~en-mt"
+      }
+    }
+  },
+  "apollodorus_frazer": {
+    "english": {
+      "by": "Sir James George Frazer",
+      "work": "Apollodorus, The Library, Loeb Classical Library 121–122, London: Heinemann",
+      "year": "1921",
+      "links": [
+        {
+          "label": "Perseus",
+          "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0548.tlg001.perseus-eng2/"
+        },
+        {
+          "label": "Perseus (Epitome)",
+          "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0548.tlg002.perseus-eng2/"
+        }
+      ],
+      "via": {
+        "label": "Perseus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0548.tlg001.perseus-eng2/"
+      },
+      "note": "Public domain; the Perseus Digital Library's text (CC BY-SA 4.0), Frazer's notes left out."
+    }
+  },
+  "orphic_hymns_taylor": {
+    "english": {
+      "by": "Thomas Taylor",
+      "work": "The Hymns of Orpheus, London: printed for the author",
+      "year": "1792",
+      "links": [
+        {
+          "label": "sacred-texts.com",
+          "url": "https://sacred-texts.com/cla/hoo/index.htm"
+        }
+      ],
+      "via": {
+        "label": "GitHub mirror",
+        "url": "https://github.com/jonnyg23/mahabrain/tree/b00aa504cf9a7fb368a040b97ebe9cafca950489/sacred_obsidian_vault/cla/hoo"
+      },
+      "note": "Public domain; J. B. Hare's proofread sacred-texts.com transcription, Taylor's notes left out. Taylor's hymn to Musaeus runs on into the hymn to Hecate (his lines 55–64), which stands here as hymn 1, and his later hymns take the Greek's numbers, one above his own."
+    }
+  },
+  "prose_edda_brodeur": {
+    "english": {
+      "by": "Arthur Gilchrist Brodeur",
+      "work": "The Prose Edda by Snorri Sturluson, Scandinavian Classics 5, New York: American-Scandinavian Foundation",
+      "year": "1916",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/The_Prose_Edda_%281916_translation_by_Arthur_Gilchrist_Brodeur%29"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
+    }
+  },
+  "volsunga_saga_morris": {
+    "english": {
+      "by": "William Morris and Eiríkr Magnússon",
+      "work": "Völsunga Saga: The Story of the Volsungs and Niblungs, ed. H. Halliday Sparling, The Camelot Series, London: Walter Scott",
+      "year": "1888",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/V%C3%B6lsunga_Saga"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/V%C3%B6lsunga_Saga"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
+    }
+  },
+  "ynglinga_saga_laing": {
+    "english": {
+      "by": "Samuel Laing",
+      "work": "The Heimskringla; or, Chronicle of the Kings of Norway, vol. 1, London: Longman, Brown, Green, and Longmans",
+      "year": "1844",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Heimskringla/Ynglinga_Saga"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Heimskringla/Ynglinga_Saga"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, footnotes left out."
     }
   }
 }

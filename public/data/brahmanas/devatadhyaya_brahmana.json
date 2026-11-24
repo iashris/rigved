@@ -6,7 +6,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 1,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Agni, Indra, Prajāpati, Soma, Varuṇa, Tvaṣṭṛ, the Aṅgirases, Pūṣan, Sarasvatī, Indrāgnī."
   },
   {
     "reference": "1.2",
@@ -15,7 +16,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 2,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Those [sāmans] with an iḍā-finale, those with a pada-finale, and those with an i-sound-finale belong to Agni."
   },
   {
     "reference": "1.3",
@@ -24,7 +26,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 3,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "All [sāmans] possessing a finale are Indra's, other than those specifically designated."
   },
   {
     "reference": "1.4",
@@ -33,7 +36,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 4,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "All [sāmans] ending in a tone belong to Prajāpati;"
   },
   {
     "reference": "1.5",
@@ -69,7 +73,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 8,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Those with the finale 'vāc' belong to Varuṇa;"
   },
   {
     "reference": "1.9",
@@ -87,7 +92,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 10,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Those whose tone follows the syllable belong to Tvaṣṭṛ;"
   },
   {
     "reference": "1.11",
@@ -96,7 +102,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 11,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "as, for example, the Vāravantīya and the Ābhīvarta."
   },
   {
     "reference": "1.12",
@@ -105,7 +112,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 12,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Those with 'svaḥ' as the back belong to the Aṅgirases."
   },
   {
     "reference": "1.13",
@@ -114,7 +122,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 13,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Those with 'svaḥ' as a finale belong to Pūṣan."
   },
   {
     "reference": "1.14",
@@ -123,7 +132,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 14,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "[The sāmans on the verses] 'By what splendid aid will he be present for us...' and 'Flow on, thou that bringest a thousandfold...', having 'vāc' as a finale, belong to Sarasvatī."
   },
   {
     "reference": "1.15",
@@ -141,7 +151,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 16,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "[and] 'Being in wealth, the pressed [soma]... being in wealth, the strength...', belong to Indrāgnī."
   },
   {
     "reference": "1.17",
@@ -150,7 +161,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 17,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The Vasus, the Rudras, the Ādityas, the Viśvedevas."
   },
   {
     "reference": "1.18",
@@ -159,7 +171,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 18,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Those ending in a tone belong to the Vasus; those possessing a finale belong to the Rudras; those with an iḍā belong to the Ādityas; those with 'vāc' as a finale belong to the Viśvedevas."
   },
   {
     "reference": "1.19",
@@ -168,7 +181,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 19,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Because statements apply predominantly [in this way], these are the closer [attributions]."
   },
   {
     "reference": "1.20",
@@ -177,7 +191,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 20,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Now the still closer: all sāmans belong to Agni, all belong to Indra, all sāmans ending in a tone belong to Prajāpati—these are the still closer."
   },
   {
     "reference": "1.21",
@@ -186,7 +201,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 21,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Now the innermost: all sāmans belong to Brahman—these are the innermost of all."
   },
   {
     "reference": "1.22",
@@ -204,7 +220,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 23,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The verse indeed is the mother; the sāman is the father; the tone is Prajāpati."
   },
   {
     "reference": "1.24",
@@ -213,7 +230,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 24,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Now, those [sāmans] that are named after the verse are named from the mother's side;\n\nnow, those that are named after the sāman are named from the father's side;\n\nnow, those that are named after the tone are named from Prajāpati."
   },
   {
     "reference": "1.25",
@@ -222,7 +240,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 25,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Indeed, this udgītha has kin, has female kin."
   },
   {
     "reference": "1.26",
@@ -231,7 +250,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 26,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "He comes to have kin, to have female kin;\n\nthey know him both from the father's side and from the mother's side,"
   },
   {
     "reference": "2.1",
@@ -240,7 +260,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 1,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Now, therefore, the colours of the metres:"
   },
   {
     "reference": "2.2",
@@ -249,7 +270,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 2,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The Gāyatrīs are white in appearance; variegated is the appearance of the Uṣṇihs;\n\ntawny is the appearance of the Kakubhs; black after that is [the metre] belonging to the Anuṣṭubh;\n\nred is the Bṛhatī, but dark blue again is the Paṅkti;\n\ngolden is the appearance of the Triṣṭubhs; pale white is said to be that of the Jagatī."
   },
   {
     "reference": "2.3",
@@ -258,7 +280,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 3,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "And furthermore, as for whatever other metres there are, brown is theirs after that;\n\nmongoose-coloured, however, is that of the single-line [metres]; of two-line [metres], reddish-brown is declared.\n\nVariegated, white, and black in appearance, connected with the Ṛgveda, Yajurveda, Sāmaveda, and the Brāhmaṇas:"
   },
   {
     "reference": "2.4",
@@ -267,7 +290,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 4,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The deity of those that are to be employed in the sacrifices is declared."
   },
   {
     "reference": "2.5",
@@ -276,7 +300,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 5,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "One should know the Virājs to be dappled."
   },
   {
     "reference": "2.6",
@@ -294,7 +319,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 7,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Gāyatrī became united with Agni; Savitṛ came into being together with Uṣṇih; Soma, radiant through songs of praise, with Anuṣṭubh; Bṛhatī fostered the speech of Bṛhaspati;"
   },
   {
     "reference": "2.8",
@@ -303,7 +329,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 8,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Virāj was the ornament of Mitra and Varuṇa; Triṣṭubh was Indra's share here by day;\n\nJagatī entered the Viśvedevas; thereby were the ṛṣis and mortals arranged."
   },
   {
     "reference": "2.9",
@@ -312,7 +339,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 9,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The hyper-metres belong to Prajāpati; the defective metres have Vāyu as their deity;\n\nPuruṣa is the deity of the two-line [metres]; the single-line [metres] are remembered as belonging to Brahman."
   },
   {
     "reference": "2.10",
@@ -330,7 +358,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 11,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "One should consider it balanced [saying]: 'Verses in these metres have these very deities.'"
   },
   {
     "reference": "2.12",
@@ -339,7 +368,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 12,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "This indeed is the deity of the metres."
   },
   {
     "reference": "3.1",
@@ -357,7 +387,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 2,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "'Gāyatrī' is from [the root] gāi, in the sense of praising;"
   },
   {
     "reference": "3.3",
@@ -366,7 +397,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 3,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "for the Brāhmaṇa says: 'It flew up from the mouth of him singing.'"
   },
   {
     "reference": "3.4",
@@ -375,7 +407,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 4,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "'Uṣṇih' is from rising out of water (utsnāna), or from snih in the sense of shining or being affectionate, or it is metaphorical, meaning 'possessing a turban' (uṣṇīṣiṇī)."
   },
   {
     "reference": "3.5",
@@ -384,7 +417,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 5,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "'Kakubh' is metaphorical, meaning 'possessing the shape of a peak' (kakuda)."
   },
   {
     "reference": "3.6",
@@ -393,7 +427,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 6,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "And both 'kakubh' and 'kubja' (hump-backed) are from kuj or from ubj (to bend)."
   },
   {
     "reference": "3.7",
@@ -411,7 +446,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 8,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "for the Brāhmaṇa says: 'He praised along after [it].'"
   },
   {
     "reference": "3.9",
@@ -420,7 +456,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 9,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "'Pipīlikā' (ant) is from pel in the sense of moving;"
   },
   {
     "reference": "3.10",
@@ -429,7 +466,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 10,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "'having an ant-waist' (pipīlikamadhyā) is metaphorical."
   },
   {
     "reference": "3.11",
@@ -438,7 +476,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 11,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "'Bṛhatī' is from bṛh in the sense of growing."
   },
   {
     "reference": "3.12",
@@ -447,7 +486,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 12,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The virāj [is so called] from ceasing (viramaṇa), from shining forth (virājana), or from failing (virādhana)."
   },
   {
     "reference": "3.13",
@@ -456,7 +496,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 13,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The paṅkti has five [units] (pañcinī), having five feet (pañcapadā)."
   },
   {
     "reference": "3.14",
@@ -465,7 +506,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 14,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The triṣṭubh: its last foot praises (stobhati)."
   },
   {
     "reference": "3.15",
@@ -474,7 +516,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 15,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "What, however, could its threefoldness (tritā) be? It is the metre that has crossed over most (tīrṇatama)."
   },
   {
     "reference": "3.16",
@@ -483,7 +526,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 16,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The thunderbolt is threefold; it is like its praiser (stobhinī)—thus by way of comparison."
   },
   {
     "reference": "3.17",
@@ -492,7 +536,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 17,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The jagatī is the metre that moves most (gatatama); it becomes moving swiftly (jajjagati), swift in movement."
   },
   {
     "reference": "3.18",
@@ -501,7 +546,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 18,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "For a Brāhmaṇa says: 'Making the sound jajjalā, he created.'"
   },
   {
     "reference": "3.19",
@@ -510,7 +556,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 19,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "The aticchandas metres are [derived] in the sense of covering (chad)."
   },
   {
     "reference": "3.20",
@@ -519,7 +566,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 20,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Or [they are so called because] it covers (chandayati) the metres."
   },
   {
     "reference": "3.21",
@@ -528,7 +576,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 21,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Nicṛt [is] from the [root] cṛt preceded by ni; from bearing (bharaṇa), it is called bhurij."
   },
   {
     "reference": "3.22",
@@ -537,7 +586,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 22,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Now then, the gāyatra [sāman] belongs to Agni by distribution,\n\nor to the deities of rain, or [it is] the sāman of Parameṣṭhin or of Prajāpati."
   },
   {
     "reference": "3.23",
@@ -546,7 +596,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 23,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Where it is sung as to be sung to Savitṛ:"
   },
   {
     "reference": "3.24",
@@ -555,7 +606,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 24,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "tat savitur vareṇiyom | bhargo devasya dhīmahi 2 | dhiyo yo naḥ praco 1212 | hum ā 2 | dāyo | ā 2345\n\nHe who knows the realm of the ṛṣis is released from the body;\n\nhaving crossed beyond the far shore of darkness, he is exalted in the heavenly world.\n\nWhat is called a day of Brahmā, ending in a thousand yugas—\n\nfor that duration, he shines on the back of the firmament like the sun in the sky.\n\nThen, at the beginning of the Kṛta Yuga, having become Brahman, of great renown,\n\nomniscient, steadfast, the ṛṣi is born again, remembering."
   },
   {
     "reference": "4.1",
@@ -564,7 +616,8 @@
     "text": "",
     "mandala": 4,
     "hymn": 1,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Now we shall explain the limbs of the Sāvitrī:\n\nthe Vasus and Rudras are the two arms;"
   },
   {
     "reference": "4.2",
@@ -573,7 +626,8 @@
     "text": "",
     "mandala": 4,
     "hymn": 2,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "the lunar mansions are the ornaments, the decoration."
   },
   {
     "reference": "4.3",
@@ -582,7 +636,8 @@
     "text": "",
     "mandala": 4,
     "hymn": 3,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "well-being from all defect, misuse, deficiency, and excess!"
   },
   {
     "reference": "4.4",
@@ -591,7 +646,8 @@
     "text": "",
     "mandala": 4,
     "hymn": 4,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "Well-being to the divine ṛṣis!"
   },
   {
     "reference": "4.5",
@@ -600,6 +656,7 @@
     "text": "",
     "mandala": 4,
     "hymn": 5,
-    "vedaId": "devatadhyaya_brahmana"
+    "vedaId": "devatadhyaya_brahmana",
+    "text_mt": "'May Brahman and truth protect me.'\n\n'May Brahman and truth protect me.'"
   }
 ]

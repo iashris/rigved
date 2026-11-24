@@ -76,7 +76,7 @@
  {
   "reference": "1.4.2",
   "original": "Atha kho aññataro huṁhuṅkajātiko brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so brāhmaṇo bhagavantaṁ etadavoca: “kittāvatā nu kho, bho gotama, brāhmaṇo hoti, katame ca pana brāhmaṇakaraṇā dhammā”ti?",
-  "text": "Then a certain brahmin, one of those who murmured the mystic syllable <i lang='pi' translate='no'>huṁ</i>, <i lang='pi' translate='no'>huṁ</i>, went up to the Buddha and exchanged greetings with him. When the greetings and polite conversation were over, he stood to one side and said, “Worthy Gotama, how do you define a brahmin? And what are the things that make one a brahmin?”"
+  "text": "Then a certain brahmin, one of those who murmured the mystic syllable huṁ, huṁ, went up to the Buddha and exchanged greetings with him. When the greetings and polite conversation were over, he stood to one side and said, “Worthy Gotama, how do you define a brahmin? And what are the things that make one a brahmin?”"
  },
  {
   "reference": "1.4.3",
@@ -86,7 +86,7 @@
  {
   "reference": "1.4.4",
   "original": "“Yo brāhmaṇo bāhitapāpadhammo,\nNihuṁhuṅko nikkasāvo yatatto;\nVedantagū vūsitabrahmacariyo,\nDhammena so brahmavādaṁ vadeyya;\nYassussadā natthi kuhiñci loke”ti.",
-  "text": "“Any brahmin who has banished bad qualities—\nnot murmuring the mystic syllable <i lang='pi' translate='no'>huṁ</i>, <j>unstained, self-controlled,\na complete knowledge master <j>who has completed the spiritual journey—\nthey may legitimately proclaim the divine doctrine;\nwho have no pretensions about anything in the world.”"
+  "text": "“Any brahmin who has banished bad qualities—\nnot murmuring the mystic syllable huṁ,\nunstained, self-controlled,\na complete knowledge master\nwho has completed the spiritual journey—\nthey may legitimately proclaim the divine doctrine;\nwho have no pretensions about anything in the world.”"
  },
  {
   "reference": "1.5.1",
@@ -396,7 +396,7 @@
  {
   "reference": "2.4.4",
   "original": "“Gāme araññe sukhadukkhaphuṭṭho,\nNevattato no parato dahetha;\nPhusanti phassā upadhiṁ paṭicca,\nNirūpadhiṁ kena phuseyyu phassā”ti.",
-  "text": "“When struck by pleasure and pain <j>in the village or wilderness,\nregard it not as self or alien.\nContacts strike because of attachment;\nhow would contacts strike one free of attachment?”"
+  "text": "“When struck by pleasure and pain\nin the village or wilderness,\nregard it not as self or alien.\nContacts strike because of attachment;\nhow would contacts strike one free of attachment?”"
  },
  {
   "reference": "2.5.1",
@@ -845,7 +845,7 @@
  {
   "reference": "3.3.17",
   "original": "“Yassa jito kāmakaṇḍako,\nAkkoso ca vadho ca bandhanañca;\nPabbatova so ṭhito anejo,\nSukhadukkhesu na vedhatī sa bhikkhū”ti.",
-  "text": "“A mendicant who has beaten <j>the thorn of sensuality—\nand abuse, killing, and caging—\nsteady as a mountain, imperturbable,\ntrembles not at pleasure and pain.”"
+  "text": "“A mendicant who has beaten\nthe thorn of sensuality—\nand abuse, killing, and caging—\nsteady as a mountain, imperturbable,\ntrembles not at pleasure and pain.”"
  },
  {
   "reference": "3.4.1",
@@ -908,7 +908,7 @@
  {
   "reference": "3.6.6",
   "original": "“Yamhi na māyā vasatī na māno,\nYo vītalobho amamo nirāso;\nPaṇunnakodho abhinibbutatto,\nSo brāhmaṇo so samaṇo sa bhikkhū”ti.",
-  "text": "“In whom dwells no deceit or conceit,\nrid of greed, unselfish, <j>with no need for hope,\nwith anger cast aside, quenched:\nthey are a brahmin, an ascetic, a mendicant.”"
+  "text": "“In whom dwells no deceit or conceit,\nrid of greed, unselfish,\nwith no need for hope,\nwith anger cast aside, quenched:\nthey are a brahmin, an ascetic, a mendicant.”"
  },
  {
   "reference": "3.7.1",
@@ -1021,7 +1021,7 @@
  {
   "reference": "3.9.8",
   "original": "“Asippajīvī lahu atthakāmo,\nYatindriyo sabbadhi vippamutto;\nAnokasārī amamo nirāso,\nHitvā mānaṁ ekacaro sa bhikkhū”ti.",
-  "text": "“Living without a craft, light, wanting what is best,\nwith senses controlled, everywhere free;\na migrant with no bastion, unselfish, <j>with no need for hope,\nhaving given up conceit, wandering alone: <j>that is a mendicant.”"
+  "text": "“Living without a craft, light, wanting what is best,\nwith senses controlled, everywhere free;\na migrant with no bastion, unselfish,\nwith no need for hope,\nhaving given up conceit, wandering alone:\nthat is a mendicant.”"
  },
  {
   "reference": "3.10.1",
@@ -1047,7 +1047,7 @@
  {
   "reference": "3.10.5",
   "original": "Aññathābhāvī bhavasatto loko,\nBhavapareto bhavamevābhinandati;\nYadabhinandati taṁ bhayaṁ,\nYassa bhāyati taṁ dukkhaṁ;\nBhavavippahānāya kho,\nPanidaṁ brahmacariyaṁ vussati.",
-  "text": "The world is attached to continued existence, <j>overcome by continued existence,\ntaking pleasure only in continued existence, <j>yet it becomes something else.\nWhat it enjoys, that is the fear;\nwhat it fears, that is the suffering.\nBut this spiritual life is led\nin order to give up continued existence."
+  "text": "The world is attached to continued existence,\novercome by continued existence,\ntaking pleasure only in continued existence,\nyet it becomes something else.\nWhat it enjoys, that is the fear;\nwhat it fears, that is the suffering.\nBut this spiritual life is led\nin order to give up continued existence."
  },
  {
   "reference": "3.10.6",
@@ -1062,7 +1062,7 @@
  {
   "reference": "3.10.8",
   "original": "Evametaṁ yathābhūtaṁ,\nSammappaññāya passato;\nBhavataṇhā pahīyati,\nVibhavaṁ nābhinandati;\nSabbaso taṇhānaṁ khayā,\nAsesavirāganirodho nibbānaṁ.",
-  "text": "One who sees truly like this,\nwith right wisdom,\ngives up craving for continued existence,\nwhile not looking forward to nonexistence.\nExtinguishment comes <j>from the ending of all cravings;\nfading away and cessation no residue left behind."
+  "text": "One who sees truly like this,\nwith right wisdom,\ngives up craving for continued existence,\nwhile not looking forward to nonexistence.\nExtinguishment comes\nfrom the ending of all cravings;\nfading away and cessation no residue left behind."
  },
  {
   "reference": "3.10.9",
@@ -1214,7 +1214,7 @@
  {
   "reference": "4.2.5",
   "original": "Tasmā rakkhitacittassa,\nsammāsaṅkappagocaro;\nSammādiṭṭhipurekkhāro,\nñatvāna udayabbayaṁ;\nThinamiddhābhibhū bhikkhu,\nsabbā duggatiyo jahe”ti.",
-  "text": "That’s why you should guard the mind,\nwith right thoughts your habitat,\nand right view at the fore.\nHaving understood rise and fall,\na mendicant who has overcome <j>dullness and drowsiness\nwould abandon all bad destinies.”"
+  "text": "That’s why you should guard the mind,\nwith right thoughts your habitat,\nand right view at the fore.\nHaving understood rise and fall,\na mendicant who has overcome\ndullness and drowsiness\nwould abandon all bad destinies.”"
  },
  {
   "reference": "4.3.1",
@@ -1558,7 +1558,7 @@
  {
   "reference": "5.1.6",
   "original": "“Sabbā disā anuparigamma cetasā,\nNevajjhagā piyataramattanā kvaci;\nEvaṁ piyo puthu attā paresaṁ,\nTasmā na hiṁse paramattakāmo”ti.",
-  "text": "“Having explored every quarter with the mind,\none finds no one dearer than oneself.\nLikewise for others, each holds themselves dear;\nso one who desires self-knowledge <j>would harm no other.”"
+  "text": "“Having explored every quarter with the mind,\none finds no one dearer than oneself.\nLikewise for others, each holds themselves dear;\nso one who desires self-knowledge\nwould harm no other.”"
  },
  {
   "reference": "5.2.1",
@@ -2088,7 +2088,7 @@
  {
   "reference": "6.1.17",
   "original": "“Tulamatulañca sambhavaṁ,\nBhavasaṅkhāramavassaji muni;\nAjjhattarato samāhito,\nAbhindi kavacamivattasambhavan”ti.",
-  "text": "“Comparing the incomparable <j>with the creation of prolonged life,\nthe sage surrendered the life force.\nHappy inside, serene,\nhe shattered self-creation like a suit of armor.”"
+  "text": "“Comparing the incomparable\nwith the creation of prolonged life,\nthe sage surrendered the life force.\nHappy inside, serene,\nhe shattered self-creation like a suit of armor.”"
  },
  {
   "reference": "6.2.1",
@@ -2594,7 +2594,7 @@
  {
   "reference": "6.7.4",
   "original": "“Yassa vitakkā vidhūpitā,\nAjjhattaṁ suvikappitā asesā;\nTaṁ saṅgamaticca arūpasaññī,\nCatuyogātigato na jātu metī”ti.",
-  "text": "“In whom mental vibrations are cleared away,\ninternally clipped off entirely,\nperceiving the formless, beyond chains,\nhaving overcome the four yokes, <j>they never return.”"
+  "text": "“In whom mental vibrations are cleared away,\ninternally clipped off entirely,\nperceiving the formless, beyond chains,\nhaving overcome the four yokes,\nthey never return.”"
  },
  {
   "reference": "6.8.1",
@@ -2740,7 +2740,7 @@
  {
   "reference": "7.3.4",
   "original": "“Kāmesu sattā kāmasaṅgasattā,\nSaṁyojane vajjamapassamānā;\nNa hi jātu saṁyojanasaṅgasattā,\nOghaṁ tareyyuṁ vipulaṁ mahantan”ti.",
-  "text": "“Clinging to sensual pleasures, <j>to the chains of the senses,\nblind to the faults of the fetters,\nclinging to the chain of the fetters,\nthey’ll never cross the flood so vast.”"
+  "text": "“Clinging to sensual pleasures,\nto the chains of the senses,\nblind to the faults of the fetters,\nclinging to the chain of the fetters,\nthey’ll never cross the flood so vast.”"
  },
  {
   "reference": "7.4.1",
@@ -3062,7 +3062,7 @@
  {
   "reference": "8.5.17",
   "original": "Nhatvā ca pivitvā cudatāri satthā,\nPurakkhato bhikkhugaṇassa majjhe;\nSatthā pavattā bhagavā idha dhamme,\nUpāgami ambavanaṁ mahesi;\nĀmantayi cundakaṁ nāma bhikkhuṁ,\n“Catugguṇaṁ santhara me nipajjaṁ”.",
-  "text": "And after bathing and drinking the Teacher emerged.\nBefore the group of mendicants, in the middle, <j>the Buddha,\nthe Teacher who rolled forth <j>the present dispensation,\nthe great seer went to the mango grove.\nHe addressed the mendicant named Cundaka:\n“Spread out my folded robe so I can lie down.”"
+  "text": "And after bathing and drinking the Teacher emerged.\nBefore the group of mendicants, in the middle,\nthe Buddha,\nthe Teacher who rolled forth\nthe present dispensation,\nthe great seer went to the mango grove.\nHe addressed the mendicant named Cundaka:\n“Spread out my folded robe so I can lie down.”"
  },
  {
   "reference": "8.5.18",
@@ -3092,7 +3092,7 @@
  {
   "reference": "8.5.23",
   "original": "“Dadato puññaṁ pavaḍḍhati,\nSaṁyamato veraṁ na cīyati;\nKusalo ca jahāti pāpakaṁ,\nRāgadosamohakkhayā sanibbuto”ti.",
-  "text": "“A giver’s merit grows;\nenmity doesn’t build up when you have self-control.\nA skillful person gives up bad things—\nwith the end of greed, hate, and delusion, <j>they’re quenched.”"
+  "text": "“A giver’s merit grows;\nenmity doesn’t build up when you have self-control.\nA skillful person gives up bad things—\nwith the end of greed, hate, and delusion,\nthey’re quenched.”"
  },
  {
   "reference": "8.6.1",
@@ -3310,7 +3310,7 @@
  {
   "reference": "8.8.8",
   "original": "Tasmā hi te sukhino vītasokā,\nYesaṁ piyaṁ natthi kuhiñci loke;\nTasmā asokaṁ virajaṁ patthayāno,\nPiyaṁ na kayirātha kuhiñci loke”ti.",
-  "text": "That’s why those who have no loved ones <j>at all in the world\nare happy and free of grief.\nSo aspiring to the sorrowless and stainless,\nhave no loved ones in the world at all.”"
+  "text": "That’s why those who have no loved ones\nat all in the world\nare happy and free of grief.\nSo aspiring to the sorrowless and stainless,\nhave no loved ones in the world at all.”"
  },
  {
   "reference": "8.9.1",

@@ -10,9 +10,12 @@ Saṃhitā, Mahānirvāṇa Tantra, Ṣaḍviṃśa Brāhmaṇa, Sāmavidhāna B
 
 Placement is either `veda` + `layer` (the grid) or `band`, with `group` when the band is grouped. `dir` is the folder
 under public/data. `en_of` marks an English that translates a commentary, sūtras included, so the reader is told.
-`attach` adds a translation to a text already in the catalog instead of creating one. `match` says how pramana_canon_
+`attach` adds a translation to a text already in the catalog instead of creating one; `en_existing` does the reverse,
+pairing a new original with an English text another importer already made. `original` names a language that is not
+Sanskrit. `mt` is Pramāṇa's machine English, stored in `text_mt` where no human English exists. `match` says how pramana_canon_
 concordance.py pairs chapters when numbers alone will not do: "names" by the names they share, "near" by a number that
-only roughly corresponds, shown with the reader's low-confidence warning.
+only roughly corresponds, shown with the reader's low-confidence warning, "whole" the whole translation beside every
+section of a short text the two sides divide differently.
 """
 
 D = "in.darsana."
@@ -33,7 +36,7 @@ BANDS = [
     ]},
     {"id": "agama", "name": "Āgama & Tantra", "blurb": "the scriptures of temple and initiation", "after": "smrti", "groups": [
         {"id": "pancaratra", "name": "Pāñcarātra", "blurb": "Vaiṣṇava revelation"},
-        {"id": "saiva", "name": "Śaiva", "blurb": "Śiva's revelation and the Nātha yoga manual"},
+        {"id": "saiva", "name": "Śaiva", "blurb": "Śiva's revelation, the Kashmir Śaiva root texts and the Nātha yoga manual"},
         {"id": "sakta", "name": "Śākta", "blurb": "Kaula and Goddess-centred Tantra"},
     ]},
     {"id": "upaveda", "name": "Upaveda", "blurb": "the sciences attached to the Veda: statecraft and medicine", "after": "agama"},
@@ -69,7 +72,10 @@ CANON = {
     "kalika_purana": {"name": "Kālikāpurāṇa", "dir": "puranas", "band": "purana", "group": "sakta", "sa": "in.purana.upa.sakta.kalika"},
     "brhaddharma_purana": {"name": "Bṛhaddharmapurāṇa", "dir": "puranas", "band": "purana", "group": "sakta", "sa": "in.purana.upa.sakta.brhaddharma",
                            "en": "in.purana.upa.sakta.brhaddharma~en-banerji", "en_name": "Banerji", "en_label": "S. C. Banerji (1915), abridged", "match": "names"},
-    "visnudharmottara_purana": {"name": "Viṣṇudharmottarapurāṇa (part)", "dir": "puranas", "band": "purana", "group": "vaisnava", "sa": "in.purana.upa.vaisnava.visnudharmottara"},
+    # Pramāṇa's text was 689 verses of fragments when first taken; it is now the whole work, with machine English
+    # throughout (`mt`, joined by location as the Purāṇa converter does, never a human translation).
+    "visnudharmottara_purana": {"name": "Viṣṇudharmottarapurāṇa", "dir": "puranas", "band": "purana", "group": "vaisnava", "sa": "in.purana.upa.vaisnava.visnudharmottara",
+                                "mt": "in.purana.upa.vaisnava.visnudharmottara~en-mt"},
     "garuda_saroddhara": {"name": "Garuḍapurāṇa Sāroddhāra", "dir": "puranas", "band": "purana", "group": "vaisnava", "sa": "in.purana.garudasaroddhara",
                           "en": "in.purana.garudasaroddhara~en-wood-subrahmanyam", "en_name": "Wood", "en_label": "Wood & Subrahmanyam (1911)"},
 
@@ -123,6 +129,40 @@ CANON = {
     "latyayana_srautasutra": {"name": "Lāṭyāyana Śrautasūtra", "dir": "sutras", "veda": "sv", "layer": "sutra", "sa": K + "srauta.samaveda.latyayana"},
     "baudhayana_grhyasutra": {"name": "Baudhāyana Gṛhyasūtra", "dir": "sutras", "veda": "kyv", "layer": "sutra", "sa": K + "grhya.krsnayajur.baudhayana"},
     "vadhula_grhyasutra": {"name": "Vādhūla Gṛhyasūtra", "dir": "sutras", "veda": "kyv", "layer": "sutra", "sa": K + "grhya.krsnayajur.vadhula"},
+
+    # Originals for the Mahāyāna English that pramana_world_texts already holds (2026-11): `en_existing` pairs the
+    # Sanskrit with that English file, which stays owned and credited by the world importer as this text's translation.
+    "lotus": {"name": "Saddharmapuṇḍarīka (The Lotus Sūtra)", "dir": "mahayana", "band": "mahayana", "group": "sutra",
+              "sa": "in.bauddha.sanskrit.mahayanasutra.vaipulya.saddharmapundarika*kern-nanjio", "en_existing": "lotus_kern", "en_label": "H. Kern (1884)"},
+    "sukhavati_larger": {"name": "Larger Sukhāvatīvyūha (The Land of Bliss)", "dir": "mahayana", "band": "mahayana", "group": "sutra",
+                         "sa": "in.bauddha.sanskrit.mahayanasutra.buddha.sukhavativyuha", "en_existing": "sukhavati_larger_muller", "en_label": "F. Max Müller (1894)", "match": "whole"},
+    "sukhavati_smaller": {"name": "Smaller Sukhāvatīvyūha", "dir": "mahayana", "band": "mahayana", "group": "sutra",
+                          "sa": "in.bauddha.sanskrit.mahayanasutra.buddha.sukhavativyuha-smaller", "en_existing": "sukhavati_smaller_muller", "en_label": "F. Max Müller (1894)", "match": "whole"},
+    "vajracchedika": {"name": "Vajracchedikā (The Diamond Sūtra)", "dir": "mahayana", "band": "mahayana", "group": "sutra",
+                      "sa": "in.bauddha.sanskrit.prajnaparamita.samksipta.vajracchedika", "en_existing": "vajracchedika_muller", "en_label": "F. Max Müller (1894)", "match": "whole"},
+    "hrdaya": {"name": "Prajñāpāramitāhṛdaya (The Heart Sūtra)", "dir": "mahayana", "band": "mahayana", "group": "sutra",
+               "sa": "in.bauddha.sanskrit.prajnaparamita.samksipta.hrdaya", "en_existing": "hrdaya_muller", "en_label": "F. Max Müller (1894)", "match": "whole"},
+    "buddhacarita": {"name": "Aśvaghoṣa, Buddhacarita (The Acts of the Buddha)", "dir": "mahayana", "band": "mahayana", "group": "sastra",
+                     "sa": "in.lit.kavya.mahakavya.aitihasika.bauddha.buddhacarita", "en_existing": "buddhacarita_cowell", "en_label": "E. B. Cowell (1894)"},
+    "bodhicaryavatara": {"name": "Śāntideva, Bodhicaryāvatāra (The Path of Light)", "dir": "mahayana", "band": "mahayana", "group": "sastra",
+                         "sa": "in.bauddha.sanskrit.marga.santideva.bodhicaryavatara", "en_existing": "bodhicaryavatara_barnett", "en_label": "L. D. Barnett (1909)"},
+    "jatakamala": {"name": "Āryaśūra, Jātakamālā (The Garland of Birth Stories)", "dir": "mahayana", "band": "mahayana", "group": "sastra",
+                   "sa": "in.bauddha.sanskrit.avadana.jataka.jatakamala", "en_existing": "jatakamala_speyer", "en_label": "J. S. Speyer (1895)"},
+
+    # Advaita and Kashmir Śaiva root texts (2026-11). Their human English on Pramāṇa is in copyright (Nikhilananda,
+    # Gambhirananda, Jaideva Singh), so they carry Pramāṇa's machine English instead.
+    "mandukya_karika": {"name": "Gauḍapāda, Āgamaśāstra (Māṇḍūkyakārikā)", "dir": "darsana", "band": "darsana",
+                        "sa": U + "mukhya.mandukya.agamasastra", "mt": U + "mukhya.mandukya.agamasastra" + "~en-mt"},
+    "sivasutra": {"name": "Śivasūtra of Vasugupta", "dir": "tantra", "band": "agama", "group": "saiva", "sa": T + "saiva.trika.darsana.spanda.sivasutra", "mt": T + "saiva.trika.darsana.spanda.sivasutra" + "~en-mt"},
+    "spandakarika": {"name": "Spandakārikā", "dir": "tantra", "band": "agama", "group": "saiva", "sa": T + "saiva.trika.darsana.spanda.spandakarika", "mt": T + "saiva.trika.darsana.spanda.spandakarika" + "~en-mt"},
+    "vijnanabhairava": {"name": "Vijñānabhairava", "dir": "tantra", "band": "agama", "group": "saiva", "sa": T + "saiva.agama.trika.vijnanabhairava", "mt": T + "saiva.agama.trika.vijnanabhairava" + "~en-mt"},
+    "tantraloka": {"name": "Abhinavagupta, Tantrāloka", "dir": "tantra", "band": "agama", "group": "saiva", "sa": T + "saiva.trika.darsana.general.tantraloka", "mt": T + "saiva.trika.darsana.general.tantraloka" + "~en-mt"},
+
+    # Tulsīdās in Awadhi (GRETIL's romanised text), with Growse's prose English, of which Pramāṇa holds books 4 and 5. `original` names the language for the
+    # reader, which otherwise calls the original Sanskrit.
+    "ramacaritamanasa": {"name": "Tulsīdās, Rāmcaritmānas", "dir": "bhakti", "band": "bhakti", "sa": "in.lit.ramayana.bhasa.ramacaritamanasa",
+                         "original": {"name": "Awadhi", "lang": "awa", "label": "अवधी", "short": "अ"},
+                         "en": "in.lit.ramayana.bhasa.ramacaritamanasa~en-growse", "en_name": "Growse", "en_label": "F. S. Growse (1883), books 4–5"},
 
     # English for texts the corpus already holds in Sanskrit.
     "kausitaki_brahmana": {"attach": "brahmanas", "en": "in.veda.brahmana.kausitaki~en-keith", "en_name": "Keith", "en_label": "A. B. Keith (1920)"},

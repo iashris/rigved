@@ -10,7 +10,8 @@ import urllib.request
 
 API = "https://indike.org/pramana/api"
 UA = "rigved-corpus-research/1.0 (+https://github.com/iashris/rigved)"
-WORK = "/private/tmp/claude-502/-Users-iashris-Desktop-iip-vedic-shorts/c00b0a6a-d6d9-40bf-b940-c4e03eed9a23/scratchpad/corpus/work/pramana_en"
+# Set PRAMANA_EN_WORK to choose the cache folder (e.g. cache/pramana_en, which .gitignore keeps out of the repo).
+WORK = os.environ.get("PRAMANA_EN_WORK", "/private/tmp/claude-502/-Users-iashris-Desktop-iip-vedic-shorts/c00b0a6a-d6d9-40bf-b940-c4e03eed9a23/scratchpad/corpus/work/pramana_en")
 CACHE = os.path.join(WORK, "cache")
 os.makedirs(CACHE, exist_ok=True)
 REPO = "/Users/iashris/Desktop/rigved"

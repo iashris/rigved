@@ -510,9 +510,15 @@ export default function Reader({ catalog, textId, block, withId, verse }: { cata
   const credits = (
     <>
       {englishCredits.map((c) => (
-        <Credit key={c.by} kind="English" c={c} />
+        <Credit key={c.by} kind={c.kind ?? 'English'} c={c} />
       ))}
       {machineCredit && <Credit kind="Machine translation" c={machineCredit} />}
+      {machineCredit && (
+        <p className="mt-note">
+          Machine English, marked in blue: nobody has checked it, and it can be wrong. Read it as a guide to the original, not as
+          a translator&rsquo;s rendering; it is here because some English is better than none.
+        </p>
+      )}
     </>
   );
   const hymnNotes = notes && (show.english || englishOnly) && (

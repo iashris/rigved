@@ -76,14 +76,14 @@ def main():
     only = set(sys.argv[1:])
     texts = {t["id"]: t for t in json.load(open(CATALOG, encoding="utf-8"))["texts"]}
     for cid, t in CANON.items():
-        if not t.get("en") or (only and cid not in only):
+        if not (t.get("en") or t.get("en_existing")) or (only and cid not in only):
             continue
         en = english_id(cid, t)
         if t.get("match") == "names":
             print(f"{cid:32} by names {named(cid, en, t.get('attach') or t['dir'], {k: v['blockDepth'] for k, v in texts.items()})}", flush=True)
             continue
         keys, blocks = block_keys(texts[cid]["toc"]), block_keys(texts[en]["toc"])
-        whole = cid.endswith("_upanishad")
+        whole = cid.endswith("_upanishad") or t.get("match") == "whole"
         near = t.get("match") == "near"
         ALIAS_BOOK[0] = near
         score = WEAK if near else 1

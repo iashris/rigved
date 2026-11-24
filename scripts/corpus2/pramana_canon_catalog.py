@@ -69,19 +69,21 @@ new, records = [], {}
 for cid, t in CANON.items():
     folder = t.get("attach") or t["dir"]
     pair = None
-    if t.get("en"):
+    if t.get("en") or t.get("en_existing"):
         name = english_id(cid, t)
         en = load(folder, name)
         pair = {"with": name, "mode": "concordance", "label": t["en_label"]}
+    if t.get("en"):
         records[cid] = source_record(t)
     if not t.get("attach"):
         sa = load(folder, cid)
         place = {k: t[k] for k in ("veda", "layer", "band", "group") if t.get(k)}
-        entry = {"id": cid, "file": f"{folder}/{cid}.json", "name": t["name"], **place, "levels": LEVELS.get(cid, SA_LEVELS[depth(sa)]), "source": source(t["sa"])}
+        entry = {"id": cid, "file": f"{folder}/{cid}.json", "name": t["name"], **place, "levels": LEVELS.get(cid, SA_LEVELS[depth(sa)]),
+                 **({"original": t["original"]} if t.get("original") else {}), "source": source(t["sa"])}
         if pair:
             entry["pairs"] = [pair]
         new.append(entry)
-    if pair:
+    if pair and t.get("en"):  # an `en_existing` translation keeps the row its own importer writes
         host = t.get("name") or known[cid]["name"]
         place = {k: t[k] for k in ("veda", "layer", "band") if t.get(k)}
         if t.get("attach"):

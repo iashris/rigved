@@ -48,6 +48,7 @@ for cid, t in WORLD.items():
     if not os.path.exists(os.path.join(DATA, file)):
         raise SystemExit(f"{file} missing: run pramana_world_convert.py first")
     new.append({"id": cid, "file": file, "name": t["name"], "band": t["band"], **({"group": t["group"]} if t.get("group") else {}),
+                **({"translationOf": t["of"]} if t.get("of") else {}),
                 "levels": t["levels"], **({"verseLines": True} if t.get("verseLines") else {}), "source": source(t["en"])})
     records[cid] = {"english": {"by": t["by"], "work": t["work"], "year": t["year"], "links": links(t["en"]),
                                 "via": {"label": "Pramāṇa", "url": "https://indike.org/pramana/" + t["en"]},

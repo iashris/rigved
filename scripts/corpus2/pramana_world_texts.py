@@ -14,12 +14,12 @@ short form shown in the catalog.
 BANDS = [
     {"id": "bauddha", "name": "Bauddha", "blurb": "the Buddha's former births, a king's questions, the chronicle of Laṅkā, and the early discourses "
                                                   "as the Chinese canon keeps them, beside the Pāli, in English", "after": ["pali_canon", "vedanga"]},
-    {"id": "mahayana", "name": "Mahāyāna", "blurb": "the Great Vehicle: the Lotus, the Pure Land and Perfection of Wisdom sūtras, the bodhisattva's path, in English",
+    {"id": "mahayana", "name": "Mahāyāna", "blurb": "the Great Vehicle: the Lotus, the Pure Land and Perfection of Wisdom sūtras, the bodhisattva's path, in Sanskrit with the old English translations",
      "after": ["bauddha"], "groups": [{"id": "sutra", "name": "Sūtras", "blurb": "the Lotus, the Pure Land sūtras, the Diamond and the Heart"},
                                       {"id": "sastra", "name": "Poems and treatises", "blurb": "the Buddha's life, the bodhisattva's path, the Awakening of Faith"},
                                       {"id": "chinese", "name": "In the Chinese canon", "blurb": "the Lotus, Vimalakīrti and Pure Land sūtras as China read them, Chan's Platform Sūtra and rule (BDK English Tripiṭaka)"}]},
     {"id": "jaina", "name": "Jaina", "blurb": "the Śvetāmbara canon: Mahāvīra's life, the monk's discipline, the doctrine of non-violence, in English", "after": ["mahayana"]},
-    {"id": "bhakti", "name": "Bhakti and the regional voices", "blurb": "Tamil ethics and Śaiva hymns, Kabīr, Jayadeva and the Hindi Kṛṣṇa story, in English", "after": ["jaina"]},
+    {"id": "bhakti", "name": "Bhakti and the regional voices", "blurb": "Tamil ethics and Śaiva hymns, Kabīr, Jayadeva, Tulsīdās's Rāmcaritmānas in Awadhi and the Hindi Kṛṣṇa story", "after": ["jaina"]},
     {"id": "christian_east", "name": "Eastern Christian", "blurb": "not Indic: the Ethiopian and Syriac churches' own scriptures and lore, in English", "after": ["new_testament"]},
     {"id": "katha", "name": "Kathā", "blurb": "the great story collections, in English", "after": ["bhakti", "bauddha"]},
     {"id": "chronicle", "name": "Chronicle", "blurb": "history told as verse: the kings of Kashmir, in English", "after": "katha"},
@@ -91,7 +91,14 @@ _w("jatakamala_speyer", "Āryaśūra, Jātakamālā (The Garland of Birth Storie
    "J. S. Speyer", "The Jātakamālā or Garland of Birth-Stories of Āryaśūra, Sacred Books of the Buddhists 1, London: Henry Frowde", "1895", "sastra")
 _w("awakening_faith_suzuki", "The Awakening of Faith in the Mahāyāna", "mahayana", B + "darsana.yogacara.mahayanasraddhotpadasastra*zh-siksananda~en-suzuki",
    "D. T. Suzuki", "Aśvaghosha's Discourse on the Awakening of Faith in the Mahâyâna, Chicago: Open Court", "1900", "sastra")
-for _k, _n, _p in (("dirgha", "Dīrgha Āgama (Long Discourses, Chinese; selected sūtras)", "dirgha.dirghagama*zh-buddhayasas"),
+# Their Sanskrit originals came in through pramana_canon_texts (2026-11): these Englishes are now filed as translations
+# of those texts (`of`), named for the translator, and the original takes the shelf.
+for _cid, _of, _tr in (("lotus_kern", "lotus", "Kern"), ("sukhavati_larger_muller", "sukhavati_larger", "Müller"),
+                       ("sukhavati_smaller_muller", "sukhavati_smaller", "Müller"), ("vajracchedika_muller", "vajracchedika", "Müller"),
+                       ("hrdaya_muller", "hrdaya", "Müller"), ("buddhacarita_cowell", "buddhacarita", "Cowell"),
+                       ("bodhicaryavatara_barnett", "bodhicaryavatara", "Barnett"), ("jatakamala_speyer", "jatakamala", "Speyer")):
+    WORLD[_cid].update(name=f"{WORLD[_cid]['name']} — {_tr}", of=_of)
+for _k, _n, _p in (("dirgha","Dīrgha Āgama (Long Discourses, Chinese; selected sūtras)", "dirgha.dirghagama*zh-buddhayasas"),
                    ("madhyama", "Madhyama Āgama (Middle Discourses, Chinese)", "madhyama.madhyamagama*zh-sanghadeva"),
                    ("samyukta", "Saṃyukta Āgama (Connected Discourses, Chinese; selected sūtras)", "samyukta.samyuktagama*zh-gunabhadra"),
                    ("ekottara", "Ekottara Āgama (Numbered Discourses, Chinese; selected sūtras)", "ekottara.ekottaragama*zh-sanghadeva")):

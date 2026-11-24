@@ -6,7 +6,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 1,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Homage to Brahman! Homage to the brahmins! Homage to the teachers! Homage to the ṛṣis! Homage to the gods! Homage to Vāyu, and to Mṛtyu, and to Viṣṇu! And homage to Vaiśravaṇa!"
   },
   {
     "reference": "1.2",
@@ -15,7 +16,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 2,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "From Śarvadatta Gārgya was born Śārvadatta Gārgya."
   },
   {
     "reference": "1.3",
@@ -24,7 +26,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 3,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Śarvadatta Gārgya [learned] from Rudrabhūti Drāhyāyaṇa."
   },
   {
     "reference": "1.4",
@@ -33,7 +36,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 4,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Rudrabhūti Drāhyāyaṇa from Trāta Aiṣumata."
   },
   {
     "reference": "1.5",
@@ -42,7 +46,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 5,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Trāta Aiṣumata from Nigaḍa Pārṇavalki."
   },
   {
     "reference": "1.6",
@@ -51,7 +56,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 6,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Nigaḍa Pārṇavalki from Giriśarman Kāṇṭheviddhi."
   },
   {
     "reference": "1.7",
@@ -60,7 +66,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 7,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Giriśarman Kāṇṭheviddhi from Brahmavṛddhi Chandogamāhaki."
   },
   {
     "reference": "1.8",
@@ -69,7 +76,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 8,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Brahmavṛddhi Chandogamāhaki from Mitravarcas Sthairakāyana.\nMitravarcas Sthairakāyana from Supratīta Aulundya."
   },
   {
     "reference": "1.9",
@@ -87,7 +95,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 10,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Supratīta Aulundya from Bṛhaspatigupta Śāyasthi."
   },
   {
     "reference": "1.11",
@@ -96,7 +105,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 11,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Bṛhaspatigupta Śāyasthi from Bhavatrāta Śāyasthi."
   },
   {
     "reference": "1.12",
@@ -105,7 +115,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 12,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Bhavatrāta Śāyasthi from Kustuka Śārkarākṣya."
   },
   {
     "reference": "1.13",
@@ -114,7 +125,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 13,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Kustuka Śārkarākṣya from Śravaṇadatta Kauhala."
   },
   {
     "reference": "1.14",
@@ -123,7 +135,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 14,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Śravaṇadatta Kauhala from Suśārada Śālaṅkāyana."
   },
   {
     "reference": "1.15",
@@ -132,7 +145,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 15,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Suśārada Śālaṅkāyana from Ūrjayan Aupamanyava."
   },
   {
     "reference": "1.16",
@@ -141,7 +155,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 16,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Ūrjayan Aupamanyava from Bhānumant Aupamanyava."
   },
   {
     "reference": "1.17",
@@ -150,7 +165,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 17,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Bhānumant Aupamanyava from Ānandaja Cāndhanāyana."
   },
   {
     "reference": "1.18",
@@ -159,7 +175,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 18,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Ānandaja Cāndhanāyana from Śāmba Śārkarākṣya and Kāmboja Aupamanyava."
   },
   {
     "reference": "1.19",
@@ -168,7 +185,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 19,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Śāmba Śārkarākṣya and Kāmboja Aupamanyava from Madrakāra Śauṅgāyani."
   },
   {
     "reference": "1.20",
@@ -177,7 +195,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 20,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Madrakāra Śauṅgāyani from Svāti Auṣṭrākṣi."
   },
   {
     "reference": "1.21",
@@ -186,7 +205,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 21,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Svāti Auṣṭrākṣi from Suśravas Vārṣagaṇya."
   },
   {
     "reference": "1.22",
@@ -195,7 +215,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 22,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Suśravas Vārṣagaṇya from Prātarahna Kauhala."
   },
   {
     "reference": "1.23",
@@ -204,7 +225,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 23,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Prātarahna Kauhala from Ketu Vādya."
   },
   {
     "reference": "1.24",
@@ -213,7 +235,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 24,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Ketu Vādya from Mitravinda Kauhala."
   },
   {
     "reference": "1.25",
@@ -222,7 +245,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 25,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Mitravinda Kauhala from Sunītha Kāpaṭava."
   },
   {
     "reference": "1.26",
@@ -231,7 +255,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 26,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Sunītha Kāpaṭava from Sutemanas Śāṇḍilyāyana."
   },
   {
     "reference": "1.27",
@@ -240,7 +265,8 @@
     "text": "",
     "mandala": 1,
     "hymn": 27,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Sutemanas Śāṇḍilyāyana from Aṃśu Dhānaṃjayya."
   },
   {
     "reference": "2.1",
@@ -249,7 +275,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 1,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Aṃśu Dhānaṃjayya from Amavāsyā Śāṇḍilyāyana and Rādha Gautama."
   },
   {
     "reference": "2.2",
@@ -258,7 +285,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 2,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Rādha Gautama from Gātṛ Gautama, his father."
   },
   {
     "reference": "2.3",
@@ -267,7 +295,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 3,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Gātṛ Gautama from Saṃvargajit Lāmakāyana."
   },
   {
     "reference": "2.4",
@@ -276,7 +305,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 4,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Saṃvargajit Lāmakāyana from Śākadāsa Bhāḍitāyana."
   },
   {
     "reference": "2.5",
@@ -285,7 +315,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 5,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Śākadāsa Bhāḍitāyana from Vicakṣaṇa Tāṇḍya."
   },
   {
     "reference": "2.6",
@@ -294,7 +325,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 6,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Vicakṣaṇa Tāṇḍya from Gardabhīmukha Śāṇḍilyāyana."
   },
   {
     "reference": "2.7",
@@ -303,7 +335,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 7,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Gardabhīmukha Śāṇḍilyāyana from Udaraśāṇḍilya, his father."
   },
   {
     "reference": "2.8",
@@ -312,7 +345,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 8,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Udaraśāṇḍilya from Atidhanvan Śaunaka and Maśaka Gārgya."
   },
   {
     "reference": "2.9",
@@ -321,7 +355,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 9,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Maśaka Gārgya from Sthiraka Gārgya, his father."
   },
   {
     "reference": "2.10",
@@ -330,7 +365,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 10,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Sthiraka Gārgya from Vāsiṣṭha Caikitāneya."
   },
   {
     "reference": "2.11",
@@ -339,7 +375,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 11,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Vāsiṣṭha Caikitāneya from Vāsiṣṭha Ārehaṇya, a Rājanya."
   },
   {
     "reference": "2.12",
@@ -348,7 +385,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 12,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Vāsiṣṭha Ārehaṇya, the Rājanya, from Sumantra Bābhrava Gautama."
   },
   {
     "reference": "2.13",
@@ -357,7 +395,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 13,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Sumantra Bābhrava Gautama from Śūṣa Vāhneya Bhāradvāja."
   },
   {
     "reference": "2.14",
@@ -366,7 +405,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 14,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Śūṣa Vāhneya Bhāradvāja from Arāla Dārteya Śaunaka."
   },
   {
     "reference": "2.15",
@@ -375,7 +415,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 15,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Arāla Dārteya Śaunaka from Dṛti Aindrota Śaunaka, his father."
   },
   {
     "reference": "2.16",
@@ -384,7 +425,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 16,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Dṛti Aindrota Śaunaka from Indrota Śaunaka, his father indeed."
   },
   {
     "reference": "2.17",
@@ -393,7 +435,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 17,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Indrota Śaunaka from Vṛṣaśuṣma Vātāvata."
   },
   {
     "reference": "2.18",
@@ -402,7 +445,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 18,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Vṛṣaśuṣma Vātāvata from Nikothaka Bhāyajātya."
   },
   {
     "reference": "2.19",
@@ -411,7 +455,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 19,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Nikothaka Bhāyajātya from Pratithi Devataratha."
   },
   {
     "reference": "2.20",
@@ -420,7 +465,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 20,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Pratithi Devataratha from Devataras Śāvasāyana, his father."
   },
   {
     "reference": "2.21",
@@ -429,7 +475,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 21,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Devataras Śāvasāyana from Śavas, his father indeed."
   },
   {
     "reference": "2.22",
@@ -438,7 +485,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 22,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Śavas from Agnibhū Kāśyapa."
   },
   {
     "reference": "2.23",
@@ -447,7 +495,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 23,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Agnibhū Kāśyapa from Indrabhū Kāśyapa."
   },
   {
     "reference": "2.24",
@@ -456,7 +505,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 24,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Indrabhū Kāśyapa from Mitrabhū Kāśyapa."
   },
   {
     "reference": "2.25",
@@ -465,7 +515,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 25,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Mitrabhū Kāśyapa from Vibhaṇḍaka Kāśyapa, his father."
   },
   {
     "reference": "2.26",
@@ -474,7 +525,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 26,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Vibhaṇḍaka Kāśyapa from Ṛṣyaśṛṅga Kāśyapa, his father."
   },
   {
     "reference": "2.27",
@@ -483,7 +535,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 27,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Ṛṣyaśṛṅga Kāśyapa from Kaśyapa, his father indeed."
   },
   {
     "reference": "2.28",
@@ -555,7 +608,8 @@
     "text": "",
     "mandala": 2,
     "hymn": 35,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Homage to him! Homage to him!"
   },
   {
     "reference": "3.1",
@@ -564,7 +618,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 1,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Having paid homage to the teachers, one should recite the lineage:\n\nThere is funeral offering for the ancestors; the reciter attains a long life.\n\nHaving spoken thus, one should enumerate the lineage all the way to Brahmā."
   },
   {
     "reference": "3.2",
@@ -573,7 +628,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 2,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "[Tracing the lineage] leading from Aryamabhūti Kālabava:"
   },
   {
     "reference": "3.3",
@@ -582,7 +638,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 3,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Aryamabhūti Kālabava [received it] from Bhadraśarman Kauśika;"
   },
   {
     "reference": "3.4",
@@ -591,7 +648,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 4,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Bhadraśarman Kauśika from Puṣpayaśas Audavraji;"
   },
   {
     "reference": "3.5",
@@ -600,7 +658,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 5,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Puṣpayaśas Audavraji from Saṃkara Gautama;"
   },
   {
     "reference": "3.6",
@@ -609,7 +668,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 6,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Saṃkara Gautama from Aryamarādha Gobhila and from Pūṣamitra Gobhila;"
   },
   {
     "reference": "3.7",
@@ -618,7 +678,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 7,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Pūṣāmitra Gobhila from Aśvamitra Gobhila;"
   },
   {
     "reference": "3.8",
@@ -627,7 +688,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 8,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Aśvamitra Gobhila from Varuṇamitra Gobhila;"
   },
   {
     "reference": "3.9",
@@ -636,7 +698,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 9,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Varuṇamitra Gobhila from Mūlamitra Gobhila;"
   },
   {
     "reference": "3.10",
@@ -645,7 +708,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 10,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Mūlamitra Gobhila from Vatsamitra Gobhila;"
   },
   {
     "reference": "3.11",
@@ -654,7 +718,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 11,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Vatsamitra Gobhila from Gaulgulavīputra Gobhila;"
   },
   {
     "reference": "3.12",
@@ -663,7 +728,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 12,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Gaulgulavīputra Gobhila from Bṛhadvasu, his father;"
   },
   {
     "reference": "3.13",
@@ -672,7 +738,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 13,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Bṛhadvasu Gobhila from Gobhila himself;"
   },
   {
     "reference": "3.14",
@@ -681,7 +748,8 @@
     "text": "",
     "mandala": 3,
     "hymn": 14,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "Gobhila from Rādha Gautama;"
   },
   {
     "reference": "3.15",
@@ -690,6 +758,7 @@
     "text": "",
     "mandala": 3,
     "hymn": 15,
-    "vedaId": "vamsa_brahmana"
+    "vedaId": "vamsa_brahmana",
+    "text_mt": "What follows is the same; what follows is the same."
   }
 ]

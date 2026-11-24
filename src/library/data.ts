@@ -40,6 +40,8 @@ export interface SourceLink {
 /** Who made a text's English and where to check it, from scripts/corpus2/translation_sources.json. */
 export interface TranslationCredit {
   by: string;
+  /** What the credit line calls a version that is not an English translation ("German", "Padapāṭha"). */
+  kind?: string;
   work?: string;
   year?: string;
   links?: SourceLink[];

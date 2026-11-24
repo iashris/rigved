@@ -39,6 +39,9 @@ def clean(t):
     t = PAGE.sub("", t)
     t = re.sub(r"\[\d{1,4}[.;]?\d?[\]1](?=\s|$)", "", t)  # OCR'd page marks: [23.7] [30;3] [3561
     t = re.sub(r"_{3,}", "", t)
+    # A source saved in a Windows code page lost its curly quotes to U+FFFD (Avalon's "season�s flowers"): after a
+    # letter and before s, a space or a bracket it was an apostrophe; anywhere else, a dash.
+    t = re.sub(r"(?<=\w)�(?=s\b|\s|\))", "’", t).replace("�", "—")
     t = t.replace("[*]", "").replace("**", "")
     t = re.sub(r"(?<![\w_])_(?=\S)([^_\n]+?)(?<=\S)_(?![\w_])", r"\1", t)  # _italic_ markdown
     t = re.sub(r"(?<![\w*])\*(?=\S)|(?<=\S)\*(?![\w*])", "", t)  # *italic* markdown

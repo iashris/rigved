@@ -11,7 +11,7 @@ A unit that cannot be anchored is reported and left out.
 
 This replaces any earlier `text_mt` in a job's file.  Rerun after a convert script rewrites one of these files.
 
-Usage: python3 -I scripts/corpus2/pramana_mt_attach.py [--write] [id ...]
+Usage: PRAMANA_EN_WORK=cache/pramana_en python3 -I scripts/corpus2/pramana_mt_attach.py [--write] [id ...]
 """
 import json
 import os
@@ -28,11 +28,29 @@ from jsonfmt import load, save  # noqa: E402
 REPO = os.path.dirname(os.path.dirname(HERE))
 CAT = os.path.join(HERE, "library_catalog.json")
 SOURCES = os.path.join(HERE, "translation_sources.json")
-# Left out (Nov 2026): Kālikā Purāṇa and Kulārṇava Tantra (Pramāṇa has almost none of their English yet), the Atharva
-# Prātiśākhya (its Pramāṇa Sanskrit is garbled OCR), the Kāṭhaka Āraṇyaka (still 29 units; pramana_mt_aranyakas.py has them).
+# Left out: the Atharva Prātiśākhya (its Pramāṇa Sanskrit is garbled OCR) and the Kāṭhaka Āraṇyaka (pramana_mt_aranyakas.py
+# has it). Widened (late Nov 2026, the repo owner: "machine translation is still better than no translation") to every
+# text with no human English for which Pramāṇa has any machine English, whole or partial.
+# Not here: the Viṣṇudharmottara, Bhaviṣya and Brahmavaivarta, whose Sanskrit is now Pramāṇa's own edition with its machine
+# English joined by location in the converters (pramana_canon_convert.py, pramana_purana_convert.py).
 JOBS = [
     "rgvidhana", "kathaka_brahmana", "kauthuma_grhyasutra", "maitrayana_sulbasutra", "manava_srautasutra",
-    "atharvaveda_parisista", "visnudharmottara_purana", "ahirbudhnya_samhita", "jayakhya_samhita",
+    "atharvaveda_parisista", "ahirbudhnya_samhita", "jayakhya_samhita",
+    # Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads
+    "maitrayani_samhita", "kathaka_samhita", "kathaka_samhita_asvamedha", "kanva_samhita", "kapisthala_samhita", "paippalada_samhita",
+    "pancavimsa_brahmana", "mantra_brahmana", "devatadhyaya_brahmana", "vamsa_brahmana", "taittiriya_brahmana", "gopatha_brahmana",
+    "taittiriya_aranyaka", "mahanarayana_upanishad", "sivasamkalpa_upanishad", "atharvasiras_upanishad",
+    # Sūtras
+    "asvalayana_srautasutra", "sankhayana_srautasutra", "baudhayana_srautasutra", "apastamba_srautasutra", "hiranyakesi_srautasutra",
+    "katyayana_srautasutra", "latyayana_srautasutra", "vaitana_sutra", "kausika_sutra", "jaiminiya_grhyasutra", "manava_grhyasutra",
+    "varaha_grhyasutra", "baudhayana_grhyasutra", "baudhayana_sulbasutra", "hiranyakesin_sulbasutra", "manava_sulbasutra",
+    "katyayana_sulbasutra",
+    # Vedāṅga, darśana, smṛti
+    "nirukta", "sarvanukramani", "jyotisa_rk", "jyotisa_yajus", "pingala_chandahsutra", "astadhyayi", "rk_pratisakhya",
+    "taittiriya_pratisakhya", "vajasaneyi_pratisakhya", "mimamsa_sutra", "yajnavalkya_smrti",
+    # Purāṇas and Tantra
+    "brahma_purana", "brahmanda_purana", "kurma_purana", "linga_purana", "narada_purana",
+    "padma_purana", "siva_purana", "vamana_purana", "varaha_purana", "vayu_purana", "kalika_purana", "malinivijaya_tantra", "kularnava_tantra",
 ]
 PROBE = 16
 

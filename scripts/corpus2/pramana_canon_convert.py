@@ -26,7 +26,7 @@ SITE_NOTE = re.compile(r"https?://|wisdomlib|sacred-texts\.com", re.I)
 
 
 def english_id(cid, t):
-    return f"{cid}_{t['en_name'].lower().replace(' ', '')}"
+    return t.get("en_existing") or f"{cid}_{t['en_name'].lower().replace(' ', '')}"
 
 
 def clean_english(entries):
@@ -40,6 +40,32 @@ def clean_english(entries):
         e["text"] = NOTE_MARK.sub("", e["text"].replace("[Sanskrit available]", "")).strip()
         if e["text"]:
             out.append(e)
+    return out
+
+
+# GRETIL's file header, which Pramāṇa keeps as text when a work is split into several GRETIL files (the Rāmcaritmānas,
+# one per book): the encoding notes are dropped, and the line naming the book becomes the next entry's title.
+GRETIL_HEADER = re.compile(r"^(Text converted to Unicode|set to UTF-8|nasalized a |intervocalic y |Unless indicated otherwise, accents"
+                           r"|For a comprehensive list of GRETIL)")
+GRETIL_BOOK = re.compile(r"^[^\n]{0,120}\bSopana (\d+): (\w+)$")
+KANDA = {"Balakanda": "Bālakāṇḍa", "Ayodhyakanda": "Ayodhyākāṇḍa", "Aranyakanda": "Araṇyakāṇḍa", "Kiskindhakanda": "Kiṣkindhākāṇḍa",
+         "Sundarakanda": "Sundarakāṇḍa", "Lankakanda": "Laṅkākāṇḍa", "Uttarakanda": "Uttarakāṇḍa"}
+
+
+def drop_gretil_header(entries):
+    out, title = [], None
+    for e in entries:
+        t = (e.get("sanskrit_iast") or "").strip()
+        m = GRETIL_BOOK.match(t)
+        if m:
+            title = f"Sopāna {m.group(1)}: {KANDA.get(m.group(2), m.group(2))}"
+            continue
+        if GRETIL_HEADER.match(t):
+            continue
+        if title:
+            e["title"] = title
+            title = None
+        out.append(e)
     return out
 
 
@@ -57,7 +83,9 @@ def main():
             continue
         folder = t.get("attach") or t["dir"]
         if t.get("sa"):
-            entries, stats = engine.convert(segments(t["sa"]), False)
+            mt = {x["loc"]: x["text"] or "" for x in segments(t["mt"])} if t.get("mt") else None
+            entries, stats = engine.convert(segments(t["sa"]), False, mt)
+            entries = drop_gretil_header(entries)
             text = "".join(e["sanskrit_iast"] for e in entries)
             share = len(DEVANAGARI.findall(text)) / max(len(text), 1)
             if share > 0.05:

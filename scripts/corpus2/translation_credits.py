@@ -119,6 +119,13 @@ CREDITS = {
     "visnu_purana_wilson": english("H. H. Wilson", "The Vishńu Puráńa, a System of Hindu Mythology and Tradition", "1840", sacred("vp/index.htm"), pramana("in.purana.visnu~en-wilson")),
     "agni_purana": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.purana.agni~en-mt")}},
     "skanda_purana": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.purana.skanda~en-mt")}},
+    "bhavisya_purana": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.purana.bhavisya~en-mt")}},
+    "brahmavaivarta_purana": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.purana.brahmavaivarta~en-mt")}},
+    "mandukya_karika": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.veda.upanisad.mukhya.mandukya.agamasastra~en-mt")}},
+    "sivasutra": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.sampradaya.saiva.trika.darsana.spanda.sivasutra~en-mt")}},
+    "spandakarika": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.sampradaya.saiva.trika.darsana.spanda.spandakarika~en-mt")}},
+    "vijnanabhairava": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.sampradaya.saiva.agama.trika.vijnanabhairava~en-mt")}},
+    "tantraloka": {"machine": {"by": "Gemini 3.8 Flash", "year": "2026", "via": pramana("in.sampradaya.saiva.trika.darsana.general.tantraloka~en-mt")}},
     # `inText`: this English sits in the file's `text` field, so build_library has to move it to the labelled machine layer.
     "jaiminiya_brahmana": {"machine": {"by": "Engine not recorded", "inText": True, "noSource": True,
                                        "note": "Added to this project in March 2026 with no record of how it was made, and it is not Pramāṇa's machine translation. No public source to check it against."}},

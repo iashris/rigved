@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Three more English Ṛgvedas for the reader's translation switcher, beside Griffith and Jamison & Brereton:
-Max Müller's Vedic Hymns I (SBE 32, 1891: the hymns to the Maruts, Rudra, Vāyu and Vāta), Hermann Oldenberg's Vedic
-Hymns II (SBE 46, 1897: the hymns to Agni in maṇḍalas I–V) and A. A. Macdonell's Hymns from the Rigveda (1922).
+"""More Ṛgvedas for the reader's translation switcher, beside Griffith and Jamison & Brereton: Max Müller's Vedic Hymns I
+(SBE 32, 1891: the hymns to the Maruts, Rudra, Vāyu and Vāta), Hermann Oldenberg's Vedic Hymns II (SBE 46, 1897: the
+hymns to Agni in maṇḍalas I–V), A. A. Macdonell's Hymns from the Rigveda (1922), Geldner's complete German translation
+(written by 1929, published 1951) and the padapāṭha, the word-by-word text.
 
 Taken from Pramāṇa, which has them verse by verse from VedaWeb's TEI (University of Cologne), under CC BY-NC-SA 4.0;
-the translations themselves are public domain. Each is keyed maṇḍala.sūkta.ṛc like the Saṃhitā, so the reader pairs
-it verse by verse (mode "aligned"); notes are left out. Writes public/data/vedas/rigveda_<id>.json and adds the rows
+the translations themselves are public domain (Geldner died in 1929). Each is keyed maṇḍala.sūkta.ṛc like the
+Saṃhitā, so the reader pairs it verse by verse (mode "aligned"); notes are left out. Writes public/data/vedas/rigveda_<id>.json and adds the rows
 and the pairs to library_catalog.json, and the credits to translation_sources.json. Rerunnable.
 
 Usage: PRAMANA_SA_WORK=cache/pramana_world python3 -I scripts/corpus2/rigveda_vedaweb.py
@@ -31,7 +32,16 @@ VERSIONS = [
      "Vedic Hymns, Part II: Hymns to Agni (Mandalas I–V), Sacred Books of the East 46, Oxford: Clarendon Press", "1897"),
     ("rigveda_macdonell", "in.veda.samhita.rg~en-macdonell", "Macdonell (1922)", "A. A. Macdonell",
      "Hymns from the Rigveda, Heritage of India series, Calcutta: Association Press", "1922"),
+    # Added 2026-11: the whole Ṛgveda in German, and the padapāṭha, each word of a verse given apart, out of sandhi.
+    ("rigveda_geldner", "in.veda.samhita.rg~de-geldner", "Geldner (1951), German", "Karl Friedrich Geldner",
+     "Der Rig-Veda aus dem Sanskrit ins Deutsche übersetzt, Harvard Oriental Series 33–36, Cambridge, Mass.: Harvard University Press", "1951"),
+    ("rigveda_padapatha", "in.veda.samhita.rg!padapatha", "Padapāṭha (word by word)", "Śākalya (tradition)",
+     "the Ṛgveda padapāṭha, VedaWeb's text from the Göttingen edition", ""),
 ]
+NAME = {"rigveda_padapatha": "Padapāṭha"}
+# What the reader's credit line calls a version that is not an English translation, and what it says of it.
+KIND = {"rigveda_geldner": "German", "rigveda_padapatha": "Padapāṭha"}
+NOTE = {"rigveda_geldner": "The whole Ṛgveda, verse by verse.", "rigveda_padapatha": "Each word of the verse given apart, out of sandhi, as the reciters learn it."}
 
 
 def rows(path):
@@ -57,11 +67,12 @@ def main():
         with open(os.path.join(DATA, f"{tid}.json"), "w", encoding="utf-8") as f:
             json.dump(rs, f, ensure_ascii=False, indent=1)
         hymns = len({r["reference"].rsplit(".", 1)[0] for r in rs})
-        new_rows.append("    " + json.dumps({"id": tid, "file": f"vedas/{tid}.json", "name": f"Ṛgveda Saṃhitā — {by}", "veda": "rv", "layer": "samhita",
+        new_rows.append("    " + json.dumps({"id": tid, "file": f"vedas/{tid}.json", "name": f"Ṛgveda Saṃhitā — {NAME.get(tid, by)}", "veda": "rv", "layer": "samhita",
                                              "translationOf": "rigveda", "levels": ["Maṇḍala", "Sūkta", "Ṛc"],
-                                             "source": f"{by}, {work} ({year}), {hymns} hymns; via VedaWeb and Pramāṇa"}, ensure_ascii=False) + ",")
+                                             "source": f"{by}, {work}{f' ({year})' if year else ''}, {hymns} hymns; via VedaWeb and Pramāṇa"}, ensure_ascii=False) + ",")
         credits[tid] = {"english": {"by": by, "work": work, "year": year, "links": [{"label": "VedaWeb", "url": "https://vedaweb.uni-koeln.de/"}],
-                                    "via": {"label": "Pramāṇa", "url": "https://indike.org/pramana/" + path}, "note": f"Licence: {LICENCE}. Only the hymns this translator rendered."}}
+                                    "via": {"label": "Pramāṇa", "url": "https://indike.org/pramana/" + path}, "note": f"Licence: {LICENCE}. {NOTE.get(tid, 'Only the hymns this translator rendered.')}",
+                                    **({"kind": KIND[tid]} if tid in KIND else {})}}
         print(f"{tid}: {len(rs)} verses in {hymns} hymns")
     lines[at + 1:at + 1] = new_rows
     raw = "\n".join(lines)

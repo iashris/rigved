@@ -16,10 +16,10 @@ PURANA_GROUPS = [
 PURANAS = {
     "agni_purana": {"name": "Agnipurāṇa", "group": "mixed", "sa": "in.purana.agni", "mt": "in.purana.agni~en-mt"},
     "bhagavata_purana": {"name": "Bhāgavatapurāṇa", "group": "vaisnava", "sa": "in.purana.bhagavata", "en": "in.purana.bhagavata~en-subbarau", "en_name": "Subba Rau", "en_label": "Subba Rau (1928)"},
-    "bhavisya_purana": {"name": "Bhaviṣyapurāṇa", "group": "mixed", "sa": "in.purana.bhavisya"},
+    "bhavisya_purana": {"name": "Bhaviṣyapurāṇa", "group": "mixed", "sa": "in.purana.bhavisya", "mt": "in.purana.bhavisya~en-mt"},
     "brahma_purana": {"name": "Brahmapurāṇa", "group": "mixed", "sa": "in.purana.brahma"},
     "brahmanda_purana": {"name": "Brahmāṇḍapurāṇa", "group": "mixed", "sa": "in.purana.brahmanda"},
-    "brahmavaivarta_purana": {"name": "Brahmavaivartapurāṇa", "group": "vaisnava", "sa": "in.purana.brahmavaivarta"},
+    "brahmavaivarta_purana": {"name": "Brahmavaivartapurāṇa", "group": "vaisnava", "sa": "in.purana.brahmavaivarta", "mt": "in.purana.brahmavaivarta~en-mt"},
     "garuda_purana": {"name": "Garuḍapurāṇa", "group": "vaisnava", "sa": "in.purana.garuda", "en": "in.purana.garuda~en-dutt", "en_name": "Dutt", "en_label": "M. N. Dutt (1908)", "en_covers": ["0", "1"]},
     "kurma_purana": {"name": "Kūrmapurāṇa", "group": "saiva", "sa": "in.purana.kurma"},
     "linga_purana": {"name": "Liṅgapurāṇa", "group": "saiva", "sa": "in.purana.linga"},

@@ -5,7 +5,8 @@
   "meaning": "पञ्चसंवत्सरमयं युगाध्यक्षं प्रजापतिम् । दिनर्त्वयनम् आसाङ्गं प्रणम्य शिरसा शुचिः ॥",
   "text": "",
   "mandala": 1,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Bowing with head [bent], pure, before Prajāpati, the lord of the yuga, / who consists of five years, whose limbs are the days, seasons, solstices, and months, // 1"
  },
  {
   "reference": "2",
@@ -13,7 +14,8 @@
   "meaning": "प्रणम्य शिरसा कालम् अभिवाद्य सरस्वतीम् । कालज्ञानं प्रवक्ष्यामि लगधस्य महात्मनः ॥",
   "text": "",
   "mandala": 2,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "bowing with head [bent] to Time, paying homage to Sarasvatī, / I shall proclaim the knowledge of time taught by the great-souled Lagadha. // 2"
  },
  {
   "reference": "3",
@@ -21,7 +23,8 @@
   "meaning": "ज्योतिषाम् अयनं कृत्स्नं प्रवक्ष्याम्य् अनुपूर्वशः । विप्राणां सम्मतं लोके यज्ञकालार्थसिद्धये ॥",
   "text": "",
   "mandala": 3,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "I shall proclaim in proper order the entire course of the heavenly bodies, / approved by the learned in the world for accomplishing the proper time of sacrifices. // 3"
  },
  {
   "reference": "4",
@@ -29,7 +32,8 @@
   "meaning": "निरेकं द्वादशार्धाब्दं द्विगुणं गतसंज्ञिकम् । षष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिर् उच्यते ॥",
   "text": "",
   "mandala": 4,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Half the twelve years, reduced by one and doubled, is called the elapsed [years]; / [that] multiplied by sixty and increased by two is declared the sum of the parvans. // 4"
  },
  {
   "reference": "5",
@@ -37,7 +41,8 @@
   "meaning": "स्वर् आक्रमेते सोमार्कौ यदा साकं सवासवौ । स्यात् तदादि युगं माघस्तपः शुक्लो ऽयनं ह्य् उदक् ॥",
   "text": "",
   "mandala": 5,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "When the Moon and Sun enter the sky together at [the asterism of] the Vasus, / then begins the yuga, the month Māgha, [the season] Tapas, the bright [fortnight], and the northward course. // 5"
  },
  {
   "reference": "6",
@@ -45,7 +50,8 @@
   "meaning": "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसाव् उदक् । सार्पार्धे दक्षिणार्कस् तु माघश्रावणयोः सदा ॥",
   "text": "",
   "mandala": 6,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "The Sun and Moon turn northward at the beginning of Śraviṣṭhā; / but the Sun [turns] southward at the middle of Sārpa: [this occurs] always in Māgha and Śrāvaṇa. // 6"
  },
  {
   "reference": "7",
@@ -53,7 +59,8 @@
   "meaning": "घर्मवृद्धिर् अपां प्रस्थः क्षपाह्रास उदग्गतौ । दक्षिणे तौ विपर्यासः षण्मुहूर्त्ययनेन तु ॥",
   "text": "",
   "mandala": 7,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "During the northward course, there is an increase of heat [and day] by a prastha of water, and a decrease of night; / during the southward course, these two are reversed: [the change is] by six muhūrtas in an ayana. // 7"
  },
  {
   "reference": "8",
@@ -61,7 +68,8 @@
   "meaning": "द्विगुणं सप्तमं चाहुर् अयनाद्यं त्रयोदशम् । चतुर्थं दशमं च द्विर्युग्माद्यं बहुले ऽप्य् ऋतौ ॥",
   "text": "",
   "mandala": 8,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "They declare the doubled seventh and the thirteenth as the first of an ayana; / and the fourth and the tenth twice as the beginning of a pair, even in the dark [fortnight] of a season. // 8"
  },
  {
   "reference": "9",
@@ -69,7 +77,8 @@
   "meaning": "वसुस् त्वष्टा भवो ऽजश् च मित्रः सर्पाश्विनौ जलम् । धाता कश् चायनाद्याश् चार्थपञ्चमभस् त्व् ऋतुः ॥",
   "text": "",
   "mandala": 9,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Vasu, Tvaṣṭṛ, Bhava, Aja, Mitra, the Serpents, the Aśvins, Water, / Dhātṛ, and Ka: these are the beginnings of the ayanas; and a season is four and a half nakṣatras. // 9"
  },
  {
   "reference": "10",
@@ -77,7 +86,8 @@
   "meaning": "भांशाः स्युर् अष्टकाः कार्याः पक्षद्वादशकोद्गताः । एकादशगुणश् चोनः शुक्ले ऽर्धं चैन्दवा यदि ॥",
   "text": "",
   "mandala": 10,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "The nakṣatra-fractions, in units of eight, are to be calculated as elapsed in twelve fortnights; / and reduced by eleven times [the elapsed]; and if [relating to] the Moon, half in the bright fortnight. // 10"
  },
  {
   "reference": "11",
@@ -85,7 +95,8 @@
   "meaning": "कार्या भांशाष्टकस्थाने कला एकान्नविंशतिः । ऊनस्थाने त्रिसप्ततिम् उद्वपेद् ऊनसंमिताः ॥",
   "text": "",
   "mandala": 11,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "In the place of the eighth-fraction of a nakṣatra, nineteen kalās are to be set; / in the deficient place, one should cast away seventy-three measured by the deficiency. // 11"
  },
  {
   "reference": "12",
@@ -93,7 +104,8 @@
   "meaning": "त्र्यंशो भशेषो दिवसांशभागश् चतुर्दशश् चाप्य् अनीय भिन्नम् । भार्धे ऽधिके चापि गते परो ऽंशो द्वाव् उत्तमैकं प्नवकैरवेद्यम् ॥",
   "text": "",
   "mandala": 12,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "A third is the remainder of the asterism, and the fourteenth fraction of a day-part is divided; / when more than half an asterism has elapsed, the further part […] is known as two minus one by nine. // 12"
  },
  {
   "reference": "13",
@@ -101,7 +113,8 @@
   "meaning": "पक्षात् पञ्चदशाच् चोर्ध्वं तद्भुक्तम् इति निर्दिशेत् । नवभिस् तूद्गतो ऽंशः स्याद् ऊनांशद्व्यधिकेन तु ॥",
   "text": "",
   "mandala": 13,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Beyond the fifteenth fortnight, one should declare that to have been traversed; / but the part traversed is by nine, with the deficient part increased by two. // 13"
  },
  {
   "reference": "14",
@@ -109,7 +122,8 @@
   "meaning": "जौ द्रा घः खे श्वे ऽही रो षा चिन् मू ष ण्यः सू मा धा णः । रे मृ घ्राः स्वा ऽपो ऽजः कृ ष्यो ह ज्ये ष्ठा इत्तृक्षा लिङ्गैः ॥",
   "text": "",
   "mandala": 14,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Jau, drā, ghaḥ, khe, śve, 'hī, ro, ṣā, cin, mū, ṣa, ṇyaḥ, sū, mā, dhā, ṇaḥ, / re, mṛ, ghrāḥ, svā, 'paḥ, jaḥ, kṛ, ṣyaḥ, ha, jye, ṣṭhā: thus the asterisms [are known] by their syllables. // 14"
  },
  {
   "reference": "15",
@@ -117,7 +131,8 @@
   "meaning": "जावाद्यंशैः समं विद्यात् पूर्वार्धे पर्वसूत्तरे । भादानं स्यात् चतुर्दश्यां काष्ठानां देविना कलाः ॥",
   "text": "",
   "mandala": 15,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "One should know [the nakṣatras] to be equal to the parts beginning with Jau in the former half, on the parvan days; in the latter, / the entry of the asterism occurs on the fourteenth [tithi], [measuring] kalās by twenty-one kāṣṭhās. // 15"
  },
  {
   "reference": "16",
@@ -125,7 +140,8 @@
   "meaning": "कला दश सविंशा स्यात् द्वे मुहूर्तस्य नाडिके । द्युत्रिंशत् तत्कलानां तु षट्छती त्र्यधिकं भवेत् ॥",
   "text": "",
   "mandala": 16,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "A kalā consists of ten [kāṣṭhās] and a twentieth; two nāḍikās make a muhūrta; / thirty [muhūrtas] make a day; of those kalās, there are six hundred and three [in a day]. // 16"
  },
  {
   "reference": "17",
@@ -133,7 +149,8 @@
   "meaning": "नाडिके द्वे मुहूर्तस् तु पञ्चाशत्पलम् आढकम् । आढकात् कुम्भको द्रोणः कुटपैर् वर्धते त्रिभिः ॥",
   "text": "",
   "mandala": 17,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Two nāḍikās make a muhūrta; fifty palas make an āḍhaka; / from an āḍhaka, a droṇa is a jar, increasing by three kuṭapas. // 17"
  },
  {
   "reference": "18",
@@ -141,7 +158,8 @@
   "meaning": "ससप्तकं भयुक् सोमः सूर्यो द्यूनि त्रयोदश । नवभानि च पञ्चाह्नः काष्ठाः पञ्चाक्षराः स्मृताः ॥",
   "text": "",
   "mandala": 18,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "The Moon joined with an asterism is with seven [parts]; the Sun [traverses] thirteen civil days / and nine asterism-fractions of a day; a kāṣṭhā is remembered as [the time of] five syllables. // 18"
  },
  {
   "reference": "19",
@@ -149,7 +167,8 @@
   "meaning": "श्रविष्ठायां गणाभ्यस्तान् प्राग्विलग्नान् विनिर्दिशेत् । स्तर्यान् मासान् षडभ्यस्तान् विद्याच् चान्द्रमसान् ऋतुन् ॥",
   "text": "",
   "mandala": 19,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "One should indicate those that rise in the east, multiplied by the group, at Śraviṣṭhā; / one should know the fixed months multiplied by six, as the lunar seasons. // 19"
  },
  {
   "reference": "20",
@@ -157,7 +176,8 @@
   "meaning": "अतीतपर्वभागेभ्यः शोधयेद् द्विगुणां तिथिम् । तेषु मण्डलभागेषु तिथिनिष्ठांगतो रविः ॥",
   "text": "",
   "mandala": 20,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "From the elapsed parvan-fractions, one should subtract twice the tithi; / in those fractions of the circle, the Sun has reached the end of the tithi. // 20"
  },
  {
   "reference": "21",
@@ -165,7 +185,8 @@
   "meaning": "याः पर्वभादानकलास् तासु सप्तगुणां तिथिम् । प्रक्षिपेत् तत्समूहस् तु विद्याद् आदानिकीः कलाः ॥",
   "text": "",
   "mandala": 21,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "To the kalās of the entry of the parvan asterism, one should add seven times the tithi; / one should know that sum as the kalās of the entry. // 21"
  },
  {
   "reference": "22",
@@ -173,7 +194,8 @@
   "meaning": "यद् उत्तरस्यायनतो गतं स्याच् छेषं तु यद् दक्षिणतो ऽयनस्य । तद् एकषष्ट्या द्विगुणं विभक्तं सद्वादशं स्याद् दिवसप्रमाणम् ॥",
   "text": "",
   "mandala": 22,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "What has elapsed of the northern solstice, and what remains of the southern solstice, / that, doubled and divided by sixty-one, together with twelve, is the measure of the day. // 22"
  },
  {
   "reference": "23",
@@ -181,7 +203,8 @@
   "meaning": "यद् अर्धं दिनभागानां सदा पर्वणि पर्वणि । ऋतुशेषं तु तद् विद्यात् संख्याय सहपर्वणाम् ॥",
   "text": "",
   "mandala": 23,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "What is the half of the day-fractions, always on every parvan, / one should know that as the remainder of the season, having counted along with the parvans. // 23"
  },
  {
   "reference": "24",
@@ -189,7 +212,8 @@
   "meaning": "इत्य् उपायसमुद्देशो भूयो ऽप्य् अह्नः प्रकल्पयेत् । ज्ञेयराशिगताभ्यस्तं विभजेत् ज्ञानराशिना ॥",
   "text": "",
   "mandala": 24,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Such is the explanation of the method; further, one should calculate for a day: / one should multiply by the elapsed [portion] of the unknown quantity and divide by the known quantity. // 24"
  },
  {
   "reference": "25",
@@ -197,7 +221,8 @@
   "meaning": "अग्निः प्रजापतिः सोमो रुद्रो ऽदितिर् बृहस्पतिः । सर्पाश् च पितरश् चैव भगश् चैवार्यमापि च ॥",
   "text": "",
   "mandala": 25,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Agni, Prajāpati, Soma, Rudra, Aditi, Bṛhaspati, / the Serpents, the Ancestors, Bhaga, and Aryaman; // 25"
  },
  {
   "reference": "26",
@@ -205,7 +230,8 @@
   "meaning": "सविता त्वष्टाथ वायुश् चेन्द्राग्नी मित्र एव च । इन्द्रो निऋर्तिर् आपो वै विश्वेदेवास् तथैव च ॥",
   "text": "",
   "mandala": 26,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Savitṛ, Tvaṣṭṛ, then Vāyu, Indra-and-Agni, and Mitra; / Indra, Nirṛti, the Waters, and also the Viśvedevas; // 26"
  },
  {
   "reference": "27",
@@ -213,7 +239,8 @@
   "meaning": "विष्नुर् वसवो वरुणो ऽज एकपात् तथैव च । अहिर्बुध्न्यस् तथा पूषा अश्विनौ यम एव च ॥",
   "text": "",
   "mandala": 27,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Viṣṇu, the Vasus, Varuṇa, Aja Ekapād, / Ahirbudhnya, Pūṣan, the Aśvins, and Yama: // 27"
  },
  {
   "reference": "28",
@@ -221,7 +248,8 @@
   "meaning": "नक्षत्रदेवता एता एताभिर् यज्ञकर्मणि । यजमानस्य शास्त्रज्ञैर् नाम नक्षत्रजं स्मृतम् ॥",
   "text": "",
   "mandala": 28,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "these are the deities of the nakṣatras; through these, in the sacrificial rite, / the name derived from the nakṣatra is remembered by those learned in the scriptures for the sacrificer. // 28"
  },
  {
   "reference": "29",
@@ -229,7 +257,8 @@
   "meaning": "इत्य् एवं मासवर्षाणां मुहूर्तोदयपर्वणाम् । दिनर्त्वयनम् आसाङ्गं व्याख्यानं लगधो ऽब्रवीत् ॥",
   "text": "",
   "mandala": 29,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "In this way, Lagadha pronounced the exposition of the months, years, / muhūrtas, risings, and parvans, having the days, seasons, solstices, and months as its limbs. // 29"
  },
  {
   "reference": "30",
@@ -237,7 +266,8 @@
   "meaning": "सोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम् । सोमसूर्यस्तृचरितं विद्वान् वेदविद् अश्नुते ॥",
   "text": "",
   "mandala": 30,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "The knower of the Veda, knowing the course of the Moon, Sun, and asterisms, / obtains the world and esteem in the world. // 30"
  },
  {
   "reference": "31",
@@ -245,7 +275,8 @@
   "meaning": "विषुवं तद्गुणं द्वाभ्यां रूपहीनं तु षड्गुणम् । यल् लब्धं तानि पर्वाणि तथार्धं सा तिथिर् भवेत् ॥",
   "text": "",
   "mandala": 31,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Multiply the equinox by two, diminish it by one, and multiply by six: / the result obtained is the parvans, and half of that will be the tithi. // 31"
  },
  {
   "reference": "32",
@@ -253,7 +284,8 @@
   "meaning": "माघशुक्लप्रवृत्तस्य पौषकृष्नसमापिनः । युगस्य पञ्चवर्षस्य कालज्ञानं प्रचक्षते ॥",
   "text": "",
   "mandala": 32,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "They declare the knowledge of time for the five-year yuga / that begins in the bright [fortnight] of Māgha and ends in the dark [fortnight] of Pauṣa. // 32"
  },
  {
   "reference": "33",
@@ -261,7 +293,8 @@
   "meaning": "तृतीयां नवमीं चैव पौर्णमासीम् अथासिते । षष्ठीं च विषुवान् प्रोक्तो द्वादशीं च समं भवेत् ॥",
   "text": "",
   "mandala": 33,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "On the third, on the ninth, and on the full moon, then in the dark [fortnight] / on the sixth, the equinox is declared, and on the twelfth it will be equal. // 33"
  },
  {
   "reference": "34",
@@ -269,7 +302,8 @@
   "meaning": "चतुर्दशीम् उपवसथस् तथा भवेद् यथोदितो दिनम् उपैति चन्द्रमाः । माघशुक्लाह्निको युङ्क्ते श्रविष्ठायां च वार्षिकीम् ॥",
   "text": "",
   "mandala": 34,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "The fast day will fall on the fourteenth, when the Moon reaches the day as it rises; / the diurnal [Sun] in the bright [fortnight] of Māgha joins in Śraviṣṭhā the annual [cycle]. // 34"
  },
  {
   "reference": "35",
@@ -277,6 +311,7 @@
   "meaning": "यथा शिखा मयूराणां नागानां मणयो यथा । तद्वद् वेदाङ्गशास्त्राणां ज्योतिषं मूर्धनि स्थितम् ॥",
   "text": "",
   "mandala": 35,
-  "vedaId": "jyotisa_rk"
+  "vedaId": "jyotisa_rk",
+  "text_mt": "Just as crests are on peacocks, just as jewels are on serpents, / so stands astronomy at the head of the Vedāṅga treatises. // 35"
  }
 ]

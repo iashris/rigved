@@ -43,7 +43,7 @@
  {
   "reference": "1.1.9",
   "original": "Yo nāccasārī na paccasārī,\nSabbaṁ vitathamidanti ñatva loke;\nSo bhikkhu jahāti orapāraṁ,\nUrago jiṇṇamivattacaṁ purāṇaṁ.",
-  "text": "They have not run too far nor run back,\nfor they know that nothing in the world <j>is what it seems.\nSuch a mendicant sheds the near shore and the far,\nas a serpent its old worn-out skin."
+  "text": "They have not run too far nor run back,\nfor they know that nothing in the world\nis what it seems.\nSuch a mendicant sheds the near shore and the far,\nas a serpent its old worn-out skin."
  },
  {
   "reference": "1.1.10",
@@ -94,7 +94,7 @@
  {
   "reference": "1.2.2",
   "original": "“Akkodhano vigatakhilohamasmi, (iti bhagavā)\nAnutīre mahiyekarattivāso;\nVivaṭā kuṭi nibbuto gini,\nAtha ce patthayasī pavassa deva”.",
-  "text": "“I boil not with anger <j>and have drawn out hard-heartedness,” said the Buddha,\n“I stay for one night along the bank of the Mahī.\nMy hut is wide open, my fire is quenched:\nso rain forth, heavens, if you wish.”"
+  "text": "“I boil not with anger\nand have drawn out hard-heartedness,” said the Buddha,\n“I stay for one night along the bank of the Mahī.\nMy hut is wide open, my fire is quenched:\nso rain forth, heavens, if you wish.”"
  },
  {
   "reference": "1.2.3",
@@ -104,7 +104,7 @@
  {
   "reference": "1.2.4",
   "original": "“Baddhāsi bhisī susaṅkhatā, (iti bhagavā)\nTiṇṇo pāragato vineyya oghaṁ;\nAttho bhisiyā na vijjati,\nAtha ce patthayasī pavassa deva”.",
-  "text": "“I bound a raft and prepared it well,” said the Buddha,\n“and with it I crossed over, went to the far shore, <j>and dispelled the flood.\nNow I have no need for a raft:\nso rain forth, heavens, if you wish.”"
+  "text": "“I bound a raft and prepared it well,” said the Buddha,\n“and with it I crossed over, went to the far shore,\nand dispelled the flood.\nNow I have no need for a raft:\nso rain forth, heavens, if you wish.”"
  },
  {
   "reference": "1.2.5",
@@ -240,7 +240,7 @@
  {
   "reference": "1.3.14",
   "original": "“Disvā suvaṇṇassa pabhassarāni,\nKammāraputtena suniṭṭhitāni;\nSaṅghaṭṭamānāni duve bhujasmiṁ,\nEko care khaggavisāṇakappo”.",
-  "text": "Though made of shining gold, <j>well-finished by a smith,\nwhen two bracelets share the same arm\nthey clash up against each other. Seeing this,\nlive alone like a horned rhino."
+  "text": "Though made of shining gold,\nwell-finished by a smith,\nwhen two bracelets share the same arm\nthey clash up against each other. Seeing this,\nlive alone like a horned rhino."
  },
  {
   "reference": "1.3.15",
@@ -275,7 +275,7 @@
  {
   "reference": "1.3.21",
   "original": "“Diṭṭhīvisūkāni upātivatto,\nPatto niyāmaṁ paṭiladdhamaggo;\nUppannañāṇomhi anaññaneyyo,\nEko care khaggavisāṇakappo”.",
-  "text": "Thinking, “I have left twisted views behind,\nreached the sure way, and gained the path;\nI’ve given rise to knowledge, <j>and need no one to guide me”,\nlive alone like a horned rhino."
+  "text": "Thinking, “I have left twisted views behind,\nreached the sure way, and gained the path;\nI’ve given rise to knowledge,\nand need no one to guide me”,\nlive alone like a horned rhino."
  },
  {
   "reference": "1.3.22",
@@ -290,12 +290,12 @@
  {
   "reference": "1.3.24",
   "original": "“Bahussutaṁ dhammadharaṁ bhajetha,\nMittaṁ uḷāraṁ paṭibhānavantaṁ;\nAññāya atthāni vineyya kaṅkhaṁ,\nEko care khaggavisāṇakappo”.",
-  "text": "Spend time with the learned <j>who have memorized the teachings,\nan eloquent and uplifting friend.\nWhen you understand the meanings <j>and have dispelled doubt,\nlive alone like a horned rhino."
+  "text": "Spend time with the learned\nwho have memorized the teachings,\nan eloquent and uplifting friend.\nWhen you understand the meanings\nand have dispelled doubt,\nlive alone like a horned rhino."
  },
  {
   "reference": "1.3.25",
   "original": "“Khiḍḍaṁ ratiṁ kāmasukhañca loke,\nAnalaṅkaritvā anapekkhamāno;\nVibhūsanaṭṭhānā virato saccavādī,\nEko care khaggavisāṇakappo”.",
-  "text": "When you realize that worldly fun and games\nand pleasure are inadequate, <j>unconcerned with them,\nas one unadorned, a speaker of truth,\nlive alone like a horned rhino."
+  "text": "When you realize that worldly fun and games\nand pleasure are inadequate,\nunconcerned with them,\nas one unadorned, a speaker of truth,\nlive alone like a horned rhino."
  },
  {
   "reference": "1.3.26",
@@ -325,7 +325,7 @@
  {
   "reference": "1.3.31",
   "original": "“Rasesu gedhaṁ akaraṁ alolo,\nAnaññaposī sapadānacārī;\nKule kule appaṭibaddhacitto,\nEko care khaggavisāṇakappo”.",
-  "text": "Not wanton, nor rousing greed for tastes,\nproviding for no other, <j>wandering indiscriminately for alms,\nnot attached to this family or that,\nlive alone like a horned rhino."
+  "text": "Not wanton, nor rousing greed for tastes,\nproviding for no other,\nwandering indiscriminately for alms,\nnot attached to this family or that,\nlive alone like a horned rhino."
  },
  {
   "reference": "1.3.32",
@@ -375,7 +375,7 @@
  {
   "reference": "1.3.41",
   "original": "“Bhajanti sevanti ca kāraṇatthā,\nNikkāraṇā dullabhā ajja mittā;\nAttaṭṭhapaññā asucī manussā,\nEko care khaggavisāṇakappo”.",
-  "text": "They befriend you and serve you for their own sake;\nthese days it’s hard to find friends <j>lacking ulterior motive.\nImpure folk cleverly profit themselves—\nlive alone like a horned rhino."
+  "text": "They befriend you and serve you for their own sake;\nthese days it’s hard to find friends\nlacking ulterior motive.\nImpure folk cleverly profit themselves—\nlive alone like a horned rhino."
  },
  {
   "reference": "1.4.1",
@@ -431,7 +431,7 @@
  {
   "reference": "1.4.11",
   "original": "“Gāthābhigītaṁ me abhojaneyyaṁ,\nSampassataṁ brāhmaṇa nesa dhammo;\nGāthābhigītaṁ panudanti buddhā,\nDhamme satī brāhmaṇa vuttiresā.",
-  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin, <j>that’s how they live."
+  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin,\nthat’s how they live."
  },
  {
   "reference": "1.4.12",
@@ -467,7 +467,7 @@
  {
   "reference": "1.5.2",
   "original": "“Caturo samaṇā na pañcamatthi, (cundāti bhagavā)\nTe te āvikaromi sakkhipuṭṭho;\nMaggajino maggadesako ca,\nMagge jīvati yo ca maggadūsī”.",
-  "text": "“There are four ascetics, not a fifth.” said the Buddha to Cunda,\n“Being asked to bear witness, <j>I will explain them to you:\nthe path-victor, the path-teacher,\nthe path-liver, and the path-wrecker.”"
+  "text": "“There are four ascetics, not a fifth.” said the Buddha to Cunda,\n“Being asked to bear witness,\nI will explain them to you:\nthe path-victor, the path-teacher,\nthe path-liver, and the path-wrecker.”"
  },
  {
   "reference": "1.5.3",
@@ -497,7 +497,7 @@
  {
   "reference": "1.5.8",
   "original": "Ete ca paṭivijjhi yo gahaṭṭho,\nSutavā ariyasāvako sapañño;\nSabbe netādisāti ñatvā,\nIti disvā na hāpeti tassa saddhā;\nKathaṁ hi duṭṭhena asampaduṭṭhaṁ,\nSuddhaṁ asuddhena samaṁ kareyyā”ti.",
-  "text": "A layperson who gets this,\na learned, wise noble disciple,\nknows that ‘They are not all like that one’.\nSo when they see them they don’t lose their faith.\nFor how could one equate them—\nthe corrupt with the uncorrupt, <j>the pure with the impure?”"
+  "text": "A layperson who gets this,\na learned, wise noble disciple,\nknows that ‘They are not all like that one’.\nSo when they see them they don’t lose their faith.\nFor how could one equate them—\nthe corrupt with the uncorrupt,\nthe pure with the impure?”"
  },
  {
   "reference": "1.6.1",
@@ -789,7 +789,7 @@
  {
   "reference": "1.8.1",
   "original": "“Karaṇīyamatthakusalena,\nYanta santaṁ padaṁ abhisamecca;\nSakko ujū ca suhujū ca,\nSūvaco cassa mudu anatimānī.",
-  "text": "Those who are skilled in the meaning of scripture\nshould practice as follows <j>to realize the state of peace.\nLet them be capable and upright, very upright,\neasy to speak to, gentle and humble;",
+  "text": "Those who are skilled in the meaning of scripture\nshould practice as follows\nto realize the state of peace.\nLet them be capable and upright, very upright,\neasy to speak to, gentle and humble;",
   "title": "The Discourse on Love (Mettasutta)"
  },
  {
@@ -810,7 +810,7 @@
  {
   "reference": "1.8.5",
   "original": "Diṭṭhā vā ye va adiṭṭhā,\nYe va dūre vasanti avidūre;\nBhūtā va sambhavesī va,\nSabbasattā bhavantu sukhitattā.",
-  "text": "seen or unseen,\nliving far or near,\nthose who have been born <j>and those about to be born—\nmay all beings be happy!"
+  "text": "seen or unseen,\nliving far or near,\nthose who have been born\nand those about to be born—\nmay all beings be happy!"
  },
  {
   "reference": "1.8.6",
@@ -830,7 +830,7 @@
  {
   "reference": "1.8.9",
   "original": "Tiṭṭhaṁ caraṁ nisinno va,\nSayāno yāvatāssa vitamiddho;\nEtaṁ satiṁ adhiṭṭheyya,\nBrahmametaṁ vihāramidhamāhu.",
-  "text": "When standing, walking, sitting,\nor lying down while yet unweary,\nkeep this ever in mind;\nfor this, they say, is a divine meditation <j>in this life."
+  "text": "When standing, walking, sitting,\nor lying down while yet unweary,\nkeep this ever in mind;\nfor this, they say, is a divine meditation\nin this life."
  },
  {
   "reference": "1.8.10",
@@ -966,12 +966,12 @@
  {
   "reference": "1.9.26",
   "original": "“Gambhīrapaññaṁ nipuṇatthadassiṁ,\nAkiñcanaṁ kāmabhave asattaṁ;\nTaṁ passatha sabbadhi vippamuttaṁ,\nDibbe pathe kamamānaṁ mahesiṁ.",
-  "text": "“Behold him of wisdom deep <j>who sees the subtle meaning,\nwho has nothing, unattached to sensual life,\neverywhere free,\nthe great seer treading the holy road."
+  "text": "“Behold him of wisdom deep\nwho sees the subtle meaning,\nwho has nothing, unattached to sensual life,\neverywhere free,\nthe great seer treading the holy road."
  },
  {
   "reference": "1.9.27",
   "original": "Anomanāmaṁ nipuṇatthadassiṁ,\nPaññādadaṁ kāmālaye asattaṁ;\nTaṁ passatha sabbaviduṁ sumedhaṁ,\nAriye pathe kamamānaṁ mahesiṁ.",
-  "text": "Behold him of peerless name <j>who sees the subtle meaning,\ngiver of wisdom, <j>unattached to the realm of sensuality:\nthe all-knower, so very intelligent,\nthe great seer treading the noble road."
+  "text": "Behold him of peerless name\nwho sees the subtle meaning,\ngiver of wisdom,\nunattached to the realm of sensuality:\nthe all-knower, so very intelligent,\nthe great seer treading the noble road."
  },
  {
   "reference": "1.9.28",
@@ -1154,7 +1154,7 @@
  {
   "reference": "1.12.2",
   "original": "Yo jātamucchijja na ropayeyya,\nJāyantamassa nānuppavecche;\nTamāhu ekaṁ muninaṁ carantaṁ,\nAddakkhi so santipadaṁ mahesi.",
-  "text": "Having cut down what’s grown, <j>they wouldn’t replant,\nnor would they nurture what’s growing.\nThat’s who they call a sage wandering alone,\nthe great seer has seen the state of peace."
+  "text": "Having cut down what’s grown,\nthey wouldn’t replant,\nnor would they nurture what’s growing.\nThat’s who they call a sage wandering alone,\nthe great seer has seen the state of peace."
  },
  {
   "reference": "1.12.3",
@@ -1164,7 +1164,7 @@
  {
   "reference": "1.12.4",
   "original": "Aññāya sabbāni nivesanāni,\nAnikāmayaṁ aññatarampi tesaṁ;\nSa ve munī vītagedho agiddho,\nNāyūhatī pāragato hi hoti.",
-  "text": "Understanding all the planes of rebirth,\nnot wanting a single one of them;\ntruly that sage freed of greed\nneed not swim, <j>for they have reached the far shore."
+  "text": "Understanding all the planes of rebirth,\nnot wanting a single one of them;\ntruly that sage freed of greed\nneed not swim,\nfor they have reached the far shore."
  },
  {
   "reference": "1.12.5",
@@ -1174,7 +1174,7 @@
  {
   "reference": "1.12.6",
   "original": "Paññābalaṁ sīlavatūpapannaṁ,\nSamāhitaṁ jhānarataṁ satīmaṁ;\nSaṅgā pamuttaṁ akhilaṁ anāsavaṁ,\nTaṁ vāpi dhīrā muni vedayanti.",
-  "text": "Strong in wisdom, <j>with precepts and observances intact,\nserene, loving absorption, mindful,\nreleased from chains, kind, undefiled:\nthat’s who the attentive know as a sage."
+  "text": "Strong in wisdom,\nwith precepts and observances intact,\nserene, loving absorption, mindful,\nreleased from chains, kind, undefiled:\nthat’s who the attentive know as a sage."
  },
  {
   "reference": "1.12.7",
@@ -1209,17 +1209,17 @@
  {
   "reference": "1.12.13",
   "original": "Aññāya lokaṁ paramatthadassiṁ,\nOghaṁ samuddaṁ atitariya tādiṁ;\nTaṁ chinnaganthaṁ asitaṁ anāsavaṁ,\nTaṁ vāpi dhīrā muni vedayanti.",
-  "text": "Understanding the world, <j>the seer of the ultimate goal,\nthe unaffected one, <j>having crossed the flood and the ocean,\nhas cut the ties, unattached and undefiled:\nthat’s who the attentive know as a sage."
+  "text": "Understanding the world,\nthe seer of the ultimate goal,\nthe unaffected one,\nhaving crossed the flood and the ocean,\nhas cut the ties, unattached and undefiled:\nthat’s who the attentive know as a sage."
  },
  {
   "reference": "1.12.14",
   "original": "Asamā ubho dūravihāravuttino,\nGihī dāraposī amamo ca subbato;\nParapāṇarodhāya gihī asaññato,\nNiccaṁ munī rakkhati pāṇine yato.",
-  "text": "The two are not the same, <j>far apart in lifestyle and conduct—\nthe householder providing for a wife, <j>and the selfless one true to their vows.\nThe unrestrained householder kills other creatures,\nwhile the restrained sage <j>always protects living creatures."
+  "text": "The two are not the same,\nfar apart in lifestyle and conduct—\nthe householder providing for a wife,\nand the selfless one true to their vows.\nThe unrestrained householder kills other creatures,\nwhile the restrained sage\nalways protects living creatures."
  },
  {
   "reference": "1.12.15",
   "original": "Sikhī yathā nīlagīvo vihaṅgamo,\nHaṁsassa nopeti javaṁ kudācanaṁ;\nEvaṁ gihī nānukaroti bhikkhuno,\nMunino vivittassa vanamhi jhāyatoti.",
-  "text": "As the crested blue-necked peacock <j>flying through the sky\nnever approaches the speed of the swan,\nso the householder cannot compete <j>with the mendicant,\nthe sage meditating secluded in the woods."
+  "text": "As the crested blue-necked peacock\nflying through the sky\nnever approaches the speed of the swan,\nso the householder cannot compete\nwith the mendicant,\nthe sage meditating secluded in the woods."
  },
  {
   "reference": "1.12.16",
@@ -1260,7 +1260,7 @@
  {
   "reference": "2.1.7",
   "original": "Ye suppayuttā manasā daḷhena,\nNikkāmino gotamasāsanamhi;\nTe pattipattā amataṁ vigayha,\nLaddhā mudhā nibbutiṁ bhuñjamānā;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
-  "text": "Dedicated to Gotama’s dispensation,\nstrong-minded, free of sense desire,\nthey’ve attained the goal, <j>plunged into freedom from death,\nand enjoy the quenching they’ve freely gained.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+  "text": "Dedicated to Gotama’s dispensation,\nstrong-minded, free of sense desire,\nthey’ve attained the goal,\nplunged into freedom from death,\nand enjoy the quenching they’ve freely gained.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
  },
  {
   "reference": "2.1.8",
@@ -1285,7 +1285,7 @@
  {
   "reference": "2.1.12",
   "original": "Kiñcāpi so kamma karoti pāpakaṁ,\nKāyena vācā uda cetasā vā;\nAbhabba so tassa paṭicchadāya,\nAbhabbatā diṭṭhapadassa vuttā;\nIdampi saṅghe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
-  "text": "Even if they do a bad deed\nby body, speech, or mind,\nthey are unable to conceal it;\nthis, it’s said, is the inability <j>of one who has seen the truth.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
+  "text": "Even if they do a bad deed\nby body, speech, or mind,\nthey are unable to conceal it;\nthis, it’s said, is the inability\nof one who has seen the truth.\nThis sublime gem is in the Saṅgha:\nby this truth, may you be well!"
  },
  {
   "reference": "2.1.13",
@@ -1295,7 +1295,7 @@
  {
   "reference": "2.1.14",
   "original": "Varo varaññū varado varāharo,\nAnuttaro dhammavaraṁ adesayi;\nIdampi buddhe ratanaṁ paṇītaṁ,\nEtena saccena suvatthi hotu.",
-  "text": "The superb, knower of the superb, <j>giver of the superb, bringer of the superb;\ntaught the superb Dhamma supreme.\nThis sublime gem is in the Buddha:\nby this truth, may you be well!"
+  "text": "The superb, knower of the superb,\ngiver of the superb, bringer of the superb;\ntaught the superb Dhamma supreme.\nThis sublime gem is in the Buddha:\nby this truth, may you be well!"
  },
  {
   "reference": "2.1.15",
@@ -1366,27 +1366,27 @@
  {
   "reference": "2.2.10",
   "original": "Etesu giddhā viruddhātipātino,\nNiccuyyutā pecca tamaṁ vajanti ye;\nPatanti sattā nirayaṁ avaṁsirā,\nEsāmagandho na hi maṁsabhojanaṁ.",
-  "text": "Greedy, hostile, aggressive to others,\nand addicted to evil—<j>those beings pass into darkness,\nfalling headlong into hell:\nthis is putrefaction, not eating meat."
+  "text": "Greedy, hostile, aggressive to others,\nand addicted to evil—\nthose beings pass into darkness,\nfalling headlong into hell:\nthis is putrefaction, not eating meat."
  },
  {
   "reference": "2.2.11",
   "original": "Na macchamaṁsānamanāsakattaṁ,\nNa naggiyaṁ na muṇḍiyaṁ jaṭājallaṁ;\nKharājināni nāggihuttassupasevanā,\nYe vāpi loke amarā bahū tapā;\nMantāhutī yaññamutūpasevanā,\nSodhenti maccaṁ avitiṇṇakaṅkhaṁ.",
-  "text": "Not fish or flesh or fasting,\nnudity or baldness, or dreadlocks or dirt,\nnot rough hides or serving the sacred flame,\nor the many endless mortifications in the world,\nnot hymns or oblations, <j>sacrifices or seasonal observances,\nwill cleanse a mortal not free of doubt."
+  "text": "Not fish or flesh or fasting,\nnudity or baldness, or dreadlocks or dirt,\nnot rough hides or serving the sacred flame,\nor the many endless mortifications in the world,\nnot hymns or oblations,\nsacrifices or seasonal observances,\nwill cleanse a mortal not free of doubt."
  },
  {
   "reference": "2.2.12",
   "original": "Sotesu gutto viditindriyo care,\nDhamme ṭhito ajjavamaddave rato;\nSaṅgātigo sabbadukkhappahīno,\nNa lippati diṭṭhasutesu dhīro”.",
-  "text": "Guarding the streams of sense impressions, <j>wander with faculties understood,\nstanding on the teaching, delighting in integrity and tenderness.\nThe attentive have slipped their chains <j>and given up all suffering;\nthey don’t cling to the seen and the heard.”"
+  "text": "Guarding the streams of sense impressions,\nwander with faculties understood,\nstanding on the teaching, delighting in integrity and tenderness.\nThe attentive have slipped their chains\nand given up all suffering;\nthey don’t cling to the seen and the heard.”"
  },
  {
   "reference": "2.2.13",
   "original": "Iccetamatthaṁ bhagavā punappunaṁ,\nAkkhāsi naṁ vedayi mantapāragū;\nCitrāhi gāthāhi munī pakāsayi,\nNirāmagandho asito durannayo.",
-  "text": "The Buddha explained this matter to him <j>again and again,\nuntil the master of hymns understood it.\nIt was illustrated with colorful verses\nby the sage free of putrefaction, <j>unattached, hard to trace."
+  "text": "The Buddha explained this matter to him\nagain and again,\nuntil the master of hymns understood it.\nIt was illustrated with colorful verses\nby the sage free of putrefaction,\nunattached, hard to trace."
  },
  {
   "reference": "2.2.14",
   "original": "Sutvāna buddhassa subhāsitaṁ padaṁ,\nNirāmagandhaṁ sabbadukkhappanūdanaṁ;\nNīcamano vandi tathāgatassa,\nTattheva pabbajjamarocayitthāti.",
-  "text": "Having heard the fine words of the Buddha,\nthat are free of putrefaction, <j>casting aside all suffering;\nhumbled, he bowed to the Realized One,\nand right away begged to go forth."
+  "text": "Having heard the fine words of the Buddha,\nthat are free of putrefaction,\ncasting aside all suffering;\nhumbled, he bowed to the Realized One,\nand right away begged to go forth."
  },
  {
   "reference": "2.3.1",
@@ -1514,7 +1514,7 @@
  {
   "reference": "2.5.7",
   "original": "Snehajā attasambhūtā,\nNigrodhasseva khandhajā;\nPuthū visattā kāmesu,\nMāluvāva vitatāvane.",
-  "text": "Born of affection, originating in oneself,\nlike prop roots sprouting from a banyan;\nthe many kinds of attachment to sensual pleasures\nare like camel’s foot creeper <j>creeping through the woods."
+  "text": "Born of affection, originating in oneself,\nlike prop roots sprouting from a banyan;\nthe many kinds of attachment to sensual pleasures\nare like camel’s foot creeper\ncreeping through the woods."
  },
  {
   "reference": "2.5.8",
@@ -1545,7 +1545,7 @@
  {
   "reference": "2.6.5",
   "original": "Vinipātaṁ samāpanno,\ngabbhā gabbhaṁ tamā tamaṁ;\nSa ve tādisako bhikkhu,\npecca dukkhaṁ nigacchati.",
-  "text": "Entering the underworld,\npassing from womb to womb, <j>from darkness to darkness,\nsuch a mendicant\nfalls into suffering after death."
+  "text": "Entering the underworld,\npassing from womb to womb,\nfrom darkness to darkness,\nsuch a mendicant\nfalls into suffering after death."
  },
  {
   "reference": "2.6.6",
@@ -1676,7 +1676,7 @@
  {
   "reference": "2.7.21",
   "original": "Tato ca rājā saññatto,\nBrāhmaṇehi rathesabho;\nAssamedhaṁ purisamedhaṁ,\nSammāpāsaṁ vājapeyyaṁ niraggaḷaṁ;\nEte yāge yajitvāna,\nBrāhmaṇānamadā dhanaṁ.",
-  "text": "Persuaded by the brahmins,\nthe king, chief of charioteers, performed\nhorse sacrifice, human sacrifice,\nthe sacrifices of the ‘casting of the yoke-pin’, <j>the ‘royal soma drinking’, and the ‘unimpeded’.\nWhen he had carried out these sacrifices,\nhe gave riches to the brahmins."
+  "text": "Persuaded by the brahmins,\nthe king, chief of charioteers, performed\nhorse sacrifice, human sacrifice,\nthe sacrifices of the ‘casting of the yoke-pin’,\nthe ‘royal soma drinking’, and the ‘unimpeded’.\nWhen he had carried out these sacrifices,\nhe gave riches to the brahmins."
  },
  {
   "reference": "2.7.22",
@@ -1782,7 +1782,7 @@
  {
   "reference": "2.8.8",
   "original": "Tasmā have sappurisaṁ bhajetha,\nMedhāvinañceva bahussutañca;\nAññāya atthaṁ paṭipajjamāno,\nViññātadhammo sa sukhaṁ labhethāti.",
-  "text": "That’s why you should spend time with a true person,\nintelligent and learned.\nHaving understood the meaning, <j>putting it into practice,\none who understands the teaching <j>would find happiness."
+  "text": "That’s why you should spend time with a true person,\nintelligent and learned.\nHaving understood the meaning,\nputting it into practice,\none who understands the teaching\nwould find happiness."
  },
  {
   "reference": "2.9.1",
@@ -1798,7 +1798,7 @@
  {
   "reference": "2.9.3",
   "original": "Kālena gacche garūnaṁ sakāsaṁ,\nThambhaṁ niraṅkatvā nivātavutti;\nAtthaṁ dhammaṁ saṁyamaṁ brahmacariyaṁ,\nAnussare ceva samācare ca.",
-  "text": "At the right time, they’d enter <j>the vicinity of their respected teachers\nin placid manner, leaving obstinacy behind.\nThey’d call to mind and put into practice\nthe meaning, the teaching, self-control, <j>and the spiritual life."
+  "text": "At the right time, they’d enter\nthe vicinity of their respected teachers\nin placid manner, leaving obstinacy behind.\nThey’d call to mind and put into practice\nthe meaning, the teaching, self-control,\nand the spiritual life."
  },
  {
   "reference": "2.9.4",
@@ -1818,7 +1818,7 @@
  {
   "reference": "2.9.7",
   "original": "Dhamme ca ye ariyapavedite ratā,\nAnuttarā te vacasā manasā kammunā ca;\nTe santisoraccasamādhisaṇṭhitā,\nSutassa paññāya ca sāramajjhagū”ti.",
-  "text": "Those happy with the teaching <j>proclaimed by the Noble One\nare supreme in speech, mind, and deed.\nAbiding in peace, gentleness, and stillness,\nthey’ve realized the essence of learning and wisdom.”"
+  "text": "Those happy with the teaching\nproclaimed by the Noble One\nare supreme in speech, mind, and deed.\nAbiding in peace, gentleness, and stillness,\nthey’ve realized the essence of learning and wisdom.”"
  },
  {
   "reference": "2.10.1",
@@ -1911,12 +1911,12 @@
  {
   "reference": "2.12.5",
   "original": "Chindeva no vicikicchaṁ brūhi metaṁ,\nParinibbutaṁ vedaya bhūripañña;\nMajjheva no bhāsa samantacakkhu,\nSakkova devāna sahassanetto.",
-  "text": "Cut off our doubt, declare this to us;\nyour wisdom is vast, tell us of his quenching!\nAll-seer, speak among us,\nlike the thousand-eyed Sakka <j>in the midst of the gods!"
+  "text": "Cut off our doubt, declare this to us;\nyour wisdom is vast, tell us of his quenching!\nAll-seer, speak among us,\nlike the thousand-eyed Sakka\nin the midst of the gods!"
  },
  {
   "reference": "2.12.6",
   "original": "Ye keci ganthā idha mohamaggā,\nAññāṇapakkhā vicikicchaṭhānā;\nTathāgataṁ patvā na te bhavanti,\nCakkhuñhi etaṁ paramaṁ narānaṁ.",
-  "text": "Whatever ties there are, or paths to delusion,\nor things on the side of unknowing, <j>or that are bases of doubt\nvanish on reaching a Realized One,\nfor his eye is the best of all people’s."
+  "text": "Whatever ties there are, or paths to delusion,\nor things on the side of unknowing,\nor that are bases of doubt\nvanish on reaching a Realized One,\nfor his eye is the best of all people’s."
  },
  {
   "reference": "2.12.7",
@@ -1936,22 +1936,22 @@
  {
   "reference": "2.12.10",
   "original": "Pahīnajātimaraṇaṁ asesaṁ,\nNiggayha dhonaṁ vadessāmi dhammaṁ;\nNa kāmakāro hi puthujjanānaṁ,\nSaṅkheyyakāro ca tathāgatānaṁ.",
-  "text": "You have entirely abandoned birth and death;\ncurbed and pure, I urge you, speak the Dhamma!\nFor ordinary people <j>have no wish-granter,\nbut Realized Ones <j>have a comprehensibility-granter."
+  "text": "You have entirely abandoned birth and death;\ncurbed and pure, I urge you, speak the Dhamma!\nFor ordinary people\nhave no wish-granter,\nbut Realized Ones\nhave a comprehensibility-granter."
  },
  {
   "reference": "2.12.11",
   "original": "Sampannaveyyākaraṇaṁ tavedaṁ,\nSamujjupaññassa samuggahītaṁ;\nAyamañjalī pacchimo suppaṇāmito,\nMā mohayī jānamanomapañña.",
-  "text": "Your answer is definitive, and we will adopt it,\nfor you have perfect understanding.\nWe raise our cupped palms one last time,\none of unrivaled wisdom, <j>don’t deliberately confuse us."
+  "text": "Your answer is definitive, and we will adopt it,\nfor you have perfect understanding.\nWe raise our cupped palms one last time,\none of unrivaled wisdom,\ndon’t deliberately confuse us."
  },
  {
   "reference": "2.12.12",
   "original": "Parovaraṁ ariyadhammaṁ viditvā,\nMā mohayī jānamanomavīra;\nVāriṁ yathā ghammani ghammatatto,\nVācābhikaṅkhāmi sutaṁ pavassa.",
-  "text": "Knowing the teaching of the noble ones <j>from top to bottom,\none of unrivaled energy, <j>don’t deliberately confuse us.\nAs a man baking in the summer sun <j>would long for water,\nI long for your voice, so let the sound rain forth."
+  "text": "Knowing the teaching of the noble ones\nfrom top to bottom,\none of unrivaled energy,\ndon’t deliberately confuse us.\nAs a man baking in the summer sun\nwould long for water,\nI long for your voice, so let the sound rain forth."
  },
  {
   "reference": "2.12.13",
   "original": "Yadatthikaṁ brahmacariyaṁ acarī,\nKappāyano kaccissa taṁ amoghaṁ;\nNibbāyi so ādu saupādiseso,\nYathā vimutto ahu taṁ suṇoma”.",
-  "text": "Surely Kappāyana did not <j>lead the spiritual life in vain?\nDid he realize quenching,\nor did he still have a residue?\nLet us hear what kind of liberation he had!”"
+  "text": "Surely Kappāyana did not\nlead the spiritual life in vain?\nDid he realize quenching,\nor did he still have a residue?\nLet us hear what kind of liberation he had!”"
  },
  {
   "reference": "2.12.14",
@@ -1976,7 +1976,7 @@
  {
   "reference": "2.13.1",
   "original": "“Pucchāmi muniṁ pahūtapaññaṁ,\nTiṇṇaṁ pāraṅgataṁ parinibbutaṁ ṭhitattaṁ;\nNikkhamma gharā panujja kāme,\nKathaṁ bhikkhu sammā so loke paribbajeyya”.",
-  "text": "“I ask the sage abounding in wisdom—\ncrossed-over, gone beyond, quenched, steadfast:\nwhen a mendicant has left home, <j>casting aside sensuality,\nwhat’s the right way to wander the world?”",
+  "text": "“I ask the sage abounding in wisdom—\ncrossed-over, gone beyond, quenched, steadfast:\nwhen a mendicant has left home,\ncasting aside sensuality,\nwhat’s the right way to wander the world?”",
   "title": "The Right Way to Wander (Sammāparibbājanīyasutta)"
  },
  {
@@ -2052,7 +2052,7 @@
  {
   "reference": "2.13.16",
   "original": "Aññāya padaṁ samecca dhammaṁ,\nVivaṭaṁ disvāna pahānamāsavānaṁ;\nSabbupadhīnaṁ parikkhayāno,\nSammā so loke paribbajeyya”.",
-  "text": "The state of peace is understood, <j>the truth is comprehended,\nthey’ve openly seen defilements cast off;\nand with the ending of all attachments,\nthey’d rightly wander the world.”"
+  "text": "The state of peace is understood,\nthe truth is comprehended,\nthey’ve openly seen defilements cast off;\nand with the ending of all attachments,\nthey’d rightly wander the world.”"
  },
  {
   "reference": "2.13.17",
@@ -2083,7 +2083,7 @@
  {
   "reference": "2.14.5",
   "original": "Āgañchi te santike nāgarājā,\nErāvaṇo nāma jinoti sutvā;\nSopi tayā mantayitvājjhagamā,\nSādhūti sutvāna patītarūpo.",
-  "text": "The dragon king Erāvaṇa, <j>hearing you called ‘Victor’,\ncame into your presence.\nHe consulted with you then, <j>having heard your words,\nleft consoled, saying ‘Excellent!’"
+  "text": "The dragon king Erāvaṇa,\nhearing you called ‘Victor’,\ncame into your presence.\nHe consulted with you then,\nhaving heard your words,\nleft consoled, saying ‘Excellent!’"
  },
  {
   "reference": "2.14.6",
@@ -2108,12 +2108,12 @@
  {
   "reference": "2.14.10",
   "original": "Sabbepime bhikkhavo sannisinnā,\nUpāsakā cāpi tatheva sotuṁ;\nSuṇantu dhammaṁ vimalenānubuddhaṁ,\nSubhāsitaṁ vāsavasseva devā”.",
-  "text": "All these mendicants have gathered,\nand the layfolk too are here to listen.\nLet them hear the teaching <j>the immaculate one discovered,\nlike gods listening to the fine words of Vāsava.”"
+  "text": "All these mendicants have gathered,\nand the layfolk too are here to listen.\nLet them hear the teaching\nthe immaculate one discovered,\nlike gods listening to the fine words of Vāsava.”"
  },
  {
   "reference": "2.14.11",
   "original": "“Suṇātha me bhikkhavo sāvayāmi vo,\nDhammaṁ dhutaṁ tañca carātha sabbe;\nIriyāpathaṁ pabbajitānulomikaṁ,\nSevetha naṁ atthadaso mutīmā.",
-  "text": "“Listen to me, mendicants, I will educate you\nin the cleansing teaching; all bear it in mind.\nA thoughtful person, seeing the meaning,\nwould adopt the deportment <j>proper to a renunciate."
+  "text": "“Listen to me, mendicants, I will educate you\nin the cleansing teaching; all bear it in mind.\nA thoughtful person, seeing the meaning,\nwould adopt the deportment\nproper to a renunciate."
  },
  {
   "reference": "2.14.12",
@@ -2143,7 +2143,7 @@
  {
   "reference": "2.14.17",
   "original": "Piṇḍaṁ vihāraṁ sayanāsanañca,\nĀpañca saṅghāṭirajūpavāhanaṁ;\nSutvāna dhammaṁ sugatena desitaṁ,\nSaṅkhāya seve varapaññasāvako.",
-  "text": "Alms, a dwelling, a bed and seat,\nand water for rinsing the dust from the cloak—\nafter hearing the teaching of the Holy One,\na disciple of outstanding wisdom <j>would use these after appraisal."
+  "text": "Alms, a dwelling, a bed and seat,\nand water for rinsing the dust from the cloak—\nafter hearing the teaching of the Holy One,\na disciple of outstanding wisdom\nwould use these after appraisal."
  },
  {
   "reference": "2.14.18",
@@ -2153,7 +2153,7 @@
  {
   "reference": "2.14.19",
   "original": "Gahaṭṭhavattaṁ pana vo vadāmi,\nYathākaro sāvako sādhu hoti;\nNa hesa labbhā sapariggahena,\nPhassetuṁ yo kevalo bhikkhudhammo.",
-  "text": "Now I shall tell you the householder’s duty,\ndoing which one becomes a good disciple.\nFor one burdened with possessions <j>does not get to realize\nthe whole of the mendicant’s practice."
+  "text": "Now I shall tell you the householder’s duty,\ndoing which one becomes a good disciple.\nFor one burdened with possessions\ndoes not get to realize\nthe whole of the mendicant’s practice."
  },
  {
   "reference": "2.14.20",
@@ -2163,7 +2163,7 @@
  {
   "reference": "2.14.21",
   "original": "Tato adinnaṁ parivajjayeyya,\nKiñci kvaci sāvako bujjhamāno;\nNa hāraye harataṁ nānujaññā,\nSabbaṁ adinnaṁ parivajjayeyya.",
-  "text": "Next, a disciple would avoid knowingly\ntaking anything not given at all,\nthey’d not get others to do it, <j>nor grant them permission to steal;\nthey’d avoid <em>all</em> theft."
+  "text": "Next, a disciple would avoid knowingly\ntaking anything not given at all,\nthey’d not get others to do it,\nnor grant them permission to steal;\nthey’d avoid all theft."
  },
  {
   "reference": "2.14.22",
@@ -2173,12 +2173,12 @@
  {
   "reference": "2.14.23",
   "original": "Sabhaggato vā parisaggato vā,\nEkassa veko na musā bhaṇeyya;\nNa bhāṇaye bhaṇataṁ nānujaññā,\nSabbaṁ abhūtaṁ parivajjayeyya.",
-  "text": "In a council or assembly,\nor one on one, they would not lie.\nThey’d not get others to lie, <j>nor grant them permission to lie;\nthey’d avoid <em>all</em> untruths."
+  "text": "In a council or assembly,\nor one on one, they would not lie.\nThey’d not get others to lie,\nnor grant them permission to lie;\nthey’d avoid all untruths."
  },
  {
   "reference": "2.14.24",
   "original": "Majjañca pānaṁ na samācareyya,\nDhammaṁ imaṁ rocaye yo gahaṭṭho;\nNa pāyaye pivataṁ nānujaññā,\nUmmādanantaṁ iti naṁ viditvā.",
-  "text": "A householder espousing this teaching\nwould not consume liquor or drink.\nThey’d not get others to drink, <j>nor grant them permission to drink;\nknowing that ends in intoxication."
+  "text": "A householder espousing this teaching\nwould not consume liquor or drink.\nThey’d not get others to drink,\nnor grant them permission to drink;\nknowing that ends in intoxication."
  },
  {
   "reference": "2.14.25",
@@ -2193,12 +2193,12 @@
  {
   "reference": "2.14.27",
   "original": "Mālaṁ na dhāre na ca gandhamācare,\nMañce chamāyaṁ va sayetha santhate;\nEtañhi aṭṭhaṅgikamāhuposathaṁ,\nBuddhena dukkhantagunā pakāsitaṁ.",
-  "text": "Not wearing garlands or applying fragrance,\nyou should sleep on a low bed, <j>or a mat on the ground.\nThis is the eight-factored sabbath, they say,\nrevealed by the Buddha, <j>who has gone to suffering’s end."
+  "text": "Not wearing garlands or applying fragrance,\nyou should sleep on a low bed,\nor a mat on the ground.\nThis is the eight-factored sabbath, they say,\nrevealed by the Buddha,\nwho has gone to suffering’s end."
  },
  {
   "reference": "2.14.28",
   "original": "Tato ca pakkhassupavassuposathaṁ,\nCātuddasiṁ pañcadasiñca aṭṭhamiṁ;\nPāṭihāriyapakkhañca pasannamānaso,\nAṭṭhaṅgupetaṁ susamattarūpaṁ.",
-  "text": "Then having rightly undertaken the sabbath\ncomplete in all its eight factors\non the fourteenth, fifteenth, <j>and eighth of the fortnight,\nas well as on the fortnightly special displays,"
+  "text": "Then having rightly undertaken the sabbath\ncomplete in all its eight factors\non the fourteenth, fifteenth,\nand eighth of the fortnight,\nas well as on the fortnightly special displays,"
  },
  {
   "reference": "2.14.29",
@@ -2527,7 +2527,7 @@
  {
   "reference": "3.4.9",
   "original": "“Yadantagū vedagū yaññakāle,\nYassāhutiṁ labhe tassijjheti brūmi”.",
-  "text": "“During a sacrifice, should a past-master, <j>a knowledge master,\nreceive an oblation, it profits the donor, I say.”"
+  "text": "“During a sacrifice, should a past-master,\na knowledge master,\nreceive an oblation, it profits the donor, I say.”"
  },
  {
   "reference": "3.4.10",
@@ -2537,7 +2537,7 @@
  {
   "reference": "3.4.11",
   "original": "“Tasmātiha tvaṁ brāhmaṇa atthena,\nAtthiko upasaṅkamma puccha;\nSantaṁ vidhūmaṁ anīghaṁ nirāsaṁ,\nAppevidha abhivinde sumedhaṁ”.",
-  "text": "“So then, brahmin, since you have approached me\nas a seeker of the good, ask.\nPerhaps you may find here someone intelligent,\npeaceful, unclouded, untroubled, <j>with no need for hope.”"
+  "text": "“So then, brahmin, since you have approached me\nas a seeker of the good, ask.\nPerhaps you may find here someone intelligent,\npeaceful, unclouded, untroubled,\nwith no need for hope.”"
  },
  {
   "reference": "3.4.12",
@@ -2557,12 +2557,12 @@
  {
   "reference": "3.4.15",
   "original": "Saccena danto damasā upeto,\nVedantagū vūsitabrahmacariyo;\nKālena tamhi habyaṁ pavecche,\nYo brāhmaṇo puññapekkho yajetha.",
-  "text": "Tamed by truth, fulfilled by taming,\na complete knowledge master <j>who has completed the spiritual journey—\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
+  "text": "Tamed by truth, fulfilled by taming,\na complete knowledge master\nwho has completed the spiritual journey—\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
  },
  {
   "reference": "3.4.16",
   "original": "Ye kāme hitvā agahā caranti,\nSusaññatattā tasaraṁva ujjuṁ;\nKālena tesu habyaṁ pavecche,\nYo brāhmaṇo puññapekkho yajetha.",
-  "text": "Those who have left sensuality behind, <j>wandering homeless,\nself-controlled, straight as a shuttle—\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
+  "text": "Those who have left sensuality behind,\nwandering homeless,\nself-controlled, straight as a shuttle—\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
  },
  {
   "reference": "3.4.17",
@@ -2577,7 +2577,7 @@
  {
   "reference": "3.4.19",
   "original": "Yo kāme hitvā abhibhuyyacārī,\nYo vedi jātīmaraṇassa antaṁ;\nParinibbuto udakarahadova sīto,\nTathāgato arahati pūraḷāsaṁ.",
-  "text": "Having left sensuality behind, <j>wandering triumphant,\nknowing the end of rebirth and death,\nquenched and cool as a lake:\nthe Realized One is worthy of the sacrificial cake."
+  "text": "Having left sensuality behind,\nwandering triumphant,\nknowing the end of rebirth and death,\nquenched and cool as a lake:\nthe Realized One is worthy of the sacrificial cake."
  },
  {
   "reference": "3.4.20",
@@ -2587,7 +2587,7 @@
  {
   "reference": "3.4.21",
   "original": "Yamhi na māyā vasati na māno,\nYo vītalobho amamo nirāso;\nPaṇunnakodho abhinibbutatto,\nYo brāhmaṇo sokamalaṁ ahāsi;\nTathāgato arahati pūraḷāsaṁ.",
-  "text": "In whom dwells no deceit or conceit,\nrid of greed, unselfish, <j>with no need for hope,\nwith anger cast aside, quenched,\na brahmin rid of sorrow’s stain:\nthe Realized One is worthy of the sacrificial cake."
+  "text": "In whom dwells no deceit or conceit,\nrid of greed, unselfish,\nwith no need for hope,\nwith anger cast aside, quenched,\na brahmin rid of sorrow’s stain:\nthe Realized One is worthy of the sacrificial cake."
  },
  {
   "reference": "3.4.22",
@@ -2607,7 +2607,7 @@
  {
   "reference": "3.4.25",
   "original": "Saṅgātigo yassa na santi saṅgā,\nYo mānasattesu amānasatto;\nDukkhaṁ pariññāya sakhettavatthuṁ,\nTathāgato arahati pūraḷāsaṁ.",
-  "text": "He has slipped his chains, he’s chained no more,\namong those caught in conceit he is free of conceit;\nhe has fully understood suffering <j>with its field and ground:\nthe Realized One is worthy of the sacrificial cake."
+  "text": "He has slipped his chains, he’s chained no more,\namong those caught in conceit he is free of conceit;\nhe has fully understood suffering\nwith its field and ground:\nthe Realized One is worthy of the sacrificial cake."
  },
  {
   "reference": "3.4.26",
@@ -2637,12 +2637,12 @@
  {
   "reference": "3.4.31",
   "original": "“Hutañca mayhaṁ hutamatthu saccaṁ,\nYaṁ tādisaṁ vedagunaṁ alatthaṁ;\nBrahmā hi sakkhi paṭigaṇhātu me bhagavā,\nBhuñjatu me bhagavā pūraḷāsaṁ”.",
-  "text": "“Let my oblation be a true offering,\nsince I have found such a knowledge master!\nI see divinity in person! <j>Accept my offering, Blessed One:\nplease eat my sacrificial cake.”"
+  "text": "“Let my oblation be a true offering,\nsince I have found such a knowledge master!\nI see divinity in person!\nAccept my offering, Blessed One:\nplease eat my sacrificial cake.”"
  },
  {
   "reference": "3.4.32",
   "original": "“Gāthābhigītaṁ me abhojaneyyaṁ,\nSampassataṁ brāhmaṇa nesa dhammo;\nGāthābhigītaṁ panudanti buddhā,\nDhamme satī brāhmaṇa vuttiresā.",
-  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin, <j>that’s how they live."
+  "text": "“Food enchanted by a verse isn’t fit for me to eat.\nThat’s not the principle of those who see, brahmin.\nThe Buddhas cast aside things enchanted with verses.\nSince there is such a principle, brahmin,\nthat’s how they live."
  },
  {
   "reference": "3.4.33",
@@ -2652,7 +2652,7 @@
  {
   "reference": "3.4.34",
   "original": "“Sādhāhaṁ bhagavā tathā vijaññaṁ,\nYo dakkhiṇaṁ bhuñjeyya mādisassa;\nYaṁ yaññakāle pariyesamāno,\nPappuyya tava sāsanaṁ”.",
-  "text": "“Please, Blessed One, help me understand:\nnow that I have found your teaching,\nwhen I look for someone during a sacrifice,\nwho should eat the <j>religious donation of one like me?”"
+  "text": "“Please, Blessed One, help me understand:\nnow that I have found your teaching,\nwhen I look for someone during a sacrifice,\nwho should eat the\nreligious donation of one like me?”"
  },
  {
   "reference": "3.4.35",
@@ -2703,7 +2703,7 @@
  {
   "reference": "3.5.5",
   "original": "“Yo yācayogo dānapati gahaṭṭho, (māghāti bhagavā)\nPuññatthiko yajati puññapekkho;\nDadaṁ paresaṁ idha annapānaṁ,\nĀrādhaye dakkhiṇeyyebhi tādi”.",
-  "text": "“Suppose a lay donor who is committed to charity,” replied the Buddha,\n“makes a sacrifice seeking merit, looking for merit,\ngiving food and drink to others here:\nsuch a one would succeed due to those <j>who are worthy of donations.”"
+  "text": "“Suppose a lay donor who is committed to charity,” replied the Buddha,\n“makes a sacrifice seeking merit, looking for merit,\ngiving food and drink to others here:\nsuch a one would succeed due to those\nwho are worthy of donations.”"
  },
  {
   "reference": "3.5.6",
@@ -2728,17 +2728,17 @@
  {
   "reference": "3.5.10",
   "original": "Rāgañca dosañca pahāya mohaṁ,\nKhīṇāsavā vūsitabrahmacariyā;\nKālena tesu habyaṁ pavecche,\nYo brāhmaṇo puññapekkho yajetha.",
-  "text": "Having given up greed, hate, and delusion,\nwith defilements ended, <j>the spiritual journey completed:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
+  "text": "Having given up greed, hate, and delusion,\nwith defilements ended,\nthe spiritual journey completed:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
  },
  {
   "reference": "3.5.11",
   "original": "Yesu na māyā vasati na māno,\nKhīṇāsavā vūsitabrahmacariyā;\nKālena tesu habyaṁ pavecche,\nYo brāhmaṇo puññapekkho yajetha.",
-  "text": "Those in whom dwells no deceit or conceit,\nwith defilements ended, <j>the spiritual journey completed:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
+  "text": "Those in whom dwells no deceit or conceit,\nwith defilements ended,\nthe spiritual journey completed:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
  },
  {
   "reference": "3.5.12",
   "original": "Ye vītalobhā amamā nirāsā,\nKhīṇāsavā vūsitabrahmacariyā;\nKālena tesu habyaṁ pavecche,\nYo brāhmaṇo puññapekkho yajetha.",
-  "text": "Those rid of greed, unselfish, with no need for hope,\nwith defilements ended, <j>the spiritual journey completed:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
+  "text": "Those rid of greed, unselfish, with no need for hope,\nwith defilements ended,\nthe spiritual journey completed:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
  },
  {
   "reference": "3.5.13",
@@ -2753,7 +2753,7 @@
  {
   "reference": "3.5.15",
   "original": "Ye kāme hitvā agahā caranti,\nSusaññatattā tasaraṁva ujjuṁ;\nKālena tesu habyaṁ pavecche,\nYo brāhmaṇo puññapekkho yajetha.",
-  "text": "Those who have left sensuality behind, <j>wandering homeless,\nself-controlled, straight as a shuttle:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
+  "text": "Those who have left sensuality behind,\nwandering homeless,\nself-controlled, straight as a shuttle:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
  },
  {
   "reference": "3.5.16",
@@ -2763,7 +2763,7 @@
  {
   "reference": "3.5.17",
   "original": "Samitāvino vītarāgā akopā,\nYesaṁ gatī natthidha vippahāya;\nKālena tesu habyaṁ pavecche,\nYo brāhmaṇo puññapekkho yajetha.",
-  "text": "Those assuaged ones free of greed and anger,\nfor whom there are no destinies, <j>being rid of them in this life:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
+  "text": "Those assuaged ones free of greed and anger,\nfor whom there are no destinies,\nbeing rid of them in this life:\nthat is where a brahmin seeking merit\nshould bestow a timely oblation as sacrifice."
  },
  {
   "reference": "3.5.18",
@@ -2788,7 +2788,7 @@
  {
   "reference": "3.5.22",
   "original": "“Addhā amoghā mama pucchanā ahu, (iti māgho māṇavo)\nAkkhāsi me bhagavā dakkhiṇeyye;\nTvañhettha jānāsi yathā tathā idaṁ,\nTathā hi te vidito esa dhammo.",
-  "text": "“Clearly my questions were not in vain!” said Māgha,\n“The Buddha has explained to me <j>who is worthy of donations.\nYou are the one here who knows this to be true,\nfor truly you understand this matter."
+  "text": "“Clearly my questions were not in vain!” said Māgha,\n“The Buddha has explained to me\nwho is worthy of donations.\nYou are the one here who knows this to be true,\nfor truly you understand this matter."
  },
  {
   "reference": "3.5.23",
@@ -2808,12 +2808,12 @@
  {
   "reference": "3.5.26",
   "original": "“Ko sujjhati muccati bajjhatī ca,\nKenattanā gacchati brahmalokaṁ;\nAjānato me muni brūhi puṭṭho,\nBhagavā hi me sakkhi brahmajjadiṭṭho;\nTuvañhi no brahmasamosi saccaṁ,\nKathaṁ upapajjati brahmalokaṁ jutima”.",
-  "text": "“Who is purified, freed, awake?\nHow can one go to the realm of divinity oneself?\nI do not know, so please tell me when asked,\nfor the Buddha is the divinity I see in person today!\nTo us you are truly the equal of divinity.\nBrilliant One, how is one reborn <j>in the realm of divinity?”"
+  "text": "“Who is purified, freed, awake?\nHow can one go to the realm of divinity oneself?\nI do not know, so please tell me when asked,\nfor the Buddha is the divinity I see in person today!\nTo us you are truly the equal of divinity.\nBrilliant One, how is one reborn\nin the realm of divinity?”"
  },
  {
   "reference": "3.5.27",
   "original": "“Yo yajati tividhaṁ yaññasampadaṁ, (māghāti bhagavā)\nĀrādhaye dakkhiṇeyyebhi tādi;\nEvaṁ yajitvā sammā yācayogo,\nUpapajjati brahmalokanti brūmī”ti.",
-  "text": "“One who accomplishes the sacrifice <j>with three modes,” replied the Buddha,\n“such a one would succeed <j>due to those who are worthy of donations.\nSacrificing like this, one rightly committed to charity\nis reborn in the realm of divinity, I say.”"
+  "text": "“One who accomplishes the sacrifice\nwith three modes,” replied the Buddha,\n“such a one would succeed\ndue to those who are worthy of donations.\nSacrificing like this, one rightly committed to charity\nis reborn in the realm of divinity, I say.”"
  },
  {
   "reference": "3.5.28",
@@ -2859,12 +2859,12 @@
  {
   "reference": "3.6.8",
   "original": "“Kaṅkhī vecikicchī āgamaṁ, (iti sabhiyo)\nPañhe pucchituṁ abhikaṅkhamāno;\nTesantakaro bhavāhi pañhe me puṭṭho,\nAnupubbaṁ anudhammaṁ byākarohi me”.",
-  "text": "“I’ve come full of doubts and uncertainties,” said Sabhiya,\n“wishing to ask some questions.\nPlease solve them for me.\nAnswer my questions in turn, <j>in accordance with the truth.”"
+  "text": "“I’ve come full of doubts and uncertainties,” said Sabhiya,\n“wishing to ask some questions.\nPlease solve them for me.\nAnswer my questions in turn,\nin accordance with the truth.”"
  },
  {
   "reference": "3.6.9",
   "original": "“Dūrato āgatosi sabhiya, (iti bhagavā)\nPañhe pucchituṁ abhikaṅkhamāno;\nTesantakaro bhavāmi pañhe te puṭṭho,\nAnupubbaṁ anudhammaṁ byākaromi te.",
-  "text": "“You have come from afar, Sabhiya,” said the Buddha,\n“wishing to ask some questions.\nI shall solve them for you,\nanswering your questions in turn, <j>in accordance with the truth."
+  "text": "“You have come from afar, Sabhiya,” said the Buddha,\n“wishing to ask some questions.\nI shall solve them for you,\nanswering your questions in turn,\nin accordance with the truth."
  },
  {
   "reference": "3.6.10",
@@ -2884,7 +2884,7 @@
  {
   "reference": "3.6.13",
   "original": "“Pajjena katena attanā, (sabhiyāti bhagavā)\nParinibbānagato vitiṇṇakaṅkho;\nVibhavañca bhavañca vippahāya,\nVusitavā khīṇapunabbhavo sa bhikkhu.",
-  "text": "“When by the path they have walked themselves,” said the Buddha to Sabhiya,\n“they reach extinguishment, with doubt overcome;\ngiving up desire for existence or nonexistence,\ntheir journey complete, their rebirths ended: <j>that is a mendicant."
+  "text": "“When by the path they have walked themselves,” said the Buddha to Sabhiya,\n“they reach extinguishment, with doubt overcome;\ngiving up desire for existence or nonexistence,\ntheir journey complete, their rebirths ended:\nthat is a mendicant."
  },
  {
   "reference": "3.6.14",
@@ -2899,7 +2899,7 @@
  {
   "reference": "3.6.16",
   "original": "Kappāni viceyya kevalāni,\nSaṁsāraṁ dubhayaṁ cutūpapātaṁ;\nVigatarajamanaṅgaṇaṁ visuddhaṁ,\nPattaṁ jātikhayaṁ tamāhu buddhan”ti.",
-  "text": "They have examined the eons in their entirety,\nand both sides of transmigration—<j>passing away and rebirth.\nRid of dust, unblemished, purified:\nthe one they call ‘awakened’ has attained <j>the end of rebirth.”"
+  "text": "They have examined the eons in their entirety,\nand both sides of transmigration—\npassing away and rebirth.\nRid of dust, unblemished, purified:\nthe one they call ‘awakened’ has attained\nthe end of rebirth.”"
  },
  {
   "reference": "3.6.17",
@@ -2959,7 +2959,7 @@
  {
   "reference": "3.6.28",
   "original": "Asatañca satañca ñatvā dhammaṁ,\nAjjhattaṁ bahiddhā ca sabbaloke;\nDevamanussehi pūjanīyo,\nSaṅgaṁ jālamaticca so munī”ti.",
-  "text": "Understanding the nature of the bad and the good\ninside and out in the whole world;\none worthy of honor by gods and humans,\nwho has escaped from the net and the chain: <j>that is a sage.”"
+  "text": "Understanding the nature of the bad and the good\ninside and out in the whole world;\none worthy of honor by gods and humans,\nwho has escaped from the net and the chain:\nthat is a sage.”"
  },
  {
   "reference": "3.6.29",
@@ -2969,12 +2969,12 @@
  {
   "reference": "3.6.30",
   "original": "“Kiṁpattinamāhu vedaguṁ, (iti sabhiyo)\nAnuviditaṁ kena kathañca viriyavāti;\nĀjāniyo kinti nāma hoti,\nPuṭṭho me bhagavā byākarohi”.",
-  "text": "“What must one attain <j>to be called ‘knowledge master’?” said Sabhiya,\n“Why is one ‘studied’, and how is one ‘heroic’?\nHow to gain the name ‘thoroughbred’?\nMay the Buddha please answer my question.”"
+  "text": "“What must one attain\nto be called ‘knowledge master’?” said Sabhiya,\n“Why is one ‘studied’, and how is one ‘heroic’?\nHow to gain the name ‘thoroughbred’?\nMay the Buddha please answer my question.”"
  },
  {
   "reference": "3.6.31",
   "original": "“Vedāni viceyya kevalāni, (sabhiyāti bhagavā)\nSamaṇānaṁ yānidhatthi brāhmaṇānaṁ;\nSabbavedanāsu vītarāgo,\nSabbaṁ vedamaticca vedagū so.",
-  "text": "“They have examined knowledges in their entirety,” said the Buddha to Sabhiya,\n“those that are current among ascetics and brahmins;\nrid of greed for all feelings,\nhaving left all knowledges behind: <j>that is a knowledge master."
+  "text": "“They have examined knowledges in their entirety,” said the Buddha to Sabhiya,\n“those that are current among ascetics and brahmins;\nrid of greed for all feelings,\nhaving left all knowledges behind:\nthat is a knowledge master."
  },
  {
   "reference": "3.6.32",
@@ -3004,7 +3004,7 @@
  {
   "reference": "3.6.37",
   "original": "“Sutvā sabbadhammaṁ abhiññāya loke, (sabhiyāti bhagavā)\nSāvajjānavajjaṁ yadatthi kiñci;\nAbhibhuṁ akathaṅkathiṁ vimuttaṁ,\nAnighaṁ sabbadhimāhu sottiyoti.",
-  "text": "“One who has learned every teaching,” said the Buddha to Sabhiya,\n“and has known for themselves what in the world <j>is blameworthy and blameless;\na vanquisher, decided, liberated,\nuntroubled everywhere: they call them ‘scholar’."
+  "text": "“One who has learned every teaching,” said the Buddha to Sabhiya,\n“and has known for themselves what in the world\nis blameworthy and blameless;\na vanquisher, decided, liberated,\nuntroubled everywhere: they call them ‘scholar’."
  },
  {
   "reference": "3.6.38",
@@ -3014,12 +3014,12 @@
  {
   "reference": "3.6.39",
   "original": "Yo idha caraṇesu pattipatto,\nKusalo sabbadā ājānāti dhammaṁ;\nSabbattha na sajjati vimuttacitto,\nPaṭighā yassa na santi caraṇavā so.",
-  "text": "One here who is accomplished <j>and skillful in all forms of good conduct;\nalways understanding the teaching,\neverywhere not stuck, freed in mind,\nwho has no aversion: they are ‘well-conducted’."
+  "text": "One here who is accomplished\nand skillful in all forms of good conduct;\nalways understanding the teaching,\neverywhere not stuck, freed in mind,\nwho has no aversion: they are ‘well-conducted’."
  },
  {
   "reference": "3.6.40",
   "original": "Dukkhavepakkaṁ yadatthi kammaṁ,\nUddhamadho tiriyaṁ vāpi majjhe;\nParibbājayitvā pariññacārī,\nMāyaṁ mānamathopi lobhakodhaṁ;\nPariyantamakāsi nāmarūpaṁ,\nTaṁ paribbājakamāhu pattipattan”ti.",
-  "text": "They wander full of wisdom,\nhaving banished any deed that results in suffering,\ndeceit and conceit, as well as greed and anger,\nabove, below, all round, between.\nThey have made a limit on name and form;\nthe one they call a ‘wanderer’ <j>has reached their destination.”"
+  "text": "They wander full of wisdom,\nhaving banished any deed that results in suffering,\ndeceit and conceit, as well as greed and anger,\nabove, below, all round, between.\nThey have made a limit on name and form;\nthe one they call a ‘wanderer’\nhas reached their destination.”"
  },
  {
   "reference": "3.6.41",
@@ -3029,17 +3029,17 @@
  {
   "reference": "3.6.42",
   "original": "“Yāni ca tīṇi yāni ca saṭṭhi,\nSamaṇappavādasitāni bhūripañña;\nSaññakkharasaññanissitāni,\nOsaraṇāni vineyya oghatamagā.",
-  "text": "“O one of vast wisdom, <j>there are three and sixty opinions\nbased on the doctrines of ascetics:\nthey are expressions of perception, <j>based on perception.\nHaving dispelled them all, <j>you passed over the dark flood."
+  "text": "“O one of vast wisdom,\nthere are three and sixty opinions\nbased on the doctrines of ascetics:\nthey are expressions of perception,\nbased on perception.\nHaving dispelled them all,\nyou passed over the dark flood."
  },
  {
   "reference": "3.6.43",
   "original": "Antagūsi pāragū dukkhassa,\nArahāsi sammāsambuddho khīṇāsavaṁ taṁ maññe;\nJutimā mutimā pahūtapañño,\nDukkhassantakara atāresi maṁ.",
-  "text": "You have gone to the end, gone beyond suffering,\nyou are perfected, a fully awakened Buddha; <j>I think you have ended defilements.\nBrilliant, thoughtful, abounding in wisdom,\nender of suffering—you brought me across!"
+  "text": "You have gone to the end, gone beyond suffering,\nyou are perfected, a fully awakened Buddha;\nI think you have ended defilements.\nBrilliant, thoughtful, abounding in wisdom,\nender of suffering—you brought me across!"
  },
  {
   "reference": "3.6.44",
   "original": "Yaṁ me kaṅkhitamaññāsi,\nVicikicchā maṁ tārayi namo te;\nMuni monapathesu pattipatta,\nAkhila ādiccabandhu soratosi.",
-  "text": "When you understood my uncertainty,\nyou brought me beyond doubt—homage to you!\nA sage, accomplished in the ways of sagacity,\nyou are gentle, not hardhearted, <j>O Kinsman of the Sun."
+  "text": "When you understood my uncertainty,\nyou brought me beyond doubt—homage to you!\nA sage, accomplished in the ways of sagacity,\nyou are gentle, not hardhearted,\nO Kinsman of the Sun."
  },
  {
   "reference": "3.6.45",
@@ -3265,7 +3265,7 @@
  {
   "reference": "3.7.35",
   "original": "“Aggihuttamukhā yaññā,\nSāvittī chandaso mukhaṁ;\nRājā mukhaṁ manussānaṁ,\nNadīnaṁ sāgaro mukhaṁ.",
-  "text": "“The foremost of sacrifices <j>is the offering to the sacred flame;\nthe Sāvitrī is the foremost of prayer;\nof humans, the king is the foremost;\nthe ocean’s the foremost of rivers;"
+  "text": "“The foremost of sacrifices\nis the offering to the sacred flame;\nthe Sāvitrī is the foremost of prayer;\nof humans, the king is the foremost;\nthe ocean’s the foremost of rivers;"
  },
  {
   "reference": "3.7.36",
@@ -3808,7 +3808,7 @@
  {
   "reference": "3.10.12",
   "original": "Sataṁ sahassānaṁ nirabbudānaṁ,\nChattiṁsati pañca ca abbudāni;\nYamariyagarahī nirayaṁ upeti,\nVācaṁ manañca paṇidhāya pāpakaṁ.",
-  "text": "For a hundred thousand times a hundred million,\ntimes five hundred and thirty-six times <j>a thousand times ten million years\na slanderer of noble ones goes to hell,\nhaving aimed bad words and thoughts at them."
+  "text": "For a hundred thousand times a hundred million,\ntimes five hundred and thirty-six times\na thousand times ten million years\na slanderer of noble ones goes to hell,\nhaving aimed bad words and thoughts at them."
  },
  {
   "reference": "3.10.13",
@@ -3898,7 +3898,7 @@
  {
   "reference": "3.10.30",
   "original": "Yāva dukhā nirayā idha vuttā,\nTatthapi tāva ciraṁ vasitabbaṁ;\nTasmā sucipesalasādhuguṇesu,\nVācaṁ manaṁ satataṁ parirakkhe”ti.",
-  "text": "as painful as life is said to be in hell,\nthat’s how long one must dwell there.\nThat’s why, for those who are pure, well-behaved, <j>full of good qualities,\none should always guard one’s speech and mind.”"
+  "text": "as painful as life is said to be in hell,\nthat’s how long one must dwell there.\nThat’s why, for those who are pure, well-behaved,\nfull of good qualities,\none should always guard one’s speech and mind.”"
  },
  {
   "reference": "3.11.1",
@@ -3909,12 +3909,12 @@
  {
   "reference": "3.11.2",
   "original": "Disvāna deve muditamane udagge,\nCittiṁ karitvāna idamavoca tattha;\n“Kiṁ devasaṅgho atiriva kalyarūpo,\nDussaṁ gahetvā ramayatha kiṁ paṭicca.",
-  "text": "Seeing the gods rejoicing, elated,\nhe paid respects and said this there:\n“Why is the community of gods <j>in such excellent spirits?\nWhy take up streamers and whirl them about?"
+  "text": "Seeing the gods rejoicing, elated,\nhe paid respects and said this there:\n“Why is the community of gods\nin such excellent spirits?\nWhy take up streamers and whirl them about?"
  },
  {
   "reference": "3.11.3",
   "original": "Yadāpi āsī asurehi saṅgamo,\nJayo surānaṁ asurā parājitā;\nTadāpi netādiso lomahaṁsano,\nKimabbhutaṁ daṭṭhu marū pamoditā.",
-  "text": "Even in the war with the titans,\nwhen gods were victorious and titans defeated,\nthere was no such excitement.\nWhat marvel have the celestials seen <j>that they so rejoice?"
+  "text": "Even in the war with the titans,\nwhen gods were victorious and titans defeated,\nthere was no such excitement.\nWhat marvel have the celestials seen\nthat they so rejoice?"
  },
  {
   "reference": "3.11.4",
@@ -3924,7 +3924,7 @@
  {
   "reference": "3.11.5",
   "original": "“So bodhisatto ratanavaro atulyo,\nManussaloke hitasukhatthāya jāto;\nSakyāna gāme janapade lumbineyye,\nTenamha tuṭṭhā atiriva kalyarūpā.",
-  "text": "“The being intent on awakening, a peerless gem,\nhas been born in the human realm <j>for the sake of welfare and happiness,\nin Lumbinī, a village in the Sakyan land.\nThat’s why we’re so happy, in such excellent spirits."
+  "text": "“The being intent on awakening, a peerless gem,\nhas been born in the human realm\nfor the sake of welfare and happiness,\nin Lumbinī, a village in the Sakyan land.\nThat’s why we’re so happy, in such excellent spirits."
  },
  {
   "reference": "3.11.6",
@@ -3939,17 +3939,17 @@
  {
   "reference": "3.11.8",
   "original": "Tato kumāraṁ jalitamiva suvaṇṇaṁ,\nUkkāmukheva sukusalasampahaṭṭhaṁ;\nDaddallamānaṁ siriyā anomavaṇṇaṁ,\nDassesu puttaṁ asitavhayassa sakyā.",
-  "text": "Then the Sakyans showed their son <j>to the one named Asita—\nthe boy shone like burning gold\nwell-wrought in the forge;\ndazzling with glory, of peerless beauty."
+  "text": "Then the Sakyans showed their son\nto the one named Asita—\nthe boy shone like burning gold\nwell-wrought in the forge;\ndazzling with glory, of peerless beauty."
  },
  {
   "reference": "3.11.9",
   "original": "Disvā kumāraṁ sikhimiva pajjalantaṁ,\nTārāsabhaṁva nabhasigamaṁ visuddhaṁ;\nSuriyaṁ tapantaṁ saradarivabbhamuttaṁ,\nĀnandajāto vipulamalattha pītiṁ.",
-  "text": "The boy beamed like crested flame,\npure as the moon, lord of stars traversing the sky,\nblazing like the sun free of stormclouds <j>after the rains;\nseeing him, he was joyful, brimming with happiness."
+  "text": "The boy beamed like crested flame,\npure as the moon, lord of stars traversing the sky,\nblazing like the sun free of stormclouds\nafter the rains;\nseeing him, he was joyful, brimming with happiness."
  },
  {
   "reference": "3.11.10",
   "original": "Anekasākhañca sahassamaṇḍalaṁ,\nChattaṁ marū dhārayumantalikkhe;\nSuvaṇṇadaṇḍā vītipatanti cāmarā,\nNa dissare cāmarachattagāhakā.",
-  "text": "The celestials held up a parasol in the sky,\nmany-ribbed and thousand-circled;\nand golden-handled chowries waved—\nbut none could see who held <j>the chowries or the parasols."
+  "text": "The celestials held up a parasol in the sky,\nmany-ribbed and thousand-circled;\nand golden-handled chowries waved—\nbut none could see who held\nthe chowries or the parasols."
  },
  {
   "reference": "3.11.11",
@@ -3974,32 +3974,32 @@
  {
   "reference": "3.11.15",
   "original": "Sambodhiyaggaṁ phusissatāyaṁ kumāro,\nSo dhammacakkaṁ paramavisuddhadassī;\nVattessatāyaṁ bahujanahitānukampī,\nVitthārikassa bhavissati brahmacariyaṁ.",
-  "text": "This boy shall reach the highest awakening.\nAs one of perfectly purified vision, <j>compassionate for the welfare of the many,\nhe shall roll forth the wheel of the teaching;\nhis spiritual path will become widespread."
+  "text": "This boy shall reach the highest awakening.\nAs one of perfectly purified vision,\ncompassionate for the welfare of the many,\nhe shall roll forth the wheel of the teaching;\nhis spiritual path will become widespread."
  },
  {
   "reference": "3.11.16",
   "original": "Mamañca āyu na ciramidhāvaseso,\nAthantarā me bhavissati kālakiriyā;\nSohaṁ na sossaṁ asamadhurassa dhammaṁ,\nTenamhi aṭṭo byasanaṅgato aghāvī”.",
-  "text": "But I have not long left in this life,\nI shall die before then.\nI will never hear the teaching of the one <j>who bore the unequaled burden.\nThat’s why I’m so upset and distraught—<j>it’s a disaster for me!”"
+  "text": "But I have not long left in this life,\nI shall die before then.\nI will never hear the teaching of the one\nwho bore the unequaled burden.\nThat’s why I’m so upset and distraught—\nit’s a disaster for me!”"
  },
  {
   "reference": "3.11.17",
   "original": "So sākiyānaṁ vipulaṁ janetvā pītiṁ,\nAntepuramhā niggamā brahmacārī;\nSo bhāgineyyaṁ sayaṁ anukampamāno,\nSamādapesi asamadhurassa dhamme.",
-  "text": "Having brought abundant happiness to the Sakyans,\nthe spiritual seeker left the royal compound.\nHe had a nephew; and out of sympathy\nhe encouraged him in the teaching <j>of the one who bore the unequaled burden."
+  "text": "Having brought abundant happiness to the Sakyans,\nthe spiritual seeker left the royal compound.\nHe had a nephew; and out of sympathy\nhe encouraged him in the teaching\nof the one who bore the unequaled burden."
  },
  {
   "reference": "3.11.18",
   "original": "“Buddhoti ghosaṁ yada parato suṇāsi,\nSambodhipatto vivarati dhammamaggaṁ;\nGantvāna tattha samayaṁ paripucchamāno,\nCarassu tasmiṁ bhagavati brahmacariyaṁ”.",
-  "text": "“When you hear the voice of another saying <j>‘Buddha’—\none who has attained awakening <j>and who reveals the foremost teaching—\ngo there and ask about his breakthrough;\nlead the spiritual life under that Blessed One.”"
+  "text": "“When you hear the voice of another saying\n‘Buddha’—\none who has attained awakening\nand who reveals the foremost teaching—\ngo there and ask about his breakthrough;\nlead the spiritual life under that Blessed One.”"
  },
  {
   "reference": "3.11.19",
   "original": "Tenānusiṭṭho hitamanena tādinā,\nAnāgate paramavisuddhadassinā;\nSo nālako upacitapuññasañcayo,\nJinaṁ patikkhaṁ parivasi rakkhitindriyo.",
-  "text": "Now, that Nālaka had a store of accumulated merit;\nso when instructed by one of such kindly intent,\nwith perfectly purified vision of the future,\nhe waited anticipating the Victor, <j>guarding his senses."
+  "text": "Now, that Nālaka had a store of accumulated merit;\nso when instructed by one of such kindly intent,\nwith perfectly purified vision of the future,\nhe waited anticipating the Victor,\nguarding his senses."
  },
  {
   "reference": "3.11.20",
   "original": "Sutvāna ghosaṁ jinavaracakkavattane,\nGantvāna disvā isinisabhaṁ pasanno;\nMoneyyaseṭṭhaṁ munipavaraṁ apucchi,\nSamāgate asitāvhayassa sāsaneti.",
-  "text": "When he heard of the Victor rolling forth <j>the excellent wheel he went to him,\nand seeing the boss seer, he became confident.\nThe time of Asita’s instruction had arrived;\nso he asked the excellent sage <j>about the highest sagacity."
+  "text": "When he heard of the Victor rolling forth\nthe excellent wheel he went to him,\nand seeing the boss seer, he became confident.\nThe time of Asita’s instruction had arrived;\nso he asked the excellent sage\nabout the highest sagacity."
  },
  {
   "reference": "3.11.21",
@@ -4175,7 +4175,7 @@
  {
   "reference": "3.12.10",
   "original": "“Upadhinidānā pabhavanti dukkhā,\nYe keci lokasmimanekarūpā;\nYo ve avidvā upadhiṁ karoti,\nPunappunaṁ dukkhamupeti mando;\nTasmā pajānaṁ upadhiṁ na kayirā,\nDukkhassa jātippabhavānupassīti.",
-  "text": "“Attachment is the source of suffering\nin all its countless forms in the world.\nWhen an ignorant person builds up attachments,\nthat dullard returns to suffering again and again.\nSo let one who understands <j>not build up attachments,\ncontemplating the inception of suffering and rebirth.”"
+  "text": "“Attachment is the source of suffering\nin all its countless forms in the world.\nWhen an ignorant person builds up attachments,\nthat dullard returns to suffering again and again.\nSo let one who understands\nnot build up attachments,\ncontemplating the inception of suffering and rebirth.”"
  },
  {
   "reference": "3.12.11",
@@ -4481,7 +4481,7 @@
  {
   "reference": "4.2.1",
   "original": "Satto guhāyaṁ bahunābhichanno,\nTiṭṭhaṁ naro mohanasmiṁ pagāḷho;\nDūre vivekā hi tathāvidho so,\nKāmā hi loke na hi suppahāyā.",
-  "text": "Trapped in a cave, thickly overspread,\nsunk in delusion they stay.\nThat sort is far from seclusion,\nfor sensual pleasures in the world <j>are not easy to give up.",
+  "text": "Trapped in a cave, thickly overspread,\nsunk in delusion they stay.\nThat sort is far from seclusion,\nfor sensual pleasures in the world\nare not easy to give up.",
   "title": "Eight on the Cave (Guhaṭṭhakasutta)"
  },
  {
@@ -4492,7 +4492,7 @@
  {
   "reference": "4.2.3",
   "original": "Kāmesu giddhā pasutā pamūḷhā,\nAvadāniyā te visame niviṭṭhā;\nDukkhūpanītā paridevayanti,\nKiṁsū bhavissāma ito cutāse.",
-  "text": "Greedy, fixated, infatuated by sensual pleasures,\nthey are incorrigible, habitually immoral.\nWhen led to suffering they lament,\n“What will become of us <j>when we pass away from here?”"
+  "text": "Greedy, fixated, infatuated by sensual pleasures,\nthey are incorrigible, habitually immoral.\nWhen led to suffering they lament,\n“What will become of us\nwhen we pass away from here?”"
  },
  {
   "reference": "4.2.4",
@@ -4517,12 +4517,12 @@
  {
   "reference": "4.2.8",
   "original": "Saññaṁ pariññā vitareyya oghaṁ,\nPariggahesu muni nopalitto;\nAbbūḷhasallo caramappamatto,\nNāsīsatī lokamimaṁ parañcāti.",
-  "text": "Having completely understood perception <j>and having crossed the flood,\nthe sage, not clinging to possessions,\nwith dart plucked out, living diligently,\ndoes not hope for this world or the next."
+  "text": "Having completely understood perception\nand having crossed the flood,\nthe sage, not clinging to possessions,\nwith dart plucked out, living diligently,\ndoes not hope for this world or the next."
  },
  {
   "reference": "4.3.1",
   "original": "Vadanti ve duṭṭhamanāpi eke,\nAthopi ve saccamanā vadanti;\nVādañca jātaṁ muni no upeti,\nTasmā munī natthi khilo kuhiñci.",
-  "text": "Some speak with malicious intent,\nwhile others speak set on truth.\nWhen disputes come up <j>a sage does not get involved,\nwhich is why they’ve no barrenness at all.",
+  "text": "Some speak with malicious intent,\nwhile others speak set on truth.\nWhen disputes come up\na sage does not get involved,\nwhich is why they’ve no barrenness at all.",
   "title": "Eight on Malice (Duṭṭhaṭṭhakasutta)"
  },
  {
@@ -4533,17 +4533,17 @@
  {
   "reference": "4.3.3",
   "original": "Yo attano sīlavatāni jantu,\nAnānupuṭṭhova paresa pāva;\nAnariyadhammaṁ kusalā tamāhu,\nYo ātumānaṁ sayameva pāva.",
-  "text": "Some personages, unasked, tell others\nof their own precepts and vows.\nThey have an ignoble nature, <j>say those who are skilled,\nsince they speak on themselves of their own accord."
+  "text": "Some personages, unasked, tell others\nof their own precepts and vows.\nThey have an ignoble nature,\nsay those who are skilled,\nsince they speak on themselves of their own accord."
  },
  {
   "reference": "4.3.4",
   "original": "Santo ca bhikkhu abhinibbutatto,\nItihanti sīlesu akatthamāno;\nTamariyadhammaṁ kusalā vadanti,\nYassussadā natthi kuhiñci loke.",
-  "text": "A mendicant, peaceful, quenched,\nnever boasts “thus am I” of their precepts.\nThey have a noble nature, say those who are skilled,\nwho have no pretensions <j>about anything in the world."
+  "text": "A mendicant, peaceful, quenched,\nnever boasts “thus am I” of their precepts.\nThey have a noble nature, say those who are skilled,\nwho have no pretensions\nabout anything in the world."
  },
  {
   "reference": "4.3.5",
   "original": "Pakappitā saṅkhatā yassa dhammā,\nPurakkhatā santi avīvadātā;\nYadattani passati ānisaṁsaṁ,\nTaṁ nissito kuppapaṭiccasantiṁ.",
-  "text": "For one who formulates and creates teachings,\nand promotes them despite their defects,\nif they see an advantage for themselves,\nthey become dependent on that, <j>relying on unstable peace."
+  "text": "For one who formulates and creates teachings,\nand promotes them despite their defects,\nif they see an advantage for themselves,\nthey become dependent on that,\nrelying on unstable peace."
  },
  {
   "reference": "4.3.6",
@@ -4558,12 +4558,12 @@
  {
   "reference": "4.3.8",
   "original": "Upayo hi dhammesu upeti vādaṁ,\nAnūpayaṁ kena kathaṁ vadeyya;\nAttā nirattā na hi tassa atthi,\nAdhosi so diṭṭhimidheva sabbanti.",
-  "text": "For one who gets involved <j>is embroiled in disputes about teachings—\nbut how to dispute with the uninvolved? <j>About what?\nFor picking up and putting down <j>is not what they do;\nthey have shaken off all views in this very life."
+  "text": "For one who gets involved\nis embroiled in disputes about teachings—\nbut how to dispute with the uninvolved?\nAbout what?\nFor picking up and putting down\nis not what they do;\nthey have shaken off all views in this very life."
  },
  {
   "reference": "4.4.1",
   "original": "Passāmi suddhaṁ paramaṁ arogaṁ,\nDiṭṭhena saṁsuddhi narassa hoti;\nEvābhijānaṁ paramanti ñatvā,\nSuddhānupassīti pacceti ñāṇaṁ.",
-  "text": "“I see someone pure, perfectly healthy;\nit is vision that grants a person purity.”\nRecalling this notion of the ultimate,\nthey believe in the notion <j>that there is one who observes purity.",
+  "text": "“I see someone pure, perfectly healthy;\nit is vision that grants a person purity.”\nRecalling this notion of the ultimate,\nthey believe in the notion\nthat there is one who observes purity.",
   "title": "Eight on the Pure (Suddhaṭṭhakasutta)"
  },
  {
@@ -4574,7 +4574,7 @@
  {
   "reference": "4.4.3",
   "original": "Na brāhmaṇo aññato suddhimāha,\nDiṭṭhe sute sīlavate mute vā;\nPuññe ca pāpe ca anūpalitto,\nAttañjaho nayidha pakubbamāno.",
-  "text": "The brahmin speaks not of purity from another\nin terms of what has been seen, heard, or thought; <j>or by precepts or vows.\nThey are unsullied in the midst of good and evil,\nletting go what was picked up, <j>without creating anything new here."
+  "text": "The brahmin speaks not of purity from another\nin terms of what has been seen, heard, or thought;\nor by precepts or vows.\nThey are unsullied in the midst of good and evil,\nletting go what was picked up,\nwithout creating anything new here."
  },
  {
   "reference": "4.4.4",
@@ -4584,7 +4584,7 @@
  {
   "reference": "4.4.5",
   "original": "Sayaṁ samādāya vatāni jantu,\nUccāvacaṁ gacchati saññasatto;\nVidvā ca vedehi samecca dhammaṁ,\nNa uccāvacaṁ gacchati bhūripañño.",
-  "text": "Having undertaken their own vows, a personage\nvisits various teachers, <j>being attached to perception.\nOne who knows, having comprehended the truth <j>through the knowledges,\ndoes not visit various teachers, being of vast wisdom."
+  "text": "Having undertaken their own vows, a personage\nvisits various teachers,\nbeing attached to perception.\nOne who knows, having comprehended the truth\nthrough the knowledges,\ndoes not visit various teachers, being of vast wisdom."
  },
  {
   "reference": "4.4.6",
@@ -4599,7 +4599,7 @@
  {
   "reference": "4.4.8",
   "original": "Sīmātigo brāhmaṇo tassa natthi,\nÑatvā va disvā va samuggahītaṁ;\nNa rāgarāgī na virāgaratto,\nTassīdha natthi paramuggahītanti.",
-  "text": "The brahmin has stepped over the perimeter;\nknowing and seeing, they adopt nothing.\nNeither in love with passion <j>nor besotted by dispassion,\nthere is nothing here they adopt as the ultimate."
+  "text": "The brahmin has stepped over the perimeter;\nknowing and seeing, they adopt nothing.\nNeither in love with passion\nnor besotted by dispassion,\nthere is nothing here they adopt as the ultimate."
  },
  {
   "reference": "4.5.1",
@@ -4610,12 +4610,12 @@
  {
   "reference": "4.5.2",
   "original": "Yadattanī passati ānisaṁsaṁ,\nDiṭṭhe sute sīlavate mute vā;\nTadeva so tattha samuggahāya,\nNihīnato passati sabbamaññaṁ.",
-  "text": "If they see an advantage for themselves\nin what’s seen, heard, or thought; <j>or in precepts or vows,\nin that case, having adopted that one alone,\nthey see all others as inferior."
+  "text": "If they see an advantage for themselves\nin what’s seen, heard, or thought;\nor in precepts or vows,\nin that case, having adopted that one alone,\nthey see all others as inferior."
  },
  {
   "reference": "4.5.3",
   "original": "Taṁ vāpi ganthaṁ kusalā vadanti,\nYaṁ nissito passati hīnamaññaṁ;\nTasmā hi diṭṭhaṁ va sutaṁ mutaṁ vā,\nSīlabbataṁ bhikkhu na nissayeyya.",
-  "text": "Those who are skilled say that, too, is a knot,\nrelying on which people see others as lesser.\nThat’s why a mendicant ought not rely\non what’s seen, heard, or thought, <j>or on precepts and vows."
+  "text": "Those who are skilled say that, too, is a knot,\nrelying on which people see others as lesser.\nThat’s why a mendicant ought not rely\non what’s seen, heard, or thought,\nor on precepts and vows."
  },
  {
   "reference": "4.5.4",
@@ -4625,7 +4625,7 @@
  {
   "reference": "4.5.5",
   "original": "Attaṁ pahāya anupādiyāno,\nÑāṇepi so nissayaṁ no karoti;\nSa ve viyattesu na vaggasārī,\nDiṭṭhimpi so na pacceti kiñci.",
-  "text": "What was picked up has been set down <j>and is not grasped again;\nthey form no dependency even on notions.\nThey follow no side among the factions,\nand believe in no view at all."
+  "text": "What was picked up has been set down\nand is not grasped again;\nthey form no dependency even on notions.\nThey follow no side among the factions,\nand believe in no view at all."
  },
  {
   "reference": "4.5.6",
@@ -4691,7 +4691,7 @@
  {
   "reference": "4.6.10",
   "original": "Dhono na hi tena maññati,\nYadidaṁ diṭṭhasutaṁ mutesu vā;\nNāññena visuddhimicchati,\nNa hi so rajjati no virajjatīti.",
-  "text": "For the one who is cleansed does not conceive\nin terms of things seen, heard, or thought.\nThey do not wish to be purified by another;\nthey are neither passionate <j>nor growing dispassioned."
+  "text": "For the one who is cleansed does not conceive\nin terms of things seen, heard, or thought.\nThey do not wish to be purified by another;\nthey are neither passionate\nnor growing dispassioned."
  },
  {
   "reference": "4.7.1",
@@ -4747,7 +4747,7 @@
  {
   "reference": "4.8.1",
   "original": "Idheva suddhī iti vādayanti,\nNāññesu dhammesu visuddhimāhu;\nYaṁ nissitā tattha subhaṁ vadānā,\nPaccekasaccesu puthū niviṭṭhā.",
-  "text": "“Here alone is purity,” they say,\ndenying that there is purification in other teachings.\nSpeaking of the beauty <j>in that which they depend on,\neach one is dogmatic about <j>their own idiosyncratic interpretation.",
+  "text": "“Here alone is purity,” they say,\ndenying that there is purification in other teachings.\nSpeaking of the beauty\nin that which they depend on,\neach one is dogmatic about\ntheir own idiosyncratic interpretation.",
   "title": "With Pasūra (Pasūrasutta)"
  },
  {
@@ -4798,18 +4798,18 @@
  {
   "reference": "4.8.11",
   "original": "Atha tvaṁ pavitakkamāgamā,\nManasā diṭṭhigatāni cintayanto;\nDhonena yugaṁ samāgamā,\nNa hi tvaṁ sakkhasi sampayātaveti.",
-  "text": "And so you come along speculating,\nthinking up theories in your mind.\nNow that you’ve challenged <j>someone who is cleansed,\nyou’ll not be able to respond."
+  "text": "And so you come along speculating,\nthinking up theories in your mind.\nNow that you’ve challenged\nsomeone who is cleansed,\nyou’ll not be able to respond."
  },
  {
   "reference": "4.9.1",
   "original": "“Disvāna taṇhaṁ aratiṁ ragañca,\nNāhosi chando api methunasmiṁ;\nKimevidaṁ muttakarīsapuṇṇaṁ,\nPādāpi naṁ samphusituṁ na icche”.",
-  "text": "“Even when I saw the sirens <j>Craving, Malignancy, and Lust,\nI had no desire for sex.\nWhat is this body full of piss and shit?\nI wouldn’t even want to touch it with my foot.”",
+  "text": "“Even when I saw the sirens\nCraving, Malignancy, and Lust,\nI had no desire for sex.\nWhat is this body full of piss and shit?\nI wouldn’t even want to touch it with my foot.”",
   "title": "With Māgaṇḍiya (Māgaṇḍiyasutta)"
  },
  {
   "reference": "4.9.2",
   "original": "“Etādisañce ratanaṁ na icchasi,\nNāriṁ narindehi bahūhi patthitaṁ;\nDiṭṭhigataṁ sīlavataṁ nu jīvitaṁ,\nBhavūpapattiñca vadesi kīdisaṁ”.",
-  "text": "“If you do not want a gem such as this,\na lady desired by many lords of men,\nthen what manner of theory, <j>precepts and vows, livelihood,\nand rebirth in a new life do you assert?”"
+  "text": "“If you do not want a gem such as this,\na lady desired by many lords of men,\nthen what manner of theory,\nprecepts and vows, livelihood,\nand rebirth in a new life do you assert?”"
  },
  {
   "reference": "4.9.3",
@@ -4824,7 +4824,7 @@
  {
   "reference": "4.9.5",
   "original": "“Na diṭṭhiyā na sutiyā na ñāṇena, (māgaṇḍiyāti bhagavā)\nSīlabbatenāpi na suddhimāha;\nAdiṭṭhiyā assutiyā añāṇā,\nAsīlatā abbatā nopi tena;\nEte ca nissajja anuggahāya,\nSanto anissāya bhavaṁ na jappe”.",
-  "text": "“Purity is spoken of not as due to view,” said the Buddha to Māgaṇḍiya,\n“learning, knowledge, or precepts and vows;\nnor without view, learning,\nknowledge, or precepts and vows.\nHaving relinquished these, not adopting them,\npeaceful, independent, one would not pray <j>for another life.”"
+  "text": "“Purity is spoken of not as due to view,” said the Buddha to Māgaṇḍiya,\n“learning, knowledge, or precepts and vows;\nnor without view, learning,\nknowledge, or precepts and vows.\nHaving relinquished these, not adopting them,\npeaceful, independent, one would not pray\nfor another life.”"
  },
  {
   "reference": "4.9.6",
@@ -4859,7 +4859,7 @@
  {
   "reference": "4.9.12",
   "original": "Na vedagū diṭṭhiyāyako na mutiyā,\nSa mānameti na hi tammayo so;\nNa kammunā nopi sutena neyyo,\nAnūpanīto sa nivesanesu.",
-  "text": "A knowledge master does not become conceited\ndue to view or thought, <j>for they are not determined by that.\nThey’ve no need for deeds or learning,\nthey’re not indoctrinated in dogmas."
+  "text": "A knowledge master does not become conceited\ndue to view or thought,\nfor they are not determined by that.\nThey’ve no need for deeds or learning,\nthey’re not indoctrinated in dogmas."
  },
  {
   "reference": "4.9.13",
@@ -4930,7 +4930,7 @@
  {
   "reference": "4.10.13",
   "original": "Vītagedho amaccharī,\nNa ussesu vadate muni;\nNa samesu na omesu,\nKappaṁ neti akappiyo.",
-  "text": "Freed of greed, not stingy,\na sage doesn’t speak of themselves as being\namong superiors, inferiors, or equals.\nOne not prone to creation <j>does not return to creation."
+  "text": "Freed of greed, not stingy,\na sage doesn’t speak of themselves as being\namong superiors, inferiors, or equals.\nOne not prone to creation\ndoes not return to creation."
  },
  {
   "reference": "4.10.14",
@@ -4951,7 +4951,7 @@
  {
   "reference": "4.11.3",
   "original": "“Piyā su lokasmiṁ kutonidānā,\nYe cāpi lobhā vicaranti loke;\nĀsā ca niṭṭhā ca kutonidānā,\nYe samparāyāya narassa honti”.",
-  "text": "“So where do things held dear <j>in the world spring from?\nAnd the lusts that are loose in the world?\nWhere spring the hopes and aims\na man has for lives to come?”"
+  "text": "“So where do things held dear\nin the world spring from?\nAnd the lusts that are loose in the world?\nWhere spring the hopes and aims\na man has for lives to come?”"
  },
  {
   "reference": "4.11.4",
@@ -4971,17 +4971,17 @@
  {
   "reference": "4.11.7",
   "original": "Kodho mosavajjañca kathaṅkathā ca,\nEtepi dhammā dvayameva sante;\nKathaṅkathī ñāṇapathāya sikkhe,\nÑatvā pavuttā samaṇena dhammā”.",
-  "text": "Anger, lies, and indecision—\nthese things are, too, when that pair is present.\nOne who is indecisive should train <j>in the path of knowledge;\nit is from knowledge <j>that the Ascetic speaks of these things.”"
+  "text": "Anger, lies, and indecision—\nthese things are, too, when that pair is present.\nOne who is indecisive should train\nin the path of knowledge;\nit is from knowledge\nthat the Ascetic speaks of these things.”"
  },
  {
   "reference": "4.11.8",
   "original": "“Sātaṁ asātañca kutonidānā,\nKismiṁ asante na bhavanti hete;\nVibhavaṁ bhavañcāpi yametamatthaṁ,\nEtaṁ me pabrūhi yatonidānaṁ”.",
-  "text": "“Where do pleasure and pain spring from?\nWhen what is absent do these things not occur?\nAnd also, on the topic of <j>manifesting and vanishing—\ntell me where they spring from.”"
+  "text": "“Where do pleasure and pain spring from?\nWhen what is absent do these things not occur?\nAnd also, on the topic of\nmanifesting and vanishing—\ntell me where they spring from.”"
  },
  {
   "reference": "4.11.9",
   "original": "“Phassanidānaṁ sātaṁ asātaṁ,\nPhasse asante na bhavanti hete;\nVibhavaṁ bhavañcāpi yametamatthaṁ,\nEtaṁ te pabrūmi itonidānaṁ”.",
-  "text": "“Pleasure and pain spring from contact;\nwhen contact is absent they do not occur.\nAnd on the topic of <j>manifesting and vanishing—\nI tell you they spring from there.”"
+  "text": "“Pleasure and pain spring from contact;\nwhen contact is absent they do not occur.\nAnd on the topic of\nmanifesting and vanishing—\nI tell you they spring from there.”"
  },
  {
   "reference": "4.11.10",
@@ -5001,27 +5001,27 @@
  {
   "reference": "4.11.13",
   "original": "“Na saññasaññī na visaññasaññī,\nNopi asaññī na vibhūtasaññī;\nEvaṁ sametassa vibhoti rūpaṁ,\nSaññānidānā hi papañcasaṅkhā”.",
-  "text": "“Without normal perception <j>or distorted perception;\nnot lacking perception, <j>nor perceiving what has vanished.\nForm vanishes for one proceeding thus;\nfor judgments due to proliferation <j>spring from perception.”"
+  "text": "“Without normal perception\nor distorted perception;\nnot lacking perception,\nnor perceiving what has vanished.\nForm vanishes for one proceeding thus;\nfor judgments due to proliferation\nspring from perception.”"
  },
  {
   "reference": "4.11.14",
   "original": "“Yaṁ taṁ apucchimha akittayī no,\nAññaṁ taṁ pucchāma tadiṅgha brūhi;\nEttāvataggaṁ nu vadanti heke,\nYakkhassa suddhiṁ idha paṇḍitāse;\nUdāhu aññampi vadanti etto”.",
-  "text": "“Whatever I asked you have explained to me.\nI ask you once more, please tell me this:\nDo some astute folk here say that this <j>is the highest extent\nof purity of the spirit?\nOr do they say it is something else?”"
+  "text": "“Whatever I asked you have explained to me.\nI ask you once more, please tell me this:\nDo some astute folk here say that this\nis the highest extent\nof purity of the spirit?\nOr do they say it is something else?”"
  },
  {
   "reference": "4.11.15",
   "original": "“Ettāvataggampi vadanti heke,\nYakkhassa suddhiṁ idha paṇḍitāse;\nTesaṁ paneke samayaṁ vadanti,\nAnupādisese kusalā vadānā.",
-  "text": "“Some astute folk do say that this <j>is the highest extent\nof purity of the spirit.\nBut some of them, claiming to be experts,\nspeak of an occasion when there is no residue."
+  "text": "“Some astute folk do say that this\nis the highest extent\nof purity of the spirit.\nBut some of them, claiming to be experts,\nspeak of an occasion when there is no residue."
  },
  {
   "reference": "4.11.16",
   "original": "Ete ca ñatvā upanissitāti,\nÑatvā munī nissaye so vimaṁsī;\nÑatvā vimutto na vivādameti,\nBhavābhavāya na sameti dhīro”ti.",
-  "text": "Knowing that these states are dependent,\nand knowing what they depend on, <j>the inquiring sage,\nhaving understood, is freed, and enters no dispute.\nThe attentive do not proceed to life after life.”"
+  "text": "Knowing that these states are dependent,\nand knowing what they depend on,\nthe inquiring sage,\nhaving understood, is freed, and enters no dispute.\nThe attentive do not proceed to life after life.”"
  },
  {
   "reference": "4.12.1",
   "original": "“Sakaṁsakaṁdiṭṭhiparibbasānā,\nViggayha nānā kusalā vadanti;\nYo evaṁ jānāti sa vedi dhammaṁ,\nIdaṁ paṭikkosamakevalī so.",
-  "text": "“Each maintaining their own view,\nthose who are skilled disagree, arguing:\n‘Whoever sees it this way <j>understands the teaching;\nthose who reject this are inadequate.’",
+  "text": "“Each maintaining their own view,\nthose who are skilled disagree, arguing:\n‘Whoever sees it this way\nunderstands the teaching;\nthose who reject this are inadequate.’",
   "title": "The Shorter Discourse on Arrayed For Battle (Cūḷabyūhasutta)"
  },
  {
@@ -5062,12 +5062,12 @@
  {
   "reference": "4.12.9",
   "original": "“Na heva saccāni bahūni nānā,\nAññatra saññāya niccāni loke;\nTakkañca diṭṭhīsu pakappayitvā,\nSaccaṁ musāti dvayadhammamāhu.",
-  "text": "“No, there are not many different truths\nthat, apart from perception, <j>are lasting in the world.\nHaving formed their reasoning <j>regarding different views,\nthey say there are two things: true and false."
+  "text": "“No, there are not many different truths\nthat, apart from perception,\nare lasting in the world.\nHaving formed their reasoning\nregarding different views,\nthey say there are two things: true and false."
  },
  {
   "reference": "4.12.10",
   "original": "Diṭṭhe sute sīlavate mute vā,\nEte ca nissāya vimānadassī;\nVinicchaye ṭhatvā pahassamāno,\nBālo paro akkusaloti cāha.",
-  "text": "The seen, heard, or thought, <j>or precepts or vows—\nbased on these they show disdain.\nStanding in judgment, they scoff,\nsaying, ‘The other is a fool, an amateur!’"
+  "text": "The seen, heard, or thought,\nor precepts or vows—\nbased on these they show disdain.\nStanding in judgment, they scoff,\nsaying, ‘The other is a fool, an amateur!’"
  },
  {
   "reference": "4.12.11",
@@ -5077,12 +5077,12 @@
  {
   "reference": "4.12.12",
   "original": "Atisāradiṭṭhiyā so samatto,\nMānena matto paripuṇṇamānī;\nSayameva sāmaṁ manasābhisitto,\nDiṭṭhī hi sā tassa tathā samattā.",
-  "text": "They are perfect, <j>according to their own extreme view;\ndrunk on conceit, imagining themselves proficient.\nThey have anointed themselves in their own mind,\nfor such is the view they have embraced."
+  "text": "They are perfect,\naccording to their own extreme view;\ndrunk on conceit, imagining themselves proficient.\nThey have anointed themselves in their own mind,\nfor such is the view they have embraced."
  },
  {
   "reference": "4.12.13",
   "original": "Parassa ce hi vacasā nihīno,\nTumo sahā hoti nihīnapañño;\nAtha ce sayaṁ vedagū hoti dhīro,\nNa koci bālo samaṇesu atthi.",
-  "text": "If the word of your opponent makes you deficient,\nthen they too are lacking wisdom.\nBut if on your own authority <j>you’re a knowledge master, an attentive one,\nthen there are no fools among the ascetics."
+  "text": "If the word of your opponent makes you deficient,\nthen they too are lacking wisdom.\nBut if on your own authority\nyou’re a knowledge master, an attentive one,\nthen there are no fools among the ascetics."
  },
  {
   "reference": "4.12.14",
@@ -5092,17 +5092,17 @@
  {
   "reference": "4.12.15",
   "original": "Idheva suddhiṁ iti vādayanti,\nNāññesu dhammesu visuddhimāhu;\nEvampi titthyā puthuso niviṭṭhā,\nSakāyane tattha daḷhaṁ vadānā.",
-  "text": "‘Here alone is purity,’ they say,\ndenying that there is purification in other teachings.\nThus each one of the sectarians, being dogmatic,\nspeaks forcefully within the context <j>of their own journey."
+  "text": "‘Here alone is purity,’ they say,\ndenying that there is purification in other teachings.\nThus each one of the sectarians, being dogmatic,\nspeaks forcefully within the context\nof their own journey."
  },
  {
   "reference": "4.12.16",
   "original": "Sakāyane vāpi daḷhaṁ vadāno,\nKamettha bāloti paraṁ daheyya;\nSayaṁva so medhagamāvaheyya,\nParaṁ vadaṁ bālamasuddhidhammaṁ.",
-  "text": "But in that case, so long as they are speaking forcefully <j>of their own journey,\nhow can they take the other as a fool?\nThey are the ones who provoke conflict\nwhen they call the other a fool <j>with an impure teaching."
+  "text": "But in that case, so long as they are speaking forcefully\nof their own journey,\nhow can they take the other as a fool?\nThey are the ones who provoke conflict\nwhen they call the other a fool\nwith an impure teaching."
  },
  {
   "reference": "4.12.17",
   "original": "Vinicchaye ṭhatvā sayaṁ pamāya,\nUddhaṁsa lokasmiṁ vivādameti;\nHitvāna sabbāni vinicchayāni,\nNa medhagaṁ kubbati jantu loke”ti.",
-  "text": "Standing in judgment, <j>measuring by their own standard,\nthey dispute with the world more and more.\nBut a personage who has given up all judgments\ncreates no conflict in the world.”"
+  "text": "Standing in judgment,\nmeasuring by their own standard,\nthey dispute with the world more and more.\nBut a personage who has given up all judgments\ncreates no conflict in the world.”"
  },
  {
   "reference": "4.13.1",
@@ -5118,7 +5118,7 @@
  {
   "reference": "4.13.3",
   "original": "“Yā kācimā sammutiyo puthujjā,\nSabbāva etā na upeti vidvā;\nAnūpayo so upayaṁ kimeyya,\nDiṭṭhe sute khantimakubbamāno”.",
-  "text": "One who knows does not get involved\nwith any of the many different conventions.\nWhy would the uninvolved get involved,\nsince they do not believe <j>based on the seen or the heard?"
+  "text": "One who knows does not get involved\nwith any of the many different conventions.\nWhy would the uninvolved get involved,\nsince they do not believe\nbased on the seen or the heard?"
  },
  {
   "reference": "4.13.4",
@@ -5128,7 +5128,7 @@
  {
   "reference": "4.13.5",
   "original": "Sace cuto sīlavatato hoti,\nPavedhatī kamma virādhayitvā;\nPajappatī patthayatī ca suddhiṁ,\nSatthāva hīno pavasaṁ gharamhā.",
-  "text": "If they fall away from their precepts and vows,\nthey tremble, having failed in their task.\nThey pray and long for purity,\nlike one who has lost their caravan <j>while journeying far from home."
+  "text": "If they fall away from their precepts and vows,\nthey tremble, having failed in their task.\nThey pray and long for purity,\nlike one who has lost their caravan\nwhile journeying far from home."
  },
  {
   "reference": "4.13.6",
@@ -5138,12 +5138,12 @@
  {
   "reference": "4.13.7",
   "original": "Tamūpanissāya jigucchitaṁ vā,\nAtha vāpi diṭṭhaṁ va sutaṁ mutaṁ vā;\nUddhaṁsarā suddhimanutthunanti,\nAvītataṇhāse bhavābhavesu.",
-  "text": "Relying on mortification in disgust of sin,\nor else on what is seen, heard, or thought,\nthey moan that purification <j>comes through heading upstream,\nnot rid of craving for life after life."
+  "text": "Relying on mortification in disgust of sin,\nor else on what is seen, heard, or thought,\nthey moan that purification\ncomes through heading upstream,\nnot rid of craving for life after life."
  },
  {
   "reference": "4.13.8",
   "original": "Patthayamānassa hi jappitāni,\nPavedhitaṁ vāpi pakappitesu;\nCutūpapāto idha yassa natthi,\nSa kena vedheyya kuhiṁ va jappe”.",
-  "text": "For one who longs there are muttered prayers,\nand trembling too over ideas they have formed.\nBut one here for whom there is no passing away <j>or reappearing:\nwhy would they tremble? For what would they pray?”"
+  "text": "For one who longs there are muttered prayers,\nand trembling too over ideas they have formed.\nBut one here for whom there is no passing away\nor reappearing:\nwhy would they tremble? For what would they pray?”"
  },
  {
   "reference": "4.13.9",
@@ -5168,12 +5168,12 @@
  {
   "reference": "4.13.13",
   "original": "Na brāhmaṇassa paraneyyamatthi,\nDhammesu niccheyya samuggahītaṁ;\nTasmā vivādāni upātivatto,\nNa hi seṭṭhato passati dhammamaññaṁ.",
-  "text": "After judging among the teachings, <j>a brahmin has adopted nothing\nthat requires interpretation by another.\nThat’s why they’ve gotten over disputes,\nfor they see no other doctrine as best."
+  "text": "After judging among the teachings,\na brahmin has adopted nothing\nthat requires interpretation by another.\nThat’s why they’ve gotten over disputes,\nfor they see no other doctrine as best."
  },
  {
   "reference": "4.13.14",
   "original": "Jānāmi passāmi tatheva etaṁ,\nDiṭṭhiyā eke paccenti suddhiṁ;\nAddakkhi ce kiñhi tumassa tena,\nAtisitvā aññena vadanti suddhiṁ.",
-  "text": "Saying, ‘I know, I see, that’s how it is’,\nsome believe that purity stems from view.\nBut if they’ve really seen, <j>what use is that view to them?\nOverlooking what matters, <j>they say purity comes from another."
+  "text": "Saying, ‘I know, I see, that’s how it is’,\nsome believe that purity stems from view.\nBut if they’ve really seen,\nwhat use is that view to them?\nOverlooking what matters,\nthey say purity comes from another."
  },
  {
   "reference": "4.13.15",
@@ -5183,12 +5183,12 @@
  {
   "reference": "4.13.16",
   "original": "Nivissavādī na hi subbināyo,\nPakappitaṁ diṭṭhi purakkharāno;\nYaṁ nissito tattha subhaṁ vadāno,\nSuddhiṁ vado tattha tathaddasā so.",
-  "text": "It’s not easy to educate someone who is dogmatic,\npromoting a view they have formulated.\nSpeaking of the beauty <j>in that on which they depend,\nthey talk of purity in accord with what they saw there."
+  "text": "It’s not easy to educate someone who is dogmatic,\npromoting a view they have formulated.\nSpeaking of the beauty\nin that on which they depend,\nthey talk of purity in accord with what they saw there."
  },
  {
   "reference": "4.13.17",
   "original": "Na brāhmaṇo kappamupeti saṅkhā,\nNa diṭṭhisārī napi ñāṇabandhu;\nÑatvā ca so sammutiyo puthujjā,\nUpekkhatī uggahaṇanti maññe.",
-  "text": "The brahmin does not get involved <j>with formulating and calculating;\nthey’re not followers of views, <j>nor kinsmen of notions.\nHaving understood the many different conventions,\nthey look on when others grasp."
+  "text": "The brahmin does not get involved\nwith formulating and calculating;\nthey’re not followers of views,\nnor kinsmen of notions.\nHaving understood the many different conventions,\nthey look on when others grasp."
  },
  {
   "reference": "4.13.18",
@@ -5198,7 +5198,7 @@
  {
   "reference": "4.13.19",
   "original": "Pubbāsave hitvā nave akubbaṁ,\nNa chandagū nopi nivissavādī;\nSa vippamutto diṭṭhigatehi dhīro,\nNa lippati loke anattagarahī.",
-  "text": "Having given up former defilements <j>and not making new ones,\nnot swayed by preference, <j>nor a proponent of dogma,\nthat attentive one is released from views,\nnot clinging to the world, <j>nor reproaching themselves."
+  "text": "Having given up former defilements\nand not making new ones,\nnot swayed by preference,\nnor a proponent of dogma,\nthat attentive one is released from views,\nnot clinging to the world,\nnor reproaching themselves."
  },
  {
   "reference": "4.13.20",
@@ -5214,7 +5214,7 @@
  {
   "reference": "4.14.2",
   "original": "“Mūlaṁ papañcasaṅkhāya, (iti bhagavā)\nMantā asmīti sabbamuparundhe;\nYā kāci taṇhā ajjhattaṁ,\nTāsaṁ vinayā sadā sato sikkhe.",
-  "text": "“They would cut off the idea, ‘I am the thinker’,” said the Buddha,\n“which is the root of all judgments <j>that emerge from proliferation.\nEver mindful, they would train to remove\nany internal cravings."
+  "text": "“They would cut off the idea, ‘I am the thinker’,” said the Buddha,\n“which is the root of all judgments\nthat emerge from proliferation.\nEver mindful, they would train to remove\nany internal cravings."
  },
  {
   "reference": "4.14.3",
@@ -5234,12 +5234,12 @@
  {
   "reference": "4.14.6",
   "original": "Majjhe yathā samuddassa,\nŪmi no jāyatī ṭhito hoti;\nEvaṁ ṭhito anejassa,\nUssadaṁ bhikkhu na kareyya kuhiñci”.",
-  "text": "Just as, in the middle of the ocean,\nno waves arise, it stays still;\nso too one unstirred is still—\na mendicant would make <j>no pretension regarding anything.”"
+  "text": "Just as, in the middle of the ocean,\nno waves arise, it stays still;\nso too one unstirred is still—\na mendicant would make\nno pretension regarding anything.”"
  },
  {
   "reference": "4.14.7",
   "original": "“Akittayī vivaṭacakkhu,\nSakkhidhammaṁ parissayavinayaṁ;\nPaṭipadaṁ vadehi bhaddante,\nPātimokkhaṁ atha vāpi samādhiṁ”.",
-  "text": "“He whose eyes are open has explained\nthe truth he witnessed, <j>where adversities are removed.\nPlease now speak of the practice, sir,\nthe monastic code and immersion in samādhi.”"
+  "text": "“He whose eyes are open has explained\nthe truth he witnessed,\nwhere adversities are removed.\nPlease now speak of the practice, sir,\nthe monastic code and immersion in samādhi.”"
  },
  {
   "reference": "4.14.8",
@@ -5264,12 +5264,12 @@
  {
   "reference": "4.14.12",
   "original": "Niddaṁ na bahulīkareyya,\nJāgariyaṁ bhajeyya ātāpī;\nTandiṁ māyaṁ hassaṁ khiḍḍaṁ,\nMethunaṁ vippajahe savibhūsaṁ.",
-  "text": "They wouldn’t take much sleep,\nbut, being keen, <j>would apply themselves to wakefulness.\nThey’d give up sloth, illusion, mirth, and play,\nand sex and ornamentation."
+  "text": "They wouldn’t take much sleep,\nbut, being keen,\nwould apply themselves to wakefulness.\nThey’d give up sloth, illusion, mirth, and play,\nand sex and ornamentation."
  },
  {
   "reference": "4.14.13",
   "original": "Āthabbaṇaṁ supinaṁ lakkhaṇaṁ,\nNo vidahe athopi nakkhattaṁ;\nVirutañca gabbhakaraṇaṁ,\nTikicchaṁ māmako na seveyya.",
-  "text": "They wouldn’t cast Artharvaṇa spells, <j>interpret dreams\nor omens, or practice astrology.\nMy followers would not study ominous animal cries,\nwork as a doctor, or treat an impacted fetus."
+  "text": "They wouldn’t cast Artharvaṇa spells,\ninterpret dreams\nor omens, or practice astrology.\nMy followers would not study ominous animal cries,\nwork as a doctor, or treat an impacted fetus."
  },
  {
   "reference": "4.14.14",
@@ -5335,7 +5335,7 @@
  {
   "reference": "4.15.6",
   "original": "Tattha sikkhānugīyanti,\nyāni loke gadhitāni;\nNa tesu pasuto siyā,\nnibbijjha sabbaso kāme;\nSikkhe nibbānamattano.",
-  "text": "(On that topic, the trainings are recited.)\nWhatever attachments there are in the world,\ndon’t pursue them.\nHaving pierced through sensual pleasures <j>in every way,\ntrain yourself for extinguishment."
+  "text": "(On that topic, the trainings are recited.)\nWhatever attachments there are in the world,\ndon’t pursue them.\nHaving pierced through sensual pleasures\nin every way,\ntrain yourself for extinguishment."
  },
  {
   "reference": "4.15.7",
@@ -5451,12 +5451,12 @@
  {
   "reference": "4.16.9",
   "original": "“Vijigucchamānassa yadidaṁ phāsu, (sāriputtāti bhagavā)\nRittāsanaṁ sayanaṁ sevato ce;\nSambodhikāmassa yathānudhammaṁ,\nTaṁ te pavakkhāmi yathā pajānaṁ.",
-  "text": "“If one who loathes attachment <j>frequents a lonely lodging,” said the Buddha to Sāriputta,\n“in their search for awakening—<j>as accords with the teaching—\nI shall tell you, as I understand it,\nwhat is comfortable for them."
+  "text": "“If one who loathes attachment\nfrequents a lonely lodging,” said the Buddha to Sāriputta,\n“in their search for awakening—\nas accords with the teaching—\nI shall tell you, as I understand it,\nwhat is comfortable for them."
  },
  {
   "reference": "4.16.10",
   "original": "Pañcannaṁ dhīro bhayānaṁ na bhāye,\nBhikkhu sato sapariyantacārī;\nḌaṁsādhipātānaṁ sarīsapānaṁ,\nManussaphassānaṁ catuppadānaṁ.",
-  "text": "An attentive one, a mindful mendicant <j>living on the periphery\nshould not be afraid of five perils:\nflies, mosquitoes, reptiles,\nhuman contact, or four-legged creatures."
+  "text": "An attentive one, a mindful mendicant\nliving on the periphery\nshould not be afraid of five perils:\nflies, mosquitoes, reptiles,\nhuman contact, or four-legged creatures."
  },
  {
   "reference": "4.16.11",
@@ -5466,7 +5466,7 @@
  {
   "reference": "4.16.12",
   "original": "Ātaṅkaphassena khudāya phuṭṭho,\nSītaṁ athuṇhaṁ adhivāsayeyya;\nSo tehi phuṭṭho bahudhā anoko,\nViriyaṁ parakkammadaḷhaṁ kareyya.",
-  "text": "Afflicted by illness and hunger,\nthey should endure cold and excessive heat.\nThough afflicted by many such things, <j>the homeless one\nshould exert energy, firmly striving."
+  "text": "Afflicted by illness and hunger,\nthey should endure cold and excessive heat.\nThough afflicted by many such things,\nthe homeless one\nshould exert energy, firmly striving."
  },
  {
   "reference": "4.16.13",
@@ -5476,12 +5476,12 @@
  {
   "reference": "4.16.14",
   "original": "Kodhātimānassa vasaṁ na gacche,\nMūlampi tesaṁ palikhañña tiṭṭhe;\nAthappiyaṁ vā pana appiyaṁ vā,\nAddhā bhavanto abhisambhaveyya.",
-  "text": "They must not fall under the sway <j>of anger or arrogance;\nhaving dug them out by the root, <j>they would stand firm.\nThen, faced with likes and dislikes,\nthey would surely overcome."
+  "text": "They must not fall under the sway\nof anger or arrogance;\nhaving dug them out by the root,\nthey would stand firm.\nThen, faced with likes and dislikes,\nthey would surely overcome."
  },
  {
   "reference": "4.16.15",
   "original": "Paññaṁ purakkhatvā kalyāṇapīti,\nVikkhambhaye tāni parissayāni;\nAratiṁ sahetha sayanamhi pante,\nCaturo sahetha paridevadhamme.",
-  "text": "Putting wisdom in the foremost place, <j>rejoicing in goodness,\nthey would put an end to those adversities.\nThey’d vanquish discontent in their remote lodging.\nAnd they’d vanquish the four lamentations:"
+  "text": "Putting wisdom in the foremost place,\nrejoicing in goodness,\nthey would put an end to those adversities.\nThey’d vanquish discontent in their remote lodging.\nAnd they’d vanquish the four lamentations:"
  },
  {
   "reference": "4.16.16",
@@ -5491,7 +5491,7 @@
  {
   "reference": "4.16.17",
   "original": "Annañca laddhā vasanañca kāle,\nMattaṁ so jaññā idha tosanatthaṁ;\nSo tesu gutto yatacāri gāme,\nRusitopi vācaṁ pharusaṁ na vajjā.",
-  "text": "Receiving food and clothes in due season,\nthey would know moderation <j>for the sake of contentment.\nGuarded in these things, <j>walking restrained in the village,\nthey wouldn’t speak harshly even when provoked."
+  "text": "Receiving food and clothes in due season,\nthey would know moderation\nfor the sake of contentment.\nGuarded in these things,\nwalking restrained in the village,\nthey wouldn’t speak harshly even when provoked."
  },
  {
   "reference": "4.16.18",
@@ -5501,12 +5501,12 @@
  {
   "reference": "4.16.19",
   "original": "Cudito vacībhi satimābhinande,\nSabrahmacārīsu khilaṁ pabhinde;\nVācaṁ pamuñce kusalaṁ nātivelaṁ,\nJanavādadhammāya na cetayeyya.",
-  "text": "A mindful one would welcome reproach,\nand would dissolve hard-heartedness <j>toward their spiritual companions.\nThey may utter skillful speech, but not for too long,\nand they shouldn’t provoke people to blame."
+  "text": "A mindful one would welcome reproach,\nand would dissolve hard-heartedness\ntoward their spiritual companions.\nThey may utter skillful speech, but not for too long,\nand they shouldn’t provoke people to blame."
  },
  {
   "reference": "4.16.20",
   "original": "Athāparaṁ pañca rajāni loke,\nYesaṁ satīmā vinayāya sikkhe;\nRūpesu saddesu atho rasesu,\nGandhesu phassesu sahetha rāgaṁ.",
-  "text": "And there are five more taints in the world,\nfor the removal of which <j>the mindful one should train,\nvanquishing desire for sights,\nsounds, flavors, smells, and touches."
+  "text": "And there are five more taints in the world,\nfor the removal of which\nthe mindful one should train,\nvanquishing desire for sights,\nsounds, flavors, smells, and touches."
  },
  {
   "reference": "4.16.21",
@@ -5622,7 +5622,7 @@
  {
   "reference": "5.1.21",
   "original": "“Sāvatthiyaṁ kosalamandire jino,\nPahūtapañño varabhūrimedhaso;\nSo sakyaputto vidhuro anāsavo,\nMuddhādhipātassa vidū narāsabho”.",
-  "text": "“Near Sāvatthī, home of the Kosalans, <j>is the Victor\nabounding in wisdom, vast in intelligence.\nThat Sakyan is indefatigable, free of defilements,\nthat captain of men understands head-splitting.”"
+  "text": "“Near Sāvatthī, home of the Kosalans,\nis the Victor\nabounding in wisdom, vast in intelligence.\nThat Sakyan is indefatigable, free of defilements,\nthat captain of men understands head-splitting.”"
  },
  {
   "reference": "5.1.22",
@@ -5687,7 +5687,7 @@
  {
   "reference": "5.1.34",
   "original": "Paccekagaṇino sabbe,\nSabbalokassa vissutā;\nJhāyī jhānaratā dhīrā,\nPubbavāsanavāsitā.",
-  "text": "Each of them had their own following,\nthey were renowned the whole world over.\nThose attentive ones, <j>meditators who love absorption,\nwere redolent with the potential <j>of their past deeds."
+  "text": "Each of them had their own following,\nthey were renowned the whole world over.\nThose attentive ones,\nmeditators who love absorption,\nwere redolent with the potential\nof their past deeds."
  },
  {
   "reference": "5.1.35",
@@ -5859,33 +5859,33 @@
  {
   "reference": "5.4.1",
   "original": "“Anejaṁ mūladassāviṁ, (iccāyasmā puṇṇako)\nAtthi pañhena āgamaṁ;\nKiṁ nissitā isayo manujā,\nKhattiyā brāhmaṇā devatānaṁ;\nYaññamakappayiṁsu puthūdha loke,\nPucchāmi taṁ bhagavā brūhi me taṁ”.",
-  "text": "“To the imperturbable, the seer of the root,” said Venerable Puṇṇaka,\n“I have come seeking with a question.\nOn what grounds have seers and men,\naristocrats and brahmins here in the world\nperformed so many different <j>sacrifices to the gods?\nI ask you, Blessed One; please tell me this.”",
+  "text": "“To the imperturbable, the seer of the root,” said Venerable Puṇṇaka,\n“I have come seeking with a question.\nOn what grounds have seers and men,\naristocrats and brahmins here in the world\nperformed so many different\nsacrifices to the gods?\nI ask you, Blessed One; please tell me this.”",
   "title": "The Questions of Puṇṇaka (Puṇṇakamāṇavapucchā)"
  },
  {
   "reference": "5.4.2",
   "original": "“Ye kecime isayo manujā, (puṇṇakāti bhagavā)\nKhattiyā brāhmaṇā devatānaṁ;\nYaññamakappayiṁsu puthūdha loke,\nĀsīsamānā puṇṇaka itthattaṁ;\nJaraṁ sitā yaññamakappayiṁsu”.",
-  "text": "“Whatever seers and men,” replied the Buddha,\n“aristocrats and brahmins here in the world\nhave performed so many different <j>sacrifices to the gods:\nall performed sacrifices bound to old age,\nlonging for this place.”"
+  "text": "“Whatever seers and men,” replied the Buddha,\n“aristocrats and brahmins here in the world\nhave performed so many different\nsacrifices to the gods:\nall performed sacrifices bound to old age,\nlonging for this place.”"
  },
  {
   "reference": "5.4.3",
   "original": "“Ye kecime isayo manujā, (iccāyasmā puṇṇako)\nKhattiyā brāhmaṇā devatānaṁ;\nYaññamakappayiṁsu puthūdha loke,\nKaccissu te bhagavā yaññapathe appamattā;\nAtāruṁ jātiñca jarañca mārisa,\nPucchāmi taṁ bhagavā brūhi me taṁ”.",
-  "text": "“As to those seers and men,” said Venerable Puṇṇaka,\n“and aristocrats and brahmins here in the world\nwho have performed so many different <j>sacrifices to the gods:\nbeing diligent in the technique of sacrifice,\nhave they crossed over rebirth and old age, good fellow?\nI ask you, Blessed One; please tell me this.”"
+  "text": "“As to those seers and men,” said Venerable Puṇṇaka,\n“and aristocrats and brahmins here in the world\nwho have performed so many different\nsacrifices to the gods:\nbeing diligent in the technique of sacrifice,\nhave they crossed over rebirth and old age, good fellow?\nI ask you, Blessed One; please tell me this.”"
  },
  {
   "reference": "5.4.4",
   "original": "“Āsīsanti thomayanti abhijappanti juhanti, (puṇṇakāti bhagavā)\nKāmābhijappanti paṭicca lābhaṁ;\nTe yājayogā bhavarāgarattā,\nNātariṁsu jātijaranti brūmi”.",
-  "text": "“Hoping, invoking, praying, and worshiping,” replied the Buddha,\n“they pray for pleasure derived from profit.\nDevoted to sacrifice, besotted by rebirth,\nthey’ve not crossed over rebirth and old age, <j>I declare.”"
+  "text": "“Hoping, invoking, praying, and worshiping,” replied the Buddha,\n“they pray for pleasure derived from profit.\nDevoted to sacrifice, besotted by rebirth,\nthey’ve not crossed over rebirth and old age,\nI declare.”"
  },
  {
   "reference": "5.4.5",
   "original": "“Te ce nātariṁsu yājayogā, (iccāyasmā puṇṇako)\nYaññehi jātiñca jarañca mārisa;\nAtha ko carahi devamanussaloke,\nAtāri jātiñca jarañca mārisa;\nPucchāmi taṁ bhagavā brūhi me taṁ”.",
-  "text": "“If those devoted to sacrifice,” said Venerable Puṇṇaka,\n“have not, by sacrificing, <j>crossed over rebirth and old age,\nwho then in the world of gods and humans\nhas crossed over rebirth and old age, good fellow?\nI ask you, Blessed One; please tell me this.”"
+  "text": "“If those devoted to sacrifice,” said Venerable Puṇṇaka,\n“have not, by sacrificing,\ncrossed over rebirth and old age,\nwho then in the world of gods and humans\nhas crossed over rebirth and old age, good fellow?\nI ask you, Blessed One; please tell me this.”"
  },
  {
   "reference": "5.4.6",
   "original": "“Saṅkhāya lokasmi paroparāni, (puṇṇakāti bhagavā)\nYassiñjitaṁ natthi kuhiñci loke;\nSanto vidhūmo anīgho nirāso,\nAtāri so jātijaranti brūmī”ti.",
-  "text": "“Having appraised the world high and low,” replied the Buddha,\n“there is nothing in the world that disturbs them.\nPeaceful, unclouded, untroubled, <j>with no need for hope—\nthey’ve crossed over rebirth and old age, I declare.”"
+  "text": "“Having appraised the world high and low,” replied the Buddha,\n“there is nothing in the world that disturbs them.\nPeaceful, unclouded, untroubled,\nwith no need for hope—\nthey’ve crossed over rebirth and old age, I declare.”"
  },
  {
   "reference": "5.5.1",
@@ -5901,7 +5901,7 @@
  {
   "reference": "5.5.3",
   "original": "Yo ve avidvā upadhiṁ karoti,\nPunappunaṁ dukkhamupeti mando;\nTasmā pajānaṁ upadhiṁ na kayirā,\nDukkhassa jātippabhavānupassī”.",
-  "text": "When an ignorant person builds up attachments,\nthat dullard returns to suffering again and again.\nSo let one who understands <j>not build up attachments,\ncontemplating the inception of suffering and rebirth.”"
+  "text": "When an ignorant person builds up attachments,\nthat dullard returns to suffering again and again.\nSo let one who understands\nnot build up attachments,\ncontemplating the inception of suffering and rebirth.”"
  },
  {
   "reference": "5.5.4",
@@ -5921,7 +5921,7 @@
  {
   "reference": "5.5.7",
   "original": "“Yaṁ kiñci sampajānāsi, (mettagūti bhagavā)\nUddhaṁ adho tiriyañcāpi majjhe;\nEtesu nandiñca nivesanañca,\nPanujja viññāṇaṁ bhave na tiṭṭhe.",
-  "text": "“Once you’ve expelled relishing and dogmatism,” replied the Buddha,\n“regarding everything you are aware of—\nabove, below, all round, between—\nhaving cast aside consciousness, <j>don’t continue in existence."
+  "text": "“Once you’ve expelled relishing and dogmatism,” replied the Buddha,\n“regarding everything you are aware of—\nabove, below, all round, between—\nhaving cast aside consciousness,\ndon’t continue in existence."
  },
  {
   "reference": "5.5.8",
@@ -5936,7 +5936,7 @@
  {
   "reference": "5.5.10",
   "original": "Te cāpi nūnappajaheyyu dukkhaṁ,\nYe tvaṁ muni aṭṭhitaṁ ovadeyya;\nTaṁ taṁ namassāmi samecca nāga,\nAppeva maṁ bhagavā aṭṭhitaṁ ovadeyya”.",
-  "text": "Surely, sage, those you’d regularly instruct\nwould also give up suffering.\nHaving met, I bow especially to you, <j>O spiritual giant;\nhopefully the Buddha may regularly instruct me.”"
+  "text": "Surely, sage, those you’d regularly instruct\nwould also give up suffering.\nHaving met, I bow especially to you,\nO spiritual giant;\nhopefully the Buddha may regularly instruct me.”"
  },
  {
   "reference": "5.5.11",
@@ -5998,7 +5998,7 @@
  {
   "reference": "5.7.2",
   "original": "“Ākiñcaññaṁ pekkhamāno satimā, (upasīvāti bhagavā)\nNatthīti nissāya tarassu oghaṁ;\nKāme pahāya virato kathāhi,\nTaṇhakkhayaṁ nattamahābhipassa”.",
-  "text": "“Mindfully contemplating nothingness,” replied the Buddha,\n“depending on the perception ‘there is nothing’, <j>cross the flood.\nGiving up sensual pleasures, <j>refraining from chatter,\nwatch day and night for the ending of craving.”"
+  "text": "“Mindfully contemplating nothingness,” replied the Buddha,\n“depending on the perception ‘there is nothing’,\ncross the flood.\nGiving up sensual pleasures,\nrefraining from chatter,\nwatch day and night for the ending of craving.”"
  },
  {
   "reference": "5.7.3",
@@ -6018,7 +6018,7 @@
  {
   "reference": "5.7.6",
   "original": "“Accī yathā vātavegena khittā, (upasīvāti bhagavā)\nAtthaṁ paleti na upeti saṅkhaṁ;\nEvaṁ munī nāmakāyā vimutto,\nAtthaṁ paleti na upeti saṅkhaṁ”.",
-  "text": "“As a flame tossed by a gust of wind,” replied the Buddha,\n“comes to an end and cannot be reckoned;\nso too, a sage freed <j>from the set of mental phenomena\ncomes to an end and cannot be reckoned.”"
+  "text": "“As a flame tossed by a gust of wind,” replied the Buddha,\n“comes to an end and cannot be reckoned;\nso too, a sage freed\nfrom the set of mental phenomena\ncomes to an end and cannot be reckoned.”"
  },
  {
   "reference": "5.7.7",
@@ -6028,7 +6028,7 @@
  {
   "reference": "5.7.8",
   "original": "“Atthaṅgatassa na pamāṇamatthi, (upasīvāti bhagavā)\nYena naṁ vajjuṁ taṁ tassa natthi;\nSabbesu dhammesu samohatesu,\nSamūhatā vādapathāpi sabbe”ti.",
-  "text": "“One who has disappeared cannot be defined,” replied the Buddha.\n“They have nothing <j>by which others might describe them.\nWhen all things have been eradicated,\neradicated, too, are all ways of speech.”"
+  "text": "“One who has disappeared cannot be defined,” replied the Buddha.\n“They have nothing\nby which others might describe them.\nWhen all things have been eradicated,\neradicated, too, are all ways of speech.”"
  },
  {
   "reference": "5.8.1",
@@ -6044,12 +6044,12 @@
  {
   "reference": "5.8.3",
   "original": "“Ye kecime samaṇabrāhmaṇāse, (iccāyasmā nando)\nDiṭṭhassutenāpi vadanti suddhiṁ;\nSīlabbatenāpi vadanti suddhiṁ,\nAnekarūpena vadanti suddhiṁ.\nKaccissu te bhagavā tattha yatā carantā,\nAtāru jātiñca jarañca mārisa;\nPucchāmi taṁ bhagavā brūhi me taṁ”.",
-  "text": "“As to those ascetics and brahmins,” said Venerable Nanda,\n“who speak of purity in terms of what is seen or heard,\nor in terms of precepts and vows,\nor in terms of countless different things.\nLiving self-controlled in that matter,\nhave they crossed over rebirth and old age, <j>good fellow?\nI ask you, Blessed One; please tell me this.”"
+  "text": "“As to those ascetics and brahmins,” said Venerable Nanda,\n“who speak of purity in terms of what is seen or heard,\nor in terms of precepts and vows,\nor in terms of countless different things.\nLiving self-controlled in that matter,\nhave they crossed over rebirth and old age,\ngood fellow?\nI ask you, Blessed One; please tell me this.”"
  },
  {
   "reference": "5.8.4",
   "original": "“Ye kecime samaṇabrāhmaṇāse, (nandāti bhagavā)\nDiṭṭhassutenāpi vadanti suddhiṁ;\nSīlabbatenāpi vadanti suddhiṁ,\nAnekarūpena vadanti suddhiṁ;\nKiñcāpi te tattha yatā caranti,\nNātariṁsu jātijaranti brūmi”.",
-  "text": "“As to those ascetics and brahmins,” replied the Buddha,\n“who speak of purity in terms of what is seen or heard,\nor in terms of precepts and vows,\nor in terms of countless different things.\nEven though they live self-controlled in that matter,\nthey’ve not crossed over rebirth and old age, <j>I declare.”"
+  "text": "“As to those ascetics and brahmins,” replied the Buddha,\n“who speak of purity in terms of what is seen or heard,\nor in terms of precepts and vows,\nor in terms of countless different things.\nEven though they live self-controlled in that matter,\nthey’ve not crossed over rebirth and old age,\nI declare.”"
  },
  {
   "reference": "5.8.5",
@@ -6059,12 +6059,12 @@
  {
   "reference": "5.8.6",
   "original": "“Nāhaṁ sabbe samaṇabrāhmaṇāse, (nandāti bhagavā)\nJātijarāya nivutāti brūmi;\nYe sīdha diṭṭhaṁ va sutaṁ mutaṁ vā,\nSīlabbataṁ vāpi pahāya sabbaṁ.\nAnekarūpampi pahāya sabbaṁ,\nTaṇhaṁ pariññāya anāsavāse;\nTe ve narā oghatiṇṇāti brūmi”.",
-  "text": "“I don’t say that all ascetics and brahmins,” replied the Buddha,\n“are shrouded by rebirth and old age.\nThere are those here who have given up all\nthat is seen, heard, and thought, <j>and precepts and vows,\nwho have given up all the countless different things.\nFully understanding craving, <j>they are free of defilements,\nthose people, I say, have crossed the flood.”"
+  "text": "“I don’t say that all ascetics and brahmins,” replied the Buddha,\n“are shrouded by rebirth and old age.\nThere are those here who have given up all\nthat is seen, heard, and thought,\nand precepts and vows,\nwho have given up all the countless different things.\nFully understanding craving,\nthey are free of defilements,\nthose people, I say, have crossed the flood.”"
  },
  {
   "reference": "5.8.7",
   "original": "“Etābhinandāmi vaco mahesino,\nSukittitaṁ gotamanūpadhīkaṁ;\nYe sīdha diṭṭhaṁ va sutaṁ mutaṁ vā,\nSīlabbataṁ vāpi pahāya sabbaṁ.\nAnekarūpampi pahāya sabbaṁ,\nTaṇhaṁ pariññāya anāsavāse;\nAhampi te oghatiṇṇāti brūmī”ti.",
-  "text": "“I rejoice in the words of the great seer!\nYou have expounded non-attachment well, Gotama.\nThere are those here who have given up all\nthat is seen, heard, and thought, <j>and precepts and vows,\nwho have given up all the countless different things.\nFully understanding craving, <j>they are free of defilements,\nthose people, I agree, have crossed the flood.”"
+  "text": "“I rejoice in the words of the great seer!\nYou have expounded non-attachment well, Gotama.\nThere are those here who have given up all\nthat is seen, heard, and thought,\nand precepts and vows,\nwho have given up all the countless different things.\nFully understanding craving,\nthey are free of defilements,\nthose people, I agree, have crossed the flood.”"
  },
  {
   "reference": "5.9.1",
@@ -6101,12 +6101,12 @@
  {
   "reference": "5.10.3",
   "original": "“Nirāsaso so uda āsasāno,\nPaññāṇavā so uda paññakappī;\nMuniṁ ahaṁ sakka yathā vijaññaṁ,\nTaṁ me viyācikkha samantacakkhu”.",
-  "text": "“Are they free of hope, <j>or are they still in need of hope?\nDo they possess wisdom, <j>or are they still forming wisdom?\nO Sakyan, elucidate the sage to me,\nso that I may understand, All-seer.”"
+  "text": "“Are they free of hope,\nor are they still in need of hope?\nDo they possess wisdom,\nor are they still forming wisdom?\nO Sakyan, elucidate the sage to me,\nso that I may understand, All-seer.”"
  },
  {
   "reference": "5.10.4",
   "original": "“Nirāsaso so na ca āsasāno,\nPaññāṇavā so na ca paññakappī;\nEvampi todeyya muniṁ vijāna,\nAkiñcanaṁ kāmabhave asattan”ti.",
-  "text": "“They are free of hope, <j>they are not in need of hope.\nThey possess wisdom, <j>they are not still forming wisdom.\nThat, Todeyya, is how to understand a sage,\none who has nothing, unattached to sensual life.”"
+  "text": "“They are free of hope,\nthey are not in need of hope.\nThey possess wisdom,\nthey are not still forming wisdom.\nThat, Todeyya, is how to understand a sage,\none who has nothing, unattached to sensual life.”"
  },
  {
   "reference": "5.11.1",
@@ -6132,13 +6132,13 @@
  {
   "reference": "5.12.1",
   "original": "“Sutvānahaṁ vīramakāmakāmiṁ, (iccāyasmā jatukaṇṇi)\nOghātigaṁ puṭṭhumakāmamāgamaṁ;\nSantipadaṁ brūhi sahajanetta,\nYathātacchaṁ bhagavā brūhi metaṁ.",
-  "text": "“Hearing of the hero <j>with no desire for sensual pleasures,” said Venerable Jatukaṇṇī,\n“who has passed over the flood, I’ve come <j>with a question for that desireless one.\nTell me the state of peace, O natural visionary.\nTell me this, Blessed One, as it really is.",
+  "text": "“Hearing of the hero\nwith no desire for sensual pleasures,” said Venerable Jatukaṇṇī,\n“who has passed over the flood, I’ve come\nwith a question for that desireless one.\nTell me the state of peace, O natural visionary.\nTell me this, Blessed One, as it really is.",
   "title": "The Questions of Jatukaṇṇī (Jatukaṇṇimāṇavapucchā)"
  },
  {
   "reference": "5.12.2",
   "original": "Bhagavā hi kāme abhibhuyya iriyati,\nĀdiccova pathaviṁ tejī tejasā;\nParittapaññassa me bhūripañña,\nĀcikkha dhammaṁ yamahaṁ vijaññaṁ;\nJātijarāya idha vippahānaṁ”.",
-  "text": "For, having mastered sensual desires, <j>the Blessed One proceeds,\nas the blazing sun shines on the earth.\nMay you of vast wisdom explain the teaching\nto me of little wisdom so that I may understand\nthe giving up of rebirth and old age here.”"
+  "text": "For, having mastered sensual desires,\nthe Blessed One proceeds,\nas the blazing sun shines on the earth.\nMay you of vast wisdom explain the teaching\nto me of little wisdom so that I may understand\nthe giving up of rebirth and old age here.”"
  },
  {
   "reference": "5.12.3",
@@ -6158,13 +6158,13 @@
  {
   "reference": "5.13.1",
   "original": "“Okañjahaṁ taṇhacchidaṁ anejaṁ, (iccāyasmā bhadrāvudho)\nNandiñjahaṁ oghatiṇṇaṁ vimuttaṁ;\nKappañjahaṁ abhiyāce sumedhaṁ,\nSutvāna nāgassa apanamissanti ito.",
-  "text": "“I beseech you, the bastion-leaver, the craving-cutter, the imperturbable,” said Venerable Bhadrāvudha,\n“the delight-leaver, the flood-crosser, the freed,\nthe formulation-leaver, the intelligent.\nDifferent people have gathered <j>from across the nations",
+  "text": "“I beseech you, the bastion-leaver, the craving-cutter, the imperturbable,” said Venerable Bhadrāvudha,\n“the delight-leaver, the flood-crosser, the freed,\nthe formulation-leaver, the intelligent.\nDifferent people have gathered\nfrom across the nations",
   "title": "The Questions of Bhadrāvudha (Bhadrāvudhamāṇavapucchā)"
  },
  {
   "reference": "5.13.2",
   "original": "Nānājanā janapadehi saṅgatā,\nTava vīra vākyaṁ abhikaṅkhamānā;\nTesaṁ tuvaṁ sādhu viyākarohi,\nTathā hi te vidito esa dhammo”.",
-  "text": "wishing to hear your word, O hero.\nAfter hearing the spiritual giant <j>they will depart from here.\nPlease, sage, answer them clearly,\nfor truly you understand this matter.”"
+  "text": "wishing to hear your word, O hero.\nAfter hearing the spiritual giant\nthey will depart from here.\nPlease, sage, answer them clearly,\nfor truly you understand this matter.”"
  },
  {
   "reference": "5.13.3",
@@ -6263,7 +6263,7 @@
  {
   "reference": "5.17.2",
   "original": "“Disvāna rūpesu vihaññamāne, (piṅgiyāti bhagavā)\nRuppanti rūpesu janā pamattā;\nTasmā tuvaṁ piṅgiya appamatto,\nJahassu rūpaṁ apunabbhavāya”.",
-  "text": "“Seeing them being harmed <j>on account of forms,” replied the Buddha,\n“those negligent folk are inflicted <j>on account of forms—\ntherefore, Piṅgiya, being diligent,\ngive up form so as not to be reborn.”"
+  "text": "“Seeing them being harmed\non account of forms,” replied the Buddha,\n“those negligent folk are inflicted\non account of forms—\ntherefore, Piṅgiya, being diligent,\ngive up form so as not to be reborn.”"
  },
  {
   "reference": "5.17.3",
@@ -6330,7 +6330,7 @@
  {
   "reference": "5.19.3",
   "original": "Tamonudo buddho samantacakkhu,\nLokantagū sabbabhavātivatto;\nAnāsavo sabbadukkhappahīno,\nSaccavhayo brahme upāsito me.",
-  "text": "The Buddha, All-seer, dispeller of darkness,\nhas gone to world’s end, beyond all rebirths;\nhe is free of defilements, <j>and has given up all suffering,\nthe rightly-named one, brahmin, is revered by me."
+  "text": "The Buddha, All-seer, dispeller of darkness,\nhas gone to world’s end, beyond all rebirths;\nhe is free of defilements,\nand has given up all suffering,\nthe rightly-named one, brahmin, is revered by me."
  },
  {
   "reference": "5.19.4",
