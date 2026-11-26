@@ -6194,5 +6194,1859 @@
       "note": "Sanskrit commentary, verse by verse; the sūkta introduction (seer, deity, metre, ritual use) is kept with the first verse.",
       "kind": "Commentary"
     }
+  },
+  "mishnah_berakhot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_peah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_demai": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_kilayim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_sheviit": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_terumot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_maasrot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_maaser_sheni": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_challah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_orlah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_bikkurim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_shabbat": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_eruvin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_pesachim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_shekalim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_yoma": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_sukkah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_beitzah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_rosh_hashanah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_taanit": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_megillah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_moed_katan": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_chagigah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_yevamot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_ketubot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_nedarim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_nazir": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_sotah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_gittin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_kiddushin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_bava_kamma": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_bava_metzia": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_bava_batra": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_sanhedrin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_makkot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_shevuot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_eduyot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_avodah_zarah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_pirkei_avot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_horayot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_zevachim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_menachot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_chullin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_bekhorot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_arakhin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_temurah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_keritot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_meilah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_tamid": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_middot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_kinnim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_kelim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_oholot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_negaim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_parah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_tahorot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_mikvaot": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_niddah": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_makhshirin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_zavim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_tevul_yom": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_yadayim": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "mishnah_oktzin": {
+    "english": {
+      "by": "Joshua Kulp",
+      "work": "Mishnah Yomit, Conservative Yeshiva, Jerusalem",
+      "year": "2007–2019",
+      "links": [
+        {
+          "label": "Conservative Yeshiva",
+          "url": "https://learn.conservativeyeshiva.org/mishnah/"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Mishnah"
+      },
+      "note": "Licence: CC BY (Joshua Kulp, Mishnah Yomit). Hebrew: the Romm edition, Vilna 1913 (public domain), in the same numbering."
+    }
+  },
+  "bavli_berakhot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_shabbat": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_eruvin": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_pesachim": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_yoma": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_sukkah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_beitzah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_rosh_hashanah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_taanit": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_megillah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_moed_katan": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_chagigah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_yevamot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_ketubot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_nedarim": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_nazir": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_sotah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_gittin": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_kiddushin": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_bava_kamma": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_bava_metzia": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_bava_batra": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_sanhedrin": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_makkot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_shevuot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_avodah_zarah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_horayot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_zevachim": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_menachot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_chullin": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_bekhorot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_arakhin": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_temurah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_keritot": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_meilah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_tamid": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "bavli_niddah": {
+    "english": {
+      "by": "Rabbi Adin Even-Israel Steinsaltz, Koren Publishers",
+      "work": "The William Davidson Talmud (Koren Noé Talmud)",
+      "year": "2012–2019",
+      "links": [
+        {
+          "label": "Koren",
+          "url": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1"
+        }
+      ],
+      "via": {
+        "label": "Sefaria",
+        "url": "https://www.sefaria.org/texts/Talmud"
+      },
+      "note": "Licence: CC BY-NC (William Davidson Edition, Sefaria). The edition sets the literal translation in bold and Steinsaltz's explanation in roman; here both are plain. Aramaic: the same edition, segment by segment."
+    }
+  },
+  "kojiki_chamberlain": {
+    "english": {
+      "by": "Basil Hall Chamberlain",
+      "work": "Kojiki, or Records of Ancient Matters, Transactions of the Asiatic Society of Japan 10, supplement, Yokohama",
+      "year": "1882",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Kojiki_%28Chamberlain%2C_1882%29"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Kojiki_%28Chamberlain%2C_1882%29"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, Chamberlain's notes, introduction and appendices left out."
+    }
+  },
+  "nihongi_aston": {
+    "english": {
+      "by": "William George Aston",
+      "work": "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Transactions and Proceedings of the Japan Society, supplement I, London: Kegan Paul",
+      "year": "1896",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Nihongi"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Nihongi"
+      },
+      "note": "Public domain; the proofread Wikisource transcription, Aston's notes left out."
+    }
+  },
+  "book_of_the_dead_budge": {
+    "english": {
+      "by": "E. A. Wallis Budge",
+      "work": "The Book of the Dead according to the Theban Recension, in Egyptian Literature, The World's Great Classics, New York: Colonial Press",
+      "year": "1901",
+      "links": [
+        {
+          "label": "Wikisource",
+          "url": "https://en.wikisource.org/wiki/Egyptian_Literature/The_Book_of_the_Dead"
+        }
+      ],
+      "via": {
+        "label": "Wikisource",
+        "url": "https://en.wikisource.org/wiki/Egyptian_Literature/The_Book_of_the_Dead"
+      },
+      "note": "Public domain; the proofread Wikisource transcription. A selection of chapters, chiefly from the Papyrus of Ani (British Museum 10470), in the order of the 1901 volume."
+    }
   }
 }

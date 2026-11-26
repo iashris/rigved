@@ -1,0 +1,507 @@
+[
+ {
+  "reference": "1.1",
+  "original": "חמשה לא יתרומו. ואם תרמו אין תרומתן תרומה. החרש. והשוטה. והקטן. והתורם את שאינו שלו. עוכד כוכבים שתרם את של ישראל אפילו ברשות אין תרומתו תרומה:",
+  "text": "Five may not give terumah, and if they do so, their terumah is not considered terumah:A heresh (deaf-mute); an imbecile, a minor, And the one who gives terumah from that which is not his own. If a non-Jew gave terumah from that which belongs to an Israelite, even if it was with his permission, his terumah is not terumah."
+ },
+ {
+  "reference": "1.2",
+  "original": "חרש המדבר ואינו שומע לא יתרום. ואם תרם תרומתו תרומה. חרש שדברו בו חכמים בכל מקום. שאינו לא שומע ולא מדבר.",
+  "text": "A “heresh”, who speaks but cannot hear, may not give terumah, but if he does so, his terumah is terumah. The “heresh” of whom the sages generally speak is one who neither hears nor speaks."
+ },
+ {
+  "reference": "1.3",
+  "original": "קטן שלא הביא שתי שערות. רבי יהודה אומר תרומתו תרומה. רבי יוסי אומר אם עד שלא בא לעונת נדרים אין תרומתו תרומה. ומשבא לעונת נדרים תרומתו תרומה:",
+  "text": "A minor who has not yet produced two [pubic] hairs: Rabbi Judah says: his terumah is terumah. Rabbi Yose says: if he has not arrived at the age when his vows are valid, his terumah is not terumah, but if he has arrived at an age where his vows are valid, his terumah is terumah."
+ },
+ {
+  "reference": "1.4",
+  "original": "אין תורמין זיתים על השמן ולא ענבים על היין. ואם תרמו בית שמאי אומרים תרומת עצמן בהם ובית הלל אומרים אין תרומתן תרומה:",
+  "text": "They should not take terumah from olives for oil, or from grapes for wine. If one did: Bet Shammai says: there is terumah in [the olives or grapes] themselves. But Bet Hillel says: the terumah is not terumah."
+ },
+ {
+  "reference": "1.5",
+  "original": "אין תורמין מן הלקט ומן השכחה ומן הפאה ומן ההפקר. ולא ממעשר ראשון שנטלה תרומתו ולא ממעשר שני והקדש שנפדו. ולא מן החייב על הפטור. ולא מן הפטור על החייב. ולא מן התלוש על המחובר ולא מן המחובר על התלוש. ולא מן החדש על הישן ולא מן הישן על החדש. ולא מפירות הארץ על פירות חוצה לארץ ולא מפירות חוצה לארץ על פירות הארץ. ואם תרמו אין תרומתן תרומה:",
+  "text": "They do not take terumah from ‘gleanings’, from ‘the forgotten sheaf’, from peah or from ownerless produce. [Neither is it taken] from first tithe from which terumah had already been taken, nor from second tithe and dedicated produce that had been redeemed. [Nor is it taken] from that which is subject [to terumah] for that which is exempt [from terumah], nor from that which is exempt for that which is subject. Nor from produce already plucked [from the soil] for that attached to it, nor from that attached [to the soil] for that already plucked. Nor from new produce for old, nor from old for new. Nor from produce from the land of Israel for produce grown outside the land, nor from that grown out of the land for that grown in the land. [In all these cases] if they did take terumah, their terumah is not terumah."
+ },
+ {
+  "reference": "1.6",
+  "original": "חמשה לא יתרומו ואם תרמו תרומתן תרומה. האלם והשכור והערום והסומא ובעל קרי לא יתרומו ואם תרמו תרומתן תרומה:",
+  "text": "Five may not give terumah, but if they do, their terumah is terumah.A mute person; A drunken person; One who is naked; A blind person; Or one who has had a seminal emission. They may not give terumah, but if they do their terumah is valid."
+ },
+ {
+  "reference": "1.7",
+  "original": "אין תורמין לא במדה ולא במשקל ולא במנין אבל תורם הוא את המדוד ואת השקול ואת המנוי. אין תורמין בסל ובקופה שהם של מדה אבל תורם הוא בהן חציין ושלישן. לא יתרום בסאה חציה שחציה מדה:",
+  "text": "They may not give terumah according to measure, or weight, or number, but one may give it from that which has already been measured, weighed or counted. They may not give terumah in a basket or a hamper of a measured capacity, but one may give in it when it is a half or a third filled. He may not give a half of seah in a seah measuring vessel, for this half constitutes a known measure."
+ },
+ {
+  "reference": "1.8",
+  "original": "אין תורמין שמן על זיתים הנכתשין. ולא יין על ענבים הנדרכים. ואם תרם תרומתו תרומה ויחזור ויתרום. הראשונה מדמעת בפני עצמה וחייבין עליה חומש אבל לא שניה:",
+  "text": "They may not give terumah from oil for crushed olives nor may [they give terumah from] wine for trodden grapes. If he did so, his terumah is terumah, but he must give terumah again. The first terumah renders on its own [produce into which it falls] “doubtful terumah” and is subject to the added fifth, but not the second."
+ },
+ {
+  "reference": "1.9",
+  "original": "ותורמין שמן על זיתים הנכבשים ויין על ענבים לעשותם צמוקים. הרי שתרם שמן על זיתים לאכילה. וזיתים על זיתים לאכילה. ויין על ענבים לאכילה. וענבים על ענבים לאכילה. ונמלך לדורכן אינו צריך לתרום:",
+  "text": "They may give terumah from oil for pickled olives, or from wine for grapes made into raisins. Behold, he gave terumah from oil for olives intended for eating, or from [other] olives for olives intended for eating, or for wine for grapes intended for eating, of from [other] grapes for grapes intended for eating, and he decided afterwards to press them, he need not give terumah again."
+ },
+ {
+  "reference": "1.10",
+  "original": "אין תורמין מדבר שנגמרה מלאכתו על דבר שלא נגמרה מלאכתו. ולא מדבר שלא נגמרה מלאכתו על דבר שנגמרה מלאכתו. ולא מדבר שלא נגמרה מלאכתו על דבר שלא נגמרה מלאכתו. ואם תרמו תרומתן תרומה:",
+  "text": "They may not take terumah from produce whose processing has been completed for produce whose processing has not been completed, or from produce whose processing has not been completed for produce whose processing has been completed or from produce whose processing has not been completed for other produce whose processing has not been completed. If they did take terumah, their terumah is terumah."
+ },
+ {
+  "reference": "2.1",
+  "original": "אין תורמין מטהור על הטמא ואם תרמו תרומתן תרומה. באמת אמרו העגול של דבילה שנטמא מקצתו תורם מן הטהור שיש בו על הטמא שיש בו וכן אגודה של ירק וכן ערימה. היו שני עגולים שתי אגודות שתי ערמות אחת טמאה ואחת טהורה לא יתרום מזה על זה. רבי אליעזר אומר תורמין מן הטהור על הטמא:",
+  "text": "They may not give terumah from pure [produce] for impure [produce], but if they did give, the terumah is terumah. In truth they said: If a cake of pressed figs had become partly defiled, one may give terumah from the clean part for that part which had become defiled. The same applies to a bunch of vegetables, or a stack of grain. If there were two cakes [of figs], two bunches [of vegetables], two stacks [of grain], one pure and one impure, one should not give terumah from one for the other. Rabbi Eliezer says: one can give terumah from that which is pure for that which is impure."
+ },
+ {
+  "reference": "2.2",
+  "original": "אין תורמין מן הטמא על הטהור ואם תרם שוגג תרומתו תרומה. ומזיד לא עשה כלום. וכן בן לוי שהיה לו מעשר טבל היה מפריש עליו והולך. שוגג מה שעשה עשוי. מזיד לא עשה כלום. רבי יהודה אומר אם היה יודע בו בתחלה אף על פי שהוא שוגג לא עשה כלום:",
+  "text": "They may not give terumah from impure [produce] for that which is pure. If he did give: If unwittingly, the terumah is valid; If intentionally he has done nothing. So too, if a Levite had [unclean] tithe [from which terumah] had not been given, and he gave terumah from this, if unwittingly, the terumah is valid, if intentionally he has done nothing. Rabbi Judah says: if he knew of it at the outset, even if done in error, he has done nothing."
+ },
+ {
+  "reference": "2.3",
+  "original": "המטביל כלים בשבת. שוגג ישתמש בהם מזיד לא ישתמש בהם. המעשר והמבשל בשבת שוגג יאכל מזיד לא יאכל. הנוטע בשבת שוגג יקיים מזיד יעקור. ובשביעית בין שוגג בין מזיד יעקור:",
+  "text": "One who immerses [unclean] vessels on Shabbat: If unwittingly, he may use them. But if intentionally, he may not use them. One who separates tithes, or cooks on Shabbat: If unwittingly, he may eat it. But if intentionally, he may not eat it. One who plants on Shabbat: If unwittingly, he may keep the tree. But if intentionally, he must uproot it. But if during the sabbatical year, whether [it was planted] unwittingly or intentionally he must uproot it."
+ },
+ {
+  "reference": "2.4",
+  "original": "אין תורמין ממין על שאינו מינו. ואם תרם אין תרומתו תרומה. כל מין חטים אחד. כל מין תאנים וגרוגרות ודבלה אחד. ותורם מזה על זה. כל מקום שיש כהן תורם מן היפה וכל מקום שאין כהן תורם מן המתקיים. רבי יהודה אומר לעולם הוא תורם מן היפה:",
+  "text": "They may not give terumah from one kind for another kind, and if he did give, the terumah is not terumah. All kinds of wheat count as one. All kinds of fresh figs, dried figs and fig cakes count as one, and he may take terumah from one for the other. Wherever there is a priest, one must give terumah from the very best, and where there is no priest, one must give terumah from that which lasts longest. Rabbi Judah says: he should always give only from the very best."
+ },
+ {
+  "reference": "2.5",
+  "original": "תורמין בצל קטן שלם ולא חצי בצל גדול. ר' יהודה אומר לא כי אלא חצי בצל גדול. וכן היה רבי יהודה אומר תורמין בצלים מבני המדינה על הכופרים אבל לא מן הכופרים על בני המדינה מפני שהוא מאכל פוליטיקין:",
+  "text": "They should give terumah of a whole small onion, and not of half of a large onion. Rabbi Judah says: not so, rather half of a large onion. So too, Rabbi Judah says: they give terumah from town onions for those from the village, but not from village onions for those from the town, since these are the food of its principal citizens."
+ },
+ {
+  "reference": "2.6",
+  "original": "ותורמין זיתי שמן על זיתי כבש ולא זיתי כבש על זיתי שמן. ויין שאינו מבושל על המבושל ולא מן המבושל על שאינו מבושל. זה הכלל כל שהוא כלאים בחברו לא יתרום מזה על זה אפילו מן היפה על הרע. וכל שאינו כלאים בחברו תורם מן היפה על הרע אבל לא מן הרע על היפה. ואם תרם מן הרע על היפה תרומתו תרומה חוץ מן הזונין על החטים שאינן אוכל. והקישות והמלפפון מין אחד. ר' יהודה אומר שני מינין:",
+  "text": "They may give terumah from olives [to be used] for oil for those to be preserved, but not from olives due to be preserved for olives [to be used] for oil. [They may give] from unboiled wine for boiled wine, but not from boiled wine for unboiled wine. This is the general rule: any two things which together are kilayim (mixed species) he should not give terumah from one for the other, even if one is superior and the other inferior. But if they are not kilayim, then one may give terumah from the superior for that which is inferior, but not from the inferior for that which is superior. If one does give terumah from the inferior for that which is superior, his terumah is terumah, except for zunin given for wheat, since these (zunin) are not food. Cucumbers and melon count are one kind. Rabbi Judah says: two kinds."
+ },
+ {
+  "reference": "3.1",
+  "original": "התורם קישות. ונמצאת מרה. אבטיח ונמצא סרוח. תרומה ויחזור ויתרום. התורם חבית של יין ונמצאת של חומץ. אם ידוע שהיתה של חומץ עד שלא תרמה אינה תרומה. אם משתרמה החמיצה הרי זו תרומה. אם ספק. תרומה ויחזור ויתרום. הראשונה אינה מדמעת בפני עצמה. ואין חייבין עליה חומש וכן השניה:",
+  "text": "If one gave a cucumber as terumah and it was found to be bitter, a melon and it was found to be rotten, it is considered terumah, but he must again give terumah. If one gave a jar of wine as terumah and it was found to be vinegar: If prior to his act he knew that it was vinegar, the terumah is not valid; But if it had turned sour after he had given it as terumah, behold it is terumah. In case of doubt, it is terumah but he must again give terumah. The first terumah does not render on its own [produce into which it falls] “doubtful terumah” and it is not subject to the added fifth, and so the second."
+ },
+ {
+  "reference": "3.2",
+  "original": "נפלה אחת מהן לתוך החולין אינה מדמעתן. נפלה שניה למקום אחר אינה מדמעתן. נפלו שתיהן למקום אחד מדמעות כקטנה שבשתיהן:",
+  "text": "If one of them falls into non-sacred produce, it does not make [the mixture] medumma [a mixture into which terumah has fallen]. If the second of them falls [then] into another place, it also does not make it medumma. But if both fall into one place, they do make it medumma, according to the size of the smaller of the two."
+ },
+ {
+  "reference": "3.3",
+  "original": "השותפין שתרמו זה אחר זה ר' עקיבא אומר תרומת שניהם תרומה וחכמים אומרים תרומת הראשון תרומה. רבי יוסי אומר אם תרם הראשון כשעור אין תרומת השני תרומה ואם לא תרם הראשון כשעור תרומת השני תרומה:",
+  "text": "[Two] partners who took terumah, the one after the other:Rabbi Akiva says: the terumah of them both is terumah. But the sages say: the terumah of the first is terumah. Rabbi Yose says: if the first gave the prescribed amount, the terumah of the second is not terumah, but if the first did not give the prescribed amount, the terumah of the second is terumah."
+ },
+ {
+  "reference": "3.4",
+  "original": "במה דברים אמורים בשלא דבר אבל הרשה את בן ביתו או את עבדו או את שפחתו לתרום תרומתו תרומה. בטל אם עד שלא תרם בטל אין תרומתו תרומה. ואם משתרם בטל תרומתו תרומה. הפועלים אין להן רשות לתרום חוץ מן הדרוכות שהן מטמאים את הגת מיד:",
+  "text": "To what does this apply? Only if one did not confer with the other, but if one allows a member of his household, or his slave or female slave to give terumah for him, this terumah is terumah. If he annulled [this permission]: If he annulled it before the taking of the terumah, the terumah is not terumah; But if he annulled it after the terumah had been taken, the terumah is terumah. Workers have no permission to give terumah, except for those who tread [grapes] for they defile the winepress immediately."
+ },
+ {
+  "reference": "3.5",
+  "original": "האומר תרומת הכרי זה בתוכו: ומעשרותיו בתוכו. תרומת מעשר זה בתוכו. רבי שמעון אומר קרא שם. וחכמים אומרים עד שיאמר בצפונו או בדרומו. ר' אלעזר חסמא אומר האומר תרומת הכרי ממנו עליו קרא שם. ר' אליעזר בן יעקב אומר האומר עשור מעשר זה עשוי תרומת מעשר עליו. קרא שם:",
+  "text": "If one says: “The terumah of this pile is within it,” or, “its tithes are within it,” or, “the terumah of tithe [terumat maaser] is within it:” Rabbi Shimon says: he has thereby designated it. But the sages say: not unless he said, “It is in the north or south of it.” Rabbi Elazar Hisma says: one who says, “The terumah of this pile is taken from it for it,” he has thereby designated it. Rabbi Eliezer ben Yaakov says: one who says, “The tenth part of this tithe is terumah of tithe for that pile,” he has thereby designated it."
+ },
+ {
+  "reference": "3.6",
+  "original": "המקדים תרומה לבכורים מעשר ראשון לתרומה ומעשר שני לראשון. אע\"פ שהוא עובר בלא תעשה מה שעשה עשוי. שנאמר (שמות כב, כח) מלאתך ודמעך לא תאחר:",
+  "text": "He who gives terumah before first-fruits, or first tithe before terumah, or second tithe before first tithe, although he transgresses a negative commandment, that which he has done is done, for it is said: “You shall not delaying the skimming of the first yield of your vats” (Exodus 22:28)."
+ },
+ {
+  "reference": "3.7",
+  "original": "ומנין שיקדמו הבכורים לתרומה זה קרוי תרומה וראשית וזה קרוי תרומה וראשית. אלא יקדמו בכורים לכל. שהן בכורים לכל. ותרומה לראשון שהיא ראשית. ומעשר ראשון לשני שיש בו ראשית:",
+  "text": "From where do we derive that first-fruits must precede terumah, seeing that this one is called “terumah” and “the first” and the other is [also] called “terumah” and “the first”? Rather first-fruits take precedence since they are the first fruits of all produce. And terumah comes before the first tithe also because it is called “first.” And first tithe [precedes second tithe,] because it includes that which is called “first.”"
+ },
+ {
+  "reference": "3.8",
+  "original": "המתכוין לומר תרומה ואמר מעשר. מעשר ואמר תרומה. עולה ואמר שלמים. שלמים ואמר עולה. שאיני נכנס לבית זה ואמר לזה. שאיני נהנה לזה ואמר לזה. לא אמר כלום עד שיהיו פיו ולבו שוין:",
+  "text": "He who intends saying ‘terumah’ and says ‘tithe’, or ‘tithe’ and says ‘terumah’; ‘Burnt-offering’ and he says ‘peace-offering’, or ‘peace-offering’ and he says ‘burnt-offering’; ‘[I vow] that I will not enter this house,’ and says ‘that house’, ‘That I will not derive any benefit from this [man],’ and says ‘from that [man],’ he has said nothing until his heart and mind are at one."
+ },
+ {
+  "reference": "3.9",
+  "original": "העובד כוכבים והכותי תרומתן תרומה ומעשרותן מעשר והקדשן הקדש. ר' יהודה אומר אין לעובד כוכבים כרם רבעי. וחכמים אומרים יש לו. תרומת העובד כוכבים מדמעת וחייבים עליה חומש. ור' שמעון פוטר:",
+  "text": "Terumah given by a non-Jew or a Samaritan is terumah and their tithes are tithes and their dedications [to the Temple] are dedications. Rabbi Judah says: the law of the vineyard in the fourth year is not applicable to a non-Jew. But the sages say: it is. The terumah of a non-Jew renders [produce into which it falls] medumma and [one who eats it unwittingly] is obligated [to pay back an extra] fifth. But Rabbi Shimon exempts it."
+ },
+ {
+  "reference": "4.1",
+  "original": "המפריש מקצת תרומה ומעשרות מוציא ממנו תרומה עליו אבל לא למקום אחר. ר' מאיר אומר אף מוציא הוא ממקום אחר תרומה ומעשרות:",
+  "text": "One who sets aside only part of terumah and tithes, may take terumah from that [heap], but he may not take terumah from it for other produce. Rabbi Meir says: he can also take terumah and tithes for produce elsewhere."
+ },
+ {
+  "reference": "4.2",
+  "original": "מי שהיו פירותיו במגורה. ונתן סאה לבן לוי. וסאה לעני. מפריש עד שמונה סאין ואוכלן דברי ר' מאיר וחכמים אומרים אינו מפריש אלא לפי חשבון:",
+  "text": "If one had his produce in a storehouse, and he gave a seah to a Levite and a seah to a poor person, he may set aside another eight seahs and eat them, the words of Rabbi Meir. But the sages say: he may only set aside according to proportion."
+ },
+ {
+  "reference": "4.3",
+  "original": "שיעור תרומה עין יפה אחת מארבעים. בית שמאי אומרים משלשים. והבינונית מחמשים. והרעה מששים. תרם ועלה בידו אחד מששים תרומה ואינו צריך לתרום חזר והוסיף חייב במעשרות. עלה בידו מששים ואחד. תרומה. ויחזור ויתרום כמות שהוא למוד. במדה ובמשקל ובמנין. ר' יהודה אומר אף שלא מן המוקף:",
+  "text": "The amount of terumah: A generous amount: one fortieth. Beth Shammai say: one thirtieth. The average amount: one fiftieth. A stingy amount: one sixtieth. If he gave terumah and discovered that it was only one sixtieth, his terumah is valid and he need not give again. If he does go back and add to it, [the extra amount] is liable to tithes. If he found that it was only one sixty-first it is valid, but he must give terumah again according to his established practice, in measure, weight or number. Rabbi Judah says: even if it be not from produce close by."
+ },
+ {
+  "reference": "4.4",
+  "original": "האומר לשלוחו צא ותרום. תורם כדעתו של בעל הבית. אם אינו יודע דעתו של בעל הבית. תורם כבינונית אחת מחמשים. פיחת עשרה או הוסיף עשרה תרומתו תרומה. אם נתכוין להוסיף אפילו אחת. אין תרומתו תרומה:",
+  "text": "One who says to his messenger: “Go and give terumah [for me],” he should give terumah in accordance with the mind of the owner. If he does not know the mind of the owner, he gives according to the average amount one fiftieth. If he gave ten parts less or more, the terumah is terumah. If, however, his intention was to add even one part more, his terumah is not terumah."
+ },
+ {
+  "reference": "4.5",
+  "original": "המרבה בתרומה. רבי אליעזר אומר אחד מעשרה כתרומת מעשר. יתר מכאן יעשנה תרומת מעשר למקום אחר. רבי ישמעאל אומר מחצה חולין ומחצה תרומה. רבי טרפון ורבי עקיבא אומרים עד שישייר שם חולין:",
+  "text": "One who wishes to give more terumah:Rabbi Eliezer says: he may give up to a tenth part, as in the case of heave-offering of tithe. [If he gave] more than this [measure] he must make it terumah of tithe for other produce. Rabbi Ishmael says: half non-sacred produce and half terumah. Rabbi Tarfon and Rabbi Akiba say: as long as he retains a part as non-sacred produce."
+ },
+ {
+  "reference": "4.6",
+  "original": "בשלשה פרקים משערים את הכלכלה. בבכורות ובסיפות. ובאמצע הקיץ. המונה משובח. והמודד משובח ממנו. והשוקל משובח משלשתן:",
+  "text": "On three occasions they measure the contents of the basket: At the full time of the first ripe fruits, and of the late summer fruits, and in the middle of the summer. He who counts [the fruit] is praiseworthy, he who measures it is more praiseworthy, and he who weighs them is most praiseworthy of all."
+ },
+ {
+  "reference": "4.7",
+  "original": "רבי אליעזר אומר תרומה עולה באחד ומאה. רבי יהושע אומר במאה ועוד. ועוד זה אין לו שיעור. רבי יוסי בן משולם אומר ועוד קב למאה סאה שתות למדמע:",
+  "text": "Rabbi Eliezer says: terumah can be taken out [if it falls into] a hundred and one parts. Rabbi Joshua says: in a hundred and more, and this “more” has no definite measure. Rabbi Yose ben Meshullam says: this ‘more’ must be a kav to a hundred seahs, a sixth [of the seah] which renders the whole as medumma."
+ },
+ {
+  "reference": "4.8",
+  "original": "רבי יהושע אומר תאנים שחורות מעלות את הלבנות. לבנות מעלות את השחורות. עגולי דבלה הגדולים מעלים את הקטנים והקטנים מעלין את הגדולים. העגולים מעלין את המלבנים והמלבנים מעלין את העגולים. רבי אליעזר אוסר. ורבי עקיבא אומר בידוע מה נפלה. אין מעלות זו את זו. וכשאינו ידוע מה נפלה. מעלות זו את זו:",
+  "text": "Rabbi Joshua says: black figs can bring up white ones, and white ones can bring up black ones. In the case of cakes of figs, the large can bring up the small, and the small can bring up the large. Round cakes of figs can bring up square cakes, and square cakes can bring up round ones. Rabbi Eliezer prohibits this. Rabbi Akiba says: if the kind which fell in is known, then the one kind cannot bring up the other kind, but if the kind is not known, the one kind can bring up the other."
+ },
+ {
+  "reference": "4.9",
+  "original": "כיצד חמשים תאנים שחורות. וחמשים לבנות. נפלה שחורה שחורות אסורות. והלבנות מותרות. נפלה לבנה לבנות אסורות. ושחורות מותרות. בשאינו ידוע מה נפלה מעלות זו את זו. בזו ר' אליעזר מחמיר. ורבי יהושע מקל:",
+  "text": "How so? If there were fifty black figs and fifty white fig, and a black fig fell in, the black figs are forbidden, but the white figs are permitted; and if a white fig fell in them, the white figs are forbidden and the black figs are permitted. If it is unknown which kind fell in, then each kind helps to bring up the other. In this case, Rabbi Eliezer is stringent and Rabbi Joshua is lenient."
+ },
+ {
+  "reference": "4.10",
+  "original": "ובזו רבי אליעזר מקל. ורבי יהושע מחמיר. בדורס ליטרא קציעות על פי הכד. ואינו יודע איזוהי רבי אליעזר אומר רואין אותן כאילו הם פרודות. והתחתונות מעלות את העליונות. רבי יהושע אומר לא תעלה. עד שיהיו שם מאה כדים:",
+  "text": "But in this, Rabbi Eliezer is more lenient and Rabbi Joshua more stringent. One was pressing a litra of dried figs [of terumah] into a jar and he didn’t know which: Rabbi Eliezer says: they are to be regarded as if they were separated, so that those below can bring up those above. Rabbi Joshua says: it cannot be brought up unless there are a hundred jars."
+ },
+ {
+  "reference": "4.11",
+  "original": "סאה תרומה שנפלה על פי מגורה וקפאה. רבי אליעזר אומר אם יש בקפוי מאה סאה תעלה באחד ומאה. ורבי יהושע אומר לא תעלה. סאה תרומה שנפלה על פי מגורה. יקפיאנה. ואם כן למה אמרו תרומה עולה באחד ומאה. אם אינו ידוע אם בלולות הן. או לאין נפלה:",
+  "text": "A seah of terumah which fell on top of a pile and he skimmed it off: Rabbi Eliezer says: if in that which he skimmed off there are hundred seahs, it can be taken out [through a ratio of] one hundred to one. But Rabbi Joshua says: it cannot be brought up. A seah of terumah which fell on top of a pile, he must skim it off. If so, why did they say that terumah can be taken up in one hundred and one parts? [Only] if it is not known whether it has become mixed up or where it has fallen."
+ },
+ {
+  "reference": "4.12",
+  "original": "שתי קופות ושתי מגורות. שנפלה סאה תרומה לתוך אחת מהם. ואין ידוע לאיזו מהן נפלה. מעלות זו את זו. רבי שמעון אומר אפילו הם בשתי עיירות מעלות זו את זו:",
+  "text": "Two baskets or two piles and a seah of terumah fell on top of one of them and it is not known into which it had fallen, they bring up the terumah in the other. Rabbi Shimon says: even if they are in two cities, they bring up the terumah in the other."
+ },
+ {
+  "reference": "4.13",
+  "original": "אמר רבי יוסי מעשה בא לפני רבי עקיבא בחמשים אגודות של ירק שנפלה אחת מהם לתוכן חציה תרומה ואמרתי לפניו תעלה. לא שהתרומה תעלה בחמשים ואחד. אלא שהיו שם מאה ושני חציים:",
+  "text": "Rabbi Yose said: A case once came before Rabbi Akiva concerning fifty bundles of vegetables into which a bundle of the same size had fallen, half of which was terumah. And I said in front of him, that it can be brought up, not because terumah can be brought up in fifty-one, but because there were one hundred and two halves there."
+ },
+ {
+  "reference": "5.1",
+  "original": "סאה תרומה טמאה. שנפלה לפחות ממאה חולין. או למעשר ראשון. או למעשר שני. או להקדש. בין טמאין. בין טהורים. ירקבו. אם טהורה היתה אותה הסאה. ימכרו לכהנים בדמי תרומה חוץ מדמי אותה סאה. ואם למעשר ראשון נפלה. יקרא שם לתרומת מעשר ואם למעשר שני. או להקדש נפלה. הרי אלו יפדו. ואם טמאים היו אותן החולין. יאכלו נקודים או קליות. או ילושו במי פירות או יתחלקו לעיסות כדי שלא יהא במקום אחד כביצה:",
+  "text": "If a seah of unclean terumah fell into less than a hundred seahs of hullin, or first tithe, or second tithe, or dedicated property, whether these were unclean or clean, they must all be left to rot. If the seah [of terumah] was clean, [the mixture] must be sold to priests at the price of terumah, excluding the value of that seah itself. If it fell into first tithe, he should declare terumah of tithe. And if it fell into second tithe or dedicated property, they must be redeemed. If the hullin was unclean, it may be eaten in small quantities, or roasted, or kneaded with fruit juice, or divided into pieces of dough so that the size of one egg be not in any one place."
+ },
+ {
+  "reference": "5.2",
+  "original": "סאה תרומה טמאה שנפלה לתוך מאה חולין טהורין. רבי אליעזר אומר תרום ותשרף. שאני אומר סאה שנפלה היא סאה שעלתה. וחכמים אומרים תעלה ותאכל נקודים. או קליות. או תלוש במי פירות. או תתחלק לעיסות כדי שלא יהא במקום אחד כביצה:",
+  "text": "A seah of unclean terumah which fell into a hundred of clean hullin:Rabbi Eliezer says: [a seah] must be taken out and burnt, for I say that the seah taken out is the one that fell in. But the sages say: it may be taken out and eaten in small quantities, or roasted, or kneaded with fruit juice, or divided into pieces of dough so that the size of one egg be not in any one place."
+ },
+ {
+  "reference": "5.3",
+  "original": "סאה תרומה טהורה שנפלה למאה חולין טמאין. תעלה ותאכל נקודים או קליות. או תלוש במי פירות. או תתחלק לעיסות כדי שלא יהא במקום אחד כביצה:",
+  "text": "A seah of clean terumah fell into a hundred of unclean hullin, it may be eaten in small quantities, or roasted, or kneaded with fruit juice, or divided into pieces of dough so that the size of one egg be not in any one place."
+ },
+ {
+  "reference": "5.4",
+  "original": "סאה תרומה טמאה. שנפלה למאה סאה תרומה טהורה. בית שמאי אוסרים. ובית הלל מתירין. אמרו בית הלל לבית שמאי הואיל וטהורה אסורה לזרים וטמאה אסורה לכהנים. מה טהורה עולה אף טמאה תעלה. אמרו להם בית שמאי לא. אם העלו החולין הקלין המותרין לזרים את הטהורה. תעלה תרומה החמורה האסורה לזרים. את הטמאה. לאחר שהודו. רבי אליעזר אומר תירום ותשרף. וחכמים אומרים אבדה במעוטה:",
+  "text": "A seah of unclean terumah that falls into one hundred seahs of clean terumah: Bet Shammai prohibits, But Bet Hillel permits. Bet Hillel said to Bet Shammai: since clean [terumah] is forbidden to non-priests and unclean [terumah is forbidden] to priests, then just as clean [terumah] is brought up, so too unclean [terumah] can be brought up. Bet Shammai answered them: No! If hullin which is treated more leniently [in that it is permitted to non-priests] allows us to bring up clean [terumah that falls into it], does terumah [which is more stringent in that it is forbidden to non-priests] also allow us to bring up that which is unclean? After [Bet Shammai] had agreed [with Bet Hillel], Rabbi Eliezer said: it should be taken out and burned. But the sages say: it is gone, on account of its being a tiny [portion of the whole mixture]."
+ },
+ {
+  "reference": "5.5",
+  "original": "סאה תרומה שנפלה למאה. הגביהה ונפלה למקום אחר רבי אליעזר אומר מדמעת כתרומה ודאי. וחכמים אומרים אינה מדמעת אלא לפי חשבון:",
+  "text": "A seah of terumah that fell into a hundred [of hullin], and he lifted it out and fell into [hullin] elsewhere:Rabbi Eliezer says: it renders medumma as though it were certainly terumah. But the sages say: it is rendered medumma only according to proportion."
+ },
+ {
+  "reference": "5.6",
+  "original": "סאה תרומה שנפלה לפחות ממאה. ונדמעו. ונפל מן המדומע למקום אחר. רבי אליעזר אומר מדמעת כתרומה ודאי. וחכמים אומרים אין המדומע מדמע אלא לפי חשבון. ואין המחומץ מחמיץ אלא לפי חשבון. ואין המים שאובים פוסלים את המקוה אלא לפי חשבון:",
+  "text": "A seah of terumah which fell into less than a hundred [of hullin], and rendered the whole medumma, and part of this mixture fell afterwards into another place: Rabbi Eliezer says: it renders again medumma as if certain terumah [had fallen in]. But the sages say: the [first] mixture renders medumma only according to the proportion. [Similarly], that which is leavened [with terumah] renders other dough leavened [as with terumah] only according to the proportion. And drawn water disqualifies a ritual bath also only according to the proportion."
+ },
+ {
+  "reference": "5.7",
+  "original": "סאה תרומה שנפלה למאה. הגביהה ונפלה אחרת. הגביהה ונפלה אחרת. הרי זו מותרת. עד שתרבה תרומה על החולין:",
+  "text": "If a seah of terumah fell into a hundred [of hullin] and he lifted [a seah] out, and then another fell in, and he lifted another out and another fell in, the pile is permissible as long as the amount of terumah does not exceed that of the hullin."
+ },
+ {
+  "reference": "5.8",
+  "original": "סאה תרומה שנפלה למאה. ולא הספיק להגביהה עד שנפלה אחרת. הרי זו אסורה ורבי שמעון מתיר:",
+  "text": "If a seah of terumah fell into a hundred [of hullin], and before he could take it out, another fell in, the whole becomes forbidden. Rabbi Shimon permits it."
+ },
+ {
+  "reference": "5.9",
+  "original": "סאה תרומה שנפלה למאה. וטחנן ופחתו. כשם שפחתו החולין כך פחתה התרומה ומותר. סאה תרומה שנפלה לפחות ממאה. וטחנן והותירו. כשם שהותירו החולין כך הותירה התרומה ואסור. אם ידוע שהחטים של חולין יפות משל תרומה מותר. סאה תרומה שנפלה לפחות ממאה ואחר כן נפלו שם חולין. אם שוגג מותר ואם מזיד אסור:",
+  "text": "If a seah of terumah fell into a hundred [of hullin], and they were ground together and reduced in bulk, just as the hullin was reduced so too the terumah was reduced, and it is permitted. If a seah of terumah fell into less than a hundred [of hullin] and they were ground together and increased in bulk, just as the hullin became more, so too the terumah became more, and it is forbidden. If it is known that the kernels of hullin were better than the terumah, it is permitted. If a seah of terumah fell into less than a hundred [of hullin], and more hullin fell in afterwards, if it was accidental it is permissible, but if intentional it is forbidden."
+ },
+ {
+  "reference": "6.1",
+  "original": "האוכל תרומה שוגג. משלם קרן וחומש. אחד האוכל. ואחד השותה. ואחד הסך. אחד תרומה טהורה. ואחד תרומה טמאה. משלם חומשה וחומש חומשה. אינו משלם תרומה. אלא חולין מתוקנים והם נעשין תרומה. והתשלומין תרומה. אם רצה הכהן למחול אינו מוחל:",
+  "text": "One who eats terumah unwittingly must repay its value plus a fifth, whether he eats it or drinks it, or anoints himself with it, or whether the terumah is clean or unclean. [If he eats the added fifth] he must pay its fifth, and a fifth of that fifth. He may not repay with terumah, but rather with tithed hullin, which becomes terumah. And whatever may be repaid in its place also becomes terumah and if the priest wishes to forego [the fine], he cannot do so."
+ },
+ {
+  "reference": "6.2",
+  "original": "בת ישראל שאכלה תרומה ואחר כך נשאת לכהן. אם תרומה שלא זכה בה כהן אכלה. משלמת קרן וחומש לעצמה. ואם תרומה שזכה בה כהן אכלה. משלמת קרן לבעלים. וחומש לעצמה. מפני שאמרו האוכל תרומה שוגג. משלם קרן לבעלים וחומש לכל מי שירצה:",
+  "text": "A daughter of an Israelite ate terumah and afterwards married a priest:If the terumah she ate had not yet been acquired by another priest she can repay to herself the value and the fifth. But if a priest had already acquired the terumah she had eaten, she must repay the value to the owners, but [she can repay] the fifth to herself, because they said that he who eats terumah unwittingly, pays the value to the owners and the fifth to whoever he wants."
+ },
+ {
+  "reference": "6.3",
+  "original": "המאכיל את פועליו ואת אורחיו תרומה. הוא משלם את הקרן. והם משלמין את החומש. דברי רבי מאיר. וחכמים אומרים הם משלמין קרן וחומש והוא משלם להם דמי סעודתן:",
+  "text": "If one gives his workmen or his guests terumah to eat he must repay the principal and they must pay the fifth, the words of Rabbi Meir. But the sages say: they must pay both the value and the fifth, and he must pay them for the price of their meal."
+ },
+ {
+  "reference": "6.4",
+  "original": "הגונב תרומה ולא אכלה. משלם תשלומי כפל דמי תרומה. אכלה משלם שני קרנים וחומש קרן וחומש מן החולין וקרן דמי תרומה. גנב תרומת הקדש ואכלה. משלם שני חומשים וקרן. שאין בהקדש תשלומי כפל:",
+  "text": "If one stole terumah but did not eat it, he must return double-payment at the price of terumah. If he ate it, he must pay twice the value plus a fifth, one principal value and a fifth at the price of hullin, and the other principal at the price of terumah. If one stole terumah of dedicated property and ate it, he must repay two fifths and the principal value, for the laws of double-payment do not apply to dedicated property."
+ },
+ {
+  "reference": "6.5",
+  "original": "אין משלמין מן הלקט ומן השכחה ומן הפאה ומן ההפקר. ולא ממעשר ראשון שנטלה תרומתו. ולא ממעשר שני והקדש שנפדו שאין הקדש פודה את הקדש דברי רבי מאיר. וחכמים מתירין באלו:",
+  "text": "They may not make repayment from gleanings, from forgotten sheaf, from peah or ownerless property. Nor from first tithe from which terumah has been taken, nor from second tithe or dedicated produce which have been redeemed, because one dedicated thing (kadosh) cannot be used to redeem another dedicated thing (kadosh), the words of Rabbi Meir. But the sages permit [payment] with these."
+ },
+ {
+  "reference": "6.6",
+  "original": "רבי אליעזר אומר משלמין ממין על שאינו מינו. בלבד שישלם מן היפה על הרע ורבי עקיבא אומר אין משלמין אלא ממין על מינו. לפיכך אם אכל קשואין של ערב שביעית. ימתין לקשואין של מוצאי שביעית וישלם מהם. ממקום שרבי אליעזר מקל משם ר' עקיבא מחמיר שנאמר (ויקרא כב, יד) ונתן לכהן את הקדש. כל שהוא ראוי להיות קדש דברי רבי אליעזר. ורבי עקיבא אומר ונתן לכהן את הקדש. קדש שאכל:",
+  "text": "Rabbi Eliezer says: they may make repayment from one kind for another, provided that it is from a superior kind for an inferior kind. Rabbi Akiva says: they may make repayment only from the same kind. Hence if a man ate cucumbers grown a year before the seventh year, he must wait for those grown after the termination of the seventh year and repay with them. The same source which causes Rabbi Eliezer to be lenient causes Rabbi Akiva to be stringent, for it says: “And he shall give the priest the holy thing (hakodesh)” (Leviticus 22:14), [implying,] whatever is liable to become “kodesh,” the words of Rabbi Eliezer. But Rabbi Akiva says: “And he shall give the priest the holy thing (kodesh),” [implying] the same kind of holy thing which he ate."
+ },
+ {
+  "reference": "7.1",
+  "original": "האוכל תרומה מזיד משלם את הקרן ואינו משלם את החומש. התשלומין חולין. אם רצה הכהן למחול מוחל:",
+  "text": "One who eats terumah intentionally must repay its value, but not the fifth. And the repayment remains hullin, therefore, if the priest wishes to forgive the repayment, he may."
+ },
+ {
+  "reference": "7.2",
+  "original": "בת כהן שנשאת לישראל ואחר כך אכלה תרומה. משלמת את הקרן ואינה משלמת את החומש. ומיתתה בשרפה. נשאת לאחד מכל הפסולין משלמת קרן וחומש. ומיתתה בחנק דברי רבי מאיר. וחכמים אומרים זו וזו משלמות את הקרן ואינן משלמות את החומש ומיתתן בשרפה:",
+  "text": "If the daughter of a priest married an Israelite and afterwards ate terumah, she must repay the value but not the fifth, and her death-penalty [for adultery] is by burning. If she married any of those disqualified [from marrying her], she must pay back both the value and the fifth, and her death-penalty [for adultery] is by strangling, the words of Rabbi Meir. But the sages say: in either case, she repays the value but not the fifth, and the death penalty is by burning."
+ },
+ {
+  "reference": "7.3",
+  "original": "המאכיל את בניו קטנים. ואת עבדיו בין גדולים בין קטנים. האוכל תרומת חוצה לארץ. והאוכל פחות מכזית תרומה. משלם את הקרן ואינו משלם את החומש. והתשלומין חולין. אם רצה הכהן למחול מוחל:",
+  "text": "One who feeds [terumah] to his small children, or to his slaves whether they are of majority age or minors, or one who eats terumah from outside the land, or less than an olive’s bulk of terumah, must repay the value, but not the fifth; and the repayment remains hullin. Therefore, if the priest wishes to forgive the repayment, he may."
+ },
+ {
+  "reference": "7.4",
+  "original": "זה הכלל כל המשלם קרן וחומש. התשלומין תרומה. אם רצה הכהן למחול אינו מוחל. וכל המשלם את הקרן ואינו משלם את החומש התשלומין חולין. אם רצה הכהן למחול מוחל:",
+  "text": "This is the general principle: whenever one has to repay both the value and the fifth, the repayment becomes terumah, and if the priest desires to forgive the repayment, he cannot forgive. But whenever one has to repay the value only and not the fifth, the repayment remains hullin (non-sacred produce), and if the priest wishes to forgive the repayment, he can."
+ },
+ {
+  "reference": "7.5",
+  "original": "שתי קופות אחת של תרומה ואחת של חולין. שנפלה סאה תרומה לתוך אחת מהן ואין ידוע לאיזו מהן נפלה. הרי אני אומר לתוך של תרומה נפלה. אין ידוע איזו היא של תרומה. ואיזו היא של חולין. אכל אחת מהן פטור והשניה נוהג בה בתרומה וחייבת בחלה דברי ר' מאיר. ר' יוסי פוטרה. אכל אחר את השניה פטור. אכל אחד את שתיהן משלם כקטנה שבשתיהן:",
+  "text": "If there were two baskets, one of terumah and one of hullin, and a seah of terumah fell into one of them, but it is not known into which, behold I can assume that it had fallen into that of the terumah. [Two baskets] and it is not known which was of terumah and which of hullin, and he eats from one of them, he is exempt, and the second basket is treated as terumah and subject to the laws of hallah, the words of Rabbi Meir. But Rabbi Yose exempts it. If another person eats from the second basket he is exempt. If one man ate of both, he must repay the value of the smaller of the two."
+ },
+ {
+  "reference": "7.6",
+  "original": "נפלה אחת מהן לתוך החולין אינה מדמעתן. והשניה נוהג בה בתרומה וחייבת בחלה דברי ר' מאיר. ור' יוסי פוטר. נפלה שניה למקום אחר אינה מדמעתן. נפלו שתיהן למקום אחד. מדמעות כקטנה שבשתיהן:",
+  "text": "If one of these [baskets] fell into hullin, it does not render it medumma (doubtful terumah), but the second is treated as terumah and subject to the law of hallah, the words of Rabbi Meir. Rabbi Yose exempts it. If the second falls elsewhere [into hullin] it does not render it medumma. If both of them fall into one place, they render it medumma according to [the proportion] of the smaller of the two."
+ },
+ {
+  "reference": "7.7",
+  "original": "זרע את אחת מהן פטור. והשניה נוהג בה בתרומה. וחייבת בחלה דברי ר' מאיר. ור' יוסי פוטר. זרע אחד את השנייה פטור. זרע אחד את שתיהן. בדבר שזרעו כלה מותר. ובדבר שאין זרעו כלה אסור:",
+  "text": "If he used one of these [baskets] as seed, he is exempt, and the second is treated as if it were terumah and subject to the law of hallah, the words of Rabbi Meir. But Rabbi Yose exempts it. If another person uses the second as seed, then he is exempt. If one man uses both as seed, if it is of a kind whose seed disintegrates [in the ground] it is permissible, but if it is of the kind whose seed does not disintegrate it is prohibited."
+ },
+ {
+  "reference": "8.1",
+  "original": "האשה שהיתה אוכלת בתרומה באו ואמרו לה מת בעליך או גרשך. וכן העבד שהיה אוכל בתרומה ובאו ואמרו לו מת רבך. או מכרך לישראל. או נתנך במתנה. או עשאך בן חורין. וכן כהן שהיה אוכל בתרומה ונודע שהוא בן גרושה או בן חלוצה. רבי אליעזר מחייב קרן וחומש ורבי יהושע פוטר. היה עומד ומקריב על גבי המזבח. ונודע שהוא בן גרושה או בן חלוצה. ר' אליעזר אומר כל הקרבנות שהקריב על גבי המזבח פסולים. ור' יהושע מכשיר. נודע שהוא בעל מום עבודתו פסולה:",
+  "text": "If a woman was eating terumah, and they came and said to her, “Your husband is dead”, or “He divorced you.” Or, if a slave was eating terumah, and they came and said to him: “Your master is dead”, or “He sold you to an Israelite”, or “He gave you away as a gift”, or “He emancipated you.” So too, if a priest was eating terumah and it became known that he was the son of a divorced woman or a halutzah (a woman released from levirate marriage): Rabbi Eliezer says: they must repay both the value and the fifth. But Rabbi Joshua exempts them [from the added fifth]. If [a priest] was standing and sacrificing on the altar and it became known that he was the son of a divorced woman or a halutzah: Rabbi Eliezer says: all the sacrifices he had offered on the altar are disqualified. But Rabbi Joshua pronounces them valid. If it, however, it became known that he possessed a blemish, his service is disqualified."
+ },
+ {
+  "reference": "8.2",
+  "original": "וכולם שהיתה תרומה בתוך פיהם רבי אליעזר אומר יבלעו ורבי יהושע אומר יפלוטו. אמרו לו נטמאת ונטמאת תרומה. ר' אליעזר אומר יבלע ורבי יהושע אומר יפלוט. טמא היית. וטמאה היתה תרומה. או נודע שהוא טבל. ומעשר ראשון שלא נטלה תרומתו. ומעשר שני והקדש שלא נפדו. או שטעם טעם פשפש לתוך פיו הרי זה יפלוט:",
+  "text": "In all the above cases, if terumah was still in their mouth: Rabbi Eliezer says: they may swallow it. But Rabbi Joshua says: they must spit it out. [If it was said to him], “Your have become unclean”, or “the terumah has become unclean”, Rabbi Eliezer says: he may swallow it. But Rabbi Joshua says: he must spit it out. [If it was said to him], “You were unclean” or “the terumah was unclean”, or it became known that [the food he was eating] was untithed, or that it was first tithe from which terumah had not yet been taken, or second tithe or dedicated produce that had not been redeemed, or if he tasted the taste of a bug in his mouth, he must spit it out."
+ },
+ {
+  "reference": "8.3",
+  "original": "היה אוכל באשכול ונכנס מן הגנה לחצר. רבי אליעזר אומר יגמור ורבי יהושע אומר לא יגמור. חשיכה לילי שבת רבי יהושע אומר יגמור ורבי אליעזר אומר לא יגמור:",
+  "text": "If he was eating a bunch of grapes, and he entered from the garden into the courtyard: Rabbi Eliezer says: he may finish eating. But Rabbi Joshua says: he may not finish. If dusk set in at the eve of Shabbat: Rabbi Joshua says: he may finish eating. But Rabbi Eliezer says: he may not finish."
+ },
+ {
+  "reference": "8.4",
+  "original": "יין של תרומה שנתגלה ישפך ואין צריך לומר של חולין. שלשה משקין אסורים משום גלוי. המים והיין והחלב. ושאר כל המשקין מותרים. כמה ישהו ויהיו אסורין. כדי שיצא הרחש ממקום קרוב וישתה:",
+  "text": "If wine of terumah was left uncovered, it must be poured out, and there is no need to say this in the case of hullin. Three kinds of liquids are forbidden if they were left uncovered: water, wine and milk, but all other drinks are permitted. How long do they remain uncovered for them to become prohibited? The time it takes the snake to creep out from a place near by and drink."
+ },
+ {
+  "reference": "8.5",
+  "original": "שיעור המים המגולין כדי שתאבד בהם המרה. רבי יוסי אומר בכלים כל שהן. ובקרקעות ארבעים סאה:",
+  "text": "The amount of water that is uncovered: enough to negate the poison. Rabbi Yose says: in vessels [it is forbidden] whatever the quantity, but for water on the ground, it must be forty se'ahs."
+ },
+ {
+  "reference": "8.6",
+  "original": "נקורי תאנים וענבים וקשואין והדלועין והאבטיחים והמלפפונות אפילו הם ככר. אחד גדול ואחד קטן. אחד תלוש ואחד מחובר. כל שיש בו ליחה אסור. ונשוכת הנחש אסורה מפני סכנת נפשות:",
+  "text": "Figs, grapes, cucumbers, pumpkins, melons or watermelons that have bite marks, even if they are in a jar, both large or small, both plucked or still attached to the soil, they are forbidden as long as there is juice in them. [An animal] bitten by a snake is forbidden on account of the danger to life."
+ },
+ {
+  "reference": "8.7",
+  "original": "המשמרת של יין אסורה משום גלוי רבי נחמיה מתיר:",
+  "text": "A wine-filter [used as a cover] does not prevent [the wine from becoming] forbidden by being uncovered. But Rabbi Nehemiah permits it."
+ },
+ {
+  "reference": "8.8",
+  "original": "חבית של תרומה שנולד בה ספק טומאה רבי אליעזר אומר אם היתה מונחת במקום תורפה יניחנה במקום המוצנע. ואם היתה מגולה יכסנה. ורבי יהושע אומר אם היתה מונחת במקום מוצנע יניחנה במקום תורפה. ואם היתה מכוסה יגלנה. רבן גמליאל אומר אל יחדש בה דבר:",
+  "text": "A jar of terumah which may have become impure:Rabbi Eliezer says: if it had been deposited in an exposed place, he must now place it in a hidden place; and if it had formerly been uncovered, it must now be covered. But Rabbi Joshua says: if it had been in a hidden place, he must now place it in an exposed place; and if it had formerly been covered up, he must now uncover it. Rabban Gamaliel says: let him not do anything new to it."
+ },
+ {
+  "reference": "8.9",
+  "original": "חבית שנשברה בגת העליונה. והתחתונה טמאה. מודה ר' אליעזר ור' יהושע שאם יכולים להציל ממנה רביעית בטהרה יציל. ואם לאו ר' אליעזר אומר תרד ותטמא ואל יטמאנה בידיו:",
+  "text": "A jar [of terumah] was broken in the upper part of the wine-press, and the lower part was unclean: Both Rabbi Eliezer and Rabbi Joshua agree that if one can save at least a reviit of it in cleanness he should save it. But if not: Rabbi Eliezer says: let it flow down and become unclean of its own accord, and let him not make it unclean with his own hands."
+ },
+ {
+  "reference": "8.10",
+  "original": "וכן חבית של שמן שנשפכה מודה ר' אליעזר ור' יהושע שאם יכול להציל ממנה רביעית בטהרה יציל ואם לאו ר' אליעזר אומר תרד ותבלע ואל יבלענה בידיו:",
+  "text": "Similarly a jar of [terumah] oil which spilled: Both Rabbi Eliezer and Rabbi Joshua agree that if he can save at least a reviit in purity he should save it; But if not: Rabbi Eliezer says: let it flow down and be swallowed up by the ground, and let him not make it unclean with his own hands."
+ },
+ {
+  "reference": "8.11",
+  "original": "ועל זו ועל זו אמר רבי יהושע לא זו היא תרומה שאני מוזהר עליה מלטמאה אלא מלאכלה. ובל תטמאה כיצד היה עובר ממקום למקום וככרות של תרומה בידו אמר לו עובד כוכבים תן אחת מהן ואטמאה ואם לא הרי אני מטמא את כולה רבי אליעזר אומר יטמא את כולה ואל יתן לו אחת מהן ויטמא. רבי יהושע אומר יניח לפניו אחת מהן על הסלע:",
+  "text": "Concerning both cases Rabbi Joshua said: This is not the kind of terumah over which I am cautioned lest I defile it, but rather to eat of it and not to defile it. If one was passing from place to place with loaves of terumah in his hand and a Gentile said to him: “Give me one of these and I will make it unclean; for if not, I will defile them all,” let him defile them all, and not give him deliberately one to defile, the words of Rabbi Eliezer. But Rabbi Joshua says: he should place one of them on a rock."
+ },
+ {
+  "reference": "8.12",
+  "original": "וכן נשים שאמרו להם עובדי כוכבים תנו אחת מכם ונטמא ואם לאו הרי אנו מטמאים את כולכם יטמאו את כולן ואל ימסרו להם נפש אחת מישראל:",
+  "text": "Similarly, if gentiles say to women, “Give us one of you that we may defile her, and if not, we will defile you all”, then let them all be defiled rather than hand over to them one soul from Israel."
+ },
+ {
+  "reference": "9.1",
+  "original": "הזורע תרומה שוגג יופך. ומזיד יקיים. אם הביאה שליש בין שוגג בין מזיד יקיים. ובפשתן מזיד יופך:",
+  "text": "He who plants terumah, if unwittingly, may overturn it, but if intentionally, he must allow it to remain. If it had already grown a third of its full size, whether he had planted it unwittingly or intentionally, he must allow it to remain. But in the case of flax, even when planted intentionally he must overturn it."
+ },
+ {
+  "reference": "9.2",
+  "original": "וחייבת בלקט ובשכחה ובפאה. ועניי ישראל ועניי כהנים מלקטים. ועניי ישראל מוכרין את שלהם לכהנים בדמי תרומה והדמים שלהם. רבי טרפון אמר לא ילקטו אלא עניי כהנים שמא ישכחו ויתנו לתוך פיהם. אמר לו ר' עקיבא אם כן לא ילקטו אלא טהורים:",
+  "text": "And it is subject to gleanings, the forgotten sheaf and peah. Poor Israelites and poor priests may glean them, but the poor Israelites must sell theirs to priests for the price of terumah and the money becomes theirs. Rabbi Tarfon says: only poor priests may glean them, lest [the others] forget and put it into their mouths. Rabbi Akiva said to him: if that be so, then only those who are clean should be allowed to glean."
+ },
+ {
+  "reference": "9.3",
+  "original": "וחייבת במעשרות ובמעשר עני. ועניי ישראל ועניי כהנים נוטלים. ועניי ישראל מוכרין את שלהם לכהנים בדמי תרומה והדמים שלהם. החובט משובח. והדש כיצד יעשה. תולה כפיפות בצוארי בהמה ונותן לתוכן מאותו המין. נמצא לא זומם את הבהמה ולא מאכיל את התרומה:",
+  "text": "And it is also subject to tithes and poor man’s tithe. Both Israelites and priests that are poor may accept them, but the poor Israelites must sell that which is theirs to the priest for the price of terumah and the money belongs to them. He who beats the grain with sticks [instead of threashing with an animal] is to be praised. But he who threshes it [by having an animal walk on it] what should he do? He must suspend baskets from the neck of the animal and place in them from the same kind, with the result that he will neither muzzle the animal nor feed it terumah."
+ },
+ {
+  "reference": "9.4",
+  "original": "גדולי תרומה תרומה. וגדולי גדולין חולין. אבל הטבל ומעשר ראשון וספיחו שביעית. ותרומת חוצה לארץ והמדומע והבכורים. גדוליהן חולין. גדולי הקדש ומעשר שני חולין. ופודה אותם בזמן זרעם:",
+  "text": "What grows from terumah is terumah, but that which grows from growths [of terumah] is hullin. As for untithed produce, first tithe, after-growths from the sabbatical year, terumah grown outside the land, mixtures of hullin with terumah (medumma) and first-fruits what grows from them is hullin. What grows from dedicated produce and second tithe is hullin and it is to be redeemed [at its value] at the time when it was sown."
+ },
+ {
+  "reference": "9.5",
+  "original": "מאה לגנה של תרומה. ואחת של חולין. כולן מותרין בדבר שזרעו כלה. אבל בדבר שאין זרעו כלה. אפילו מאה של חולין. ואחת של תרומה כולן אסורין:",
+  "text": "If a hundred rows were planted with terumah seeds and one with hullin, they all are permitted, if they are of a kind whose seed disintegrates in the soil. But if they are of a kind whose seed does not disintegrate in the soil, then even if there be a hundred [rows] of hullin and one of terumah, they all are prohibited."
+ },
+ {
+  "reference": "9.6",
+  "original": "הטבל גדוליו מותרין. בדבר שזרעו כלה. אבל בדבר שאין זרעו כלה. גדולי גדולין אסורין. איזהו דבר שאין זרעו כלה. כגון הלוף והשום והבצלים. ר' יהודה אומר השום כשעורים.",
+  "text": "As for untithed produce, what grows from it is permissible if of a kind whose seed disintegrates [in the soil]. But if of a kind whose seed does not disintegrate, then even what grows from plants which grew out of it are forbidden. Which is the kind whose seed does not disintegrate? Like luf, garlic and onions. Rabbi Judah says: garlic is like barley."
+ },
+ {
+  "reference": "9.7",
+  "original": "המנכש עם העובד כוכבים בחסיות אף על פי שפירותיו טבל. אוכל מהם עראי. שתילי תרומה שנטמאו שתלן טהרו מלטמא ואסורין מלאכול. עד שיגום את האוכל. רבי יהודה אומר עד שיגום וישנה:",
+  "text": "He who weeds allium plants (whose seeds do not disintegrate) for a Gentile, even though the produce is untithed he eat from them in a casual fashion. Saplings of terumah which had become unclean and were re-planted, become clean from their uncleanness. But they must not be eaten until the edible part [of the stalk] has been lopped off. Rabbi Judah says: he must [before eating] lop off a second time that which grew on the edible part."
+ },
+ {
+  "reference": "10.1",
+  "original": "בצל שנתנו בתוך עדשים. אם שלם מותר. ואם חתכו בנותן טעם. ושאר כל התבשיל בין שלם בין מחותך בנותן טעם. רבי יהודה מתיר בצחנה. שאינו אלא ליטול את הזוהמא:",
+  "text": "An onion [of terumah] was placed into lentils:If the onion was whole, it is permissible; But if [the onion] had been cut up, [it is forbidden if it] imparts a flavor. In the case of other dishes, whether the onion is whole or cut up [it is forbidden] if it imparts a flavor. Rabbi Judah permits it in the case of mashed fish, because it is used only to remove the unpleasant flavor."
+ },
+ {
+  "reference": "10.2",
+  "original": "תפוח שרסקו. ונתנו לתוך עיסה וחמצה. הרי זו אסורה. שעורים שנפלו לתוך הבור של מים. אף על פי שהבאישו מימיו מותרין.",
+  "text": "If an apple [of terumah] was chopped and placed into dough [of hullin] so that it leavened it, [the dough] is forbidden. If barley [of terumah] fell into a cistern of water, though [the barley] stinks up the water, the water is permissible."
+ },
+ {
+  "reference": "10.3",
+  "original": "הרודה פת חמה ונתנה על פי חבית של יין תרומה. רבי מאיר אוסר. ורבי יהודה מתיר. רבי יוסי מתיר בשל חטים. ואוסר בשל שעורים. מפני שהשעורים שואבות:",
+  "text": "One who removes warm bread from an oven and places it over an open barrel of terumah wine:Rabbi Meir says: it is forbidden. Rabbi Judah permits it. Rabbi Yose permits the bread of wheat but not of barley, because barley absorbs."
+ },
+ {
+  "reference": "10.4",
+  "original": "תנור שהסיקו בכמון של תרומה ואפה בו. הפת מותרת. שאין טעם כמון אלא ריח כמון:",
+  "text": "If an oven was heated with cumin of terumah and bread was baked in it, the bread is permitted, for there is no taste of cumin, just the smell of cumin."
+ },
+ {
+  "reference": "10.5",
+  "original": "תלתן שנפלה לתוך הבור של יין. בתרומה. במעשר שני. אם יש בזרע כדי ליתן טעם אבל לא בעץ. בשביעית. ובכלאי הכרם. והקדש. אם יש בזרע ובעץ. כדי ליתן טעם:",
+  "text": "Fenugreek which fell into a vat of wine:If it was terumah or second tithe and there is in the seed alone without the stalk sufficient to impart a flavor [it is forbidden]. But if it was seventh year produce or mixed seeds in vineyards, or dedicated produce, [it is forbidden] if in both seed and stalk there is sufficient to impart a flavor."
+ },
+ {
+  "reference": "10.6",
+  "original": "מי שהיו לו חבילי תלתן בכלאי הכרם ידלקו. היו לו חבילי תלתן של טבל. כותש ומחשב כמה זרע יש בהם ומפריש את הזרע. ואינו צריך להפריש את העץ. אם הפריש לא יאמר אכתוש ואטול את העץ. ואתן את הזרע. אלא נותן העץ עם הזרע:",
+  "text": "If one had bunches of fenugreek of mixed seeds of the vineyard, they must be burned. If he had bunches of fenugreek of untithed produce, he must beat them and calculate the amount of seed within them and set aside [terumah] from the seed, but he need not separate terumah from the stalks. But if he did set aside [the terumah from the stalks before he beat the bunches] he must not say: “I will beat out [the seed] and take the stalks and give only the seed” but he must give the stalks together with the seed."
+ },
+ {
+  "reference": "10.7",
+  "original": "זיתי חולין שכבשן עם זיתי תרומה. פצועי חולין עם פצועי תרומה. פצועי חולין עם שלימי תרומה. או במי תרומה אסור. אבל שלימי חולין עם פצועי תרומה מותר:",
+  "text": "Olives of hullin which were pickled together with olives of terumah, whether it was a case where crushed [olives] of hullin [which were pickled together] with crushed [olives] of terumah, or crushed [olives] of hullin with whole [olives] of terumah, or with juice of terumah, they are forbidden. But if whole [olives] of hullin were pickled with crushed [olives] of terumah, they are permitted."
+ },
+ {
+  "reference": "10.8",
+  "original": "דג טמא שכבשו עם דג טהור. כל גרב שהוא מחזיק סאתים אם יש בו משקל עשרה זוז ביהודה שהן חמש סלעים בגליל דג טמא. צירו אסור. ר' יהודה אומר רביעית בסאתים ורבי יוסי אומר אחד מששה עשר בו:",
+  "text": "Unclean fish which was pickled with clean fish:If the jug contains two seahs and the unclean fish weighs ten zuz in Judean measure, which is five selas in Galilean measure, the brine is forbidden. Rabbi Judah says: it needs be a quarter [of a log] in two seahs. Rabbi Yose says: one-sixteenth of it."
+ },
+ {
+  "reference": "10.9",
+  "original": "חגבים טמאי' שנכבשו עם חגבים טהורי' לא פסלו את צירם. העיד רבי צדוק על ציר חגבים טמאים שהוא טהור:",
+  "text": "If unclean locusts were pickled together with clean ones, they do not make the brine forbidden. Rabbi Zadok testified that the brine of unclean locusts is clean."
+ },
+ {
+  "reference": "10.10",
+  "original": "כל הנכבשים זה עם זה מותרים. אלא עם החסית. חסית של חולין. עם חסית של תרומה. ירק של חולין. עם חסית של תרומה אסור. אבל חסית של חולין עם ירק של תרומה מותר:",
+  "text": "[Vegetables] pickled together are permitted, except [when pickled] with allium (onions, garlic, leeks). Allim of hullin [pickled] with allium of terumah, or other vegetables of hullin with leeks of terumah are forbidden. But allium of hullin with vegetables of terumah are permitted."
+ },
+ {
+  "reference": "10.11",
+  "original": "רבי יוסי אומר כל הנשלקים עם התרדים אסורים. מפני שהם נותנין את הטעם. רבי שמעון אומר כרוב של שקיא. עם כרוב של בעל אסור. מפני שהוא בולע. רבי יהודה אומר כל המתבשלין זה עם זה מותרים. אלא עם הבשר. ר' יוחנן בן נורי אומר הכבד אוסרת ואינה נאסרת. מפני שהיא פולטת ואינה בולעת:",
+  "text": "Rabbi Yose says: Anything stewed with [terumah] beets becomes forbidden, because they impart a flavor. Rabbi Shimon says: cabbage from a field artificially irrigated [that is stewed] with [terumah] cabbage from a field watered by rain, is forbidden because it absorbs. Rabbi Akiba says: all things cooked together are permitted, except those with meat. Rabbi Yohanan ben Nuri says: liver renders other things forbidden, but does not become forbidden, because it gives off [flavor] but does not absorb."
+ },
+ {
+  "reference": "10.12",
+  "original": "ביצה שנתבשלה בתבלין אסורין אפילו חלמון שלה אסור. מפני שהוא בולע. מי שלקות. ומי כבשים של תרומה. אסורים לזרים:",
+  "text": "If an egg is boiled with forbidden spices even its yolk is forbidden, because it absorbs. The water in which terumah has been stewed or pickled is forbidden to non-priests."
+ },
+ {
+  "reference": "11.1",
+  "original": "אין נותנים דבילה וגרוגרות לתוך המורייס. מפני שהוא מאבדן. אבל נותנין את היין למורייס. ואין מפטמין את השמן. אבל עושים את היין יינומלים. אין מבשלים יין של תרומה מפני שהוא ממעיטו. רבי יהודה מתיר. מפני שהוא משביחו:",
+  "text": "One must not put a cake of pressed [terumah] figs or dried [terumah] figs into fish-brine, since it spoils them. But one may place [terumah] wine into fish brine. One must not perfume the oil, But one may put honey and pepper into wine. One may not boil terumah wine, because it decreases it. Rabbi Judah permits this, because it improves it."
+ },
+ {
+  "reference": "11.2",
+  "original": "דבש תמרים. ויין תפוחים. וחומץ סתוניות ושאר כל מי פירות של תרומה רבי אליעזר מחייב קרן וחומש. ורבי יהושע פוטר. ורבי אליעזר מטמא משום משקה. אמר רבי יהושע לא מנו חכמים שבעה משקים כמוני פטמים אלא אמרו שבעה משקין טמאים. ושאר כל המשקין טהורין:",
+  "text": "[A non-priest drank] honey of dates, wine of apples, vinegar from winter grapes, and all other kinds of fruit juice of terumah: Rabbi Eliezer makes him liable to repay their value and the fifth; But Rabbi Joshua exempts from the fifth. Rabbi Eliezer declares [these] susceptible to uncleanness as liquids. Rabbi Joshua says: the sages have not enumerated seven liquids as those that count spices, but rather they stated: seven liquids make things susceptible to uncleaness, whereas all other liquids do not make susceptible."
+ },
+ {
+  "reference": "11.3",
+  "original": "אין עושין תמרים דבש. ולא תפוחים יין. ולא סתוניות חומץ. ושאר כל הפירות אין משנין אותם מברייתן. בתרומה ובמעשר שני. אלא זיתים וענבים בלבד. אין סופגין ארבעים משום ערלה. אלא על היוצא מן הזיתים ומן הענבים. ואין מביאין בכורים משקין. אלא היוצא מן הזיתים ומן הענבים. ואינו מטמא משום משקה אלא היוצא מן הזיתים ומן הענבים. ואין מקריבין על גבי המזבח. אלא היוצא מן הזיתים ומן הענבים:",
+  "text": "One must not make dates into honey, apples into wine, winter-grapes into vinegar, or change any other kind of fruit that is terumah or second tithe from their natural state, except olives and grapes. One does not receive forty lashes on account of orlah except with that which comes from olives and grapes. Liquids cannot be brought as first fruits, except with that which comes from olives and grapes. And no fruit juice is susceptible to uncleanness as liquids except with that which comes from olives and grapes. And nothing [that is derived from fruit] can be offered on the altar except with that which comes from olives and grapes."
+ },
+ {
+  "reference": "11.4",
+  "original": "עוקצי תאנים וגרוגרות והכליסים והחרובין של תרומה אסורים לזרים:",
+  "text": "The stems of fresh figs and dried figs, klisim and carobs of terumah are forbidden to non-priests."
+ },
+ {
+  "reference": "11.5",
+  "original": "גרעיני תרומה בזמן שהוא מכנסן אסורות. ואם השליכן מותרות. וכן עצמות הקדשים. בזמן שהוא מכנסן אסורין. ואם השליכן מותרין. המורסן מותר. סובין של חדשות אסורות ושל ישנות מותרות. ונוהג בתרומה כדרך שהוא נוהג בחולין. המסלת קב או קבים לסאה. לא יאבד את השאר. אלא יניחנו במקום המוצנע:",
+  "text": "Seeds of terumah [fruit]: When he gathers them in, they are prohibited. But if he throws them away, they are permitted. Similarly, the bones of holy things: When he gathers them in, they are prohibited. But if he throws them away, they are permitted. Coarse bran is permitted. Fine bran of new wheat is forbidden, and old wheat permitted. One may act with regard to terumah as one does with hullin. One who sifts a kav or two [of fine flour] from a seah of wheat, must not leave the rest to ruin, but rather he should put it in a hidden place."
+ },
+ {
+  "reference": "11.6",
+  "original": "מגורה שפנה ממנה חטי תרומה. אין מחייבין אותו להיות יושב ומלקט אחת אחת. אלא מכבד כדרכו ונותן לתוכה חולין:",
+  "text": "If a store-chamber was cleared of terumah wheat, they do not need to force him to sit down and collect each grain, but rather he may sweep it all up in his usual manner and then deposit hullin in it."
+ },
+ {
+  "reference": "11.7",
+  "original": "וכן חבית של שמן שנשפכה אין מחייבין אותו להיות יושב ומטפח. אלא נוהג בה כדרך שהוא נוהג בחולין:",
+  "text": "Similarly, if a jar of oil is upset, they do not need to force him to sit down and scoop it up [with his fingers], but he may deal with it as he would in a case of hullin."
+ },
+ {
+  "reference": "11.8",
+  "original": "המערה מכד לכד ונוטף שלש טפים. נותן לתוכה חולין. הרכינה ומיצה הרי זו תרומה. וכמה תהא בתרומת מעשר של דמאי ויוליכנה לכהן. אחד משמנה לשמינית:",
+  "text": "One who pours from jar to jar and three drops drip, he may place in it hullin. But if he inclined the jar [on its side] in order to drain it, it is terumah. How much terumat maaser of demai must there be for him to take it to the priest? One eighth of an eighth [of a log]."
+ },
+ {
+  "reference": "11.9",
+  "original": "כרשיני תרומה מאכילין אותם לבהמה ולחיה. ולתרנגולים. ישראל ששכר פרה מכהן מאכילה כרשיני תרומה. וכהן ששכר פרה מישראל אף על פי שמזונותיה עליו. לא יאכילנה כרשיני תרומה. ישראל ששם פרה מכהן לא יאכילנה כרשיני תרומה. וכהן ששם פרה מישראל מאכילה כרשיני תרומה:",
+  "text": "Vetches of terumah may be given to cattle, to wild beasts or fowls. If an Israelite hired a cow from a priest, he may give it vetches of terumah to eat. But if a priest hired a cow from an Israelite, even though the responsibility of feeding it is his, he must not feed it with vetches of terumah. If an Israelite undertakes the care of a cow from a priest, he must not feed it with vetches of terumah. But if a priest undertakes the care of a cow from an Israelite, he may feed it on vetches of terumah."
+ },
+ {
+  "reference": "11.10",
+  "original": "מדליקין שמן שרפה בבתי כנסיות ובבתי מדרשות ובמבואות האפלין. ועל גבי החולין ברשות כהן. בת ישראל שנשאת לכהן והיא למודה אצל אביה. אביה מדליק ברשותה. מדליקין בבית המשתה. אבל לא בבית האבל דברי רבי יהודה. ורבי יוסי אומר בבית האבל. אבל לא בבית המשתה. רבי מאיר אוסר כאן וכאן. רבי שמעון מתיר כאן וכאן:",
+  "text": "One may burn terumah oil that has to be burnt in synagogues, houses of study, dark alleys, and for sick people with permission of the priest. If the daughter of an Israelite married to a priest regularly goes to her father's house, her father may burn [such oil] with her permission. One may also burn [such oil] in a house of celebration but not in a house of mourning, the words of Rabbi Judah. Rabbi Yose says: in the house of mourning, but not in a house of celebration. Rabbi Meir forbids it in both places. But Rabbi Shimon permits it in both places."
+ }
+]
